@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4374</id>
+      <email>phannhuquynh1211@gmail.com</email>
+      <username/>
+      <name>Quỳnh Như</name>
+      <im>4374_image.jpeg</im>
+      <gender>2</gender>
+      <dob>1996-11-12</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475118369</created>
+      <day>12</day>
+      <month>11</month>
+      <year>1996</year>
+      <phone>0935434554</phone>
+      <address>64trần bình trọng p5 quận bình thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.813832</lat>
+      <lng>106.687307</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>15,17,27,35</category>
+      <type>4,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Kỹ năng bán hàng, giao tiếp</skill>
+      <ui>4374</ui>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>Sinh viên năm 3 của trường CĐ KINH TẾ ĐỐI NGOẠI</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>267</strjo>
+  </appliedjob>
+</information>

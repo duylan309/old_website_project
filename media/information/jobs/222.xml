@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>222</id>
+    <ui>1588</ui>
+    <ci>299</ci>
+    <ai>0</ai>
+    <ti>Pha chế - phục vụ</ti>
+    <ta/>
+    <le>2</le>
+    <ty>6</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description>Pha chế món nước và phục vụ khách hàng.</description>
+    <requirement>Vui vẻ, hoà đồng có ý thức công việc. Đặt quyền lợi khách hàng lên hàng đầu.chịu khó cần cù... Sẽ trao đổi thêm khi phỏng vấn...</requirement>
+    <benefit/>
+    <keyword>Nhiệt tình,Tinh thần trách nhiệm,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Tinh thần làm việc nhóm</keyword>
+    <ad/>
+    <location_id>122</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-10-30</de>
+    <re>0000-00-00</re>
+    <cr>1477134437</cr>
+  </db>
+  <more>
+    <requirement>Vui vẻ, hoà đồng có ý thức công việc. Đặt quyền lợi khách hàng lên hàng đầu.chịu khó cần cù... Sẽ trao đổi thêm khi phỏng vấn...</requirement>
+    <description>Pha chế món nước và phục vụ khách hàng.</description>
+    <workhour>8h-13h, 12h-17h, 18h-11h</workhour>
+    <benefit/>
+    <keyword>Nhiệt tình,Tinh thần trách nhiệm,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Tinh thần làm việc nhóm</keyword>
+  </more>
+  <userapplied>
+    <total>196</total>
+    <strui>1591,1482,940,1627,1625,1648,292,1689,1444,1708,1540,1710,1740,823,1763,1813,1029,1850,1886,1889,1783,1977,1978,626,2124,2134,2144,2186,2212,1802,2336,1433,2432,2454,2468,2476,2005,2510,2541,2549,2555,2569,666,2596,2755,2508,1342,2871,2884,2950,2715,2972,2974,2995,3003,3017,3042,3046,3055,3100,3131,3141,2502,1602,3212,3413,3445,3479,1280,3494,3506,3532,3547,3572,3609,2577,3645,2963,3356,3802,3850,3877,2262,3967,1569,3908,3727,4049,3754,4160,3742,4189,4199,4210,2753,4266,3293,4278,3027,2332,4408,4436,1503,1279,4312,4526,4531,4542,4593,4634,4651,4679,4125,4708,4730,2515,4753,4764,4793,4825,4827,4766,4880,4150,4967,4974,4978,5003,1274,5042,4795,4833,425,4595,5205,4483,5242,4639,5302,5308,5351,5356,5085,5428,3798,1605,5467,4474,3652,5585,5453,4181,5728,5741,5740,5765,5797,5815,5811,5868,5884,3022,4340,4738,5959,6056,6229,5391,6272,6351,6360,5111,6287,3634,6584,6591,6018,5500,6675,6735,6734,6809,6892,6945,7002,7075,7191,5615,3668,7636,7693,4865,7763,3332,5107,1365</strui>
+  </userapplied>
+</information>

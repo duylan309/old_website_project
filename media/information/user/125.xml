@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>125</id>
+      <email>ryan.le14@gmail.com</email>
+      <username/>
+      <name>Lê Duy Lân</name>
+      <im>125_profile.jpg</im>
+      <gender>1</gender>
+      <category/>
+      <phone>01267543789</phone>
+      <address>149 nguyen thi dinh</address>
+      <city>30</city>
+      <dob>1990-9-30</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1461135183</created>
+      <dayleft>0</dayleft>
+      <deactive>0</deactive>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <day>30</day>
+      <month>9</month>
+      <year>1990</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.76373</lat>
+      <lng>106.776082</lng>
+      <is_received_email>0</is_received_email>
+    </db>
+    <password>
+      <lastupdate>1469857663</lastupdate>
+    </password>
+  </userinfo>
+  <savedjob>
+    <total>2</total>
+    <strjo>79,103</strjo>
+  </savedjob>
+  <user_cv>
+    <db>
+      <ui>125</ui>
+      <title>Nhân viên phục vụ </title>
+      <category>14,15,16</category>
+      <location>30</location>
+      <type>1,2</type>
+      <level>1,2</level>
+      <experience>1</experience>
+      <lang>en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <skill>- Khả năng trình bày ý tưởng tốt - Tinh thần teamwork cao, thíchlàm việc giữa người với người - Quản lý thời gian, có trách nhiệm và tôn trọng deadline.</skill>
+      <keyword>Comprehensive Communication,Customer service,Enthusiasm,Confidence,Tập trung trong công việc,Tinh thần làm việc nhóm</keyword>
+      <about>Một sinh viên năm Ba đầy nhiệt - năng lượng với khát khao được mở rộng kiến thức của mình trong lĩnh vực Marketing, đặc biệt là Digital Marketing bằng những trải nghiệm thực tế và hiệu quả tại công ty . Sau thời gian “thực tập bao lâu tuỳ thích”, mong muốn bản thân sẽ hoàn thiện hơn để có thể gắn bó với công ty lâu dài.</about>
+      <deactive>0</deactive>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>11</total>
+    <strjo>94,103,102,118,123,146,209,281,325,407,193</strjo>
+  </appliedjob>
+  <experience>
+    <n_1357>
+      <id>1357</id>
+      <title>Waitress</title>
+      <level>1</level>
+      <cmpname>Alfresco</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Viet Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_1357>
+  </experience>
+  <education>
+    <n_1123>
+      <id>1123</id>
+      <school>Kent</school>
+      <degrees>Cao Dang</degrees>
+      <fieldofstudy>IT</fieldofstudy>
+      <from>2010</from>
+      <to>2013</to>
+    </n_1123>
+  </education>
+</information>

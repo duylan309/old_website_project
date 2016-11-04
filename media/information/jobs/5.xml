@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>5</id>
+    <ui>24</ui>
+    <ci>24</ci>
+    <ai>0</ai>
+    <ti>Quality manager</ti>
+    <ta/>
+    <le>2</le>
+    <ex>2</ex>
+    <sa>1</sa>
+    <lo>23,30</lo>
+    <ca>14,15,16</ca>
+    <so>0</so>
+    <st></st>
+    <de>0000-00-00</de>
+    <re>0000-00-00</re>
+    <cr>1460957985</cr>
+    <sn>0</sn>
+    <ty>1</ty>
+    <s1>800</s1>
+    <s2>1200</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <la></la>
+  </db>
+  <more>
+    <number>10</number>
+    <requirement>- Tốt nghiệp Đại học hoặc các bậc cao hơn, năm tốt nghiệp từ 2014 – 2016. &#13;
+- Yêu thích Game.</requirement>
+    <description>- Quản lý Chất lượng của các dòng Game đang phát hành trên tất cả các hệ máy PS4, PSVITA, Windows, iOS, Android do Tập Đoàn&#13;
+- Test các tựa Game đang trong quá trình phát triển và kiểm tra xem có lỗi phát sinh hay không.&#13;
+- Đánh giá chất lượng các tựa game sắp được bán ra.</description>
+  </more>
+  <userapplied>
+    <total>1</total>
+    <strui>3</strui>
+  </userapplied>
+</information>

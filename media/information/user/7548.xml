@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7548</id>
+      <email>Han.ledoan1995@gmail.com</email>
+      <username/>
+      <name>Lê doãn thu hân</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0933456921</phone>
+      <address>167/16 sư vạn hanh</address>
+      <city>30</city>
+      <dob>1995-12-1</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477306384</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>1</day>
+      <month>12</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7580341</lat>
+      <lng>106.6739183</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Reception</title>
+      <experience>1</experience>
+      <category>20</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>en</lang>
+      <skill></skill>
+      <ui>7548</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Em xin chào bộ phận nhân sư, cám ơn anh hoặc chị đã đọc qua phần giới thiệu bản thân, em là Hân, sinh viên trường Hutech và sắp kết thúc chương trình học 3 năm. Hiện tại em đang làm bên khách sạn Novotel Saigon Centre cũng được 6 tháng bên bộ phận F&amp;B. Lý do em nôp file ứng tuyển dụng là vì em  muốn có trãi nghiệm mới và thay đổi môi trường làm, và có nhiều kinh nghiệm làm viêc. Em xin hết. Cám ơn anh hoặc chị bộ phận nhân sự đã đọc qua.</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>131</strjo>
+  </appliedjob>
+  <experience>
+    <n_1477>
+      <id>1477</id>
+      <title>F&amp;B</title>
+      <level>1</level>
+      <cmpname>Novotel saigon centre</cmpname>
+      <city>Hồ chí minh</city>
+      <country>Việt nam</country>
+      <from>Tháng 6</from>
+      <to>Nay</to>
+    </n_1477>
+  </experience>
+  <education>
+    <n_1227>
+      <id>1227</id>
+      <school>Đại học công nghệ hute h</school>
+      <degrees>Cao đẳng</degrees>
+      <fieldofstudy>Quản trị khách sạn</fieldofstudy>
+      <from>2013</from>
+      <to>2016</to>
+    </n_1227>
+  </education>
+</information>

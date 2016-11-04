@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7303</id>
+      <email>moimong_1998@yahoo.com.vn</email>
+      <username/>
+      <name>Phạm Quỳnh Lan Vy</name>
+      <im>796010633835933_pham-quynh-lan-vy.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477148475</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1431>
+      <id>1431</id>
+      <title>Nhân viên</title>
+      <level>1</level>
+      <cmpname>Cà phê vesly</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>5/2015</from>
+      <to>9/2015</to>
+    </n_1431>
+  </experience>
+</information>

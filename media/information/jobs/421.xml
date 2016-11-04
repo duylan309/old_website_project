@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>421</id>
+    <ui>3628</ui>
+    <ci>388</ci>
+    <ai>0</ai>
+    <ti>Nhân viên bếp</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1,4</ty>
+    <ex>2</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>4500000</s1>
+    <s2>5000000</s2>
+    <s3>204</s3>
+    <s4>227</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>29,35</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description>- Sơ chế, chế biến, chuẩn bị nguyên vật liệu.\r\n- Dọn dẹp vệ sinh khu vực làm việc.\r\n- Hỗ trợ nhân viên bếp thực hiện công việc theo yêu cầu.\r\n- Làm việc ca xoay 8 tiếng (ca 1: 8h30-17h; ca 2: 14h30-22h30), 6 ngày/tuần, 4 ngày nghỉ/tháng, yêu cầu làm được cuối tuần, Lễ Tết\r\n* ĐỊA ĐIỂM LÀM VIỆC:\r\nHCM: tiNiWorld Sài Gòn center quận 1\r\nBH: Vincom Biên Hòa\r\n\r\n</description>
+    <requirement>- Kinh nghiệm: Không bắt buộc, yêu cầu ứng viên học qua về nghiệp vụ bếp nếu chưa có kinh nghiệm làm việc.\r\n- Trình độ: 12/12 hay chứng chỉ nghề bếp và chế biến món ăn.\r\n- Kỹ năng: tổ chức và sắp xếp công việc, nhanh nhạy và tháo vát, có khả năng hướng dẫn nhân viên mới và sáng tạo món ăn mới.\r\n- Ngoại ngữ: không yêu cầu.\r\n- Kiến thức: có kiến thức liên quan đến thực phẩm và chế biến món ăn, hiểu về VSATTP và sơ chế biến thực phẩm.</requirement>
+    <benefit>-	Lương cạnh tranh và xứng đáng.\r\n-	12 ngày phép/năm, 4 ngày nghỉ/tháng.\r\n-	Làm dịp lễ tết được tính lương bằng 4 lần lương ngày thường.\r\n-	Đánh giá &amp; thưởng cuối năm theo KPI.\r\n-	Môi trường làm việc vui nhộn, sáng tạo, tinh thần làm việc nhóm cao với nhiều hoạt động xây dựng đội nhóm và các khóa đào tạo phát triển.\r\n-	Chế độ thăng tiến và cơ hội phát triển nghề nghiệp rộng mở.</benefit>
+    <keyword/>
+    <ad/>
+    <location_id>292</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>1969-12-31</de>
+    <re>0000-00-00</re>
+    <cr>1476099558</cr>
+  </db>
+  <more>
+    <description>- Sơ chế, chế biến, chuẩn bị nguyên vật liệu.&#13;
+- Dọn dẹp vệ sinh khu vực làm việc.&#13;
+- Hỗ trợ nhân viên bếp thực hiện công việc theo yêu cầu.&#13;
+- Làm việc ca xoay 8 tiếng (ca 1: 8h30-17h; ca 2: 14h30-22h30), 6 ngày/tuần, 4 ngày nghỉ/tháng, yêu cầu làm được cuối tuần, Lễ Tết&#13;
+* ĐỊA ĐIỂM LÀM VIỆC:&#13;
+HCM: tiNiWorld Sài Gòn center quận 1&#13;
+BH: Vincom Biên Hòa&#13;
+&#13;
+</description>
+    <requirement>- Kinh nghiệm: Không bắt buộc, yêu cầu ứng viên học qua về nghiệp vụ bếp nếu chưa có kinh nghiệm làm việc.&#13;
+- Trình độ: 12/12 hay chứng chỉ nghề bếp và chế biến món ăn.&#13;
+- Kỹ năng: tổ chức và sắp xếp công việc, nhanh nhạy và tháo vát, có khả năng hướng dẫn nhân viên mới và sáng tạo món ăn mới.&#13;
+- Ngoại ngữ: không yêu cầu.&#13;
+- Kiến thức: có kiến thức liên quan đến thực phẩm và chế biến món ăn, hiểu về VSATTP và sơ chế biến thực phẩm.</requirement>
+    <benefit>-	Lương cạnh tranh và xứng đáng.&#13;
+-	12 ngày phép/năm, 4 ngày nghỉ/tháng.&#13;
+-	Làm dịp lễ tết được tính lương bằng 4 lần lương ngày thường.&#13;
+-	Đánh giá &amp; thưởng cuối năm theo KPI.&#13;
+-	Môi trường làm việc vui nhộn, sáng tạo, tinh thần làm việc nhóm cao với nhiều hoạt động xây dựng đội nhóm và các khóa đào tạo phát triển.&#13;
+-	Chế độ thăng tiến và cơ hội phát triển nghề nghiệp rộng mở.</benefit>
+  </more>
+  <userapplied>
+    <total>11</total>
+    <strui>4353,4833,2302,5796,5844,5741,6136,6333,5677,6581,2823</strui>
+  </userapplied>
+</information>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2990</id>
+      <email>Mindo91.bb@gmail.com</email>
+      <username/>
+      <name>Đỗ Đức Đài</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0936906662</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474138492</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,16</category>
+      <type>1,2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>2990</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>238,235,112</strjo>
+  </appliedjob>
+</information>

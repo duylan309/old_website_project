@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5740</id>
+      <email>ng.thaihien98@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thái Hiền</name>
+      <im>5740_img-4811.JPG</im>
+      <gender>2</gender>
+      <phone>01266215182</phone>
+      <address>149/55 Luỹ Bán Bích, phường Tân Thới Hoà, quận Tân Phú</address>
+      <city>30</city>
+      <dob>1998-5-31</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476166123</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476166123</last_signin>
+      <day>31</day>
+      <month>5</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.766016</lat>
+      <lng>106.629439</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_953>
+      <id>953</id>
+      <school>Đại học Công nghệ TP.HCM</school>
+      <degrees/>
+      <fieldofstudy>Ngôn ngữ Anh</fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_953>
+  </education>
+  <user_cv>
+    <db>
+      <ui>5740</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>7</experience>
+      <category>14,15,17,31,35</category>
+      <type>2,4,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Tôi là người chăm chỉ, kiên trì, thích tìm tòi, học hỏi và sáng tạo những điều mới mẻ. Tôi hy vọng sẽ tìm kiếm được công việc phù hợp với bản thân để tích luỹ kinh nghiệm và mở rộng thêm nhiều mối quan hệ.</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <savedjob>
+    <total>5</total>
+    <strjo>364,427,348,199,258</strjo>
+  </savedjob>
+  <appliedjob>
+    <total>2</total>
+    <strjo>427,222</strjo>
+  </appliedjob>
+</information>

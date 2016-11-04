@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3433</id>
+      <email>mytrang.nguyen0710@icloud.com</email>
+      <username/>
+      <name>Nguyễn Đoan Trang</name>
+      <im>1107675782681602_nguyen-doan-trang.jpg</im>
+      <gender>2</gender>
+      <dob>1994-10-7</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474624494</created>
+      <day>7</day>
+      <month>10</month>
+      <year>1994</year>
+      <phone>0933106794</phone>
+      <address>216 Nguyễn Thái Học Quận 1</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7655093</lat>
+      <lng>106.696858</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Cashier</title>
+      <experience>2</experience>
+      <category>29</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Thao tác cashier tốt&#13;
+Nghiệp vụ tiếng anh căn bản</skill>
+      <ui>3433</ui>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <about>Có 3 năm kinh nghiệm ngành retail&#13;
+Có 1 năm kinh nghiệm cashier</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>142,326,249,259</strjo>
+  </appliedjob>
+</information>

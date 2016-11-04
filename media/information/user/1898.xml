@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1898</id>
+      <email>bartendervo0803@gmail.com</email>
+      <username/>
+      <name>Võ Thành Trung</name>
+      <im>1473054984_vo-thanh-trung.jpg</im>
+      <gender>1</gender>
+      <phone>0936738726</phone>
+      <address>989/7/14, lê đức thọ, phường 16,quận gò vấp.</address>
+      <city>30</city>
+      <dob>1992-3-8</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473054984</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>8</day>
+      <month>3</month>
+      <year>1992</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.850929</lat>
+      <lng>106.661641</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>pha chế bartender</title>
+      <experience>1</experience>
+      <category>14,15,16,26</category>
+      <type>2,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>pha chế được nhiều loại cocktail.</skill>
+      <ui>1898</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <keyword></keyword>
+      <about></about>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>189</strjo>
+  </appliedjob>
+</information>

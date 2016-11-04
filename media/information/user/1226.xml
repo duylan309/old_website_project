@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1226</id>
+      <email>a_quoc_0602@yahoo.com</email>
+      <username/>
+      <name>Anhquoc Tranduy</name>
+      <im>1034120663368630_anhquoc-tranduy.jpg</im>
+      <gender>1</gender>
+      <dob>1988-2-6</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471956056</created>
+      <day>6</day>
+      <month>2</month>
+      <year>1988</year>
+      <phone>0907909591</phone>
+      <address>315/20c le van sy phuong 13 quan 3</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.786532</lat>
+      <lng>106.677868</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>bep</title>
+      <experience>2</experience>
+      <category>14</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>lam phu bep 2 nam</skill>
+      <ui>1226</ui>
+      <s1>5500000</s1>
+      <salary>1</salary>
+      <keyword>Tinh thần làm việc nhóm,Chịu được áp lực công việc,Nhiệt tình,Tập trung trong công việc</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>136</strjo>
+  </appliedjob>
+</information>

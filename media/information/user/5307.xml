@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5307</id>
+      <email>thainguyenstreet@gmail.com</email>
+      <username/>
+      <name>Nguyễn Hồng Thái</name>
+      <im>1475877753_nguyen-hong-thai.png</im>
+      <gender>0</gender>
+      <phone>0963037939</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475877753</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Bếp: Chảo phụ hoặc Thớt</title>
+      <experience>3</experience>
+      <category>14,20</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Tôi biết khắc tỉa hoa và khắc chữ trên dưa hấu</skill>
+      <ui>5307</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>352</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>352</strjo>
+  </savedjob>
+</information>

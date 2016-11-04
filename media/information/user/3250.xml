@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3250</id>
+      <email>yuduong005@gmail.com</email>
+      <username/>
+      <name>Huỳnh Thị Hoàng Oanh</name>
+      <im>1474456948_huynh-thi-hoang-oanh.png</im>
+      <gender>0</gender>
+      <phone>0908026930</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474456947</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên thu ngân</title>
+      <experience>2</experience>
+      <category>14,15</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>3250</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>107</strjo>
+  </appliedjob>
+</information>

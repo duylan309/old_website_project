@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3734</id>
+      <email>muoimuoi970@gmail.com</email>
+      <username/>
+      <name>Thu Jenda</name>
+      <im>1799519010324360_thu-jenda.jpg</im>
+      <gender>2</gender>
+      <dob>1997-1-5</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474797271</created>
+      <day>5</day>
+      <month>1</month>
+      <year>1997</year>
+      <phone>0962840859</phone>
+      <address>1005/35 nguyễn kiệm p7 gò vấp</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8152847</lat>
+      <lng>106.6785983</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>3734</ui>
+      <title>nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <about>- nhút nhát &#13;
+</about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

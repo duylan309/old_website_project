@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5296</id>
+      <email>nguyenhongtrang98@gmail.com</email>
+      <username/>
+      <name>Nguyễn Hồng Trang</name>
+      <im>5296_unnamed.jpg</im>
+      <gender>2</gender>
+      <dob>1998-6-30</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475861399</created>
+      <day>30</day>
+      <month>6</month>
+      <year>1998</year>
+      <last_signin>1475861399</last_signin>
+      <phone>01692257515</phone>
+      <address>chung cư Phú Hoàng Anh 1, đường Nguyễn Hữu Thọ, quận 7</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7326801</lat>
+      <lng>106.6999022</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>5296</ui>
+      <title>Nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>14,15,36</category>
+      <type>2</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <s1>500000</s1>
+      <salary>1</salary>
+      <about>Em đang là sinh viên năm nhất, có mong muốn được đi làm thêm có thêm kinh nghiệm. Tuy em ít có kinh nghiệm nhưng em chắc chắn là người có trách nhiệm, năng động, nhiệt tình với công việc. </about>
+      <skill>có thể giao tiếp thành thạo tiếng Anh</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>172,84,165,219,427</strjo>
+  </appliedjob>
+</information>

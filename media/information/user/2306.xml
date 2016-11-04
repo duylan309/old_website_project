@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2306</id>
+      <email>Tangphuonganh910@yahoo.com</email>
+      <username/>
+      <name>Tăng Phương Anh</name>
+      <im>1473390527_tang-phuong-anh.jpg</im>
+      <gender>0</gender>
+      <phone>0976678681</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473390527</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>2306</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>219</strjo>
+  </appliedjob>
+</information>

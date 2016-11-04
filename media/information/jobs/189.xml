@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>189</id>
+    <ui>1318</ui>
+    <ci>280</ci>
+    <ai>0</ai>
+    <ti>Bartender</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>2</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>4000000</s1>
+    <s2>6000000</s2>
+    <s3>181</s3>
+    <s4>272</s4>
+    <lo/>
+    <co>vn,for</co>
+    <ca>15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>9</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description>Pha chế cơ bản tại quán cafe\r\nNăng động, hoàn tất nước uống nhanh chóng khi quán có events</description>
+    <requirement>Nhanh nhẹn, hoà đồng</requirement>
+    <benefit>Được off 1 ngày/ tuần</benefit>
+    <keyword>Tập trung trong công việc,Nhiệt tình,Tinh thần làm việc nhóm,Trung thực</keyword>
+    <ad/>
+    <location_id>103</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-10-24</de>
+    <re>0000-00-00</re>
+    <cr>1473866658</cr>
+  </db>
+  <more>
+    <requirement>Nhanh nhẹn, hoà đồng</requirement>
+    <description>Pha chế cơ bản tại quán cafe&#13;
+Năng động, hoàn tất nước uống nhanh chóng khi quán có events</description>
+    <benefit>Được off 1 ngày/ tuần</benefit>
+    <keyword>Tập trung trong công việc,Nhiệt tình,Tinh thần làm việc nhóm,Trung thực</keyword>
+  </more>
+  <userapplied>
+    <total>11</total>
+    <strui>971,292,1413,1610,1686,1786,1802,1898,2224,2588,3156</strui>
+  </userapplied>
+</information>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6442</id>
+      <email>vochi111@gmail.com</email>
+      <username/>
+      <name>Chi Mỹ Võ Thị</name>
+      <im>642036142623310_chi-my-vo-thi.jpg</im>
+      <gender>2</gender>
+      <dob>1994-2-26</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476604057</created>
+      <day>26</day>
+      <month>2</month>
+      <year>1994</year>
+      <phone>01202442322</phone>
+      <address>271/2 An Dương Vương, Phường 3, Quận 5, TP HCM</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7600173</lat>
+      <lng>106.6805294</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phụ bếp</title>
+      <experience>7</experience>
+      <category>14,19,29</category>
+      <type>5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Chăm chỉ, tỉ mỉ và am hiểu đôi chút về ẩm thực</skill>
+      <ui>6442</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>276,153</strjo>
+  </appliedjob>
+</information>

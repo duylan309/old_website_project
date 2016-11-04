@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2957</id>
+      <email>tiexo31@gmail.com</email>
+      <username/>
+      <name>Trần Đặng Quỳnh Anh</name>
+      <im>642964085871838_quynh-anh.jpg</im>
+      <gender>2</gender>
+      <dob>1997-5-12</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474105260</created>
+      <day>12</day>
+      <month>5</month>
+      <year>1997</year>
+      <last_signin>1474105260</last_signin>
+      <phone>01883541306</phone>
+      <address>108/20B Trần Quang Diệu F14 Q3</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7899619</lat>
+      <lng>106.679717</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>2957</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>7</experience>
+      <category>14,15,27,29</category>
+      <type>1</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>12-15 tuổi học tại Trường THCS Bạch Đằng&#13;
+16-18 tuổi học tại  Trường THPT Hồng Hà&#13;
+19 tuổi học tại Trường Cao Đẳng Công Nghệ Thực Phẩm (chuyên nghành kiểm nghiệm thực phẩm) &#13;
+Từng làm tại Chip Chip Shop (6 tháng)&#13;
+</about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

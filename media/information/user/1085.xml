@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1085</id>
+      <email>vothikimthai1996@gmail.com</email>
+      <username/>
+      <name>Võ Thị Kim Thái</name>
+      <im>816329398502796_kim-thai-vo.jpg</im>
+      <gender>2</gender>
+      <dob>1996-2-16</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471698310</created>
+      <day>16</day>
+      <month>2</month>
+      <year>1996</year>
+      <phone>0902842254</phone>
+      <address>76/22 Bà Hom P13 Q6</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.754483</lat>
+      <lng>106.632806</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>1085</ui>
+      <title>Nhân viên thu ngân, phục vụ</title>
+      <experience>2</experience>
+      <category>14</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>en</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng giải quyết tình huống,Trung thực,Tự tin</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>84,364,92</strjo>
+  </appliedjob>
+</information>

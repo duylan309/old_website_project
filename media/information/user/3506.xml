@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3506</id>
+      <email>samboluong114@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Ngọc Hiến</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0927606609</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474650736</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên pha chế</title>
+      <experience>2</experience>
+      <category>15,17,20,27,29,35</category>
+      <type>2,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>3506</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>201,222,294</strjo>
+  </appliedjob>
+  <education>
+    <n_570>
+      <id>570</id>
+      <school>Trung cấp nghề Việt Giao</school>
+      <degrees>Nghiệp vụ</degrees>
+      <fieldofstudy>Pha chế</fieldofstudy>
+      <from>2013</from>
+      <to>2013</to>
+    </n_570>
+  </education>
+  <experience>
+    <n_776>
+      <id>776</id>
+      <title>Nhân viên pha chế</title>
+      <level>1</level>
+      <cmpname>Tyla coffee</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2013</from>
+      <to>2015</to>
+    </n_776>
+  </experience>
+</information>

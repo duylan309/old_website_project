@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>526</id>
+      <email>mynah.cr03@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Mỹ Anh</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0906980250</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470388059</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên part time</title>
+      <experience>7</experience>
+      <category>17,26,29,35</category>
+      <type>5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Marketing online&#13;
+Tin học văn phòng&#13;
+Có kiến thức về thiết kế đồ hoạ</skill>
+      <ui>526</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>82</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7212</id>
+      <email>hotrucanhhoa@gmail.com</email>
+      <username/>
+      <name>Ho Truc Anh</name>
+      <im>7212_1475916846975-526.jpg</im>
+      <gender>2</gender>
+      <dob>1994-12-24</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477117788</created>
+      <day>24</day>
+      <month>12</month>
+      <year>1994</year>
+      <last_signin>1477117788</last_signin>
+      <phone>01265888845</phone>
+      <address>Quận 7. Hồ Chí Minh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7340344</lat>
+      <lng>106.7215787</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1415>
+      <id>1415</id>
+      <title>Nhân viên nhà hàng</title>
+      <level>1</level>
+      <cmpname>Lotte Legend Hotel Saigon</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>việt nam</country>
+      <from>10/2014</from>
+      <to>02/2016</to>
+    </n_1415>
+  </experience>
+  <education>
+    <n_1175>
+      <id>1175</id>
+      <school>Quản Lý Khách Sạn Việt Úc</school>
+      <degrees>Trung cấp nghề</degrees>
+      <fieldofstudy>Quản Trị Khách Sạn quốc Tế</fieldofstudy>
+      <from>7/2014</from>
+      <to>12/2016</to>
+    </n_1175>
+  </education>
+  <user_cv>
+    <db>
+      <ui>7212</ui>
+      <title>F&amp;B Attendant</title>
+      <experience>2</experience>
+      <category>14,15,20</category>
+      <type>1,4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>7000000</s1>
+      <salary>1</salary>
+      <about>Tôi đã học hệ trung cấp ngành quản trị khách sạn quốc tế và có kinh nghiệm làm việc 1.5 năm tại khách sạn Lotte Legend. &#13;
+Trong công việc tôi là người ham học hỏi, có trách nhiệm và chủ động. &#13;
+Hiện nay tôi đang tìm việc phù hợp với sở thích và chuyên ngành của mình nhằm phát huy tốt các kỹ năng cũng như kiến thức bản thân tích luỹ được.</about>
+      <skill>Làm việc nhóm&#13;
+Tin học văn phòng.&#13;
+Thuyết trình - trình bày&#13;
+Quản lý công việc hiệu quả</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>12</total>
+    <strjo>364,475,460,386,477,482,415,447,444,340,284,394</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>364</strjo>
+  </savedjob>
+</information>

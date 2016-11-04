@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3798</id>
+      <email>hoangkimdung260296@gmail.com</email>
+      <username/>
+      <name>Hoàng Kim Dung</name>
+      <im>1474861469_hoang-kim-dung.png</im>
+      <gender>2</gender>
+      <phone>0906365421</phone>
+      <address>94B1 phùng văn cung phường 7 quận phú nhuận</address>
+      <city>30</city>
+      <dob>1996-2-26</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474861469</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>26</day>
+      <month>2</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8010638</lat>
+      <lng>106.6851951</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phụ bếp</title>
+      <experience>7</experience>
+      <category>14</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Phụ bếp ,chuẩn bị nguyên liệu</skill>
+      <ui>3798</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Tôi chưa có kinh nghiệm nhiều, chính vì thế tôi muốn được hoà hợp ,học hỏi hơn khi được làm việc trong môi trường chuyên nghiệp ,thân thiện! Mong nhận được câu trả lời sớm nhất. Tôi cám ơn</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>21</total>
+    <strjo>182,153,114,154,276,124,188,183,360,361,222,294,193,358,406,371,400,474,408,443,459</strjo>
+  </appliedjob>
+  <education>
+    <n_625>
+      <id>625</id>
+      <school>THCS-THPT Vạn Hạnh</school>
+      <degrees>Tốt nghiệp 12</degrees>
+      <fieldofstudy>Không</fieldofstudy>
+      <from>2008</from>
+      <to>2015</to>
+    </n_625>
+  </education>
+  <savedjob>
+    <total>8</total>
+    <strjo>124,153,276,193,114,361,443,459</strjo>
+  </savedjob>
+</information>

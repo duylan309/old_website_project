@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2144</id>
+      <email>Nguyentruongphucthao0912@gmail.com</email>
+      <username/>
+      <name>Nguyễn Trương Phúc Thảo</name>
+      <im>2144_14284920-1108693845853272-624963652-o.jpg</im>
+      <gender>2</gender>
+      <phone>01673335381</phone>
+      <address>134/1 đường sô 2- phường 3- quận Gò vấp</address>
+      <city>30</city>
+      <dob>1995-1-1</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473258424</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>1</day>
+      <month>1</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8216404</lat>
+      <lng>106.6754498</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,17,35</category>
+      <type>2,4,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill>Kỹ năng giải quyết vấn đề</skill>
+      <ui>2144</ui>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>Tên: Nguyễn Trương Phúc Thảo&#13;
+Hiện đang học Cao đẳng dược- ĐH Nguyễn Tất Thành&#13;
+Mong tìm được việc làm thêm để vừa phụ giúp gia đình và học hỏi thêm nhiều kinh nghiệm&#13;
+Biết chịu khó,lắng nghe,học hỏi</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>202,222,105</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>105</strjo>
+  </savedjob>
+</information>

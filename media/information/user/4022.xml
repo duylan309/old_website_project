@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4022</id>
+      <email>thiennguyenn92@gmail.com</email>
+      <username/>
+      <name>nguyễn phụng thiên</name>
+      <im>4022_10570560-350774151737757-5831575171798619794-n.jpg</im>
+      <gender>1</gender>
+      <phone>0985339106</phone>
+      <address>6 Lê Lợi ,P4 ,Q.Gò Vấp ,Tp.HCM</address>
+      <city>30</city>
+      <dob>1992-2-7</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474951475</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>7</day>
+      <month>2</month>
+      <year>1992</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7764745</lat>
+      <lng>106.7008831</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>bảo vệ</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>6</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill>nhiệt tình ,chăm chỉ</skill>
+      <ui>4022</ui>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>sinh viên </about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>299</strjo>
+  </appliedjob>
+  <education>
+    <n_653>
+      <id>653</id>
+      <school>Đại Học Công Nghiệp HCM</school>
+      <degrees/>
+      <fieldofstudy>Kĩ Thuật Cơ Khí</fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_653>
+  </education>
+</information>

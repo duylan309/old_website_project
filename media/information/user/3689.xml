@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3689</id>
+      <email>babi_tiger2002@yahoo.com</email>
+      <username/>
+      <name>Võ Mai Vi</name>
+      <im>902744786496760_vo-mai-vi.jpg</im>
+      <gender>2</gender>
+      <dob>1992-4-28</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474775128</created>
+      <day>28</day>
+      <month>4</month>
+      <year>1992</year>
+      <phone>01223533467</phone>
+      <address>205/18.cmt8. Phường 14. Quận 3. Tp HCM</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.783247</lat>
+      <lng>106.6684705</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>3689</ui>
+      <title>Thu ngân</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>1,4,6</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Tôi tên: Võ Mai Vi&#13;
+Sinh năm: 28/04/1992&#13;
+Trình độ HV: 12/12&#13;
+Quê quán: Tây Ninh &#13;
+Nơi ở hiện tại: Q3&#13;
+Tính tình: vui vẻ,  hoạt bát</about>
+      <skill>Tôi có  khả năng giao tiếp tốt. </skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>322,205,156,324</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>205</strjo>
+  </savedjob>
+</information>

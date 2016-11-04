@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>613</id>
+      <email>p3_phuong24@yahoo.com</email>
+      <username/>
+      <name>Trần Huệ Phương</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01225654556</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470639775</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chể</title>
+      <experience>1</experience>
+      <category>14,16,19,20</category>
+      <type>1,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>613</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>119</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6673</id>
+      <email>nguyencongbang20002000@gmail.com</email>
+      <username/>
+      <name>nguyễn công bằng</name>
+      <im/>
+      <gender>1</gender>
+      <phone>01204643100</phone>
+      <address>354 chung cư bưu điện đường lý thường kiệt quận 10</address>
+      <city>30</city>
+      <dob>2000-2-20</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476774644</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>20</day>
+      <month>2</month>
+      <year>2000</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7772415</lat>
+      <lng>106.6584509</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,31</category>
+      <type>2,4,5</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>6673</ui>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>8</total>
+    <strjo>154,165,386,162,474,448,472,419</strjo>
+  </appliedjob>
+  <experience>
+    <n_1342>
+      <id>1342</id>
+      <title>phục vụ</title>
+      <level>1</level>
+      <cmpname>coffe and coffe</cmpname>
+      <city>hồ chí minh</city>
+      <country>việt nam</country>
+      <from>12/5</from>
+      <to>12/7</to>
+    </n_1342>
+  </experience>
+</information>

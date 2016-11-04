@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2712</id>
+      <email>anhntn251195@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Ngọc Ánh</name>
+      <im>1473780308_nguyen-thi-ngoc-anh.png</im>
+      <gender>0</gender>
+      <phone>01228803375</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473780308</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ, pha chế, trợ lý cửa hàng</title>
+      <experience>2</experience>
+      <category>14,15,20</category>
+      <type>2,4,5,6</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <skill>giải quyết vấn đề &#13;
+làm việc nhóm </skill>
+      <ui>2712</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>181</strjo>
+  </appliedjob>
+</information>

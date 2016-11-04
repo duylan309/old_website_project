@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7460</id>
+      <email>tram.tc30@gmail.com</email>
+      <username/>
+      <name>Đinh Thị Trâm</name>
+      <im>1477274772_dinh-thi-tram.png</im>
+      <gender>0</gender>
+      <phone>0975684507</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477274772</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế hoặc phụ bếp bánh</title>
+      <experience>1</experience>
+      <category>14,15,20,27,29,35,36</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>7460</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>153</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>301</id>
+    <ui>3112</ui>
+    <ci>343</ci>
+    <ai>0</ai>
+    <ti>Nhân viên phục vụ</ti>
+    <ta/>
+    <le>2</le>
+    <ty>4</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>3700000</s1>
+    <s2>4000000</s2>
+    <s3>168</s3>
+    <s4>181</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14,20</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>195</location_id>
+    <lat>10.778887</lat>
+    <lng>10.778887</lng>
+    <de>2016-10-19</de>
+    <re>0000-00-00</re>
+    <cr>1474290940</cr>
+  </db>
+  <more>
+    <requirement>Có ngoại hình dễ nhìn </requirement>
+    <description>Sắp xếp đô dùng cũng như chuẩn bị thức ăn cho khách dùng buffet.....</description>
+    <benefit>&#13;
+Chúng tôi không yêu cầu phải có kinh nghiệm, chúng tôi chỉ mong các bạn nhiệt tình, hòa đồng và biết cách sắp xếp công việc hợp lý. Các kỹ năng chuyên môn sẽ được củng cố và bồi dưỡng cho các bạn. Với mức lương tốt và chế độ nghỉ hợp lý, chúng tôi tin các bạn sẽ có một môi trường làm việc thử thách nhưng cũng sẽ rèn luyện và trưởng thành hơn rất nhiều</benefit>
+    <keyword>Phục vụ nhà hàng,Tinh thần trách nhiệm</keyword>
+  </more>
+  <userapplied>
+    <total>79</total>
+    <strui>1480,940,3172,3177,3218,3209,292,3353,2332,3452,3451,2337,3476,3474,3450,3633,3635,3767,3768,3773,3834,3950,3954,3908,4119,4135,4205,3315,3405,4312,4338,4331,4345,4360,4372,4391,4203,4472,4590,4601,3657,4566,4728,4738,4853,4898,4948,3668,4679,1605,5256,5310,2995,5500,5580,5647,4833,5879,5987,6056,6207,6214,5828,6244,6377,6416,6061,6500,6499,6513,6638,6779,6761,6837,6838,1315,7283,7832,7891</strui>
+  </userapplied>
+</information>

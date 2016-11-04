@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7745</id>
+      <email>nguyenngoc08.97@gmail.com</email>
+      <username/>
+      <name>Ngọc Nguyễn</name>
+      <im>556122287921152_ngoc-nguyen.jpg</im>
+      <gender>2</gender>
+      <dob>1997-8-27</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477416965</created>
+      <day>27</day>
+      <month>8</month>
+      <year>1997</year>
+      <phone>01684892797</phone>
+      <address>Đoàn Văn Bơ, quận 4, TP HCM</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7335118</lat>
+      <lng>106.6974634</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14</category>
+      <type>2</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>7745</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Nhanh nhẹn, hòa đồng, vui tươi, có nhiệt huyết trong công việc, hoàn thành tốt công việc được giao, có trách nhiệm trong công việc</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>199,406,161,460</strjo>
+  </appliedjob>
+</information>

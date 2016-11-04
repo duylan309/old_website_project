@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5708</id>
+      <email>pap.smile282@yahoo.com</email>
+      <username/>
+      <name>Yến Nguyễn</name>
+      <im>682744388540664_yen-nguyen.jpg</im>
+      <gender>2</gender>
+      <dob>1998-2-28</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476160560</created>
+      <day>28</day>
+      <month>2</month>
+      <year>1998</year>
+      <phone>0938995815</phone>
+      <address>58/2 Bông Sao f5,q8</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.737087</lat>
+      <lng>106.66373</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>5708</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15,27</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Yến cao 1m 60 , nặng 63 kí hơi mập nhưng tính tình hòa đồng , nhiệt tình . </about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>202,349,156,262,412,477</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>202</strjo>
+  </savedjob>
+</information>

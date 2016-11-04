@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4148</id>
+      <email>quynhtram21111997@gmail.com</email>
+      <username/>
+      <name>Quỳnh Trâm</name>
+      <im>1574774046163111_quynh-tram.jpg</im>
+      <gender>2</gender>
+      <dob>1997-11-21</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474988145</created>
+      <day>21</day>
+      <month>11</month>
+      <year>1997</year>
+      <phone>01629935631</phone>
+      <address>10D Núi Thành p.13 quận Tân Bình</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8006198</lat>
+      <lng>106.6419987</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục vụ</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>4148</ui>
+      <s1>15000</s1>
+      <salary>1</salary>
+      <about>Vui vẻ, hòa đồng, hiểu chuyện và hòa nhập tốt</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>64,163,105,107,106,165</strjo>
+  </appliedjob>
+  <experience>
+    <n_881>
+      <id>881</id>
+      <title>Pha chế</title>
+      <level>1</level>
+      <cmpname>Virpis coffee</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>15/7/2016</from>
+      <to>20/9/2016</to>
+    </n_881>
+  </experience>
+  <education>
+    <n_666>
+      <id>666</id>
+      <school>Đại học sư phạm tpHCM</school>
+      <degrees/>
+      <fieldofstudy>Giáo dục tiểu học</fieldofstudy>
+      <from>2016</from>
+      <to>2010</to>
+    </n_666>
+  </education>
+  <savedjob>
+    <total>2</total>
+    <strjo>105,267</strjo>
+  </savedjob>
+</information>

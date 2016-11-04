@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7625</id>
+      <email>Vaynegosu@email.com</email>
+      <username/>
+      <name>Hà Phước Nguyên</name>
+      <im>7625_image.jpeg</im>
+      <gender>1</gender>
+      <phone>0909378571</phone>
+      <address>432/3 Dương bá trạc , Phường 1 , Quận 8</address>
+      <city>30</city>
+      <dob>2000-7-28</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477359040</created>
+      <dayleft>0</dayleft>
+      <jobleft>0</jobleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1477359040</last_signin>
+      <day>28</day>
+      <month>7</month>
+      <year>2000</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.743397</lat>
+      <lng>106.691129</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>7625</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,16,18,19,27,35</category>
+      <type>4,5</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Năng động , trung thực , hết mình vì công việc</about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

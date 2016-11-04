@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6030</id>
+      <email>nlinh7162@gmail.com</email>
+      <username/>
+      <name>Nguyễn Hồng Thắm</name>
+      <im>685282658303894_nguyen-hong-tham.jpg</im>
+      <gender>2</gender>
+      <dob>1998-9-3</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476338901</created>
+      <day>3</day>
+      <month>9</month>
+      <year>1998</year>
+      <phone>01678252157</phone>
+      <address>22,17 bình hưng hòa a quận bình tân </address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7806477</lat>
+      <lng>106.6158683</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6030</ui>
+      <title>Bán hàng, Phục vụ, làm theo giờ, bán thời gian</title>
+      <experience>2</experience>
+      <category>14,15,17,27,28,29,31,35</category>
+      <type>2,4,5,6</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Năng động, tự tin, giao tiếp tốt, có thể làm vừa lòng khách hàng khó tính, ứng biến tốt, biết chăm sóc khách hàng, có phương tiện đi lại, siêng năng chăm chỉ, có tinh thần trách nhiệm</about>
+      <skill>Mình có xe, có phương tiện đi lại., có khẳ năng làm vừa lòng khách hành khó tính,có kỹ năng giao tiếp tốt, tự tin năng dộng nhanh nhẹn, có khả năng xử lý tình huống.</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>344</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>344</strjo>
+  </savedjob>
+</information>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>1</id>
+    <ui>1</ui>
+    <ti>DJ</ti>
+    <le>3</le>
+    <sa>2</sa>
+    <lo>30,32</lo>
+    <ca>14,15,16</ca>
+    <so>0</so>
+    <st>1</st>
+    <de>2016-05-29</de>
+    <re>0000-00-00</re>
+    <cr>1467003748</cr>
+    <ex>4</ex>
+    <ai>3</ai>
+    <ta/>
+    <ty>2</ty>
+    <sn>1</sn>
+    <s1>1000</s1>
+    <s2>1600</s2>
+    <s3>22000000</s3>
+    <s4>35200000</s4>
+    <la>vi</la>
+    <ci>1</ci>
+    <co>for,vn</co>
+  </db>
+  <more>
+    <number>20</number>
+    <description>- Design and develop REST APIs to support our mobile client. &#13;
+- Architect and build robust, scalable, and highly available backend systems&#13;
+- Work closely with the client app team and product design team to iterate quickly on new features and experiments&#13;
+- Design and build web-based products</description>
+    <requirement>- Experience working on PHP (or Python, C++, Java, NodeJs), MySQL, JS, CSS, HTML, Nginx, Apache, Linux&#13;
+- Deep knowledge of caching, message queue, event-based programming&#13;
+- Deep knowledge of client server communication protocols (REST, HTTP, JSON, XML)&#13;
+- Experience designing and developing RESTful web services for mobile apps&#13;
+- Experience in designing and developing scalable Backend components&#13;
+- 2+ years of experience in software engineering&#13;
+- Ability to work in a fast-paced and dynamic team&#13;
+- Self-starter, capable of leading and owning a large aspect of the product&#13;
+- BS or higher in Computer Science or related technical field</requirement>
+  </more>
+  <totalApplied>3</totalApplied>
+  <userapplied>
+    <total>2</total>
+    <strui>141,3</strui>
+  </userapplied>
+</information>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6455</id>
+      <email>ngochuongdo93@gmail.com</email>
+      <username/>
+      <name>Đỗ Ngọc Hương</name>
+      <im>1476612720_do-ngoc-huong.png</im>
+      <gender>0</gender>
+      <phone>0997955509</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476612720</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên</title>
+      <experience>2</experience>
+      <category>29,31,35</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>*Kỹ năng&#13;
+- Ngoại ngữ: Anh (nghe, đọc, nói)&#13;
+- Thành thạo các phần mềm&#13;
+- Kỹ năng về tin học: Word. Excel, PowerPoint,v.v... &#13;
+- Có kỹ năng thuyết trình, đàm phán tốt&#13;
+- Kỹ năng giao tiếp tốt&#13;
+- Có mối quan hệ rộng rãi trong môi trường Nhân sự&#13;
+- Có thể việc độc lập hoặc nhóm&#13;
+- Thích nghi nhanh với môi trường&#13;
+- Nhiệt tình, thân thiện, tỉ mỉ, chuyên cần&#13;
+- Khả năng nắm bắt công việc nhanh</skill>
+      <ui>6455</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>326</strjo>
+  </appliedjob>
+</information>

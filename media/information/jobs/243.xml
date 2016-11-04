@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>243</id>
+    <ui>1996</ui>
+    <ci>310</ci>
+    <ai>0</ai>
+    <ti>Nhân viên pha chế</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>2</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>3000000</s1>
+    <s2>4000000</s2>
+    <s3>136</s3>
+    <s4>181</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14,16,19</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description>Kiểm tra kho đầu ngày ( ca sáng)\r\nKiểm tra sơ lược hàng tồn kho khi nhận ca ( ca chiều)\r\nThời gian làm việc: ca sáng 8:00 đến 16:00, ca chiều 16:00 đến 24:00\r\nCông việc: pha chế các thức uống cho khách khi có order.\r\nXem xet tình hình kinh doanh để chuẩn bị đủ hàng cho việc phục vụ khách.\r\nLau dọn gọn gàng khu vực làm việc.\r\n</description>
+    <requirement>Có khả năng làm các loại nước uống và cocktail cơ bản.\r\nNăng động, nhiệt tình, có tinh thần làm việc nhóm.\r\nSắp xếp sạch sẽ gọn gàng khu vực làm việc.\r\nTuân thủ nội quy công ty.\r\n</requirement>
+    <benefit>Lương thưởng hấp dẫn + tips trên 1 triệu/ tháng.\r\nCó 1 ngày off/ tuần làm việc.\r\nBao cơm 1 buổi/ ca.\r\nCó bãi giử xe riêng nên không tốn phí gửi xe.\r\nMôi trường năng động, rất tốt cho việc rèn luyện tiếng anh.\r\nCác phúc lợi khác đều áp dụng theo luật lao động.</benefit>
+    <keyword>Giao tiếp hiệu quả,Chịu được áp lực công việc,Trung thực,Tự tin,Nhiệt tình</keyword>
+    <ad/>
+    <location_id>141</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-06</de>
+    <re>0000-00-00</re>
+    <cr>1473296947</cr>
+  </db>
+  <more>
+    <requirement>Có khả năng làm các loại nước uống và cocktail cơ bản.&#13;
+Năng động, nhiệt tình, có tinh thần làm việc nhóm.&#13;
+Sắp xếp sạch sẽ gọn gàng khu vực làm việc.&#13;
+Tuân thủ nội quy công ty.&#13;
+</requirement>
+    <description>Kiểm tra kho đầu ngày ( ca sáng)&#13;
+Kiểm tra sơ lược hàng tồn kho khi nhận ca ( ca chiều)&#13;
+Thời gian làm việc: ca sáng 8:00 đến 16:00, ca chiều 16:00 đến 24:00&#13;
+Công việc: pha chế các thức uống cho khách khi có order.&#13;
+Xem xet tình hình kinh doanh để chuẩn bị đủ hàng cho việc phục vụ khách.&#13;
+Lau dọn gọn gàng khu vực làm việc.&#13;
+</description>
+    <benefit>Lương thưởng hấp dẫn + tips trên 1 triệu/ tháng.&#13;
+Có 1 ngày off/ tuần làm việc.&#13;
+Bao cơm 1 buổi/ ca.&#13;
+Có bãi giử xe riêng nên không tốn phí gửi xe.&#13;
+Môi trường năng động, rất tốt cho việc rèn luyện tiếng anh.&#13;
+Các phúc lợi khác đều áp dụng theo luật lao động.</benefit>
+    <keyword>Giao tiếp hiệu quả,Chịu được áp lực công việc,Trung thực,Tự tin,Nhiệt tình</keyword>
+  </more>
+  <userapplied>
+    <total>12</total>
+    <strui>2097,2186,2005,2494,2588,2943,3231,3679,4833,5998,7075,7424</strui>
+  </userapplied>
+</information>

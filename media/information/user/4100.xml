@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4100</id>
+      <email>tran.anh24397@gmail.com</email>
+      <username/>
+      <name>Ngọc Anh</name>
+      <im>708622322620304_ngoc-anh.jpg</im>
+      <gender>2</gender>
+      <dob>1997-3-24</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474968597</created>
+      <day>24</day>
+      <month>3</month>
+      <year>1997</year>
+      <phone>0946156631</phone>
+      <address>Đường D13 phường tây thạnh quận tân phú</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8152131</lat>
+      <lng>106.6260543</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>4100</ui>
+      <title>Bán hàng phục vụ cộng tác viên</title>
+      <experience>7</experience>
+      <category>15,17,29,31,35,36</category>
+      <type>3,4,5,6</type>
+      <level>1,2</level>
+      <lang>vi</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Có khả năng giao tiếp tốt.Thích nghi được với môi trường có áp lực cao</about>
+      <skill>Kỹ năng giao tiếp tốt</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>219</strjo>
+  </appliedjob>
+</information>

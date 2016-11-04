@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4590</id>
+      <email>Pham.thao.thi@gmail.com</email>
+      <username/>
+      <name>Phạm Thị Thảo</name>
+      <im>4590_fb-img-1474296864325.jpg</im>
+      <gender>2</gender>
+      <phone>01657167950</phone>
+      <address>65/30 tổ 9 khu phố 2 phường phước long b quận 9</address>
+      <city>30</city>
+      <dob>1996-10-6</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475325938</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>6</day>
+      <month>10</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.817212</lat>
+      <lng>106.7765254</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Hiện tại đang là sinh viên tại Trường Đại học Cộng Nghệ TPHCM </skill>
+      <ui>4590</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Em năm nay 20 tuổi, quê quán ở Đồng Nai hiện tại sống ở TpHCM. Đang là sinh viên năm 3 trường Đại Học Hutech ngành công nghệ thực phẩm. </about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>130,301,240</strjo>
+  </appliedjob>
+</information>

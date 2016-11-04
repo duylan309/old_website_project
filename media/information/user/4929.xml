@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4929</id>
+      <email>ddtbinh1234@gmail.com</email>
+      <username/>
+      <name>Đào DUy Tú Bình</name>
+      <im>1475590606_dao-duy-tu-binh.png</im>
+      <gender>0</gender>
+      <phone>0938 286 710</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475590606</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>làm theo giờ</title>
+      <experience>7</experience>
+      <category>14,15</category>
+      <type>4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>4929</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>383</strjo>
+  </appliedjob>
+</information>

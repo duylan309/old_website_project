@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4301</id>
+      <email>selentran9@gmail.com</email>
+      <username/>
+      <name>Trần Thị Hoàng Yến</name>
+      <im>334887443524923_tran-hoang-yen.jpg</im>
+      <gender>2</gender>
+      <dob>1997-8-23</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475061950</created>
+      <day>23</day>
+      <month>8</month>
+      <year>1997</year>
+      <last_signin>1475061950</last_signin>
+      <phone>01225172286</phone>
+      <address>325 Bạch Đằng, phường 15, quận Bình Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.803165</lat>
+      <lng>106.704967</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_702>
+      <id>702</id>
+      <school>Đại học Ngoại thương </school>
+      <degrees/>
+      <fieldofstudy>Economic </fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_702>
+  </education>
+  <user_cv>
+    <db>
+      <ui>4301</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,27</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Chăm chỉ và ham học hỏi là hai tính từ miêu tả về bản thân. Tôi có đam mê lớn về kinh doanh nên việc làm công việc phục vụ này đem lại cho tôi kinh nghiệm nhiều hơn về cách quản lí cũng như cung cách phục vụ khác hàng.</about>
+      <skill>Ham học hỏi và tiếp thu nhanh là hai yếu tố mà tôi muốn đề cập đến. Ngoài ra, tôi cũng rất thích và mong muốn được trải nghiệm công việc phục vụ này để có thêm thu nhập và kinh nghiệm.</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>267,215</strjo>
+  </appliedjob>
+</information>

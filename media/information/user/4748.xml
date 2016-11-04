@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4748</id>
+      <email>yootaejung1309@gmail.com</email>
+      <username/>
+      <name>Jung Tae Yoo</name>
+      <im>1788970954649918_jung-tae-yoo.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475478807</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, học pha chế</title>
+      <experience>1</experience>
+      <category>14,15,27,29</category>
+      <type>1,2,3,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>4748</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>126</strjo>
+  </appliedjob>
+</information>

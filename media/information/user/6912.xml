@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6912</id>
+      <email>mickeyblue142@gmail.com</email>
+      <username/>
+      <name>Trần Nguyễn Khánh Linh</name>
+      <im>6912_image.jpeg</im>
+      <gender>2</gender>
+      <dob>1997-2-14</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476941095</created>
+      <day>14</day>
+      <month>2</month>
+      <year>1997</year>
+      <last_signin>1476941095</last_signin>
+      <phone>0938620472</phone>
+      <address>71/49 Điện Biên Phủ, phường 15, quận Bình Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.796985</lat>
+      <lng>106.7006679</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_1133>
+      <id>1133</id>
+      <school>THPT Nguyễn Thị Minh Khai, quận 3</school>
+      <degrees>Tốt nghiệp loại khá</degrees>
+      <fieldofstudy/>
+      <from>2012</from>
+      <to>2015</to>
+    </n_1133>
+    <n_1134>
+      <id>1134</id>
+      <school>Đại học Công Nghiệp TPHCM</school>
+      <degrees>Chưa có</degrees>
+      <fieldofstudy>Kĩ sư cơ điện tử</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_1134>
+    <n_1135>
+      <id>1135</id>
+      <school/>
+      <degrees>TOEFL ibt 58</degrees>
+      <fieldofstudy>English</fieldofstudy>
+      <from>7/2016</from>
+      <to>7/2018</to>
+    </n_1135>
+    <n_1136>
+      <id>1136</id>
+      <school/>
+      <degrees>A2</degrees>
+      <fieldofstudy>German</fieldofstudy>
+      <from>12/2015</from>
+      <to>12/2017</to>
+    </n_1136>
+  </education>
+  <user_cv>
+    <db>
+      <ui>6912</ui>
+      <title>Nhân viên phục vụ , Nhân viên pha chế</title>
+      <experience>7</experience>
+      <category>14,15,27,30</category>
+      <type>2,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>Điểm mạnh: thân thiện, hoà đồng, kiên trì, thẳng thắn, trách nhiệm.&#13;
+Điểm yếu: nóng nảy, bảo thủ, đặt nặng vấn đề thường xuyên.&#13;
+Sở thích: bơi lội, bóng rổ, đàn,  tham gia hoạt động xã hội.&#13;
+&#13;
+</about>
+      <skill>Giao tiếp tốt&#13;
+Tự tin&#13;
+Tinh thần làm việc nhóm cao&#13;
+Khả năng thích nghi cao&#13;
+</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>201,465</strjo>
+  </appliedjob>
+</information>

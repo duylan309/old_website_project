@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7075</id>
+      <email>nolove_va_neverlove@yahoo.com</email>
+      <username/>
+      <name>Thế GD</name>
+      <im>970795659734019_the-gd.jpg</im>
+      <gender>1</gender>
+      <dob>1994-9-16</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477054597</created>
+      <day>16</day>
+      <month>9</month>
+      <year>1994</year>
+      <last_signin>1477054597</last_signin>
+      <phone>0934631715</phone>
+      <address>482/12/8c Lê Quang Định f11 quận bình thạnh tp HCM</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1391>
+      <id>1391</id>
+      <title>Barista</title>
+      <level>1</level>
+      <cmpname>Trung Nguyên Coffee</cmpname>
+      <city>hồ chí minh</city>
+      <country>Việt Nam</country>
+      <from>2/2014</from>
+      <to>2/2016</to>
+    </n_1391>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>7075</ui>
+      <title>Bartender</title>
+      <experience>1</experience>
+      <category>16</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Ham học hỏi chịu khó siêng năng </about>
+      <skill>Barista</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>243,248,106,222,483</strjo>
+  </appliedjob>
+</information>

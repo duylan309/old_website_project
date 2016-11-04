@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4877</id>
+      <email>thuongthuong.2012.9x@gmail.com</email>
+      <username/>
+      <name>Thương Hồng Tạ</name>
+      <im>314395742266337_thuong-hong-ta.jpg</im>
+      <gender>2</gender>
+      <dob>1997-12-20</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475563539</created>
+      <day>20</day>
+      <month>12</month>
+      <year>1997</year>
+      <phone>01225678616</phone>
+      <address>11/8 đường nguyễn văn quỳ phường phú thuận quận 7</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.737269</lat>
+      <lng>106.734342</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,19,35</category>
+      <type>2,4</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>4877</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>215,172</strjo>
+  </appliedjob>
+</information>

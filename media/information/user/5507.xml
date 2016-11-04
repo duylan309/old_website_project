@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5507</id>
+      <email>hanhnguyen151093@gmail.com</email>
+      <username/>
+      <name>NGUYỄN HỒNG HẠNH</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0938271788</phone>
+      <address>16/20 Nguyễn Cảnh Chân, p. Cầu Kho, q. 1</address>
+      <city>30</city>
+      <dob>1993-10-15</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476026341</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476026341</last_signin>
+      <day>15</day>
+      <month>10</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.758436</lat>
+      <lng>106.6883115</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_916>
+      <id>916</id>
+      <school>Đại học Sài Gòn</school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy>Quản trị kinh doanh</fieldofstudy>
+      <from>9/2011</from>
+      <to>6/2015</to>
+    </n_916>
+  </education>
+  <experience>
+    <n_1141>
+      <id>1141</id>
+      <title>Chăm sóc khách hàng</title>
+      <level>1</level>
+      <cmpname>Công ty TNHH Afoo</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>6/2014</from>
+      <to>6/2016</to>
+    </n_1141>
+    <n_1142>
+      <id>1142</id>
+      <title>Tư vấn tài chính</title>
+      <level>1</level>
+      <cmpname>Công ty Bảo hiểm Dai-Ichi</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>5/2013</from>
+      <to>5/2014</to>
+    </n_1142>
+    <n_1143>
+      <id>1143</id>
+      <title>Quản lý Cộng đồng</title>
+      <level>1</level>
+      <cmpname>Công ty TNHH Mắt Xích</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>9/2011</from>
+      <to>4/2013</to>
+    </n_1143>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>5507</ui>
+      <title>Nhân viên tư vấn</title>
+      <experience>2</experience>
+      <category>17,18,26,29,31</category>
+      <type>1,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <about>Tôi làm việc trong ngành Chăm sóc khách hàng 2 năm. Trong thời gian đó tôi được đề bạt lên vị trí Giám sát Chất lượng tư vấn khi làm việc được 6 tháng.&#13;
+Tôi từng làm việc trong ngành quảng cáo 1 năm.</about>
+      <skill>Quản lý thời gian.&#13;
+Quản lý nhóm, teamwork.&#13;
+Tư vấn, thuyết phục khách hàng. &#13;
+Tư duy hình ảnh nhanh</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>251,311</strjo>
+  </appliedjob>
+</information>

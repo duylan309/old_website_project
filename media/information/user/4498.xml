@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4498</id>
+      <email>haphuong5391@yahoo.com</email>
+      <username/>
+      <name>Hà Hồng Phương</name>
+      <im>800755183399564_pe-nho.jpg</im>
+      <gender>2</gender>
+      <dob>1991-3-5</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475228000</created>
+      <day>5</day>
+      <month>3</month>
+      <year>1991</year>
+      <phone>0907063358</phone>
+      <address>251/80b le quang dinh. phuong 7. quan binh thanh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.808892</lat>
+      <lng>106.691708</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên bán hàng</title>
+      <experience>2</experience>
+      <category>35</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en,ja</lang>
+      <skill></skill>
+      <ui>4498</ui>
+      <s1>7000000</s1>
+      <salary>1</salary>
+      <about>Tinh thần trách nhiệm cao. Sạch sẽ. Hòa đồng.</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>253</strjo>
+  </appliedjob>
+  <experience>
+    <n_949>
+      <id>949</id>
+      <title>nhân viên bán hàng.</title>
+      <level>1</level>
+      <cmpname>Tax Center</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>1năm</from>
+      <to>3năm</to>
+    </n_949>
+  </experience>
+</information>

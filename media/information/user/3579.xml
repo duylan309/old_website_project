@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3579</id>
+      <email>hieuma1994@gmail.com</email>
+      <username/>
+      <name>Minh Hiếu</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0898340534</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1474700604</created>
+      <dayleft>1477292604</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1474700604</last_signin>
+      <jobleft>4</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>1</total>
+    <strji>335</strji>
+  </totalJob>
+</information>

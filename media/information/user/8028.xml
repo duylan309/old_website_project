@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>8028</id>
+      <email>raebee0909@gmail.com</email>
+      <username/>
+      <name>Nguyễn Mai</name>
+      <im>806265522847432_nguyen-mai.jpg</im>
+      <gender>2</gender>
+      <dob>1994-3-21</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477623476</created>
+      <day>21</day>
+      <month>3</month>
+      <year>1994</year>
+      <phone>0936899606</phone>
+      <address>380/26 đường 10, phườn 9, Gò Vấp</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8438218</lat>
+      <lng>106.6481288</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>15,28,29,35</category>
+      <type>1,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>có khả năng team work, tinh thần trách nhiệm cao, luôn muốn phát triển bản thân..</skill>
+      <ui>8028</ui>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>478,402</strjo>
+  </appliedjob>
+  <experience>
+    <n_1562>
+      <id>1562</id>
+      <title>nhân viên phục vụ+lẽ tân+CSKH</title>
+      <level>1</level>
+      <cmpname>CTY TNHH WINDSOR VIETNAM</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Vietnam</country>
+      <from>07/2015</from>
+      <to>10/2016</to>
+    </n_1562>
+  </experience>
+</information>

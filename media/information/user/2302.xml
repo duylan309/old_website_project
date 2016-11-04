@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2302</id>
+      <email>thanhcongnguyen1402@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thành Công</name>
+      <im>1473384594_nguye-n-tha-nh-cong.jpg</im>
+      <gender>1</gender>
+      <phone>01655703731</phone>
+      <address>294/134 Xô Viết Nghệ Tĩnh, Phường 21, Quận Bình Thạnh</address>
+      <city>30</city>
+      <dob>1991-4-16</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473384593</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>16</day>
+      <month>4</month>
+      <year>1991</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.800387</lat>
+      <lng>106.711423</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phụ Bếp</title>
+      <experience>2</experience>
+      <category>14</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Trả lời trực tiếp khi phỏng vấn.</skill>
+      <ui>2302</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Là người có tinh thần trách nhiệm cao, Luôn hoàn thành tốt các công việc được phân công, có tinh thần học hỏi và khả năng làm việc nhóm tốt.</about>
+      <keyword>Tinh thần trách nhiệm,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Tự tin,Tinh thần làm việc nhóm,Nhiệt tình</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>16</total>
+    <strjo>191,104,188,139,182,232,193,153,406,206,421,256,361,365,330,352</strjo>
+  </appliedjob>
+  <experience>
+    <n_517>
+      <id>517</id>
+      <title>Phụ Bếp</title>
+      <level>1</level>
+      <cmpname>Nhà Hàng Icon</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>01/07/2014</from>
+      <to>31/08/2015</to>
+    </n_517>
+  </experience>
+  <education>
+    <n_364>
+      <id>364</id>
+      <school>Đại Học Kỹ Thuật Công Nghệ TP Hồ Chí Minh</school>
+      <degrees>Cao Đẳng</degrees>
+      <fieldofstudy>Xây Dựng Dân Dụng Và Công Nghiệp</fieldofstudy>
+      <from>09/2009</from>
+      <to>01/2015</to>
+    </n_364>
+  </education>
+</information>

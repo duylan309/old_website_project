@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3042</id>
+      <email>nhockpii789.htl@gmail.com</email>
+      <username/>
+      <name>Lê Hồng Thái</name>
+      <im>3042_img-20160731-101959.jpg</im>
+      <gender>1</gender>
+      <phone>0966953490</phone>
+      <address>207 Bạch Đằng p.15 quận Bình Thạnh</address>
+      <city>30</city>
+      <dob>1996-11-25</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474205238</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>25</day>
+      <month>11</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.802977</lat>
+      <lng>106.707216</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế hoặc phục vụ</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>6</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill>Biết pha chế các dòng cf đá xoay, mojito,sinh tố, soda, ..</skill>
+      <ui>3042</ui>
+      <s1>15000</s1>
+      <salary>1</salary>
+      <about>Siêng năng  chịu khó, cố gắn hoàn thiện hơn, dễ nắm bắt công việc </about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>222,64,323,202,294,106</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>3</total>
+    <strjo>294,64,323</strjo>
+  </savedjob>
+  <experience>
+    <n_675>
+      <id>675</id>
+      <title>crew trainer</title>
+      <level>1</level>
+      <cmpname>Jollibee Việt Nam</cmpname>
+      <city>HỒ CHÍ MINH</city>
+      <country>Việt Nam</country>
+      <from>10/4/2015</from>
+      <to>3/5/2016</to>
+    </n_675>
+  </experience>
+  <education>
+    <n_607>
+      <id>607</id>
+      <school>Cao đẳng Kỹ thuật Cao Thắng</school>
+      <degrees/>
+      <fieldofstudy>Công nghệ thông tin</fieldofstudy>
+      <from>2014</from>
+      <to>2017</to>
+    </n_607>
+  </education>
+</information>

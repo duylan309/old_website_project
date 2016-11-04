@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <totalJob>10</totalJob>
+  <saveuser>
+    <total>2</total>
+    <strui>3,79</strui>
+  </saveuser>
+  <companybanner>22_bean-cover.png</companybanner>
+  <db>
+    <id>22</id>
+    <ui>22</ui>
+    <name>The Coffee Bean</name>
+    <url>thuetoday</url>
+    <im>22_bean-avatar.png</im>
+    <category>14,15</category>
+    <phone>098352564</phone>
+    <address>2-6 Bis Điện Biên Phủ, P.Đa Kao, Q1</address>
+    <city>30</city>
+    <website>http://www.coffeebean.com</website>
+    <skype></skype>
+    <facebook>https://www.facebook.com/CoffeeBeanVN/?fref=ts</facebook>
+    <size>1</size>
+    <status>1</status>
+    <dayleft>1492080933</dayleft>
+    <jobleft>0</jobleft>
+    <fb_load_newfeed>2</fb_load_newfeed>
+    <fb_load_photo>2</fb_load_photo>
+    <created>1455801413</created>
+    <deactive>0</deactive>
+  </db>
+</information>

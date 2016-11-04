@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6005</id>
+      <email>vuanhdung0108@gmail.com</email>
+      <username/>
+      <name>Vũ Anh Dũng</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0908488895</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1476329008</created>
+      <dayleft>1478921008</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1476329008</last_signin>
+      <jobleft>4</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>1</total>
+    <strji>452</strji>
+  </totalJob>
+  <saveuser>
+    <total>6</total>
+    <strui>6700,6778,6878,7297,7412,4833</strui>
+  </saveuser>
+</information>

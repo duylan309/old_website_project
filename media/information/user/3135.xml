@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3135</id>
+      <email>ktsusu@yahoo.com.vn</email>
+      <username/>
+      <name>Cimi Tran</name>
+      <im>1186123168128106_cimi-tran.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474342164</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>2,3</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>3135</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>202</strjo>
+  </appliedjob>
+  <experience>
+    <n_697>
+      <id>697</id>
+      <title>Phục vụ</title>
+      <level>1</level>
+      <cmpname>Hanayuki japanese restaurant</cmpname>
+      <city>Hồ chí minh</city>
+      <country></country>
+      <from>3/8</from>
+      <to>5/9</to>
+    </n_697>
+  </experience>
+</information>

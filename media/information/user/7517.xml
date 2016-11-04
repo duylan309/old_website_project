@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7517</id>
+      <email>honghanhmon@gmail.com</email>
+      <username/>
+      <name>Trần Thị Hồng Hạnh</name>
+      <im>7517_myxj-20151031163847-fast.jpg</im>
+      <gender>2</gender>
+      <dob>1995-1-14</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477296576</created>
+      <day>14</day>
+      <month>1</month>
+      <year>1995</year>
+      <last_signin>1477296576</last_signin>
+      <phone>0971628051</phone>
+      <address>Bình Thạnh. Tp. HCM</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.802397</lat>
+      <lng>106.6948697</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_1220>
+      <id>1220</id>
+      <school>Cao đẳng Kinh tế - Kỹ thuật Tp. HCM</school>
+      <degrees>Cao đẳng</degrees>
+      <fieldofstudy>Tiếng Anh</fieldofstudy>
+      <from>2013</from>
+      <to>2016</to>
+    </n_1220>
+  </education>
+  <user_cv>
+    <db>
+      <ui>7517</ui>
+      <title>nhân viên văn phòng</title>
+      <experience>7</experience>
+      <category>28</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Có kỹ năng làm việc nhóm, làm việc độc lập, biết lắng nghe, tiếp thu nhanh. Thích các hoạt động ngoài trời, dã ngoại, du lịch,..</about>
+      <skill>Tiếng Anh giao tiếp, tin học văn phòng,..</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

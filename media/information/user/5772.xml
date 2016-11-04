@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5772</id>
+      <email>tranthingocthao0912@gmail.com</email>
+      <username/>
+      <name>TRẦN THỊ NGỌC THẢO</name>
+      <im>1476179743_tran-thi-ngoc-thao.png</im>
+      <gender>0</gender>
+      <phone>01699891493</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476179742</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>bất cứ</title>
+      <experience>7</experience>
+      <category>14,15,16,26,29,30,35,36</category>
+      <type>2,4,5,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>5772</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>418</strjo>
+  </appliedjob>
+</information>

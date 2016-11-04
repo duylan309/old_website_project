@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1134</id>
+      <email>jl.sg888@gmail.com</email>
+      <username/>
+      <name>Ly Do Quyen</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0903860412</phone>
+      <address>11 đường 12, q. Bình Tân</address>
+      <city>30</city>
+      <dob>1990-12-4</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471834021</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <day>4</day>
+      <month>12</month>
+      <year>1990</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.779258</lat>
+      <lng>106.614135</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_337>
+      <id>337</id>
+      <title>Waitress</title>
+      <level>1</level>
+      <cmpname>Al Fresco</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Vietnam</country>
+      <from>2016</from>
+      <to>nay</to>
+    </n_337>
+    <n_338>
+      <id>338</id>
+      <title>Shift Leader</title>
+      <level>1</level>
+      <cmpname>SUBWAY eat fresh Restaurant</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Vietnam</country>
+      <from>2013</from>
+      <to>2015</to>
+    </n_338>
+    <n_339>
+      <id>339</id>
+      <title>Barista</title>
+      <level>1</level>
+      <cmpname>Gloria Jeans Coffee</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Vietnam</country>
+      <from>2009</from>
+      <to>2013</to>
+    </n_339>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>1134</ui>
+      <title>Phụ bếp, bếp, phục vụ, pha chế, thu ngân...</title>
+      <experience>1</experience>
+      <category>14,15,16,18,19,29</category>
+      <type>1,2,4</type>
+      <level>1,2,4</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <skill>Giao tiếp khách hàng, làm việc nhóm, giải quyết tình huống...</skill>
+      <keyword>Nhiệt tình,Tinh thần trách nhiệm,Chịu được áp lực công việc,Trung thực,Tập trung trong công việc,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+  <education>
+    <n_246>
+      <id>246</id>
+      <school>FPT Arena</school>
+      <degrees>Diploma in Multimedia</degrees>
+      <fieldofstudy>Graphic Design</fieldofstudy>
+      <from>2010</from>
+      <to>2012</to>
+    </n_246>
+  </education>
+  <appliedjob>
+    <total>4</total>
+    <strjo>219,113,211,225</strjo>
+  </appliedjob>
+</information>

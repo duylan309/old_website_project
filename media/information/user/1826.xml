@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1826</id>
+      <email>ngocanhnguyen.2550@gmail.com</email>
+      <username/>
+      <name>Nguyễn Ngọc Anh</name>
+      <im>1472978590_nguyen-ngoc-anh.jpg</im>
+      <gender>2</gender>
+      <phone>0122 873 8085</phone>
+      <address>Phường An Phú, Quận 2</address>
+      <city>30</city>
+      <dob>1994-5-25</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472978590</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>25</day>
+      <month>5</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8019128</lat>
+      <lng>106.7647475</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên pha chế, phục vụ,</title>
+      <experience>1</experience>
+      <category>14,15,17,27,29,31</category>
+      <type>1,2,4,5,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill>Kĩ năng giao tiếp và chăm sóc khách hàng khá tốt, trung thực, nhiệt tình, teamwork</skill>
+      <ui>1826</ui>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <keyword>Kỹ năng chăm sóc khách hàng</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>172</strjo>
+  </appliedjob>
+</information>

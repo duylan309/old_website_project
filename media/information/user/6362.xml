@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6362</id>
+      <email>asunadolly212@gmail.com</email>
+      <username/>
+      <name>Ngọc Thu</name>
+      <im>6362_img-9075.JPG</im>
+      <gender>2</gender>
+      <dob>1997-2-21</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476524789</created>
+      <day>21</day>
+      <month>2</month>
+      <year>1997</year>
+      <last_signin>1476524789</last_signin>
+      <phone>01207843223</phone>
+      <address>2B Nguyễn Văn Ngọc P.Tân Thành Q.Tân Phú</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.792099</lat>
+      <lng>106.632139</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_1055>
+      <id>1055</id>
+      <school>ĐH Sư Phạm Kĩ Thuật TP.HCM</school>
+      <degrees>Kĩ sư</degrees>
+      <fieldofstudy>In và truyền thông</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_1055>
+  </education>
+  <user_cv>
+    <db>
+      <ui>6362</ui>
+      <title>Nhân viên phục vụ, phụ bếp, ..</title>
+      <experience>7</experience>
+      <category>14,29,35</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <skill>Khả năng giao tiếp nghe hiểu ngoại ngữ tốt&#13;
+Tinh thần trách nhiệm, làm việc nhóm tốt</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>247,100</strjo>
+  </appliedjob>
+</information>

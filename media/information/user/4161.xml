@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4161</id>
+      <email>mararena108@yahoo.com</email>
+      <username/>
+      <name>Trần Gia Nghi</name>
+      <im>4161_hinh-the-tran-gia-nghi.jpg</im>
+      <gender>2</gender>
+      <dob>1990-7-17</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474991166</created>
+      <day>17</day>
+      <month>7</month>
+      <year>1990</year>
+      <last_signin>1474991166</last_signin>
+      <phone>0907011787</phone>
+      <address>31 Đinh Điền, P2, Q. Tân Bình</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7954477</lat>
+      <lng>106.6624615</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>4161</ui>
+      <title>Pha chế, thu ngân</title>
+      <experience>7</experience>
+      <category>15,20,29,35</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Là người hòa đồng, có khả năng giao tiếp, cần thận, có tinh thần học hỏi, chịu được áp lực công việc.</about>
+      <skill>- Tin học văn phòng: thành thạo&#13;
+- Có thể giao tiếp bằng tiếng anh&#13;
+- Có khả năng giao tiếp tốt</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>279,275,172,156,253,107</strjo>
+  </appliedjob>
+</information>

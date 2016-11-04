@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3</id>
+      <email>phaphn1@gmail.com</email>
+      <username/>
+      <name>Ho Ngoc Phap</name>
+      <image/>
+      <gender>1</gender>
+      <dob>1987-01-19</dob>
+      <is_newletter>0</is_newletter>
+      <type>2</type>
+      <status>1</status>
+      <created>1453546440</created>
+      <category>15</category>
+      <phone>0944112199</phone>
+      <address>59 Le Van Huan</address>
+      <city>30</city>
+      <im>3_Logo-Paris.png</im>
+      <facebook>http://facebook.com</facebook>
+      <skype/>
+      <deactive>0</deactive>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <country>vn</country>
+      <city_text>Hồ Chí Minh</city_text>
+    </db>
+  </userinfo>
+  <savejob>
+    <i_4>
+      <id>4</id>
+      <at>1456579216</at>
+    </i_4>
+  </savejob>
+  <cv>
+    <i_1000000>
+      <id>1000000</id>
+      <ui>3</ui>
+      <ai>1</ai>
+      <ti>Senior Frontend</ti>
+      <ta/>
+      <le>2</le>
+      <ex>5</ex>
+      <sa>1200 USD</sa>
+      <lo>30,32</lo>
+      <ca>9,11,12</ca>
+      <so>0</so>
+      <st>2</st>
+      <re>0000-00-00</re>
+      <cr>1457153170</cr>
+    </i_1000000>
+    <i_1000002>
+      <id>1000002</id>
+      <ui>3</ui>
+      <ai>3</ai>
+      <ti>Senior Php Mysql developer</ti>
+      <ta/>
+      <le>3</le>
+      <ex>5</ex>
+      <sa>1000 USD</sa>
+      <lo>30</lo>
+      <ca>12</ca>
+      <so>0</so>
+      <st>3</st>
+      <re>0000-00-00</re>
+      <cr>1457153383</cr>
+    </i_1000002>
+  </cv>
+  <totalSaved>5</totalSaved>
+  <totalApplied>6</totalApplied>
+  <totalCv>2</totalCv>
+  <user_cv>
+    <db>
+      <ui>3</ui>
+      <title>Lap Trinh Vien</title>
+      <category>14</category>
+      <type>1</type>
+      <level>1,2</level>
+      <experience>1</experience>
+      <location>30</location>
+      <lang>vi</lang>
+      <s1>1000</s1>
+      <salary>2</salary>
+      <skill>6 năm kinh nghiệm làm việc với website thương mại, bán hàng và dịch vụ.&#13;
+Ngôn ngữ lập trình  (Frontend + Backend) PHP MYSQL - CSS + LESS + BOOTSTRAP + Handlebars , Angular, Backbone, jQuery.&#13;
+Dã từng tham gia vào nhiều dự án website bán hàng, thương mại điện tử, thanh toán và thống kê hàng hoá.&#13;
+Có khả năng làm Fullstask&#13;
+Có nhiều kinh nghiệm nhiều về làm SEO, Adswords, quảng cáo trực tuyến</skill>
+      <s2>22000000</s2>
+      <deactive>0</deactive>
+    </db>
+  </user_cv>
+  <experience>
+    <n_1>
+      <id>1</id>
+      <title>Senior Frontend (HTML CSS JQUERY ANGULARJS)</title>
+      <level>3</level>
+      <cmpname>Sutrix Media</cmpname>
+      <address>97/1 Le Quang Dinh, Binh Thanh</address>
+      <city>30</city>
+      <from>10-03-2015</from>
+      <to>31-03-2016</to>
+    </n_1>
+  </experience>
+  <education>
+    <n_1>
+      <id>1</id>
+      <school>Đại Học sư phạm T.P Hồ Chí Minh</school>
+      <study>KHMT</study>
+      <degrees>4</degrees>
+      <address>5 An Duong Vuong, Q.5</address>
+      <city>30</city>
+      <from>16-03-2016</from>
+      <to>16-03-2016</to>
+    </n_1>
+  </education>
+  <appliedjob>
+    <total>9</total>
+    <strjo>26,33,2,6,5,1,28,53,56</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>8</total>
+    <strjo>1,10,2,26,15,27,21,23</strjo>
+  </savedjob>
+</information>

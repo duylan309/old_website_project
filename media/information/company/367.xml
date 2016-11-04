@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>367</id>
+    <ui>4406</ui>
+    <name>Tokyo Deli Tuyển Dụng</name>
+    <url>tuyendungtvn</url>
+    <im>367_standard-logo-001.png</im>
+    <im_banner>_tokyo-deli-tuyen-dung-cover.jpg</im_banner>
+    <category>14</category>
+    <phone>0839431502</phone>
+    <address>26C-D-E Lê Quốc Hưng, Phường 12, Quận 4</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.765136</lat>
+    <lng>106.702988</lng>
+    <website>http://www.tokyodeli.com.vn/vi-tri-tuyen-dung</website>
+    <about/>
+    <facebook>https://www.facebook.com/tuyendungtvn/</facebook>
+    <facebook_cover/>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1475128722</created>
+  </db>
+  <more>
+    <about/>
+    <whyworkus/>
+  </more>
+  <companybanner>_tokyo-deli-tuyen-dung-cover.jpg</companybanner>
+  <totalJob>
+    <total>11</total>
+    <strji>364,391,392,393,394,395,396,397,398,399,415</strji>
+  </totalJob>
+</information>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5255</id>
+      <email>vodieuminh@gmail.com</email>
+      <username/>
+      <name>võ diệu minh</name>
+      <im>5255_13690804-631373153680285-6853934417337101310-n.jpg</im>
+      <gender>2</gender>
+      <phone>0935334677</phone>
+      <address>122/28/28 bùi đình tuy, p.12, bình thạnh </address>
+      <city>30</city>
+      <dob>98-4-19</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475831821</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1475831821</last_signin>
+      <day>19</day>
+      <month>4</month>
+      <year>98</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.806944</lat>
+      <lng>106.698999</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_869>
+      <id>869</id>
+      <school>Đại học Ngân Hàng tp. Hồ chí Minh </school>
+      <degrees/>
+      <fieldofstudy>Kinh tế quốc tế</fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_869>
+  </education>
+  <user_cv>
+    <db>
+      <ui>5255</ui>
+      <title>Nhân viên phục vụ , nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>15,17,35</category>
+      <type>2,4,5,6</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Tôi là Minh và là sinh viên năm nhất của trường Đại học Ngân hàng. Là một cô gái sống ở thành phố , được tiếp xúc với rất nhiều người tôi cảm thấy rằng mình có đủ tự tin , năng động ,  hòa đồng , có khả năng giao tiếp tốt với tất cả mọi người . Ngoài ra, tôi còn có khả năng giao tiếp tiếng anh lưu loát và siêng năng , có tinh thần trách nhiệm cao . Tôi tin rằng các nhà tuyển dụng sẽ không cảm thấy hối hận khi đã chọn tôi . </about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <experience>
+    <n_1076>
+      <id>1076</id>
+      <title>Nhân viên phục vụ cà phê</title>
+      <level>1</level>
+      <cmpname>Book coffee</cmpname>
+      <city>quy nhơn</city>
+      <country>Việt nam</country>
+      <from>2016</from>
+      <to>2016</to>
+    </n_1076>
+    <n_1386>
+      <id>1386</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>Shop Ship</cmpname>
+      <city>Quy Nhơn</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>2015</to>
+    </n_1386>
+  </experience>
+  <savedjob>
+    <total>1</total>
+    <strjo>211</strjo>
+  </savedjob>
+  <appliedjob>
+    <total>5</total>
+    <strjo>371,340,364,343,211</strjo>
+  </appliedjob>
+</information>

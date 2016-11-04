@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5481</id>
+      <email>thanhthuytrang1995@gmail.com</email>
+      <username/>
+      <name>Lai hồng Thanh Thùy Trang</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01225069864</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476007415</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên</title>
+      <experience>1</experience>
+      <category>14,29,35</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>5481</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>205</strjo>
+  </appliedjob>
+  <education>
+    <n_912>
+      <id>912</id>
+      <school>cao đẳng viễn đông</school>
+      <degrees>12/12</degrees>
+      <fieldofstudy>quản trị kinh doanh</fieldofstudy>
+      <from>2014</from>
+      <to>2017</to>
+    </n_912>
+  </education>
+</information>

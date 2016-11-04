@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3316</id>
+      <email>bedau2905_lovely@yahoo.com</email>
+      <username/>
+      <name>Thanh Hằng NL</name>
+      <im>3316_img-20160702-1.png</im>
+      <gender>2</gender>
+      <dob>1990-5-29</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474525235</created>
+      <day>29</day>
+      <month>5</month>
+      <year>1990</year>
+      <phone>01266727279</phone>
+      <address>819/11/30 Quang trung f12 gv</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_741>
+      <id>741</id>
+      <title>Cửa hàng trưởng</title>
+      <level>1</level>
+      <cmpname>Auotogrill sân bay Tân Sơn Nhất</cmpname>
+      <city>HCM</city>
+      <country>Viêt NAm</country>
+      <from>5/2014</from>
+      <to>8/2016</to>
+    </n_741>
+    <n_742>
+      <id>742</id>
+      <title>Trợ lý cửa hàng</title>
+      <level>1</level>
+      <cmpname>Vincom plaza</cmpname>
+      <city>HCM</city>
+      <country>VN</country>
+      <from>2013</from>
+      <to>4/2014</to>
+    </n_742>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>3316</ui>
+      <title>Quan lý cửa hàng</title>
+      <experience>3</experience>
+      <category>14,29,35</category>
+      <type>1</type>
+      <level>3,5</level>
+      <lang>vi,en</lang>
+      <s1>8000000</s1>
+      <salary>1</salary>
+      <about>Ham học hỏi &#13;
+Hòa nhập nhanh&#13;
+Làm việc chuyên cần có trách nhiệm</about>
+      <skill>Anh văn giao tiếp&#13;
+Tin học văn phòng</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <education>
+    <n_545>
+      <id>545</id>
+      <school>Đại học Hoa Sen</school>
+      <degrees>Cử nhân Cao Đẳng</degrees>
+      <fieldofstudy>Quản trị Nhà hàng khách sạn</fieldofstudy>
+      <from>2008</from>
+      <to>2011</to>
+    </n_545>
+  </education>
+  <appliedjob>
+    <total>1</total>
+    <strjo>157</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1031</id>
+      <email>handiema1@gmail.com</email>
+      <username/>
+      <name>Diễm Hàng</name>
+      <im>1778885459062676_diem-hang.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471615327</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <education>
+    <n_177>
+      <id>177</id>
+      <school>Đại học Tài chính - Marketing</school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy>Marketing tổng hợp</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_177>
+  </education>
+  <experience>
+    <n_265>
+      <id>265</id>
+      <title>Nhân viên bán hàng Meizan</title>
+      <level>1</level>
+      <cmpname>TNHH SX TMDV Thiên Ý</cmpname>
+      <city>TPHCM</city>
+      <country>Việt Nam</country>
+      <from>12/2015</from>
+      <to>4/2016</to>
+    </n_265>
+  </experience>
+</information>

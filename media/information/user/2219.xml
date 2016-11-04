@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2219</id>
+      <email>Vuhoangbaolinh95@gmail.com</email>
+      <username/>
+      <name>Vũ Hoàng Bảo Linh</name>
+      <im>1473310722_vu-hoang-bao-linh.jpg</im>
+      <gender>2</gender>
+      <phone>01227539903</phone>
+      <address>333/3/7 Nguyễn Trọng Tuyển Phường 10 Quận Phú Nhuận</address>
+      <city>30</city>
+      <dob>1995-3-19</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473310722</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>19</day>
+      <month>3</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.797889</lat>
+      <lng>106.668413</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên Phục Vụ</title>
+      <experience>1</experience>
+      <category>14,15,16</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>_ Customer service&#13;
+_ Sale</skill>
+      <ui>2219</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <experience>
+    <n_492>
+      <id>492</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Nhà hàng 30/4</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>Tháng 3/1016</from>
+      <to>Tháng 7/2016</to>
+    </n_492>
+    <n_493>
+      <id>493</id>
+      <title>Intership</title>
+      <level>1</level>
+      <cmpname>Trung tâm Anh Ngữ Apollo</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>Tháng 12/2015</from>
+      <to>Tháng 8/2016</to>
+    </n_493>
+    <n_494>
+      <id>494</id>
+      <title>Nhân Viên Bán Hàng</title>
+      <level>1</level>
+      <cmpname>Giày Store</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>Tháng 10/2014</from>
+      <to>Tháng 5/2015</to>
+    </n_494>
+  </experience>
+  <education>
+    <n_347>
+      <id>347</id>
+      <school>Broward College Việt Nam</school>
+      <degrees>Cao Đẳng</degrees>
+      <fieldofstudy>Quản Trị Nhà Hàng Khách Sạn</fieldofstudy>
+      <from>2013</from>
+      <to>2016</to>
+    </n_347>
+    <n_348>
+      <id>348</id>
+      <school>THPT Hàn Thuyên </school>
+      <degrees>High school diploma</degrees>
+      <fieldofstudy/>
+      <from>2009</from>
+      <to>2012</to>
+    </n_348>
+  </education>
+  <appliedjob>
+    <total>2</total>
+    <strjo>211,100</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4322</id>
+      <email>ngohoaithuong1995@gmail.com</email>
+      <username/>
+      <name>Hoài Thương</name>
+      <im>320675614964070_hoai-thuong.jpg</im>
+      <gender>2</gender>
+      <dob>1995-4-25</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475073413</created>
+      <day>25</day>
+      <month>4</month>
+      <year>1995</year>
+      <phone>01693636117</phone>
+      <address></address>
+      <country>vn</country>
+      <city></city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên</title>
+      <experience>1</experience>
+      <category>35</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Kỹ năng giao tiếp&#13;
+</skill>
+      <ui>4322</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>253</strjo>
+  </appliedjob>
+</information>

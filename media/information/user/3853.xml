@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3853</id>
+      <email>nhocbun_nhocbun93@yahoo.com</email>
+      <username/>
+      <name>Hồ Ngọc Thắng</name>
+      <im>1076894649095609_ngoc-thang.jpg</im>
+      <gender>1</gender>
+      <dob>1995-7-25</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474876062</created>
+      <day>25</day>
+      <month>7</month>
+      <year>1995</year>
+      <phone>0932651093</phone>
+      <address>475/33c Hai Bà trưng P8 Q3</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.791497</lat>
+      <lng>106.686277</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>4</type>
+      <level>1,2</level>
+      <lang>vi</lang>
+      <skill>hơi ít nói </skill>
+      <ui>3853</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Vui vẻ hòa đồng chăm chỉ</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>64</strjo>
+  </appliedjob>
+  <education>
+    <n_631>
+      <id>631</id>
+      <school>Đại Học Hutech TP HCm</school>
+      <degrees>Cao Đẳng</degrees>
+      <fieldofstudy>Quản trị mạng</fieldofstudy>
+      <from>2015</from>
+      <to>2018</to>
+    </n_631>
+  </education>
+  <savedjob>
+    <total>1</total>
+    <strjo>64</strjo>
+  </savedjob>
+</information>

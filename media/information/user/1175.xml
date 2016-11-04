@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1175</id>
+      <email>daotrang5195@gmail.com</email>
+      <username/>
+      <name>Anh Trang</name>
+      <im>1175_image.jpg</im>
+      <gender>2</gender>
+      <dob>1995-1-15</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471870431</created>
+      <day>15</day>
+      <month>1</month>
+      <year>1995</year>
+      <phone>0942028814</phone>
+      <address>14/23a văn chung,hoàng hoa thám,q. Tân bình,tp hcm</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.79433</lat>
+      <lng>106.6386893</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế, phụ bếp</title>
+      <experience>1</experience>
+      <category>14,15,27,29</category>
+      <type>1,4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>1175</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Nhanh nhẹn, hoà đồng, tiếp thu nhanh.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>400,172,360,269,294,193</strjo>
+  </appliedjob>
+  <education>
+    <n_895>
+      <id>895</id>
+      <school>Cao đẳng y hà nam</school>
+      <degrees>Trung cấp dược</degrees>
+      <fieldofstudy>Dược</fieldofstudy>
+      <from>2013</from>
+      <to>2015</to>
+    </n_895>
+  </education>
+  <experience>
+    <n_1106>
+      <id>1106</id>
+      <title>Pha chế,phục vụ</title>
+      <level>1</level>
+      <cmpname>Cafe ý</cmpname>
+      <city>Phủ lý</city>
+      <country>Việt nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_1106>
+  </experience>
+</information>

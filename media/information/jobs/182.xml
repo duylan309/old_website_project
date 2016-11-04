@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>182</id>
+    <ui>193</ui>
+    <ci>187</ci>
+    <ai>0</ai>
+    <ti>Phụ bếp/Sơ Chế</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>1</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description>- Chuẩn bị, sơ chế nguyên vật liệu\r\n- Cắt, tỉa rau quả cho các món salad đặc biệt của guanabana\r\n- Chuẩn bị làm nước ép rau quả\r\n</description>
+    <requirement>- Sạch sẽ, ngăn nắp trong công việc\r\n- Tinh thần trách nhiệm cao\r\n- Có tính kỷ luật\r\n- Sẽ được training cho người chưa có kinh nghiệm nhưng yêu thích công việc bếp &amp; đồ tốt cho sức khỏe\r\n</requirement>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>1</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-06</de>
+    <re>0000-00-00</re>
+    <cr>1475815967</cr>
+  </db>
+  <more>
+    <requirement>- Sạch sẽ, ngăn nắp trong công việc&#13;
+- Tinh thần trách nhiệm cao&#13;
+- Có tính kỷ luật&#13;
+- Sẽ được training cho người chưa có kinh nghiệm nhưng yêu thích công việc bếp &amp; đồ tốt cho sức khỏe&#13;
+</requirement>
+    <description>- Chuẩn bị, sơ chế nguyên vật liệu&#13;
+- Cắt, tỉa rau quả cho các món salad đặc biệt của guanabana&#13;
+- Chuẩn bị làm nước ép rau quả&#13;
+</description>
+    <benefit/>
+    <keyword/>
+  </more>
+  <userapplied>
+    <total>22</total>
+    <strui>1222,292,1631,1972,1848,2005,342,2332,2547,2556,2302,1277,3222,3702,3798,3802,3744,3075,4051,4907,1282,5116</strui>
+  </userapplied>
+</information>

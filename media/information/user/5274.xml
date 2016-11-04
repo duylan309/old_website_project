@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5274</id>
+      <email>Nghianguyen96224@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Nghĩa</name>
+      <im>1475841730_nguyen-thi-nghia.png</im>
+      <gender>0</gender>
+      <phone>0983019152</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475841730</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>pha chế</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>kỹ năng phục vụ </skill>
+      <ui>5274</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>201</strjo>
+  </appliedjob>
+</information>

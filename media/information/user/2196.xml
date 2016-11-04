@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2196</id>
+      <email>thanhtienpham2508@gmail.com</email>
+      <username/>
+      <name>Phạm Thị Thanh Tiền</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01282471632</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473300908</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>26</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>2196</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>162</strjo>
+  </appliedjob>
+</information>

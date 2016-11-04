@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6360</id>
+      <email>thanh.tram0209@gmail.com</email>
+      <username/>
+      <name>Lê Thị Thanh Trâm</name>
+      <im>1476523371_le-thi-thanh-tram.png</im>
+      <gender>2</gender>
+      <phone>01268741695</phone>
+      <address>41A/67/9 Cù Lao Nguyễn Kiệu, Phường 1, Quận 4</address>
+      <city>30</city>
+      <dob>1995-9-2</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476523371</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>2</day>
+      <month>9</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.752824</lat>
+      <lng>106.688526</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế</title>
+      <experience>2</experience>
+      <category>14</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>- Có khả năng làm việc nhóm, hòa đồng, có thể chịu được áp lực công việc,&#13;
+- Có tinh thần trách nhiệm cao, có tinh thần giúp đỡ đồng nghiệp&#13;
+- Biết cách làm hài lòng khách hàng&#13;
+- Giao tiếp tiếng anh cơ bản.</skill>
+      <ui>6360</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>	&#13;
+LÊ THỊ THANH TRÂM&#13;
+Ngày sinh:  02/09/1995&#13;
+Giới tính:  Nữ&#13;
+Điện thoại:  01268741695&#13;
+Email:  thanh.tram0209@gmail.com&#13;
+Địa chỉ:  41A/67/9 Cù lao Nguyễn Kiệu, Phường 1, Quận 4, Tp. HCM&#13;
+&#13;
+</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>9</total>
+    <strjo>202,287,221,64,293,371,222,130,298</strjo>
+  </appliedjob>
+  <education>
+    <n_1054>
+      <id>1054</id>
+      <school>Cao Đẳng Ctim</school>
+      <degrees>Loại Khá</degrees>
+      <fieldofstudy>QUản trị kinh doanh</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_1054>
+  </education>
+  <experience>
+    <n_1286>
+      <id>1286</id>
+      <title>135A Nam Kỳ Khởi Nghĩa, Phường Bến Nghé, Quận 1</title>
+      <level>1</level>
+      <cmpname>Nhà hàng Barbecue Garden</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>2016</to>
+    </n_1286>
+  </experience>
+</information>

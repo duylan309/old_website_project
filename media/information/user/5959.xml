@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5959</id>
+      <email>yenthu185@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Yến Thu</name>
+      <im>5959_img-20141213-122417.jpg</im>
+      <gender>2</gender>
+      <phone>0978220830</phone>
+      <address>630 Sư Vạn Hạnh, P.10, Q.10</address>
+      <city>30</city>
+      <dob>1989-5-18</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476285331</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>18</day>
+      <month>5</month>
+      <year>1989</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7678637</lat>
+      <lng>106.6715292</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhan vien part time</title>
+      <experience>1</experience>
+      <category>14,15,27,29,36</category>
+      <type>2,5</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill>Toeic score: 550&#13;
+Thành thạo vi tính văn phòng.</skill>
+      <ui>5959</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Vui vẻ, hòa đồng, học hỏi nhanh.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>280,222</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7177</id>
+      <email>kimngan19593@gmail.com</email>
+      <username/>
+      <name>Hồ Thị Kim Ngân</name>
+      <im>1477104761_ho-thi-kim-ngan.png</im>
+      <gender>2</gender>
+      <phone>01688409316</phone>
+      <address>c1-c2, đường 30 Phạm Văn Đồng, P.Hiệp Bình Chánh, Q. Thủ Đức</address>
+      <city>30</city>
+      <dob>1993-5-19</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477104761</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>19</day>
+      <month>5</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8330083</lat>
+      <lng>106.7274973</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Thu ngân</title>
+      <experience>2</experience>
+      <category>14,18,19,29</category>
+      <type>1</type>
+      <level>2,4</level>
+      <lang>vi</lang>
+      <skill>Kỹ năng giao tiếp, kỹ năng bán hàng</skill>
+      <ui>7177</ui>
+      <s1>7000000</s1>
+      <salary>1</salary>
+      <about>tốt nghiệp ngành tài chính ngân hàng, có kinh nghiêm làm thu ngân 2 năm, và kinh nghiệp tư vấn tài chính</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>275,259,249</strjo>
+  </appliedjob>
+</information>

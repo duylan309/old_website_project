@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7281</id>
+      <email>grane_hermione2000@yahoo.com</email>
+      <username/>
+      <name>Mai Trịnh</name>
+      <im>10210353875260247_mai-trinh.jpg</im>
+      <gender>2</gender>
+      <dob>1996-2-2</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477140247</created>
+      <day>2</day>
+      <month>2</month>
+      <year>1996</year>
+      <last_signin>1477140247</last_signin>
+      <phone>0933913155</phone>
+      <address>quận 7</address>
+      <country>vn</country>
+      <city></city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>7281</ui>
+      <title>Người dọn dẹp</title>
+      <experience>7</experience>
+      <category>14,16,18,19,20,26,27,28,29,30,35,36</category>
+      <type>5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

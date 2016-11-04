@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4747</id>
+      <email>Girl_love_989@yahoo.com</email>
+      <username/>
+      <name>Huỳnh Thị Thanh Hằng</name>
+      <im>1475478071_huynh-thi-thanh-hang.png</im>
+      <gender>2</gender>
+      <phone>0901371062</phone>
+      <address>116 Dương Quảng Hàm.Q Gò Vấp.</address>
+      <city>30</city>
+      <dob>1991-9-1</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475478071</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>1</day>
+      <month>9</month>
+      <year>1991</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.834512</lat>
+      <lng>106.6844055</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng</title>
+      <experience>2</experience>
+      <category>29</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Giao tiêp tốt </skill>
+      <ui>4747</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Hoạt bát.Nhanh nhẹn.Vui vẻ.Nhiệt tình.</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>156</strjo>
+  </appliedjob>
+  <experience>
+    <n_998>
+      <id>998</id>
+      <title>Nhan vien Ban Hang</title>
+      <level>1</level>
+      <cmpname>Cong ty ao lot Thoi trang Đức</cmpname>
+      <city>Tp .Ho Chi Minh</city>
+      <country>Viet Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_998>
+  </experience>
+</information>

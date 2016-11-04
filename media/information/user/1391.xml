@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1391</id>
+      <email>Phamcam93@gmail.com</email>
+      <username/>
+      <name>Phạm Thị Ngọc Cẩm</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01672011428</phone>
+      <address>58/7A2, Đồng Nai, P.15, Q.10, TP.HCM</address>
+      <city>30</city>
+      <dob>1993-5-19</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472223890</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>19</day>
+      <month>5</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7764745</lat>
+      <lng>106.7008831</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế</title>
+      <experience>1</experience>
+      <category>14,15</category>
+      <type>1,4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Pha chế cà phê máy, latte, capucino, đá xay, sinh tố,....</skill>
+      <ui>1391</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>169,194</strjo>
+  </appliedjob>
+</information>

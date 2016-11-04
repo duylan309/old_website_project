@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>880</id>
+      <email>ledieuy89@gmail.com</email>
+      <username/>
+      <name>Lê Thị Diệu Ý</name>
+      <im>1089666011123223_clouds-wind.jpg</im>
+      <gender>2</gender>
+      <dob>1989-2-1</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471361287</created>
+      <day>1</day>
+      <month>2</month>
+      <year>1989</year>
+      <phone>0939936299</phone>
+      <address>74/3/4a Phan Đăng Lưu, P5, Phú Nhuận</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.804552</lat>
+      <lng>106.685787</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>880</ui>
+      <title>Thu ngân, lễ tân, phục vụ</title>
+      <experience>3</experience>
+      <category>14,15,16,20</category>
+      <type>1,4</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <skill>Đã có kinh nghiệm 3 năm làm thu ngân, phục vụ tại các quán cà phê, nhà hàng, bar. Sử dụng thành thạo POS. Làm sổ sách liên quan ddeenss doanh thu mỗi ngày.&#13;
+Sẵn sàng hỗ trợ bộ phận khác nếu cần</skill>
+      <keyword/>
+      <about/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>155,107,275,201</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>107</strjo>
+  </savedjob>
+</information>

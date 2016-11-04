@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4805</id>
+      <email>lmtm29111997@gmail.com</email>
+      <username/>
+      <name>Lê Mai Tuyết Minh</name>
+      <im>1058489467599796_tiet-menh.jpg</im>
+      <gender>2</gender>
+      <dob>1997-11-29</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475504586</created>
+      <day>29</day>
+      <month>11</month>
+      <year>1997</year>
+      <last_signin>1475504586</last_signin>
+      <phone>0933031797</phone>
+      <address/>
+      <country>vn</country>
+      <city/>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>4805</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,29,35,36</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en,ja</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <education>
+    <n_805>
+      <id>805</id>
+      <school>Đại học Luật HCM</school>
+      <degrees/>
+      <fieldofstudy/>
+      <from>2015</from>
+      <to>Nay</to>
+    </n_805>
+  </education>
+  <appliedjob>
+    <total>1</total>
+    <strjo>219</strjo>
+  </appliedjob>
+</information>

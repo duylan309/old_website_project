@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3869</id>
+      <email>Nmtam2910@gmail.com</email>
+      <username/>
+      <name>Nguyễn Minh Tâm</name>
+      <im>3869_image.jpg</im>
+      <gender>1</gender>
+      <phone>0942433252</phone>
+      <address>293/1 Tôn Đản, phường 15, quận 4, TPHCM</address>
+      <city>30</city>
+      <dob>1997-10-29</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474879646</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>29</day>
+      <month>10</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.755193</lat>
+      <lng>106.706205</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,28,29,31</category>
+      <type>2,4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Kĩ năng giao tiếp, xử lý tình huống</skill>
+      <ui>3869</ui>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <about>Cởi mở, năng động. Yêu thích học hỏi đặc biệt là ngành quản trị nhà hàng-khách sạn - chuyên ngành tôi đang theo đuổi. Thích được tiếp xúc, phục vụ làm hài lòng người khác.</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>247</strjo>
+  </appliedjob>
+  <education>
+    <n_633>
+      <id>633</id>
+      <school>Đại học Tôn Đức Thắng</school>
+      <degrees/>
+      <fieldofstudy>Quản trị Nhà hàng-Khách sạn</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_633>
+  </education>
+  <experience>
+    <n_854>
+      <id>854</id>
+      <title>Nhân viên phục vụ tiệc cưới</title>
+      <level>1</level>
+      <cmpname>Crystal Palace</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>7/2015</from>
+      <to>9/2015</to>
+    </n_854>
+  </experience>
+</information>

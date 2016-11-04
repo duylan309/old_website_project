@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7104</id>
+      <email>tannguyen1991@gmail.com</email>
+      <username/>
+      <name>NGUYỄN VĂN TẤN</name>
+      <im/>
+      <gender>1</gender>
+      <phone>01224972296</phone>
+      <address>105 Lâm Văn Bền, phường Tân Thuận Tây, Q7</address>
+      <city>30</city>
+      <dob>1991-1-29</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477060176</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>29</day>
+      <month>1</month>
+      <year>1991</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7395333</lat>
+      <lng>106.7159258</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Đầu bếp nấu các món âu á</title>
+      <experience>3</experience>
+      <category>14,15,16,20,35</category>
+      <type>1,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Kĩ năng nấu cơ bản.&#13;
+Kĩ năng ẩm thực âu.&#13;
+Kĩ năng ẩm thực á.&#13;
+Kĩ năng ẩm thực hiện đại.&#13;
+Kĩ năng ẩm thực việt.&#13;
+</skill>
+      <ui>7104</ui>
+      <s1>12000000</s1>
+      <salary>1</salary>
+      <about>Nguyễn Văn Tấn&#13;
+Ngày sinh : 20/01/1991&#13;
+Đ/C Thường trú: Đội 20 xã Nông Luống, Huyện Điện Biên, Tỉnh Điện Biên.&#13;
+Đ/C Tạm trú: 105 Lâm Văn Bền, phường Tân Thuận Tây,Q7, TP HCM&#13;
+Nghề Nghiệp: Đầu Bếp&#13;
+Học Vấn: Hướng Nghiệp Á Âu.&#13;
+Nghành: Bếp Trưởng Điều Hành&#13;
+Tốt Nghiêp: Loại Giỏi&#13;
+Tình Trạng: Đã có gia đình.&#13;
+Sở Trường: Món Âu Và Món Á.&#13;
+</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>321,143,404,144</strjo>
+  </appliedjob>
+  <education>
+    <n_1163>
+      <id>1163</id>
+      <school>Hướng Nghiệp Á ÂU</school>
+      <degrees>Bằng Nghiệp Vụ Bếp</degrees>
+      <fieldofstudy>Bếp Trưởng Điều Hành</fieldofstudy>
+      <from>05/2013</from>
+      <to>03/2014</to>
+    </n_1163>
+  </education>
+  <experience>
+    <n_1395>
+      <id>1395</id>
+      <title>Sous Chef</title>
+      <level>1</level>
+      <cmpname>Công Ty TNDV Thiên Tâm</cmpname>
+      <city>TP HCM</city>
+      <country>Việt Nam</country>
+      <from>05/2015</from>
+      <to>Hiện tại</to>
+    </n_1395>
+    <n_1396>
+      <id>1396</id>
+      <title>Chef De Partie</title>
+      <level>1</level>
+      <cmpname>Công Ty TNHH Shaboo Kichoo</cmpname>
+      <city>TP HCM</city>
+      <country>Việt Nam</country>
+      <from>11/2014</from>
+      <to>02/2016</to>
+    </n_1396>
+    <n_1399>
+      <id>1399</id>
+      <title>Demi Chef De Partie</title>
+      <level>1</level>
+      <cmpname>Cafe Runam</cmpname>
+      <city>TP HCM</city>
+      <country>Việt Nam</country>
+      <from>08/2013</from>
+      <to>05/2014</to>
+    </n_1399>
+    <n_1400>
+      <id>1400</id>
+      <title>Cook 2</title>
+      <level>1</level>
+      <cmpname>Nhà Hàng Lion</cmpname>
+      <city>TP HCM</city>
+      <country>Việt Nam</country>
+      <from>05/2012</from>
+      <to>03/2013</to>
+    </n_1400>
+  </experience>
+</information>

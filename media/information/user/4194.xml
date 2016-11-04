@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4194</id>
+      <email>myduyen311298@gmail.com</email>
+      <username/>
+      <name>Nguyễn Văn Trung</name>
+      <im>1475027757_nguyen-van-trung.png</im>
+      <gender>1</gender>
+      <phone>01206968650</phone>
+      <address>52/14 Hồ Thị Kỷ . Quận 10 TPHCM</address>
+      <city>30</city>
+      <dob>1997-10-2</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475027757</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>2</day>
+      <month>10</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7335118</lat>
+      <lng>106.6974634</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phụ Bếp</title>
+      <experience>7</experience>
+      <category>14,15,17,29</category>
+      <type>5</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill>sơ chế nguyên liệu . thực hiện các món ăn . trang trí món ăn . dọp xẹp và lau rửa các dụng cụ nhà bếp</skill>
+      <ui>4194</ui>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <about>tôi hiện là sinh viên năm nhất nên mong muốn có 1 công việc phù hợp với lịch học . nếu được mong nơi làm sắp xếp cho tôi công việc từ 5-6 tiếng / 1 ngày </about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>153,193,352</strjo>
+  </appliedjob>
+</information>

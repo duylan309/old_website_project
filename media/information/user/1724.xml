@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1724</id>
+      <email>quihoan@gmail.com</email>
+      <username/>
+      <name>Nguyễn Phước Quý Hoan</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01207278954</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472824516</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Bán Hàng</title>
+      <experience>7</experience>
+      <category>15,16</category>
+      <type>2</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill>IT skills, kĩ năng phục vụ nhà hàng, kĩ năng giao tiếp tiếng anh</skill>
+      <ui>1724</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>140</strjo>
+  </appliedjob>
+</information>

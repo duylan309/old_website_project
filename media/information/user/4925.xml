@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4925</id>
+      <email>Nguyenngochuyentran.1998@gmail.com</email>
+      <username/>
+      <name>Nguyễn Ngọc Huyền Trân</name>
+      <im>1076759335773767_huyen-tran.jpg</im>
+      <gender>2</gender>
+      <dob>1998-8-29</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475588438</created>
+      <day>29</day>
+      <month>8</month>
+      <year>1998</year>
+      <last_signin>1475588438</last_signin>
+      <phone>0977620426</phone>
+      <address>75B, Trần Kế Xương, phường 7, quận Bình Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.799275</lat>
+      <lng>106.690928</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_824>
+      <id>824</id>
+      <school>Đại học Công nghệ thành phố Hồ Chí Minh - Hutech</school>
+      <degrees>Tốt nghiệp THPT</degrees>
+      <fieldofstudy>Đông phương học ( Hàn quốc học)</fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_824>
+  </education>
+  <experience>
+    <n_1031>
+      <id>1031</id>
+      <title>Nhân viên</title>
+      <level>1</level>
+      <cmpname>Thực phẩm khô Dung</cmpname>
+      <city>Lâm Đồng</city>
+      <country>Việt Năm</country>
+      <from>2015</from>
+      <to>2015</to>
+    </n_1031>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>4925</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>1</experience>
+      <category>14,15,27,35</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Nhanh nhẹn, hoạt bát, trung thực.&#13;
+Mong muốn kiếm thêm thu nhập và nâng cao kinh nghiệm bản thân.&#13;
+</about>
+      <skill>Giao tiếp và tạo lập quan hệ, Đàm phán thuyết phục, Làm việc nhóm, Lắng nghe.</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>106</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6336</id>
+      <email>phungminhquan0105@gmail.com</email>
+      <username/>
+      <name>PHÙNG MINH QUÂN</name>
+      <im>1476511815_phung-minh-quan.png</im>
+      <gender>0</gender>
+      <phone>0971956954</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476511815</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>bếp /phụ bếp</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>1</type>
+      <level>1,2</level>
+      <lang>vi,ja</lang>
+      <skill>nấu bếp</skill>
+      <ui>6336</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>443</strjo>
+  </appliedjob>
+</information>

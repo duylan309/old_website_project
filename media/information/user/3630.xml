@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3630</id>
+      <email>hantruong0809@gmail.com</email>
+      <username/>
+      <name>Trương thị bảo hân</name>
+      <im>1474724867_truong-thi-bao-han.png</im>
+      <gender>0</gender>
+      <phone>01694513146</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474724867</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế</title>
+      <experience>2</experience>
+      <category>14,15</category>
+      <type>4</type>
+      <level>2,4</level>
+      <lang>vi</lang>
+      <skill>Đã từng làm việc tại Trung Nguyên Coffee</skill>
+      <ui>3630</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>163</strjo>
+  </appliedjob>
+</information>

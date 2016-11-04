@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>215</id>
+    <ui>240</ui>
+    <name>Thuê</name>
+    <url>thuetoday</url>
+    <im>265132260496825_thue.jpg</im>
+    <im_banner>265132260496825_thue-cover.png</im_banner>
+    <category>14,15,17,20</category>
+    <phone/>
+    <address>135 Nguyễn Hữu Cảnh, Bình Thạnh</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.7889224</lat>
+    <lng>106.7151697</lng>
+    <website>https://thue.today</website>
+    <about/>
+    <facebook>https://www.facebook.com/thuetoday</facebook>
+    <size>1</size>
+    <status>1</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1467973846</created>
+  </db>
+  <more>
+    <about>Thuê là một website được thiết kế đặc biệt để đáp ứng nhu cầu tuyển dụng nhân sự cho ngành Dịch Vụ (bao gồm nhà hàng khách sạn, F&amp;B và các kênh bán lẻ). Nếu định hướng đam mê của bạn là phát triển sự nghiệp trong ngành dịch vụ năng động và thú vị này thì Thuê thực sự là một giải pháp hiệu quả. Thuê nỗ lực trở thành miền đất hứa cung cấp nguồn việc làm hấp dẫn, cùng với những lời khuyên hữu ích và các thông tin thú vị khác để mang đến cho bạn những lợi thế khác biệt trong quá trình tìm việc.\\r\\nThue is an online platform specliazing in recruiting for Service Industry (Hospitality, F&amp;B and retail). You have come to the right place if you aim to pursue your career path in this exciting and dynamic industry. We bring you the best jobs available in the market along with valuable information and advices that help you get the job.</about>
+    <whyworkus/>
+  </more>
+  <companybanner>265132260496825_thue-cover.png</companybanner>
+  <totalJob>
+    <total>7</total>
+    <strji>102,94,103,118,325,407,542</strji>
+  </totalJob>
+  <pagecmpfacebookcover>215_thue.jpg</pagecmpfacebookcover>
+</information>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4687</id>
+      <email>luongvanngoc83@gmail.com</email>
+      <username/>
+      <name>Lương Văn Ngọc</name>
+      <im>1475419755_luong-van-ngoc.png</im>
+      <gender>0</gender>
+      <phone>090854213</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475419754</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân Viên Phục Vụ</title>
+      <experience>7</experience>
+      <category>15,19,20,29,31,35</category>
+      <type>2,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Đang trong quá trình học tiếng anh nhưng chưa nhiều</skill>
+      <ui>4687</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>221,214</strjo>
+  </appliedjob>
+</information>

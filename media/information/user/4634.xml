@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4634</id>
+      <email>hualehoangkimxoxo@gmail.com</email>
+      <username/>
+      <name>Hứa Lê Hoàng Kim</name>
+      <im>4634_kim.jpg</im>
+      <gender>2</gender>
+      <phone>01654567861</phone>
+      <address>135A, Trần Hưng Đạo, phường Cầu Ông Lãnh, quận 1</address>
+      <city>30</city>
+      <dob>1998-2-14</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475383976</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>14</day>
+      <month>2</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.766256</lat>
+      <lng>106.695424</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên pha chế</title>
+      <experience>7</experience>
+      <category>14,15,17,27</category>
+      <type>3,5,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill>có đi làm,quen với công việc thì mới phát hiện được tiềm năng tiềm ấn của bản thân</skill>
+      <ui>4634</ui>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>ngoại hình ổn, gọn gàng,khéo léo, đam mê ẩm thực,ưa sáng tạo và học hỏi, có đủ tự tin, nhiệt huyết và yêu công việc, xem việc học đại học,rèn giũa tiếng anh và công việc là trên hết.&#13;
+</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>222</strjo>
+  </appliedjob>
+  <education>
+    <n_768>
+      <id>768</id>
+      <school>Đại học Kinh tế TP Hồ Chí Minh</school>
+      <degrees/>
+      <fieldofstudy/>
+      <from>2016</from>
+      <to>2020</to>
+    </n_768>
+  </education>
+</information>

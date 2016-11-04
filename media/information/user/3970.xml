@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3970</id>
+      <email>Marionguyen42@gmail.com</email>
+      <username/>
+      <name>Nguyễn văn thắng</name>
+      <im>1474907431_nguyen-van-thang.png</im>
+      <gender>0</gender>
+      <phone>01626364222</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474907431</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,20,35</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>3970</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>219</strjo>
+  </appliedjob>
+  <education>
+    <n_647>
+      <id>647</id>
+      <school>Cao đẳng văn hoá nghệ thuật tp HCM</school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy>Diễn viên kịch điện ảnh</fieldofstudy>
+      <from>2015</from>
+      <to>2018</to>
+    </n_647>
+  </education>
+</information>

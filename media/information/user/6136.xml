@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6136</id>
+      <email>star_sad_lonley@yahoo.com</email>
+      <username/>
+      <name>Nhật Trung</name>
+      <im>736132399858106_nhat-trung.jpg</im>
+      <gender>1</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476378140</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Bếp</title>
+      <experience>1</experience>
+      <category>36</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Kỹ năng về sử dụng, dao, thớt các công việc liên quan đến bếp.</skill>
+      <ui>6136</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>421,162</strjo>
+  </appliedjob>
+</information>

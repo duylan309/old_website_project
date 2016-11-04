@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3254</id>
+      <email>ben.vuong@giant.vn</email>
+      <username/>
+      <name>Nguyễn Lê Minh Thuận</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0932030935</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1474458506</created>
+      <dayleft>1477050506</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1474458506</last_signin>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <jobleft>4</jobleft>
+    </db>
+    <password>
+      <lastupdate>1474602089</lastupdate>
+    </password>
+  </userinfo>
+  <totalJob>
+    <total>1</total>
+    <strji>311</strji>
+  </totalJob>
+</information>

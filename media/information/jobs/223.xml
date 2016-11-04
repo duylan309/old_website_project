@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>223</id>
+    <ui>1609</ui>
+    <ci>300</ci>
+    <ai>0</ai>
+    <ti>Bếp chính</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>2</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>5000000</s1>
+    <s2>7000000</s2>
+    <s3>227</s3>
+    <s4>318</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>9</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description>Nấu các món ăn chuyên món bắc\r\nLên danh sách món ăn mới \r\n</description>
+    <requirement>Ưu tiên bếp nấu chuyên món bắc </requirement>
+    <benefit>Làm việc 10 tiếng/ngày \r\nTuần làm 6 ngày \r\nLàm việc môi trường thân thiện máy lạnh\r\nĐược nghỉ giải giao khi vắng khách </benefit>
+    <keyword>Trung thực,Tự tin,Nhiệt tình</keyword>
+    <ad/>
+    <location_id>127</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-09-30</de>
+    <re>0000-00-00</re>
+    <cr>1474642968</cr>
+  </db>
+  <more>
+    <requirement>Ưu tiên bếp nấu chuyên món bắc </requirement>
+    <description>Nấu các món ăn chuyên món bắc&#13;
+Lên danh sách món ăn mới &#13;
+</description>
+    <benefit>Làm việc 10 tiếng/ngày &#13;
+Tuần làm 6 ngày &#13;
+Làm việc môi trường thân thiện máy lạnh&#13;
+Được nghỉ giải giao khi vắng khách </benefit>
+    <keyword>Trung thực,Tự tin,Nhiệt tình</keyword>
+  </more>
+  <userapplied>
+    <total>1</total>
+    <strui>1993</strui>
+  </userapplied>
+</information>

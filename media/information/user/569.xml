@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>569</id>
+      <email>Luuthuytrang96nt@gmail.com</email>
+      <username/>
+      <name>Lưu Thuỳ Trang</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01683715599</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470544095</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, pha chế</title>
+      <experience>1</experience>
+      <category>14,15,29</category>
+      <type>2,6</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>569</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>93,79</strjo>
+  </appliedjob>
+</information>

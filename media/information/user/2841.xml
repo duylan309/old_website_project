@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2841</id>
+      <email>tranthithuthao25897@gmail.com</email>
+      <username/>
+      <name>Trần Thị Thu Thảo </name>
+      <im>556931001168321_thao-tran.jpg</im>
+      <gender>2</gender>
+      <dob>01997-8-25</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474023094</created>
+      <day>25</day>
+      <month>8</month>
+      <year>01997</year>
+      <last_signin>1474023094</last_signin>
+      <phone>01204195963</phone>
+      <address>408 Minh Phụng Phường 09 Quận 11</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7992329</lat>
+      <lng>106.6567029</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>2841</ui>
+      <title>Nhân viên pha chế cà phê</title>
+      <experience>1</experience>
+      <category>14,15,20,27,29</category>
+      <type>2,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>1500000</s1>
+      <salary>1</salary>
+      <about>- Vui vẻ, hòa đồng&#13;
+- Thích làm tìm hiểu về cà phê&#13;
+- Mong muốn được làm việc trong môi trường về dịch vụ ăn uống </about>
+      <skill>- Biết sử dụng máy cà phê, pha chế các loại thức uống như smoothie, soda,... &#13;
+- Kỹ năng phục vụ&#13;
+- Tin học văn phòng, Anh văn giao tiếp cơ bản. </skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <experience>
+    <n_1007>
+      <id>1007</id>
+      <title>Nhân Viên pha chế/ phục vụ/ thu ngân</title>
+      <level>1</level>
+      <cmpname>UrbanStation Coffee</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam </country>
+      <from>11/01/2016</from>
+      <to>18/08/2016</to>
+    </n_1007>
+  </experience>
+  <education>
+    <n_807>
+      <id>807</id>
+      <school>Cao đẳng nghề Du lịch Sài Gòn</school>
+      <degrees/>
+      <fieldofstudy>Quản trị khách sạn </fieldofstudy>
+      <from>2016</from>
+      <to>2019</to>
+    </n_807>
+  </education>
+  <appliedjob>
+    <total>2</total>
+    <strjo>376,293</strjo>
+  </appliedjob>
+</information>

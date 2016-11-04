@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4787</id>
+      <email>vothanhthu.mytien@gmail.com</email>
+      <username/>
+      <name>Bảo Trang</name>
+      <im>193867021038020_bao-trang.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475497145</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Thu ngân, Kế toán</title>
+      <experience>1</experience>
+      <category>14,29,31,35</category>
+      <type>4</type>
+      <level>2,4</level>
+      <lang>vi</lang>
+      <skill>Hiện tại em đang năm nhất trung cấp Kế Toán và ban ngày thì em cũng đang làm Kế Toán cho 1 CTy cntb kinh doanh sắt thép. Em muốn tìm công việc từ 6h chiều.</skill>
+      <ui>4787</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>334</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3472</id>
+      <email>vinhchef19962016@gmail.com</email>
+      <username/>
+      <name>Trần Thế Vinh</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0903191096</phone>
+      <address>58/98 hàm tử p1 q5 tphcm</address>
+      <city>30</city>
+      <dob>1996-10-19</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474641921</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1474641921</last_signin>
+      <day>19</day>
+      <month>10</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7764745</lat>
+      <lng>106.7008831</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>3472</ui>
+      <title>Commis</title>
+      <experience>7</experience>
+      <category>14,20</category>
+      <type>6</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Hoà đồng vui vẻ,chịu được áp lực cao trọng công việc,có tình thần cầu tiến</about>
+      <skill>Đang học nghiệp vụ bếp trưởng điều hành</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>8</total>
+    <strjo>276,114,343,153,233,193,342,351</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1416</id>
+      <email>giamyvy@gmail.com</email>
+      <username/>
+      <name>Nguyễn Đặng Thảo Mi</name>
+      <im>1416_13872844-298774320475930-4392790736389203054-n.jpg</im>
+      <gender>2</gender>
+      <dob>1998-3-19</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472287124</created>
+      <day>19</day>
+      <month>3</month>
+      <year>1998</year>
+      <last_signin>1472287124</last_signin>
+      <phone>0902422974</phone>
+      <address>36/6 đường 762 Hồng Bàng P1 Q11</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7551159</lat>
+      <lng>106.638982</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>1416</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,17,29,31,35</category>
+      <type>2,4,5</type>
+      <level>2</level>
+      <lang>vi,en,ja</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <skill>Nấu ăn</skill>
+      <keyword>Tập trung trong công việc&#13;
+Chịu được áp lực công việc&#13;
+Trung thực&#13;
+Nhiệt tình&#13;
+Tự tin</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>165</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5248</id>
+      <email>duongtrinh146@yahoo.com.vn</email>
+      <username/>
+      <name>Trịnh Quốc Dương</name>
+      <im>642751935886397_trinh-quoc-duong.jpg</im>
+      <gender>1</gender>
+      <dob>1994-1-1</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475826317</created>
+      <day>1</day>
+      <month>1</month>
+      <year>1994</year>
+      <phone>01223612535</phone>
+      <address>18/48h lê văn lương, ấp 5, phước kiển, huyện nhà bè</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7201949</lat>
+      <lng>106.6989934</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15,27</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>nhanh nhẹn, siêng năng, trung thực, tích cực </skill>
+      <ui>5248</ui>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>252</strjo>
+  </appliedjob>
+</information>

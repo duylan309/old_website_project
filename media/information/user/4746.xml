@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4746</id>
+      <email>s3634767@rmit.edu.vn</email>
+      <username/>
+      <name>Nguyễn Thị Bích Huyền</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01213478289</phone>
+      <address>637/21/121 đường Quang trung, quận gò vấp</address>
+      <city>30</city>
+      <dob>1997-3-23</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475477583</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1475477583</last_signin>
+      <day>23</day>
+      <month>3</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8383246</lat>
+      <lng>106.6511093</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_791>
+      <id>791</id>
+      <school>RMIT University</school>
+      <degrees>Bachelor</degrees>
+      <fieldofstudy>Marketing</fieldofstudy>
+      <from>2016</from>
+      <to>2019</to>
+    </n_791>
+  </education>
+  <user_cv>
+    <db>
+      <ui>4746</ui>
+      <title>Nhân viên phục vụ, bán hàng, viết bài pr</title>
+      <experience>1</experience>
+      <category>15,29,35</category>
+      <type>2,5,6</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>I am a student at RMIT University, Bachelor of Marketing. I have participated in ENACTUS RMIT SGS club for 1 year. Although I am not a perfect student who have a completely professional working style, I am confidence to say that I usually patience, hard-working learn new things as well as improve my weakness. My strength is be on time, patience, hard-working, responsible. I really want to learn valuable experiences through out part-time jobs</about>
+      <skill>Enthusiastic,  friendly &amp; patience&#13;
+Effectively working under pressure&#13;
+Time management&#13;
+ English communication&#13;
+Sense of humor &#13;
+Customer service skills&#13;
+</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>105,100,371</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>371</strjo>
+  </savedjob>
+</information>

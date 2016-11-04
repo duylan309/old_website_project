@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3896</id>
+      <email>phantrinhnghi@gmail.com</email>
+      <username/>
+      <name>Phan Trịnh Nghi</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01284825814</phone>
+      <address>12A, Thắng Nhì, Vũng Tàu</address>
+      <city>2</city>
+      <dob>1998-2-4</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474888841</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1474888841</last_signin>
+      <day>4</day>
+      <month>2</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Bà Rịa Vũng Tàu</city_text_vi>
+      <city_text_en>Vung Tau</city_text_en>
+      <lat>10.3715966</lat>
+      <lng>107.0750059</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_635>
+      <id>635</id>
+      <school>Đh Bà Rịa Vũng Tàu </school>
+      <degrees>Đại học </degrees>
+      <fieldofstudy>quản trị du lịch, nhà hàng, khách sạn </fieldofstudy>
+      <from>1</from>
+      <to>12</to>
+    </n_635>
+  </education>
+  <user_cv>
+    <db>
+      <ui>3896</ui>
+      <title>nhân viên phuc vụ</title>
+      <experience>1</experience>
+      <category>14,15,17,18,20,27,29,31,35</category>
+      <type>2,4,5</type>
+      <level>1,2</level>
+      <lang>en</lang>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <about>Tôi là một cô gái sinh ra tại Vũng Tàu.  &#13;
+Cao 1.57m, nặng 45kg&#13;
+Đã tốt nghiệt THPT ,hiện là sv Đh bà rịa Vũng Tàu </about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

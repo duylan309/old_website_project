@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>200</id>
+    <ui>1374</ui>
+    <ci>284</ci>
+    <ai>0</ai>
+    <ti>Nhân viên bếp chính</ti>
+    <ta/>
+    <le>2</le>
+    <ty>4</ty>
+    <ex>1,2</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>4000000</s1>
+    <s2>6000000</s2>
+    <s3>181</s3>
+    <s4>272</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>107</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-10-25</de>
+    <re>0000-00-00</re>
+    <cr>1472210912</cr>
+  </db>
+  <more>
+    <requirement>. Có kiến thức về món Âu&#13;
+. Có kinh nghiệm về món Âu và nướng steak là 1 lợi thế&#13;
+. Đam mê công việc bếp&#13;
+. Tác phong gọn gàng, nhanh nhẹn và kỹ tính</requirement>
+    <description>. Chuẩn bị dụng cụ và các thành phần cần thiết để đảm bảo mọi thứ đầy đủ cho bếp hoạt dđông&#13;
+. Các công việc khác sẽ được hướng dẫn bởi bếp Trưởng.&#13;
+. Sẽ được đào tạo làm tất cả các món ăn của nhà hàng (khai vị, món chính và tráng miệng)</description>
+    <benefit>. Phụ cấp tiền xăng và gửi xe&#13;
+. Thưởng theo doanh thu của nhà hàng&#13;
+. Tip&#13;
+. Phụ cấp bữa ăn tại nhà hàng&#13;
+. Nghỉ ca 1 ngày/ tuần,&#13;
+. Nghỉ phép năm và lễ</benefit>
+    <keyword>Nhiệt tình,Trung thực</keyword>
+  </more>
+  <userapplied>
+    <total>27</total>
+    <strui>1673,1797,1881,1915,1972,292,2103,2201,2266,2756,3043,3232,3411,3687,3737,3227,4280,1503,4353,4907,5769,5940,6176,6154,6211,7306,5889</strui>
+  </userapplied>
+</information>

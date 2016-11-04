@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6957</id>
+      <email>nganngo9995@gmail.com</email>
+      <username/>
+      <name>Ngô Nguyễn Nguyệt Ngân</name>
+      <im>1151979681560261_nguyet-ngan.jpg</im>
+      <gender>2</gender>
+      <dob>1995-9-9</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476969544</created>
+      <day>9</day>
+      <month>9</month>
+      <year>1995</year>
+      <phone>0987281592</phone>
+      <address>86/18A đường số 6, phường hiệp Bình Chánh, Thủ Đức</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8307464</lat>
+      <lng>106.7171637</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Bán hàng, Thực tập sinh, Nhân viên bán thời gian, Trợ lý</title>
+      <experience>7</experience>
+      <category>14,15,17,27,29,31,35,36</category>
+      <type>2,3,4,5,6</type>
+      <level>1,2,3</level>
+      <lang>vi,en</lang>
+      <skill>Kỹ năng giao tiếp.&#13;
+Kỹ năng làm việc nhóm.&#13;
+Kỹ năng vi tính. &#13;
+&#13;
+</skill>
+      <ui>6957</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Nhiệt tình, nhanh nhẹn, chủ động trong công việc, ham học hỏi &amp; tuân thủ deadline đề ra. &#13;
+Sẵn sàng tiếp thu các ý kiến, góp ý của người khác.&#13;
+Hoà đồng, thân thiện với mọi người xung quanh.&#13;
+Chăm chỉ, cầu tiến.&#13;
+ Đang mong muốn tìm được một môi trường làm việc năng động, có thể trau dồi thêm kiến thức. Cũng như có thể áp dụng được những kiến thức đã được học tại trường. &#13;
+Mong muốn được học hỏi làm việc hết mình. </about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>322,489</strjo>
+  </appliedjob>
+  <education>
+    <n_1145>
+      <id>1145</id>
+      <school>Đại học Kinh Tế TPHCM</school>
+      <degrees>Khá</degrees>
+      <fieldofstudy>quản Trị Kinh Doanh</fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_1145>
+  </education>
+</information>

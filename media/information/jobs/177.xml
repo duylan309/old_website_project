@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>177</id>
+    <ui>1138</ui>
+    <ci>271</ci>
+    <ai>0</ai>
+    <ti>Nhân viên phụ bếp</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>7</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>3000000</s1>
+    <s2>5000000</s2>
+    <s3>136</s3>
+    <s4>227</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description/>
+    <requirement>+ Số lượng: 10 người\r\n+ Sẽ được tranning.</requirement>
+    <benefit/>
+    <keyword>Kỹ năng chăm sóc khách hàng,Giao tiếp hiệu quả,Tập trung trong công việc,Chịu được áp lực công việc</keyword>
+    <ad/>
+    <location_id>93</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-10-21</de>
+    <re>0000-00-00</re>
+    <cr>1471864602</cr>
+  </db>
+  <more>
+    <requirement>+ Số lượng: 10 người&#13;
++ Sẽ được tranning.</requirement>
+    <description/>
+    <benefit/>
+    <keyword>Kỹ năng chăm sóc khách hàng,Giao tiếp hiệu quả,Tập trung trong công việc,Chịu được áp lực công việc</keyword>
+  </more>
+  <userapplied>
+    <total>12</total>
+    <strui>1222,1244,1406,1848,1916,2005,2288,2333,4907,5518,6641,7936</strui>
+  </userapplied>
+</information>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>726</id>
+      <email>giang.kutin@gmail.com</email>
+      <username/>
+      <name>Ngô Hoàng</name>
+      <im>1086296134751237_ngo-hoang.jpg</im>
+      <gender>1</gender>
+      <dob>1989-6-12</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470943843</created>
+      <day>12</day>
+      <month>6</month>
+      <year>1989</year>
+      <phone>0969155899</phone>
+      <address>125 bùi đình tuý - bình thạnh - HCM</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.806126</lat>
+      <lng>106.706083</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>726</ui>
+      <title>Bartender</title>
+      <experience>2</experience>
+      <category>14,19,20</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <skill>Máy tính văn phòng &#13;
+</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>119</strjo>
+  </appliedjob>
+</information>

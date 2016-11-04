@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>509</id>
+      <email>hulixauxa@gmail.com</email>
+      <username/>
+      <name>Linh</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0913178899</phone>
+      <address>73 Lạc Long Quân, Phường 1, Quận 11</address>
+      <city>30</city>
+      <dob>1996-1-8</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470302853</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>8</day>
+      <month>1</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.758702</lat>
+      <lng>106.639809</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_71>
+      <id>71</id>
+      <school>wall street english</school>
+      <degrees>threshold 1</degrees>
+      <fieldofstudy>Anh văn giao tiếp</fieldofstudy>
+      <from>2016</from>
+      <to>2017</to>
+    </n_71>
+  </education>
+  <user_cv>
+    <db>
+      <ui>509</ui>
+      <title>nhân viên bán thời gian, thu ngân</title>
+      <category>29,30,31,35,36</category>
+      <type>2</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <skill>word, excel</skill>
+      <keyword>Nhiệt tình,Tự tin,Trung thực,Chịu được áp lực công việc,Tinh thần trách nhiệm,Kỹ năng giải quyết tình huống</keyword>
+    </db>
+  </user_cv>
+</information>

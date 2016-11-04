@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3680</id>
+      <email>truongthang198@gmail.com</email>
+      <username/>
+      <name>Trương Thắng</name>
+      <im>662416387256712_truong-thang.jpg</im>
+      <gender>1</gender>
+      <dob>1998-6-18</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474770563</created>
+      <day>18</day>
+      <month>6</month>
+      <year>1998</year>
+      <phone>01636953792</phone>
+      <address>494,lê quang định,phường 1,gò vấp</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8207669</lat>
+      <lng>106.6890915</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vu,pha chế</title>
+      <experience>7</experience>
+      <category>14,15,17,29,31</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Giao tiếp</skill>
+      <ui>3680</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Chăm chỉ,cần cù trong lao động. </about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>187</strjo>
+  </appliedjob>
+</information>

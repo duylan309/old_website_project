@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7344</id>
+      <email>ngocnabi18@gmail.com</email>
+      <username/>
+      <name>Bùi Thị Minh Ngọc</name>
+      <im>1477190543_bui-thi-minh-ngoc.png</im>
+      <gender>2</gender>
+      <phone>0934087492</phone>
+      <address>391/33 Sư Vạn Hạnh, phường 12, quận 10</address>
+      <city>30</city>
+      <dob>1996-1-10</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477190543</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>10</day>
+      <month>1</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7704335</lat>
+      <lng>106.670322</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ, phụ bếp</title>
+      <experience>7</experience>
+      <category>14,15,17,27,31</category>
+      <type>2,6</type>
+      <level>1</level>
+      <lang>vi,ch</lang>
+      <skill></skill>
+      <ui>7344</ui>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>470</strjo>
+  </appliedjob>
+  <education>
+    <n_1192>
+      <id>1192</id>
+      <school>Đại học Sư Phạm TPHCM</school>
+      <degrees>Sinh viên</degrees>
+      <fieldofstudy>Cử nhân Văn học</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_1192>
+  </education>
+</information>

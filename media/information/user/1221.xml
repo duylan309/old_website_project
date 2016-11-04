@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1221</id>
+      <email>tuongvi.181192@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Tường Vi</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01629187386</phone>
+      <address>68/62, Đồng Nai, P15,quận 10, TP.HCM</address>
+      <city>30</city>
+      <dob>1992-11-18</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471950649</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>18</day>
+      <month>11</month>
+      <year>1992</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên</title>
+      <experience>1</experience>
+      <category>30,35,36</category>
+      <type>2,4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>thái độ phục vụ khách hàng, kỹ tính, ăn mặc gọn gàng, có thể nhớ tên khách hàng.</skill>
+      <ui>1221</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>124</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>124</strjo>
+  </savedjob>
+</information>

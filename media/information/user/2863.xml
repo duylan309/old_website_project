@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2863</id>
+      <email>nguyenhungminh08041997@gmail.com</email>
+      <username/>
+      <name>Nguyễn Hùng Minh</name>
+      <im/>
+      <gender>1</gender>
+      <phone>01288063022</phone>
+      <address>86/8 Xô Viết nghệ Tĩnh  P25  Q.Bình Thạnh</address>
+      <city>30</city>
+      <dob>1997-4-8</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474037301</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>8</day>
+      <month>4</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.795781</lat>
+      <lng>106.7131</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục Vụ , Bồi bàn</title>
+      <experience>1</experience>
+      <category>14,16</category>
+      <type>2,5,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill>Phong cách phục vụ , cách set up muỗng nĩa , </skill>
+      <ui>2863</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>chịu khó học hỏi , siêng năng , có thể sắp xếp giờ giấc linh hoạt</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>181,267,351,221,162,427</strjo>
+  </appliedjob>
+  <education>
+    <n_467>
+      <id>467</id>
+      <school>THPT Hoàng Hoa Thám</school>
+      <degrees>tốt nghiệp THPT</degrees>
+      <fieldofstudy>12/12</fieldofstudy>
+      <from>2013</from>
+      <to>2016</to>
+    </n_467>
+  </education>
+  <experience>
+    <n_640>
+      <id>640</id>
+      <title>phục vụ</title>
+      <level>1</level>
+      <cmpname>nhà hàng cafe terrace</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>05-2015</from>
+      <to>08-2015</to>
+    </n_640>
+  </experience>
+</information>

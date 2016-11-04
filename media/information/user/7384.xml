@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7384</id>
+      <email>kimhuyentr@gmail.com</email>
+      <username/>
+      <name>Trần Kim Huyền</name>
+      <im>354693714864047_tran-kim-huyen.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477217005</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>tôi cần tìm một công việc làm linh động về thời gian để kiếm thêm thu nhập</title>
+      <experience>7</experience>
+      <category>14,15,18,19,26,27,28,29,30,31,35</category>
+      <type>2,6</type>
+      <level>2,4</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>7384</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>498</strjo>
+  </appliedjob>
+</information>

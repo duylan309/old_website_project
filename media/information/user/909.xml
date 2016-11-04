@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>909</id>
+      <email>hoainhu@hoangthaithanh.com</email>
+      <username/>
+      <name>Janny Huynh</name>
+      <im>10209776085536000_janny-huynh.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471419384</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+</information>

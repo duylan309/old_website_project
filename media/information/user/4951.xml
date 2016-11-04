@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4951</id>
+      <email>huynhphuong4393@gmail.com</email>
+      <username/>
+      <name>Huỳnh Duy Phương</name>
+      <im>325979527753518_huynh-duy-phuong.jpg</im>
+      <gender>1</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475599273</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Service</title>
+      <experience>2</experience>
+      <category>14</category>
+      <type>2</type>
+      <level>4</level>
+      <lang>vi,en</lang>
+      <skill>Nhà hàng</skill>
+      <ui>4951</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>150</strjo>
+  </appliedjob>
+</information>

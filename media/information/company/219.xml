@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>219</id>
+    <ui>239</ui>
+    <name>Thuê Cafe</name>
+    <url>thuetoday</url>
+    <im>_thue-cafe.jpg</im>
+    <im_banner>_thue-cafe-cover.jpg</im_banner>
+    <category>15</category>
+    <phone></phone>
+    <address>33, Nguyễn Thị Minh Khai, Quận 1</address>
+    <district>0</district>
+    <district_text_vi></district_text_vi>
+    <district_text_en></district_text_en>
+    <city>30</city>
+    <lat>10.784275</lat>
+    <lng>106.699371</lng>
+    <website>https://thue.today</website>
+    <about></about>
+    <facebook>https://www.facebook.com/thuetoday/</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1468141215</created>
+  </db>
+  <more>
+    <about>Thue is an online platform specifically created to address the recruitment needs for service sector (Hospitality, F&amp;B and Retail).&#13;
+ &#13;
+As consumers’ disposable income rises, so does the demand for innovative venues, products, and quality service. For most businesses in Vietnam, finding staff to meet the new demands of their customers has been one of the major challenges. Thue addresses this particular need.&#13;
+ &#13;
+Businesses are currently using the same traditional method to recruit from the same pool of talents with limited results.  At Thue, we believe brand image can become a key differentiator in attracting quality candidates. This is the corner stone of our design philosophy. Thue enables our clients total control of their brand through their profile page and to post jobs directly, thus cutting out the middlemen and making it more feasible for companies of all sizes to attract, manage, and recruit candidates.</about>
+    <whyworkus></whyworkus>
+  </more>
+  <companybanner>_thue-cafe-cover.jpg</companybanner>
+</information>

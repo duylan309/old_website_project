@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3430</id>
+      <email>Nguyenvunet@yahoo.com</email>
+      <username/>
+      <name>Hong Nguyen</name>
+      <im>3430_image.jpg</im>
+      <gender>2</gender>
+      <phone>0952177070</phone>
+      <address>Chung cu nguyen dinh chieu</address>
+      <city>30</city>
+      <dob>1991-1-1</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474620872</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1474620872</last_signin>
+      <day>1</day>
+      <month>1</month>
+      <year>1991</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7807359</lat>
+      <lng>106.6922474</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>3430</ui>
+      <title>Cashier</title>
+      <experience>3</experience>
+      <category>14,28,29,31</category>
+      <type>1</type>
+      <level>1</level>
+      <lang>vi,sp</lang>
+      <s1>30000000</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <savedjob>
+    <total>2</total>
+    <strjo>181,175</strjo>
+  </savedjob>
+</information>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>183</id>
+    <ui>62</ui>
+    <name>Hoa tuc</name>
+    <url>hoatuc</url>
+    <im>183_hoatuc.png</im>
+    <category>14,16</category>
+    <phone>08 3825 1676</phone>
+    <address>74 Hai Ba Trung</address>
+    <district>760</district>
+    <district_text_vi>Quận 1</district_text_vi>
+    <district_text_en>District 1</district_text_en>
+    <city>30</city>
+    <website>http://hoatuc.com/</website>
+    <skype/>
+    <facebook>https://www.facebook.com/HoaTucSaigon/</facebook>
+    <size>1</size>
+    <status>0</status>
+    <dayleft>0</dayleft>
+    <jobleft>0</jobleft>
+    <signupby/>
+    <token/>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1464942031</created>
+    <deactive>0</deactive>
+  </db>
+  <more>
+    <about>Hoa Tuc - ”Poppy” - came from the owners’ desire to explore new avenues in Vietnamese cooking. Food in Vietnam has been stuck in a stiff “mold” with every chef in the country churning out the same food over and over, year after year.&#13;
+&#13;
+We hired a highly qualified chef and spent a year testing new recipes, assembling Vietnamese ingredients in a fresh new way. Staying clear from “fusion”, we established a menu to wow the senses and gave Saigon its first Contemporary Vietnamese Cuisine restaurant in August 2008.&#13;
+&#13;
+Making great use of a historical location, Saigon’s old opium refinery, Hoa Tuc was build, designed and furnished locally with custom made wrought iron furniture, cast iron lamps and pergolas. It boats a beautiful indoor seating area with original columns, a front terrace witha Paris Metro inspired roof and a secluded al fresco dining section to its side with creepers and greenery all around. Enough to make anyone forget the madness of the city while seating in the very heart of it.</about>
+    <whyworkus>Takes Reservations, Good For Groups, Take Out, Delivery, Catering and Outdoor Seating</whyworkus>
+  </more>
+  <latlng>
+    <lat>10.777351226347749</lat>
+    <lng>106.70392828993499</lng>
+  </latlng>
+  <companybanner>183_hoatuc-cover.jpg</companybanner>
+  <totalJob>
+    <total>2</total>
+    <strji>28,60</strji>
+  </totalJob>
+</information>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2067</id>
+      <email>thanhtrucdang18895@gmail.com</email>
+      <username/>
+      <name>Đặng Thị Thanh Trúc</name>
+      <im>919409838163050_truc-dang.jpg</im>
+      <gender>2</gender>
+      <dob>1995-8-18</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473219899</created>
+      <day>18</day>
+      <month>8</month>
+      <year>1995</year>
+      <phone>0917264636</phone>
+      <address>140/48 Điện Biên Phủ, Phường 17, Quận Bình Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.801256</lat>
+      <lng>106.708408</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_828>
+      <id>828</id>
+      <title>nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Công ty TNHH Nhà hàng Hoàng Yến</cmpname>
+      <city/>
+      <country/>
+      <from>12/2015</from>
+      <to>05/2016</to>
+    </n_828>
+  </experience>
+  <education>
+    <n_614>
+      <id>614</id>
+      <school>Đại học Ngoại Ngữ- Tin Học TP Hồ Chí Minh</school>
+      <degrees/>
+      <fieldofstudy>Quản trị Nhà Hàng- Khách Sạn</fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_614>
+  </education>
+  <user_cv>
+    <db>
+      <ui>2067</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>2</experience>
+      <category>14,15</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Senior student at HCMC University of Foreign Languages- Information Technology &#13;
+12/2016- 05/2016 : waitress at Hoang Yen Buffet Restaurant ( part- time )&#13;
+6/2016- 09/2016: waitress at Sheraton Saigon Hotel &amp; Towers (trainee )&#13;
+</about>
+      <skill>Provide good customer service &#13;
+Experience in both restaurant and hotel services</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

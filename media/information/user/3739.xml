@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3739</id>
+      <email>hoangvumytram160794@gmail.com</email>
+      <username/>
+      <name>Hoàng vũ mỹ trâm</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01633700473</phone>
+      <address>77/20/29 đường số 11 phường 11 quận gò vấp</address>
+      <city>30</city>
+      <dob>1994-7-16</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474802550</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>16</day>
+      <month>7</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8416872</lat>
+      <lng>106.661124</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>2</experience>
+      <category>15,17,29,31</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Em có kinh nghiệm về phục vụ</skill>
+      <ui>3739</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Em đã làm nhiều chỗ có kinh nghiệm về việc phục vụ&#13;
+Em có thể làm việc theo tập thể </about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>172,63,105,64,278,322</strjo>
+  </appliedjob>
+</information>

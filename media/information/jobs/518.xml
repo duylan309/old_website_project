@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>518</id>
+    <ui>7591</ui>
+    <ci>426</ci>
+    <ai>0</ai>
+    <ti>Nhân viên phục vụ</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1,2,4</ty>
+    <ex>7</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>16800</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description>Vị trí tuyển dụng: Nhân viên phục vụ, phụ bếp, thu ngân\r\n• Bán thời gian: 4-6 tiếng/ngày.\r\n• Toàn thời gian: 8 tiếng/ngày.\r\n</description>
+    <requirement>• Trình độ học vấn tốt nghiệp lớp 12, sức khỏe ổn định,  ngoại hình ưa nhìn,  \r\n• Khả năng giao tiếp anh văn cơ bản, \r\n• Kỹ năng giao tiếp,  ứng xử tốt, \r\n• Nhanh nhẹn,  hoạt bát,  thân thiện,  nhiệt tình, \r\n• Chăm chỉ,  trung thực,  có trách nhiệm trong công việc, \r\n• Làm Lễ Tết</requirement>
+    <workhour/>
+    <benefit/>
+    <keyword>Giao tiếp hiệu quả,Trung thực,Nhiệt tình,Tinh thần trách nhiệm,Kỹ năng chăm sóc khách hàng</keyword>
+    <ad/>
+    <location_id>372</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-20</de>
+    <re>0000-00-00</re>
+    <cr>1477372474</cr>
+  </db>
+  <more>
+    <requirement>• Trình độ học vấn tốt nghiệp lớp 12, sức khỏe ổn định,  ngoại hình ưa nhìn,  &#13;
+• Khả năng giao tiếp anh văn cơ bản, &#13;
+• Kỹ năng giao tiếp,  ứng xử tốt, &#13;
+• Nhanh nhẹn,  hoạt bát,  thân thiện,  nhiệt tình, &#13;
+• Chăm chỉ,  trung thực,  có trách nhiệm trong công việc, &#13;
+• Làm Lễ Tết</requirement>
+    <description>Vị trí tuyển dụng: Nhân viên phục vụ, phụ bếp, thu ngân&#13;
+• Bán thời gian: 4-6 tiếng/ngày.&#13;
+• Toàn thời gian: 8 tiếng/ngày.&#13;
+</description>
+    <workhour/>
+    <benefit/>
+    <keyword>Giao tiếp hiệu quả,Trung thực,Nhiệt tình,Tinh thần trách nhiệm,Kỹ năng chăm sóc khách hàng</keyword>
+  </more>
+  <userapplied>
+    <total>19</total>
+    <strui>7194,3834,3538,940,7806,4833,7891,7915,7932,7917,6399,7976,5107,4130,7792,3740,8078,8110,8114</strui>
+  </userapplied>
+</information>

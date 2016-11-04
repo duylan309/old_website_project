@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3705</id>
+      <email>phuong.kieu.m.2014@caodangvietmy.edu.vn</email>
+      <username/>
+      <name>Kiều Mỹ Phương</name>
+      <im>1474782026_kieu-my-phuong.png</im>
+      <gender>2</gender>
+      <phone>01229845037</phone>
+      <address>11/21 Phạm Thế Hiển phường 1 quận 8</address>
+      <city>30</city>
+      <dob>1996-10-14</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474782026</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>14</day>
+      <month>10</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.750389</lat>
+      <lng>106.689624</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Bán hàng, Nhân viên...</title>
+      <experience>1</experience>
+      <category>35</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Biết làm những chương trình máy tính cơ bản: Word, PowerPoint&#13;
+Biết cách hoạt động đội nhóm.&#13;
+</skill>
+      <ui>3705</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Đang là sinh viên năm cuối ở Cao đẳng Việt Mỹ&#13;
+Đã tham gia các khóa học tại trường:&#13;
+- Kỹ năng thuyết trình nói trước đám đông&#13;
+- Kỹ năng quản lý cảm xúc&#13;
+- Kỹ năng tạo dựng duy trì các mối quan hệ (Net  working)&#13;
+&#13;
+Đã từng có kinh nghiệm đi làm phục vụ được 3 tháng tại Mylife Coffee</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>268,311</strjo>
+  </appliedjob>
+  <experience>
+    <n_824>
+      <id>824</id>
+      <title>phục vụ</title>
+      <level>1</level>
+      <cmpname>Mylife Coffee</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>5-2016</from>
+      <to>8-2016</to>
+    </n_824>
+  </experience>
+  <education>
+    <n_609>
+      <id>609</id>
+      <school>Cao Đẳng Việt Mỹ</school>
+      <degrees/>
+      <fieldofstudy>Biên- Phiên dịch tiếng Anh thương mại</fieldofstudy>
+      <from>2014</from>
+      <to>2017</to>
+    </n_609>
+  </education>
+</information>

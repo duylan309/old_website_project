@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6887</id>
+      <email>Hanpjpham0104@gmail.com</email>
+      <username/>
+      <name>Phạm Nguyễn Kỳ Duyên</name>
+      <im>675887249246637_pham-nguyen-ky-duyen.jpg</im>
+      <gender>2</gender>
+      <dob>1997-4-1</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476921296</created>
+      <day>1</day>
+      <month>4</month>
+      <year>1997</year>
+      <last_signin>1476921296</last_signin>
+      <phone>01224133439</phone>
+      <address>433 trần hưng đạo b phường 14 quận 5</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7518525</lat>
+      <lng>106.6579864</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_1132>
+      <id>1132</id>
+      <school>Đại học công nghệ Sài Gòn</school>
+      <degrees/>
+      <fieldofstudy>QUẢN TRỊ KINH DOANH </fieldofstudy>
+      <from>2015</from>
+      <to>2018</to>
+    </n_1132>
+  </education>
+  <user_cv>
+    <db>
+      <ui>6887</ui>
+      <title>Nhân viên phục vụ, bán hàng</title>
+      <experience>7</experience>
+      <category>15,17,27,29,31,35</category>
+      <type>2,5,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <about>Vui vẻ, hòa đồng. &#13;
+Dễ hòa nhập vào môi trường xung quanh </about>
+      <skill>Siêng năng, ham học hỏi </skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

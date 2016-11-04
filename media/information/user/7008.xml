@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7008</id>
+      <email>pinguyenpt@gmail.com</email>
+      <username/>
+      <name>Nguyễn phạm thanh uyên</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01225661225</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477016717</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,16,17,19,20,26</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>en</lang>
+      <skill>Kỹ năng lắng nghe , kỹ năng làm việc nhóm </skill>
+      <ui>7008</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>402</strjo>
+  </appliedjob>
+</information>

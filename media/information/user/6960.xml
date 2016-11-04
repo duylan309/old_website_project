@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6960</id>
+      <email>caotrang163@gmail.com</email>
+      <username/>
+      <name>Cao Thị Diễm Trang</name>
+      <im>6960_image.jpeg</im>
+      <gender>2</gender>
+      <phone>0907778984</phone>
+      <address>549, Xô Viết Nghệ Tĩnh, phường 26, quận Bình Thạnh</address>
+      <city>30</city>
+      <dob>1998-7-7</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476970456</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>7</day>
+      <month>7</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.80902</lat>
+      <lng>106.711843</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, pha chế</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>6960</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>7</total>
+    <strjo>267,470,483,478,275,426,468</strjo>
+  </appliedjob>
+</information>

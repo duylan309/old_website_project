@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1931</id>
+      <email>thanhthaohutech96@gmail.com</email>
+      <username/>
+      <name>Hồ Thị Thanh Thảo</name>
+      <im>1473082830_ho-thi-thanh-thao.png</im>
+      <gender>0</gender>
+      <phone>0927365520</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473082830</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ và pha chế</title>
+      <experience>2</experience>
+      <category>15</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Kỹ năng giao tiếp.&#13;
+Kỹ năng học hỏi nhanh.&#13;
+Xem xét và xử lý công việc.</skill>
+      <ui>1931</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>172</strjo>
+  </appliedjob>
+</information>

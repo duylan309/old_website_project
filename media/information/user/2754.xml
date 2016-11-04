@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2754</id>
+      <email>huonglan03081996@gmail.com</email>
+      <username/>
+      <name>Lê Thị Hương Lan</name>
+      <im>1473864097_le-thi-huong-lan.png</im>
+      <gender>2</gender>
+      <phone>0906521424</phone>
+      <address>54/37 bạch đằng phường 2 quận tân bình</address>
+      <city>30</city>
+      <dob>1996-8-2</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473864097</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>2</day>
+      <month>8</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.813309</lat>
+      <lng>106.672122</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, bán hàng</title>
+      <experience>1</experience>
+      <category>15,27,31,35</category>
+      <type>1,4,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill></skill>
+      <ui>2754</ui>
+      <s1>3500</s1>
+      <salary>1</salary>
+      <about>Vui vẻ, hoà đồng, thẳng tính, ghét ai nói dối.</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>202</strjo>
+  </appliedjob>
+</information>

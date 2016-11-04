@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1919</id>
+      <email>diepthutu1809@gmail.com</email>
+      <username/>
+      <name>Từ Diệp Thư</name>
+      <im>1919_img-20160814-190944.jpg</im>
+      <gender>2</gender>
+      <phone>01659357746</phone>
+      <address>6 Lương Hữu Khánh</address>
+      <city>30</city>
+      <dob>1996-9-18</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473068371</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1473068371</last_signin>
+      <day>18</day>
+      <month>9</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.769436</lat>
+      <lng>106.686977</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_431>
+      <id>431</id>
+      <title>Sandwich Artist</title>
+      <level>1</level>
+      <cmpname>Subway</cmpname>
+      <city>TPHCM</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_431>
+  </experience>
+  <education>
+    <n_311>
+      <id>311</id>
+      <school>ĐH Ngoại Ngữ-Tin Học TPHCM</school>
+      <degrees/>
+      <fieldofstudy>QTKDQT</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_311>
+  </education>
+  <user_cv>
+    <db>
+      <ui>1919</ui>
+      <title>part time</title>
+      <experience>1</experience>
+      <category>15,29</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword/>
+      <about/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>172,228,266,201,107</strjo>
+  </appliedjob>
+</information>

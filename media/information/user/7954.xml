@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7954</id>
+      <email>thaonhu31011996@gmail.com</email>
+      <username/>
+      <name>Nguyễn Ngọc Thảo Như</name>
+      <im>1477552740_nguyen-ngoc-thao-nhu.png</im>
+      <gender>0</gender>
+      <phone>0908983366</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477552739</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,17,29,35</category>
+      <type>2,4,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Kỹ năng giao tiếp &#13;
+Kỹ năng phục vụ&#13;
+Kỹ năng xử lí tình huống</skill>
+      <ui>7954</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>354,130,275</strjo>
+  </appliedjob>
+</information>

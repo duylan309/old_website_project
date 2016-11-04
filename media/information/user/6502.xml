@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6502</id>
+      <email>bibikute7163@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Ánh Hồng</name>
+      <im>6502_tmpdoodle1476712314212.jpg</im>
+      <gender>2</gender>
+      <phone>01684272252</phone>
+      <address>728/4 đường Hồng Bàng phường 1,quận 11</address>
+      <city>30</city>
+      <dob>1998-3-6</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476666526</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476666526</last_signin>
+      <day>6</day>
+      <month>3</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.755019</lat>
+      <lng>106.639787</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6502</ui>
+      <title>phụ bếp, phục vụ</title>
+      <experience>7</experience>
+      <category>14,17,29,30,31,35,36</category>
+      <type>4,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <about>Đang học bếp tại trường đào tạo Bếp Vàng, siêng năng, chịu khó tiếp thu,...</about>
+      <skill>Phục vụ,bán hàng,..</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>408,262</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>352</strjo>
+  </savedjob>
+</information>

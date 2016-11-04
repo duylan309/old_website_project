@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5678</id>
+      <email>Anhnguyen.jennynguyen@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Ngọc Anh</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01267533357</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1476148368</created>
+      <dayleft>1478740368</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1476148368</last_signin>
+      <jobleft>5</jobleft>
+    </db>
+  </userinfo>
+</information>

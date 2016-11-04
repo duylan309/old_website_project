@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>155</id>
+    <ui>260</ui>
+    <ci>203</ci>
+    <ai>0</ai>
+    <ti>Cashier</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>2</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>6000000</s1>
+    <s2>7000000</s2>
+    <s3>272</s3>
+    <s4>318</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>1</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description>Lubu Mediterranean  Restaurant is currently seeking to hire a cashier for day time shifts.  Hours of work are from 8am-4pm Tuesday- Sunday. </description>
+    <requirement>-experienced using POS system &amp; credit card machine\r\n- tidy, neat &amp; well organised\r\n- responsible and trustworthy\r\n- able to make and receive guest bookings in English &amp; Vietnamese by telephone\r\n- order &amp; receive daily bar stock\r\n- able to work as a team\r\n</requirement>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>6</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-06</de>
+    <re>0000-00-00</re>
+    <cr>1473312252</cr>
+  </db>
+  <more>
+    <requirement>-experienced using POS system &amp; credit card machine&#13;
+- tidy, neat &amp; well organised&#13;
+- responsible and trustworthy&#13;
+- able to make and receive guest bookings in English &amp; Vietnamese by telephone&#13;
+- order &amp; receive daily bar stock&#13;
+- able to work as a team&#13;
+</requirement>
+    <description>Lubu Mediterranean  Restaurant is currently seeking to hire a cashier for day time shifts.  Hours of work are from 8am-4pm Tuesday- Sunday. </description>
+    <benefit/>
+    <keyword/>
+  </more>
+  <userapplied>
+    <total>9</total>
+    <strui>880,908,1005,1014,654,1192,1337,292,2199</strui>
+  </userapplied>
+</information>

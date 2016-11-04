@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>441</id>
+    <ui>5752</ui>
+    <ci>393</ci>
+    <ai>0</ai>
+    <ti>Bếp chính bếp âu</ti>
+    <ta/>
+    <le>4</le>
+    <ty>1</ty>
+    <ex>2</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>5000000</s1>
+    <s2>7000000</s2>
+    <s3>227</s3>
+    <s4>318</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description>-	Chế biến thức ăn phục vụ khách dưới sự hướng dẫn và phân công của tổ trưởng (hoặc nhóm trưởng, bếp phó, bếp trưởng).\r\n-	Chế biến tất cả các loại nước sốt và nước dùng riêng cho một nhóm thực đơn.\r\n-	Định lượng thực phẩm có trong thực đơn và chịu trách nhiệm chuẩn bị thực phẩm cho một buổi bán hàng.\r\n-	Báo cáo định kỳ với tổ trưởng bếp hoặc bếp phó, bếp trưởng theo chỉ định.\r\n</description>
+    <requirement>o	Kỹ năng điều hành công việc\r\no	Kỹ năng lập kế hoạch, giải quyết vấn đề\r\no	Sức khoẻ tốt\r\no	Không mắc các bệnh truyền nhiễm, bệnh da liễu hay dị ứng khi tiếp xúc với thực phẩm</requirement>
+    <benefit>- Lương + tip/charge + Thường doanh thu\r\n- Chế độ phúc lợi theo luật lao động (BHXH, BHYT)\r\n- Du lịch nghỉ dưỡng hằng năm\r\n- 1 năm tăng lương 1 lần\r\n- Lương tháng 134\r\n- Thường tết</benefit>
+    <keyword>Kỹ năng giải quyết tình huống,Tinh thần trách nhiệm,Trung thực,Nhiệt tình</keyword>
+    <ad/>
+    <location_id>305</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-10</de>
+    <re>0000-00-00</re>
+    <cr>1476260667</cr>
+  </db>
+  <more>
+    <requirement>o	Kỹ năng điều hành công việc&#13;
+o	Kỹ năng lập kế hoạch, giải quyết vấn đề&#13;
+o	Sức khoẻ tốt&#13;
+o	Không mắc các bệnh truyền nhiễm, bệnh da liễu hay dị ứng khi tiếp xúc với thực phẩm</requirement>
+    <description>-	Chế biến thức ăn phục vụ khách dưới sự hướng dẫn và phân công của tổ trưởng (hoặc nhóm trưởng, bếp phó, bếp trưởng).&#13;
+-	Chế biến tất cả các loại nước sốt và nước dùng riêng cho một nhóm thực đơn.&#13;
+-	Định lượng thực phẩm có trong thực đơn và chịu trách nhiệm chuẩn bị thực phẩm cho một buổi bán hàng.&#13;
+-	Báo cáo định kỳ với tổ trưởng bếp hoặc bếp phó, bếp trưởng theo chỉ định.&#13;
+</description>
+    <benefit>- Lương + tip/charge + Thường doanh thu&#13;
+- Chế độ phúc lợi theo luật lao động (BHXH, BHYT)&#13;
+- Du lịch nghỉ dưỡng hằng năm&#13;
+- 1 năm tăng lương 1 lần&#13;
+- Lương tháng 134&#13;
+- Thường tết</benefit>
+    <keyword>Kỹ năng giải quyết tình huống,Tinh thần trách nhiệm,Trung thực,Nhiệt tình</keyword>
+  </more>
+  <userapplied>
+    <total>5</total>
+    <strui>5896,6211,6968,7280,7605</strui>
+  </userapplied>
+</information>

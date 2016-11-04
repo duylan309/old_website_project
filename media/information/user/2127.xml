@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2127</id>
+      <email>minhhau177@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Minh Hậu</name>
+      <im>2127_9537-601385360013346-7051583797483122606-n.jpg</im>
+      <gender>2</gender>
+      <phone>01202477634</phone>
+      <address>228 đường số 6, Phường Linh Chiểu, quận Thủ Đức</address>
+      <city>30</city>
+      <dob>1995-7-17</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473255507</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1473255507</last_signin>
+      <day>17</day>
+      <month>7</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.852259</lat>
+      <lng>106.7688703</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_471>
+      <id>471</id>
+      <title>Quản lý, pha chế</title>
+      <level>1</level>
+      <cmpname>Cello coffee</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>01/06/2016</from>
+      <to>03/09/2016</to>
+    </n_471>
+    <n_472>
+      <id>472</id>
+      <title>Pha chế, phục vụ</title>
+      <level>1</level>
+      <cmpname>Trà sữa cà phê Luffy</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>30/04/2014</from>
+      <to>31/05/2016</to>
+    </n_472>
+    <n_500>
+      <id>500</id>
+      <title>Phục vụ</title>
+      <level>1</level>
+      <cmpname>Mưa coffee</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>01/2016</from>
+      <to>07/2016</to>
+    </n_500>
+  </experience>
+  <education>
+    <n_337>
+      <id>337</id>
+      <school>Cao đẳng Xây dựng Số 2</school>
+      <degrees>Khá</degrees>
+      <fieldofstudy>Kế toán</fieldofstudy>
+      <from>2013</from>
+      <to>2016</to>
+    </n_337>
+    <n_338>
+      <id>338</id>
+      <school>Trung tâm Tin học Đại Dương - Đại học Khoa học Tự Nhiên</school>
+      <degrees>Khá</degrees>
+      <fieldofstudy>Tin học</fieldofstudy>
+      <from>2015</from>
+      <to>2016</to>
+    </n_338>
+  </education>
+  <user_cv>
+    <db>
+      <ui>2127</ui>
+      <title>Barista, phục vụ, quản lý</title>
+      <experience>2</experience>
+      <category>14,15,18,20,28,29,35</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>&#13;
+Tôi có thể miêu tả ngắn gọn về bản thân mình là người trách nhiệm, năng động, cẩn thận&#13;
+I can describe my self as a responsible person, proactive and careful</about>
+      <skill/>
+      <keyword>Giao tiếp hiệu quả,Tập trung trong công việc,Chịu được áp lực công việc,Nhiệt tình,Tinh thần làm việc nhóm,Kỹ năng giải quyết tình huống,Trung thực,Tinh thần trách nhiệm,Tự tin,Kỹ năng chăm sóc khách hàng</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>231</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>5</total>
+    <strjo>240,257,250,169,201</strjo>
+  </savedjob>
+</information>

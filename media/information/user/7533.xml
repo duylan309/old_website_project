@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7533</id>
+      <email>lehayon98@gmail.com</email>
+      <username/>
+      <name>Lê Thị Ngân</name>
+      <im>298117460586899_le-ngan-nga.jpg</im>
+      <gender>2</gender>
+      <dob>1998-5-12</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477299969</created>
+      <day>12</day>
+      <month>5</month>
+      <year>1998</year>
+      <phone>01649775111</phone>
+      <address>41/17 Lê Lợi - P.4 - Gò Vấp</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.819989</lat>
+      <lng>106.687161</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_1224>
+      <id>1224</id>
+      <school>Cao đẳng Kinh tế Đối ngoại</school>
+      <degrees/>
+      <fieldofstudy>Kinh doanh xuất nhập khẩu</fieldofstudy>
+      <from>2016</from>
+      <to>2019</to>
+    </n_1224>
+  </education>
+  <user_cv>
+    <db>
+      <ui>7533</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>7</experience>
+      <category>14,17,27,29</category>
+      <type>2,3,5,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>Tôi năm nay 18t, là sinh viên năm nhất. Hiện tại đang muốn kiếm công việc làm part time mỗi khi rảnh rỗi kiếm thêm thu nhập :) Tính tình được mọi người nhận xét là hoà đồng và vui tính, chăm chỉ và cần cù :)</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>158</strjo>
+  </appliedjob>
+</information>

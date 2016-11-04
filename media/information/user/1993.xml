@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1993</id>
+      <email>Phambaolong1609@gmail.com</email>
+      <username/>
+      <name>Pham bao toan</name>
+      <im>1473135518_pham-bao-toan.jpg</im>
+      <gender>1</gender>
+      <phone>0903347297</phone>
+      <address>45/88/20t binh tien phuong 7 quan 6</address>
+      <city>30</city>
+      <dob>1986-11-22</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473135517</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>22</day>
+      <month>11</month>
+      <year>1986</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.740528</lat>
+      <lng>106.642171</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Bep chinh</title>
+      <experience>3</experience>
+      <category>14,16,19,20,29</category>
+      <type>1,4</type>
+      <level>2,4</level>
+      <lang>vi</lang>
+      <skill>Chuyen ve mon an viet</skill>
+      <ui>1993</ui>
+      <s1>8000000</s1>
+      <salary>1</salary>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>223</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2238</id>
+      <email>234pin432@gmail.com</email>
+      <username/>
+      <name>Nguyễn Đức Nhân</name>
+      <im>1473318839_nguyen-duc-nhan.jpg</im>
+      <gender>1</gender>
+      <phone>0931328550</phone>
+      <address/>
+      <city/>
+      <dob>1997-9-29</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473318839</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>29</day>
+      <month>9</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>bartender</title>
+      <experience>1</experience>
+      <category>14,16,20</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>pha chế cocktail , mocktail , nước ep , sinh tố , các loại trà , art cafe máy , setup quầy bar , sáng tạo decor , biết về frail và mix ...</skill>
+      <ui>2238</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>111,210</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>111</strjo>
+  </savedjob>
+</information>

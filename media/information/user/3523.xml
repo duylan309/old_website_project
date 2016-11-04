@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3523</id>
+      <email>Buzz081195@gmail.com</email>
+      <username/>
+      <name>Võ Ngọc Thanh Thy</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01283957757</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474682749</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phụ bếp , bán hàng</title>
+      <experience>1</experience>
+      <category>14,15,17</category>
+      <type>2,5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>3523</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>262</strjo>
+  </appliedjob>
+</information>

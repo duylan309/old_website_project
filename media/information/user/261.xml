@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>261</id>
+      <email>do.hong@gmail.com</email>
+      <username/>
+      <name>Hong Do</name>
+      <im>10154457042375995_hong-do.jpg</im>
+      <gender>2</gender>
+      <dob>1973-11-1</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1467789987</created>
+      <day>1</day>
+      <month>11</month>
+      <year>1973</year>
+      <phone>0938059551</phone>
+      <address/>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_13>
+      <id>13</id>
+      <title>123</title>
+      <level>1</level>
+      <cmpname>abc</cmpname>
+      <city>hcmc</city>
+      <country>vietnam</country>
+      <from>2016</from>
+      <to>2016</to>
+    </n_13>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>261</ui>
+      <title>Waiter</title>
+      <category>14</category>
+      <location>30</location>
+      <type>1</type>
+      <level>3</level>
+      <experience>2</experience>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <skill>abc 123</skill>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>79,136</strjo>
+  </appliedjob>
+</information>

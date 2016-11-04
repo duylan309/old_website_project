@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6587</id>
+      <email>tranquochai2701@gmail.com</email>
+      <username/>
+      <name>Trần Quốc Hải</name>
+      <im>881526431983549_hai-tran.jpg</im>
+      <gender>1</gender>
+      <dob>1992-1-27</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476698669</created>
+      <day>27</day>
+      <month>1</month>
+      <year>1992</year>
+      <phone>0936585704</phone>
+      <address>82 lầu 2 hùng vương p9 q5</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7626785</lat>
+      <lng>106.6774992</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phụ bếp</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>6587</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Mình là người hoa biết giao tiếp và đã từng phụ bếp một thời gian rùi đi nghĩa vụ về mình muốn xin vào nhà hàng làm để học hỏi thêm kinh nghiệm thanks.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>191,153,188</strjo>
+  </appliedjob>
+  <education>
+    <n_1103>
+      <id>1103</id>
+      <school>Trung cấp kỹ thuật công nghệ cửu long</school>
+      <degrees>Trung cấp</degrees>
+      <fieldofstudy>Dược</fieldofstudy>
+      <from>2012</from>
+      <to>2014</to>
+    </n_1103>
+  </education>
+</information>

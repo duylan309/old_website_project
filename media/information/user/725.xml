@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>725</id>
+      <email>chuhongson2016@gmail.com</email>
+      <username/>
+      <name>Chu hong son</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0964587108</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470938227</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phu bep</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Phu bep</skill>
+      <ui>725</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>114</strjo>
+  </appliedjob>
+</information>

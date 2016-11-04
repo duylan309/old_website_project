@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5467</id>
+      <email>yume.noni@gmail.com</email>
+      <username/>
+      <name>Vo Ha Ngoc huyen</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0903523634</phone>
+      <address>Q3</address>
+      <city>30</city>
+      <dob>1993-12-15</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475996051</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1475996051</last_signin>
+      <day>15</day>
+      <month>12</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1126>
+      <id>1126</id>
+      <title>Barista</title>
+      <level>1</level>
+      <cmpname>Bene vina</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_1126>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>5467</ui>
+      <title>Pha chế cà phê</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Có kinh nghiệm pha chế, chịu được áp lực cao, yêu thích cafe</about>
+      <skill>Biết pha chế, ham học hỏi</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>126,248,201,222,100,208</strjo>
+  </appliedjob>
+</information>

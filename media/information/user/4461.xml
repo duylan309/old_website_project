@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4461</id>
+      <email>Donhuquynh.1710@yahoo.com</email>
+      <username/>
+      <name>Đỗ Như Quỳnh</name>
+      <im>1475201065_do-nhu-quynh.png</im>
+      <gender>0</gender>
+      <phone>01235195663</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475201065</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,17,20,27,29,35</category>
+      <type>2,4,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Giao tiếp tiếng anh&#13;
+Tin học: word, excel, power point</skill>
+      <ui>4461</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>215</strjo>
+  </appliedjob>
+</information>

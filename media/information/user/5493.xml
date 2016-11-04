@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5493</id>
+      <email>truongminhhoanghiep@gmail.com</email>
+      <username/>
+      <name>Truong Hiep</name>
+      <im>676518902513097_truong-hiep.jpg</im>
+      <gender>1</gender>
+      <dob>1995-12-18</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476015486</created>
+      <day>18</day>
+      <month>12</month>
+      <year>1995</year>
+      <phone>0975063718</phone>
+      <address>Số 3, đường 22, phước long b, quận 9.</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.819519</lat>
+      <lng>106.77244</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Đầu bếp</title>
+      <experience>2</experience>
+      <category>14</category>
+      <type>1,2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill></skill>
+      <ui>5493</ui>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>342</strjo>
+  </appliedjob>
+  <experience>
+    <n_1134>
+      <id>1134</id>
+      <title>Cook</title>
+      <level>1</level>
+      <cmpname>Mad house restaurant</cmpname>
+      <city>Hồ chí minh</city>
+      <country>Việt nam</country>
+      <from>17/3/2016</from>
+      <to>Đến nay</to>
+    </n_1134>
+    <n_1135>
+      <id>1135</id>
+      <title>Cook helper</title>
+      <level>1</level>
+      <cmpname>Villa song saigon hotel</cmpname>
+      <city>Hồ chí minh</city>
+      <country>Việt nam</country>
+      <from>11/7/2014</from>
+      <to>17/3/2016</to>
+    </n_1135>
+  </experience>
+</information>

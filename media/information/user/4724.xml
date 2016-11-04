@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4724</id>
+      <email>duy280497@gmail.com</email>
+      <username/>
+      <name>Nguyễn Kiến Duy</name>
+      <im>4724_img-1478.JPG</im>
+      <gender>1</gender>
+      <dob>1997-4-28</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475469094</created>
+      <day>28</day>
+      <month>4</month>
+      <year>1997</year>
+      <phone>0934074714</phone>
+      <address>81/82 Nguyễn Cửu Vân, Phường 17, Quận Bình Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.795734</lat>
+      <lng>106.7072523</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_992>
+      <id>992</id>
+      <title>Barista, Phục vụ</title>
+      <level>1</level>
+      <cmpname>Thương hiệu kem Haagen-Dazs</cmpname>
+      <city>Ho Chi Minh City</city>
+      <country>Việt Nam</country>
+      <from>11/2015</from>
+      <to>6/2016</to>
+    </n_992>
+    <n_993>
+      <id>993</id>
+      <title>Phục Vụ</title>
+      <level>1</level>
+      <cmpname>MOF Japanese Dessert</cmpname>
+      <city>Ho Chi Minh City</city>
+      <country>Việt Nam</country>
+      <from>7/2016</from>
+      <to>9/2016</to>
+    </n_993>
+  </experience>
+  <education>
+    <n_787>
+      <id>787</id>
+      <school>ĐH Tài Chính Marketing</school>
+      <degrees/>
+      <fieldofstudy>Marketing</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_787>
+  </education>
+  <user_cv>
+    <db>
+      <ui>4724</ui>
+      <title>Bán thời gian</title>
+      <experience>2</experience>
+      <category>14,15,16,19,20,29</category>
+      <type>1,2,3,4,5</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about></about>
+      <skill> -Kỹ năng/sở trường:&#13;
+Làm việc nhóm&#13;
+Giải quyết vấn đề&#13;
+Ra quyết định&#13;
+Quản lý thời gian&#13;
+Quản lý stress&#13;
+Quản lý giao tiếp&#13;
+Học hiệu quả&#13;
+Nghề nghiệp</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>24</total>
+    <strjo>341,340,201,247,211,161,302,206,250,207,241,202,285,348,349,199,107,151,318,312,252,63,409,280</strjo>
+  </appliedjob>
+</information>

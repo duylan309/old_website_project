@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3566</id>
+      <email>ghvuong0611@gmail.com</email>
+      <username/>
+      <name>Vương Gia Hân</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01265611567</phone>
+      <address>30/33 Nguyễn Hữu Cảnh . F22 . Quận Bình Thạnh </address>
+      <city>30</city>
+      <dob>1994-11-6</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474695254</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1474695254</last_signin>
+      <day>6</day>
+      <month>11</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7887504</lat>
+      <lng>106.715127</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_583>
+      <id>583</id>
+      <school>Trung Cấp Du lịch &amp; Khách sạn Saigontourist</school>
+      <degrees>Tốt nghiệp loại Khá tín chỉ 6 tháng </degrees>
+      <fieldofstudy>Bếp Âu</fieldofstudy>
+      <from>đầu 2016</from>
+      <to>giữa 2016</to>
+    </n_583>
+  </education>
+  <user_cv>
+    <db>
+      <ui>3566</ui>
+      <title>Phụ bếp</title>
+      <experience>7</experience>
+      <category>14,15,16,19</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <about>	Tôi tên là  Vương Gia Hân. Tôi tốt nghiệp loại khá trường Trung cấp Du Lịch &amp; Khách Sạn Saigontourist, chuyên ngành Bếp Âu. Nay tôi viết đơn này xin phép được ứng cử vào vị trí  Phụ Bếp.  Mặc dù chưa có nhiều kinh nghiệm làm việc ở hiện tại nhưng tôi sẽ cố gắng học hỏi, trau dồi kiến thức để làm việc ngày càng tốt hơn. Luôn luôn tuân thủ nghiêm chỉnh mọi điều lệ, nội qui và làm tốt trách nhiệm của mình.&#13;
+	</about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

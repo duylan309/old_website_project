@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6973</id>
+      <email>blair.hanhan@gmail.com</email>
+      <username/>
+      <name>Lưu Quế Trân</name>
+      <im>6973_14717135-989493144530616-6215104952296807528-n.jpg</im>
+      <gender>2</gender>
+      <phone>0903050792</phone>
+      <address>566/105/18 Nguyễn Thái Sơn, phường 5, quận Gò Vấp</address>
+      <city>30</city>
+      <dob>1992-7-27</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476975325</created>
+      <dayleft>0</dayleft>
+      <jobleft>0</jobleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476975325</last_signin>
+      <day>27</day>
+      <month>7</month>
+      <year>1992</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8283634</lat>
+      <lng>106.6920441</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1377>
+      <id>1377</id>
+      <title>Sale Assistant</title>
+      <level>1</level>
+      <cmpname>UMA furniture</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_1377>
+    <n_1378>
+      <id>1378</id>
+      <title>Pha chế</title>
+      <level>1</level>
+      <cmpname>GeiT Store</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2016</from>
+      <to>2016</to>
+    </n_1378>
+  </experience>
+  <education>
+    <n_1148>
+      <id>1148</id>
+      <school>THPT Nguyễn Thị Diệu</school>
+      <degrees>Tốt nghiệp THPT</degrees>
+      <fieldofstudy/>
+      <from>2007</from>
+      <to>2010</to>
+    </n_1148>
+  </education>
+  <user_cv>
+    <db>
+      <ui>6973</ui>
+      <title>Phụ bếp bánh, pha chế, thu ngân</title>
+      <experience>1</experience>
+      <category>15,17,29,31,35</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Tôi là người nhiệt tình, ham học hỏi trong công việc. Làm việc theo nhóm tốt. Không bị gò bó nhiều về thời gian, có thể làm việc trong các ngày cuối tuần hoặc Lễ Tết.</about>
+      <skill>Nhanh nhẹn, cẩn thận và có thể giữ cho khu vực làm việc gọn gàng, sạch sẽ.</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>201,418,107</strjo>
+  </appliedjob>
+</information>

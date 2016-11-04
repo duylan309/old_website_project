@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1948</id>
+      <email>Phuonguyen.lepham@gmail.com</email>
+      <username/>
+      <name>Lê Phạm Phương Uyên</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0933389262</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1473085657</created>
+      <dayleft>1475677657</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1473085657</last_signin>
+      <jobleft>4</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>1</total>
+    <strji>240</strji>
+  </totalJob>
+  <saveuser>
+    <total>6</total>
+    <strui>941,1969,1751,1982,2199,2233</strui>
+  </saveuser>
+</information>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5110</id>
+      <email>tangchitai22@gmail.com</email>
+      <username/>
+      <name>Tăng Chí Tài</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0925701539</phone>
+      <address>97/23 Dương Quảng Hàm</address>
+      <city>30</city>
+      <dob>1997-10-22</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475739930</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>22</day>
+      <month>10</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.835995</lat>
+      <lng>106.6884089</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>5110</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>201</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>201</strjo>
+  </savedjob>
+</information>

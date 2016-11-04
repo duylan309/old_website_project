@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>1</id>
+    <uid>1</uid>
+    <ti>Trang chủ</ti>
+    <ti1>home</ti1>
+    <url>ho</url>
+    <link>http://tuoitre.vn</link>
+    <opp>1</opp>
+    <pa>0</pa>
+    <ism>1</ism>
+    <ct/>
+    <so>0</so>
+    <nv>0</nv>
+    <st>2</st>
+  </db>
+  <more>
+    <description>&lt;p&gt;add&lt;/p&gt;</description>
+  </more>
+  <meta>
+    <title>Meta title</title>
+    <desc>Meta description</desc>
+    <keyword>Meta keyword</keyword>
+  </meta>
+  <detail>
+    <n_1>
+      <id>1</id>
+      <title>abcsss</title>
+      <description>&lt;p&gt;dđ&lt;/p&gt;&#13;
+&lt;p&gt;dada d da&lt;/p&gt;&#13;
+&lt;p&gt;daddd dada&lt;/p&gt;&#13;
+&lt;p&gt;da dadd &lt;strong&gt;dada&lt;/strong&gt;&lt;/p&gt;&#13;
+&lt;p&gt;ddd &amp;nbsp;ddad&lt;/p&gt;</description>
+      <so>1</so>
+    </n_1>
+  </detail>
+</information>

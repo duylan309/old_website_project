@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>619</id>
+      <email>truongthu1301@gmail.com</email>
+      <username/>
+      <name>TRƯƠNG HOÀNG MINH THƯ</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01238966967</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470660866</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,20,29,35</category>
+      <type>2,5,6</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill>Nhanh nhẹn, vui vẻ, năng động, kiên nhẫn và chịu được áp lực công việc</skill>
+      <ui>619</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>105</strjo>
+  </appliedjob>
+</information>

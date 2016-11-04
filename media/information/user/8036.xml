@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>8036</id>
+      <email>thanhqui802@gmail.com</email>
+      <username/>
+      <name>Hồ Thanh Quí</name>
+      <im>8036_img-2897.JPG</im>
+      <gender>1</gender>
+      <dob>01219058147-10-13</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477629587</created>
+      <day>13</day>
+      <month>10</month>
+      <year>01219058147</year>
+      <last_signin>1477629587</last_signin>
+      <phone>01219058147</phone>
+      <address>Hẻm 60 ung văn khiêm quận bình thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.804734</lat>
+      <lng>106.720791</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1564>
+      <id>1564</id>
+      <title>Toà nhà pearl plaza lầu 4</title>
+      <level>1</level>
+      <cmpname>Nhà hàng yummy yummy</cmpname>
+      <city>Tp hồ chí minh</city>
+      <country>Việt nam</country>
+      <from>12/2015</from>
+      <to>8/2016</to>
+    </n_1564>
+  </experience>
+  <education>
+    <n_1298>
+      <id>1298</id>
+      <school>Dạy ẩm thực netspace</school>
+      <degrees>Sơ cấp nghề </degrees>
+      <fieldofstudy>Hoa việt</fieldofstudy>
+      <from>2015</from>
+      <to>6/2015</to>
+    </n_1298>
+  </education>
+  <user_cv>
+    <db>
+      <ui>8036</ui>
+      <title>Nhân viên bếp</title>
+      <experience>1</experience>
+      <category>14,15,16,18,20,29,31</category>
+      <type>4,5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Trung thực hoà đồng dễ làm việc nhóm &#13;
+Kỹ luật với nghề.gọn gàng trong công việc.</about>
+      <skill>Chuyên về phở bún bò hủ tiếu các loại sốt</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <savedjob>
+    <total>6</total>
+    <strjo>539,451,391,256,276,153</strjo>
+  </savedjob>
+</information>

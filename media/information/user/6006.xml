@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6006</id>
+      <email>nhanphan695@gmail.com</email>
+      <username/>
+      <name>phan thị nhân</name>
+      <im>6006_wp-20161013-001.jpg</im>
+      <gender>2</gender>
+      <phone>01644138043</phone>
+      <address>591/6 trần hưng đạo.phường cầu kho .quận 1</address>
+      <city>30</city>
+      <dob>1995-6-16</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476329176</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>16</day>
+      <month>6</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7564465</lat>
+      <lng>106.6857676</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>bán hàng,phục vụ,...những công việc hợp thời gian</title>
+      <experience>1</experience>
+      <category>14,17,36</category>
+      <type>2,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill></skill>
+      <ui>6006</ui>
+      <s1>3</s1>
+      <salary>1</salary>
+      <about>tốt nghiệp trung học phổ thông,hiện đang cần việc làm vào ca sáng,gần nhà,rảnh thời gian từ 6-12h .</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>351</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>666</id>
+      <email>foreverandone06061988@gmail.com</email>
+      <username/>
+      <name>Phạm Hồng Duy</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0916078460</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470771510</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>phục vụ, pha chế, văn phòng, bưu chính</title>
+      <experience>7</experience>
+      <category>14,15,20,27,28,35</category>
+      <type>1,2,3,4</type>
+      <level>1,2,4</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>666</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>8</total>
+    <strjo>105,86,107,161,202,201,240,222</strjo>
+  </appliedjob>
+</information>

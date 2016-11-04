@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6532</id>
+      <email>binorangescorpion@gmail.com</email>
+      <username/>
+      <name>Thái Quốc Việt</name>
+      <im>596237240562861_thai-quoc-viet.jpg</im>
+      <gender>1</gender>
+      <dob>1993-10-26</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476683976</created>
+      <day>26</day>
+      <month>10</month>
+      <year>1993</year>
+      <last_signin>1476683976</last_signin>
+      <phone>0933759226</phone>
+      <address>32 đường 2, phường trường thọ, quận thủ đức</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8392198</lat>
+      <lng>106.7487405</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_1073>
+      <id>1073</id>
+      <school>Trung cấp du lịch và khách sạn Saigontourist</school>
+      <degrees>Trung cấp</degrees>
+      <fieldofstudy>Kĩ thuật chế biến món ăn</fieldofstudy>
+      <from>2013</from>
+      <to>2015</to>
+    </n_1073>
+  </education>
+  <experience>
+    <n_1310>
+      <id>1310</id>
+      <title>Nhân Viên</title>
+      <level>1</level>
+      <cmpname>Toridoll V Lotus</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_1310>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>6532</ui>
+      <title>Nhân viên bếp</title>
+      <experience>1</experience>
+      <category>14,15,16,18,19,20,26,28,29,31,35</category>
+      <type>1,4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Yêu thích nghề bếp, vui vẻ hoà đồng, siêng năng chăm chỉ khi làm việc</about>
+      <skill>có kĩ năng cơ bản về bếp</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <savedjob>
+    <total>3</total>
+    <strjo>206,276,464</strjo>
+  </savedjob>
+</information>

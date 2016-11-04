@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5526</id>
+      <email>pjlokpuka@yahoo.com.vn</email>
+      <username/>
+      <name>Huong Giang</name>
+      <im>678680342294748_huong-giang.jpg</im>
+      <gender>2</gender>
+      <dob>1997-10-25</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476058419</created>
+      <day>25</day>
+      <month>10</month>
+      <year>1997</year>
+      <phone>01655183903</phone>
+      <address>46 đường 30 phường tân phong quận 7</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7381906</lat>
+      <lng>106.706885</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1146>
+      <id>1146</id>
+      <title>Nhân viên pha chế , thu ngân , nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>Urban Station coffee , mặt hoa da phấn</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_1146>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>5526</ui>
+      <title>Nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>15,17,36</category>
+      <type>2,4,6</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Hiện tôi đang là sinh viên đại học hoa sen chuyên ngành quản trị kinh doanh . Từng có kinh nghiệm làm ở urban station và kinh nghiệm bán hàng ở mặt hoa da phấn .</about>
+      <skill>Làm việc nhóm , vi tính văn phòng , thu ngân , tiếng anh giao tiếp </skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>7</total>
+    <strjo>323,363,348,126,63,215,435</strjo>
+  </appliedjob>
+  <savedjob/>
+</information>

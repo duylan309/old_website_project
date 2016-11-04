@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4199</id>
+      <email>lendytuyet1602@gmail.com</email>
+      <username/>
+      <name>Trần Thị Tuyết</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01699239274</phone>
+      <address>bình thạnh</address>
+      <city>30</city>
+      <dob>1995-2-16</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475029774</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>16</day>
+      <month>2</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8105831</lat>
+      <lng>106.7091422</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên tư vấn</title>
+      <experience>1</experience>
+      <category>29</category>
+      <type>6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>4199</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>222,489</strjo>
+  </appliedjob>
+  <education>
+    <n_1189>
+      <id>1189</id>
+      <school>đại học khoa học xã hội và nhân văn</school>
+      <degrees>hiện chưa có</degrees>
+      <fieldofstudy>lịch sử</fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_1189>
+  </education>
+  <experience>
+    <n_1435>
+      <id>1435</id>
+      <title>cộng tác viên</title>
+      <level>1</level>
+      <cmpname>vnpt</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>8/2016</from>
+      <to>10/2016</to>
+    </n_1435>
+  </experience>
+</information>

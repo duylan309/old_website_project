@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7478</id>
+      <email>xuanknh09@gmail.com</email>
+      <username/>
+      <name>Jun Ha</name>
+      <im>1246677828727532_jun-ha.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477283561</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>2</experience>
+      <category>14,15</category>
+      <type>2,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Giao tiếp tốt, biết lắng nghe, xử lý tình huống,...</skill>
+      <ui>7478</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>496</strjo>
+  </appliedjob>
+</information>

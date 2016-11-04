@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>291</id>
+    <ui>1532</ui>
+    <name>Breathe Coffee &amp; Tea</name>
+    <url>breathecoffeeandtea</url>
+    <im>_breathe-coffee-tea.jpg</im>
+    <im_banner>_breathe-coffee-tea-cover.jpg</im_banner>
+    <category>15</category>
+    <phone>0901390956</phone>
+    <address>120/10, Lê Lai, Quận 1</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.769960</lat>
+    <lng>106.692368</lng>
+    <website>http://www.breathe.coffee</website>
+    <about/>
+    <facebook>https://www.facebook.com/breathecoffeeandtea/</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1472457134</created>
+  </db>
+  <more>
+    <about>What's brewing? "Breath Coffee &amp; Tea" is a small coffee shop operated by coffee connoisseurs, specialized in serving freshly brewed high quality espresso based specialities. Come and experience our bright and green atmosphere, while enjoying our freshly roasted coffee and smooth jazz selection. We also offer fresh smoothies and healthy juices for the less caffeine lovers!</about>
+    <whyworkus/>
+  </more>
+  <companybanner>_breathe-coffee-tea-cover.jpg</companybanner>
+  <totalJob>
+    <total>4</total>
+    <strji>208,231,251,376</strji>
+  </totalJob>
+</information>

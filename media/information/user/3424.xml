@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3424</id>
+      <email>andytran14121996@gmail.com</email>
+      <username/>
+      <name>Trần Sebastian</name>
+      <im>337361366596261_tran-sebastian.jpg</im>
+      <gender>1</gender>
+      <dob>1996-12-14</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474618578</created>
+      <day>14</day>
+      <month>12</month>
+      <year>1996</year>
+      <phone>0902350377</phone>
+      <address>5 Nguyễn Văn Lượng, P.16, Q.Gò Vấp</address>
+      <country>vn</country>
+      <city/>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng , phục vụ</title>
+      <experience>1</experience>
+      <category>15,29,31</category>
+      <type>2</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>3424</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>10</total>
+    <strjo>298,219,320,150,105,100,199,158,221,434</strjo>
+  </appliedjob>
+</information>

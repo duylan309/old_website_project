@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3214</id>
+      <email>nhalinh130995@gmail.com</email>
+      <username/>
+      <name>trần thị trúc linh</name>
+      <im>676502649192588_nha-linh.jpg</im>
+      <gender>2</gender>
+      <dob>1995-9-13</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474421252</created>
+      <day>13</day>
+      <month>9</month>
+      <year>1995</year>
+      <phone>01655817381</phone>
+      <address>l 26 cư xá phú lâm a. phường 12 quận 6</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7491439</lat>
+      <lng>106.6323463</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>phục vụ</title>
+      <experience>2</experience>
+      <category>15,17,35</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Đã học qua lớp kỹ năng giao tiếp</skill>
+      <ui>3214</ui>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>Là một người hoạt bát , nhanh nhẹn dễ gần vui vẻ và hòa đồng.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>124,320,267</strjo>
+  </appliedjob>
+  <experience>
+    <n_720>
+      <id>720</id>
+      <title>phục vụ , nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>cafe vọng nguyệt,</cmpname>
+      <city>tp. HCM</city>
+      <country>vietnam</country>
+      <from>9/2013</from>
+      <to>2015</to>
+    </n_720>
+  </experience>
+  <education>
+    <n_532>
+      <id>532</id>
+      <school>đại học công nghệ</school>
+      <degrees>cao đẳng</degrees>
+      <fieldofstudy>công nghệ sinh học</fieldofstudy>
+      <from>2013</from>
+      <to>2016</to>
+    </n_532>
+  </education>
+</information>

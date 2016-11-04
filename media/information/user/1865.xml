@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1865</id>
+      <email>Giangthai24@gmail.com</email>
+      <username/>
+      <name>Thái Anh Giang</name>
+      <im>1473016061_thai-anh-giang.jpg</im>
+      <gender>1</gender>
+      <phone>01246461994</phone>
+      <address>263 Ba đình,P8,Q8</address>
+      <city>30</city>
+      <dob>1996-7-24</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473016061</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>24</day>
+      <month>7</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7484685</lat>
+      <lng>106.6695912</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phụ Bếp</title>
+      <experience>2</experience>
+      <category>14,16,18,19,20</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>bếp Có thể đứng chảo,thớt,rau&#13;
+Biết sữ dụng máy tính,và phần mềm văn phòng&#13;
+Anh Văn yếu</skill>
+      <ui>1865</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword>Chịu được áp lực công việc,Trung thực,Nhiệt tình,Giao tiếp hiệu quả,Kỹ năng giải quyết tình huống,Tập trung trong công việc</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>153</strjo>
+  </appliedjob>
+  <experience>
+    <n_414>
+      <id>414</id>
+      <title>Bến Lức,Long An</title>
+      <level>1</level>
+      <cmpname>Vườn Địa Đàng Restaurant</cmpname>
+      <city>Long An</city>
+      <country>Việt Nam</country>
+      <from>2/2014</from>
+      <to>8/2014</to>
+    </n_414>
+    <n_415>
+      <id>415</id>
+      <title>545/2 Đường 3/2,p8,q10</title>
+      <level>1</level>
+      <cmpname>Coffee Màu Của Gió</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>11/2014</from>
+      <to>1/2016</to>
+    </n_415>
+  </experience>
+  <education>
+    <n_299>
+      <id>299</id>
+      <school>THCS Tân Hưng</school>
+      <degrees>9/12</degrees>
+      <fieldofstudy>Văn Hóa</fieldofstudy>
+      <from>2001</from>
+      <to>2010</to>
+    </n_299>
+    <n_300>
+      <id>300</id>
+      <school>THPT Phú Hưng</school>
+      <degrees>12/12</degrees>
+      <fieldofstudy>Văn Hóa</fieldofstudy>
+      <from>2010</from>
+      <to>2013</to>
+    </n_300>
+  </education>
+</information>

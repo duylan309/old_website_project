@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5408</id>
+      <email>honghoa1225@gmail.com</email>
+      <username/>
+      <name>Hong Hoa</name>
+      <im>355657588111508_hong-hoa.jpg</im>
+      <gender>2</gender>
+      <dob>2000-4-27</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475948852</created>
+      <day>27</day>
+      <month>4</month>
+      <year>2000</year>
+      <last_signin>1475948852</last_signin>
+      <phone>01865212648</phone>
+      <address>48/14/2 đường số 6 , khu phố 6 , tổ 99 , phường bình hưng hoà b , quận bình tân</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8026884</lat>
+      <lng>106.6026064</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>5408</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15,17,19,27,35</category>
+      <type>4,5</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about></about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

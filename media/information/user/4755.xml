@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4755</id>
+      <email>retail.manager@wineembassy.com.vn</email>
+      <username/>
+      <name>Corentin NEVOT</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0931803920</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1475479475</created>
+      <dayleft>1478071475</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1475479475</last_signin>
+      <jobleft>4</jobleft>
+    </db>
+    <password>
+      <lastupdate>1476091874</lastupdate>
+    </password>
+  </userinfo>
+  <totalJob>
+    <total>1</total>
+    <strji>375</strji>
+  </totalJob>
+  <saveuser>
+    <total>5</total>
+    <strui>5907,6778,7101,879,7257</strui>
+  </saveuser>
+</information>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3479</id>
+      <email>hphuongle1705@gmail.com</email>
+      <username/>
+      <name>Lê Thị Hồng Phương</name>
+      <im>1474643732_le-thi-hong-phuong.png</im>
+      <gender>2</gender>
+      <phone>0902797675</phone>
+      <address>436B/134 Ba Tháng Hai p12 q10 </address>
+      <city>30</city>
+      <dob>1996-5-17</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474643731</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>17</day>
+      <month>5</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7712609</lat>
+      <lng>106.666908</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế, phục vụ</title>
+      <experience>1</experience>
+      <category>15,27,29</category>
+      <type>4,6</type>
+      <level>1,2</level>
+      <lang>vi</lang>
+      <skill>Có thể sử dụng máy cà phê, biết ứng xử, giao tiếp và linh động trong xử lý tình huống </skill>
+      <ui>3479</ui>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>Có khả năng làm việc nhóm, khá hoà đồng, chịu được công việc có cường độ làm việc cao, có khả năng làm việc có áp lực cao</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>222</strjo>
+  </appliedjob>
+  <experience>
+    <n_772>
+      <id>772</id>
+      <title>Pha chế, phục vụ, thu ngân</title>
+      <level>1</level>
+      <cmpname>Cashflow cafe</cmpname>
+      <city>TPHCM</city>
+      <country>Việt Nam </country>
+      <from>3/2015</from>
+      <to>7/2016</to>
+    </n_772>
+  </experience>
+  <education>
+    <n_567>
+      <id>567</id>
+      <school>Cao đẳng </school>
+      <degrees/>
+      <fieldofstudy>Kế toán </fieldofstudy>
+      <from>8/2014</from>
+      <to>2/2017</to>
+    </n_567>
+  </education>
+</information>

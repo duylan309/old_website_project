@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7779</id>
+      <email>trangteresa1295@gmail.com</email>
+      <username/>
+      <name>Trang Teresa</name>
+      <im>950979838378740_trang-teresa.jpg</im>
+      <gender>2</gender>
+      <dob>1995-9-12</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477453481</created>
+      <day>12</day>
+      <month>9</month>
+      <year>1995</year>
+      <phone>01652062932</phone>
+      <address>202/18 Tô Hiệu, P. Hiệp Tân, Q. Tân Phú</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.773648</lat>
+      <lng>106.628611</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>7779</ui>
+      <title>Nhân viên phục vụ , bán hàng</title>
+      <experience>1</experience>
+      <category>14,15,18,29</category>
+      <type>1</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>5</s1>
+      <salary>1</salary>
+      <about>Là một người có cá tính mạnh, yêu chó, trung thực, siêng năng. Hơi nóng tính chút xíu</about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

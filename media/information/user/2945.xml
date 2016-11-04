@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2945</id>
+      <email>thonvhcm2016@gmail.com</email>
+      <username/>
+      <name>Nguyễn Văn Thọ</name>
+      <im>1474094124_nguyen-van-tho.png</im>
+      <gender>1</gender>
+      <phone>01215549406</phone>
+      <address>66/20 Phổ Quang, Phường 2, Quận Tân Bình, Thành Phố Hồ Chí Minh</address>
+      <city>30</city>
+      <dob>1980-4-28</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474094124</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>28</day>
+      <month>4</month>
+      <year>1980</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.805937</lat>
+      <lng>106.66895</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Đầu Bếp Á</title>
+      <experience>5</experience>
+      <category>14,15,20,29,30,36</category>
+      <type>1</type>
+      <level>2,3,4,5</level>
+      <lang>vi</lang>
+      <skill>- Biết nấu các món Việt, khẩu vị miền Nam và các món Á - Âu.&#13;
+- Biết cách bảo quản thực phẩm, chế biến thực phẩm độc đáo theo yêu cầu của thực khách.&#13;
+- Có khả năng sơ chế thực phẩm trước khi chế biến, làm cho món ăn trở nên hấp dẫn hơn.&#13;
+- Thân thiện, hòa nhã với mọi người xung quanh. Trung thực trong công việc. </skill>
+      <ui>2945</ui>
+      <s1>10000000</s1>
+      <salary>1</salary>
+      <about>- Tôi là Nguyễn Văn Thọ, quê ở Quảng Ngãi. Tôi tốt nghiệp trường trung cấp Đông Á Đà Nẵng và đã từng làm việc tại nhiều nhà hàng khách sạn trong ngành đầu bếp.&#13;
+- Là một người trung thực vui tính, có tinh thần cầu tiến, luôn luôn giúp đỡ đồng nghiệp để cùng tiến bộ.&#13;
+- Là người năng động sáng tạo trong công việc</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>230</strjo>
+  </appliedjob>
+  <education>
+    <n_483>
+      <id>483</id>
+      <school>Trung Cấp Đông Á</school>
+      <degrees>Trung cấp Kế Toán, Chứng chỉ "Chef De Party" của Pháp</degrees>
+      <fieldofstudy>Bếp</fieldofstudy>
+      <from>2001</from>
+      <to>2004</to>
+    </n_483>
+  </education>
+</information>

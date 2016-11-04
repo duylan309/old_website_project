@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7633</id>
+      <email>quangydc29@outlook.com</email>
+      <username/>
+      <name>Kim Quang</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0938662027</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1477365186</created>
+      <dayleft>1479957186</dayleft>
+      <jobleft>5</jobleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1477365186</last_signin>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>1</total>
+    <strji>517</strji>
+  </totalJob>
+  <saveuser>
+    <total>5</total>
+    <strui>940,7485,4833,7891,7805</strui>
+  </saveuser>
+</information>

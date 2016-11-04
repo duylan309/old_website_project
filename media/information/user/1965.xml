@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1965</id>
+      <email>iamanonymous944@gmail.com</email>
+      <username/>
+      <name>Nguyễn Khang</name>
+      <im>142275946222689_nguyen-khang.jpg</im>
+      <gender>1</gender>
+      <dob>1996-12-31</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473096271</created>
+      <day>31</day>
+      <month>12</month>
+      <year>1996</year>
+      <phone>01568344835</phone>
+      <address>quận 1</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7756587</lat>
+      <lng>106.7004238</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>học sinh</title>
+      <experience>7</experience>
+      <category>14,15,18,20,29</category>
+      <type>6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill></skill>
+      <ui>1965</ui>
+      <s1>1000000000</s1>
+      <salary>2</salary>
+      <keyword>Trung thực</keyword>
+      <s2>22000000000000</s2>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>150</strjo>
+  </appliedjob>
+</information>

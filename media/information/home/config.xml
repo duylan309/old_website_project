@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <config>
+    <about>
+      <description>
+&lt;p&gt;&#13;
+&lt;script src="/api/get/job?distinct=1&amp;amp;limit=12&amp;amp;var=window.allJobOne"&gt;&lt;/script&gt;&#13;
+&lt;/p&gt;&#13;
+&lt;div class="item-view-more" data-view-list-by-handlebar="" data-init-button-magic=".item [data-button-magic]" data-url="/api/get/job?distinct=1&amp;amp;limit=8" data-method="get" data-show-page="10" data-show-item="24" data-init-object="allJobOne" data-show-all="false" data-scroll-view="true" data-scroll-bottom=".cv-list-logo" data-form-filter=".form-filter" data-is-reload-page="false" data-ignore-hash="true" data-reload-base-on-id="id" data-reload-base-set-params="listID" data-reload-url="/api/get/joblistid" data-template-id="viewItemJobSearch"&gt;&#13;
+&lt;div class="j-h-r"&gt;&#13;
+&lt;div class="row"&gt;&#13;
+&lt;div class="col-xs-6  col-sm-10"&gt;&#13;
+&lt;h2&gt;&lt;a class="text-color1 t-s-18" href="/q?distinct=1"&gt;All Jobs&lt;/a&gt;&lt;/h2&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;div class="col-xs-6  col-sm-2 text-right"&gt;&#13;
+&lt;h2&gt;&lt;a class="text-color2 t-s-14 text-bold" href="/q?distinct=1"&gt;View more&lt;/a&gt;&lt;/h2&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;div class="view-items" data-content="" data-center-items="" data-class-name="item-job" data-item-class=".item" data-responsive="true"&gt;&#13;
+&lt;div class="style-loadding"&gt;...&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;div class="ads-home m-b-5"&gt;&lt;img src="/img/style/ad-1.jpg" alt="" /&gt;&lt;/div&gt;&#13;
+&lt;p&gt;&#13;
+&lt;script src="/api/get/job?distinct=1&amp;amp;limit=8&amp;amp;var=window.allJob"&gt;&lt;/script&gt;&#13;
+&lt;/p&gt;&#13;
+&lt;div class="item-view-more" data-view-list-by-handlebar="" data-init-button-magic=".item [data-button-magic]" data-url="/api/get/job?distinct=1&amp;amp;limit=8" data-method="get" data-show-page="10" data-show-item="24" data-init-object="allJob" data-show-all="false" data-scroll-view="true" data-ignore-hash="true" data-scroll-bottom=".cv-list-logo" data-form-filter=".form-filter" data-is-reload-page="false" data-reload-base-on-id="id" data-reload-base-set-params="listID" data-reload-url="/api/get/joblistid" data-template-id="viewItemJobSearch"&gt;&#13;
+&lt;div class="j-h-r"&gt;&#13;
+&lt;div class="view-items" data-content="" data-center-items="" data-class-name="item-job" data-item-class=".item" data-responsive="true"&gt;&#13;
+&lt;div class="style-loadding"&gt;...&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;div class="cv-list-logo" data-view-list-by-handlebar="" data-init-button-magic=".item [data-button-magic]" data-url="/api/get/cmp" data-method="get" data-show-page="100" data-show-all="true" data-scroll-view="false" data-show-elm=".info-not-found-result" data-template-id="entryCmpLogo"&gt;&#13;
+&lt;div class="j-h-r"&gt;&#13;
+&lt;div class="title"&gt;&#13;
+&lt;h2 class="text-color1 t-s-18"&gt;Work at&lt;/h2&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;div class="view-items" data-content="" data-center-items="" data-class-name="item-logo" data-item-class=".i-logo" data-responsive="true" data-ignore-hash="true" data-items-custom="[600, 6], [500, 5], [400, 4], [200, 4]"&gt;&#13;
+&lt;div class="style-loadding"&gt;...&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;</description>
+      <pageNotfound>&lt;p&gt;lỗi không tìm thấy liên kết&lt;/p&gt;</pageNotfound>
+      <footer1>&lt;div class="container f-link"&gt;&#13;
+&lt;div class="row"&gt; &lt;/div&gt;&#13;
+&lt;/div&gt;</footer1>
+      <footer2>&lt;div class="container"&gt;&#13;
+&lt;div class="row"&gt;&#13;
+&lt;div class="col-xs-2 col-sm-1"&gt;&#13;
+&lt;p&gt;&lt;a href="#"&gt;&lt;span class="fa fa-facebook-square"&gt; &lt;/span&gt;&lt;/a&gt; &lt;a href="#"&gt;&lt;span class="fa fa-youtube-square"&gt; &lt;/span&gt;&lt;/a&gt; &lt;a href="#"&gt;&lt;span class="fa fa-linkedin-square"&gt; &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;div class="col-xs-7 col-sm-9 f-link"&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;&lt;a href="/p/about-us"&gt;About us&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;li&gt;&lt;a href="/emp"&gt;Packages&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;li&gt;&lt;a href="#"&gt;Terms of Use&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;li&gt;&lt;a href="#"&gt;Privacy Policy&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;li&gt;&lt;a href="#"&gt;Help&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;li&gt;&lt;a href="#" data-button-magic="1" data-view-template-local="true" data-view-template="[data-quick-view-item]" data-template-id="entryPopupContactWebsite"&gt;Contact us&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;div class="col-xs-3 col-sm-2 text-right t-s-11"&gt;&#13;
+&lt;p&gt;© 2016 Copyright by Thue&lt;/p&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;</footer2>
+    </about>
+    <social>
+      <skype>#</skype>
+      <facebook>https://www.facebook.com/thue.today</facebook>
+      <hotline>01267543789</hotline>
+    </social>
+    <email>
+      <contactSender>tearm@thue.today</contactSender>
+      <contact>team@thue.today</contact>
+    </email>
+    <seo>
+      <googleAnalyticsCode/>
+      <title>
+        <vi>Thue.today  - Việc làm nhà hàng, khách sạn, cafe, thời trang.</vi>
+        <en>Thue.today  - Work in restaurants, retail stores, hotels, cafes</en>
+      </title>
+      <description>
+        <vi>Thuê là một website được thiết kế đặc biệt để đáp ứng nhu cầu tuyển dụng nhân sự cho ngành Dịch Vụ (bao gồm nhà hàng khách sạn, F&amp;B và các kênh bán lẻ).</vi>
+        <en>THUE is an online job search platform created to address the recruitment needs of hospitality and service industries</en>
+      </description>
+      <keyword>
+        <vi>Keyword VN</vi>
+        <en>Keyword EN</en>
+      </keyword>
+    </seo>
+    <description>
+      <vi>&lt;p&gt;&#13;
+&lt;script src="/api/get/jobhtml?random=1&amp;amp;var=window.viewSearchAllJobs"&gt;&lt;/script&gt;&#13;
+&lt;/p&gt;&#13;
+&lt;div class="item-view-more" data-view-list-by-handlebar="" data-init-button-magic=".item [data-button-magic]" data-url="/api/get/jobhtml" data-method="get" data-show-page="10" data-show-item="32" data-init-object="viewSearchAllJobs" data-show-all="false" data-scroll-view="true" data-scroll-bottom=".cv-list-logo" data-form-filter=".form-filter" data-is-reload-page="false" data-ignore-hash="true" data-reload-base-on-id="id" data-reload-base-set-params="listID" data-reload-url="/api/get/joblistid" data-template-id="viewItemJobSearch"&gt;&#13;
+&lt;div class="j-h-r m-t-15"&gt;&#13;
+&lt;div class="view-items m-t-15" data-content="" data-center-items="" data-class-name="item-job" data-item-class=".item" data-responsive="true"&gt;&#13;
+&lt;div class="style-loadding"&gt;...&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;div class="cv-list-logo" data-view-list-by-handlebar="" data-init-button-magic=".item [data-button-magic]" data-url="/api/get/company?cmpid=331,294,360,394,417,220,270,367,390,276,256,426,403,388,405,328,187,207&amp;amp;random=1" data-method="get" data-show-page="100" data-show-item="18" data-ignore-hash="true" data-show-all="true" data-scroll-view="false" data-show-elm=".info-not-found-result" data-template-id="entryCmpLogo"&gt;&#13;
+&lt;div class="j-h-r m-t-5"&gt;&#13;
+&lt;div class="title"&gt;&#13;
+&lt;h2 class="t-s-18 text-bold"&gt;Nh&amp;agrave; Tuyển Dụng Nổi Bật&lt;/h2&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;div class="view-items" data-content="" data-center-items="" data-class-name="item-logo" data-item-class=".i-logo" data-responsive="true" data-ignore-hash="true" data-items-custom="[600, 6], [500, 5], [400, 4], [200, 4]"&gt;&#13;
+&lt;div class="style-loadding"&gt;...&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;</vi>
+      <en>&lt;p&gt;&#13;
+&lt;script src="/api/get/jobhtml?random=1&amp;amp;var=window.viewSearchAllJobs"&gt;&lt;/script&gt;&#13;
+&lt;/p&gt;&#13;
+&lt;div class="item-view-more" data-view-list-by-handlebar="" data-init-button-magic=".item [data-button-magic]" data-url="/api/get/jobhtml" data-method="get" data-show-page="10" data-show-item="32" data-init-object="viewSearchAllJobs" data-show-all="false" data-scroll-view="true" data-scroll-bottom=".cv-list-logo" data-form-filter=".form-filter" data-is-reload-page="false" data-ignore-hash="true" data-reload-base-on-id="id" data-reload-base-set-params="listID" data-reload-url="/api/get/joblistid" data-template-id="viewItemJobSearch"&gt;&#13;
+&lt;div class="j-h-r m-t-15"&gt;&#13;
+&lt;div class="view-items m-t-15" data-content="" data-center-items="" data-class-name="item-job" data-item-class=".item" data-responsive="true"&gt;&#13;
+&lt;div class="style-loadding"&gt;...&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;div class="cv-list-logo" data-view-list-by-handlebar="" data-init-button-magic=".item [data-button-magic]" data-url="/api/get/company?cmpid=331,294,360,394,417,220,270,367,390,276,256,426,403,388,405,328,187,207&amp;amp;random=1" data-method="get" data-show-page="100" data-show-item="18" data-ignore-hash="true" data-show-all="true" data-scroll-view="false" data-show-elm=".info-not-found-result" data-template-id="entryCmpLogo"&gt;&#13;
+&lt;div class="j-h-r m-t-5"&gt;&#13;
+&lt;div class="title"&gt;&#13;
+&lt;h2 class="t-s-18 text-bold"&gt;Featured&lt;/h2&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;div class="view-items" data-content="" data-center-items="" data-class-name="item-logo" data-item-class=".i-logo" data-responsive="true" data-ignore-hash="true" data-items-custom="[600, 6], [500, 5], [400, 4], [200, 4]"&gt;&#13;
+&lt;div class="style-loadding"&gt;...&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;</en>
+    </description>
+    <footer>
+      <vi>&lt;div class="container"&gt;&#13;
+&lt;div class="row"&gt;&#13;
+&lt;div class="col-sm-1"&gt;&#13;
+&lt;p&gt;&lt;a href="https://facebook.com/thuetoday" target="_blank"&gt;&lt;span class="fa fa-facebook-square"&gt;&amp;nbsp;&lt;/span&gt;&lt;/a&gt; &lt;a href="https://www.instagram.com/thuetoday/"&gt;&lt;span class="fa fa-instagram"&gt;&amp;nbsp;&lt;/span&gt;&lt;/a&gt; &lt;a href="https://twitter.com/thuetoday"&gt;&lt;span class="fa fa-twitter-square"&gt;&amp;nbsp;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;div class="col-sm-9 f-link"&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;&lt;a href="/page/about-us"&gt;Giới thiệu&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;li&gt;&lt;a href="/page/employer"&gt;Bảng gi&amp;aacute;&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;li&gt;&lt;a href="/page/privacy-policy"&gt;Ch&amp;iacute;nh s&amp;aacute;ch bảo mật&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;li&gt;&lt;a href="/page/terms-of-use"&gt;Điều khoản sử dụng&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;li&gt;&lt;a href="/page/contact"&gt;Li&amp;ecirc;n hệ&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;div class="col-sm-2 text-right t-s-11"&gt;&#13;
+&lt;p&gt;&amp;copy; 2016 Copyright by Thue&lt;/p&gt;&#13;
+&lt;a href="https://mixpanel.com/f/partner" rel="nofollow"&gt;&lt;img style="width: 75px !important; height: auto !important;" src="//cdn.mxpnl.com/site_media/images/partner/badge_blue.png" alt="Mobile Analytics" /&gt;&lt;/a&gt;&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;</vi>
+      <en>&lt;div class="container"&gt;&#13;
+&lt;div class="row"&gt;&#13;
+&lt;div class="col-sm-1"&gt;&#13;
+&lt;p&gt;&lt;a href="https://facebook.com/thuetoday" target="_blank"&gt;&lt;span class="fa fa-facebook-square"&gt;&amp;nbsp;&lt;/span&gt;&lt;/a&gt; &lt;a href="https://www.instagram.com/thuetoday/"&gt;&lt;span class="fa fa-instagram"&gt;&amp;nbsp;&lt;/span&gt;&lt;/a&gt; &lt;a href="https://twitter.com/thuetoday"&gt;&lt;span class="fa fa-twitter-square"&gt;&amp;nbsp;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;div class="col-sm-9 f-link"&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;&lt;a href="/page/about-us"&gt;About us&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;li&gt;&lt;a href="/page/employer"&gt;Pricing&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;li&gt;&lt;a href="/page/privacy-policy"&gt;Privacy Policy&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;li&gt;&lt;a href="/page/terms-of-use"&gt;Terms of Use&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;li&gt;&lt;a href="/page/contact"&gt;Contact us&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;div class="col-sm-2 text-right t-s-11"&gt;&#13;
+&lt;p&gt;&amp;copy; 2016 Copyright by Thue&lt;/p&gt;&#13;
+&lt;a href="https://mixpanel.com/f/partner" rel="nofollow"&gt;&lt;img style="width: 75px !important; height: auto !important;" src="//cdn.mxpnl.com/site_media/images/partner/badge_blue.png" alt="Mobile Analytics" /&gt;&lt;/a&gt;&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;</en>
+    </footer>
+    <paymentcontent>
+      <tranfer>
+        <vi>&lt;p&gt;Transfer to bank VIETNAM&lt;/p&gt;</vi>
+        <en>&lt;p&gt;Transfer to bank ENGLISH&lt;/p&gt;</en>
+      </tranfer>
+      <cod>
+        <vi>&lt;p&gt;Cash On Delivery&amp;nbsp;VIETNAM&lt;/p&gt;</vi>
+        <en>&lt;p&gt;Cash On Delivery ENGLISH&lt;/p&gt;</en>
+      </cod>
+    </paymentcontent>
+  </config>
+</information>

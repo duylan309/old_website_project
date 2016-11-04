@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5363</id>
+      <email>lequangchanh1609@gmail.com</email>
+      <username/>
+      <name>Lê Quang Chánh</name>
+      <im>5363_14358682-125446607915318-2993486563693963546-n.jpg</im>
+      <gender>1</gender>
+      <phone>0988035054</phone>
+      <address>592/15 Nguyễn Văn Quá Quận 12 Tp.hcm</address>
+      <city></city>
+      <dob>1995-9-16</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475928210</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1475928210</last_signin>
+      <day>16</day>
+      <month>9</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1099>
+      <id>1099</id>
+      <title>Bếp sushi</title>
+      <level>1</level>
+      <cmpname>hokkaido sachi</cmpname>
+      <city>tp.hcm</city>
+      <country>việt nam</country>
+      <from>7/2015</from>
+      <to>5/2016</to>
+    </n_1099>
+    <n_1100>
+      <id>1100</id>
+      <title>bếp sushi</title>
+      <level>1</level>
+      <cmpname>tokyo deli</cmpname>
+      <city>tp.hcm</city>
+      <country>Việt Nam</country>
+      <from>9/2014</from>
+      <to>3/2015</to>
+    </n_1100>
+  </experience>
+  <education>
+    <n_890>
+      <id>890</id>
+      <school>Trường Đào Tạo Nghề Tài danh</school>
+      <degrees>chứng chỉ </degrees>
+      <fieldofstudy>Bếp Nhà Hàng</fieldofstudy>
+      <from>6/2011</from>
+      <to>11/2011</to>
+    </n_890>
+  </education>
+  <user_cv>
+    <db>
+      <ui>5363</ui>
+      <title>Bếp sushi</title>
+      <experience>1</experience>
+      <category>14,20</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>sinh năm 1995 kinh nghiêm 1 năm bếp sushi và có chứng chỉ bếp nhà hàng , nay mong muốn tim công việc phụ bếp tại các nhà hàng khách sạn . để phát huy khả năng sáng tạo cũng như thõa mãn niêm đam mê ẩm thực , hy vọng các nhà tuyễn dụng cho e 1 cô hội được làm viêc trong môi trường chuyên nghiệp năng động .</about>
+      <skill>nhanh nhẹn , ham học hỏi đam mê với nghề.</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>276</strjo>
+  </appliedjob>
+</information>

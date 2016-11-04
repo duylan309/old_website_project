@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1499</id>
+      <email>Kik_ngoanhien@yahoo.com</email>
+      <username/>
+      <name>Nguyễn văn thăng</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01887733393</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472409948</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục vụ</title>
+      <experience>3</experience>
+      <category>14,15,16,19</category>
+      <type>1,4</type>
+      <level>4</level>
+      <lang>vi,ja</lang>
+      <skill/>
+      <ui>1499</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>151</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>151</strjo>
+  </savedjob>
+</information>

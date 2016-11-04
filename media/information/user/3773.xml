@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3773</id>
+      <email>tranthaibaokhang@gmail.com</email>
+      <username/>
+      <name>Trần Thái Bảo Khang</name>
+      <im/>
+      <gender>1</gender>
+      <phone>01229138195</phone>
+      <address>453/85 KA Lê Văn Sĩ F12 Q3</address>
+      <city>30</city>
+      <dob>1997-6-23</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474822259</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1474822259</last_signin>
+      <day>23</day>
+      <month>6</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_843>
+      <id>843</id>
+      <title>Phục Vụ</title>
+      <level>1</level>
+      <cmpname>Nhà hàng Metropole</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2016</from>
+      <to>2016</to>
+    </n_843>
+  </experience>
+  <education>
+    <n_623>
+      <id>623</id>
+      <school>Đại Học Sư Phạm Thành Phố Hồ Chí Minh</school>
+      <degrees>cấp 3</degrees>
+      <fieldofstudy>Giáo Dục Thễ Chất</fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_623>
+  </education>
+  <user_cv>
+    <db>
+      <ui>3773</ui>
+      <title>Phục Vụ</title>
+      <experience>1</experience>
+      <category>14,15,16,17,18,19,20,26,27,28,29,30,31,35,36</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>301,262,162,318,154</strjo>
+  </appliedjob>
+</information>

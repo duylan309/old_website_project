@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2965</id>
+      <email>pe_ruacon_kju_cute@yahoo.com.vn</email>
+      <username/>
+      <name>Đặng Thu Trang</name>
+      <im>1142216442539806_trang-trang-trang.jpg</im>
+      <gender>2</gender>
+      <dob>1998-9-30</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474117619</created>
+      <day>30</day>
+      <month>9</month>
+      <year>1998</year>
+      <phone>0888 810 860</phone>
+      <address>421 Trần Xuân Soạn, Quận 7</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.749535</lat>
+      <lng>106.696945</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>35</category>
+      <type>2,4,6</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill>Kỹ năng giao tiếp khá tốt và có tinh thần trách nhiệm cao</skill>
+      <ui>2965</ui>
+      <s1>20000</s1>
+      <salary>1</salary>
+      <about>Là người có tinh thần trách nhiệm cao, ham học hỏi</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>219</strjo>
+  </appliedjob>
+</information>

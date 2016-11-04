@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>267</id>
+    <ui>1027</ui>
+    <name>Life 365</name>
+    <url>cafelife365</url>
+    <im/>
+    <im_banner/>
+    <category>15</category>
+    <phone>0935337123</phone>
+    <address>186 Trần Quý P6 Q11 HCM</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.758757</lat>
+    <lng>106.653778</lng>
+    <website>www.facebook.com/cafelife365.net</website>
+    <about/>
+    <facebook/>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1471610123</created>
+  </db>
+  <more>
+    <about/>
+    <whyworkus/>
+  </more>
+  <companybanner/>
+  <totalJob>
+    <total>2</total>
+    <strji>168,296</strji>
+  </totalJob>
+</information>

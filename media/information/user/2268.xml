@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2268</id>
+      <email>chongaymuatan@gmail.com</email>
+      <username/>
+      <name>Đức Hà</name>
+      <im>1410129839003018_duc-ha.jpg</im>
+      <gender>1</gender>
+      <dob>1995-4-28</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473343040</created>
+      <day>28</day>
+      <month>4</month>
+      <year>1995</year>
+      <phone>01267316805</phone>
+      <address>211/10 Nguyễn Thái Bình Q1, Phường Nguyễn Thái Bình TPHCM</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_361>
+      <id>361</id>
+      <school>Cao Đẳng Kỹ Thuật Cao Thắng Q1</school>
+      <degrees>chờ lấy bằng</degrees>
+      <fieldofstudy>Sữa Chữa Lắp Ráp máy tính</fieldofstudy>
+      <from>2013</from>
+      <to>2016</to>
+    </n_361>
+  </education>
+  <user_cv>
+    <db>
+      <ui>2268</ui>
+      <title>Phụ bếp</title>
+      <experience>7</experience>
+      <category>14,15,29</category>
+      <type>1,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Muốn tự lập, cố gắng tiếp thu</about>
+      <skill/>
+      <keyword>Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Tinh thần trách nhiệm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>193</strjo>
+  </appliedjob>
+</information>

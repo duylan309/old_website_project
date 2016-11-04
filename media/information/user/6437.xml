@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6437</id>
+      <email>Annhien157@gmail.com</email>
+      <username/>
+      <name>Huỳnh Ý Mơ</name>
+      <im>6437_image.jpeg</im>
+      <gender>2</gender>
+      <phone>01655717116</phone>
+      <address>195/96 trần văn đang, quận 3</address>
+      <city>30</city>
+      <dob>1993-7-15</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476595397</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476595397</last_signin>
+      <day>15</day>
+      <month>7</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7859719</lat>
+      <lng>106.671512</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1292>
+      <id>1292</id>
+      <title>nhân viên kiểm nghiệm</title>
+      <level>1</level>
+      <cmpname>Vemedim</cmpname>
+      <city>Cần Thơ</city>
+      <country>Việt Nam</country>
+      <from>9/2015</from>
+      <to>9/2016</to>
+    </n_1292>
+    <n_1293>
+      <id>1293</id>
+      <title>Waitress</title>
+      <level>1</level>
+      <cmpname>Đồng hoa coffee</cmpname>
+      <city>Cần Thơ</city>
+      <country>Việt Nam</country>
+      <from>5/2014</from>
+      <to>8/2014</to>
+    </n_1293>
+  </experience>
+  <education>
+    <n_1063>
+      <id>1063</id>
+      <school>Đại Học Cần Thơ</school>
+      <degrees>Đại Học</degrees>
+      <fieldofstudy>Cử Nhân Hoá Dược</fieldofstudy>
+      <from>2011</from>
+      <to>2015</to>
+    </n_1063>
+  </education>
+  <user_cv>
+    <db>
+      <ui>6437</ui>
+      <title>Nhân viên phục vụ , nhân viên bán hàng, pha chế</title>
+      <experience>7</experience>
+      <category>15,17,27,31,35,36</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>Mình hiện tại đang là sinh viên Dược năm 1, DHYDTPHCM. Mình có lịch học buổi tối và cuối tuần nên mình muốn tìm công việc làm theo ca ban ngày. Mình cần công việc làm lâu dài để trang trải sinh hoạt trong những năm đại học sắp tới. Rất mong nhận được sự giúp đỡ và làm việc với các bạn. Cám ơn rất nhiều ạ ^^</about>
+      <skill>Nhanh nhẹn&#13;
+Hoà đồng&#13;
+Có trách nhiệm&#13;
+Mong muốn làm việc lâu dài&#13;
+Giao tiếp anh văn cơ bản (Toeic 740)</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>293,408,262,268</strjo>
+  </appliedjob>
+</information>

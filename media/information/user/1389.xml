@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1389</id>
+      <email>nguyenhyen94@gmail.com</email>
+      <username/>
+      <name>Nguyễn Hoàng Yến</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01207126162</phone>
+      <address>306/33/7 Nguyễn Thị Minh Khai, P5, Q3, TPHCM</address>
+      <city>30</city>
+      <dob>1994-1-25</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472221053</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1472221053</last_signin>
+      <day>25</day>
+      <month>1</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7862529</lat>
+      <lng>106.7032868</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_223>
+      <id>223</id>
+      <school>Đại học Ngoại ngữ Tin học Thành phố Hồ Chí Minh</school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy>Public Relations</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_223>
+  </education>
+  <user_cv>
+    <db>
+      <ui>1389</ui>
+      <title>Marketing Executive</title>
+      <experience>7</experience>
+      <category>14,15,18,20</category>
+      <type>1,3</type>
+      <level>1,2</level>
+      <lang>vi,en,kr</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <skill>Kỹ năng mềm : Kỹ năng giao tiếp, Kỹ năng giải quyết vấn đề, Kỹ năng quản lý thời gian hiệu quả và Kỹ năng làm việc đội nhóm, Trung thực, Tự tin, Nhiệt tình và Tinh thần trách nhiệm cao.&#13;
+Kỹ năng chuyên môn : Social Networking, Content Writing, Photoshop, Articulate, Creating and Organizing Events, Planing PR and Marketing Plan. </skill>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng giải quyết tình huống,Tinh thần trách nhiệm,Chịu được áp lực công việc,Tập trung trong công việc,Trung thực,Tự tin,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>99,167</strjo>
+  </appliedjob>
+  <experience>
+    <n_308>
+      <id>308</id>
+      <title>Soft Skill Content Development Internship  6 months</title>
+      <level>1</level>
+      <cmpname>Talent Mind Education</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Vietnam</country>
+      <from>October 2015</from>
+      <to>June 2016</to>
+    </n_308>
+    <n_309>
+      <id>309</id>
+      <title>Collaborator of ExBEERience Fest 2015</title>
+      <level>1</level>
+      <cmpname>PiEntertainment</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Vietnam</country>
+      <from>18/09/2015</from>
+      <to>22/09/2015</to>
+    </n_309>
+    <n_310>
+      <id>310</id>
+      <title>Organizer of ”Ký ức Sài Gòn"</title>
+      <level>1</level>
+      <cmpname>HUFLIT</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Vietnam</country>
+      <from>02/2015</from>
+      <to>08/2015</to>
+    </n_310>
+    <n_311>
+      <id>311</id>
+      <title>Organizer of ”Triễn lãm Nhà Nguyễn"</title>
+      <level>1</level>
+      <cmpname>HUFLIT</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Vietnam</country>
+      <from>01/2015</from>
+      <to>02/2015</to>
+    </n_311>
+    <n_312>
+      <id>312</id>
+      <title>Online Cosmetic Selling : 1 year</title>
+      <level>1</level>
+      <cmpname>Aurora Cosmetic - Magic in 3</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Vietnam</country>
+      <from>01/2014</from>
+      <to>12/2014</to>
+    </n_312>
+    <n_313>
+      <id>313</id>
+      <title>Tutor: English for grade 8 student : 6 months</title>
+      <level>1</level>
+      <cmpname>Freelancer</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Vietnam</country>
+      <from>03/2013</from>
+      <to>12/2013</to>
+    </n_313>
+  </experience>
+</information>

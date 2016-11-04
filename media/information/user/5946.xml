@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5946</id>
+      <email>lequynhphuong94@gmail.com</email>
+      <username/>
+      <name>Quỳnh Phương</name>
+      <im>1774032516186804_quynh-phuong.jpg</im>
+      <gender>2</gender>
+      <dob>1994-7-17</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476279279</created>
+      <day>17</day>
+      <month>7</month>
+      <year>1994</year>
+      <phone>0962938865</phone>
+      <address/>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên thu ngân</title>
+      <experience>1</experience>
+      <category>14,35</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>- kĩ năng giao tiếp&#13;
+- kĩ năng làm việc độc lập&#13;
+- kĩ năng đánh máy, sử dụng máy tích thành thạo&#13;
+- kĩ năng làm việc nhóm&#13;
+</skill>
+      <ui>5946</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>368</strjo>
+  </appliedjob>
+  <experience>
+    <n_1213>
+      <id>1213</id>
+      <title>nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>cửa hàng điện An Gia</cmpname>
+      <city>Bình Dương</city>
+      <country>Việt Nam</country>
+      <from>thang 8/2012</from>
+      <to>tháng 12/2014</to>
+    </n_1213>
+    <n_1214>
+      <id>1214</id>
+      <title>nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>quán ăn Hà ký Mỳ Gia</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>tháng 6/2016</from>
+      <to>tháng 10/2016</to>
+    </n_1214>
+  </experience>
+  <education>
+    <n_988>
+      <id>988</id>
+      <school>Đại học Kinh tế TP.HCM</school>
+      <degrees>bằng tốt nghiệp THPT</degrees>
+      <fieldofstudy>Tài chính</fieldofstudy>
+      <from>tháng 9/2013</from>
+      <to>tháng 6/2017</to>
+    </n_988>
+  </education>
+  <savedjob>
+    <total>1</total>
+    <strjo>368</strjo>
+  </savedjob>
+</information>

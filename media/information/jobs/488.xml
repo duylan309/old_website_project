@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>488</id>
+    <ui>1588</ui>
+    <ci>299</ci>
+    <ai>0</ai>
+    <ti>Nhân viên pha chế cà phê</ti>
+    <ta/>
+    <le>2</le>
+    <ty>2,5,6</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>122</location_id>
+    <lat>10.772210</lat>
+    <lng>10.772210</lng>
+    <de>2016-10-31</de>
+    <re>0000-00-00</re>
+    <cr>1476934269</cr>
+  </db>
+  <more>
+    <requirement/>
+    <description>Dear all, các bạn nộp hồ sơ ứng tuyển vui lòng đến trực tiếp quán đc: 85 hồ tùng mậu để nộp hồ sơ và phỏng vấn nhé...&#13;
+Các bạn muốn biết thêm thông tin thì liên hệ sđt: 0903122301&#13;
+Thanks all!!</description>
+    <benefit/>
+    <keyword/>
+  </more>
+  <userapplied>
+    <total>6</total>
+    <strui>6272,7596,7691,7763,7792,8079</strui>
+  </userapplied>
+</information>

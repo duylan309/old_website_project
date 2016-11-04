@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1648</id>
+      <email>nhoktj.1998@gmail.com</email>
+      <username/>
+      <name>Nguyễn Hoàng Hữu Đạt</name>
+      <im/>
+      <gender>1</gender>
+      <phone>01282454274</phone>
+      <address>1099 Luỹ Bán Bích p tân sơn nhì q tân phú </address>
+      <city>30</city>
+      <dob>1998-2-26</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472714177</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>26</day>
+      <month>2</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7739951</lat>
+      <lng>106.6325601</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha Chế</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>1648</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <keyword>Kỹ năng giải quyết tình huống</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>222,163,162,151,150</strjo>
+  </appliedjob>
+  <experience>
+    <n_355>
+      <id>355</id>
+      <title>phục vụ</title>
+      <level>1</level>
+      <cmpname>ice zone coffee,  cô nguyễn kitchen</cmpname>
+      <city>hcm</city>
+      <country>Việt Nam </country>
+      <from>7/2016</from>
+      <to>9/2016</to>
+    </n_355>
+  </experience>
+  <education>
+    <n_255>
+      <id>255</id>
+      <school>Thpt Nguyễn Thái Bình.  Đại học Hoa Sen </school>
+      <degrees>Tốt nghiệp THPT</degrees>
+      <fieldofstudy>Marketing</fieldofstudy>
+      <from>2014</from>
+      <to>2016</to>
+    </n_255>
+  </education>
+</information>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3100</id>
+      <email>queanh9797@gmail.com</email>
+      <username/>
+      <name>Trình Nguyễn Quế Anh</name>
+      <im>552522308273372_anh-trinh.jpg</im>
+      <gender>2</gender>
+      <dob>1997-3-25</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474282043</created>
+      <day>25</day>
+      <month>3</month>
+      <year>1997</year>
+      <phone>0944763936</phone>
+      <address>363 an dương vương phường 3 quận 5 tp HCM</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7590085</lat>
+      <lng>106.6785338</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục vụ</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Không </skill>
+      <ui>3100</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Là sinh viên trường đại học sài gòn&#13;
+</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>222</strjo>
+  </appliedjob>
+</information>

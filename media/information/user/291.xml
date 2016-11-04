@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>291</id>
+      <email>dinhdong96@yahoo.com.vn</email>
+      <username/>
+      <name>Dong Dinh Giam</name>
+      <im>291_img-0439.JPG</im>
+      <gender>1</gender>
+      <phone>01663090716</phone>
+      <address>Trung Hiep, Vung Liem, Vinh Long</address>
+      <city>60</city>
+      <dob>1995-8-4</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1468329515</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>4</day>
+      <month>8</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Vĩnh Long</city_text_vi>
+      <city_text_en>Vinh Long</city_text_en>
+      <lat>10.0956518</lat>
+      <lng>106.1522126</lng>
+      <is_received_email>0</is_received_email>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>291</ui>
+      <title>waiter</title>
+      <experience>7</experience>
+      <category>14,15,19,20,27,28,29,31,35</category>
+      <type>1,2,6</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>86,87</strjo>
+  </appliedjob>
+</information>

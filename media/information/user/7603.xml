@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7603</id>
+      <email>giomuadongbac.456@gmail.com</email>
+      <username/>
+      <name>Hải Lý</name>
+      <im>282515095475588_hai-ly.jpg</im>
+      <gender>2</gender>
+      <dob>1996-10-1</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477323641</created>
+      <day>1</day>
+      <month>10</month>
+      <year>1996</year>
+      <last_signin>1477323641</last_signin>
+      <phone>01685939882</phone>
+      <address>300/34 Nguyễn Thái Sơn, P. 4, Q. Gò Vấp</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.821912</lat>
+      <lng>106.6850089</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>7603</ui>
+      <title>nhân viên bán hàng</title>
+      <experience>7</experience>
+      <category>31,35</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <savedjob>
+    <total>1</total>
+    <strjo>322</strjo>
+  </savedjob>
+  <appliedjob>
+    <total>1</total>
+    <strjo>322</strjo>
+  </appliedjob>
+</information>

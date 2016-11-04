@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7452</id>
+      <email>tansieudeptrai@gmail.com</email>
+      <username/>
+      <name>Phạm Minh Tấn</name>
+      <im/>
+      <gender>1</gender>
+      <phone>01264618177</phone>
+      <address>231-41 Dương Bá Trạc P.1 Q.8</address>
+      <city>30</city>
+      <dob>1998-2-26</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477271260</created>
+      <dayleft>0</dayleft>
+      <jobleft>0</jobleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1477271260</last_signin>
+      <day>26</day>
+      <month>2</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.746022</lat>
+      <lng>106.690031</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_1213>
+      <id>1213</id>
+      <school>Đại Học Tôn Đức Thắng </school>
+      <degrees/>
+      <fieldofstudy>Thiết kế công nghiệp </fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_1213>
+  </education>
+  <user_cv>
+    <db>
+      <ui>7452</ui>
+      <title>Phục vụ , giao hàng , bán hàng , pha chế</title>
+      <experience>1</experience>
+      <category>15,17,35</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>18000</s1>
+      <salary>1</salary>
+      <about>chịu đựng được áp lực công việc , linh động , vui vẻ </about>
+      <skill>đã từng phục vụ và pha chế trà sữa </skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>405,262,427</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>2</total>
+    <strjo>405,262</strjo>
+  </savedjob>
+</information>

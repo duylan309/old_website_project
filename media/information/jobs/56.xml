@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>56</id>
+    <ui>62</ui>
+    <ci>62</ci>
+    <ai>0</ai>
+    <ti>demo 1</ti>
+    <ta/>
+    <le>1</le>
+    <ty>1,4</ty>
+    <ex>1,3</ex>
+    <sa>2</sa>
+    <sn>1</sn>
+    <s1>500</s1>
+    <s2>600</s2>
+    <s3>11000000</s3>
+    <s4>13200000</s4>
+    <lo>30</lo>
+    <ca>14,16,18</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>1</st>
+    <pi>0</pi>
+    <la>vi,en,ja</la>
+    <de>2016-05-30</de>
+    <re>0000-00-00</re>
+    <cr>1467003794</cr>
+    <co>vn</co>
+  </db>
+  <more>
+    <number>1</number>
+    <description>demo 2</description>
+    <requirement>demo 1</requirement>
+  </more>
+  <userapplied>
+    <total>1</total>
+    <strui>3</strui>
+  </userapplied>
+</information>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4511</id>
+      <email>luckyboy_gapemtrongquan@yahoo.com</email>
+      <username/>
+      <name>Nguyễn Hoàng Long</name>
+      <im>1230482033649469_nguyen-hoang-long.jpg</im>
+      <gender>1</gender>
+      <dob>1995-4-19</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475242584</created>
+      <day>19</day>
+      <month>4</month>
+      <year>1995</year>
+      <last_signin>1475242584</last_signin>
+      <phone>01683434411</phone>
+      <address>376/56, Nguyễn Đình Chiểu, Phường 4, Quận 3</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7746828</lat>
+      <lng>106.6848497</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_952>
+      <id>952</id>
+      <title>Internship</title>
+      <level>1</level>
+      <cmpname>CareerBuilder</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>10/2014</from>
+      <to>04/2015</to>
+    </n_952>
+    <n_953>
+      <id>953</id>
+      <title>Barista</title>
+      <level>1</level>
+      <cmpname>Smoothie Factory</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>04/2016</from>
+      <to>09/2016</to>
+    </n_953>
+  </experience>
+  <education>
+    <n_743>
+      <id>743</id>
+      <school>Trường Đại Học Công Nghệ Thông Tin Gia Định</school>
+      <degrees>sinh viên năm 3</degrees>
+      <fieldofstudy>Công nghệ thông tin</fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_743>
+  </education>
+  <user_cv>
+    <db>
+      <title>Pha chế</title>
+      <experience>1</experience>
+      <category>15,16,27</category>
+      <type>2,3,4,5,6</type>
+      <level>1,2,3,4</level>
+      <lang>vi,en</lang>
+      <skill>Có kinh nghiệm về máy nước ép và máy xay sinh tố.</skill>
+      <ui>4511</ui>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <about>Tôi tên là Nguyễn Hoàng Long, tôi năm nay 21 tuổi. Sở thích của tôi là pha chế vì nó có tính sáng tạo và tiếng anh, vì ngôn ngữ này rất phổ biến trên thế giới và nó là điều kiện cần thiết để giúp tôi phát triển sự nghiệp sau này.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>9</total>
+    <strjo>320,63,293,305,64,69,332,195,194</strjo>
+  </appliedjob>
+</information>

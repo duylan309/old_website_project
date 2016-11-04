@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5869</id>
+      <email>love_nhox73@yahoo.com</email>
+      <username/>
+      <name>Kiều Lê</name>
+      <im>939010929576200_kieu-le.jpg</im>
+      <gender>2</gender>
+      <dob>1995-3-25</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476241082</created>
+      <day>25</day>
+      <month>3</month>
+      <year>1995</year>
+      <last_signin>1476241082</last_signin>
+      <phone>01642982665</phone>
+      <address>272/1 an dương vương phường 3 quận 5</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.757276</lat>
+      <lng>106.6737679</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1192>
+      <id>1192</id>
+      <title>Nhân Viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Nhà hàng bến xưa</cmpname>
+      <city>TP Hồ Chí Minh </city>
+      <country/>
+      <from>6-2013</from>
+      <to>4-2015</to>
+    </n_1192>
+  </experience>
+  <user_cv>
+    <db>
+      <title>Nhân Viên phục vụ</title>
+      <experience>2</experience>
+      <category>14,15,35</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Nhẫn nại&#13;
+Ham học hỏi</skill>
+      <ui>5869</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>262,278,371,504</strjo>
+  </appliedjob>
+</information>

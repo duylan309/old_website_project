@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6197</id>
+      <email>Nhungngoc2505@gmail.com</email>
+      <username/>
+      <name>TRẦN THỊ NGỌC NHUNG</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0902486323</phone>
+      <address>207/34 Kinh Dương Vương, Phường 12, Quận 6</address>
+      <city>30</city>
+      <dob>1994-5-25</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476425538</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>25</day>
+      <month>5</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7501497</lat>
+      <lng>106.6294833</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Thu ngân ca tối</title>
+      <experience>1</experience>
+      <category>14,15,18,20,26,35</category>
+      <type>1,2,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Chịu khó, ham học hỏi&#13;
+Có trách nhiệm với công việc</skill>
+      <ui>6197</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>107,249,231</strjo>
+  </appliedjob>
+</information>

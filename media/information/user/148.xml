@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>148</id>
+      <email>vophuongngan205@gmail.com</email>
+      <username/>
+      <name>Phương Ngân</name>
+      <im>1107145439358236_phuong-ngan.jpg</im>
+      <gender>2</gender>
+      <category/>
+      <phone>01219401026</phone>
+      <address>q3, tphcm</address>
+      <city>30</city>
+      <dob>1994-05-20</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1461946190</created>
+      <dayleft>0</dayleft>
+      <signupby>FB</signupby>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>148</ui>
+      <title>Waitress</title>
+      <category>15</category>
+      <type>3</type>
+      <level>3</level>
+      <experience>1</experience>
+      <location>30</location>
+      <lang>en,ja</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <skill>từng học pha chế</skill>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>18</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>297</id>
+      <email>le.vo@chuhospitality.com</email>
+      <username/>
+      <name>Lê Võ</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0903964068</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>3</status>
+      <created>1468404379</created>
+      <dayleft>1478772379</dayleft>
+      <page>5</page>
+      <is_received_email>1</is_received_email>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <jobleft>0</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>14</total>
+    <strji>362,238,101,318,122,317,96,97,236,237,144,369,98,239</strji>
+  </totalJob>
+  <saveuser>
+    <total>82</total>
+    <strui>259,362,378,516,560,576,591,640,680,722,827,850,1561,1905,1698,350,1540,2179,1708,2382,2463,2498,2525,2515,2550,2024,2785,2883,2990,3018,3093,3103,1602,3177,3207,3222,3344,3467,292,3598,3609,1742,3773,412,823,3797,3883,4121,4143,4200,4260,4323,4341,1503,4522,3864,4593,940,4865,4879,4944,4724,5180,5241,1885,4833,6243,6618,2510,7004,7042,7104,7156,7168,6968,7305,3668,7342,7098,7411,7424,7542</strui>
+  </saveuser>
+</information>

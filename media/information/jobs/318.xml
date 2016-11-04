@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>318</id>
+    <ui>297</ui>
+    <ci>222</ci>
+    <ai>0</ai>
+    <ti>Guest Service</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1,4</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>4500000</s1>
+    <s2>5000000</s2>
+    <s3>204</s3>
+    <s4>227</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description>- Set up phòng và bàn ghế trước khi khách đến\r\n- Phục vụ trong quá trình khách dùng dịch vụ\r\n- Dọn dẹp phòng sau khi khách kết thúc \r\n- Những công việc khác theo yêu cầu quản lý</description>
+    <requirement>- Giao tiếp tốt bằng tiếng anh\r\n- Ngoại hình dễ nhìn\r\n- Hòa đồng, có tinh thần đồng đội\r\n- Ưu tiên có kinh nghiệm phục vụ</requirement>
+    <benefit>- Hưởng đầy đủ quyền lợi BHXH, BHYT, BHTN theo luật lao động khi ký HĐLĐ chính thức.\r\n- Nghỉ 12 ngày phép/năm.\r\n- Công ty bao cơm cho nhân viên.\r\n- Hưởng các quyền lơi khác theo chính sách công ty</benefit>
+    <keyword>Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Tinh thần trách nhiệm,Nhiệt tình,Tự tin,Chịu được áp lực công việc,Giao tiếp hiệu quả,Tinh thần làm việc nhóm,Tập trung trong công việc</keyword>
+    <ad/>
+    <location_id>23</location_id>
+    <lat>10.841637</lat>
+    <lng>10.841637</lng>
+    <de>2016-11-10</de>
+    <re>0000-00-00</re>
+    <cr>1477649962</cr>
+  </db>
+  <more>
+    <requirement>- Giao tiếp tốt bằng tiếng anh&#13;
+- Ngoại hình dễ nhìn&#13;
+- Hòa đồng, có tinh thần đồng đội&#13;
+- Ưu tiên có kinh nghiệm phục vụ</requirement>
+    <description>- Set up phòng và bàn ghế trước khi khách đến&#13;
+- Phục vụ trong quá trình khách dùng dịch vụ&#13;
+- Dọn dẹp phòng sau khi khách kết thúc &#13;
+- Những công việc khác theo yêu cầu quản lý</description>
+    <workhour></workhour>
+    <benefit>- Hưởng đầy đủ quyền lợi BHXH, BHYT, BHTN theo luật lao động khi ký HĐLĐ chính thức.&#13;
+- Nghỉ 12 ngày phép/năm.&#13;
+- Công ty bao cơm cho nhân viên.&#13;
+- Hưởng các quyền lơi khác theo chính sách công ty</benefit>
+    <keyword>Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Tinh thần trách nhiệm,Nhiệt tình,Tự tin,Chịu được áp lực công việc,Giao tiếp hiệu quả,Tinh thần làm việc nhóm,Tập trung trong công việc</keyword>
+  </more>
+  <userapplied>
+    <total>25</total>
+    <strui>3344,3467,292,3598,3609,1742,3773,412,823,3797,3883,4121,4143,4200,4260,4323,4341,1503,4522,3864,4593,940,4865,4724,8052</strui>
+  </userapplied>
+</information>

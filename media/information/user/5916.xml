@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5916</id>
+      <email>thanhchivo91@gmail.com</email>
+      <username/>
+      <name>Võ Thị Thanh Chỉ</name>
+      <im>1476266175_vo-thi-thanh-chi.png</im>
+      <gender>2</gender>
+      <phone>01698040147</phone>
+      <address>387/12 Cách Mạng Tháng Tám, phường 13 quận 10</address>
+      <city>30</city>
+      <dob>1991-10-20</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476266175</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>20</day>
+      <month>10</month>
+      <year>1991</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.791108</lat>
+      <lng>106.6558639</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>phục vụ khách hàng tận tình, chu đáo,vui vẻ&#13;
+có khả năng làm việc nhóm&#13;
+có khả năng giao tiếp tiếng anh&#13;
+biết lắng nghe, tiếp thu lời chỉ bảo</skill>
+      <ui>5916</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Sinh viên trường Trung cấp Dược &#13;
+Từng là nhân viên housekeeping của  khách sạn Sheraton</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>273</strjo>
+  </appliedjob>
+</information>

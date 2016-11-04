@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3927</id>
+      <email>laitondiemmy@gmail.com</email>
+      <username/>
+      <name>Emy Lai</name>
+      <im>848116621970230_emy-lai.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474891810</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Tạp dề cam</title>
+      <experience>1</experience>
+      <category>14,15,20,27</category>
+      <type>2,5,6</type>
+      <level>2</level>
+      <lang>vi,en,ch</lang>
+      <skill>Làm việc nhóm,dễ hoà nhập với môi trường, giao tiếp tốt </skill>
+      <ui>3927</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>267</strjo>
+  </appliedjob>
+</information>

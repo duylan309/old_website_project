@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5921</id>
+      <email>Huynhthanh.806020@gmail.com</email>
+      <username/>
+      <name>Huỳnh Nhật Thanh</name>
+      <im>5921_img20161005201554.jpg</im>
+      <gender>1</gender>
+      <phone>01253806020</phone>
+      <address>104/8 vạn kiếp.Binh̀ thanh ̣̣</address>
+      <city>30</city>
+      <dob>1989-12-28</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476267411</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>28</day>
+      <month>12</month>
+      <year>1989</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.79876</lat>
+      <lng>106.693962</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Bếp chính</title>
+      <experience>3</experience>
+      <category>14,20,29</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>5921</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>321</strjo>
+  </appliedjob>
+</information>

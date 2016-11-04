@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6798</id>
+      <email>adamkoo227@gmail.com</email>
+      <username/>
+      <name>Trieu Nguyen</name>
+      <im>1112186118857605_trieu-nguyen.jpg</im>
+      <gender>1</gender>
+      <dob>1994-7-22</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476868781</created>
+      <day>22</day>
+      <month>7</month>
+      <year>1994</year>
+      <phone>0967271682</phone>
+      <address>86 Đinh Bộ Lĩnh, Quận Bình Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.808684</lat>
+      <lng>106.709383</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ, bán hàng, pha chế,...</title>
+      <experience>7</experience>
+      <category>14,15,16,19,29,31,35</category>
+      <type>4</type>
+      <level>1,2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>6798</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Vui vẻ, nhiệt tình, cẩn thận, thích thử thách bản thân...</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>179,427</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>2</total>
+    <strjo>427,179</strjo>
+  </savedjob>
+</information>

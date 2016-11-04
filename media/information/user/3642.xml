@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3642</id>
+      <email>pe_pooh108@yahoo.com</email>
+      <username/>
+      <name>Lê Trần Tường Vy</name>
+      <im>3642_img-1772.JPG</im>
+      <gender>2</gender>
+      <dob>1994-10-10</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474731834</created>
+      <day>10</day>
+      <month>10</month>
+      <year>1994</year>
+      <phone>0973 055 722</phone>
+      <address>54 tân quý, phường Tân quý, Q tân phú</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7977915</lat>
+      <lng>106.6197624</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>3642</ui>
+      <title>nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,16,17,18,19,20,26,27,28,29,30,31,35,36</category>
+      <type>1,2,4</type>
+      <level>2</level>
+      <lang>vi,fr</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Name: LE TRAN TUONG VY&#13;
+Sex: Female&#13;
+Date of Birth: 10 August 1994&#13;
+Nationality: Vietnam&#13;
+Health: Excellent&#13;
+Personal features: Eagerness to learn, hard-working, willing to work overtime…&#13;
+Permanent Address: 1148, Ngoc Lam 2, Dong Nai Province.&#13;
+Present Address: 54C Tan Quy, Tan Phu District, HCM City.&#13;
+Tel: 0973 055 722&#13;
+Email: vy.ltt5235@gmail.com.vn&#13;
+Marital status: Single&#13;
+</about>
+      <skill>Major: Restaurant Management.&#13;
+Language Skills&#13;
+1.	English:&#13;
+-	2015 Toeic Course – Toeic 640 – IIG Vietnam&#13;
+2.	France: &#13;
+-	France Skills Course – Hoa Sen University&#13;
+Computer Skills:&#13;
+-	 Computer Skills Course – Level A – HCMC University of Technology and Education&#13;
+-	Good in MS Word, Excell, MS Power Point programs.&#13;
+</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <experience>
+    <n_807>
+      <id>807</id>
+      <title>Waitress at The Kafe – Kafe Group (full time)	</title>
+      <level>1</level>
+      <cmpname>Kafe Group - 14 Pham Hong Thai Street, D1</cmpname>
+      <city>HCM</city>
+      <country>Vietnam</country>
+      <from>01/2016 –</from>
+      <to>03/2016</to>
+    </n_807>
+    <n_808>
+      <id>808</id>
+      <title>Waitress at Royal Café</title>
+      <level>1</level>
+      <cmpname>– Kim Đô Hotel - 133 Nguyen Hue Street, D1</cmpname>
+      <city>HCM</city>
+      <country>Vietnam</country>
+      <from>03/2016</from>
+      <to>– 07/2016</to>
+    </n_808>
+    <n_809>
+      <id>809</id>
+      <title>Waitress at Cherry Restautant</title>
+      <level>1</level>
+      <cmpname>– Thanh Binh Hotel - 521 Ly Thuong Kiet Street, Tan Binh Dict</cmpname>
+      <city>HCM</city>
+      <country>Vietnam</country>
+      <from>05/2014</from>
+      <to>– 07/2014</to>
+    </n_809>
+    <n_810>
+      <id>810</id>
+      <title>Promotion Girl, Nhân viên Bán Hàng Receptionist at Unique Restaurant, MD Star Restaurant, Dang Ngoc Restaurant…</title>
+      <level>1</level>
+      <cmpname>Freelance, Wedding &amp; Event Restaurant</cmpname>
+      <city>HCM</city>
+      <country>Vietnam</country>
+      <from>2013</from>
+      <to>– 2015</to>
+    </n_810>
+  </experience>
+  <education>
+    <n_594>
+      <id>594</id>
+      <school>Doan Ket High School, Dong Nai Province.</school>
+      <degrees>High School</degrees>
+      <fieldofstudy>Student</fieldofstudy>
+      <from>08/2006</from>
+      <to>- 08/2012</to>
+    </n_594>
+    <n_595>
+      <id>595</id>
+      <school>Hoa Sen University, HCM City.</school>
+      <degrees>University</degrees>
+      <fieldofstudy>Student</fieldofstudy>
+      <from>08/2012</from>
+      <to>- 12/2016</to>
+    </n_595>
+  </education>
+  <savedjob>
+    <total>5</total>
+    <strjo>201,105,211,252,298</strjo>
+  </savedjob>
+  <appliedjob>
+    <total>3</total>
+    <strjo>130,150,252</strjo>
+  </appliedjob>
+</information>

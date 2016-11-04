@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>405</id>
+    <ui>4163</ui>
+    <ci>363</ci>
+    <ai>0</ai>
+    <ti>Nhân viên giao hàng</ti>
+    <ta/>
+    <le>2</le>
+    <ty>2</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>3000000</s1>
+    <s2>3500000</s2>
+    <s3>136</s3>
+    <s4>159</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>244</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-10-27</de>
+    <re>0000-00-00</re>
+    <cr>1475845552</cr>
+  </db>
+  <more>
+    <requirement>- Tuổi từ 18 - 25.&#13;
+- Có xe máy.&#13;
+- Rành đường Sài Gòn.&#13;
+- Nhiệt tình, không ngại mưa nắng.&#13;
+- Trung thực, tinh thần trách nhiệm trọng công việc.&#13;
+- Nhanh nhẹn, vui vẻ.</requirement>
+    <description>- Nhận order từ khách hàng.&#13;
+- Nhận hàng và giao đến nơi khách hàng yêu cầu.&#13;
+- Mặt hàng: nước uống và bánh ngọt.</description>
+    <benefit>Trao đổi trực tiếp khi phỏng vấn.</benefit>
+    <keyword>Trung thực,Nhiệt tình,Tinh thần trách nhiệm</keyword>
+  </more>
+  <userapplied>
+    <total>5</total>
+    <strui>5337,5521,6063,3668,7452</strui>
+  </userapplied>
+</information>

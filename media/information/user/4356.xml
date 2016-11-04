@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4356</id>
+      <email>starice_glacial@yahoo.com.vn</email>
+      <username/>
+      <name>Đại Ca Trái Quýt</name>
+      <im>1105954212808044_dai-ca-trai-quyt.jpg</im>
+      <gender>1</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475083091</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Kĩ năng phục vụ </skill>
+      <ui>4356</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>273</strjo>
+  </appliedjob>
+</information>

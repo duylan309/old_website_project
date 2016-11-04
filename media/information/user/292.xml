@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>292</id>
+      <email>thuongrua230598@gmail.com</email>
+      <username/>
+      <name>Trương Hoải Thương</name>
+      <im>292_img-20161002-1.png</im>
+      <gender>2</gender>
+      <dob>1998-5-23</dob>
+      <deactive>1</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1468377421</created>
+      <day>23</day>
+      <month>5</month>
+      <year>1998</year>
+      <phone>01633032323</phone>
+      <address>211A, tổ 5 kp đông ba,  xã bình hòa,  huyện thuận an,  tỉnh bình dương</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>292</ui>
+      <title>Nhân viên phục vụ, thu ngân,  PG,  bán hàng</title>
+      <experience>1</experience>
+      <category>14,17,19,29,31,35</category>
+      <type>2,4,5,6</type>
+      <level>2,3</level>
+      <lang>vi</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <skill>tin học: word, excel, power point.</skill>
+      <keyword>Giao tiếp hiệu quả,Chịu được áp lực công việc,Tự tin,Tinh thần làm việc nhóm,Nhiệt tình,Tinh thần trách nhiệm</keyword>
+      <deactive>1</deactive>
+      <about>Hòa đồng, vui vẻ, thân thiện. Có trách nhiệm trong công việc. chăm chỉ, chịu khó. Có khả năng giao tiếp tốt</about>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>104</total>
+    <strjo>87,82,107,100,106,85,105,92,121,84,99,93,64,124,130,156,111,126,150,127,153,113,69,151,189,119,183,172,155,190,181,202,165,114,154,136,182,188,142,148,158,222,205,201,213,193,215,200,199,162,219,163,184,240,230,247,206,253,267,287,234,269,262,278,293,176,294,275,302,224,301,265,232,256,211,170,318,251,191,207,221,323,274,322,115,272,208,289,132,364,282,273,348,137,125,354,178,360,350,328,326,338,371,369</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>38</total>
+    <strjo>107,106,87,78,138,150,127,69,64,119,99,183,84,158,191,193,130,104,215,200,201,267,323,172,294,222,293,132,126,262,276,154,219,234,348,273,382,188</strjo>
+  </savedjob>
+  <experience>
+    <n_990>
+      <id>990</id>
+      <title>PG</title>
+      <level>1</level>
+      <cmpname>Chocolate graphics</cmpname>
+      <city>TPHCM </city>
+      <country>Việt Nam</country>
+      <from>Tháng 8/ 2016</from>
+      <to>Tháng 9/ 2016</to>
+    </n_990>
+  </experience>
+  <education/>
+</information>

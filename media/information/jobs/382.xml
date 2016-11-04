@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>382</id>
+    <ui>199</ui>
+    <ci>189</ci>
+    <ai>0</ai>
+    <ti>Team leader</ti>
+    <ta/>
+    <le>4</le>
+    <ty>1</ty>
+    <ex>1,2</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>4000000</s1>
+    <s2>4500000</s2>
+    <s3>181</s3>
+    <s4>204</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description>-Hồ sơ gồm: \r\n+Giới thiệu sơ lược về bản thân ( tên, số đt, địa chỉ, ngành học, sở thích, kinh nghiệm, mục tiêu và nguyện vọng nghề nghiệp)\r\n+3 lý do ứng tuyển vào vị trí tại CI5\r\n+Tập tin đính kèm: hình ảnh gần nhất, CMND, Hộ khẩu.</description>
+    <requirement>▪️Vui vẻ, thân thiện, năng động, lễ phép và làm việc nhóm.\r\n▪️Có nhiệt huyết, ham học hỏi, có trách nhiệm và mong muốn phát triển bản thân.\r\n▪️Khả năng giao tiếp và giải quyết vấn đề tốt. \r\n▪️Khả năng quan sát tốt.\r\n▪️Hỗ trợ phục vụ.\r\n▪️Chịu được áp lực công việc.</requirement>
+    <benefit>Trưởng ca: ưu tiên Nam, có ngoại hình, cao từ 1m7 trở lên; làm được cuối tuần và ngày lễ; giao tiếp tiếng anh tốt.\r\n- Ca 1: 07:00-15:00\r\n- Ca 2: 15:00-23:00\r\n- Ca 3: 23:00-07:00\r\nLương: 16.000 - 18.000 / 1 tiếng</benefit>
+    <keyword/>
+    <ad/>
+    <location_id>2</location_id>
+    <lat>10.787240</lat>
+    <lng>10.787240</lng>
+    <de>2016-11-06</de>
+    <re>0000-00-00</re>
+    <cr>1475511343</cr>
+  </db>
+  <more>
+    <description>-Hồ sơ gồm: &#13;
++Giới thiệu sơ lược về bản thân ( tên, số đt, địa chỉ, ngành học, sở thích, kinh nghiệm, mục tiêu và nguyện vọng nghề nghiệp)&#13;
++3 lý do ứng tuyển vào vị trí tại CI5&#13;
++Tập tin đính kèm: hình ảnh gần nhất, CMND, Hộ khẩu.</description>
+    <requirement>▪️Vui vẻ, thân thiện, năng động, lễ phép và làm việc nhóm.&#13;
+▪️Có nhiệt huyết, ham học hỏi, có trách nhiệm và mong muốn phát triển bản thân.&#13;
+▪️Khả năng giao tiếp và giải quyết vấn đề tốt. &#13;
+▪️Khả năng quan sát tốt.&#13;
+▪️Hỗ trợ phục vụ.&#13;
+▪️Chịu được áp lực công việc.</requirement>
+    <benefit>Trưởng ca: ưu tiên Nam, có ngoại hình, cao từ 1m7 trở lên; làm được cuối tuần và ngày lễ; giao tiếp tiếng anh tốt.&#13;
+- Ca 1: 07:00-15:00&#13;
+- Ca 2: 15:00-23:00&#13;
+- Ca 3: 23:00-07:00&#13;
+Lương: 16.000 - 18.000 / 1 tiếng</benefit>
+  </more>
+  <userapplied>
+    <total>5</total>
+    <strui>4944,5197,5460,6691,2159</strui>
+  </userapplied>
+</information>

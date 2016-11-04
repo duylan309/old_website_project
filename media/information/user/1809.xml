@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1809</id>
+      <email>trannguyenthithuykieu1994@gmail.com</email>
+      <username/>
+      <name>Thúy Kiều</name>
+      <im>289498318087540_thuy-kieu.jpg</im>
+      <gender>2</gender>
+      <dob>1994-2-28</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472960910</created>
+      <day>28</day>
+      <month>2</month>
+      <year>1994</year>
+      <phone>01222550905</phone>
+      <address>09 Lê Hoàng Phái ,f17, Quận Gò Vấp </address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.838874</lat>
+      <lng>106.675359</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,29</category>
+      <type>4</type>
+      <level>1,2</level>
+      <lang>vi,en,ch</lang>
+      <skill>phục vụ </skill>
+      <ui>1809</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <keyword>Giao tiếp hiệu quả,Tự tin,Nhiệt tình,Tinh thần trách nhiệm,Tập trung trong công việc,Trung thực</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>202,172</strjo>
+  </appliedjob>
+</information>

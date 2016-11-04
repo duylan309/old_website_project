@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6429</id>
+      <email>hoangyenbr1998@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Hoàng Yến</name>
+      <im>6429_12722239-1579050629087877-2104678807-o.jpg</im>
+      <gender>2</gender>
+      <dob>1998-5-4</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476583213</created>
+      <day>4</day>
+      <month>5</month>
+      <year>1998</year>
+      <phone>0931207886</phone>
+      <address>42, Tôn Thất Thiệp, quận 1, TP HCM</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phụ bếp</title>
+      <experience>7</experience>
+      <category>14</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Đã từng phụ bếp bánh kem và nhan viên phục vụ nhà hàng 6 tháng</skill>
+      <ui>6429</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>451,406,330</strjo>
+  </appliedjob>
+  <education>
+    <n_1062>
+      <id>1062</id>
+      <school/>
+      <degrees/>
+      <fieldofstudy/>
+      <from>1</from>
+      <to>11</to>
+    </n_1062>
+  </education>
+  <savedjob>
+    <total>1</total>
+    <strjo>406</strjo>
+  </savedjob>
+</information>

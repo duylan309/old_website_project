@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7878</id>
+      <email>krazi.ben0809@gmail.com</email>
+      <username/>
+      <name>Huỳnh Mẫn Đạt</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0932988974</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477502742</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục vụ ,pha chế</title>
+      <experience>1</experience>
+      <category>14,15,16,19</category>
+      <type>4,6</type>
+      <level>2</level>
+      <lang>vi,en,ja</lang>
+      <skill/>
+      <ui>7878</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>323,139,276</strjo>
+  </appliedjob>
+  <experience>
+    <n_1537>
+      <id>1537</id>
+      <title>Phục vụ</title>
+      <level>1</level>
+      <cmpname>Nhà hàng Nhật wainosuke</cmpname>
+      <city>Hồ chí mình</city>
+      <country/>
+      <from>5/2016</from>
+      <to>10/2016</to>
+    </n_1537>
+  </experience>
+</information>

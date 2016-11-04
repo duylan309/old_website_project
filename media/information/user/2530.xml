@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2530</id>
+      <email>tvanrt3000@gmail.com</email>
+      <username/>
+      <name>Tom Tran</name>
+      <im>10208688169094792_tom-tran.jpg</im>
+      <gender>1</gender>
+      <dob>1995-11-12</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473634315</created>
+      <day>12</day>
+      <month>11</month>
+      <year>1995</year>
+      <phone>01655115329</phone>
+      <address>124 Hà Huy Tập, Q7, P Tân Phong</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7264629</lat>
+      <lng>106.7095687</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha Chế</title>
+      <experience>1</experience>
+      <category>15,16,26</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Phần mềm văn phòng</skill>
+      <ui>2530</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>sinh viên ngành quản trị nhà hàng khách sạn trường quốc tế Vatel, Đại Học Hoa Sen</about>
+      <keyword>Tập trung trong công việc,Tinh thần trách nhiệm,Trung thực,Giao tiếp hiệu quả,Tinh thần làm việc nhóm,Nhiệt tình</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>152</strjo>
+  </appliedjob>
+</information>

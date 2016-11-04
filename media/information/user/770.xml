@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>770</id>
+      <email>kiara.lion98@gmail.com</email>
+      <username/>
+      <name>Hoàng Hương Nguyễn Thuỷ</name>
+      <im>777056622437353_hoang-huong-nguyen-thuy.jpg</im>
+      <gender>2</gender>
+      <dob>1998-7-28</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471013576</created>
+      <day>28</day>
+      <month>7</month>
+      <year>1998</year>
+      <phone>0989404432</phone>
+      <address>874/56/28 Đoàn Văn Bơ P.16 Q.4</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7647817</lat>
+      <lng>106.7016799</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>food runner</title>
+      <experience>7</experience>
+      <category>14,15</category>
+      <type>2,4,5,6</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>770</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword>Giao tiếp hiệu quả,Tinh thần trách nhiệm,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Tự tin,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>84,100</strjo>
+  </appliedjob>
+</information>

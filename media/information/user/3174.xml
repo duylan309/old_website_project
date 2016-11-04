@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3174</id>
+      <email>dang.duong666@gmail.com</email>
+      <username/>
+      <name>Đặng Nguyễn Bình Dương</name>
+      <im>3174_10842099-780637255342789-4639462864285590511-o.jpg</im>
+      <gender>1</gender>
+      <dob>1994-1-28</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474364703</created>
+      <day>28</day>
+      <month>1</month>
+      <year>1994</year>
+      <phone>01229495580</phone>
+      <address>213/9 Nơ Trang Long, P. 12, Quận Bình Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.814488</lat>
+      <lng>106.697495</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_707>
+      <id>707</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Saigon’s Lookout</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>01/2015</from>
+      <to>06/2015</to>
+    </n_707>
+    <n_708>
+      <id>708</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>Xuân Vũ Media</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>07/2015</from>
+      <to>07/2016</to>
+    </n_708>
+  </experience>
+  <education>
+    <n_523>
+      <id>523</id>
+      <school>THPT Võ Thị Sáu</school>
+      <degrees>Tốt nghiệp cấp 3</degrees>
+      <fieldofstudy>Chuyên Anh Văn</fieldofstudy>
+      <from>2010</from>
+      <to>2012</to>
+    </n_523>
+    <n_524>
+      <id>524</id>
+      <school>Điện ảnh Quốc tế Sài Gòn</school>
+      <degrees>Chứng chỉ loại Khá</degrees>
+      <fieldofstudy>Đạo diễn hình ảnh</fieldofstudy>
+      <from>08/2015</from>
+      <to>08/2016</to>
+    </n_524>
+  </education>
+  <user_cv>
+    <db>
+      <ui>3174</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>1</experience>
+      <category>14,15,16,19</category>
+      <type>1,2,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>- Sinh ra và lớn lên tại Sài Gòn.&#13;
+- Học hỏi và tiếp thu nhanh.&#13;
+- Thẳng thắng và thật thà.&#13;
+- Nhìn nhận công việc theo hướng khách quan.&#13;
+- Khả năng giao tiếp và thuyết phục tốt.&#13;
+- Có tinh thần cầu tiến và kỹ lưỡng trong công việc.</about>
+      <skill>- Giao tiếp tốt (Tiếng Việt + Tiếng Anh).&#13;
+- Khả năng giải quyết công việc hợp lý.&#13;
+</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>240,211</strjo>
+  </appliedjob>
+</information>

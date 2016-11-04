@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4141</id>
+      <email>huynhthanhthao.2612@gmail.com</email>
+      <username/>
+      <name>Huỳnh Thanh Thảo</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01676728196</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474985585</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>pha chế</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>2,6</type>
+      <level>1</level>
+      <lang>en</lang>
+      <skill>chịu làm, chịu được áp lực công việc</skill>
+      <ui>4141</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>193</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6510</id>
+      <email>Ttrangkxz@yahoo.com.vn</email>
+      <username/>
+      <name>Đồng thị tuyết trang</name>
+      <im>1476673281_dong-thi-tuyet-trang.png</im>
+      <gender>0</gender>
+      <phone>0933773395</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476673281</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Bếp chính</title>
+      <experience>5</experience>
+      <category>14,15,18,19,29</category>
+      <type>1,4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Đứng bếp âu á, biết 1 số loại bánh mouse, cake . cookie, </skill>
+      <ui>6510</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>417</strjo>
+  </appliedjob>
+</information>

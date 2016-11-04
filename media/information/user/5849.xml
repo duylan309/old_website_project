@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5849</id>
+      <email>HIEN.TRAN1994@ME.COM</email>
+      <username/>
+      <name>TRẦN THỊ DỊU HIỀN</name>
+      <im>1476207500_tran-thi-diu-hien.png</im>
+      <gender>0</gender>
+      <phone>0909852172</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476207500</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên</title>
+      <experience>7</experience>
+      <category>14,15,27,29,30</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>5849</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>408</strjo>
+  </appliedjob>
+</information>

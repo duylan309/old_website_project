@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4414</id>
+      <email>vannguyen23992@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Hồng Vân</name>
+      <im>4414_14527569-1131110003621792-576511975-n.jpg</im>
+      <gender>2</gender>
+      <phone>+84 938151497</phone>
+      <address>TK  54/8, Võ Văn Kiệt, Quận 1.</address>
+      <city>30</city>
+      <dob>1992-9-23</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475130500</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>23</day>
+      <month>9</month>
+      <year>1992</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.763358</lat>
+      <lng>106.696896</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế</title>
+      <experience>2</experience>
+      <category>14,15,16,26</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Communication with customers in English.&#13;
+Taking to pain to work.&#13;
+Teamwork spirit.&#13;
+</skill>
+      <ui>4414</ui>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <about>Enthusiastic, friendly, hardly, sociable, honest.&#13;
+Good in communication and solving problems.&#13;
+Willingness to learn. </about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>332,210</strjo>
+  </appliedjob>
+  <experience>
+    <n_930>
+      <id>930</id>
+      <title>Bartender</title>
+      <level>1</level>
+      <cmpname>Propaganda Restaurant</cmpname>
+      <city>Hochiminh</city>
+      <country>Vietnam</country>
+      <from>10/2014</from>
+      <to>5/2016</to>
+    </n_930>
+  </experience>
+  <education>
+    <n_739>
+      <id>739</id>
+      <school>Open University</school>
+      <degrees>Bachelor Certification</degrees>
+      <fieldofstudy>Business English</fieldofstudy>
+      <from>2011</from>
+      <to>2016</to>
+    </n_739>
+  </education>
+</information>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>719</id>
+      <email>damianht92@gmail.com</email>
+      <username/>
+      <name>Tất Huân Đại</name>
+      <im>719_12814286-10208830074454613-4138160825365725044-n.jpg</im>
+      <gender>1</gender>
+      <dob>1992-1-6</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470931736</created>
+      <day>6</day>
+      <month>1</month>
+      <year>1992</year>
+      <phone>0938360084</phone>
+      <address>122/27/30/2/10, Tôn Đản, P.10, Q.4</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7603734</lat>
+      <lng>106.7057108</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_98>
+      <id>98</id>
+      <school>Đại học Ngoại ngữ - Tin học thành phố Hồ Chí Minh (HUFLIT)</school>
+      <degrees>Cử nhân (Bachelor)</degrees>
+      <fieldofstudy>Quan hệ công chúng (Public Relation)</fieldofstudy>
+      <from>2010</from>
+      <to>2014</to>
+    </n_98>
+  </education>
+  <experience>
+    <n_147>
+      <id>147</id>
+      <title>Retail Sale Associate</title>
+      <level>1</level>
+      <cmpname>Hard Rock Café Ho Chi Minh City</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2012</from>
+      <to>2013</to>
+    </n_147>
+    <n_148>
+      <id>148</id>
+      <title>Excutive Assistant</title>
+      <level>1</level>
+      <cmpname>Yada wedding decorating</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>2015</to>
+    </n_148>
+    <n_149>
+      <id>149</id>
+      <title>Assistant Director</title>
+      <level>1</level>
+      <cmpname>Villa Royale Antiques &amp; Tea Room</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_149>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>719</ui>
+      <title>Trưởng nhóm</title>
+      <experience>2</experience>
+      <category>14</category>
+      <type>1,6</type>
+      <level>4</level>
+      <lang>en</lang>
+      <s1>8000000</s1>
+      <salary>1</salary>
+      <skill>•	Able to communicate complex information to individuals and groups, make presentations and respond to questions in workplace settings. Skills developed in degree program and during work experience.&#13;
+•	Able to give and take instructions and maintain active listening during times of pressure.&#13;
+•	Comprehensive knowledge of Microsoft applications  including Word, Power Point, Photoshop, Corel draw&#13;
+•	Fluent in English (both oral and written)&#13;
+•	Confident and ambitious for personal goal&#13;
+•	Service, team and detailed-oriented&#13;
+•	Highly motivated and willing to work in a dynamic and competitive environment.&#13;
+•	Punctual, reliable, diligent, honest&#13;
+•	Adaptable and organized&#13;
+</skill>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Tự tin,Nhiệt tình,Tinh thần làm việc nhóm,Tinh thần trách nhiệm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>147</strjo>
+  </appliedjob>
+</information>

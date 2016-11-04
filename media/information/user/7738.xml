@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7738</id>
+      <email>khiemduong0316@gmail.com</email>
+      <username/>
+      <name>Dương Duy Khiêm</name>
+      <im/>
+      <gender>1</gender>
+      <phone>01684684493</phone>
+      <address>443/106D Lê Văn Sỹ,P12,Q3</address>
+      <city>30</city>
+      <dob>1993-3-16</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477415825</created>
+      <dayleft>0</dayleft>
+      <jobleft>0</jobleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1477415825</last_signin>
+      <day>16</day>
+      <month>3</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.787175</lat>
+      <lng>106.674313</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>7738</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>2,3,5</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <about>VUI VẺ, HÒA ĐỒNG, TRUNG THỰC&#13;
+THÍCH NGHE NHẠC ÂU MỸ&#13;
+</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>504,453</strjo>
+  </appliedjob>
+  <savedjob/>
+</information>

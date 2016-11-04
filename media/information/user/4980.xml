@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4980</id>
+      <email>Lekimngan14dds18@gmail.com</email>
+      <username/>
+      <name>Lê Kim Ngân</name>
+      <im>4980_image.jpg</im>
+      <gender>2</gender>
+      <phone>0963880039</phone>
+      <address>136, Nguyễn Tất Thành , quận 4</address>
+      <city>30</city>
+      <dob>1996-10-19</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475633337</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1475633337</last_signin>
+      <day>19</day>
+      <month>10</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.763777</lat>
+      <lng>106.707585</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_829>
+      <id>829</id>
+      <school>Đại học Nguyễn Tất Thành</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Dược</fieldofstudy>
+      <from>2014</from>
+      <to>2019</to>
+    </n_829>
+  </education>
+  <user_cv>
+    <db>
+      <ui>4980</ui>
+      <title>Nhân viên bán hàng, phục vụ bán thời gian</title>
+      <experience>7</experience>
+      <category>14,15,17,31</category>
+      <type>2,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>Khá ít nói nhưng được nhận xét là người thật thà, nhiệt tình, năng động, vui vẻ và rất dễ thích nghi với môi trường xung quanh. Bản thân mình đã làm việc gì thì rất nghiêm túc và chăm chỉ</about>
+      <skill>Kỹ năng giao tiếp </skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>172</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>299</id>
+    <ui>3076</ui>
+    <ci>339</ci>
+    <ai>0</ai>
+    <ti>Bảo vệ, An ninh</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1,2</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>4500000</s1>
+    <s2>5000000</s2>
+    <s3>204</s3>
+    <s4>227</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description>Chào đón khách hàng, quan sát sắp xếp xe khách, bảo vệ an ninh cửa hàng...</description>
+    <requirement>Giao tiếp tốt, biết giải quyết tình huống, nhiệt tình chịu khó..</requirement>
+    <benefit>Phụ cấp cơm, công việc lâu dài</benefit>
+    <keyword/>
+    <ad/>
+    <location_id>186</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-10-19</de>
+    <re>0000-00-00</re>
+    <cr>1474260110</cr>
+  </db>
+  <more>
+    <description>Chào đón khách hàng, quan sát sắp xếp xe khách, bảo vệ an ninh cửa hàng...</description>
+    <requirement>Giao tiếp tốt, biết giải quyết tình huống, nhiệt tình chịu khó..</requirement>
+    <benefit>Phụ cấp cơm, công việc lâu dài</benefit>
+  </more>
+  <userapplied>
+    <total>9</total>
+    <strui>3179,2332,3803,1602,4022,4195,4684,5413,4738</strui>
+  </userapplied>
+</information>

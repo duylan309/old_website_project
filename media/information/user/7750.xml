@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7750</id>
+      <email>hoanguyenq2.spv@gmail.com</email>
+      <username/>
+      <name>NGUYỄN THỊ HOA</name>
+      <im>1477426377_nguyen-thi-hoa.png</im>
+      <gender>2</gender>
+      <phone>0907 037 168</phone>
+      <address>17 đường 15, kp. Gò Công, p.Long Thạnh Mỹ, quận 9</address>
+      <city></city>
+      <dob>1984-4-25</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477426377</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>25</day>
+      <month>4</month>
+      <year>1984</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>tiếp tân , thu ngân hoặc nhân viên văn phòng...</title>
+      <experience>1</experience>
+      <category>18,20,29</category>
+      <type>1</type>
+      <level>2,3,4,5</level>
+      <lang>vi,en</lang>
+      <skill>kỹ năng giao tiếp tốt&#13;
+kỹ năng vi tính văn phòng</skill>
+      <ui>7750</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>131</strjo>
+  </appliedjob>
+  <education>
+    <n_1263>
+      <id>1263</id>
+      <school>đại học Nông Lâm - Tp. HỒ CHÍ MINH</school>
+      <degrees>ĐẠI HỌC </degrees>
+      <fieldofstudy>KẾ TOÁN</fieldofstudy>
+      <from>2008</from>
+      <to>2013</to>
+    </n_1263>
+  </education>
+</information>

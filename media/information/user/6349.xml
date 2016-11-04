@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6349</id>
+      <email>bigcasttle@gmail.com</email>
+      <username/>
+      <name>Bảo Ngọc Trần</name>
+      <im>1652556071702833_bao-ngoc-tran.jpg</im>
+      <gender>2</gender>
+      <dob>19960971211593-6-7</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476516515</created>
+      <day>7</day>
+      <month>6</month>
+      <year>19960971211593</year>
+      <last_signin>1476516515</last_signin>
+      <phone>0971211593</phone>
+      <address>115b đường Phạn Hữu Lầu, huyện Nhà Bè</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7048962</lat>
+      <lng>106.7325943</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6349</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>16000</s1>
+      <salary>1</salary>
+      <about>Năng động, học hỏi nhanh, khả năng làm việc nhóm tốt</about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

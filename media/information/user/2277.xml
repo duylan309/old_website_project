@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2277</id>
+      <email>tuyetnguyen0924280478@gmail.com</email>
+      <username/>
+      <name>Nguyễn Hồng Tuyết</name>
+      <im>1662137960779707_nguyen-hong-tuyet.jpg</im>
+      <gender>2</gender>
+      <dob>1990-11-10</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473349380</created>
+      <day>10</day>
+      <month>11</month>
+      <year>1990</year>
+      <last_signin>1473349380</last_signin>
+      <phone>0934140914</phone>
+      <address>633 Hồng Bàng </address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7533259</lat>
+      <lng>106.6485886</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_511>
+      <id>511</id>
+      <title>Nhân viên</title>
+      <level>1</level>
+      <cmpname>Moo Beef Steak</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_511>
+  </experience>
+  <education>
+    <n_362>
+      <id>362</id>
+      <school>Saigontourist</school>
+      <degrees>Chứng chỉ</degrees>
+      <fieldofstudy>Bếp âu</fieldofstudy>
+      <from>2014</from>
+      <to>2015</to>
+    </n_362>
+  </education>
+  <user_cv>
+    <db>
+      <ui>2277</ui>
+      <title>Phụ bếp</title>
+      <experience>1</experience>
+      <category>14,15,16,19,20,29,31</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about></about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

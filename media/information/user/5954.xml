@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5954</id>
+      <email>ngoclun131995@gmail.com</email>
+      <username/>
+      <name>Nguyễn Ngọc</name>
+      <im>678262275656791_nguyen-ngoc.jpg</im>
+      <gender>2</gender>
+      <dob>1995-8-19</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476283418</created>
+      <day>19</day>
+      <month>8</month>
+      <year>1995</year>
+      <last_signin>1476283418</last_signin>
+      <phone>01886678377</phone>
+      <address>80/428A Quang Trung, F12, Gò Vấp.</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.841697</lat>
+      <lng>106.643624</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>5954</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>2</experience>
+      <category>14</category>
+      <type>1,2,4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Đã tốt nghiệp Cao đẳng chuyên ngành nhà hàng. Có kinh nghiệm làm trong môi trường nhà hàng khách sạn được 1,5 năm. &#13;
+Chịu được áp lực công việc cao.&#13;
+Năng động, siêng năng. &#13;
+</about>
+      <skill>Kỹ năng giao tiếp với khách hàng. &#13;
+Làm việc nhóm. &#13;
+</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <savedjob>
+    <total>1</total>
+    <strjo>348</strjo>
+  </savedjob>
+  <appliedjob>
+    <total>4</total>
+    <strjo>348,427,202,434</strjo>
+  </appliedjob>
+  <education>
+    <n_990>
+      <id>990</id>
+      <school>Cao đẳng Kinh tế Đối ngoại</school>
+      <degrees>Cao đẳng</degrees>
+      <fieldofstudy>Nhà hàng Khách sạn</fieldofstudy>
+      <from>2013</from>
+      <to>2016</to>
+    </n_990>
+  </education>
+  <experience>
+    <n_1215>
+      <id>1215</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Khách sạn InterContinental Asiana Saigon</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_1215>
+  </experience>
+</information>

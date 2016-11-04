@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6212</id>
+      <email>nguyenduyen6597@gmail.com</email>
+      <username/>
+      <name>Nguyễn Trần Mỹ Duyên</name>
+      <im>1476436561_nguyen-tran-my-duyen.png</im>
+      <gender>2</gender>
+      <phone>01646545291</phone>
+      <address>163/6 Tân Mỹ, quận 7, tp. Hồ Chí Minh</address>
+      <city>30</city>
+      <dob>1997-5-6</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476436560</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>6</day>
+      <month>5</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>5,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>giao tiếp tốt, nhanh nhẹn, trung thực</skill>
+      <ui>6212</ui>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <about>Đã từng đi làm thêm, mong được học hỏi thêm.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>371,202</strjo>
+  </appliedjob>
+</information>

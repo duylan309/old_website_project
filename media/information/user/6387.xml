@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6387</id>
+      <email>cell.down@yahoo.com</email>
+      <username/>
+      <name>Ý Nhi Tr</name>
+      <im>1151132388287107_y-nhi-tr.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476535864</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Barista</title>
+      <experience>1</experience>
+      <category>14,15</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>6387</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>312</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6215</id>
+      <email>duongquocyen19@gmail.com</email>
+      <username/>
+      <name>Thòng Cọc Din</name>
+      <im>1476438122_thong-coc-din.png</im>
+      <gender>0</gender>
+      <phone>01693738352</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476438122</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15,17,35</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en,ch</lang>
+      <skill>Giao tiếp, làm việc nhóm....</skill>
+      <ui>6215</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>427</strjo>
+  </appliedjob>
+</information>

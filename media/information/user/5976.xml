@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5976</id>
+      <email>Ruaconvt18@gmail.com</email>
+      <username/>
+      <name>Hồ thanh thanh</name>
+      <im>5976_image.jpg</im>
+      <gender>0</gender>
+      <phone>0935677413</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476290067</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,27,29,31</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>5976</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>435</strjo>
+  </appliedjob>
+  <education>
+    <n_992>
+      <id>992</id>
+      <school/>
+      <degrees>Tốt nghiệp thpt</degrees>
+      <fieldofstudy/>
+      <from>2012</from>
+      <to>2015</to>
+    </n_992>
+  </education>
+  <experience>
+    <n_1220>
+      <id>1220</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>Converse</cmpname>
+      <city>Hcm</city>
+      <country>Vietnam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_1220>
+  </experience>
+</information>

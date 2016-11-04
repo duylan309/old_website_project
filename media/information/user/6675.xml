@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6675</id>
+      <email>ngochuynhduy.1609@gmail.com</email>
+      <username/>
+      <name>Nguyễn Ngọc huỳnh Duy</name>
+      <im>936551636477868_huynh-duy.jpg</im>
+      <gender>2</gender>
+      <dob>1997-9-16</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476776372</created>
+      <day>16</day>
+      <month>9</month>
+      <year>1997</year>
+      <phone>0908319392</phone>
+      <address>331/9b Đường lê hồng phong quận 10</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.762551</lat>
+      <lng>106.675693</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6675</ui>
+      <title>nhân viên phục vụ, pha chế</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>4,6</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>tôi tên Nguyễn Ngọc Huỳnh Duy, hiện tại tôi đã 20 tuổi đang đi học tại  trường đại học Hoa Sen, học ngành quản trị kinh doanh. Tôi đang muốn tìm 1 công việc với mức lương khoảng tầm 2 triệu dến 3 triệu. Tôi mong muốn được học hỏi nhiều hơn và hoàn thiện bản thân. Riêng, tôi tự cảm nhận mình là một người năng động, vui vẻ và hòa đồng.</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>64,222,154</strjo>
+  </appliedjob>
+</information>

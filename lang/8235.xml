@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>8235</id>
+      <email>thuduyenn@hotmail.com</email>
+      <username/>
+      <name>Duyênn Hà</name>
+      <im>414725348915154_duyenn-ha.jpg</im>
+      <gender>2</gender>
+      <dob/>
+      <deactive/>
+      <type>2</type>
+      <status>1</status>
+      <created>1477803541</created>
+      <day/>
+      <month/>
+      <year/>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>15,17,27,35</category>
+      <type>2,4,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>8235</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>158</strjo>
+  </appliedjob>
+</information>

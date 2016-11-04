@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3662</id>
+      <email>nganchung289.ueh@gmail.com</email>
+      <username/>
+      <name>Chung Huỳnh Kim Ngân</name>
+      <im>1474739739_chung-huynh-kim-ngan.png</im>
+      <gender>0</gender>
+      <phone>01642409611</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474739739</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên bán hàng, phục vụ, thu ngân,...</title>
+      <experience>1</experience>
+      <category>14,15,17,18,29,30,35,36</category>
+      <type>2,4,5,6</type>
+      <level>1,3</level>
+      <lang>vi,en</lang>
+      <skill>nói chuyện trước đám động, kỹ năng lãnh đạo nhóm,...</skill>
+      <ui>3662</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>278</strjo>
+  </appliedjob>
+  <experience>
+    <n_816>
+      <id>816</id>
+      <title>sales phone</title>
+      <level>1</level>
+      <cmpname>mobiphone</cmpname>
+      <city/>
+      <country/>
+      <from>10/2014</from>
+      <to>11/2014</to>
+    </n_816>
+    <n_817>
+      <id>817</id>
+      <title>bán vé xem phim</title>
+      <level>1</level>
+      <cmpname>Ngôi nhà Hollywood , phim 5D</cmpname>
+      <city></city>
+      <country></country>
+      <from>7/2015</from>
+      <to>10/2015</to>
+    </n_817>
+  </experience>
+</information>

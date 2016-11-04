@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1714</id>
+      <email>phuonggchi318@gmail.com</email>
+      <username/>
+      <name>Phương Chii</name>
+      <im>1714_image.jpeg</im>
+      <gender>2</gender>
+      <dob>1996-8-31</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472817595</created>
+      <day>31</day>
+      <month>8</month>
+      <year>1996</year>
+      <phone>0936228051</phone>
+      <address>482/10/28/17 nơ trang long phường 13 quận bình thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8203725</lat>
+      <lng>106.7047744</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, bán hàng</title>
+      <experience>1</experience>
+      <category>15,17,27</category>
+      <type>4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+</skill>
+      <ui>1714</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>165,107,140,202,338</strjo>
+  </appliedjob>
+  <experience>
+    <n_373>
+      <id>373</id>
+      <title>Nhân viên</title>
+      <level>1</level>
+      <cmpname>Baskin Robbins</cmpname>
+      <city>Tp HCM</city>
+      <country>Việt Nam</country>
+      <from>1/2016</from>
+      <to>6/2016</to>
+    </n_373>
+  </experience>
+  <education>
+    <n_270>
+      <id>270</id>
+      <school>Đh quốc tế</school>
+      <degrees>Đang học</degrees>
+      <fieldofstudy>Quản trị rủi ro</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_270>
+  </education>
+  <savedjob>
+    <total>1</total>
+    <strjo>162</strjo>
+  </savedjob>
+</information>

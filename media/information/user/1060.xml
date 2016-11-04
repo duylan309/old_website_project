@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1060</id>
+      <email>hanipham19792@gmail.com</email>
+      <username/>
+      <name>Phạm Gia Hạnh Nhi</name>
+      <im>1060_img-1599.JPG</im>
+      <gender>2</gender>
+      <phone>0939011013</phone>
+      <address>207/20/9 Nguyễn Văn Đậu  F11, Q.Bình Thạnh</address>
+      <city>30</city>
+      <dob>1992-7-19</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471664706</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <day>19</day>
+      <month>7</month>
+      <year>1992</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.809715</lat>
+      <lng>106.688611</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_252>
+      <id>252</id>
+      <title>Thực tập sinh</title>
+      <level>1</level>
+      <cmpname>khách sạn Park Hyatt Sài Gòn</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country/>
+      <from>4/2016</from>
+      <to>7/2016</to>
+    </n_252>
+    <n_253>
+      <id>253</id>
+      <title>Cộng tác viên viết bài ẩm thực</title>
+      <level>1</level>
+      <cmpname>báo Afamily, kenh14</cmpname>
+      <city/>
+      <country/>
+      <from>2015</from>
+      <to>2016</to>
+    </n_253>
+    <n_254>
+      <id>254</id>
+      <title>Data Analyst</title>
+      <level>1</level>
+      <cmpname>Boomerang Social Listening Consultant</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>11/2014</from>
+      <to>1/2016</to>
+    </n_254>
+  </experience>
+  <education>
+    <n_165>
+      <id>165</id>
+      <school>Đại Học Văn Lang</school>
+      <degrees>Cử Nhân</degrees>
+      <fieldofstudy>Quan hệ công chúng</fieldofstudy>
+      <from>2010</from>
+      <to>2014</to>
+    </n_165>
+    <n_166>
+      <id>166</id>
+      <school>Hướng nghiệp Á Âu</school>
+      <degrees>Nâng Cao</degrees>
+      <fieldofstudy>Bếp trưởng bếp Âu</fieldofstudy>
+      <from>2016</from>
+      <to>2016</to>
+    </n_166>
+  </education>
+  <user_cv>
+    <db>
+      <ui>1060</ui>
+      <title>Nhân viên bếp</title>
+      <experience>7</experience>
+      <category>14,15,16,19,20,35,36</category>
+      <type>1,2</type>
+      <level>2</level>
+      <lang>vi,en,kr</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <skill>Blog cá nhân: lafunie.com&#13;
+Chụp &amp; chỉnh sửa ảnh&#13;
+Quay, edit &amp; dựng video</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>114,121</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>2</total>
+    <strjo>114,121</strjo>
+  </savedjob>
+</information>

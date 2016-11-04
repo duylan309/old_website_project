@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4132</id>
+      <email>binhvo@songngu.com</email>
+      <username/>
+      <name>Nhà hàng Song Ngư</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0838325017</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1474981427</created>
+      <dayleft>1477573427</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1474981427</last_signin>
+      <jobleft>3</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>2</total>
+    <strji>353,354</strji>
+  </totalJob>
+  <saveuser>
+    <total>1</total>
+    <strui>4150</strui>
+  </saveuser>
+</information>

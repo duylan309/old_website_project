@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2715</id>
+      <email>thanhphuongnguyendang@gmail.com</email>
+      <username/>
+      <name>Nguyễn Đặng Thanh Phương</name>
+      <im>743528875785557_nguyen-dang-thanh-phuong.jpg</im>
+      <gender>2</gender>
+      <dob>1997-8-2</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473781597</created>
+      <day>2</day>
+      <month>8</month>
+      <year>1997</year>
+      <phone>01642302221</phone>
+      <address>44/46D Bùi Văn Ba. P.Taan Thuận Đông Q7</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7505178</lat>
+      <lng>106.7363938</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>2715</ui>
+      <title>Nhân viên pha chế cà phê, phục vụ, nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>14,15,19,29</category>
+      <type>3,4,5,6</type>
+      <level>1,2,3,4,5</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>17</total>
+    <strjo>213,95,63,219,163,265,69,170,293,208,222,284,100,211,266,195,207</strjo>
+  </appliedjob>
+</information>

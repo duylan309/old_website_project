@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7495</id>
+      <email>samchuotnhat@yahoo.com.vn</email>
+      <username/>
+      <name>Jacky Nguyen</name>
+      <im>1000269210119158_jacky-nguyen.jpg</im>
+      <gender>1</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477288229</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>phụ bếp</title>
+      <experience>7</experience>
+      <category>14</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>đầu bếp</skill>
+      <ui>7495</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>487,455,165,406</strjo>
+  </appliedjob>
+</information>

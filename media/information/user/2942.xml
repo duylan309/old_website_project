@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2942</id>
+      <email>phanphuongtuyen2906@gmail.com</email>
+      <username/>
+      <name>PHAN PHƯƠNG TUYỀN</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01679160468</phone>
+      <address>2C PHAN TÔN F ĐAKAO Q1</address>
+      <city>30</city>
+      <dob>1992-6-29</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474092589</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>29</day>
+      <month>6</month>
+      <year>1992</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.789776</lat>
+      <lng>106.696257</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>vị trí ứng tuyển: thu ngân</title>
+      <experience>1</experience>
+      <category>15,17,20,29,35</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>en</lang>
+      <skill/>
+      <ui>2942</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>249,275,107,124,253,156</strjo>
+  </appliedjob>
+  <experience>
+    <n_753>
+      <id>753</id>
+      <title>ASM</title>
+      <level>1</level>
+      <cmpname>family mart</cmpname>
+      <city>tp HCM</city>
+      <country/>
+      <from>6/2016</from>
+      <to>8/2016</to>
+    </n_753>
+  </experience>
+  <education>
+    <n_552>
+      <id>552</id>
+      <school>ĐH TÔN DỨC THẮNG</school>
+      <degrees>chứng chỉ TCCN</degrees>
+      <fieldofstudy>QUẢN LY NHÀ HÀNG KHÁCH SẠN</fieldofstudy>
+      <from>2010</from>
+      <to>2012</to>
+    </n_552>
+  </education>
+</information>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5439</id>
+      <email>T140691trangnguyen@gmail.com</email>
+      <username/>
+      <name>Nguyễn my trang</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0939545647</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1475984728</created>
+      <dayleft>1478576728</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1475984728</last_signin>
+      <jobleft>1</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>4</total>
+    <strji>412,414,426,468</strji>
+  </totalJob>
+  <saveuser>
+    <total>30</total>
+    <strui>1605,5460,5474,5544,5724,5696,5764,5779,5932,5911,4615,6061,6072,6187,6189,6214,4833,6359,4246,4738,6495,5708,6555,6638,6754,5226,2510,6956,6966,7056</strui>
+  </saveuser>
+</information>

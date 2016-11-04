@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7070</id>
+      <email>oanhkieu2208@gmail.com</email>
+      <username/>
+      <name>Bùi Nữ Oanh Kiều</name>
+      <im>1477053119_bui-nu-oanh-kieu.png</im>
+      <gender>0</gender>
+      <phone>0966354272</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477053119</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên bán hàng</title>
+      <experience>7</experience>
+      <category>17</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>đã là cộng tác viên bán son </skill>
+      <ui>7070</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>205</strjo>
+  </appliedjob>
+</information>

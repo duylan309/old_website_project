@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2938</id>
+      <email>antony.phu@icloud.com</email>
+      <username/>
+      <name>Dinh Van Phu</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0931260859</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1474089141</created>
+      <dayleft>1479273141</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1474089141</last_signin>
+      <jobleft>4</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>1</total>
+    <strji>294</strji>
+  </totalJob>
+  <saveuser>
+    <total>41</total>
+    <strui>2943,940,2476,3017,3036,3046,3055,3067,2508,3115,3116,3136,3143,292,2005,3212,3172,3304,2332,1781,1315,2047,2783,3506,3532,3148,3652,3657,3669,2963,2577,412,3819,3756,1602,3886,3830,1402,3967,3973,3908</strui>
+  </saveuser>
+</information>

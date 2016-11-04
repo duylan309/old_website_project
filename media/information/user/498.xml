@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>498</id>
+      <email>truonghoanggiabao1808@gmail.com</email>
+      <username/>
+      <name>Trương Hòang Gia Bảo</name>
+      <im>498_win-20160814-09-43-18-pro.jpg</im>
+      <gender>1</gender>
+      <phone>01203627718</phone>
+      <address>132 đường liên khu 5-6, phường Bình Hưng Hòa, quận Bình Tân</address>
+      <city>30</city>
+      <dob>1995-9-18</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470283224</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>18</day>
+      <month>9</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7901717</lat>
+      <lng>106.5900614</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phụ bếp</title>
+      <experience>7</experience>
+      <category>14</category>
+      <type>1</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill>có kinh nghiệm phục vụ các nhà hàng, pha chế (barista)&#13;
+chịu được áp lực công việc </skill>
+      <ui>498</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>104,112</strjo>
+  </appliedjob>
+</information>

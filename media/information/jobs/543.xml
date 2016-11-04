@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>543</id>
+    <ui>7975</ui>
+    <ci>436</ci>
+    <ai>0</ai>
+    <ti>Nhân Viên Thu Ngân</ti>
+    <ta></ta>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>2</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo>30</lo>
+    <co>vn,for</co>
+    <ca>14,16</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description></description>
+    <requirement></requirement>
+    <workhour></workhour>
+    <benefit></benefit>
+    <keyword></keyword>
+    <ad></ad>
+    <location_id>391</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-12-30</de>
+    <re>0000-00-00</re>
+    <cr>1477710803</cr>
+  </db>
+  <more>
+    <requirement>-Nữ , tuổi từ 22 trở lên&#13;
+-Chăm chỉ , tỉ mỉ , cẩn thận &#13;
+-Khả năng kiểm soát dòng tiền tốt.&#13;
+-Chịu được áp lực công việc&#13;
+-Ưu tiên các bạn tốt nghiệp chuyên ngành kế toán &#13;
+-Ưu tiên đã làm thu ngân trong nhà hàng khách sạn</requirement>
+    <description>- Chuẩn bị công việc vào ca	&#13;
+- Kiểm tra toàn bộ quầy, xem xét sổ giao ca, xem xét máy móc, các loại dụng cụ của thu ngân.&#13;
+- Xem xét định mức tiền lẻ, tự đi đổi cho đủ định mức.&#13;
+- Xem xét số lượng biểu mẫu cần dùng theo định mức để bổ sung kịp thời (giấy order, phiếu xác nhận chiết khấu,..)&#13;
+- Kiểm tra hoá đơn của ca trước.&#13;
+Thực hiện quy trình thanh toán cho khách hàng	&#13;
+- Yêu cầu kiểm tra in đúng hoá đơn của từng bàn chính xác.&#13;
+- Nhận tiền khách hàng từ phục vụ. Yêu cầu : Kiểm đếm thu tiền, và thối tiền rõ ràng, chính xác, cất vào tủ theo từng loại tiền.&#13;
+-	Khi khách hàng thanh toán tiền bằng thẻ (Visa, Master card, thẻ ATM, tín dụng,…), phải kiểm tra số thẻ, chữ ký, cà thẻ chính xác.&#13;
+-	Kiểm tra chính xác thông tin ghi hoá đơn (đối với trường hợp xuất hoá đơn VAT), theo dõi việc xuất hoá đơn và gửi hoá đơn cho khách hàng. Kiểm tra kỹ mã số thuế, tên cty/ cá nhân , địa chỉ, số tiền, .. trước khi gửi yêu cầu xuất hoá đơn lên bộ phận Kế toán. &#13;
+- Ghi các nội dung vướng mắc và sổ giao ban ca sau.&#13;
+- Kiểm tra đếm tiền và nộp cho người nhận theo biểu mẫu của công ty.&#13;
+- In báo cáo ca, các giao dịch thẻ và % giảm giá.&#13;
+- In báo cáo hàng bán hàng vào cuối ngày theo trình tự : Báo cáo cân đối bán hàng, giấy nộp tiền mặt.&#13;
+- Cuối mỗi ca, thu ngân phải sắp xếp chứng từ theo trình tự : toàn bộ bill bán hàng bấm ghi lại, Các Voucher, Vip card khuyến mãi nếu có, phải bấm vào mặt sau của bill được tính khuyến mãi cho bàn đó</description>
+    <workhour>-Hình thức làm việc xoay ca&#13;
+- Thời gian làm 48h/tuần ( 8h/ngày) &#13;
+</workhour>
+    <benefit>- Được phụ cấp cơm, gửi xe, có hoa hồng mỗi tháng.&#13;
+- Phát đồng phục miễn phí.&#13;
+- Tuần được nghỉ 1,5 ngày. (tuần nghỉ 1 ngày, tuần tiếp theo nghỉ 2 ngày..)&#13;
+- Được kí hợp đồng chính thức theo quy định.&#13;
+- BHXH, BHYT theo quy định.&#13;
+- 12 ngày nghỉ phép năm.&#13;
+- Làm việc lễ, tết lương 300%.&#13;
+- Mức lương cao hấp dẫn tùy theo khả năng và kinh nghiệm làm việc . &#13;
+</benefit>
+    <keyword>Giao tiếp hiệu quả,Tập trung trong công việc,Tinh thần làm việc nhóm,Chịu được áp lực công việc,Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Trung thực,Tự tin,Nhiệt tình,Tinh thần trách nhiệm</keyword>
+  </more>
+</information>

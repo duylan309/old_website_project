@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7695</id>
+      <email>soncuahai@gmail.com</email>
+      <username/>
+      <name>Lâm Vĩ Kim Sơn</name>
+      <im>1337153659658800_lam-vi-kim-son.jpg</im>
+      <gender>1</gender>
+      <dob>1991-10-12</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477401618</created>
+      <day>12</day>
+      <month>10</month>
+      <year>1991</year>
+      <last_signin>1477401618</last_signin>
+      <phone>0977851091</phone>
+      <address>19/6/13 hoàng xuân nhị,phú trung,tân phú</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.776647</lat>
+      <lng>106.645443</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>7695</ui>
+      <title>phụ bếp</title>
+      <experience>1</experience>
+      <category>14,16,20,29,36</category>
+      <type>4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4</s1>
+      <salary>1</salary>
+      <about>-ham học hỏi,siêng năng,cần cù&#13;
+-tuy có hơi chậm trong việc làm bếp nhưng sẽ cố gắng khắc phục.</about>
+      <skill>-đã từng làm ở nhà hàng Pizza và món Ý nên có kiến thức cơ bản về món Ý.</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <savedjob>
+    <total>1</total>
+    <strjo>206</strjo>
+  </savedjob>
+  <appliedjob>
+    <total>2</total>
+    <strjo>206,363</strjo>
+  </appliedjob>
+</information>

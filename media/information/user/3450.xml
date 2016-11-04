@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3450</id>
+      <email>vichsie@gmail.com</email>
+      <username/>
+      <name>Nguyễn Minh Thuận</name>
+      <im>3450_14355525-1825082727724144-3487737523205223094-n.jpg</im>
+      <gender>1</gender>
+      <phone>01212032656</phone>
+      <address>Long Hòa, Cần Đước, Long An</address>
+      <city/>
+      <dob>1995-11-23</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474635329</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1474635329</last_signin>
+      <day>23</day>
+      <month>11</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <education>
+    <n_562>
+      <id>562</id>
+      <school>Trường trung cấp Đại Việt</school>
+      <degrees>Trung cấp - loại giỏi</degrees>
+      <fieldofstudy>Nhà hàng khách sạn</fieldofstudy>
+      <from>2013</from>
+      <to>2015</to>
+    </n_562>
+  </education>
+  <user_cv>
+    <db>
+      <ui>3450</ui>
+      <title>Nhân viên đón khách</title>
+      <experience>7</experience>
+      <category>14,20,29</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Tôi là một mẫu người vui vẻ,thân thiện.&#13;
+Điểm mạnh của tôi là có thể là sự tự tin giao tiếp tốt với mọi người.&#13;
+Điểm yếu của tôi là ngoại ngữ, nó làm tôi e dè hơn khi tiếp xúc với người nước ngoài nhưng tôi đang khắc phục điểm yếu qua việc học, tiếp xúc trò chuyện với người nước ngoài nhiều hơn để cải thiện.</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>302,219,301</strjo>
+  </appliedjob>
+</information>

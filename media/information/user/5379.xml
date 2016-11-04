@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5379</id>
+      <email>tranvuhoa@gmail.com</email>
+      <username/>
+      <name>Trần Vũ Hòa</name>
+      <im>1475934534_tran-vu-hoa.png</im>
+      <gender>1</gender>
+      <phone>0936474179</phone>
+      <address>Bình Thuận</address>
+      <city>30</city>
+      <dob>1988-3-26</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475934534</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>26</day>
+      <month>3</month>
+      <year>1988</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7417516</lat>
+      <lng>106.7205154</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>đầu bếp</title>
+      <experience>5</experience>
+      <category>14</category>
+      <type>1</type>
+      <level>2,4</level>
+      <lang>vi</lang>
+      <skill>Ham học hỏi luon cau tiên trong công việc..điều hành quản lý bep chuyên nghiệp...đảm bảo vê sinh ATTP..đào tạo nhân viên bếp...traning món an ...trang tri món an ....tuân thủ theo chỉ đạo của quản lý nhà hàng hoac trưởng bộ phận</skill>
+      <ui>5379</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>137</strjo>
+  </appliedjob>
+</information>

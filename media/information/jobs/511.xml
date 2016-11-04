@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>511</id>
+    <ui>3804</ui>
+    <ci>357</ci>
+    <ai>0</ai>
+    <ti>Nhân Viên Kinh Doanh</ti>
+    <ta></ta>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>17,31,35</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description></description>
+    <requirement></requirement>
+    <workhour></workhour>
+    <benefit></benefit>
+    <keyword></keyword>
+    <ad></ad>
+    <location_id>228</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-25</de>
+    <re>0000-00-00</re>
+    <cr>1477295364</cr>
+  </db>
+  <more>
+    <requirement>- Các kỹ năng mềm cần thiết cho công việc văn phòng&#13;
+- Khả năng giao tiếp tốt, mạnh dạn, năng động&#13;
+- Không ngại khó khăn, thử thách&#13;
+</requirement>
+    <description>- Thu thập dự liệu khách hàng&#13;
+- Check thông tin, chăm sóc khách hàng&#13;
+- Bán hàng </description>
+    <workhour>Giờ hành chính : từ thứ 2 đến thứ 7 từ 8g30 đến 17g30, nghỉ trưa 1 tiếng 30 phút từ 12g đến 13g30. Riêng thứ 7 có thể làm 1 buổi. </workhour>
+    <benefit>Môi trường làm việc luôn mới mẻ, năng động&#13;
+Được hưởng phúc lợi theo chính sách của nhà nước</benefit>
+    <keyword>Nhân Viên Kinh Doanh,Nhân viên Bán hàng,Nhân viên sale,Bán hàng,Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Tập trung trong công việc,Chịu được áp lực công việc,Tự tin</keyword>
+  </more>
+</information>

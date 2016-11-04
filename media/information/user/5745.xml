@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5745</id>
+      <email>nguoidaxa63333@gmail.com</email>
+      <username/>
+      <name>Lê Đình Huy</name>
+      <im>679141678902435_le-dinh-huy.jpg</im>
+      <gender>1</gender>
+      <dob>1995-2-26</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476169942</created>
+      <day>26</day>
+      <month>2</month>
+      <year>1995</year>
+      <phone>01693847357</phone>
+      <address>183 nguyễn hữu cảnh phường 12 quận bình thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7889226</lat>
+      <lng>106.7151357</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1177>
+      <id>1177</id>
+      <title>phụ bếp</title>
+      <level>1</level>
+      <cmpname>Huy Việt Nam</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>tháng 1</from>
+      <to>nay</to>
+    </n_1177>
+  </experience>
+  <education>
+    <n_956>
+      <id>956</id>
+      <school>trường nghề bếp vàng</school>
+      <degrees>sơ cấp</degrees>
+      <fieldofstudy>bếp á</fieldofstudy>
+      <from>tháng 8</from>
+      <to>nay</to>
+    </n_956>
+  </education>
+  <user_cv>
+    <db>
+      <ui>5745</ui>
+      <title>nhân viên phụ bếp</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Hoạt bát. Hòa đồng. Sáng tạo. Thẩm mỹ</about>
+      <skill>Trang trí món ăn</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

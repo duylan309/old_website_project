@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>342</id>
+    <ui>3098</ui>
+    <name>Nhà Hàng Phở An</name>
+    <url>nhahangphoan</url>
+    <im></im>
+    <im_banner></im_banner>
+    <category>14,15</category>
+    <phone></phone>
+    <address>Số 9 Trần Bình, Cầu Giấy</address>
+    <district>0</district>
+    <district_text_vi></district_text_vi>
+    <district_text_en></district_text_en>
+    <city>23</city>
+    <lat>21.033669</lat>
+    <lng>105.778412</lng>
+    <website></website>
+    <about></about>
+    <facebook></facebook>
+    <facebook_cover></facebook_cover>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>0</fb_load_newfeed>
+    <fb_load_photo>0</fb_load_photo>
+    <created>1474277771</created>
+  </db>
+  <more>
+    <about></about>
+    <whyworkus></whyworkus>
+  </more>
+  <companybanner></companybanner>
+</information>

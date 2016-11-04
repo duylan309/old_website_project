@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1816</id>
+      <email>Huynhquy.nvtq@gmail.com</email>
+      <username/>
+      <name>Huỳnh thị quý</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0989238497</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472969726</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Waiter</title>
+      <experience>1</experience>
+      <category>15,35</category>
+      <type>2</type>
+      <level>1</level>
+      <lang>vi,en,ch</lang>
+      <skill>Giao tiếp tốt ,sức khỏe tốt,&#13;
+ năng động, nhiệt tình trong công việc</skill>
+      <ui>1816</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>156</strjo>
+  </appliedjob>
+</information>

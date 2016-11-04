@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5991</id>
+      <email>teen9x.b0ycute_kgv@yahoo.com</email>
+      <username/>
+      <name>M. Trường Trần</name>
+      <im>795327587275591_m-truong-tran.jpg</im>
+      <gender>1</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476321566</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục Vụ</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>5991</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>434</strjo>
+  </appliedjob>
+  <experience>
+    <n_1222>
+      <id>1222</id>
+      <title>Phục Vụ</title>
+      <level>1</level>
+      <cmpname>Nhà Hàng Grand Place</cmpname>
+      <city/>
+      <country/>
+      <from>0</from>
+      <to>1</to>
+    </n_1222>
+  </experience>
+  <education>
+    <n_994>
+      <id>994</id>
+      <school>Cao Đẳng Công Nghệ Thông Tin TP HCM</school>
+      <degrees>Đang học năm nhất</degrees>
+      <fieldofstudy>Công Nghệ Thông Tin</fieldofstudy>
+      <from>2016</from>
+      <to>2019</to>
+    </n_994>
+  </education>
+</information>

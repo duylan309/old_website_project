@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4466</id>
+      <email>hienkt20892@gmail.com.vn</email>
+      <username/>
+      <name>Nguyen Thi Hien</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0933960406</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475207875</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhan vien</title>
+      <experience>7</experience>
+      <category>15,17</category>
+      <type>2,4</type>
+      <level>1,2</level>
+      <lang>vi</lang>
+      <skill>Giao tiep, hoa dong,ngoai hinh de nhin</skill>
+      <ui>4466</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>338</strjo>
+  </appliedjob>
+</information>

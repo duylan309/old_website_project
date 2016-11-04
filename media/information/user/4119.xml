@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4119</id>
+      <email>huynhanhcao97@gmail.com</email>
+      <username/>
+      <name>Cao Thị Huỳnh Anh</name>
+      <im>4119_10330447-1417900145173843-5117575213896963346-n.jpg</im>
+      <gender>2</gender>
+      <dob>1997-6-30</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474974608</created>
+      <day>30</day>
+      <month>6</month>
+      <year>1997</year>
+      <last_signin>1474974608</last_signin>
+      <phone>0868908857</phone>
+      <address></address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_660>
+      <id>660</id>
+      <school>Đại học Ngoại ngữ - Tin học thành phố Hồ Chí Minh</school>
+      <degrees>Năm II</degrees>
+      <fieldofstudy>Kinh doanh quốc tế</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_660>
+  </education>
+  <user_cv>
+    <db>
+      <ui>4119</ui>
+      <title>Nhân viên phục vụ, Nhân viên phụ bếp</title>
+      <experience>1</experience>
+      <category>15,17,27,36</category>
+      <type>2,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about></about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>130,301,172,344,262,349</strjo>
+  </appliedjob>
+</information>

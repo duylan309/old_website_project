@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>8114</id>
+      <email>Tranvogianghi@gmail.com</email>
+      <username/>
+      <name>Trần võ gia nghi</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0933721926</phone>
+      <address>62d/18 nguyên hồng p11 bình thạnh</address>
+      <city/>
+      <dob>1997-9-18</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477718767</created>
+      <dayleft>0</dayleft>
+      <jobleft>0</jobleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1477718767</last_signin>
+      <day>18</day>
+      <month>9</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>8114</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>29,35</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>435,518</strjo>
+  </appliedjob>
+</information>

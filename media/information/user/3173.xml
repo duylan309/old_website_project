@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3173</id>
+      <email>hanhthunguyen11@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Hạnh Thư</name>
+      <im>3173_13567029-1014744695307642-1140954548866997637-n-5-.jpg</im>
+      <gender>2</gender>
+      <phone>01669764919</phone>
+      <address>32/6A Khai Trí,P6,Quận Tân Bình,TPHCM</address>
+      <city>30</city>
+      <dob>1996-4-11</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474364141</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>11</day>
+      <month>4</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>2</experience>
+      <category>14,17,35</category>
+      <type>2,4,5</type>
+      <level>2</level>
+      <lang>vi,en,kr</lang>
+      <skill>Ngoại ngữ  : Tiếng Anh TOEIC 600&#13;
+Làm thời vụ Tết ở An Nam Quán ,đường Tú Xương ,quận 3,TPHCM.&#13;
+Từ 4/2015-2/2016 , làm phục vụ bàn nhà hàng Grand Palace,Quận Tân Bình,TPHCM.&#13;
+Đã là nhân viên tại trung tâm giáo trí tiNiWorld Sài Gòn Center TPHCM&#13;
+Năng động, hòa đồng, chịu được áp lực công việc.&#13;
+Sở thích: thích vẽ,sáng tạo mô hình,thích giao tiếp với khách hàng.&#13;
+Yêu trẻ con, thích làm việc nhóm&#13;
+Sức khỏe: Tốt&#13;
+	&#13;
+</skill>
+      <ui>3173</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Đang theo học trường Đại học Luật TPHCM ; Ngành học:Quản trị kinh doanh&#13;
+Chiều cao :155 cm; can nang: 49kg&#13;
+Sở thích: thích vẽ,sáng tạo mô hình,thích giao tiếp với khách hàng.&#13;
+Yêu trẻ con, thích làm việc nhóm&#13;
+Sức khỏe: Tốt</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>219</strjo>
+  </appliedjob>
+  <experience>
+    <n_706>
+      <id>706</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>nhà hàng Grand Palace,Quận Tân Bình,TPHCM</cmpname>
+      <city>TPHCM</city>
+      <country>Việt Nam</country>
+      <from>4/2015</from>
+      <to>2/2016</to>
+    </n_706>
+  </experience>
+  <education>
+    <n_521>
+      <id>521</id>
+      <school>Đại học Luật TPHCM </school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Quản trị kinh doanh</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_521>
+  </education>
+</information>

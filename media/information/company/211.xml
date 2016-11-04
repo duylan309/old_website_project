@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>211</id>
+    <ui>229</ui>
+    <name>Jaspas Hanoi</name>
+    <url>jaspashnoi</url>
+    <im>_jaspas-hanoi.jpg</im>
+    <im_banner>_jaspas-hanoi-cover.jpg</im_banner>
+    <category>14</category>
+    <phone>04 39348325</phone>
+    <address>multiple</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>23</city>
+    <lat>21.003119</lat>
+    <lng>105.820145</lng>
+    <website>http://alfrescosgroup.com/cms/vi.html</website>
+    <about/>
+    <facebook>https://www.facebook.com/jaspasvietnam/</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>0</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1467879361</created>
+  </db>
+  <more>
+    <about></about>
+    <whyworkus/>
+  </more>
+  <companybanner>_jaspas-hanoi-cover.jpg</companybanner>
+</information>

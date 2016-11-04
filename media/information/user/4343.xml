@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4343</id>
+      <email>yhen0o.shinki@gmail.com</email>
+      <username/>
+      <name>Đỗ Thuỳ Trang</name>
+      <im>1475077848_do-thuy-trang.png</im>
+      <gender>2</gender>
+      <phone>01674330247</phone>
+      <address>Trần Văn Hoàng q.tân bình</address>
+      <city>30</city>
+      <dob>1996-8-3</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475077848</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>3</day>
+      <month>8</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7746221</lat>
+      <lng>106.6524522</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục vụ, tư vấn khách hàng</title>
+      <experience>2</experience>
+      <category>15,17,29,31,35</category>
+      <type>2</type>
+      <level>1,2</level>
+      <lang>en</lang>
+      <skill/>
+      <ui>4343</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>7</total>
+    <strjo>298,92,202,211,279,340,171</strjo>
+  </appliedjob>
+</information>

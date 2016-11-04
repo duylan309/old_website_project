@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7109</id>
+      <email>ngoisaoxinh.bb@gmail.com</email>
+      <username/>
+      <name>Bảo Khuê</name>
+      <im>349589678712593_con-gai-cua-mua.jpg</im>
+      <gender>2</gender>
+      <dob>1996-7-27</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477061668</created>
+      <day>27</day>
+      <month>7</month>
+      <year>1996</year>
+      <last_signin>1477061668</last_signin>
+      <phone>0909536010</phone>
+      <address>78/33A Cống Lỡ, p15, Tân Bình</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8271531</lat>
+      <lng>106.6394698</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1397>
+      <id>1397</id>
+      <title>78/33A Cống Lỡ,p15, Tân Bình</title>
+      <level>1</level>
+      <cmpname>Biznet Cafe&amp;Shop</cmpname>
+      <city>Tp.HCM</city>
+      <country>Việt Nam</country>
+      <from>Tháng 6/2016</from>
+      <to>Tháng 9/2016</to>
+    </n_1397>
+  </experience>
+  <education>
+    <n_1164>
+      <id>1164</id>
+      <school>ĐẠI HỌC VĂN HÓA NGHỆ THUẬT QUÂN ĐỘI</school>
+      <degrees>Đang là sinh viên năm 3</degrees>
+      <fieldofstudy>Báo chí</fieldofstudy>
+      <from>9/2015</from>
+      <to>9/2018</to>
+    </n_1164>
+  </education>
+  <user_cv>
+    <db>
+      <ui>7109</ui>
+      <title>Thu ngân, phục vụ</title>
+      <experience>1</experience>
+      <category>15,29</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Là sinh viên mong muốn tiềm việc làm thêm có khoản thu nhập riêng</about>
+      <skill>Nhanh nhẹn, cẩn thận, chịu khó tiếp thu. Đã từng làm thu ngân, nhân viên bán hàng</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>215,468,402,408,371</strjo>
+  </appliedjob>
+</information>

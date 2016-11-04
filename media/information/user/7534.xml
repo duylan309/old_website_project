@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7534</id>
+      <email>dinhtrong1506@gmail.com</email>
+      <username/>
+      <name>Trọng Nguyễn</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0902417646</phone>
+      <address>4 đường số 9 Bình Hưng Bình Chánh</address>
+      <city>30</city>
+      <dob>1993-6-15</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477300020</created>
+      <dayleft>0</dayleft>
+      <jobleft>0</jobleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1477300020</last_signin>
+      <day>15</day>
+      <month>6</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7368536</lat>
+      <lng>106.6889609</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1493>
+      <id>1493</id>
+      <title>Trợ lý cửa hàng</title>
+      <level>1</level>
+      <cmpname>SHOP&amp;GO</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Việt Nam</country>
+      <from>07/2011</from>
+      <to>08/2012</to>
+    </n_1493>
+  </experience>
+  <education>
+    <n_1242>
+      <id>1242</id>
+      <school>ĐH NGUYỄN TẤT THÀNH</school>
+      <degrees>Trung Cấp</degrees>
+      <fieldofstudy>Du Lịch</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_1242>
+  </education>
+  <user_cv>
+    <db>
+      <ui>7534</ui>
+      <title>Leader</title>
+      <experience>2</experience>
+      <category>14,17,29,31,35</category>
+      <type>1</type>
+      <level>2,3,4</level>
+      <lang>vi</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>273</strjo>
+  </appliedjob>
+</information>

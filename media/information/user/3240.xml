@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3240</id>
+      <email>luannt12408@st.uel.edu.vn</email>
+      <username/>
+      <name>Nguyễn Thành Luân</name>
+      <im>3240_ve0i8655.jpg</im>
+      <gender>1</gender>
+      <phone>0903039493</phone>
+      <address>1186 đường Tỉnh lộ 10 phường Tân Tạo quận Bình Tân</address>
+      <city>30</city>
+      <dob>1994-6-7</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474449519</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>7</day>
+      <month>6</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7553098</lat>
+      <lng>106.5968198</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,16</category>
+      <type>1,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill></skill>
+      <ui>3240</ui>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <about>Học hỏi nhanh chóng kinh nghiệm cũng như kĩ năng cần thiết từ các đồng nghiệp và môi trường chung quanh . tiếp thu ý kiến từ mọi người , chịu được áp lực cao trong công việc.</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>113</strjo>
+  </appliedjob>
+  <education>
+    <n_535>
+      <id>535</id>
+      <school>Đại học Kinh tế Luật</school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy>Kinh doanh quốc tế</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_535>
+  </education>
+  <experience>
+    <n_726>
+      <id>726</id>
+      <title>Nhân viên pha chế</title>
+      <level>1</level>
+      <cmpname>Heritage Republic</cmpname>
+      <city>Hồ chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_726>
+  </experience>
+</information>

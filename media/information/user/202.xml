@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>202</id>
+      <email>lan@thue.today</email>
+      <username/>
+      <name>Lê Duy Lân</name>
+      <im>202_profile.jpg</im>
+      <gender>1</gender>
+      <phone>01267543789</phone>
+      <address/>
+      <city>30</city>
+      <dob>--</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1466250979</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>30</day>
+      <month>9</month>
+      <year>1990</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+      <deactive>0</deactive>
+    </db>
+    <password>
+      <lastupdate>1466252920</lastupdate>
+    </password>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>202</ui>
+      <title>Waiter/ Waitress</title>
+      <category>14,15,18</category>
+      <location>23,30</location>
+      <type>4</type>
+      <level>3</level>
+      <experience/>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <skill/>
+      <deactive>0</deactive>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>64</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>64</strjo>
+  </savedjob>
+</information>

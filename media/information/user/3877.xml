@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3877</id>
+      <email>nguyentrithuan0802@gmail.com</email>
+      <username/>
+      <name>Nguyễn Trí Thuận</name>
+      <im>3877_phu-quoc-31-.JPG</im>
+      <gender>1</gender>
+      <phone>0948722199</phone>
+      <address>38 Lãnh Binh Thăng, Quận 11</address>
+      <city>30</city>
+      <dob>1995-2-8</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474881307</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1474881307</last_signin>
+      <day>8</day>
+      <month>2</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.763178</lat>
+      <lng>106.655632</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_634>
+      <id>634</id>
+      <school>Đại học Công Nghệ Tp.HCM</school>
+      <degrees/>
+      <fieldofstudy>Xây dựng</fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_634>
+  </education>
+  <user_cv>
+    <db>
+      <ui>3877</ui>
+      <title>Nhân viên phục vụ, pha chế</title>
+      <experience>1</experience>
+      <category>14,15,16,17,20,26,27,28,29,31,35</category>
+      <type>2,3,4,5,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Luôn học hỏi mỗi ngày để nâng cao trách nhiệm của bản thân </about>
+      <skill>Sử dụng tốt các phần mềm máy tính ( photoshop, illustrator, lightroom,... )</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <experience>
+    <n_855>
+      <id>855</id>
+      <title>Intern</title>
+      <level>1</level>
+      <cmpname>MaxAds</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>11/2015`</from>
+      <to>12/2015</to>
+    </n_855>
+  </experience>
+  <appliedjob>
+    <total>4</total>
+    <strjo>165,106,298,222</strjo>
+  </appliedjob>
+</information>

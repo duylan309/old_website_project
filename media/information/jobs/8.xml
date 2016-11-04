@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>8</id>
+    <ui>22</ui>
+    <ci>22</ci>
+    <ai>0</ai>
+    <ti>Assistant Chef</ti>
+    <ta/>
+    <le>3</le>
+    <ex>3</ex>
+    <sa>2</sa>
+    <lo>30</lo>
+    <ca>14,16</ca>
+    <so>0</so>
+    <st></st>
+    <de>0000-00-00</de>
+    <re>0000-00-00</re>
+    <cr>1460957509</cr>
+    <sn>0</sn>
+    <ty>1</ty>
+    <s1>1200</s1>
+    <s2>1600</s2>
+    <s3>26400000</s3>
+    <s4>35200000</s4>
+    <la></la>
+  </db>
+  <more>
+    <number>5</number>
+    <requirement>-	Số lượng: 3 người&#13;
+-	Ngôn ngữ lập trình: PHP (bắt buộc), Ruby (biết là một lợi thế).&#13;
+-	Sử dụng thành thạo HTML5, CSS3, jQuery.&#13;
+-	Có thể sử dụng Git.&#13;
+-	Đã làm việc với một MVC framework trước đó (Laravel, CodeIgniter, Symfony, …).&#13;
+- Có kiến thức về AngularJS là một lợi thế.&#13;
+-	Biết Wordpress và phát triển theme, plugin cho Wordpress là một lợi thế.&#13;
+-	Có khả năng tự học cao, sẵn sàng nghiên cứu và học tập các công nghệ mới.&#13;
+-	Biết sử dụng một trong các chương trình: Adobe Illustrator, Adobe Photoshop hoặc Adobe Firework để cắt HTML từ file thiết kế.&#13;
+-	Có tinh thần &amp; trách nhiệm trong công việc, chịu được áp lực.</requirement>
+    <description>***Các bạn chưa có kinh nghiệm nhưng mong muốn học hỏi, nghiên cứu nắm bắt công nghệ mới, thử sức trong môi trường mới, trẻ trung, năng động thì đừng ngại ứng tuyển. Chúng tôi sẽ đưa ra mức lương phù hợp và chế độ training hiệu quả.&#13;
+Để biết thêm thông tin về chúng tôi, truy cập vào: &#13;
+Website: http://mangoads.vn/&#13;
+&#13;
+***CV gửi về địa chỉ email hoặc nộp hồ sơ trực tiếp đến địa chỉ 6B5 Lữ Gia Plaza, 70 Lữ Gia, Phường 15, Quận 11, TP. Hồ Chí Minh</description>
+  </more>
+  <userapplied>
+    <total>1</total>
+    <strui>36</strui>
+  </userapplied>
+</information>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3702</id>
+      <email>crycause.sad2005@yahoo.com.vn</email>
+      <username/>
+      <name>Văn Thắng</name>
+      <im>752053868259627_van-thang.jpg</im>
+      <gender>1</gender>
+      <dob>1991-5-20</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474780004</created>
+      <day>20</day>
+      <month>5</month>
+      <year>1991</year>
+      <phone>0904200591</phone>
+      <address>503, Đường Nguyễn thị thập , P. tân quy , quận 7 </address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.738923</lat>
+      <lng>106.711402</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>đầu bếp</title>
+      <experience>2</experience>
+      <category>14,20,29</category>
+      <type>4</type>
+      <level>2,3,4,5</level>
+      <lang>vi</lang>
+      <skill>Đầu bếp </skill>
+      <ui>3702</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>7</total>
+    <strjo>191,153,143,125,321,182,230</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>6</total>
+    <strjo>153,143,125,321,182,230</strjo>
+  </savedjob>
+</information>

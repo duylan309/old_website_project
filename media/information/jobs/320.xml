@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>320</id>
+    <ui>3340</ui>
+    <ci>350</ci>
+    <ai>0</ai>
+    <ti>Shipper</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1,2,5,6</ty>
+    <ex>7</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>3000000</s1>
+    <s2>4000000</s2>
+    <s3>136</s3>
+    <s4>181</s4>
+    <lo>30</lo>
+    <co>vn,for</co>
+    <ca>15,27</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description>- Giao hàng và nhận tiền từ khách hàng.\r\n- Làm việc theo phân công từ quản lý.\r\n- Giờ giấc linh động, phù hợp việc học của các bạn sinh viên.\r\n- Lương 14k/h, có phụ cấp tiền giao hàng, tiền tips tự giữ.</description>
+    <requirement>- Nam\r\n- Có xe máy, điện thoại riêng.\r\n- Có tinh thần trách nhiệm, khà năng làm việc nhóm.\r\n- Có khả năng giao tiếp, chăm sóc khách hàng cơ bản.\r\n- Có thể làm việc buổi tối.</requirement>
+    <benefit>- Phụ cấp, thưởng doanh thu.\r\n- Nghỉ 1ngày/1tuần.\r\n- Thưởng lễ Tết.</benefit>
+    <keyword>Tinh thần làm việc nhóm,Tập trung trong công việc,Tự tin,Nhiệt tình,Kỹ năng chăm sóc khách hàng,Giao tiếp hiệu quả</keyword>
+    <ad/>
+    <location_id>209</location_id>
+    <lat>10.769299</lat>
+    <lng>10.769299</lng>
+    <de>2016-10-22</de>
+    <re>0000-00-00</re>
+    <cr>1475287999</cr>
+  </db>
+  <more>
+    <requirement>- Nam&#13;
+- Có xe máy, điện thoại riêng.&#13;
+- Có tinh thần trách nhiệm, khà năng làm việc nhóm.&#13;
+- Có khả năng giao tiếp, chăm sóc khách hàng cơ bản.&#13;
+- Có thể làm việc buổi tối.</requirement>
+    <description>- Giao hàng và nhận tiền từ khách hàng.&#13;
+- Làm việc theo phân công từ quản lý.&#13;
+- Giờ giấc linh động, phù hợp việc học của các bạn sinh viên.&#13;
+- Lương 14k/h, có phụ cấp tiền giao hàng, tiền tips tự giữ.</description>
+    <benefit>- Phụ cấp, thưởng doanh thu.&#13;
+- Nghỉ 1ngày/1tuần.&#13;
+- Thưởng lễ Tết.</benefit>
+    <keyword>Tinh thần làm việc nhóm,Tập trung trong công việc,Tự tin,Nhiệt tình,Kỹ năng chăm sóc khách hàng,Giao tiếp hiệu quả</keyword>
+  </more>
+  <userapplied>
+    <total>18</total>
+    <strui>3355,3424,1706,3451,3268,3751,3821,3797,3940,4009,3214,4511,4697,4813,4125,5042,5843,5978</strui>
+  </userapplied>
+</information>

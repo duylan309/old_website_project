@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>161</id>
+    <ui>911</ui>
+    <ci>262</ci>
+    <ai>0</ai>
+    <ti>Waiter/ Waitress</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1,4</ty>
+    <ex>2</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>4500000</s1>
+    <s2>6000000</s2>
+    <s3>204</s3>
+    <s4>272</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description>- Set up bàn ghế, vật dụng ăn trên bàn\r\n- Lấy order từ khách\r\n- Mang thức ăn cho khách\r\n- Dọn dẹp bàn sau khi khách ăn xong\r\n</description>
+    <requirement>- Tiếng Anh giao tiếp giỏi\r\n- Nhanh nhẹn, siêng năng</requirement>
+    <benefit>Lương + cơm + gửi xe + tips</benefit>
+    <keyword/>
+    <ad/>
+    <location_id>83</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-30</de>
+    <re>0000-00-00</re>
+    <cr>1477282390</cr>
+  </db>
+  <more>
+    <requirement>- Tiếng Anh giao tiếp giỏi&#13;
+- Nhanh nhẹn, siêng năng</requirement>
+    <description>- Set up bàn ghế, vật dụng ăn trên bàn&#13;
+- Lấy order từ khách&#13;
+- Mang thức ăn cho khách&#13;
+- Dọn dẹp bàn sau khi khách ăn xong&#13;
+</description>
+    <workhour>- Thời gian làm việc: 14:00 - 22:00, tuần nghỉ 1 ngày</workhour>
+    <benefit>Lương + cơm + gửi xe + tips</benefit>
+    <keyword/>
+  </more>
+  <userapplied>
+    <total>32</total>
+    <strui>991,1025,1310,1383,666,1512,1763,2466,2995,3315,1151,3819,3834,3464,4724,4867,5005,5457,5520,5552,5426,5226,5874,6243,6353,6385,7156,7334,6272,7612,7657,7745</strui>
+  </userapplied>
+</information>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7691</id>
+      <email>baochi8349@gmail.com</email>
+      <username/>
+      <name>Hồ Bảo Chi</name>
+      <im>7691_14322493-1154508137949879-6612325010121218760-n.jpg</im>
+      <gender>2</gender>
+      <phone>0969018349</phone>
+      <address>269 Bình Lợi, P13, Quận Bình Thạnh</address>
+      <city/>
+      <dob>1995-9-12</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477400084</created>
+      <dayleft>0</dayleft>
+      <jobleft>0</jobleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1477400084</last_signin>
+      <day>12</day>
+      <month>9</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1508>
+      <id>1508</id>
+      <title>Nhân viên phuc vu</title>
+      <level>1</level>
+      <cmpname>Fcafe</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>10/2014</from>
+      <to>7/2015</to>
+    </n_1508>
+    <n_1509>
+      <id>1509</id>
+      <title>Nhân viên phuc vu, pha chế, thu ngân</title>
+      <level>1</level>
+      <cmpname>Oishii cafe</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2/2016</from>
+      <to>8/2016</to>
+    </n_1509>
+  </experience>
+  <education>
+    <n_1255>
+      <id>1255</id>
+      <school>Trường Đại học Công Nghệ Tp HCM</school>
+      <degrees>Sinh viên</degrees>
+      <fieldofstudy>Ngoại ngữ</fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_1255>
+  </education>
+  <user_cv>
+    <db>
+      <ui>7691</ui>
+      <title>Nhân viên phục vụ, Pha chế, Thu ngân,...</title>
+      <experience>2</experience>
+      <category>14,15,20,35</category>
+      <type>2,4,5,6</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Tôi hiện tại là sinh viên năm 4 Trường Đại học Công Nghệ Tp HCM. Là một người chăm chỉ, hết mình vì công việc, vui vẻ, sẵn sàng học tập và tiếp thu những điều mới, chịu được áp lực. Với mong muốn tìm được một công việc phù hợp với mình, mong nhà tuyển dụng sẽ quan tâm. Xin cảm ơn!</about>
+      <skill>Kinh nghiệm lãnh đạo tại Câu lạc bộ tình nguyện đang hoạt động&#13;
+Khả năng sử dụng Words, Excel,...&#13;
+Giao tiếp Tiếng Anh cơ bản</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>488</strjo>
+  </appliedjob>
+</information>

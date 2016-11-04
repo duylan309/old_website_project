@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6482</id>
+      <email>lkquyen.2510@gmail.com</email>
+      <username/>
+      <name>Lâm Khải Quyên</name>
+      <im>6482_lam-khai-quyen.JPG</im>
+      <gender>2</gender>
+      <phone>0963300410</phone>
+      <address>818 Võ Văn Kiệt, P.5, Q.5</address>
+      <city>30</city>
+      <dob>1994-10-25</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476630192</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476630192</last_signin>
+      <day>25</day>
+      <month>10</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7551105</lat>
+      <lng>106.6879243</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6482</ui>
+      <title>Bất kì vị trí nào</title>
+      <experience>1</experience>
+      <category>14,15,20,27,28,29,35</category>
+      <type>1,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <about>Tôi tên Lâm Khải Quyên. Hiện tại là sinh viên năm cuối đại học Mở TP.HCM. Tôi thích đọc sách, nghe nhạc, du lịch,... Tôi vẫn đang tìm kiếm một nghề nghiệp phù hợp với bản thân. Tôi tự thấy bản thân mình còn nhiều thiếu sót, tôi mong muốn được trải nghiệm và hoàn thiện bản thân mỗi ngày.</about>
+      <skill>-	Sử dụng thành thạo Microsoft Word, Excel, Power Point…&#13;
+-	Có thể sử dụng tiếng Anh.&#13;
+-	Kỹ năng đàm phán, thương lượng và thuyết phục khách hàng.&#13;
+-	Có tinh thần hợp tác, phối hợp tốt kể cả khi làm việc nhóm .</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>323</strjo>
+  </appliedjob>
+</information>

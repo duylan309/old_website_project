@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>77</id>
+      <email>112phn@gmail.com</email>
+      <username>kafe-workingspace</username>
+      <name>112phn</name>
+      <im>77_kafe-logo.jpg</im>
+      <gender>0</gender>
+      <category>14</category>
+      <phone>0909090909</phone>
+      <address>59 Le Van Huan</address>
+      <city>30</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>1</status>
+      <created>1460523946</created>
+      <is_newletter>0</is_newletter>
+      <size>1</size>
+      <website></website>
+      <facebook>https://www.facebook.com/thekafeSG/?fref=ts</facebook>
+      <fb_load_newfeed>2</fb_load_newfeed>
+      <fb_load_photo>2</fb_load_photo>
+    </db>
+  </userinfo>
+  <userbanner>77_kafe-cover.jpg</userbanner>
+  <totalJob>1</totalJob>
+</information>

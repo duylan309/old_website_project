@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <experience>
+    <n_300>
+      <id>300</id>
+      <title>Digital Developer</title>
+      <level></level>
+      <cmpname>Dinosaur</cmpname>
+      <city>Ho Chi Minh City</city>
+      <country> Vietnam</country>
+      <from>2013</from>
+      <to></to>
+    </n_300>
+    <n_301>
+      <id>301</id>
+      <title>Digital Developer</title>
+      <level></level>
+      <cmpname>NewEnergyWave</cmpname>
+      <city>Ho Chi Minh City</city>
+      <country> Vietnam</country>
+      <from>2012</from>
+      <to>2013</to>
+    </n_301>
+  </experience>
+  <education>
+    <n_213>
+      <id>213</id>
+      <school>THCS An Phú</school>
+      <degrees>High School</degrees>
+      <fieldofstudy></fieldofstudy>
+      <from>2006</from>
+      <to></to>
+    </n_213>
+    <n_214>
+      <id>214</id>
+      <school>kent</school>
+      <degrees>College</degrees>
+      <fieldofstudy>Web Design/Programming</fieldofstudy>
+      <from>2008</from>
+      <to></to>
+    </n_214>
+  </education>
+  <userinfo>
+    <db>
+      <id>1334</id>
+      <email>ryan.le14@gmail.com</email>
+      <username></username>
+      <name>Lê Duy Lân</name>
+      <im>10201591812115270_le-duy-lan.jpg</im>
+      <gender>1</gender>
+      <dob>1990-09-30</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472122921</created>
+      <day>30</day>
+      <month>9</month>
+      <year>1990</year>
+      <last_signin>1472122921</last_signin>
+    </db>
+  </userinfo>
+</information>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6193</id>
+      <email>avu.duongsg@gmail.com</email>
+      <username/>
+      <name>Dương Anh Vũ</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0906985101</phone>
+      <address>233 Nguyễn Trãi, Phường 2, Quận 5</address>
+      <city>30</city>
+      <dob>1993-7-21</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476419896</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476419896</last_signin>
+      <day>21</day>
+      <month>7</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7565673</lat>
+      <lng>106.6770842</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1251>
+      <id>1251</id>
+      <title>Nhân viên Nhân sự</title>
+      <level>1</level>
+      <cmpname>BHD Star Cineplex</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>06/2015</from>
+      <to>11/2016</to>
+    </n_1251>
+    <n_1252>
+      <id>1252</id>
+      <title>Nhân viên dịch vụ khách hàng</title>
+      <level>1</level>
+      <cmpname>BHD Star Cineplex</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>12/2012</from>
+      <to>09/2015</to>
+    </n_1252>
+  </experience>
+  <education>
+    <n_1025>
+      <id>1025</id>
+      <school>Đại học Ngoại ngữ - Tin học TP. Hồ Chí Minh</school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy>Quản trị kinh doanh Quốc tế</fieldofstudy>
+      <from>2011</from>
+      <to>2016</to>
+    </n_1025>
+    <n_1026>
+      <id>1026</id>
+      <school>Viện Nghiên cứu &amp; Phát triển Kinh tế</school>
+      <degrees>Chứng chỉ</degrees>
+      <fieldofstudy>Quản trị Nhân sự Chuyên nghiệp</fieldofstudy>
+      <from>03/2015</from>
+      <to>07/2015</to>
+    </n_1026>
+  </education>
+  <user_cv>
+    <db>
+      <ui>6193</ui>
+      <title>Pha chế, phục vụ, giám sát.</title>
+      <experience>7</experience>
+      <category>14,15,20</category>
+      <type>2,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <about>Là nhân viên chăm chỉ và rất muốn học hỏi các kiến thức, trải nghiệm các công việc để trau dồi và cải thiện bản thân, tôi tìm kiếm các cơ hội để được học hỏi, làm việc tại các ngành nghề liên quan đến dịch vụ. Bản thân có gần 3 năm kinh nghiệm trong ngành dịch vụ và có gần 2 năm trong công việc hành chính- nhân sự.</about>
+      <skill>Giao tiếp khá tốt&#13;
+Nắm bắt tâm lý khách hàng&#13;
+Xử lý tình huống tốt&#13;
+Làm việc theo quy định.</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <savedjob>
+    <total>4</total>
+    <strjo>425,211,276,252</strjo>
+  </savedjob>
+  <appliedjob>
+    <total>3</total>
+    <strjo>425,211,252</strjo>
+  </appliedjob>
+</information>

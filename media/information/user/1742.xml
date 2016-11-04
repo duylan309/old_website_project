@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1742</id>
+      <email>akarawa159@gmail.com</email>
+      <username/>
+      <name>Bui Ha Phuong</name>
+      <im>666087876876639_ha-phuong.jpg</im>
+      <gender>2</gender>
+      <dob>1996-10-20</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472866444</created>
+      <day>20</day>
+      <month>10</month>
+      <year>1996</year>
+      <last_signin>1472866444</last_signin>
+      <phone>01677673688</phone>
+      <address>159/74/18 Tran Van Dang Street, Distric 3</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.785623</lat>
+      <lng>106.6734029</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_277>
+      <id>277</id>
+      <school>University of Economic Ho Chi Minh city</school>
+      <degrees/>
+      <fieldofstudy>Marketing</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_277>
+  </education>
+  <user_cv>
+    <db>
+      <ui>1742</ui>
+      <title>waitress, marketing partner</title>
+      <experience>1</experience>
+      <category>14,15,17,20,27,35,36</category>
+      <type>2</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <skill>I have advantages in communicating, group working and speaking english. I can also do some simple photoshop and make videos.</skill>
+      <keyword>Giao tiếp hiệu quả,Tinh thần trách nhiệm,Chịu được áp lực công việc,Tự tin,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+      <about>I used to be a waitress in three months at a Go club- Coffee shop when i was in my summer time.&#13;
+Traveling and eading books is my hobbies because they help me learn the people, the cultures through every books i read and every places i visited.&#13;
+"The pursuit of happyness" is the film i love the most.</about>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>9</total>
+    <strjo>156,219,162,211,215,64,234,318,278</strjo>
+  </appliedjob>
+  <savedjob/>
+</information>

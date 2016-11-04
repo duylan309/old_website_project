@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1541</id>
+      <email>tramngo1602@gmail.com</email>
+      <username/>
+      <name>Ngô Nguyễn Ngọc Trâm</name>
+      <im>1541_13882315-1575824339389310-4902047271946861461-n.jpg</im>
+      <gender>2</gender>
+      <phone>0937932301</phone>
+      <address>243/90A1 Tôn Thất Thuyết P.3 Q.4</address>
+      <city>30</city>
+      <dob>1997-2-16</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472461021</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>16</day>
+      <month>2</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,17,27,29,35</category>
+      <type>4</type>
+      <level>1,2</level>
+      <lang>vi,en,ja</lang>
+      <skill>&#13;
+&#13;
+</skill>
+      <ui>1541</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>202,172,219</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>3</total>
+    <strjo>202,172,219</strjo>
+  </savedjob>
+  <education>
+    <n_240>
+      <id>240</id>
+      <school>THCS-THPT DUY TÂN</school>
+      <degrees/>
+      <fieldofstudy/>
+      <from>2011</from>
+      <to>2015</to>
+    </n_240>
+  </education>
+</information>

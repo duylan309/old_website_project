@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1554</id>
+      <email>careers@pasteurstreet.com</email>
+      <username/>
+      <name>Cong Ty Co Phan Thuong Mai Bia Thu Cong</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0905345133</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1472525031</created>
+      <dayleft>1477709031</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1472525031</last_signin>
+      <jobleft>3</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>2</total>
+    <strji>210,211</strji>
+  </totalJob>
+  <saveuser>
+    <total>52</total>
+    <strui>1134,1663,1763,355,1803,1817,1828,1881,390,941,1992,1991,1751,1773,1480,2065,350,1958,2157,1546,2199,2219,2238,2257,2260,2432,1742,2471,2106,2532,2546,2159,2588,2746,2715,2995,3026,3067,3075,2866,3148,3177,3174,3204,3213,3215,3133,3221,3239,3315,3353,3422</strui>
+  </saveuser>
+</information>

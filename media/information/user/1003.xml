@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1003</id>
+      <email>richi.tamnguyen@gmail.com</email>
+      <username/>
+      <name>Tam Nguyen</name>
+      <im>801142850022851_tam-nguyen.jpg</im>
+      <gender>2</gender>
+      <dob>1994-2-14</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471574989</created>
+      <day>14</day>
+      <month>2</month>
+      <year>1994</year>
+      <phone>0868 459 149</phone>
+      <address>Kha Vạn Cân, Thủ Đức</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8413637</lat>
+      <lng>106.7438428</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_233>
+      <id>233</id>
+      <title>Content Producer</title>
+      <level>1</level>
+      <cmpname>Mirum Agency</cmpname>
+      <city>HCM</city>
+      <country>VN</country>
+      <from>05.2015</from>
+      <to>10.2015</to>
+    </n_233>
+    <n_234>
+      <id>234</id>
+      <title>Social Media Executive</title>
+      <level>1</level>
+      <cmpname>Yo Media</cmpname>
+      <city>HCM</city>
+      <country>VN</country>
+      <from>12.2015</from>
+      <to>08.2016</to>
+    </n_234>
+    <n_235>
+      <id>235</id>
+      <title>PR Assistant</title>
+      <level>1</level>
+      <cmpname>Dagger Wolf Bareau</cmpname>
+      <city>HCM</city>
+      <country>VN</country>
+      <from>10.2015</from>
+      <to>12.2015</to>
+    </n_235>
+    <n_236>
+      <id>236</id>
+      <title>Freelance Writer</title>
+      <level>1</level>
+      <cmpname>Đẹp Online Magazine</cmpname>
+      <city>HCM</city>
+      <country>VN</country>
+      <from>09.2014</from>
+      <to>02.2015</to>
+    </n_236>
+    <n_975>
+      <id>975</id>
+      <title>Freelance Content Builder</title>
+      <level>1</level>
+      <cmpname>Gatto Bridal</cmpname>
+      <city>HCM</city>
+      <country>Việt Nam</country>
+      <from>09.2014</from>
+      <to>03.2015</to>
+    </n_975>
+    <n_1006>
+      <id>1006</id>
+      <title>Freelance Content Writer</title>
+      <level>1</level>
+      <cmpname>Trà sữa -18 độ, Phano Pharmacy, Trust Circle, Mentos, Chupa Chups</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_1006>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>1003</ui>
+      <title>Marketing, Assistant, Freelance</title>
+      <experience>1</experience>
+      <category>14,16,19,20</category>
+      <type>6</type>
+      <level>2,3</level>
+      <lang>vi,en,kr</lang>
+      <s1>5500000</s1>
+      <salary>1</salary>
+      <skill>Team player, Planning, Social Media, Interpersonal, Marketing, Adobe Photoshop, Premiere, Office Microsoft</skill>
+      <keyword>Kỹ năng chăm sóc khách hàng,Tinh thần trách nhiệm,Tập trung trong công việc,Chịu được áp lực công việc,Tự tin,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+      <about/>
+    </db>
+  </user_cv>
+  <education>
+    <n_762>
+      <id>762</id>
+      <school>HCMC Open University</school>
+      <degrees>Bachelor of Marketing Management</degrees>
+      <fieldofstudy>Marketing Management</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_762>
+    <n_763>
+      <id>763</id>
+      <school>AIM Academy</school>
+      <degrees>Branding and Advertising </degrees>
+      <fieldofstudy>Branding and Advertising Course</fieldofstudy>
+      <from>2015</from>
+      <to>2015</to>
+    </n_763>
+  </education>
+  <appliedjob>
+    <total>1</total>
+    <strjo>285</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>251</strjo>
+  </savedjob>
+</information>

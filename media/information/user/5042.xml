@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5042</id>
+      <email>nta3003@yahoo.com</email>
+      <username/>
+      <name>Nguyễn Thiên Ân</name>
+      <im>530253437160245_cuu-map.jpg</im>
+      <gender>1</gender>
+      <dob>2000-3-30</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475673139</created>
+      <day>30</day>
+      <month>3</month>
+      <year>2000</year>
+      <last_signin>1475673139</last_signin>
+      <phone>0919102765</phone>
+      <address>238/12D Nguyễn Thị Minh Khai P6 Q3</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.766584</lat>
+      <lng>106.682161</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>5042</ui>
+      <title>Phục Vụ, Tạp Vụ</title>
+      <experience>7</experience>
+      <category>14,15</category>
+      <type>4,5,6</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <s1>1000000</s1>
+      <salary>1</salary>
+      <about>- Đang học lớp 11 &#13;
+- Cần việc làm để trang trải học phí và kinh nghiệm làm việc &#13;
+</about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>379,105,193,222,320</strjo>
+  </appliedjob>
+</information>

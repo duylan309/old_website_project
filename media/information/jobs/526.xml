@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>526</id>
+    <ui>1432</ui>
+    <ci>286</ci>
+    <ai>0</ai>
+    <ti>Nhân viên bảo trì</ti>
+    <ta></ta>
+    <le>2</le>
+    <ty>6</ty>
+    <ex>2</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14,15,35</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>en</la>
+    <description></description>
+    <requirement></requirement>
+    <workhour></workhour>
+    <benefit></benefit>
+    <keyword></keyword>
+    <ad></ad>
+    <location_id>383</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-25</de>
+    <re>0000-00-00</re>
+    <cr>1477467249</cr>
+  </db>
+  <more>
+    <requirement></requirement>
+    <description></description>
+    <workhour></workhour>
+    <benefit></benefit>
+    <keyword>Kỹ năng giải quyết tình huống,Tinh thần trách nhiệm,Chịu được áp lực công việc,Trung thực,Nhiệt tình</keyword>
+  </more>
+</information>

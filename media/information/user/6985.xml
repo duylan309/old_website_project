@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6985</id>
+      <email>tuilaminhne96@gmail.com</email>
+      <username/>
+      <name>Nhật Minh</name>
+      <im>1297509056960921_nhat-minh.jpg</im>
+      <gender>1</gender>
+      <dob>1996-12-1</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476980769</created>
+      <day>1</day>
+      <month>12</month>
+      <year>1996</year>
+      <phone>0981773472</phone>
+      <address>27/7H ấp Xuân Thới Đông 1, xã Xuân Thới Đông, huyện Hóc Môn</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8605277</lat>
+      <lng>106.6018314</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6985</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>1</experience>
+      <category>15,16,17,18,19,20,26,30,35,36</category>
+      <type>2,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Tôi muốn giao tiếp với mọi người, và có thêm kinh nghiệm làm việc</about>
+      <skill>Hoà đồng, thân thiện, vui vẻ, hoạt bát</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <education>
+    <n_1150>
+      <id>1150</id>
+      <school>Đại học Mở TPHCM</school>
+      <degrees>THPT</degrees>
+      <fieldofstudy>Xây dựng</fieldofstudy>
+      <from>2015</from>
+      <to>Nay</to>
+    </n_1150>
+  </education>
+  <appliedjob>
+    <total>1</total>
+    <strjo>434</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>434</strjo>
+  </savedjob>
+</information>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>370</id>
+      <email>hoangyn98@gmail.com</email>
+      <username/>
+      <name>Yến Nhi Hoàng</name>
+      <im>1004570976308581_yen-nhi-hoang.jpg</im>
+      <gender>2</gender>
+      <dob>1998-9-18</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1469950312</created>
+      <day>18</day>
+      <month>9</month>
+      <year>1998</year>
+      <phone>0937180998</phone>
+      <address>Số 8 đường 152 Cao Lỗ phường 4 quận 8</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7389846</lat>
+      <lng>106.6767216</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>370</ui>
+      <title>Nhân viên phục vụ, pha chế</title>
+      <experience>7</experience>
+      <category>14,15,27</category>
+      <type>2,3,4,5,6</type>
+      <level>1,2</level>
+      <lang>vi,en,fr</lang>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

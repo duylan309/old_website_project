@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>346</id>
+      <email>quylun_votu@yahoo.com.vn</email>
+      <username/>
+      <name>Hoang Kim Ngan</name>
+      <im>346_fb-img-1457364323210.jpg</im>
+      <gender>2</gender>
+      <dob>1994-8-12</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1469819234</created>
+      <day>12</day>
+      <month>8</month>
+      <year>1994</year>
+      <phone>0969609650</phone>
+      <address>874 đoàn văn bơ , p16 ,q4</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7638752</lat>
+      <lng>106.7033929</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_27>
+      <id>27</id>
+      <school>đại hoc sai gon</school>
+      <degrees/>
+      <fieldofstudy/>
+      <from>2013</from>
+      <to>2017</to>
+    </n_27>
+  </education>
+  <user_cv>
+    <db>
+      <ui>346</ui>
+      <title>thu ngân</title>
+      <experience>7</experience>
+      <category>14,15,16,27,28,29,31,35</category>
+      <type>2,4,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Giao tiếp hiệu quả,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>107</strjo>
+  </appliedjob>
+</information>

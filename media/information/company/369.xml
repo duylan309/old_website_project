@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>369</id>
+    <ui>4435</ui>
+    <name>chopp.vn</name>
+    <url>chopp.kitchen</url>
+    <im>_chopp-vn.png</im>
+    <im_banner>_chopp-vn-cover.jpg</im_banner>
+    <category>35</category>
+    <phone>+84 128 993 90</phone>
+    <address>18/1B Trần Quý Khoách, Tân Định, Quận 1</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.793475</lat>
+    <lng>106.688263</lng>
+    <website>http://chopp.vn</website>
+    <about/>
+    <facebook>https://www.facebook.com/chopp.kitchen/</facebook>
+    <facebook_cover/>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1475148272</created>
+  </db>
+  <more>
+    <about>1-hour grocery shopping &amp; delivery service in Vietnam. Order fresh, safe &amp; high-quality groceries today via Chopp mobile app! </about>
+    <whyworkus/>
+  </more>
+  <companybanner>_chopp-vn-cover.jpg</companybanner>
+  <totalJob>
+    <total>2</total>
+    <strji>367,419</strji>
+  </totalJob>
+</information>

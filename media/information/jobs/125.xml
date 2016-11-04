@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>125</id>
+    <ui>506</ui>
+    <ci>241</ci>
+    <ai>0</ai>
+    <ti>Bếp Chính Á</ti>
+    <ta/>
+    <le>2,4</le>
+    <ty>1</ty>
+    <ex>2</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>60</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-10-03</de>
+    <re>0000-00-00</re>
+    <cr>1470300217</cr>
+  </db>
+  <more>
+    <requirement>- Chuyên về chảo Á&#13;
+- </requirement>
+    <description>- Sắp xếp quản lý order hàng&#13;
+- Trao đổi thêm khi phỏng vấn</description>
+    <benefit/>
+    <keyword>Chịu được áp lực công việc,Trung thực,Tinh thần làm việc nhóm,Tinh thần trách nhiệm</keyword>
+  </more>
+  <userapplied>
+    <total>19</total>
+    <strui>656,790,716,947,1140,1258,1296,1832,1899,1915,1998,2264,3041,3702,3707,292,4833,5119,5881</strui>
+  </userapplied>
+</information>

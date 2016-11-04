@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1206</id>
+      <email>thanhvo.lee@gmail.com</email>
+      <username/>
+      <name>lê Thanh Võ</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01652463530</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471925521</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên Bếp</title>
+      <experience>5</experience>
+      <category>14</category>
+      <type>1,6</type>
+      <level>4</level>
+      <lang>vi</lang>
+      <skill>Với hơn 7 năm kinh nghiệm chuyên bếp Việt &amp;Âu,làm nhiều nhà hàng lớn vs sang trọng,tôi có thể chế biến nhanh và ngon các món ăn mang âm hưởng 3 miền đặc trưng,khẩu vị ngon!&#13;
+ngoài ra có thể hỗ trợ quản lý nhân viên,hàng hóa,thảo luận món,ra menu,tính định lượng....</skill>
+      <ui>1206</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>137</strjo>
+  </appliedjob>
+</information>

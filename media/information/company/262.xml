@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>262</id>
+    <ui>911</ui>
+    <name>B3 Steakhouse &amp; Craft Beer</name>
+    <url>b3steakhouse</url>
+    <im>262_logob3-11.jpg</im>
+    <im_banner/>
+    <category>14</category>
+    <phone/>
+    <address>Lầu 1, 90 Nguyễn Huệ, P.Bến Nghé, Q1</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.775318</lat>
+    <lng>106.702794</lng>
+    <website/>
+    <about/>
+    <facebook>https://www.facebook.com/b3steakhouse</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>0</fb_load_photo>
+    <created>1471421770</created>
+  </db>
+  <more>
+    <about>  </about>
+    <whyworkus/>
+  </more>
+  <companybanner/>
+  <totalJob>
+    <total>3</total>
+    <strji>161,170,404</strji>
+  </totalJob>
+  <pagecmpfacebookcover>262_b3-steakhouse.png</pagecmpfacebookcover>
+</information>

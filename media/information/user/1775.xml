@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1775</id>
+      <email>binhnguyentran849934@gmail.com</email>
+      <username/>
+      <name>Trần Bình Nguyên</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0969411341</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472909425</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phụ bếp</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>1,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Không có </skill>
+      <ui>1775</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>139</strjo>
+  </appliedjob>
+</information>

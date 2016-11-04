@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2235</id>
+      <email>nhukha23@yahoo.com.vn</email>
+      <username/>
+      <name>nguyễn ngọc như kha</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0908933458</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1473316920</created>
+      <dayleft>1478500920</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1473316920</last_signin>
+      <jobleft>4</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>1</total>
+    <strji>262</strji>
+  </totalJob>
+  <saveuser>
+    <total>97</total>
+    <strui>2250,2271,2335,2332,1480,2424,2459,2481,2525,2567,2591,2703,2723,2746,1814,2789,292,2958,3025,3058,3063,3067,3121,3425,3444,3453,3494,3523,3572,3320,2480,3356,3761,3773,3784,3803,3811,3900,2262,4119,4123,4174,4261,4310,4150,4389,4396,4595,4593,4685,4125,4708,4718,4948,5003,1023,4833,5073,5101,425,5136,4900,5289,5311,5325,5351,5356,5015,5426,1605,5471,5497,5615,5656,5782,5847,5853,5869,5885,5892,5452,6148,6216,4206,5344,6437,6061,6456,4875,5708,6542,5785,6593,6502,6623,6647,6551</strui>
+  </saveuser>
+</information>

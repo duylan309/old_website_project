@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>205</id>
+      <email>hatrungit@gmail.com</email>
+      <username/>
+      <name>Ha Trung</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0933711639</phone>
+      <address>167 Q2</address>
+      <city>30</city>
+      <dob>--</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1466411706</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>5</day>
+      <month>11</month>
+      <year>1990</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>14.7068189</lat>
+      <lng>107.6895427</lng>
+      <deactive>0</deactive>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>205</ui>
+      <title>Area Director</title>
+      <category>19</category>
+      <location>30</location>
+      <type>1</type>
+      <level>5</level>
+      <experience>2</experience>
+      <lang>en,vi,ja</lang>
+      <s1>500</s1>
+      <salary>2</salary>
+      <skill>Test</skill>
+      <s2>11000000</s2>
+      <deactive>0</deactive>
+    </db>
+  </user_cv>
+  <experience>
+    <n_1>
+      <id>1</id>
+      <title>test</title>
+      <level>1</level>
+      <cmpname>test</cmpname>
+      <city>test</city>
+      <country>est</country>
+      <from>2016</from>
+      <to>2016</to>
+    </n_1>
+    <n_2>
+      <id>2</id>
+      <title>a</title>
+      <level>1</level>
+      <cmpname>b</cmpname>
+      <city>c</city>
+      <country>d</country>
+      <from>2016</from>
+      <to>2016</to>
+    </n_2>
+  </experience>
+  <education/>
+  <savedjob>
+    <total>3</total>
+    <strjo>27,49,17</strjo>
+  </savedjob>
+  <appliedjob>
+    <total>2</total>
+    <strjo>49,17</strjo>
+  </appliedjob>
+</information>

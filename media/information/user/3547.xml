@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3547</id>
+      <email>hoangphuc2002@email.com.vn</email>
+      <username/>
+      <name>Lê Hoàng Phúc</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0942620969</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474690291</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phuc Vụ</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>4</type>
+      <level>1,2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>3547</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>222</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>222</strjo>
+  </savedjob>
+</information>

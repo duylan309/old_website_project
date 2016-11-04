@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4760</id>
+      <email>we.min.it@gmail.com</email>
+      <username/>
+      <name>B.O.C</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0908114045</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1475482840</created>
+      <dayleft>1480666840</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1475482840</last_signin>
+      <jobleft>2</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>3</total>
+    <strji>378,379,380</strji>
+  </totalJob>
+  <saveuser>
+    <total>20</total>
+    <strui>3332,3884,4900,4898,4967,5042,3509,5074,5136,5153,2809,5356,3022,4340,6319,6214,6061,6021,6778,6718</strui>
+  </saveuser>
+</information>

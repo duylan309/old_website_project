@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7596</id>
+      <email>Cuong.doan1090@gmail.com</email>
+      <username/>
+      <name>Cường Đoàn</name>
+      <im>993121014150853_cuong-doan.jpg</im>
+      <gender>1</gender>
+      <dob>1990-10-17</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477320202</created>
+      <day>17</day>
+      <month>10</month>
+      <year>1990</year>
+      <last_signin>1477320202</last_signin>
+      <phone>0979645259</phone>
+      <address/>
+      <country>vn</country>
+      <city/>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>7596</ui>
+      <title>Nhân viên pha chế</title>
+      <experience>4</experience>
+      <category>14,15,16,19</category>
+      <type>1</type>
+      <level>4</level>
+      <lang>vi,en</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Tốt nghiệp nghành nhà hàng, khách sạn. Có kinh nghiệm làm việc tại các chuỗi cf lớn như trung nguyên, highland ...&#13;
+Tác phong làm việc nghiêm túc, tính cách hòa đồng</about>
+      <skill>Pha chế thức uống có cồn và không cồn.&#13;
+Chế biến các món ăn nhanh.&#13;
+</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>201,488,400,208</strjo>
+  </appliedjob>
+</information>

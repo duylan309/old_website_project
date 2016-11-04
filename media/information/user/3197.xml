@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3197</id>
+      <email>long_style2006@yahoo.com</email>
+      <username/>
+      <name>Vu dinh long</name>
+      <im>1474383754_vu-dinh-long.png</im>
+      <gender>0</gender>
+      <phone>0974373573</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474383754</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Dau bep chinh</title>
+      <experience>2</experience>
+      <category>14</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>3197</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>137</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5585</id>
+      <email>huynhkhai1998@gmail.com</email>
+      <username/>
+      <name>Huỳnh Hùng Khải</name>
+      <im>5585_13082719-582905658542288-4275917925574048426-n.jpg</im>
+      <gender>1</gender>
+      <dob>1998-2-9</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476096816</created>
+      <day>9</day>
+      <month>2</month>
+      <year>1998</year>
+      <last_signin>1476096816</last_signin>
+      <phone>0909162914</phone>
+      <address>320 Hoàng Hoa Thám phường 1 quận Gò VÁP</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.810546</lat>
+      <lng>106.682916</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_923>
+      <id>923</id>
+      <school>Đh Văn Lang</school>
+      <degrees/>
+      <fieldofstudy>Ngôn ngữ Anh </fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_923>
+  </education>
+  <user_cv>
+    <db>
+      <ui>5585</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15</category>
+      <type>2,4,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Là người năng động, yêu thích các công việc đòi hỏi khả năng sáng tạo&#13;
+Thích làm việc trong môi trường năng động, dễ dàng thích ứng với môi trường. &#13;
+Chăm chỉ  và thích kết bạn </about>
+      <skill>Có thể chạy bạn phục vụ hay thu ngân &#13;
+</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>100,222</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>262</strjo>
+  </savedjob>
+</information>

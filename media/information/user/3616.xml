@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3616</id>
+      <email>pin070393@gmail.com</email>
+      <username/>
+      <name>Lê Huỳnh Ngọc Hải</name>
+      <im>1474714977_le-huynh-ngoc-hai.png</im>
+      <gender>1</gender>
+      <phone>0126 437 7686</phone>
+      <address>10 Âu Dương Lân nối dài - Phường 1 - Quận 8</address>
+      <city>30</city>
+      <dob>1993-3-7</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474714976</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>7</day>
+      <month>3</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7454538</lat>
+      <lng>106.6902951</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế , Thu ngân, phục vụ</title>
+      <experience>2</experience>
+      <category>14,15,20,26</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Tốt nghiệp chuyên ngành kế toán&#13;
+Làm việc trong môi trường resort </skill>
+      <ui>3616</ui>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>240,249</strjo>
+  </appliedjob>
+  <experience>
+    <n_802>
+      <id>802</id>
+      <title>Phục vụ</title>
+      <level>1</level>
+      <cmpname>Sushi Hokkaido Sachi Đông Du</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_802>
+  </experience>
+</information>

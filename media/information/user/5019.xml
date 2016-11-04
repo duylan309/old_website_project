@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5019</id>
+      <email>baby_han1997@yahoo.com</email>
+      <username/>
+      <name>Gia Hân</name>
+      <im>858998810918662_gia-han.jpg</im>
+      <gender>2</gender>
+      <dob>1997-6-15</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475657932</created>
+      <day>15</day>
+      <month>6</month>
+      <year>1997</year>
+      <phone>0906566549</phone>
+      <address>174 nguyễn tri phương </address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7595456</lat>
+      <lng>106.6691671</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>phụ bếp</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill></skill>
+      <ui>5019</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>351</strjo>
+  </appliedjob>
+</information>

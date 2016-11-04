@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>976</id>
+      <email>ngocanhhutech2012@gmail.com</email>
+      <username/>
+      <name>Chấm Than</name>
+      <im>1196341400429959_cham-than.jpg</im>
+      <gender>1</gender>
+      <dob>1994-7-16</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471516894</created>
+      <day>16</day>
+      <month>7</month>
+      <year>1994</year>
+      <phone>0907775435</phone>
+      <address>Địa chỉ: 94B Phó Đức Chính F1 ,Bình thạnh TP.HCM</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Tiếp thực,nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Kỹ năng phục vụ ,giao tiếp với khách hàng,</skill>
+      <ui>976</ui>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>120</strjo>
+  </appliedjob>
+  <education>
+    <n_153>
+      <id>153</id>
+      <school>Đại học công nghệ</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Quản trị nhà hàng khách sạn</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_153>
+  </education>
+</information>

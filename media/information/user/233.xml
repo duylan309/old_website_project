@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>233</id>
+      <email>phuoclamthanhhcm@gmail.com</email>
+      <username/>
+      <name>Lâm Thanh Phước</name>
+      <im>488762167987285_thanh-phuoc.jpg</im>
+      <gender>1</gender>
+      <category/>
+      <phone>0977006444</phone>
+      <address>710/35/14 HAU GIANG, ward 12, dictric 6</address>
+      <city>30</city>
+      <dob>1997-12-18</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1467266482</created>
+      <dayleft>0</dayleft>
+      <signupby>FB</signupby>
+      <day>18</day>
+      <month>12</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>233</ui>
+      <title>waiter, shipper</title>
+      <category>14,15,16</category>
+      <location>30</location>
+      <type>1,2</type>
+      <level>1,2,3</level>
+      <experience>1</experience>
+      <lang>vi,en</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <skill>communication, confident , dynamic, teamwork </skill>
+    </db>
+  </user_cv>
+  <savedjob>
+    <total>1</total>
+    <strjo>69</strjo>
+  </savedjob>
+  <appliedjob>
+    <total>1</total>
+    <strjo>69</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5770</id>
+      <email>minh9630619@yahoo.com.vn</email>
+      <username/>
+      <name>HUỲNH VĂN MINH</name>
+      <im>1476178616_huynh-van-minh.png</im>
+      <gender>1</gender>
+      <phone>01204812511</phone>
+      <address>76 / 43 Xóm Đất P.8, Q.11, TP.HCM</address>
+      <city>30</city>
+      <dob>1994-5-18</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476178616</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>18</day>
+      <month>5</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7764745</lat>
+      <lng>106.7008831</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhan vien phuc vu</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>5</type>
+      <level>2</level>
+      <lang>en</lang>
+      <skill>	Có thể thích ứng tốt với môi trường &#13;
+	Có tinh thần trách nhiệm cao đối với công việc được giao&#13;
+	Sẵn sàng học hỏi&#13;
+</skill>
+      <ui>5770</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Họ và tên: Huỳnh Văn Minh                         &#13;
+Ngày sinh: 18 - 5 – 1994&#13;
+Nơi sinh: Thành phố Hồ Chí Minh&#13;
+Giới tính: Nam                                    &#13;
+Nơi cấp: Thành phố Hồ Chí Minh&#13;
+Email: minh9630619@yahoo.com.vn        &#13;
+Điện thoại: 012.048.12511 – 012.638.47085&#13;
+Địa chỉ: 76/43 Xóm Đất P.8, Q.11, TP.Hồ Chí Minh&#13;
+Trình độ văn hóa: Cao đẳng&#13;
+Chuyên ngành: Kế toán doanh nghiệp&#13;
+Trình độ Ngoại ngữ: biết đọc hiểu Tiếng Anh&#13;
+Trình độ Tin học: sử dụng thành thạo tin học văn phòng&#13;
+</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>9</total>
+    <strjo>293,100,219,368,427,409,211,343,275</strjo>
+  </appliedjob>
+  <education>
+    <n_958>
+      <id>958</id>
+      <school>Cao đẳng Kinh tế TP.HCM</school>
+      <degrees>Cao đẳng</degrees>
+      <fieldofstudy>Kế toán</fieldofstudy>
+      <from>2013</from>
+      <to>2016</to>
+    </n_958>
+  </education>
+</information>

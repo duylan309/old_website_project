@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2357</id>
+      <email>lexus500i@gmail.com</email>
+      <username/>
+      <name>Lê Vũ Hoàng Linh</name>
+      <im>2357_14238075-172866779788275-2590673314053117837-n.jpg</im>
+      <gender>1</gender>
+      <phone>01265831802</phone>
+      <address>325 Bạch Đằng, Bình Thjanh, Hồ Chí Minh</address>
+      <city>30</city>
+      <dob>1993-11-3</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473419991</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1473419991</last_signin>
+      <day>3</day>
+      <month>11</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.803165</lat>
+      <lng>106.704967</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_523>
+      <id>523</id>
+      <title>”Phụ Bếp</title>
+      <level>1</level>
+      <cmpname>TNHH Thiên Phúc</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>05/2015</from>
+      <to>06/2016</to>
+    </n_523>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>2357</ui>
+      <title>Phụ bếp</title>
+      <experience>1</experience>
+      <category>14,15,16,17,18,19,20,29,31</category>
+      <type>1</type>
+      <level>1,2,3</level>
+      <lang>vi,en</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Trung thực, siêng năng, hết tâm vì công việc mình chọn.</about>
+      <skill>thớt, Gỏi.</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>153</strjo>
+  </appliedjob>
+</information>

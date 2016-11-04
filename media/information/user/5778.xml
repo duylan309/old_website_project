@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5778</id>
+      <email>ngocthao21011996@gmail.com</email>
+      <username/>
+      <name>Khưu Phạm Ngọc Thảo</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0938210196</phone>
+      <address>314/93 Âu Dương Lân p3 q8</address>
+      <city>30</city>
+      <dob>1996-1-21</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476182619</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476182619</last_signin>
+      <day>21</day>
+      <month>1</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.746396</lat>
+      <lng>106.682911</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>5778</ui>
+      <title>nhân viên bán hang , nhân viên phục vụ , chăm sóc khách hàng</title>
+      <experience>1</experience>
+      <category>14,15,20,29,30,31</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>đã tốt nghiệp phổ thông , tôi lớn lên học và làm việc ở thành phố HCM .&#13;
+hiện tại chưa kết hôn .&#13;
+Đã làm qua các công việc như lễ tân nhà hàng , bán shop,  telesale &#13;
+Mong muốn được thử sức trong việc mới . &#13;
+cám ơn !</about>
+      <skill>giao tiếp tốt , làm việc nhóm năng động , chịu được áp lực của công việc</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>8</total>
+    <strjo>247,364,391,156,324,253,423,408</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>423</strjo>
+  </savedjob>
+</information>

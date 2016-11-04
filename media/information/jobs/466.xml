@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>466</id>
+    <ui>6286</ui>
+    <ci>406</ci>
+    <ai>0</ai>
+    <ti>Barista</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1,2,4,5,6</ty>
+    <ex>1,2</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>3500000</s1>
+    <s2>5000000</s2>
+    <s3>159</s3>
+    <s4>227</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14,15,19,27</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description>- Trao đổi thêm khi phỏng vấn</description>
+    <requirement>- Biết pha chế cà phê espresso bằng máy chuyên nghiệp\r\n- Năng động, trung thực, thân thiện\r\n- Tiếng Anh giao tiếp cơ bản</requirement>
+    <benefit>- Lương 14-18k/h + bao ăn + tiền TIP + thưởng\r\n- Hoặc thương lượng thêm tuỳ theo năng lực</benefit>
+    <keyword/>
+    <ad/>
+    <location_id>329</location_id>
+    <lat>10.803859</lat>
+    <lng>10.803859</lng>
+    <de>2016-11-27</de>
+    <re>0000-00-00</re>
+    <cr>1477615270</cr>
+  </db>
+  <more>
+    <requirement>- Biết pha chế cà phê espresso bằng máy chuyên nghiệp&#13;
+- Năng động, trung thực, thân thiện&#13;
+- Tiếng Anh giao tiếp cơ bản</requirement>
+    <description>- Trao đổi thêm khi phỏng vấn</description>
+    <workhour/>
+    <benefit>- Lương 14-18k/h + bao ăn + tiền TIP + thưởng&#13;
+- Hoặc thương lượng thêm tuỳ theo năng lực</benefit>
+    <keyword/>
+  </more>
+  <userapplied>
+    <total>12</total>
+    <strui>6328,1259,6475,6648,6272,7039,4833,5985,562,942,7646,8108</strui>
+  </userapplied>
+</information>

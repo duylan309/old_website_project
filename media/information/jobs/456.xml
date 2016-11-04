@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>456</id>
+    <ui>5752</ui>
+    <ci>393</ci>
+    <ai>0</ai>
+    <ti>Pha Chế</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>1,2</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>4000000</s1>
+    <s2>4500000</s2>
+    <s3>181</s3>
+    <s4>204</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>303</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-10</de>
+    <re>0000-00-00</re>
+    <cr>1476338998</cr>
+  </db>
+  <more>
+    <requirement>o	Tốt nghiệp lớp pha chế&#13;
+o	Sức khỏe tốt, có đức tính cẩn thận, ngăn nắp, nhanh nhẹn&#13;
+o	Có khả năng giao tiếp, thuyết phục cao&#13;
+o	Ngoại hình dễ nhìn, tác phong chững chạc, tự tin&#13;
+o	Anh Văn giao tiếp.&#13;
+</requirement>
+    <description>-	Giao nhận ca đúng giờ, nắm bắt các thông tin về thực đơn, đặt chỗ… kế hoạch kinh doanh trong ngày&#13;
+-	Tham dự họp đầu ca, tiếp nhận công việc từ tổ trưởng&#13;
+-	Chuẩn bị dụng cụ, nguyên liệu pha chế,... theo đúng yêu cầu&#13;
+-	Tiếp nhận đơn hàng và pha chế, trình bày theo công thức đã được quy định&#13;
+-	Nhập hàng, kiểm tra và báo cáo hàng hóa, nguyên vật liệu trong ca làm việc&#13;
+-	Giới thiệu thực đơn, cách chương trình kinh doanh, marketing của công ty&#13;
+-	Xử lý khiếu nại khách hàng trong phạm vi trách nhiệm. Báo cáo ngay các trường hợp vượt quá thẩm quyền.&#13;
+-	Tuân thủ đúng các quy trình, quy định, nội quy,... công ty&#13;
+-	Am hiểu văn hóa, thương hiệu công ty&#13;
+-	Am hiểu về sản phẩm của công ty, các chương trình kinh doanh.&#13;
+</description>
+    <benefit>- Lương + tip/charge + Thường doanh thu&#13;
+- Chế độ phúc lợi theo luật lao động (BHXH, BHYT)&#13;
+- Du lịch nghỉ dưỡng hằng năm&#13;
+- 1 năm tăng lương 1 lần&#13;
+- Lương tháng 13&#13;
+- Thường tết&#13;
+</benefit>
+    <keyword/>
+  </more>
+  <userapplied>
+    <total>3</total>
+    <strui>4833,7898,8108</strui>
+  </userapplied>
+</information>

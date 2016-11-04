@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>52</id>
+    <ui>137</ui>
+    <ci>137</ci>
+    <ai>0</ai>
+    <ti>Cashier</ti>
+    <ta></ta>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>0</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>4000000</s1>
+    <s2>5000000</s2>
+    <s3>181</s3>
+    <s4>227</s4>
+    <lo>30</lo>
+    <ca>17</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>0</st>
+    <pi>0</pi>
+    <la></la>
+    <de>0000-00-00</de>
+    <re>0000-00-00</re>
+    <cr>1461568438</cr>
+  </db>
+  <more>
+    <number>2</number>
+    <requirement>You must be friendly!</requirement>
+    <description>Stand all day at cashier counter</description>
+  </more>
+</information>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5064</id>
+      <email>hoaihuong.npta@gmail.com</email>
+      <username/>
+      <name>Hồ Thị Hoài Hương</name>
+      <im>1475684877_ho-thi-hoai-huong.png</im>
+      <gender>2</gender>
+      <phone>01698521693</phone>
+      <address>B23/27 Ấp 2, Xã Vĩnh Lộc B, Huyện Bình Chánh</address>
+      <city>30</city>
+      <dob>1993-1-7</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475684877</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>7</day>
+      <month>1</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7938592</lat>
+      <lng>106.5792442</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên</title>
+      <experience>1</experience>
+      <category>15,17,31,35,36</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Quản lý nhóm, sắp xếp và phân chia công việc</skill>
+      <ui>5064</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Sinh ra và lớn lên ở Huyện Đức Trọng, Tỉnh Lâm Đồng&#13;
+Đang sống ở TP.HCM&#13;
+Hiện tại đang là sinh viên năm cuối của trường Đại Học Công Nghiệp TP.HCM</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>269,291,333,282,335</strjo>
+  </appliedjob>
+</information>

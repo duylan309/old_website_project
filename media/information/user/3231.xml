@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3231</id>
+      <email>dar_nesss@yahoo.com</email>
+      <username/>
+      <name>Châu Khắc Huy</name>
+      <im>1189041474488044_chau-khac-huy.jpg</im>
+      <gender>1</gender>
+      <dob>1991-6-11</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474441705</created>
+      <day>11</day>
+      <month>6</month>
+      <year>1991</year>
+      <phone>01264643307</phone>
+      <address>451/2f ben phu lam</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.752731</lat>
+      <lng>106.639894</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_723>
+      <id>723</id>
+      <title>nhan vien</title>
+      <level>1</level>
+      <cmpname>khach san hoang hai long</cmpname>
+      <city>tphcm</city>
+      <country>viet nam</country>
+      <from>2014</from>
+      <to>2016</to>
+    </n_723>
+    <n_724>
+      <id>724</id>
+      <title>nhan vien</title>
+      <level>1</level>
+      <cmpname>karaoke kingdom</cmpname>
+      <city>tphcm</city>
+      <country>viet nam</country>
+      <from>2011</from>
+      <to>2013</to>
+    </n_724>
+  </experience>
+  <education>
+    <n_533>
+      <id>533</id>
+      <school>khoi viet</school>
+      <degrees>trung cap</degrees>
+      <fieldofstudy>nha hang khach san</fieldofstudy>
+      <from>2009</from>
+      <to>2011</to>
+    </n_533>
+  </education>
+  <user_cv>
+    <db>
+      <ui>3231</ui>
+      <title>nhan vien pha che</title>
+      <experience>3</experience>
+      <category>15,16,19,20</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about> em đang cần 1 công việc ổn định và lâu dài.và thấy công ty có chính sinh khá tốt nên em xin vào</about>
+      <skill>có bằng chứng chỉ bartender  </skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>243,201</strjo>
+  </appliedjob>
+</information>

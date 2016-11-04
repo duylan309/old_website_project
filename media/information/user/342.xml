@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>342</id>
+      <email>aoiumi201209@gmail.com</email>
+      <username/>
+      <name>Đoàn Thanh Hải</name>
+      <im>1734023810219677_hai-doan.jpg</im>
+      <gender>1</gender>
+      <dob>1993-7-30</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1469771945</created>
+      <day>30</day>
+      <month>7</month>
+      <year>1993</year>
+      <phone>0968361069</phone>
+      <address>219/8 Lê Lâm, phường Phú Thạnh, quận Tân Phú</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7817329</lat>
+      <lng>106.621155</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>342</ui>
+      <title>Phụ Bếp, Phục Vụ</title>
+      <experience>1</experience>
+      <category>14,15,29,31,35</category>
+      <type>1,2,3,4,5</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Trung thực,Tập trung trong công việc,Tinh thần làm việc nhóm,Nhiệt tình</keyword>
+      <about/>
+    </db>
+  </user_cv>
+  <savedjob/>
+  <appliedjob>
+    <total>5</total>
+    <strjo>191,188,165,182,358</strjo>
+  </appliedjob>
+</information>

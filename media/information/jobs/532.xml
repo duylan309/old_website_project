@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>532</id>
+    <ui>7802</ui>
+    <ci>431</ci>
+    <ai>0</ai>
+    <ti>Nhân viên nhận hàng (Goods Receiving Staff)</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1,4</ty>
+    <ex>1,2</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>3500000</s1>
+    <s2>5000000</s2>
+    <s3>159</s3>
+    <s4>227</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>31</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>9</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description>- Nhận hàng\r\n- Dọn kho (khu vực nhận hàng, khu vực ngoài container)\r\n- Hỗ trợ nhập stock\r\n- Hỗ trợ ký hóa đơn chứng từ nhận hàng\r\n-  Hỗ trợ các bộ phận khác\r\n</description>
+    <requirement>- Tốt nghiệp phổ thông trở lên\r\n- Tuyển nam có sức khỏe tốt, siêng năng, chịu cực tốt, chịu được áp lực công việc\r\n- Có khả năng làm việc theo nhóm và làm việc độc lập\r\n- Có trách nhiệm, trung thực, thân thiện\r\n- Ưu tiên có kinh nghiệm ở vị trí tương đương\r\n</requirement>
+    <workhour/>
+    <benefit>- Theo Luật Lao động hiện hành của nhà nước Việt Nam\r\n- Chế độ BHXH\r\n- Bảo hiểm Tai Nạn\r\n- Khám sức khỏe định kỳ\r\n- Được hưởng lương tháng 13\r\n- Cùng các chế độ khác theo quy định của công ty\r\n</benefit>
+    <keyword></keyword>
+    <ad/>
+    <location_id>385</location_id>
+    <lat>10.825847</lat>
+    <lng>10.825847</lng>
+    <de>1969-12-31</de>
+    <re>0000-00-00</re>
+    <cr>1477589718</cr>
+  </db>
+  <more>
+    <description>- Nhận hàng&#13;
+- Dọn kho (khu vực nhận hàng, khu vực ngoài container)&#13;
+- Hỗ trợ nhập stock&#13;
+- Hỗ trợ ký hóa đơn chứng từ nhận hàng&#13;
+-  Hỗ trợ các bộ phận khác&#13;
+</description>
+    <requirement>- Tốt nghiệp phổ thông trở lên&#13;
+- Tuyển nam có sức khỏe tốt, siêng năng, chịu cực tốt, chịu được áp lực công việc&#13;
+- Có khả năng làm việc theo nhóm và làm việc độc lập&#13;
+- Có trách nhiệm, trung thực, thân thiện&#13;
+- Ưu tiên có kinh nghiệm ở vị trí tương đương&#13;
+</requirement>
+    <benefit>- Theo Luật Lao động hiện hành của nhà nước Việt Nam&#13;
+- Chế độ BHXH&#13;
+- Bảo hiểm Tai Nạn&#13;
+- Khám sức khỏe định kỳ&#13;
+- Được hưởng lương tháng 13&#13;
+- Cùng các chế độ khác theo quy định của công ty&#13;
+</benefit>
+  </more>
+</information>

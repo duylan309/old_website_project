@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7347</id>
+      <email>f.aoshi2015@gmail.com</email>
+      <username/>
+      <name>Quang Nguyễn</name>
+      <im>320983391602209_quang-nguyen.jpg</im>
+      <gender>1</gender>
+      <dob>1998-9-11</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477195602</created>
+      <day>11</day>
+      <month>9</month>
+      <year>1998</year>
+      <last_signin>1477195602</last_signin>
+      <phone>01676432740</phone>
+      <address/>
+      <country>vn</country>
+      <city/>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>7347</ui>
+      <title>Nhân viên bán hàng</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>471,350,278</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1815</id>
+      <email>Truongngocmyhoa@gmail.com</email>
+      <username/>
+      <name>Bùi Trương Ngọc Mỹ Hoa</name>
+      <im>1815_img20160820220546.jpg</im>
+      <gender>0</gender>
+      <phone/>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472968489</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1472968489</last_signin>
+    </db>
+  </userinfo>
+  <experience>
+    <n_401>
+      <id>401</id>
+      <title>Nhân viên phụ vụ</title>
+      <level>1</level>
+      <cmpname>Savoure Bakery</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>Tháng 3/2016</from>
+      <to>Tháng 8/2016</to>
+    </n_401>
+  </experience>
+</information>

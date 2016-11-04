@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3079</id>
+      <email>Dobi95pcy@gmail.com</email>
+      <username/>
+      <name>Bùi thị thanh quý</name>
+      <im>1474253834_bui-thi-thanh-quy.png</im>
+      <gender>2</gender>
+      <phone>01699161483</phone>
+      <address/>
+      <city>30</city>
+      <dob>1995-1-8</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474253834</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>8</day>
+      <month>1</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhan vien</title>
+      <experience>7</experience>
+      <category>14,18,20,28</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Dịch vụ</skill>
+      <ui>3079</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Tốt nghiệp trường trung cấp chuyên nghiệp du lịch và khách sạn  saigontourist </about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>124,267,176,240,158,324</strjo>
+  </appliedjob>
+  <education>
+    <n_508>
+      <id>508</id>
+      <school>Trừơng trung cấp du lịch và khách sạn saigontourist</school>
+      <degrees>Trung cấp</degrees>
+      <fieldofstudy>Quản trị nhà hàng</fieldofstudy>
+      <from>2013</from>
+      <to>2016</to>
+    </n_508>
+  </education>
+  <experience>
+    <n_684>
+      <id>684</id>
+      <title>Nhân viên</title>
+      <level>1</level>
+      <cmpname>Mochido</cmpname>
+      <city>Ho chi minh </city>
+      <country>Viet nam</country>
+      <from>Thang 3/2016</from>
+      <to>Thang10/2016</to>
+    </n_684>
+  </experience>
+  <savedjob>
+    <total>1</total>
+    <strjo>267</strjo>
+  </savedjob>
+</information>

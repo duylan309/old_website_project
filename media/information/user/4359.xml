@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4359</id>
+      <email>swingofangel_leo@yahoo.com</email>
+      <username/>
+      <name>Hyo Vũ</name>
+      <im>4359_beautyplus-20160902174424-fast.jpg</im>
+      <gender>1</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475085585</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+      <last_signin>1475085585</last_signin>
+    </db>
+  </userinfo>
+  <experience>
+    <n_925>
+      <id>925</id>
+      <title>Cl Banquet waiter</title>
+      <level>1</level>
+      <cmpname>Intercontinental Asiana Saigon</cmpname>
+      <city>Hồ Chí Minh </city>
+      <country>Việt Nam</country>
+      <from>4/2014</from>
+      <to>10/2016</to>
+    </n_925>
+  </experience>
+  <education>
+    <n_717>
+      <id>717</id>
+      <school>ĐH Công nghiệp TP HCM</school>
+      <degrees>Cử nhân đại học</degrees>
+      <fieldofstudy>Quản trị Kinh doanh Du lịch </fieldofstudy>
+      <from>10/2011</from>
+      <to>6/2015</to>
+    </n_717>
+  </education>
+</information>

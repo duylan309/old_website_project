@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5679</id>
+      <email>phannguyentramy2705@gmail.com</email>
+      <username/>
+      <name>Phan Nguyễn Trà My</name>
+      <im>951713834972588_tra-myy.jpg</im>
+      <gender>2</gender>
+      <dob>1997-5-27</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476148570</created>
+      <day>27</day>
+      <month>5</month>
+      <year>1997</year>
+      <phone>01684344556</phone>
+      <address>hẻm 84 Trần Văn Quang quận Tân Bình</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.781284</lat>
+      <lng>106.646969</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>5679</ui>
+      <title>Nhan viên Phục vụ và Pha chế</title>
+      <experience>1</experience>
+      <category>14,15</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Em tên là Phan Nguyễn Trà My..Nơi sinh: Đà Lạt&#13;
+Em đang là sinh viên năm nhất ngành Kinh doanh Xuất nhập khẩu tại trường CĐ Kinh tế Đối Ngoại&#13;
+Em là người có tính cách hòa đồng thân thiện có trách nhiệm và nhiệt tình với công việc&#13;
+Lí do em nộp hồ sơ ứng tuyển tại quán vì:&#13;
+-Mong muốn mình có 1 công việc ổn định&#13;
+-Trau dồi kinh nghiệm, kĩ năng phục vụ khách hàng, kĩ năng giao tiếp&#13;
+-Thuận tiện cho việc đi lại và học tập</about>
+      <skill>Em đã từng được học tập kĩ năng phục vụ và pha chế trước đây</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <experience>
+    <n_1165>
+      <id>1165</id>
+      <title>nhân viên phục vụ và pha chế</title>
+      <level>1</level>
+      <cmpname>Quán nướng Hàn Quốc Fungi Chingu</cmpname>
+      <city>Đà Lạt</city>
+      <country/>
+      <from>tháng 2/2015</from>
+      <to>tháng 8/2016</to>
+    </n_1165>
+  </experience>
+  <appliedjob>
+    <total>3</total>
+    <strjo>64,163,165</strjo>
+  </appliedjob>
+</information>

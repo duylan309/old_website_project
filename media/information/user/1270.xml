@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1270</id>
+      <email>monghuyen.chef@gmail.com</email>
+      <username/>
+      <name>Huyền</name>
+      <im>1678945885758576_uc-coca.jpg</im>
+      <gender>2</gender>
+      <dob>1994-10-29</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472028574</created>
+      <day>29</day>
+      <month>10</month>
+      <year>1994</year>
+      <phone>0932112061</phone>
+      <address>Đường nguyễn kiệm Quận phú nhuận</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8061166</lat>
+      <lng>106.6785467</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>1270</ui>
+      <title>Phụ bếp</title>
+      <experience>2</experience>
+      <category>14,18,20</category>
+      <type>1,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3</s1>
+      <salary>1</salary>
+      <skill>Học trường hướng nghiệp á âu, đã từng làm bếp salad, bếp sơ chế, bếp bánh, dẻco, ra món</skill>
+      <keyword>Tinh thần trách nhiệm,Chịu được áp lực công việc,Tập trung trong công việc,Trung thực</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>171</strjo>
+  </appliedjob>
+</information>

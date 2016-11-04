@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6240</id>
+      <email>phamthimongnghi98@gmail.com</email>
+      <username/>
+      <name>Phạm thị mộng nghi</name>
+      <im>1476452741_pham-thi-mong-nghi.png</im>
+      <gender>0</gender>
+      <phone>01685972315</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476452741</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15,31</category>
+      <type>2</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>6240</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>154,296,372</strjo>
+  </appliedjob>
+</information>

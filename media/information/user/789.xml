@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>789</id>
+      <email>Cutenamlun611@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Thanh Nga</name>
+      <im>789_fb-img-1466135352791.jpg</im>
+      <gender>2</gender>
+      <phone>01653054154</phone>
+      <address>520 Nguyễn Văn Công</address>
+      <city>30</city>
+      <dob>1995-11-6</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471074775</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>6</day>
+      <month>11</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8182448</lat>
+      <lng>106.6757943</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,31,35</category>
+      <type>2,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>789</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>150,105,130,100,64</strjo>
+  </appliedjob>
+  <education>
+    <n_119>
+      <id>119</id>
+      <school>ĐH Mở</school>
+      <degrees>ĐH</degrees>
+      <fieldofstudy>Account</fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_119>
+  </education>
+</information>

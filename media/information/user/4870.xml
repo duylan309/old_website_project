@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4870</id>
+      <email>cuoilenlinhdan310@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Linh Đan</name>
+      <im>569849543199376_nguyen-thi-linh-dan.jpg</im>
+      <gender>2</gender>
+      <dob>1998-10-3</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475559652</created>
+      <day>3</day>
+      <month>10</month>
+      <year>1998</year>
+      <phone>01663073355</phone>
+      <address></address>
+      <country>vn</country>
+      <city></city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phụ bếp</title>
+      <experience>7</experience>
+      <category>14,35,36</category>
+      <type>4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill></skill>
+      <ui>4870</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>352</strjo>
+  </appliedjob>
+</information>

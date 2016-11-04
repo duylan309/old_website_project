@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6627</id>
+      <email>thuyhuynh.mytho@gmail.com</email>
+      <username/>
+      <name>Huỳnh Phạm Thanh Thủy</name>
+      <im>1476756717_huynh-pham-thanh-thuy.png</im>
+      <gender>0</gender>
+      <phone>01287898379</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476756717</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phụ bếp bánh</title>
+      <experience>1</experience>
+      <category>14,15,35,36</category>
+      <type>2,3,4,5,6</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill>Có kinh nghiệm phụ bếp bánh và pha chế tại quán cà phê</skill>
+      <ui>6627</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>201</strjo>
+  </appliedjob>
+</information>

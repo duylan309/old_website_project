@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6643</id>
+      <email>thunguyenkangaroo@gmail.com</email>
+      <username/>
+      <name>NGUYEN THI KIM THU</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01238028351</phone>
+      <address>240 ly tu trong street, Ben Thanh ward, District 1</address>
+      <city>30</city>
+      <dob>1990-8-31</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476761585</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>31</day>
+      <month>8</month>
+      <year>1990</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>cashier, waiter, saleperson,...</title>
+      <experience>2</experience>
+      <category>14,15,16,17,19,20,27,28,29,31,35</category>
+      <type>2,4,5,6</type>
+      <level>2,4</level>
+      <lang>vi,en,ja,ch</lang>
+      <skill>soft skills are good ( for example: IT computer, communication, custommer services, time manage, learning ...)&#13;
+have experiences in sales in handmadeshop, supermarket, cashier assistant &amp; waitress in restaurant, working at PSBC now...</skill>
+      <ui>6643</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Friendly ,honest ,practical, precise, perfectionist , disciplinary, , analitical, ...&#13;
+love  nature , watching fims, Discovery channel , sports especially Soccer,  reading, travelling, discovery , experience, and learning languages...&#13;
+hope to work in dynamic environment and to meet up with every one over the world, learn and develop myself... &#13;
+ready for learning new things </about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>268</strjo>
+  </appliedjob>
+  <experience>
+    <n_1329>
+      <id>1329</id>
+      <title>cashier assistant, office assistant</title>
+      <level>1</level>
+      <cmpname>Cong ty TNHH FLORISTA</cmpname>
+      <city>HCM</city>
+      <country>Việt Nam</country>
+      <from>10/2014</from>
+      <to>2015</to>
+    </n_1329>
+    <n_1330>
+      <id>1330</id>
+      <title>bar servicer</title>
+      <level>1</level>
+      <cmpname>Cong ty CP BIA THU CONG</cmpname>
+      <city>HCM</city>
+      <country>Việt Nam</country>
+      <from>11/2015</from>
+      <to>nay</to>
+    </n_1330>
+  </experience>
+  <education>
+    <n_1092>
+      <id>1092</id>
+      <school>Dai Hoc HuTech Tp.HCM</school>
+      <degrees>Kỹ sư</degrees>
+      <fieldofstudy>CNSH/ CNTP</fieldofstudy>
+      <from>2008</from>
+      <to>2014</to>
+    </n_1092>
+    <n_1093>
+      <id>1093</id>
+      <school>Dai Hoc KHXH &amp; NV Tp.HCM</school>
+      <degrees>cử nhân</degrees>
+      <fieldofstudy>NGữ Văn Anh</fieldofstudy>
+      <from>2009</from>
+      <to>2015</to>
+    </n_1093>
+  </education>
+</information>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7379</id>
+      <email>dieuhien19071994@gmail.com</email>
+      <username/>
+      <name>Lưu Diễm Diệu Hiền</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0936601944</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477215768</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên chốt đơn hàng</title>
+      <experience>1</experience>
+      <category>14,17,18,20,31,35</category>
+      <type>4,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>-Có khả năng đam phán&#13;
+- Giao tiếp tốt, thân thiện, hoà đồng&#13;
+- Thành thạo vi tính văn phòng</skill>
+      <ui>7379</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>419</strjo>
+  </appliedjob>
+  <experience>
+    <n_1455>
+      <id>1455</id>
+      <title>Nhân viên tư vấn và chốt đơn hàng</title>
+      <level>1</level>
+      <cmpname>Hipidi</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>5-2016</from>
+      <to>10-2016</to>
+    </n_1455>
+    <n_1456>
+      <id>1456</id>
+      <title>PG- bán hàng</title>
+      <level>1</level>
+      <cmpname>Budweiser</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>7-2014</from>
+      <to>12-2014</to>
+    </n_1456>
+  </experience>
+  <education>
+    <n_1201>
+      <id>1201</id>
+      <school>Đại học văn hoá TPHCM</school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy>Du lịch</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_1201>
+  </education>
+  <savedjob>
+    <total>1</total>
+    <strjo>419</strjo>
+  </savedjob>
+</information>

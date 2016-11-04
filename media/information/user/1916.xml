@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1916</id>
+      <email>Hintran456@gmail.com</email>
+      <username/>
+      <name>Thái văn Nhựt</name>
+      <im>1473064679_thai-van-nhut.jpg</im>
+      <gender>0</gender>
+      <phone>01258442319</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473064679</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phụ bếp</title>
+      <experience>7</experience>
+      <category>14,18,19,20</category>
+      <type>4,5,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>1916</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>177</strjo>
+  </appliedjob>
+</information>

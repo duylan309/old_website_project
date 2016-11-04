@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7365</id>
+      <email>forever1411@gmail.com</email>
+      <username/>
+      <name>NGUYỄN ĐÌNH HUY</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0987568903</phone>
+      <address>40/18 Trần Đình Xu, Phường Cô Giang, Quận 1</address>
+      <city>30</city>
+      <dob>1990-10-5</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477207476</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>5</day>
+      <month>10</month>
+      <year>1990</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.759593</lat>
+      <lng>106.692542</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Quản lý nhà hàng</title>
+      <experience>3</experience>
+      <category>14,15,20,31</category>
+      <type>1</type>
+      <level>5</level>
+      <lang>vi,en</lang>
+      <skill>- Kỹ năng quản lý&#13;
+- Kỹ năng sắp xếp thời gian công việc&#13;
+- Kỹ năng tuyển dụng, đào tạo&#13;
+- Kỹ năng giao tiếp&#13;
+- Kỹ năng làm việc nhóm&#13;
+- Kỹ năng xử lý tình huống</skill>
+      <ui>7365</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>462,229</strjo>
+  </appliedjob>
+  <experience>
+    <n_1447>
+      <id>1447</id>
+      <title>F&amp;B Manager</title>
+      <level>1</level>
+      <cmpname>Work Saigon</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Vietnam</country>
+      <from>06/2015</from>
+      <to>11/2016</to>
+    </n_1447>
+  </experience>
+  <education>
+    <n_1196>
+      <id>1196</id>
+      <school>Học viện Hàng Không Việt Nam</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Quản trị kinh doanh</fieldofstudy>
+      <from>2008</from>
+      <to>2012</to>
+    </n_1196>
+  </education>
+</information>

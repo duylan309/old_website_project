@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6357</id>
+      <email>hr.ofood@gmail.com</email>
+      <username/>
+      <name>OFOOD</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0906998004</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1476521654</created>
+      <dayleft>1479113654</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1476521654</last_signin>
+      <jobleft>2</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>5</total>
+    <strji>496,474,495,484,473</strji>
+  </totalJob>
+</information>

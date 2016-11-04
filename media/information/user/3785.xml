@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3785</id>
+      <email>anhpham233@live.com</email>
+      <username/>
+      <name>PHẠM NGỌC TRÚC ANH</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0906989233</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474855218</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Store Manager</title>
+      <experience>4</experience>
+      <category>29,35</category>
+      <type>1</type>
+      <level>5</level>
+      <lang>vi,en,fr</lang>
+      <skill/>
+      <ui>3785</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>166</strjo>
+  </appliedjob>
+  <education>
+    <n_624>
+      <id>624</id>
+      <school>Hutech</school>
+      <degrees>Cao Đẳng</degrees>
+      <fieldofstudy>Marketing Commercial</fieldofstudy>
+      <from>2011</from>
+      <to>2015</to>
+    </n_624>
+  </education>
+</information>

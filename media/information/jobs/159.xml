@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>159</id>
+    <ui>865</ui>
+    <ci>261</ci>
+    <ai>0</ai>
+    <ti>Nhân viên phục vụ</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1,2,4,5,6</ty>
+    <ex>7</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>13000</s1>
+    <s2>15000</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>9</st>
+    <pi>0</pi>
+    <la>vi,en,kr</la>
+    <description/>
+    <requirement>NHÀ HÀNG GÀ HÀN QUỐC BOOM DAK \r\n* ĐỊA CHỈ: Nhà hàng Boom Dak 16 Lê Quý Đôn P6 Q3 TPHCM\r\n*TUYỂN :   phục vụ nam nữ ( Ngoại hình dễ nhìn)\r\n* THỜI GIAN:\r\n- Partime: sáng từ 10h-3h và chiều từ 16h30 -22h \r\n- Fulltime:  10h-22h \r\nYêu cầu : trung thực, nhanh nhẹn, chăm chỉ\r\n- lương sẽ trao đổi cụ thể khi phỏng vấn\r\n ĐẶC BIỆT : có thể làm 1 partime vào cuối tuần hoặc 1 tuần làm 3-4 ngày </requirement>
+    <benefit/>
+    <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Tự tin,Tinh thần làm việc nhóm</keyword>
+    <ad/>
+    <location_id>82</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-10-15</de>
+    <re>0000-00-00</re>
+    <cr>1471854682</cr>
+  </db>
+  <more>
+    <requirement>NHÀ HÀNG GÀ HÀN QUỐC BOOM DAK &#13;
+* ĐỊA CHỈ: Nhà hàng Boom Dak 16 Lê Quý Đôn P6 Q3 TPHCM&#13;
+*TUYỂN :   phục vụ nam nữ ( Ngoại hình dễ nhìn)&#13;
+* THỜI GIAN:&#13;
+- Partime: sáng từ 10h-3h và chiều từ 16h30 -22h &#13;
+- Fulltime:  10h-22h &#13;
+Yêu cầu : trung thực, nhanh nhẹn, chăm chỉ&#13;
+- lương sẽ trao đổi cụ thể khi phỏng vấn&#13;
+ ĐẶC BIỆT : có thể làm 1 partime vào cuối tuần hoặc 1 tuần làm 3-4 ngày </requirement>
+    <description/>
+    <benefit/>
+    <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Tự tin,Tinh thần làm việc nhóm</keyword>
+  </more>
+  <userapplied>
+    <total>8</total>
+    <strui>823,922,932,981,1023,1075,1091,1090</strui>
+  </userapplied>
+</information>

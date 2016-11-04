@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5390</id>
+      <email>numy377@gmail.com</email>
+      <username/>
+      <name>Lê Thị Mỹ Nữ</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01264739307</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475940412</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,29</category>
+      <type>6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>5390</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>409</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>353</id>
+    <ui>4132</ui>
+    <ci>362</ci>
+    <ai>0</ai>
+    <ti>Tiếp tân</ti>
+    <ta/>
+    <le>2</le>
+    <ty>2</ty>
+    <ex>1,7</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>3000000</s1>
+    <s2>0</s2>
+    <s3>136</s3>
+    <s4>0</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en,ja</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>242</location_id>
+    <lat>10.772588</lat>
+    <lng>10.772588</lng>
+    <de>2016-10-27</de>
+    <re>0000-00-00</re>
+    <cr>1474983100</cr>
+  </db>
+  <more>
+    <requirement>- Nữ từ 18-30 tuổi có ngoại hình tốt.&#13;
+- Giao tiếp tốt, biết tiếng Anh hoặc tiếng Nhật&#13;
+- Biết sắp xếp và hướng dẫn khách vào khu vực bàn ăn linh hoạt</requirement>
+    <description>- Làm việc từ 16:30 - 21:30&#13;
+- Nhận đặt bàn của khách vào buổi tối. Tiếp và đón khách từ cổng vào bàn ăn.&#13;
+- Tổng kết số khách cuối ngày</description>
+    <benefit/>
+    <keyword>Giao tiếp hiệu quả,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+  </more>
+  <userapplied>
+    <total>14</total>
+    <strui>4150,4177,4566,4695,4823,4879,5180,3652,4833,6638,6966,5107,7038,7963</strui>
+  </userapplied>
+</information>

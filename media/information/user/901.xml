@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>901</id>
+      <email>huynhtuyen.tourist93@gmail.com</email>
+      <username/>
+      <name>Huỳnh Lê Phương Tuyền</name>
+      <im>901_2.png</im>
+      <gender>2</gender>
+      <phone>0936499804</phone>
+      <address>39/11B, đường 102, quận 9</address>
+      <city>30</city>
+      <dob>1993-12-27</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471400328</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>27</day>
+      <month>12</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.813764</lat>
+      <lng>106.774276</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>2</experience>
+      <category>14</category>
+      <type>1</type>
+      <level>2,4</level>
+      <lang>en</lang>
+      <skill>•	Up-selling skill	&#13;
+•	Ability to work under high pressure and challenge job&#13;
+•	The motivation to learn new knowledge and skills&#13;
+</skill>
+      <ui>901</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>151</strjo>
+  </appliedjob>
+  <experience>
+    <n_210>
+      <id>210</id>
+      <title>Food Attendant</title>
+      <level>1</level>
+      <cmpname>Renaissance Riverside Saigon Hotel</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Viet Nam</country>
+      <from>2015</from>
+      <to>2015</to>
+    </n_210>
+    <n_211>
+      <id>211</id>
+      <title>Food Attendant</title>
+      <level>1</level>
+      <cmpname>Times Square Viet Nam</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Viet Nam</country>
+      <from>1/2016</from>
+      <to>6/2016</to>
+    </n_211>
+  </experience>
+  <education>
+    <n_147>
+      <id>147</id>
+      <school>Hutech University</school>
+      <degrees>Bachelor</degrees>
+      <fieldofstudy>Hospitality Management</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_147>
+  </education>
+</information>

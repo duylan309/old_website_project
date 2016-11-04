@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3280</id>
+      <email>nguyendong4694@gmail.com</email>
+      <username/>
+      <name>Nguyên Đồng</name>
+      <im>556112767922251_nguyen-dong.jpg</im>
+      <gender>1</gender>
+      <dob>1998-7-25</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474477012</created>
+      <day>25</day>
+      <month>7</month>
+      <year>1998</year>
+      <last_signin>1474477012</last_signin>
+      <phone>01889304694</phone>
+      <address>Quận 7</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7340344</lat>
+      <lng>106.7215787</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>3280</ui>
+      <title>Phục vụ</title>
+      <experience>2</experience>
+      <category>14,15,17,27,29,31</category>
+      <type>2,6</type>
+      <level>1,2</level>
+      <lang>vi</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about></about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

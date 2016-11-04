@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4271</id>
+      <email>nhatruc2609@gmail.com</email>
+      <username/>
+      <name>Nguyễn Minh Nhã Trúc</name>
+      <im>1185454811512453_nguyen-minh-nha-truc.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475052612</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <experience>
+    <n_904>
+      <id>904</id>
+      <title>supervior</title>
+      <level>1</level>
+      <cmpname>Công Ty Cổ Phần Một Cộng Ánh Sáng</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>12/2014</from>
+      <to>10/2016</to>
+    </n_904>
+    <n_905>
+      <id>905</id>
+      <title>hướng dẫn viên du lịch nội địa</title>
+      <level>1</level>
+      <cmpname>Saigontourist</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>09/2008</from>
+      <to>12/2012</to>
+    </n_905>
+    <n_906>
+      <id>906</id>
+      <title>Quản lí - tư vấn - chăm sóc khách hàng</title>
+      <level>1</level>
+      <cmpname>JM Group</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>06/2013</from>
+      <to>10/2014</to>
+    </n_906>
+  </experience>
+  <education>
+    <n_693>
+      <id>693</id>
+      <school>Cao Đẳng Bách Việt</school>
+      <degrees>Trung Cấp </degrees>
+      <fieldofstudy>hướng dẫn viên du lịch</fieldofstudy>
+      <from>09/2005</from>
+      <to>08/2008</to>
+    </n_693>
+  </education>
+</information>

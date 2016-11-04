@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6555</id>
+      <email>catnho0812@gmail.com</email>
+      <username/>
+      <name>Phạm Ngọc Nguyên</name>
+      <im>1476689309_pham-ngoc-nguyen.png</im>
+      <gender>2</gender>
+      <phone>0937509113</phone>
+      <address/>
+      <city/>
+      <dob>1990-12-8</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476689309</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>8</day>
+      <month>12</month>
+      <year>1990</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,16</category>
+      <type>2,5,6</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill>Em là 1 người sạch sẽ , làm việc chăm chỉ , thân thiện và hòa đồng trong công việc</skill>
+      <ui>6555</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>7</total>
+    <strjo>414,92,409,278,402,460,279</strjo>
+  </appliedjob>
+</information>

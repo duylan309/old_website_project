@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>483</id>
+    <ui>534</ui>
+    <ci>246</ci>
+    <ai>0</ai>
+    <ti>Nhân viên pha chế cà phê</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>4000000</s1>
+    <s2>5000000</s2>
+    <s3>181</s3>
+    <s4>227</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>66</location_id>
+    <lat>10.793982</lat>
+    <lng>10.793982</lng>
+    <de>2016-11-19</de>
+    <re>0000-00-00</re>
+    <cr>1476865911</cr>
+  </db>
+  <more>
+    <requirement/>
+    <description/>
+    <benefit/>
+    <keyword/>
+  </more>
+  <userapplied>
+    <total>8</total>
+    <strui>6960,5985,7213,7483,7502,6734,7075,4865</strui>
+  </userapplied>
+</information>

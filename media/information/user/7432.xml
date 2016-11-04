@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7432</id>
+      <email>thaoanh2196@gmail.com</email>
+      <username/>
+      <name>Mai Thảo Anh</name>
+      <im>7432_c360-2016-10-09-17-50-59-561.jpg</im>
+      <gender>2</gender>
+      <phone>0911744417</phone>
+      <address>780 Nguyễn Kiệm Phường 4 Quận Phú Nhuận</address>
+      <city>30</city>
+      <dob>1996-5-21</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477243977</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>21</day>
+      <month>5</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8075062</lat>
+      <lng>106.678453</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ; pha chế; nhân viên bán hàng, thu ngân</title>
+      <experience>1</experience>
+      <category>14,15,20,29,31,35</category>
+      <type>2,4,6</type>
+      <level>2,5</level>
+      <lang>vi,en</lang>
+      <skill>Kỹ năng giao tiếp căn bản, kỹ năng vi tính văn phòng</skill>
+      <ui>7432</ui>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <about>Đã từng có kinh nghiệm: bán hàng thời trang online, làm PG tại nhà hàng, bán hàng tiện lợi.&#13;
+Là con người ham học hỏi, dễ hòa nhập với môi trường mới và thích những thử thách đối với bản thân.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>427,474,156,253,107</strjo>
+  </appliedjob>
+  <experience>
+    <n_1467>
+      <id>1467</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>Vòng tròn đỏ</cmpname>
+      <city>Hồ chí minh</city>
+      <country>Việt nam</country>
+      <from>5/2016</from>
+      <to>9/2016</to>
+    </n_1467>
+    <n_1468>
+      <id>1468</id>
+      <title>PG nhãn hàng nước giải khát 100 Plus</title>
+      <level>1</level>
+      <cmpname>F&amp;N</cmpname>
+      <city>Hồ chí minh</city>
+      <country>Việt nam</country>
+      <from>12/2015</from>
+      <to>1/2015</to>
+    </n_1468>
+  </experience>
+  <education>
+    <n_1211>
+      <id>1211</id>
+      <school>Đại học Nguyễn Tất Thành</school>
+      <degrees>Cử nhân đại học</degrees>
+      <fieldofstudy>Kế toán kiểm toán</fieldofstudy>
+      <from>10/2014</from>
+      <to>10/2018</to>
+    </n_1211>
+  </education>
+</information>

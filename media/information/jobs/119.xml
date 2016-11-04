@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>119</id>
+    <ui>377</ui>
+    <ci>236</ci>
+    <ai>0</ai>
+    <ti>Bartender</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>2</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>6000000</s1>
+    <s2>7000000</s2>
+    <s3>272</s3>
+    <s4>318</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>1</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description>- Ca làm: 15.00-23.00\r\n- Pha chế thức uống như các loại cocktails, mocktails\r\n- Kiểm kê / stock hàng hoá mỗi ngày\r\n- Hoàn thành các công việc được giao trong ngày.\r\n</description>
+    <requirement>- CÓ kinh nghiệm pha chế ít nhất 1 năm.\r\n- Ưu tiên có tiếng Anh giao tiếp cơ bản\r\n- Nhanh nhẹn, học hỏi nhanh và có tinh thần làm việc nhóm\r\n</requirement>
+    <benefit>- Tăng ca x1.5\r\n- Đi làm vào các ngày lễ, lương x2\r\n- 1 bữa cơm/ ca làm\r\n- Có bãi giữ xe miễn phí cho nhân viên\r\n- 1 ngày nghỉ/ tuần</benefit>
+    <keyword/>
+    <ad/>
+    <location_id>46</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-09-29</de>
+    <re>0000-00-00</re>
+    <cr>1473480950</cr>
+  </db>
+  <more>
+    <requirement>- CÓ kinh nghiệm pha chế ít nhất 1 năm.&#13;
+- Ưu tiên có tiếng Anh giao tiếp cơ bản&#13;
+- Nhanh nhẹn, học hỏi nhanh và có tinh thần làm việc nhóm&#13;
+</requirement>
+    <description>- Ca làm: 15.00-23.00&#13;
+- Pha chế thức uống như các loại cocktails, mocktails&#13;
+- Kiểm kê / stock hàng hoá mỗi ngày&#13;
+- Hoàn thành các công việc được giao trong ngày.&#13;
+</description>
+    <benefit>- Tăng ca x1.5&#13;
+- Đi làm vào các ngày lễ, lương x2&#13;
+- 1 bữa cơm/ ca làm&#13;
+- Có bãi giữ xe miễn phí cho nhân viên&#13;
+- 1 ngày nghỉ/ tuần</benefit>
+    <keyword/>
+  </more>
+  <userapplied>
+    <total>36</total>
+    <strui>387,588,613,565,669,670,674,676,698,713,726,822,931,785,964,1013,1106,923,1170,654,971,292,1402,1413,1414,1551,1776,1859,1977,2029,2117,2224,2228,2292,2392,2402</strui>
+  </userapplied>
+</information>

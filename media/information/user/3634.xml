@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3634</id>
+      <email>nguyennhi.dhl@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thu Nhi</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01659447590</phone>
+      <address>70/30 Đinh Bộ Lĩnh, Q. Bình Thạnh</address>
+      <city>30</city>
+      <dob>1994-10-14</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474726343</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>14</day>
+      <month>10</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8123391</lat>
+      <lng>106.709128</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>15,17,35</category>
+      <type>4,5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Có khả năng làm việc nhóm, giao tiếp tốt, nhanh nhẹn. </skill>
+      <ui>3634</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Là người có trách nhiệm, nhiệt tình, siêng năng.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>267,222,368,294</strjo>
+  </appliedjob>
+  <experience>
+    <n_806>
+      <id>806</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Quán mì cay Sasin quận 4</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>8/6/2016</from>
+      <to>15/8/2016</to>
+    </n_806>
+  </experience>
+  <education>
+    <n_592>
+      <id>592</id>
+      <school>Đại học Luật Tp.HCM</school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy>Luật</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_592>
+  </education>
+</information>

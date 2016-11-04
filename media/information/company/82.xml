@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <totalJob>
+    <total>1</total>
+    <strji>37</strji>
+  </totalJob>
+  <companybanner>82_sheraton-cover.jpg</companybanner>
+  <db>
+    <id>82</id>
+    <ui>82</ui>
+    <name>Sheraton Saigon Hotel &amp; Towers</name>
+    <url>sheraton-saigon</url>
+    <im>82_sheraton.jpg</im>
+    <category>14,16,17</category>
+    <phone>0938059551</phone>
+    <address>123 abc street</address>
+    <city>30</city>
+    <website></website>
+    <skype></skype>
+    <facebook>https://www.facebook.com/sheratonsaigonhotel/?fref=ts</facebook>
+    <size>1</size>
+    <status>1</status>
+    <dayleft>1492080933</dayleft>
+    <jobleft>0</jobleft>
+    <fb_load_newfeed>2</fb_load_newfeed>
+    <fb_load_photo>2</fb_load_photo>
+    <created>1460532566</created>
+    <deactive>0</deactive>
+  </db>
+</information>

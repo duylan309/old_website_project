@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>311</id>
+      <email>Trangpham.140696@gmail.com</email>
+      <username/>
+      <name>Huyền Trang</name>
+      <im>311_2016-07-01-14-12-28-878.jpg</im>
+      <gender>2</gender>
+      <phone>01654310317</phone>
+      <address>Hẽm 49, Hồng Lạc, quận Tân Bình, tp hcm</address>
+      <city>30</city>
+      <dob>1996-6-14</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1468922062</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>14</day>
+      <month>6</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7757053</lat>
+      <lng>106.6979506</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_33>
+      <id>33</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Trung tâm hội nghị Grand place</cmpname>
+      <city>Hồ chí minh</city>
+      <country>Việt nam</country>
+      <from>0 tháng</from>
+      <to>6 tháng</to>
+    </n_33>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>311</ui>
+      <title>Phục vụ, bán hàng</title>
+      <experience>7</experience>
+      <category>14,15,31,35</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>3</s1>
+      <salary>1</salary>
+      <skill>Làm việc nhóm, làm tốt nhiệm cụ được giao, tự tin,. Vui vẻ, năng động, nhanh nhẹn, có khả nang thích ứng tốt với môi trường làm việc mới . Sãn sàng làm viễ bất cứ khi nào, Trung thực</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>87,82</strjo>
+  </appliedjob>
+</information>

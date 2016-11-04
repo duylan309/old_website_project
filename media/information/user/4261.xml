@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4261</id>
+      <email>ledoanphuonganh120297@gmail.com</email>
+      <username/>
+      <name>Lê Đoàn Phương Anh</name>
+      <im>590871804406742_le-doan-phuong-anh.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475048802</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>thu ngân, phục vụ, pha chế</title>
+      <experience>1</experience>
+      <category>15,31,35</category>
+      <type>2,5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>giao tiếp tốt, vui vẻ, hòa đồng</skill>
+      <ui>4261</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>262</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>262</strjo>
+  </savedjob>
+</information>

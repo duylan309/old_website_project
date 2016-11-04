@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2471</id>
+      <email>mjn.libraa@gmail.com</email>
+      <username/>
+      <name>Phan Gia Hân</name>
+      <im>1473575050_phan-gia-han.png</im>
+      <gender>2</gender>
+      <phone>0966987791</phone>
+      <address>28/1/2 đường số 14,f8, quận gò vấp</address>
+      <city>30</city>
+      <dob>1998-10-19</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473575050</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>19</day>
+      <month>10</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.840538</lat>
+      <lng>106.6750069</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>15,27,30,35</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>en</lang>
+      <skill>Có khả năng giao tiếp tốt,xử lí tình huống và làm việc nhóm hiệu quả&#13;
+&#13;
+&#13;
+</skill>
+      <ui>2471</ui>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <about>Nhanh nhẹn,tự tin,hoà đồng,vui tính,có tính hướng ngoại</about>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng giải quyết tình huống,Tập trung trong công việc</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>211,162,205,219</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>211</strjo>
+  </savedjob>
+</information>

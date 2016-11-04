@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6667</id>
+      <email>loankt1202@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Loan</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0963210007</phone>
+      <address>35  núi thành quận tân bình</address>
+      <city>30</city>
+      <dob>1995-3-20</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476771116</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476771116</last_signin>
+      <day>20</day>
+      <month>3</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.799886</lat>
+      <lng>106.642142</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1337>
+      <id>1337</id>
+      <title>nhan viên pha chế</title>
+      <level>1</level>
+      <cmpname>trà sữa và pizza h2t</cmpname>
+      <city>thủ đức</city>
+      <country>việt nam</country>
+      <from>9/2013</from>
+      <to>12/2014</to>
+    </n_1337>
+    <n_1339>
+      <id>1339</id>
+      <title>nhân viên phục u</title>
+      <level>1</level>
+      <cmpname>cửa hàng lesable</cmpname>
+      <city>quận 7</city>
+      <country>việt nam</country>
+      <from>1/2015</from>
+      <to>11/2015</to>
+    </n_1339>
+    <n_1341>
+      <id>1341</id>
+      <title>nhân viên kế toán bán hàng</title>
+      <level>1</level>
+      <cmpname>công ty thực phẩm thái sơn</cmpname>
+      <city>quận tân bình</city>
+      <country>việt nam</country>
+      <from>2/2016</from>
+      <to>7/2016</to>
+    </n_1341>
+  </experience>
+  <education>
+    <n_1100>
+      <id>1100</id>
+      <school>cđ công thương tphcm</school>
+      <degrees>chinh quy</degrees>
+      <fieldofstudy>cao đẳng</fieldofstudy>
+      <from>9/2013</from>
+      <to>8/2016</to>
+    </n_1100>
+  </education>
+  <user_cv>
+    <db>
+      <ui>6667</ui>
+      <title>nhân viên thu ngân</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>176</strjo>
+  </appliedjob>
+</information>

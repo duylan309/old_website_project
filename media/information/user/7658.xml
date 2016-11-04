@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7658</id>
+      <email>bichau308@gmail.com</email>
+      <username/>
+      <name>Bích Châu</name>
+      <im>1250693275017236_bich-chau.jpg</im>
+      <gender>2</gender>
+      <dob>1996-8-30</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477384391</created>
+      <day>30</day>
+      <month>8</month>
+      <year>1996</year>
+      <phone>0969475781</phone>
+      <address>100/27 Dương Bá Trạc, phường 2, quận 8</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.748307</lat>
+      <lng>106.687725</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1502>
+      <id>1502</id>
+      <title>Telesale</title>
+      <level>1</level>
+      <cmpname>Công ty TNHH Thương mại &amp; Công nghệ Mê Kong</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>7/2015</from>
+      <to>9/2016</to>
+    </n_1502>
+    <n_1503>
+      <id>1503</id>
+      <title>Telesale</title>
+      <level>1</level>
+      <cmpname>Công ty Bất động sản Phúc Gia Thịnh</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>4/2015</from>
+      <to>7/2015</to>
+    </n_1503>
+    <n_1504>
+      <id>1504</id>
+      <title>Giáo viên</title>
+      <level>1</level>
+      <cmpname>Lớp nhóm Minh Quân</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>11/2015</from>
+      <to>5/2016</to>
+    </n_1504>
+  </experience>
+  <education>
+    <n_1250>
+      <id>1250</id>
+      <school>Đại học Tôn Đức Thắng</school>
+      <degrees/>
+      <fieldofstudy>Hướng dẫn viên du lịch</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_1250>
+  </education>
+  <user_cv>
+    <db>
+      <ui>7658</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,17,29,35</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Năng động, nhanh nhẹn, vui vẻ, thân thiện, giao tiếp tốt, có khả năng hòa đồng...</about>
+      <skill>Có thể giao tiếp bằng tiếng Anh, có một số kĩ năng nhà hàng- khách sạn.</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>371</strjo>
+  </appliedjob>
+</information>

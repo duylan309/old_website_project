@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>574</id>
+      <email>uyenaqua@gmail.com</email>
+      <username/>
+      <name>Ngô Thị Phương Uyên</name>
+      <im>911728165637805_uyen-ngo.jpg</im>
+      <gender>2</gender>
+      <dob>01997-3-8</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470549047</created>
+      <day>8</day>
+      <month>3</month>
+      <year>01997</year>
+      <phone>0906600308</phone>
+      <address>128/31 Bùi Quang Là, f12, Gò Vấp, Tp HCM</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7764745</lat>
+      <lng>106.7008831</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_83>
+      <id>83</id>
+      <school>đại học luật tphcm</school>
+      <degrees>đang học cử nhân</degrees>
+      <fieldofstudy>luật thương mại</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_83>
+  </education>
+  <user_cv>
+    <db>
+      <ui>574</ui>
+      <title>lễ tân, thu ngân, nhân viên phục vụ, tư vấn, pha chế</title>
+      <experience>1</experience>
+      <category>14,15,17,20,26,28,29,30,31,35</category>
+      <type>2,4,5</type>
+      <level>2,3,4</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <skill>Giao tiếp tốt bằng tiếng anh, nhanh nhẹn, có trách nhiệm, sẵn sàng học hỏi</skill>
+      <keyword>kỹ năng xử lí tình huống&#13;
+Kỹ năng chăm sóc khách hàng&#13;
+Giao tiếp hiệu quả&#13;
+Chịu được áp lực&#13;
+Tinh thần trách nhiệm&#13;
+Năng động&#13;
+Sáng tạo&#13;
+Yêu thời trang, âm nhạc, nghệ thuật&#13;
+</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>100</strjo>
+  </appliedjob>
+</information>

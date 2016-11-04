@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7528</id>
+      <email>lethithuytrang2201@gmail.com</email>
+      <username/>
+      <name>Lê thị thuỳ trang</name>
+      <im>1477299194_le-thi-thuy-trang.png</im>
+      <gender>2</gender>
+      <phone>0926949518</phone>
+      <address>904 nguyễn kiệm,gò vấp ,tp hcm</address>
+      <city>30</city>
+      <dob>1995-1-22</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477299194</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>22</day>
+      <month>1</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phụ bếp</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Biết cắt tỉa</skill>
+      <ui>7528</ui>
+      <s1>5500000</s1>
+      <salary>1</salary>
+      <about>Hiền lành.trung thực.lắng nghe.chưa có nhiều kinh nghiệm nhưng sẽ học hỏi thêm</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>153</strjo>
+  </appliedjob>
+  <experience>
+    <n_1474>
+      <id>1474</id>
+      <title>Phụ bếp</title>
+      <level>1</level>
+      <cmpname>Huy việt nam</cmpname>
+      <city>Hồ chí minh</city>
+      <country>Việt nam</country>
+      <from>Tháng 12/2015</from>
+      <to>Tháng 2/2016</to>
+    </n_1474>
+  </experience>
+  <education>
+    <n_1222>
+      <id>1222</id>
+      <school>Saigon tourist</school>
+      <degrees>Trung cấp</degrees>
+      <fieldofstudy>Kĩ thuật chế biến món ăn</fieldofstudy>
+      <from>Tháng 10/2014</from>
+      <to>Tháng 10/2016</to>
+    </n_1222>
+  </education>
+</information>

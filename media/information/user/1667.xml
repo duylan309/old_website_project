@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1667</id>
+      <email>sandimin13@gmail.com</email>
+      <username/>
+      <name>Nguyễn Trần Như Sa</name>
+      <im>1667_image.jpeg</im>
+      <gender>2</gender>
+      <phone>01259650706</phone>
+      <address>359/1B Lê Văn Sỹ quận 3</address>
+      <city>30</city>
+      <dob>1998-7-18</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472723162</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>18</day>
+      <month>7</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.788353</lat>
+      <lng>106.676365</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>15,17</category>
+      <type>2</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill>Giao tiếp tốt</skill>
+      <ui>1667</ui>
+      <s1>13000</s1>
+      <salary>1</salary>
+      <keyword>Chịu được áp lực công việc,Trung thực,Tự tin,Nhiệt tình,Tinh thần làm việc nhóm,Tinh thần trách nhiệm,Giao tiếp hiệu quả</keyword>
+      <about/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>202,247,150,130</strjo>
+  </appliedjob>
+  <education>
+    <n_260>
+      <id>260</id>
+      <school>Trường Nhật ngữ Lapis</school>
+      <degrees>Tốt nghiệp 12</degrees>
+      <fieldofstudy/>
+      <from>2015</from>
+      <to>Nay</to>
+    </n_260>
+  </education>
+  <savedjob/>
+</information>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2233</id>
+      <email>Sutungaynay@gmail.com</email>
+      <username/>
+      <name>Trương thị Uyên</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0971737017</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473315632</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, pha chế, chăm sóc khách hàng, bán hàng</title>
+      <experience>2</experience>
+      <category>14,18,20,28,29,30,31</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>en</lang>
+      <skill>Giao tiếp, giải quyết vấn đề, lắng nghe, bán hàng, cẩn trọng, làm việc nhóm, chịu được áp lưc, xây dựng, vi tinh</skill>
+      <ui>2233</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>240</strjo>
+  </appliedjob>
+</information>

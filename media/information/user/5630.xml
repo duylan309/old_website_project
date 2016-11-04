@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5630</id>
+      <email>mr.tuan1002@gmail.com</email>
+      <username/>
+      <name>Tran Tuan</name>
+      <im>882361888532541_tran-tuan.jpg</im>
+      <gender>1</gender>
+      <dob>1990-2-10</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476113034</created>
+      <day>10</day>
+      <month>2</month>
+      <year>1990</year>
+      <phone>0964181820</phone>
+      <address>Bình Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8105831</lat>
+      <lng>106.7091422</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế</title>
+      <experience>1</experience>
+      <category>14,15,17,18,20,26,27,28,29,30,35,36</category>
+      <type>5,6</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <skill>Thực phẩm, Tiếng Anh</skill>
+      <ui>5630</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>312,201</strjo>
+  </appliedjob>
+  <experience>
+    <n_1156>
+      <id>1156</id>
+      <title>Nhân viên</title>
+      <level>1</level>
+      <cmpname>ORION FOOD VINA</cmpname>
+      <city>HO CHI MINH</city>
+      <country>VN</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_1156>
+  </experience>
+  <education>
+    <n_928>
+      <id>928</id>
+      <school>NONG LAM HCMC UNIVERSITY</school>
+      <degrees>DAI HOC</degrees>
+      <fieldofstudy>THUC PHAM</fieldofstudy>
+      <from>2008</from>
+      <to>2012</to>
+    </n_928>
+  </education>
+</information>

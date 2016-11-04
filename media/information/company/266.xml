@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>266</id>
+    <ui>1024</ui>
+    <name>Chooki Buffet</name>
+    <url>chookibuffet</url>
+    <im>_chooki-buffet.jpg</im>
+    <im_banner>_chooki-buffet-cover.jpg</im_banner>
+    <category>14</category>
+    <phone></phone>
+    <address>105, Tôn Dật Tiên, Quận 7</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.72761</lat>
+    <lng>106.7190653</lng>
+    <website>http://chooki.com.vn/</website>
+    <about/>
+    <facebook>https://www.facebook.com/chookibuffet/</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1471601496</created>
+  </db>
+  <more>
+    <about>                Chooki BBQ &amp; Hot Pot Buffet là Nhà Hàng phục vụ các món Nướng &amp; Lẩu theo phong cách Buffet tại bàn. Với sự tiện lợi trong cách thưởng thức &amp; gọi món ăn, cùng với các hương vị món nướng BBQ &amp; Lẩu đặc trưng của Chooki mang phong cách truyền thống Nhật Bản sẽ giúp bữa ăn thoải mái và ngon miệng hơn.\r\n            </about>
+    <whyworkus/>
+  </more>
+  <companybanner>_chooki-buffet-cover.jpg</companybanner>
+  <totalJob>
+    <total>1</total>
+    <strji>167</strji>
+  </totalJob>
+</information>

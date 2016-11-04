@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2179</id>
+      <email>s.lun913@yahoo.com.vn</email>
+      <username/>
+      <name>Kim loan</name>
+      <im>2179_1385712-603308226400282-1210347041-n.jpg</im>
+      <gender>2</gender>
+      <phone>0934403306</phone>
+      <address>nguyễn trãi q5</address>
+      <city>30</city>
+      <dob>1995-9-10</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473268264</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <deactive>0</deactive>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <day>10</day>
+      <month>9</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7543324</lat>
+      <lng>106.6683166</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục vụ , pha chế</title>
+      <experience>1</experience>
+      <category>14,15,20</category>
+      <type>2,4</type>
+      <level>1</level>
+      <lang>en,ch</lang>
+      <skill>vi tính excel và word</skill>
+      <ui>2179</ui>
+      <deactive>0</deactive>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>238,247,250,349,386</strjo>
+  </appliedjob>
+  <education>
+    <n_340>
+      <id>340</id>
+      <school>Đại học huflit</school>
+      <degrees>THPT</degrees>
+      <fieldofstudy>Quản tri kinh doanh</fieldofstudy>
+      <from>Cấp 1</from>
+      <to>Đại học</to>
+    </n_340>
+  </education>
+  <experience>
+    <n_474>
+      <id>474</id>
+      <title>Phục vụ</title>
+      <level>1</level>
+      <cmpname>Milano coffee</cmpname>
+      <city/>
+      <country/>
+      <from>2014</from>
+      <to>2015</to>
+    </n_474>
+  </experience>
+</information>

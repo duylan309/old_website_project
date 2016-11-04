@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>86</id>
+    <ui>270</ui>
+    <ci>209</ci>
+    <ai>0</ai>
+    <ti>Phục vụ nhà hàng</ti>
+    <ta/>
+    <le>3</le>
+    <ty>1</ty>
+    <ex>7</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>3000000</s1>
+    <s2>3500000</s2>
+    <s3>136</s3>
+    <s4>159</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>20</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <ad>155, Võ Văn Tần, Quận 3</ad>
+    <lat>10.774800</lat>
+    <lng>106.688980</lng>
+    <de>2016-09-05</de>
+    <re>0000-00-00</re>
+    <cr>1467875808</cr>
+  </db>
+  <more>
+    <requirement>tiếng anh giao tiếp căn bản,siêng năng</requirement>
+    <description/>
+    <benefit/>
+  </more>
+  <userapplied>
+    <total>17</total>
+    <strui>291,327,550,666,701,881,1052,958,1154,626,1362,1435,1625,2332,3353,4205,5074</strui>
+  </userapplied>
+</information>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5932</id>
+      <email>Mixinh94@gmail.com</email>
+      <username/>
+      <name>Võ Thị Mai Trang</name>
+      <im>5932_14689963-1001118013347150-1575852428-o.jpg</im>
+      <gender>2</gender>
+      <phone>0965383446</phone>
+      <address>84/4 thích minh nguyệt, phường 2, tân bình</address>
+      <city>30</city>
+      <dob>1994-2-27</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476272235</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>27</day>
+      <month>2</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8064829</lat>
+      <lng>106.6669413</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục vụ</title>
+      <experience>1</experience>
+      <category>15,16</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Tiếng anh giao tiếp cơ bản</skill>
+      <ui>5932</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Tên Võ Thị Mai Trang, 22 tuổi. Yêu thích các công việc năng động, tiếp xúc với con người, thân thiện, khả năng tiếp thu và thích học tập cái mới. Chuyên ngành học Marketing nên có thể đưa ra ý kiến, sử dụng khả năng giao tiếp để lấy được lòng tin khách hàng. </about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>426,165,412,247,253,322</strjo>
+  </appliedjob>
+  <education>
+    <n_984>
+      <id>984</id>
+      <school>Đại học tài chính marketing</school>
+      <degrees>Trung học phổ thông</degrees>
+      <fieldofstudy>Nhà hàng khách sạn</fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_984>
+  </education>
+</information>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6694</id>
+      <email>nguyenthien01071992@gmail.com</email>
+      <username/>
+      <name>Cậu Tư Chơi Lầy</name>
+      <im>1599236623706282_cau-tu-choi-lay.jpg</im>
+      <gender>1</gender>
+      <dob>1996-7-1</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476790296</created>
+      <day>1</day>
+      <month>7</month>
+      <year>1996</year>
+      <last_signin>1476790296</last_signin>
+      <phone>01633224525</phone>
+      <address></address>
+      <country>vn</country>
+      <city></city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6694</ui>
+      <title>nhan vien pha che</title>
+      <experience>1</experience>
+      <category>14,15,27</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

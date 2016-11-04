@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>153</id>
+    <ui>649</ui>
+    <ci>252</ci>
+    <ai>0</ai>
+    <ti>Phụ bếp</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1,2,4</ty>
+    <ex>7</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>5000000</s1>
+    <s2>6000000</s2>
+    <s3>227</s3>
+    <s4>272</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14,15,31,35</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description>1. Sắp xếp gọn gàng các trang thiết bị trong bếp\r\n2. Sơ chế và thực hiện các món ăn, cơm văn phòng theo yêu cầu của khách hàng\r\n3. Quán xuyến, lên kế hoạch và gọi thực phẩm cần thiết (khi được yêu cầu)\r\n4. Thực hiện các yêu cầu của người quản lý\r\n5. Dọn dẹp vệ sinh khu vực Bếp;\r\n6. Rửa bát, công cụ dụng cụ trong bếp;</description>
+    <requirement>- Nam, nữ có sức khỏe tốt.\r\n- Nhanh nhẹn, nhiệt tình, trung thực.\r\n- Có tinh thần trách nhiệm\r\n- Ưu tiên ứng viên có kinh nghiệm\r\n- Yêu thích ẩm thực</requirement>
+    <benefit>- Lương thỏa thuận hấp dẫn\r\n- Có chế độ thưởng, chế độ ăn\r\n- Có cơ hội thăng tiến trong công việc</benefit>
+    <keyword>Tinh thần trách nhiệm,Chịu được áp lực công việc,Trung thực,Tinh thần làm việc nhóm</keyword>
+    <ad/>
+    <location_id>73</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-08</de>
+    <re>0000-00-00</re>
+    <cr>1471230787</cr>
+  </db>
+  <more>
+    <requirement>- Nam, nữ có sức khỏe tốt.&#13;
+- Nhanh nhẹn, nhiệt tình, trung thực.&#13;
+- Có tinh thần trách nhiệm&#13;
+- Ưu tiên ứng viên có kinh nghiệm&#13;
+- Yêu thích ẩm thực</requirement>
+    <description>1. Sắp xếp gọn gàng các trang thiết bị trong bếp&#13;
+2. Sơ chế và thực hiện các món ăn, cơm văn phòng theo yêu cầu của khách hàng&#13;
+3. Quán xuyến, lên kế hoạch và gọi thực phẩm cần thiết (khi được yêu cầu)&#13;
+4. Thực hiện các yêu cầu của người quản lý&#13;
+5. Dọn dẹp vệ sinh khu vực Bếp;&#13;
+6. Rửa bát, công cụ dụng cụ trong bếp;</description>
+    <benefit>- Lương thỏa thuận hấp dẫn&#13;
+- Có chế độ thưởng, chế độ ăn&#13;
+- Có cơ hội thăng tiến trong công việc</benefit>
+    <keyword>Tinh thần trách nhiệm,Chịu được áp lực công việc,Trung thực,Tinh thần làm việc nhóm</keyword>
+  </more>
+  <userapplied>
+    <total>107</total>
+    <strui>716,874,1048,1072,728,1140,1152,292,1222,1249,1252,1292,1307,1326,1332,1503,1717,1761,1767,1797,1848,1865,1891,1910,1911,1990,2005,2204,2201,2357,2320,2450,2452,2547,2556,2730,1277,2770,2818,2823,2785,2831,2302,2006,3009,714,3072,3129,3130,3152,3178,3222,1706,3602,3687,3702,3775,3798,3926,3472,3993,3995,4051,4048,3777,4164,4194,3939,4288,4203,4472,4575,4353,4842,4848,5116,5126,5164,5332,5357,5498,5518,5578,4833,5796,5769,5844,5858,5972,4738,6297,6210,6394,6442,5119,6527,3227,6587,7395,7460,7528,7865,6968,7909,8087,8093,7507</strui>
+  </userapplied>
+</information>

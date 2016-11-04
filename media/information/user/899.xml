@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>899</id>
+      <email>pekon_xauxi@yahoo.com</email>
+      <username/>
+      <name>Phan Thủy Tiên</name>
+      <im>1236884289663928_phan-thuy-tien.jpg</im>
+      <gender>2</gender>
+      <dob>1994-5-18</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471396829</created>
+      <day>18</day>
+      <month>5</month>
+      <year>1994</year>
+      <phone>0933815509</phone>
+      <address>581/88 Trường Chinh, phường Tân Sơn Nhì, Quận Tân Phú</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8231508</lat>
+      <lng>106.6292264</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên nhân sự, lễ tân, trợ lý, nhân viên hành chính văn phòng</title>
+      <experience>7</experience>
+      <category>14,20,28,29,31,35</category>
+      <type>1,2,4</type>
+      <level>2,3</level>
+      <lang>vi,en,ch</lang>
+      <skill>Kỹ năng giao tiếp, kỹ năng thuyết trình, kỹ năng mềm</skill>
+      <ui>899</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword>Trung thực,Tự tin,Nhiệt tình,Kỹ năng chăm sóc khách hàng,Tinh thần trách nhiệm,Chịu được áp lực công việc,Kỹ năng giải quyết tình huống,Tập trung trong công việc,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>95</strjo>
+  </appliedjob>
+  <experience>
+    <n_208>
+      <id>208</id>
+      <title>Lễ Tân</title>
+      <level>1</level>
+      <cmpname>Thanh Thu Hotel</cmpname>
+      <city>Tp Hồ Chú Minh</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_208>
+    <n_209>
+      <id>209</id>
+      <title>Lễ tân</title>
+      <level>1</level>
+      <cmpname>Charner Hotel</cmpname>
+      <city>Tp Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>05/2016</from>
+      <to>08/2016</to>
+    </n_209>
+  </experience>
+  <education>
+    <n_146>
+      <id>146</id>
+      <school>Đại học Mở TpHCM</school>
+      <degrees/>
+      <fieldofstudy>Tiếng Anh Thương Mại</fieldofstudy>
+      <from>2012</from>
+      <to>12/2016</to>
+    </n_146>
+  </education>
+</information>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>60</id>
+    <ui>62</ui>
+    <ci>183</ci>
+    <ai>0</ai>
+    <ti>A</ti>
+    <ta/>
+    <le>1</le>
+    <ty>3</ty>
+    <ex>2</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>10000000</s1>
+    <s2>12000000</s2>
+    <s3>454</s3>
+    <s4>545</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14,16</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>1</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <de>2016-06-03</de>
+    <re>0000-00-00</re>
+    <cr>1465414891</cr>
+  </db>
+  <more>
+    <number></number>
+    <description>dada</description>
+    <requirement>dada</requirement>
+  </more>
+</information>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7190</id>
+      <email>ngngocphuongnhi@gmail.com</email>
+      <username/>
+      <name>Nguyễn Ngọc Phương Nhi</name>
+      <im>1477111881_nguyen-ngoc-phuong-nhi.png</im>
+      <gender>2</gender>
+      <phone>0961563905</phone>
+      <address></address>
+      <city></city>
+      <dob>1997-12-23</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477111881</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>23</day>
+      <month>12</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>2,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Từng làm thực tập sinh bộ phận F&amp;B tại Nhà hàng Opera, Park Hyatt Saigon.&#13;
+Có thể làm việc dưới áp lực cao, có trách nhiệm với công việc được giao, yêu công việc phục vụ và biết lắng nghe.</skill>
+      <ui>7190</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>279</strjo>
+  </appliedjob>
+  <experience>
+    <n_1414>
+      <id>1414</id>
+      <title>Thực tập sinh</title>
+      <level>1</level>
+      <cmpname>Park Hyatt Saigon</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>6/2016</from>
+      <to>9/2016</to>
+    </n_1414>
+  </experience>
+  <education>
+    <n_1172>
+      <id>1172</id>
+      <school>Đại học Tôn Đức Thắng</school>
+      <degrees/>
+      <fieldofstudy>Quản trị Nhà hàng - khách sạn</fieldofstudy>
+      <from>9/2015</from>
+      <to>Nay</to>
+    </n_1172>
+  </education>
+</information>

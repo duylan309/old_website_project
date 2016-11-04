@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6913</id>
+      <email>theryank94@gmail.com</email>
+      <username/>
+      <name>Dinh hoàng khanh</name>
+      <im>1699114397073818_dinh-khanh.jpg</im>
+      <gender>1</gender>
+      <dob>1994-12-10</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476941762</created>
+      <day>10</day>
+      <month>12</month>
+      <year>1994</year>
+      <phone>0987019513</phone>
+      <address>306/8 đường trục p13 quận bình thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8333162</lat>
+      <lng>106.7006499</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6913</ui>
+      <title>Pha chế</title>
+      <experience>3</experience>
+      <category>15,16,20</category>
+      <type>4</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>4 years experience at barista positon</about>
+      <skill>Confident and articulate when communicating with custumer&#13;
+Knowledge of drinks&#13;
+Having detailed knowledge and understanding of espresso machine smoothies and soda</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>93</strjo>
+  </appliedjob>
+</information>

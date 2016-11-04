@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5694</id>
+      <email>doanquoc.tg@gmail.com</email>
+      <username/>
+      <name>ĐOÀN VĂN QUỐC</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0911332135</phone>
+      <address>994/90a, huỳnh tấn phát, quận 7, tphcm</address>
+      <city>30</city>
+      <dob>1993-3-10</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476157622</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>10</day>
+      <month>3</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>bán hàng</title>
+      <experience>1</experience>
+      <category>35</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill></skill>
+      <ui>5694</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>tốt nghiệp cao đẳng chuyên ngành quản trị kinh doanh tổng hợp</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>205</strjo>
+  </appliedjob>
+  <education>
+    <n_944>
+      <id>944</id>
+      <school/>
+      <degrees>cử nhân</degrees>
+      <fieldofstudy>quản trị kinh doanh</fieldofstudy>
+      <from>2012</from>
+      <to>2015</to>
+    </n_944>
+  </education>
+</information>

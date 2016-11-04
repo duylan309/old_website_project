@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1158</id>
+      <email>hoanglong29108800@gmail.com</email>
+      <username/>
+      <name>Nguyễn Ngọc Hoàng Long</name>
+      <im>1158_12316063-526909827477445-6990420062408599272-n.jpg</im>
+      <gender>1</gender>
+      <phone>0938742789</phone>
+      <address>95 Thanh Cong,P Tan Thanh,Q Tan Phu</address>
+      <city>30</city>
+      <dob>1988-10-29</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471853399</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <day>29</day>
+      <month>10</month>
+      <year>1988</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7931616</lat>
+      <lng>106.6348327</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_272>
+      <id>272</id>
+      <title>head barista</title>
+      <level>1</level>
+      <cmpname>bolaven coffee</cmpname>
+      <city>ho chi minh</city>
+      <country>vietnam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_272>
+    <n_273>
+      <id>273</id>
+      <title>head barista</title>
+      <level>1</level>
+      <cmpname>bird coffee</cmpname>
+      <city>ho chi minh</city>
+      <country>vietnam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_273>
+    <n_274>
+      <id>274</id>
+      <title>nhân viên</title>
+      <level>1</level>
+      <cmpname>khách sạn Caravell</cmpname>
+      <city>hồ chí minh</city>
+      <country>vietnam</country>
+      <from>2012</from>
+      <to>2013</to>
+    </n_274>
+    <n_275>
+      <id>275</id>
+      <title>nhân viên</title>
+      <level>1</level>
+      <cmpname>khách sạn  Aquari</cmpname>
+      <city>hồ chí minh</city>
+      <country>vietnam</country>
+      <from>2013</from>
+      <to>2013</to>
+    </n_275>
+    <n_276>
+      <id>276</id>
+      <title>barista</title>
+      <level>1</level>
+      <cmpname>kaffa coffee</cmpname>
+      <city>ho chi minh</city>
+      <country>vietnam</country>
+      <from>8/2014</from>
+      <to>12/2014</to>
+    </n_276>
+  </experience>
+  <education>
+    <n_181>
+      <id>181</id>
+      <school>dai hoc khoa hoc xa hoi va nhan van</school>
+      <degrees>cu nhan van</degrees>
+      <fieldofstudy>van hoc</fieldofstudy>
+      <from>2008</from>
+      <to>2012</to>
+    </n_181>
+    <n_182>
+      <id>182</id>
+      <school>barista school</school>
+      <degrees>introduction to coffee của SCAE</degrees>
+      <fieldofstudy>cafe</fieldofstudy>
+      <from>4/2016</from>
+      <to>7/2016</to>
+    </n_182>
+    <n_183>
+      <id>183</id>
+      <school>barista school</school>
+      <degrees>barista skills foundation</degrees>
+      <fieldofstudy>cafe&lt;barista&gt;</fieldofstudy>
+      <from>4/2016</from>
+      <to>7/2016</to>
+    </n_183>
+    <n_184>
+      <id>184</id>
+      <school>barista school</school>
+      <degrees>barista skills intermediate</degrees>
+      <fieldofstudy>cafe&lt;barista&gt;</fieldofstudy>
+      <from>4/2016</from>
+      <to>7/2016</to>
+    </n_184>
+    <n_185>
+      <id>185</id>
+      <school>cao đẳng du lịch sài gòn</school>
+      <degrees>cao đẳng</degrees>
+      <fieldofstudy>nhà hàng khách sạn</fieldofstudy>
+      <from>2008</from>
+      <to>2012</to>
+    </n_185>
+    <n_186>
+      <id>186</id>
+      <school>đại hoc sư phạm</school>
+      <degrees>chứng chỉ C anh văn</degrees>
+      <fieldofstudy>anh văn</fieldofstudy>
+      <from>2010</from>
+      <to>2010</to>
+    </n_186>
+    <n_187>
+      <id>187</id>
+      <school>đại học sư phạm</school>
+      <degrees>chứ chỉ A tin học</degrees>
+      <fieldofstudy>tin học</fieldofstudy>
+      <from>2010</from>
+      <to>2010</to>
+    </n_187>
+  </education>
+  <user_cv>
+    <db>
+      <ui>1158</ui>
+      <title>Barista</title>
+      <experience>2</experience>
+      <category>15</category>
+      <type>1,4</type>
+      <level>2,4,5</level>
+      <lang>vi,en</lang>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <skill>Giao tiep,trach nhiem ,chiu ap luc cao,trung thuc</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>172,201,64,126,195</strjo>
+  </appliedjob>
+  <savedjob/>
+</information>

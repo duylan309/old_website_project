@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1245</id>
+      <email>bichngoc.tt@thediningroom.com.vn</email>
+      <username/>
+      <name>TRẦN THỊ BÍCH NGỌC</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0906321196</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1472004751</created>
+      <dayleft>1479874287</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <jobleft>0</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>5</total>
+    <strji>191,228,265,266,290</strji>
+  </totalJob>
+  <saveuser>
+    <total>46</total>
+    <strui>1328,1344,1406,1510,1761,1796,1891,1919,342,1988,2005,2006,1546,2227,1661,2269,2302,731,2388,2418,2423,2462,2493,2527,2542,2548,2558,2174,2591,496,2718,2719,2733,2332,2740,2768,2746,2791,2856,2880,1029,2916,2920,2715,3011,3050</strui>
+  </saveuser>
+</information>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5677</id>
+      <email>truongphat2104@gmail.com</email>
+      <username/>
+      <name>Trương Tấn Phát</name>
+      <im>155856064872399_truong-tan-phat.jpg</im>
+      <gender>1</gender>
+      <dob>1997-4-21</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476147748</created>
+      <day>21</day>
+      <month>4</month>
+      <year>1997</year>
+      <last_signin>1476147748</last_signin>
+      <phone>01865171817</phone>
+      <address>523/16 S Tùng Thiện Vương P12 Q8</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.743438</lat>
+      <lng>106.656014</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>5677</ui>
+      <title>Nhân viên bếp</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Vui tính hoà đồng, siêng, chăm chỉ</about>
+      <skill>Bếp</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <savedjob>
+    <total>4</total>
+    <strjo>153,276,391,377</strjo>
+  </savedjob>
+  <appliedjob>
+    <total>2</total>
+    <strjo>377,421</strjo>
+  </appliedjob>
+</information>

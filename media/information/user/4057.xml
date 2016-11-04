@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4057</id>
+      <email>ando23101997@gmail.com</email>
+      <username/>
+      <name>Huyền Huyền</name>
+      <im>1685789925073568_huyen-huyen.jpg</im>
+      <gender>2</gender>
+      <dob>1997-10-23</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474965320</created>
+      <day>23</day>
+      <month>10</month>
+      <year>1997</year>
+      <phone>01679587313</phone>
+      <address>20C, Phan Văn Hân, p19, q. Bình Thạnh </address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7920529</lat>
+      <lng>106.708352</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ , bán hàng</title>
+      <experience>7</experience>
+      <category>35</category>
+      <type>2,5</type>
+      <level>2</level>
+      <lang>vi,en,ja</lang>
+      <skill></skill>
+      <ui>4057</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>172</strjo>
+  </appliedjob>
+</information>

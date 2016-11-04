@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>985</id>
+      <email>rainbow_butterfly96@yahoo.com</email>
+      <username/>
+      <name>Bảo Hân Nguyễn</name>
+      <im>815596211875839_bao-han-nguyen.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471532166</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <education>
+    <n_155>
+      <id>155</id>
+      <school>Đại học Ngoai Ngữ - Tin Học Tp Hồ Chí Minh</school>
+      <degrees></degrees>
+      <fieldofstudy>Ngôn Ngữ Anh</fieldofstudy>
+      <from>2014</from>
+      <to>2017</to>
+    </n_155>
+  </education>
+</information>

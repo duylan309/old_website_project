@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6875</id>
+      <email>namle6397@gmail.com</email>
+      <username/>
+      <name>lê hoàng nam</name>
+      <im/>
+      <gender>1</gender>
+      <phone>01289540647</phone>
+      <address>25a bãi sậy p 13 q 5</address>
+      <city>30</city>
+      <dob>1997-3-6</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476895811</created>
+      <dayleft>0</dayleft>
+      <jobleft>0</jobleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476895811</last_signin>
+      <day>6</day>
+      <month>3</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7487607</lat>
+      <lng>106.6545366</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6875</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>7</experience>
+      <category>14,15</category>
+      <type>2,5,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>15</s1>
+      <salary>1</salary>
+      <about>Sinh viên</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>9</total>
+    <strjo>267,154,478,465,434,202,476,234,402</strjo>
+  </appliedjob>
+</information>

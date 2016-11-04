@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2983</id>
+      <email>vung.spk@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Vửng</name>
+      <im>1474132759_nguyen-thi-vung.png</im>
+      <gender>2</gender>
+      <phone>01654733490</phone>
+      <address>35A, đường số 8, tăng nhơn phú A, Q9</address>
+      <city>30</city>
+      <dob>1994-12-11</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474132759</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>11</day>
+      <month>12</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.843806</lat>
+      <lng>106.7867283</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên pha chế, nhân viên bếp bánh...</title>
+      <experience>1</experience>
+      <category>14,17,20,28,29,31</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>có khả năng giao tiếp, làm việc nhóm, sử dụng vi tính thành thạo.</skill>
+      <ui>2983</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Tốt nghiệp trường Đại học Sư Phạm Kỹ thuật TP.HCM &#13;
+chuyên ngành: nữ công gia chánh.&#13;
+thực tập tại: resort Padanus mũi né và Công ty TNHH GoCo ViNa.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>240,219,202</strjo>
+  </appliedjob>
+</information>

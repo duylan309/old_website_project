@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6258</id>
+      <email>candy_nhoxlove_1968@yahoo.com.vn</email>
+      <username/>
+      <name>Thùyy Linh</name>
+      <im>1023282294484045_thuyy-linh.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476456143</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>2</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>6258</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>323</strjo>
+  </appliedjob>
+</information>

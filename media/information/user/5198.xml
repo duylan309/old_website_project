@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5198</id>
+      <email>phuongtrang66666@gmail.com</email>
+      <username/>
+      <name>Phương Trang</name>
+      <im>326523727698737_phuong-trang.jpg</im>
+      <gender>2</gender>
+      <dob>1994-6-24</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475795645</created>
+      <day>24</day>
+      <month>6</month>
+      <year>1994</year>
+      <phone>0918008988</phone>
+      <address>So 2 Phan Xích Long, phường 3, quận Bình Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.796821</lat>
+      <lng>106.692319</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Thu ngân</title>
+      <experience>1</experience>
+      <category>15,35</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>5198</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Người có trách nhiệm, biết học hỏi</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>107</strjo>
+  </appliedjob>
+  <education>
+    <n_855>
+      <id>855</id>
+      <school>Đại học dân lập Văn Lang</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Moi trường</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_855>
+  </education>
+  <savedjob>
+    <total>1</total>
+    <strjo>107</strjo>
+  </savedjob>
+</information>

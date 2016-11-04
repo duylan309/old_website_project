@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7698</id>
+      <email>nkd1705@gmail.com</email>
+      <username/>
+      <name>Nguyễn Khánh Diệu</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01299917218</phone>
+      <address>F.7, Q. Phú Nhuận, TP.HCM</address>
+      <city/>
+      <dob>1998-5-17</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477403750</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>17</day>
+      <month>5</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, Nhân viên bán hàng, Nhân viên bếp,...</title>
+      <experience>1</experience>
+      <category>14,15,16,17,27,29,35</category>
+      <type>2,4,5,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill>- Sinh viên Đại học Kiến trúc TP.HCM (chuyên ngành Thiết kế thời trang)&#13;
+- Tiếng Anh tốt, giao tiếp khá&#13;
+- Biết sử dụng Microsoft Word, Excel,...</skill>
+      <ui>7698</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>- Cẩn thận, chăm chỉ, có trách nhiệm với công việc&#13;
+- Có thể làm việc vào ngày lễ, Tết&#13;
+- Kinh nghiệm làm việc: Nhân viên phục vụ Café, Nhân viên bán hàng kiêm thu ngân&#13;
+&#13;
+&#13;
+•	Key qualifications: Friendly, patient, hard-working.&#13;
+•	English at medium level.&#13;
+•	Good communication skills.&#13;
+•	Problem-solving skills.&#13;
+•	Good working relationships with co-workers.&#13;
+•	Well-behaved in serving customers.&#13;
+•	Great attention to detail.&#13;
+•	Be ready to work weekends and holidays.&#13;
+</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>408,253,100,279,154</strjo>
+  </appliedjob>
+  <experience>
+    <n_1520>
+      <id>1520</id>
+      <title>Nhân viên phục vụ (part-time)</title>
+      <level>1</level>
+      <cmpname>Café</cmpname>
+      <city>Nha Trang</city>
+      <country/>
+      <from>2/2016</from>
+      <to>6/2016</to>
+    </n_1520>
+    <n_1521>
+      <id>1521</id>
+      <title>Nhân viên bán hàng kiêm thu ngân</title>
+      <level>1</level>
+      <cmpname>Mini Stop</cmpname>
+      <city>Nha Trang</city>
+      <country/>
+      <from>7/2016</from>
+      <to>9/2016</to>
+    </n_1521>
+  </experience>
+</information>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4205</id>
+      <email>nhoc_love_baby18@yahoo.com</email>
+      <username/>
+      <name>Quang Nghĩa</name>
+      <im>1073220736125520_quang-nghia.jpg</im>
+      <gender>1</gender>
+      <dob>1998-8-7</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475033756</created>
+      <day>7</day>
+      <month>8</month>
+      <year>1998</year>
+      <phone>01218309114</phone>
+      <address>528/10 Minh Phụng Phường 9 Quận 11</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7622769</lat>
+      <lng>106.645526</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_679>
+      <id>679</id>
+      <school>Saigontourist Hospitality College</school>
+      <degrees/>
+      <fieldofstudy>Hotel Management</fieldofstudy>
+      <from>2015</from>
+      <to>2017</to>
+    </n_679>
+  </education>
+  <user_cv>
+    <db>
+      <ui>4205</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>7</experience>
+      <category>14,20</category>
+      <type>4</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Là sinh viên năm hai của Trung cấp du lịch và khách sạn Saigontourist . Chưa có kinh nghiệm về công việc phục vụ nhưng muốn tích luỹ thêm kinh nghiệm cho công việc sau này</about>
+      <skill>Có thể giao tiếp tiếng anh cơ bản</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>86,301,211</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>301</strjo>
+  </savedjob>
+</information>

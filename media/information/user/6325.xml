@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6325</id>
+      <email>MONLINH9832@GMAILL.COM</email>
+      <username/>
+      <name>Lê Thị Thùy Linh</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0966893709</phone>
+      <address>232/71 Lý Thường Kiệt,p14,q10</address>
+      <city></city>
+      <dob>1998-9-27</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476505595</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476505595</last_signin>
+      <day>27</day>
+      <month>9</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1278>
+      <id>1278</id>
+      <title>nhân viên</title>
+      <level>1</level>
+      <cmpname>Bánh mỳ ô long</cmpname>
+      <city>Hà Nội</city>
+      <country>Việt Nam</country>
+      <from>6/2016</from>
+      <to>9/2016</to>
+    </n_1278>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>6325</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>1</experience>
+      <category>14,15,17,20,27,29,31,35</category>
+      <type>2,4,5,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Sinh viên năm nhất quản trị khách sạn,  thời gian rảnh, làm việc nghiêm túc.</about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

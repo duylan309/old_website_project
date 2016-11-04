@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3264</id>
+      <email>pansy1711@gmail.com</email>
+      <username/>
+      <name>Phương Thảo</name>
+      <im>1798958550381707_phuong-thao.jpg</im>
+      <gender>2</gender>
+      <dob>1994-10-15</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474469653</created>
+      <day>15</day>
+      <month>10</month>
+      <year>1994</year>
+      <phone>0972934674</phone>
+      <address>Hồ chí minh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Lễ tân, nhân viên...</title>
+      <experience>1</experience>
+      <category>14,17,18,20,29,30,35,36</category>
+      <type>1</type>
+      <level>1,2,3</level>
+      <lang>vi,en</lang>
+      <skill>Làm việc đội nhóm và cá nhân tốt.&#13;
+Siêng năng và ham học hỏi</skill>
+      <ui>3264</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>205,253</strjo>
+  </appliedjob>
+</information>

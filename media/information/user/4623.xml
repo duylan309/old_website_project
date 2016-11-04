@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4623</id>
+      <email>anhhmocha@gmail.com</email>
+      <username/>
+      <name>Phạm Gia Hoàng Anh</name>
+      <im>1475376612_pham-gia-hoang-anh.png</im>
+      <gender>2</gender>
+      <phone>01665462898</phone>
+      <address/>
+      <city>30</city>
+      <dob>1997-7-14</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475376611</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>14</day>
+      <month>7</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>barista,waitress</title>
+      <experience>1</experience>
+      <category>14,15</category>
+      <type>6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Kỹ năng giao tiếp,chăm sóc khách hàng,kỹ năng làm việc nhóm</skill>
+      <ui>4623</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Đam mê công việc Barista&#13;
+Thích làm việc ở nơi có nhiều khách nước ngoài để trau dồi ngôn ngữ khác&#13;
+Hoà đồng,vui vẻ,dễ hoà nhập với mọi người&#13;
+Chăm chỉ học hỏi,cố gắng trong công việc</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>323,341,201,280,312</strjo>
+  </appliedjob>
+  <experience>
+    <n_994>
+      <id>994</id>
+      <title>Phục vụ</title>
+      <level>1</level>
+      <cmpname>The pizza company</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>tháng 11</from>
+      <to>tháng 5</to>
+    </n_994>
+    <n_995>
+      <id>995</id>
+      <title>Barista</title>
+      <level>1</level>
+      <cmpname>Heritage coffee</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>tháng 6</from>
+      <to>tháng 9</to>
+    </n_995>
+  </experience>
+  <education>
+    <n_790>
+      <id>790</id>
+      <school>Đại học kinh tế</school>
+      <degrees/>
+      <fieldofstudy/>
+      <from>2015</from>
+      <to>2016</to>
+    </n_790>
+  </education>
+</information>

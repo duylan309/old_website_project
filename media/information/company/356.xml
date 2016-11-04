@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>356</id>
+    <ui>3579</ui>
+    <name>Cafe FC Phú Thọ</name>
+    <url>fcphutho</url>
+    <im/>
+    <im_banner/>
+    <category>15</category>
+    <phone/>
+    <address>Số 04 Đường LêĐại Hành, Phường 15 Quận 11</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.766858</lat>
+    <lng>106.653679</lng>
+    <website/>
+    <about/>
+    <facebook/>
+    <facebook_cover/>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>0</fb_load_newfeed>
+    <fb_load_photo>0</fb_load_photo>
+    <created>1474700773</created>
+  </db>
+  <more>
+    <about/>
+    <whyworkus/>
+  </more>
+  <companybanner/>
+  <totalJob>
+    <total>1</total>
+    <strji>335</strji>
+  </totalJob>
+</information>

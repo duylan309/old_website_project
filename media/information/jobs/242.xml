@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>242</id>
+    <ui>1996</ui>
+    <ci>310</ci>
+    <ai>0</ai>
+    <ti>Nhân viên tạp vụ</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>2</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>3000000</s1>
+    <s2>4000000</s2>
+    <s3>136</s3>
+    <s4>181</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14,16,19</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description>Lau chùi quét dọn khu vực phục vụ, toilet.\r\nCa làm việc: sáng từ 7:30 đến 15:30, chiều từ 15:30 đến 23:30.\r\nNấu cơm cho nhân viên, rữa ly chén.\r\nSắp xếp gọn gàng khu vực làm việc</description>
+    <requirement>Chịu khó, siêng năng.\r\nCó kinh nghiệm trong lĩnh vực tương đương.\r\nNhanh nhẹn, có tinh thần làm việc nhóm.</requirement>
+    <benefit>Lương thưởng hấn dẫn + tips trên 1 triệu/ tháng.\r\nCó bãi giử xe riêng không tốn phí gửi xe.\r\nBao cơm 1 buổi/ ca làm việc.\r\nCó 1 ngày off/ 1 tuần làm việc.\r\nCác phúc lợi và chế độ khác theo luật quy định.</benefit>
+    <keyword>Chịu được áp lực công việc,Trung thực,Tự tin,Nhiệt tình</keyword>
+    <ad/>
+    <location_id>141</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-06</de>
+    <re>0000-00-00</re>
+    <cr>1473296975</cr>
+  </db>
+  <more>
+    <requirement>Chịu khó, siêng năng.&#13;
+Có kinh nghiệm trong lĩnh vực tương đương.&#13;
+Nhanh nhẹn, có tinh thần làm việc nhóm.</requirement>
+    <description>Lau chùi quét dọn khu vực phục vụ, toilet.&#13;
+Ca làm việc: sáng từ 7:30 đến 15:30, chiều từ 15:30 đến 23:30.&#13;
+Nấu cơm cho nhân viên, rữa ly chén.&#13;
+Sắp xếp gọn gàng khu vực làm việc</description>
+    <benefit>Lương thưởng hấn dẫn + tips trên 1 triệu/ tháng.&#13;
+Có bãi giử xe riêng không tốn phí gửi xe.&#13;
+Bao cơm 1 buổi/ ca làm việc.&#13;
+Có 1 ngày off/ 1 tuần làm việc.&#13;
+Các phúc lợi và chế độ khác theo luật quy định.</benefit>
+    <keyword>Chịu được áp lực công việc,Trung thực,Tự tin,Nhiệt tình</keyword>
+  </more>
+</information>

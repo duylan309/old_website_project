@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3578</id>
+      <email>huynhthuytien240398@gmail.com</email>
+      <username/>
+      <name>Hùynh Thị Thủy Tiên</name>
+      <im>1474699439_huynh-thi-thuy-tien.png</im>
+      <gender>2</gender>
+      <phone>0984826207</phone>
+      <address>331/70/38 Phan Huy Ích, phường 14, Gò Vấp</address>
+      <city>30</city>
+      <dob>1998-5-15</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474699439</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>15</day>
+      <month>5</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8392333</lat>
+      <lng>106.6366428</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Trung thực, trách nhiệm, học hỏi</skill>
+      <ui>3578</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>267</strjo>
+  </appliedjob>
+  <education>
+    <n_582>
+      <id>582</id>
+      <school>ĐH Văn Lang</school>
+      <degrees>Sinh viên </degrees>
+      <fieldofstudy>Quan hệ công chúng</fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_582>
+  </education>
+</information>

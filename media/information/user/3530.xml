@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3530</id>
+      <email>Hoangphuc5292@gmai.com</email>
+      <username/>
+      <name>DG Creo</name>
+      <im>3530_c360-2016-04-26-19-44-30-448-1.jpg</im>
+      <gender>2</gender>
+      <dob>1992-5-23</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474685347</created>
+      <day>23</day>
+      <month>5</month>
+      <year>1992</year>
+      <phone>01229147121</phone>
+      <address>9/13 đường 2, p.16, Gò Vấp</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.833169</lat>
+      <lng>106.68455</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Bartender</title>
+      <experience>2</experience>
+      <category>14,15,16,18,20,26</category>
+      <type>1,2,3,4,5,6</type>
+      <level>2,4</level>
+      <lang>vi,en</lang>
+      <skill>_ Pha chế các loại nước : cafe, cocktail, smoothies, blend&#13;
+_ Giữ vệ sinh CCDC&#13;
+_ Nhập sổ sách hàng hóa trong ngày &#13;
+_ Cân bằng hàng hóa trong ca&#13;
+_ Order hàng hóa trong ngày&#13;
+_  Chuẩn bị nguyên vật liệu trong ca&#13;
+_ Đảo bảo tính chính xác và thời gian cho khách hàng</skill>
+      <ui>3530</ui>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <about>Là người thích giao tiếp, học hỏi&#13;
+Thích pha chế các loại thức uống không cồn và có cồn&#13;
+Nhanh nhẹn, chịu khó, thích môi trường phương tây thoải mái, chuyên nghiệp&#13;
+Work hard, play hard</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>286,201</strjo>
+  </appliedjob>
+  <experience>
+    <n_783>
+      <id>783</id>
+      <title>Bartender</title>
+      <level>1</level>
+      <cmpname>Du Miên coffee</cmpname>
+      <city>Hcm</city>
+      <country>Việt Nam</country>
+      <from>6/2014</from>
+      <to>12/2014</to>
+    </n_783>
+    <n_784>
+      <id>784</id>
+      <title>Bartender</title>
+      <level>1</level>
+      <cmpname>Khu du lịch Bến Xưa</cmpname>
+      <city>Hcm</city>
+      <country>Việt Nam</country>
+      <from>1/2014</from>
+      <to>5/2015</to>
+    </n_784>
+    <n_785>
+      <id>785</id>
+      <title>Barista</title>
+      <level>1</level>
+      <cmpname>Hinglands coffee</cmpname>
+      <city>HCM</city>
+      <country>Việt Nam</country>
+      <from>6/2015</from>
+      <to>4/2016</to>
+    </n_785>
+  </experience>
+  <education>
+    <n_575>
+      <id>575</id>
+      <school>Cao đẳng Phát thanh _ Truyền hình II</school>
+      <degrees>Cao đẳng</degrees>
+      <fieldofstudy>Electronics and Communication Engineering Technology</fieldofstudy>
+      <from>2015</from>
+      <to>2018</to>
+    </n_575>
+  </education>
+</information>

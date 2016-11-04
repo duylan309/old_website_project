@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6059</id>
+      <email>thuong09081996@gmail.com</email>
+      <username/>
+      <name>Thương Nguyễn</name>
+      <im>6059_img20161010130331.jpg</im>
+      <gender>2</gender>
+      <dob>1996-8-9</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476356549</created>
+      <day>9</day>
+      <month>8</month>
+      <year>1996</year>
+      <last_signin>1476356549</last_signin>
+      <phone>01887731158</phone>
+      <address>176/20/10 Nguyễn Thị Thập,  quận 7</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.736308</lat>
+      <lng>106.715059</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6059</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>371</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1783</id>
+      <email>bamboogreen_95@yahoo.com.vn</email>
+      <username/>
+      <name>Thanh Trúc</name>
+      <im>695970340555964_thanh-truc.jpg</im>
+      <gender>2</gender>
+      <dob>1995-8-28</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472917118</created>
+      <day>28</day>
+      <month>8</month>
+      <year>1995</year>
+      <phone>01665586063</phone>
+      <address>Quận 8</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7240878</lat>
+      <lng>106.6286259</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,17,20,27,28,29,31,35,36</category>
+      <type>2,4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>có kinh nghiệm là PG </skill>
+      <ui>1783</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword>Kỹ năng chăm sóc khách hàng,Tinh thần trách nhiệm,Tập trung trong công việc,Chịu được áp lực công việc,Tự tin,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>150,222</strjo>
+  </appliedjob>
+  <education>
+    <n_318>
+      <id>318</id>
+      <school>Cao đẳng kinh tế đối ngoại</school>
+      <degrees/>
+      <fieldofstudy>tiếng anh thương mại</fieldofstudy>
+      <from>2016</from>
+      <to>2019</to>
+    </n_318>
+  </education>
+</information>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2388</id>
+      <email>ledung261vn@gmail.com</email>
+      <username/>
+      <name>Lê Tưởng Dung</name>
+      <im>1473438669_le-tuong-dung.jpg</im>
+      <gender>2</gender>
+      <phone>0987434024</phone>
+      <address>17/2 Tân Thuận Tây phường Bình Thuận quận 7 </address>
+      <city>30</city>
+      <dob>1997-1-26</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473438669</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>26</day>
+      <month>1</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7494893</lat>
+      <lng>106.7262811</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>vi,en,kr</lang>
+      <skill>Có kinh nghiệm làm phục vụ trong vòng 3 tháng tại Căn tin Gas Petrolimex. &#13;
+Đam mê ẩm thực, yêu thích nấu ăn, tính cách hoà đồng, thân thiện, trung thực. </skill>
+      <ui>2388</ui>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <about>Hiện đang là sinh viên năm 2 trường Đại học quốc tế - ĐH Quốc gia TPHCM.&#13;
+Có khả năng giao tiếp lưu loát, tự tin bằng tiếng Việt hoặc tiếng Anh. Ngoài ra còn có khả năng nghe hiểu tiếng Hàn. &#13;
+Tính cách hoà đồng, thân thiện, lễ phép. Yêu thích ẩm thực và nấu ăn. </about>
+      <keyword>Tinh thần trách nhiệm,Kỹ năng chăm sóc khách hàng,Trung thực,Tự tin,Giao tiếp hiệu quả</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>265</strjo>
+  </appliedjob>
+  <experience>
+    <n_528>
+      <id>528</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Căn tin Gas Petrolimex</cmpname>
+      <city>Hồ Chí Minh </city>
+      <country>Việt Nam</country>
+      <from>Tháng 5/2015</from>
+      <to>Tháng 9/2015</to>
+    </n_528>
+  </experience>
+  <education>
+    <n_373>
+      <id>373</id>
+      <school>Đại học Quốc tế - Đại học quốc gia TPHCM</school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy>Quản trị kinh doanh</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_373>
+    <n_374>
+      <id>374</id>
+      <school>THPT Chuyên Lê Hồng Phong</school>
+      <degrees>12/12 </degrees>
+      <fieldofstudy/>
+      <from>2012</from>
+      <to>2015</to>
+    </n_374>
+  </education>
+</information>

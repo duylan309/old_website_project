@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4491</id>
+      <email>ngothingoc1293@gmail.com</email>
+      <username/>
+      <name>Ngô Ngọc</name>
+      <im>10205246426800660_ngo-ngoc.jpg</im>
+      <gender>2</gender>
+      <dob>1993-12-11</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475222155</created>
+      <day>11</day>
+      <month>12</month>
+      <year>1993</year>
+      <last_signin>1475222155</last_signin>
+      <phone>012 678 677 93</phone>
+      <address>470 Phan Huy Ích Gò Vấp</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.833398</lat>
+      <lng>106.640481</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>4491</ui>
+      <title>Trợ lý quản lý cấp cao</title>
+      <experience>1</experience>
+      <category>15,17,18,20,28,29,30,36</category>
+      <type>1,2,5,6</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <about>Có khả năng phân tích, nghiên cứu chuyên sâu vấn đề, kỹ năng làm việc nhóm&#13;
+Có nền tảng kiến thức và kinh nghiệm trong lĩnh vực tư vấn pháp lý (Doanh nghiệp, hợp đồng)&#13;
+Học hỏi nhanh, chăm chỉ, nhiệt huyết trong công việc&#13;
+</about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

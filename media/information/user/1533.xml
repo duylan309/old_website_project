@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1533</id>
+      <email>Rusagarden@yahoo.com.vn</email>
+      <username/>
+      <name>Vân Khánh Huỳnh</name>
+      <im>10153876595862218_van-khanh-huynh.jpg</im>
+      <gender>1</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472457574</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+      <last_signin>1472457574</last_signin>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <experience>
+    <n_331>
+      <id>331</id>
+      <title>Quản lý</title>
+      <level>1</level>
+      <cmpname>Nhà hang cafe Rusa Gảrden</cmpname>
+      <city>Ho chi minh</city>
+      <country/>
+      <from>2010</from>
+      <to>2016</to>
+    </n_331>
+  </experience>
+  <education>
+    <n_239>
+      <id>239</id>
+      <school>Quản lý nhà hàng khách san tai Úc </school>
+      <degrees>Chưng chỉ Bếp</degrees>
+      <fieldofstudy>Quản lý nhà hàng , bếp Âu</fieldofstudy>
+      <from>2004</from>
+      <to>2008</to>
+    </n_239>
+  </education>
+</information>

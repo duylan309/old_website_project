@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5978</id>
+      <email>okronaldo13@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thành Long</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01697732452</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476293177</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Công việc part time, sinh viên</title>
+      <experience>7</experience>
+      <category>14,15,16,17,19,20,26,27,29,31</category>
+      <type>2,4,5,6</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>5978</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>219,320</strjo>
+  </appliedjob>
+  <education>
+    <n_993>
+      <id>993</id>
+      <school>Cao đẳng FPT</school>
+      <degrees></degrees>
+      <fieldofstudy>Thiết kế đồ họa</fieldofstudy>
+      <from>2016</from>
+      <to>2018</to>
+    </n_993>
+  </education>
+</information>

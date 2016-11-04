@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6263</id>
+      <email>thuyvu3004@gmail.com</email>
+      <username/>
+      <name>VŨ THỊ BÍCH THÙY</name>
+      <im>1476456616_vu-thi-bich-thuy.png</im>
+      <gender>2</gender>
+      <phone>01635196142</phone>
+      <address>595, Ngô Tất Tố, Phường 25, Quận Bình Thạnh, Tp.HCM</address>
+      <city>30</city>
+      <dob>1996-4-30</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476456616</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>30</day>
+      <month>4</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7908157</lat>
+      <lng>106.7151261</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>thu ngân, pha chế hoặc phục vụ</title>
+      <experience>7</experience>
+      <category>15,20,29,35</category>
+      <type>2,4</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>6263</ui>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <about>Xin chào, em tên Thùy,hiện đang học marketing tại trường Đại Học Công Nghệ Tp.HCM. Em rất muốn tìm được một công việc phù hợp với bản thân, em muốn học hỏi nhiều điều từ nhiều người. Em xin cảm ơn :)</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>323,156</strjo>
+  </appliedjob>
+  <experience>
+    <n_1268>
+      <id>1268</id>
+      <title>tư vấn viên</title>
+      <level>1</level>
+      <cmpname>Công Ti Trách Nhiệm The Max</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2/2016</from>
+      <to>9/2016</to>
+    </n_1268>
+  </experience>
+  <education>
+    <n_1038>
+      <id>1038</id>
+      <school>Đại Học Công Nghệ tp.HCm</school>
+      <degrees/>
+      <fieldofstudy>Marketing</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_1038>
+  </education>
+</information>

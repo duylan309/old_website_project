@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7911</id>
+      <email>leminh.nv@gmail.com</email>
+      <username/>
+      <name>Nguyễn Vũ Lệ Minh</name>
+      <im/>
+      <gender>2</gender>
+      <phone>093494887</phone>
+      <address>Nguyễn Văn Quỳ, Phường Phú Thuận, Quận 7</address>
+      <city>30</city>
+      <dob>1991-7-17</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477537151</created>
+      <dayleft>0</dayleft>
+      <jobleft>0</jobleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1477537151</last_signin>
+      <day>17</day>
+      <month>7</month>
+      <year>1991</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7400181</lat>
+      <lng>106.7353782</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>7911</ui>
+      <title>văn phòng, phục vụ</title>
+      <experience>2</experience>
+      <category>15,26,27,28</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about></about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

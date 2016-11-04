@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>998</id>
+      <email>minhduongmaytau12@gmail.com</email>
+      <username/>
+      <name>Phan Minh Dương</name>
+      <im>632485160256344_phan-minh-duong.jpg</im>
+      <gender>1</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471570954</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>2</experience>
+      <category>14,15,16,18,19</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>1. Tiếng anh giao tiếp &#13;
+2. Siêng năng, chịu khó &#13;
+3. Hoà đồng, làm việc nhóm </skill>
+      <ui>998</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>113</strjo>
+  </appliedjob>
+</information>

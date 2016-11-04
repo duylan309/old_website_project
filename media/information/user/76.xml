@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>76</id>
+      <email>sumesh@gmail.com</email>
+      <username/>
+      <name>Sumesh</name>
+      <im/>
+      <gender>1</gender>
+      <category/>
+      <phone>01267543789</phone>
+      <address>123 le van sy</address>
+      <city>30</city>
+      <dob>2016-04-12</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1460479877</created>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>76</ui>
+      <category>15</category>
+      <title></title>
+      <type>1</type>
+      <level>3</level>
+      <experience></experience>
+      <location>30</location>
+      <s1>9999999</s1>
+      <salary>1</salary>
+      <skill>oh yeah</skill>
+      <s2>454.54540909091</s2>
+    </db>
+  </user_cv>
+</information>

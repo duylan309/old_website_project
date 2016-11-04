@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7865</id>
+      <email>huynhtuyen17051996@icloud.com</email>
+      <username/>
+      <name>Huynh thi câm tuyên</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0908560901</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477495708</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phụ bếp</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>7865</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>153,455</strjo>
+  </appliedjob>
+</information>

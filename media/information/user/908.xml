@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>908</id>
+      <email>linhtran2249@gmail.com</email>
+      <username/>
+      <name>Đinh Trần Mỹ Linh</name>
+      <im>908_img-20160618-054109.jpg</im>
+      <gender>2</gender>
+      <phone>0932050109</phone>
+      <address>43/2 Nguyễn Thái Học </address>
+      <city>30</city>
+      <dob>1991-2-11</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471414527</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>11</day>
+      <month>2</month>
+      <year>1991</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7656189</lat>
+      <lng>106.696538</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, Giám sát, Cửa hàng trưởng,</title>
+      <experience>3</experience>
+      <category>14,15,16,19</category>
+      <type>1,2,4,6</type>
+      <level>2,3,4</level>
+      <lang>vi,en</lang>
+      <skill>Tiếng Anh giao tiếp, nghiệp vụ nhà hàng khách sạn, kỹ năng phục vụ khách hàng, vui vẻ, chịu được áp lực, làm việc có trách nhiệm,..</skill>
+      <ui>908</ui>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <keyword>Kỹ năng chăm sóc khách hàng,Giao tiếp hiệu quả,Kỹ năng giải quyết tình huống,Tinh thần trách nhiệm,Tập trung trong công việc,Trung thực,Tự tin,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>12</total>
+    <strjo>151,79,155,157,207,201,240,253,170,310,284,273</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>151</strjo>
+  </savedjob>
+</information>

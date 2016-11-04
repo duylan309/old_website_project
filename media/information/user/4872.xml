@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4872</id>
+      <email>nguyenvungochan0781993@gmail.com</email>
+      <username/>
+      <name>Nguyễn Vũ Ngọc Hân</name>
+      <im>1475560383_nguyen-vu-ngoc-han.png</im>
+      <gender>2</gender>
+      <phone>0982152930</phone>
+      <address>4/33 Văn Chung P13 Quận Tân Bình</address>
+      <city>30</city>
+      <dob>1993-8-4</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475560382</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>4</day>
+      <month>8</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8076227</lat>
+      <lng>106.645568</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Kế toán, thu ngân, phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,16,17,18,19,20,29</category>
+      <type>2,3,4,5,6</type>
+      <level>1,2,3</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>4872</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Tôi là sinh viên hiện đang học liên thông buổi tối tại trường ĐH Kinh Tế TP HCM ngành Kế Toán.&#13;
+Tôi muốn tìm một công việc làm để có thể học hỏi và tích lũy kinh nghiệm cho bản thân, cho dù công việc đó không phải chuyên ngành tôi đang học.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>275,162</strjo>
+  </appliedjob>
+  <experience>
+    <n_1016>
+      <id>1016</id>
+      <title>Bartender</title>
+      <level>1</level>
+      <cmpname>Highland Coffee</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>9/2015</from>
+      <to>3/2016</to>
+    </n_1016>
+  </experience>
+  <education>
+    <n_814>
+      <id>814</id>
+      <school>Đại Học Kinh Tế TP HCM</school>
+      <degrees/>
+      <fieldofstudy>Kế Toán</fieldofstudy>
+      <from>1/2016</from>
+      <to>1/2018</to>
+    </n_814>
+  </education>
+</information>

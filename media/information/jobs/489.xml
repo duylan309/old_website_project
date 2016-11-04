@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>489</id>
+    <ui>6916</ui>
+    <ci>414</ci>
+    <ai>0</ai>
+    <ti>Trợ lý sản xuất</ti>
+    <ta/>
+    <le>3</le>
+    <ty>1,6</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>4500000</s1>
+    <s2>6000000</s2>
+    <s3>204</s3>
+    <s4>272</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>17,35</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description>Phụ trách tìm kiếm và lựa chọn mẫu vải và phụ liệu.\r\nLàm việc với xưởng may các công việc: lên mẫu, sản phẩm mới và sản xuất hàng đúng hạn, đạt yêu cầu.\r\nKiểm tra chất lượng quần áo thành phẩm. \r\nQuản lý chi phí vải, chi phí gia công của xưởng may.\r\nTheo dõi số lượng hàng tồn và vải tồn.\r\n</description>
+    <requirement>Khả năng thẫm mỹ\r\nTrung thực, có trách nhiệm với công việc.\r\nChăm chỉ, làm việc lâu dài.\r\nCó máy tính riêng, có phương tiện di chuyển,…</requirement>
+    <benefit>Lương+thưởng thỏa thuận khi phỏng vấn</benefit>
+    <keyword/>
+    <ad/>
+    <location_id>348</location_id>
+    <lat>10.773510</lat>
+    <lng>10.773510</lng>
+    <de>2016-11-30</de>
+    <re>0000-00-00</re>
+    <cr>1476944942</cr>
+  </db>
+  <more>
+    <requirement>Khả năng thẫm mỹ&#13;
+Trung thực, có trách nhiệm với công việc.&#13;
+Chăm chỉ, làm việc lâu dài.&#13;
+Có máy tính riêng, có phương tiện di chuyển,…</requirement>
+    <description>Phụ trách tìm kiếm và lựa chọn mẫu vải và phụ liệu.&#13;
+Làm việc với xưởng may các công việc: lên mẫu, sản phẩm mới và sản xuất hàng đúng hạn, đạt yêu cầu.&#13;
+Kiểm tra chất lượng quần áo thành phẩm. &#13;
+Quản lý chi phí vải, chi phí gia công của xưởng may.&#13;
+Theo dõi số lượng hàng tồn và vải tồn.&#13;
+</description>
+    <benefit>Lương+thưởng thỏa thuận khi phỏng vấn</benefit>
+    <keyword/>
+  </more>
+  <userapplied>
+    <total>4</total>
+    <strui>6957,6995,7275,4199</strui>
+  </userapplied>
+</information>

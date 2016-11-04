@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>238</id>
+      <email>lan@dinosaur.vn</email>
+      <username/>
+      <name>lan</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01267543789</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1467516973</created>
+      <dayleft>1470108973</dayleft>
+      <page>1</page>
+      <deactive>1</deactive>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+</information>

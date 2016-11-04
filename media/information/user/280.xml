@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>280</id>
+      <email>Voctoricnguyen@gmail.com</email>
+      <username/>
+      <name>Thắng Nguyễn</name>
+      <im>867639553340062_thang-nguyen.jpg</im>
+      <gender>1</gender>
+      <dob>19950-4-7</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1468073910</created>
+      <day>7</day>
+      <month>4</month>
+      <year>19950</year>
+      <phone>01283581680</phone>
+      <address>Bình dương</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_17>
+      <id>17</id>
+      <school>Open </school>
+      <degrees>University</degrees>
+      <fieldofstudy>English</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_17>
+  </education>
+  <user_cv>
+    <db>
+      <ui>280</ui>
+      <title>Waiter, baetender</title>
+      <category>15,17,20</category>
+      <location>30</location>
+      <type>2</type>
+      <level>20</level>
+      <experience>6</experience>
+      <lang>en,vi</lang>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <skill>English </skill>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>64</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3740</id>
+      <email>jessicajung416@gmail.com</email>
+      <username/>
+      <name>Nguyễn Hoàng Anh Vy</name>
+      <im>1847601058803533_nguyen-hoang-anh-vy.jpg</im>
+      <gender>2</gender>
+      <dob>1998-1-28</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474802948</created>
+      <day>28</day>
+      <month>1</month>
+      <year>1998</year>
+      <phone>01222530459</phone>
+      <address>11B Phạm Viết Chánh, phường Nguyễn Cư Trinh, quận 1</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.767174</lat>
+      <lng>106.684529</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_615>
+      <id>615</id>
+      <school>Đại học công nghệ TpHCM</school>
+      <degrees/>
+      <fieldofstudy>nhà hàng va dịch vụ ăn uống</fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_615>
+  </education>
+  <user_cv>
+    <db>
+      <ui>3740</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15</category>
+      <type>2,5</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>1000000</s1>
+      <salary>1</salary>
+      <about>Năng động, chịu được cường độ làm việc cao, thích tìm tòi học hỏi, hòa đồng</about>
+      <skill>Giao tiếp khá tốt</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>219,518</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>518</strjo>
+  </savedjob>
+</information>

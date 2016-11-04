@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1746</id>
+      <email>joominh@gmail.com</email>
+      <username/>
+      <name>Hồ Thanh Minh Nhật</name>
+      <im>1809376055947579_ho-thanh-minh-nhat.jpg</im>
+      <gender>1</gender>
+      <dob>1993-6-1</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472871788</created>
+      <day>1</day>
+      <month>6</month>
+      <year>1993</year>
+      <phone>0932543216</phone>
+      <address>15a kp1 f hiệp bình phước quận thủ đức</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8455467</lat>
+      <lng>106.7146184</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng</title>
+      <experience>5</experience>
+      <category>17,26,28,29,35</category>
+      <type>1,4</type>
+      <level>2,4,5</level>
+      <lang>vi,en</lang>
+      <skill>Giao tiếp giải quyết các khiếu nại từ khách hàng, tiếp thu các target và hoàn thành sớm !</skill>
+      <ui>1746</ui>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>141</strjo>
+  </appliedjob>
+  <experience>
+    <n_381>
+      <id>381</id>
+      <title>Nhân viên sale</title>
+      <level>1</level>
+      <cmpname>Hoa sen việt</cmpname>
+      <city>Hồ chí minh</city>
+      <country>Việt nam</country>
+      <from>2011</from>
+      <to>2016</to>
+    </n_381>
+  </experience>
+</information>

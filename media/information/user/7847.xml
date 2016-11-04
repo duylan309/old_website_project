@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7847</id>
+      <email>ngocnhu.1702@gmail.com</email>
+      <username/>
+      <name>Nhu Nguyen</name>
+      <im>912140862251848_nhu-nguyen.jpg</im>
+      <gender>1</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477487825</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <education>
+    <n_1273>
+      <id>1273</id>
+      <school>Trung Học Phổ Thông Nguyễn Thị Minh Khai</school>
+      <degrees>Trung Cấp</degrees>
+      <fieldofstudy>Kinh tế</fieldofstudy>
+      <from>2014</from>
+      <to>2016</to>
+    </n_1273>
+  </education>
+  <savedjob/>
+</information>

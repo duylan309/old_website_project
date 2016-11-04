@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1596</id>
+      <email>vicass20@gmail.com</email>
+      <username/>
+      <name>Hoàng Nhật Vi</name>
+      <im>1207961885921699_hoang-nhat-vi.jpg</im>
+      <gender>2</gender>
+      <dob>1997-8-20</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472623760</created>
+      <day>20</day>
+      <month>8</month>
+      <year>1997</year>
+      <last_signin>1472623760</last_signin>
+      <phone>01672871080</phone>
+      <address>105 Lê Văn Sỹ P.13 Q.Phú Nhuận </address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.791186</lat>
+      <lng>106.672177</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>1596</ui>
+      <title>Thực tập pha chế, Phục vụ, Bán hàng</title>
+      <experience>7</experience>
+      <category>14,15,35</category>
+      <type>2,5,6</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <skill>Có kinh nghiệm làm phục vụ ở nhà hàng pizza Hut trong 5 tháng</skill>
+      <keyword>Tinh thần trách nhiệm,Tự tin,Tinh thần làm việc nhóm,Trung thực</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>84</strjo>
+  </appliedjob>
+</information>

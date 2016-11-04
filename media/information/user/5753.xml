@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5753</id>
+      <email>Bunbeheo@icloud.com</email>
+      <username/>
+      <name>Nguyễn lê như hiền</name>
+      <im>1476171179_nguyen-le-nhu-hien.png</im>
+      <gender>2</gender>
+      <phone>0937778822</phone>
+      <address></address>
+      <city>30</city>
+      <dob>1997-9-25</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476171178</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>25</day>
+      <month>9</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Lễ tân</title>
+      <experience>2</experience>
+      <category>16,18,19,20,28,36</category>
+      <type>2,6</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <skill></skill>
+      <ui>5753</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>420</strjo>
+  </appliedjob>
+</information>

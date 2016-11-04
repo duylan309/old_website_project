@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>380</id>
+    <ui>4760</ui>
+    <ci>374</ci>
+    <ai>0</ai>
+    <ti>Quản lý nhà hàng</ti>
+    <ta/>
+    <le>5</le>
+    <ty>4,5,6</ty>
+    <ex>2</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>262</location_id>
+    <lat>10.791743</lat>
+    <lng>10.791743</lng>
+    <de>2016-11-02</de>
+    <re>0000-00-00</re>
+    <cr>1475484711</cr>
+  </db>
+  <more>
+    <requirement>Hiểu biết quy trình nhà hàng&#13;
+Giải quyết tình huống&#13;
+Có khả năng lãnh đạo&#13;
+Tinh thần trách nhiệm cao</requirement>
+    <description>Thiết lập quy trình phục vụ&#13;
+Training nhân viên&#13;
+Giải quyết tình huống phát sinh&#13;
+Lập báo cáo theo tuần và tháng </description>
+    <benefit/>
+    <keyword>Kỹ năng chăm sóc khách hàng,Giao tiếp hiệu quả,Kỹ năng giải quyết tình huống,Trung thực,Tự tin,Nhiệt tình,Tinh thần làm việc nhóm,Tập trung trong công việc,Chịu được áp lực công việc</keyword>
+  </more>
+  <userapplied>
+    <total>2</total>
+    <strui>3509,6021</strui>
+  </userapplied>
+</information>

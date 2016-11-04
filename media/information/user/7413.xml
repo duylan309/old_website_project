@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7413</id>
+      <email>nguyenphanphuongthao97@gmail.com</email>
+      <username/>
+      <name>Thảo Nguyễn</name>
+      <im>1057878197644541_thao-nguyen.jpg</im>
+      <gender>2</gender>
+      <dob>1997-2-1</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477230878</created>
+      <day>1</day>
+      <month>2</month>
+      <year>1997</year>
+      <last_signin>1477230878</last_signin>
+      <phone>01228446248</phone>
+      <address>273/6/19/12 tân hòa đông quận bình tân</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.755359</lat>
+      <lng>106.633064</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_1208>
+      <id>1208</id>
+      <school>FPT Academy International</school>
+      <degrees>Cử Nhân</degrees>
+      <fieldofstudy>Quản trị kinh doanh</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_1208>
+  </education>
+  <experience>
+    <n_1463>
+      <id>1463</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Monkey in black Coffee shop</cmpname>
+      <city/>
+      <country/>
+      <from>2016</from>
+      <to>2016</to>
+    </n_1463>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>7413</ui>
+      <title>nhân viên bán hàng, lễ tân,phục vụ</title>
+      <experience>7</experience>
+      <category>15,17,29,31,35</category>
+      <type>1,2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>PERSONAL INFORMATION:&#13;
+Name: Nguyễn Phan Phương Thảo&#13;
+Sex: Female&#13;
+D.O.B: 1/2/1997&#13;
+ID: 025815362 – HCM&#13;
+FB: https://www.facebook.com/jam.vernie&#13;
+Address: 273/6/19/12 Tân Hòa Đông, P.Bình Trị Đông, Q.Bình Tân, TP.Hồ Chí Minh&#13;
+Email: nguyenphanphuongthao97@gmail.com&#13;
+Phone number: 01228446248&#13;
+</about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

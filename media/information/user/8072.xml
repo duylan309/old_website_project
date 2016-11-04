@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>8072</id>
+      <email>qingyun.buh@gmail.com</email>
+      <username/>
+      <name>Trần Thị Thanh Vân</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01265760669</phone>
+      <address></address>
+      <city>30</city>
+      <dob>1994-3-9</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477655039</created>
+      <dayleft>0</dayleft>
+      <jobleft>0</jobleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1477655039</last_signin>
+      <day>9</day>
+      <month>3</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>8072</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>1</experience>
+      <category>15,27,35</category>
+      <type>2,6</type>
+      <level>1</level>
+      <lang>vi,en,ch</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>" Thử thách mang đến cơ hội tích lũy kinh nghiệm sống, hãy chiêm nghiệm nó thay vì chạy trốn lo sợ" &#13;
+&#13;
+Sở thích : du lịch, chụp ảnh.</about>
+      <skill>- Tin học Văn phòng &#13;
+- Làm việc nhóm</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <experience>
+    <n_1566>
+      <id>1566</id>
+      <title>Nhân viên bán thời gian</title>
+      <level>1</level>
+      <cmpname>Công ty TNHH TMDV MTV Việt Tín</cmpname>
+      <city>HCM</city>
+      <country/>
+      <from>6/2015</from>
+      <to>7/2015</to>
+    </n_1566>
+    <n_1567>
+      <id>1567</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>Công ty TNHH TMDV MTV BB&amp;CC</cmpname>
+      <city>Q.8, HCM</city>
+      <country/>
+      <from>6/2014</from>
+      <to>8/2014</to>
+    </n_1567>
+  </experience>
+  <education>
+    <n_1302>
+      <id>1302</id>
+      <school>ĐH Ngân Hàng TpHCM</school>
+      <degrees>Đại học chính quy</degrees>
+      <fieldofstudy>Kế toán - Kiểm toán</fieldofstudy>
+      <from>9/2013</from>
+      <to>3/2017</to>
+    </n_1302>
+    <n_1303>
+      <id>1303</id>
+      <school>THPT Chuyên Lê Hồng Phong</school>
+      <degrees/>
+      <fieldofstudy/>
+      <from>9/2009</from>
+      <to>9/2012</to>
+    </n_1303>
+  </education>
+  <appliedjob>
+    <total>1</total>
+    <strjo>371</strjo>
+  </appliedjob>
+</information>

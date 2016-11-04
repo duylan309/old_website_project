@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1595</id>
+      <email>phanvuthuyduyen20@gmail.com</email>
+      <username/>
+      <name>Thùy Duyên</name>
+      <im>1321477091215425_thuy-duyen.jpg</im>
+      <gender>2</gender>
+      <dob>1996-11-20</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472620537</created>
+      <day>20</day>
+      <month>11</month>
+      <year>1996</year>
+      <last_signin>1472620537</last_signin>
+      <phone>01212150965</phone>
+      <address></address>
+      <country>vn</country>
+      <city></city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>1595</ui>
+      <title>Waiter/ Waitress</title>
+      <experience>7</experience>
+      <category>14,15,17,27,29,35</category>
+      <type>2,4,5</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <s1>1300000</s1>
+      <salary>1</salary>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

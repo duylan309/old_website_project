@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3713</id>
+      <email>vuonghuuchihao@gmail.com</email>
+      <username/>
+      <name>Vương Hữu Chí Hào</name>
+      <im>1474784332_vuong-huu-chi-hao.png</im>
+      <gender>0</gender>
+      <phone>01227637173</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474784332</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục Vụ</title>
+      <experience>1</experience>
+      <category>14,15,17</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>en,ch</lang>
+      <skill>Siêng năng làm việc&#13;
+Giao tiếp tốt&#13;
+Trung thực trong công việc</skill>
+      <ui>3713</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>219</strjo>
+  </appliedjob>
+</information>

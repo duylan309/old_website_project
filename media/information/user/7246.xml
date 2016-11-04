@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7246</id>
+      <email>janeht1006@gmail.com</email>
+      <username/>
+      <name>TRỊNH THỊ HUYỀN TRANG</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0902994716</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477131234</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>15,31,35</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>7246</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>476,504,427,262</strjo>
+  </appliedjob>
+</information>

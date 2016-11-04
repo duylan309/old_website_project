@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>382</id>
+      <email>Nhuy71tv@gmail.com</email>
+      <username/>
+      <name>Lê Nguyễn Như Ý</name>
+      <im>382_image.jpeg</im>
+      <gender>2</gender>
+      <phone>01699779609</phone>
+      <address>Chung cư a2 phan xích long quận phú nhuận</address>
+      <city>30</city>
+      <dob>1995-1-28</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1469982629</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>28</day>
+      <month>1</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.799336</lat>
+      <lng>106.6866365</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_35>
+      <id>35</id>
+      <school>Đại học tài chính marketing</school>
+      <degrees/>
+      <fieldofstudy>Qtkd</fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_35>
+  </education>
+  <user_cv>
+    <db>
+      <ui>382</ui>
+      <title>Nhân viên phục vụ, lễ tân, bán hàng</title>
+      <experience>7</experience>
+      <category>14,15,29,31</category>
+      <type>2,5</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Tập trung trong công việc,Tinh thần trách nhiệm,Chịu được áp lực công việc,Trung thực,Nhiệt tình,Tinh thần làm việc nhóm,Tự tin</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>87</strjo>
+  </appliedjob>
+</information>

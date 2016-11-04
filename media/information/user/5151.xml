@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5151</id>
+      <email>nhattienhua@gmail.com.vn</email>
+      <username/>
+      <name>Nhật Tiên Hứa</name>
+      <im>1199580440115085_nhat-tien-hua.jpg</im>
+      <gender>2</gender>
+      <dob>1994-1-25</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475759215</created>
+      <day>25</day>
+      <month>1</month>
+      <year>1994</year>
+      <phone>01246161293</phone>
+      <address/>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,17</category>
+      <type>4,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>5151</ui>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>371</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>335</strjo>
+  </savedjob>
+</information>

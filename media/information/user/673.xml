@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>673</id>
+      <email>Khanhnguyenn135@gmail.com</email>
+      <username/>
+      <name>Nguyễn Ngọc Khánh</name>
+      <im>673_fb-img-1470068735007.jpg</im>
+      <gender>1</gender>
+      <dob>1996-9-16</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470802260</created>
+      <day>16</day>
+      <month>9</month>
+      <year>1996</year>
+      <phone>0985981687</phone>
+      <address>201/60 Nguyễn Xí- Phường 26- Quận Bình Thạnh- TPHCM</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8125037</lat>
+      <lng>106.71024</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_127>
+      <id>127</id>
+      <title>Nhân viên pha chế/ thu ngân</title>
+      <level>1</level>
+      <cmpname>Topless Express</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_127>
+    <n_128>
+      <id>128</id>
+      <title>Nhân viên kỹ thuật</title>
+      <level>1</level>
+      <cmpname>Công ty Truyền thông KKC</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>2016</to>
+    </n_128>
+    <n_129>
+      <id>129</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Cafe Central Nguyen Hue</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2016</from>
+      <to>Nay</to>
+    </n_129>
+  </experience>
+  <education>
+    <n_92>
+      <id>92</id>
+      <school>Đại học Công Nghiệp TPHCM</school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy>Quản trị kinh doanh </fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_92>
+  </education>
+  <user_cv>
+    <db>
+      <ui>673</ui>
+      <title>Part times. Nhân viên phục vụ</title>
+      <experience>2</experience>
+      <category>14,15,16,20</category>
+      <type>2,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <skill>Giao tiếp tốt, có kỹ năng chăm sóc thuyết phục khách hàng, có khả năng làm việc nhóm tốt, tự tin, chịu được áp lực công việc.</skill>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Tập trung trong công việc,Tự tin,Chịu được áp lực công việc,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+</information>

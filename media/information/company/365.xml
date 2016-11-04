@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>365</id>
+    <ui>4211</ui>
+    <name>BiBim Restaurant</name>
+    <url>bibimrestaurant</url>
+    <im>_bibim-restaurant.jpg</im>
+    <im_banner>_bibim-restaurant-cover.jpg</im_banner>
+    <category>14,15,35</category>
+    <phone>+84 8 62905781</phone>
+    <address>31A Huynh Van Banh</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.795149</lat>
+    <lng>106.681602</lng>
+    <website>&lt;&lt;not-applicable&gt;&gt;</website>
+    <about/>
+    <facebook>https://www.facebook.com/bibimrestaurant/</facebook>
+    <facebook_cover/>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1475036416</created>
+  </db>
+  <more>
+    <about>Xin chào! &#13;
+Chúng tôi là BiBim!&#13;
+Rất hân hạnh được phục vụ quý khách!</about>
+    <whyworkus/>
+  </more>
+  <companybanner>_bibim-restaurant-cover.jpg</companybanner>
+  <totalJob>
+    <total>5</total>
+    <strji>357,358,359,360,361</strji>
+  </totalJob>
+</information>

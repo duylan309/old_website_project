@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5375</id>
+      <email>toannguyen0196@gmail.com</email>
+      <username/>
+      <name>Nguyễn Khánh Toàn</name>
+      <im>5375_13422318-596828723809676-8378097756351571008-o.jpg</im>
+      <gender>1</gender>
+      <phone>01259691996</phone>
+      <address>số 60, Đường số 3, KDC Trung Sơn</address>
+      <city>30</city>
+      <dob>1996-1-10</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475932650</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1475932650</last_signin>
+      <day>10</day>
+      <month>1</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.747924</lat>
+      <lng>106.7082074</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>5375</ui>
+      <title>Nhân viên pha chế/ Bartender</title>
+      <experience>3</experience>
+      <category>15,16,19,20,26,27,28</category>
+      <type>1,2,4,5,6</type>
+      <level>2,4</level>
+      <lang>vi,en</lang>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <about>Tôi là Nguyễn Khánh Toàn, sinh năm 1996. Hiện tôi đang làm việc tại Snob Cafe, 147A Trần Hưng Đạo, Quận 1 với vai trò là nhân viên Pha chế và bar trưởng, hỗ trợ quản lý quầy bar. Thông qua thue.today, tôi được biết công ty đang tìm ứng viên cho vị trí bartender, với kinh nghiệm của tôi trong nghề pha chế gần 4 năm qua, tôi tự tin có thể đảm nhận tốt vai trò này.</about>
+      <skill>Pha chế các loại cafe, sinh tố, nước ép&#13;
+Pha chế rượu &#13;
+Quản lý quầy bar&#13;
+Giao tiếp với khách&#13;
+Đào tạo dịch vụ&#13;
+</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <experience>
+    <n_1149>
+      <id>1149</id>
+      <title>Nhân viên Pha Chế</title>
+      <level>1</level>
+      <cmpname>Highland Coffee</cmpname>
+      <city>Hà Nội</city>
+      <country>Việt Nam</country>
+      <from>Tháng 6/ 2012</from>
+      <to>Tháng 12/2012</to>
+    </n_1149>
+    <n_1150>
+      <id>1150</id>
+      <title>Bartender</title>
+      <level>1</level>
+      <cmpname>Hair Of The Dog</cmpname>
+      <city>Hà Nội</city>
+      <country>Việt Nam</country>
+      <from>Tháng 1/2013</from>
+      <to>Tháng 5/2013</to>
+    </n_1150>
+    <n_1151>
+      <id>1151</id>
+      <title>Nhân viên Pha Chế</title>
+      <level>1</level>
+      <cmpname>Boo Cafe</cmpname>
+      <city>Hà Nội</city>
+      <country>Việt Nam</country>
+      <from>Tháng 8/2014</from>
+      <to>Tháng 4/2015</to>
+    </n_1151>
+    <n_1152>
+      <id>1152</id>
+      <title>Nhóm trưởng/ Nhân viên Pha Chế</title>
+      <level>1</level>
+      <cmpname>Vici Cafe</cmpname>
+      <city>Hà Nội</city>
+      <country>Việt Nam</country>
+      <from>Tháng 5/2015</from>
+      <to>Tháng 9/2015</to>
+    </n_1152>
+    <n_1153>
+      <id>1153</id>
+      <title>Bartender</title>
+      <level>1</level>
+      <cmpname>Sahara Beer Club</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>Tháng 12/2015</from>
+      <to>Tháng 4/ 2016</to>
+    </n_1153>
+    <n_1154>
+      <id>1154</id>
+      <title>Bar Trưởng/ Nhân viên Pha Chế</title>
+      <level>1</level>
+      <cmpname>Snob Cafe</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>Tháng 4/2016</from>
+      <to>Hiện tại</to>
+    </n_1154>
+  </experience>
+  <appliedjob>
+    <total>1</total>
+    <strjo>332</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6254</id>
+      <email>ngoc01698234234@gmail.com</email>
+      <username/>
+      <name>TRẦN DƯƠNG MINH NGỌC</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01698234234</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476454691</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>en</lang>
+      <skill/>
+      <ui>6254</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>427,361,408</strjo>
+  </appliedjob>
+</information>

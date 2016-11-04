@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>501</id>
+    <ui>7302</ui>
+    <ci>420</ci>
+    <ai>0</ai>
+    <ti>Nhân viên phục vụ</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>2</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>5000000</s1>
+    <s2>6000000</s2>
+    <s3>227</s3>
+    <s4>272</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description>- Set-up nhà hàng cho mỗi ca làm\r\n- Nhận order và phục vụ khách\r\n- Hoàn thành các công việc được giao trong ngày</description>
+    <requirement>- Giao tiếp tiếng Anh TỐT\r\n- Có kinh nghiệm phục vụ nhà hàng ít nhất 1 năm (không phải nhà hàng tiệc cưới)\r\n- Chăm chỉ, siêng năng, nhanh nhẹn và chịu học hỏi\r\n</requirement>
+    <workhour/>
+    <benefit>-  Cung cấp bãi đỗ xe.\r\n-  1 bữa cơm/ 1 ca làm\r\n- Tăng ca : x1.5\r\n- Làm vào các ngày lễ: lương x2\r\n- Làm vào dịp Tết ta: lương x3\r\n</benefit>
+    <keyword>Chịu được áp lực công việc,Tập trung trong công việc,Nhiệt tình,Tinh thần trách nhiệm,Tinh thần làm việc nhóm,Kỹ năng chăm sóc khách hàng</keyword>
+    <ad/>
+    <location_id>361</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-30</de>
+    <re>0000-00-00</re>
+    <cr>1477148696</cr>
+  </db>
+  <more>
+    <requirement>- Giao tiếp tiếng Anh TỐT&#13;
+- Có kinh nghiệm phục vụ nhà hàng ít nhất 1 năm (không phải nhà hàng tiệc cưới)&#13;
+- Chăm chỉ, siêng năng, nhanh nhẹn và chịu học hỏi&#13;
+</requirement>
+    <description>- Set-up nhà hàng cho mỗi ca làm&#13;
+- Nhận order và phục vụ khách&#13;
+- Hoàn thành các công việc được giao trong ngày</description>
+    <workhour>- Ca làm: 10.00-17.00 hoặc 17.00- 24.00&#13;
+</workhour>
+    <benefit>-  Cung cấp bãi đỗ xe.&#13;
+-  1 bữa cơm/ 1 ca làm&#13;
+- Tăng ca : x1.5&#13;
+- Làm vào các ngày lễ: lương x2&#13;
+- Làm vào dịp Tết ta: lương x3&#13;
+</benefit>
+    <keyword>Chịu được áp lực công việc,Tập trung trong công việc,Nhiệt tình,Tinh thần trách nhiệm,Tinh thần làm việc nhóm,Kỹ năng chăm sóc khách hàng</keyword>
+  </more>
+  <userapplied>
+    <total>2</total>
+    <strui>7257,7833</strui>
+  </userapplied>
+</information>

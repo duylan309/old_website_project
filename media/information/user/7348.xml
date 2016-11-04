@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7348</id>
+      <email>Giaole991198@gmail.com</email>
+      <username/>
+      <name>Lê Thị Huỳnh Giao</name>
+      <im>7348_image.jpeg</im>
+      <gender>2</gender>
+      <phone>01682048910</phone>
+      <address>78/32/31 phường 16 quận 4</address>
+      <city>30</city>
+      <dob>1998-10-10</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477198379</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>10</day>
+      <month>10</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7517341</lat>
+      <lng>106.6696084</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục vụ, phụ bếp</title>
+      <experience>7</experience>
+      <category>14,27,35</category>
+      <type>2</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill>Phục vụ nấu ăn dọn dẹp</skill>
+      <ui>7348</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Vui vẽ hoà đồng</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>193,294,188</strjo>
+  </appliedjob>
+  <savedjob/>
+</information>

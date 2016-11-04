@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7371</id>
+      <email>fishst98@gmail.com</email>
+      <username/>
+      <name>Đào Hứa Quỳnh Anh</name>
+      <im>2125909124301417_dao-hua-quynh-anh.jpg</im>
+      <gender>2</gender>
+      <dob>1998-10-9</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477211304</created>
+      <day>9</day>
+      <month>10</month>
+      <year>1998</year>
+      <last_signin>1477211304</last_signin>
+      <phone>01639039314</phone>
+      <address>1053 lê đức thọ phường 16 quận gò vấp</address>
+      <country>vn</country>
+      <city/>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>7371</ui>
+      <title>Nhân viên phục vụ  nhân viên bán hàng</title>
+      <experience>7</experience>
+      <category>15,17,27,28,31,35,36</category>
+      <type>2,5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>372</strjo>
+  </appliedjob>
+</information>

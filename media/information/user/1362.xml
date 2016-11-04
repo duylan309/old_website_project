@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1362</id>
+      <email>letu4496@gmail.com</email>
+      <username/>
+      <name>LÊ CẨM TÚ</name>
+      <im>1362_p-20160813-124249-bf.jpg</im>
+      <gender>2</gender>
+      <phone>01665852449</phone>
+      <address>303/16 LÊ ĐỨC THỌ P6 GÒ VẤP</address>
+      <city>30</city>
+      <dob>1996-9-22</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472177908</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>22</day>
+      <month>9</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8410378</lat>
+      <lng>106.6780598</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên</title>
+      <experience>2</experience>
+      <category>15,26,27,29,31,35</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>1362</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <keyword>Giao tiếp hiệu quả,Tinh thần trách nhiệm,Chịu được áp lực công việc,Trung thực</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>86,156,165,172</strjo>
+  </appliedjob>
+  <experience>
+    <n_305>
+      <id>305</id>
+      <title>giám sát nhân viên</title>
+      <level>1</level>
+      <cmpname>CT TNHH CÂY ĐÀO ĐỎ</cmpname>
+      <city>TPHCM</city>
+      <country>VIỆT NAM</country>
+      <from>5/2015</from>
+      <to>7/2016</to>
+    </n_305>
+  </experience>
+</information>

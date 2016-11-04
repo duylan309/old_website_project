@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3038</id>
+      <email>centella.180ceti@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thanh Hiển</name>
+      <im>1449501861732917_hien-sama.jpg</im>
+      <gender>1</gender>
+      <dob>1994-2-10</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474204425</created>
+      <day>10</day>
+      <month>2</month>
+      <year>1994</year>
+      <last_signin>1474204425</last_signin>
+      <phone>0902409511</phone>
+      <address>số 1 đường 54, P. binh trung dong, quan 2</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7911084</lat>
+      <lng>106.7782596</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_672>
+      <id>672</id>
+      <title>Nhan viên chỉnh sửa hình ảnh</title>
+      <level>1</level>
+      <cmpname>Inkess</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_672>
+  </experience>
+  <education>
+    <n_498>
+      <id>498</id>
+      <school>VTC Academy</school>
+      <degrees>Khá</degrees>
+      <fieldofstudy>Designer</fieldofstudy>
+      <from>2013</from>
+      <to>2015</to>
+    </n_498>
+  </education>
+  <user_cv>
+    <db>
+      <ui>3038</ui>
+      <title>Nhan vien bán hàng, thời trang, Designer (Photoshop) , Spa</title>
+      <experience>1</experience>
+      <category>17,26,29,30,35</category>
+      <type>1</type>
+      <level>2,3,4</level>
+      <lang>vi,en</lang>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <about>Yeu thích thời trang, nghệ thuật, ăn uống. Có trách nhiệm trong công việc, làm việc chăm chỉ, chịu khó học hỏi để bổ sung thêm kinh nghiệm phát triển cho bản thân. &#13;
+Mong muốn có một công việc yêu thích, tâm huyết với nghề mình chọn.</about>
+      <skill>biết photoshop, chỉnh sửa hình ảnh</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>302</strjo>
+  </appliedjob>
+</information>

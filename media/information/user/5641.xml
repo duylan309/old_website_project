@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5641</id>
+      <email>thuyminchu244@gmail.com</email>
+      <username/>
+      <name>Cù Thị Thanh Thủy</name>
+      <im>1088021397972283_thuy-minchu.jpg</im>
+      <gender>2</gender>
+      <dob>1995-10-1</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476116076</created>
+      <day>1</day>
+      <month>10</month>
+      <year>1995</year>
+      <last_signin>1476116076</last_signin>
+      <phone>01284491953</phone>
+      <address/>
+      <country>vn</country>
+      <city/>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1178>
+      <id>1178</id>
+      <title>Nhân Viên Phục Vụ</title>
+      <level>1</level>
+      <cmpname>Huy Việt Nam</cmpname>
+      <city>HỒ CHÍ MINH</city>
+      <country>VIỆT NAM</country>
+      <from>10/3/2016</from>
+      <to>10/5/2016</to>
+    </n_1178>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>5641</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>1</experience>
+      <category>17</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Mình là Thủy năm nay mình 21 tuổi. Trước đây mình từng học tại trường ĐH Văn Hóa TPHCM chuyên ngành Quản lí văn hóa- nghệ thuật nhưng sau đó do không tìm được hướng đi đúng nên mình đã bảo lưu kết quả sau khi hoàn thành chương trình học của năm 2. &#13;
+Mình là một người khá mạnh mẽ nhưng hơi rụt rè khi mới tiếp xúc. Mình tự tin ở khoản làm việc hết mình và nhiệt tình trong công việc. </about>
+      <skill>Trước đây mình từng làm phục vụ ở rất nhiều nơi nên mình biết cách chăm sóc và phục vụ cách hàng một cách tốt và tạm ổn nhất. &#13;
+Mình cũng học về nghệ thuật nên kĩ năng ăn nói của mình cũng gọi là tạm được.&#13;
+</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>176</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>176</strjo>
+  </savedjob>
+</information>

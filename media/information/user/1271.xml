@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1271</id>
+      <email>nnta.nguyen2105@yahoo.com.vn</email>
+      <username/>
+      <name>Nguyễn Ngọc Trâm Anh</name>
+      <im>1115168118553223_nguyen-ngoc-tram-anh.jpg</im>
+      <gender>2</gender>
+      <dob>1998-5-21</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472030029</created>
+      <day>21</day>
+      <month>5</month>
+      <year>1998</year>
+      <phone>0967392754</phone>
+      <address>19/9/37 nguyễn tuân, phường 3, Gò Vấp</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8166928</lat>
+      <lng>106.6823322</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng</title>
+      <experience>7</experience>
+      <category>29</category>
+      <type>2,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill></skill>
+      <ui>1271</ui>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>124</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3253</id>
+      <email>nguyethuong115@gmail.com</email>
+      <username/>
+      <name>Vũ Nguyệt Hương</name>
+      <im>1474457577_vu-nguyet-huong.png</im>
+      <gender>2</gender>
+      <phone>01649682896</phone>
+      <address>469 nơ trang long,phường 13,quận bình thạnh</address>
+      <city>30</city>
+      <dob>1997-5-11</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474457577</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>11</day>
+      <month>5</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8211993</lat>
+      <lng>106.7055494</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ,nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>15,17,18,26,29,35,36</category>
+      <type>4,5,6</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill>có khả năng giao tiếp tốt,nhanh nhẹn,trung thực,chịu khó học hỏi</skill>
+      <ui>3253</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>sinh viên năm hai trường đại học Ngoại Ngữ -Tin Học Thành phố Hồ Chí Minh</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>267,205,124,202</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>202</strjo>
+  </savedjob>
+</information>

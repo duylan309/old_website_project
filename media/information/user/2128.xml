@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2128</id>
+      <email>hong.cam131096@gmail.com</email>
+      <username/>
+      <name>Cẩm Ahri</name>
+      <im>983451231763568_cam-ahri.jpg</im>
+      <gender>2</gender>
+      <dob>1996-10-13</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473256149</created>
+      <day>13</day>
+      <month>10</month>
+      <year>1996</year>
+      <last_signin>1473256149</last_signin>
+      <phone>01644333065</phone>
+      <address>108/3 Vũ Tùng BÌnh Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.801847</lat>
+      <lng>106.701442</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>2128</ui>
+      <title>Bán shop quần áo, nhân viên phục vụ cà phê</title>
+      <experience>1</experience>
+      <category>15,35</category>
+      <type>2,4,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <about>Có thể giao tiếp tốt với mọi người xung quanh, hòa đồng, thân thiện, biết học hỏi và lắng nghe</about>
+      <skill></skill>
+      <keyword>Tập trung trong công việc,Tinh thần trách nhiệm,Nhiệt tình,Trung thực,Giao tiếp hiệu quả,Kỹ năng giải quyết tình huống</keyword>
+    </db>
+  </user_cv>
+</information>

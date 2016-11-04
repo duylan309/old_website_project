@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2982</id>
+      <email>Ngocanhh146@gmail.com</email>
+      <username/>
+      <name>Hồ Thị Ngọc Anh</name>
+      <im>1474130673_ho-thi-ngoc-anh.png</im>
+      <gender>0</gender>
+      <phone>01264993737</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474130673</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>35</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>2982</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>253</strjo>
+  </appliedjob>
+</information>

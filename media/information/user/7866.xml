@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7866</id>
+      <email>baotran.nguyenkim95@gmail.com</email>
+      <username/>
+      <name>Nguyễn Kim Bảo Trân</name>
+      <im>1477497075_nguyen-kim-bao-tran.png</im>
+      <gender>2</gender>
+      <phone>0982276539</phone>
+      <address/>
+      <city>30</city>
+      <dob>1995-2-27</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477497075</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>27</day>
+      <month>2</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Waitress</title>
+      <experience>1</experience>
+      <category>14,18,20</category>
+      <type>1,2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>7866</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>348,279</strjo>
+  </appliedjob>
+  <experience>
+    <n_1534>
+      <id>1534</id>
+      <title>Intern</title>
+      <level>1</level>
+      <cmpname>Equatorial Hotel - 5* Hotel</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Viet Nam</country>
+      <from>05/2014</from>
+      <to>09/2014</to>
+    </n_1534>
+    <n_1535>
+      <id>1535</id>
+      <title>Intern</title>
+      <level>1</level>
+      <cmpname>La Veranda Resort and Spa - 4* Resort of Accor</cmpname>
+      <city>Kien Giang</city>
+      <country>Viet Nam</country>
+      <from>05/2015</from>
+      <to>09/2015</to>
+    </n_1535>
+  </experience>
+  <education>
+    <n_1>
+      <id>1</id>
+      <school>Vatel International University</school>
+      <degrees>Bachelor's Degree</degrees>
+      <fieldofstudy>Hospitality</fieldofstudy>
+      <from>2013</from>
+      <to>2016</to>
+    </n_1>
+  </education>
+</information>

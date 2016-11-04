@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3302</id>
+      <email>truongduy.2205@gmail.com</email>
+      <username/>
+      <name>Lê Dương Trường Duy</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0981207097</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474518422</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên</title>
+      <experience>1</experience>
+      <category>15,16,35</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Giao tiếp tốt</skill>
+      <ui>3302</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>302</strjo>
+  </appliedjob>
+</information>

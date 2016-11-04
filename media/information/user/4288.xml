@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4288</id>
+      <email>Titiiuzk@gmail.com</email>
+      <username/>
+      <name>Lê phúc thọ</name>
+      <im>1475058391_le-phu-c-tho-.png</im>
+      <gender>1</gender>
+      <phone>0962009510</phone>
+      <address>465điện biên phủ ,p25, q.bình thạnh</address>
+      <city>30</city>
+      <dob>1996-9-20</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475058391</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>20</day>
+      <month>9</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8015778</lat>
+      <lng>106.7124981</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phụ bếp</title>
+      <experience>2</experience>
+      <category>14,18,20</category>
+      <type>5</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill>Ham học . Siêng năng.chịu áp lực với công việc cao. </skill>
+      <ui>4288</ui>
+      <s1>5</s1>
+      <salary>1</salary>
+      <about>Đã từng làm nhà hàng alfrescos 2năm&#13;
+Bằng chứng chỉ bếp&#13;
+Siêng năng, ham học, chịu áp lực với công viêc. Thích nấu ăn</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>153,114</strjo>
+  </appliedjob>
+  <experience>
+    <n_913>
+      <id>913</id>
+      <title>19-21 mạc đỉnh chi ,q.1 tp.hcm</title>
+      <level>1</level>
+      <cmpname>TNHH đức nhân</cmpname>
+      <city>Hồ chí minh</city>
+      <country>Việt nam</country>
+      <from>9/2014</from>
+      <to>9/2016</to>
+    </n_913>
+  </experience>
+  <education>
+    <n_699>
+      <id>699</id>
+      <school>Đào tạo bếp vàng</school>
+      <degrees>Chứng chỉ</degrees>
+      <fieldofstudy>Bếp trưởng điều hành</fieldofstudy>
+      <from>8/2014</from>
+      <to>2/2015</to>
+    </n_699>
+  </education>
+</information>

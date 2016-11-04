@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2627</id>
+      <email>tktimevip957@gmail.com</email>
+      <username/>
+      <name>Tran Kim Anh</name>
+      <im>1303260979685443_tran-kim-anh.jpg</im>
+      <gender>2</gender>
+      <dob>1994-5-10</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473739631</created>
+      <day>10</day>
+      <month>5</month>
+      <year>1994</year>
+      <phone>01219444565</phone>
+      <address>42/30 Hoàng Hoa Thám, quận Bình Thạnh, Tp.HCM</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục vụ theo ca</title>
+      <experience>7</experience>
+      <category>14,15,27</category>
+      <type>4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>- Kĩ năng đàm phán, giao tiếp hiệu quả.&#13;
+- Kỹ năng chăm sóc khách hàng.&#13;
+- Kỹ năng giải quyết vấn đề, chịu được áp lực cao.&#13;
+</skill>
+      <ui>2627</ui>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword>Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Chịu được áp lực công việc,Trung thực,Nhiệt tình,Tinh thần làm việc nhóm,Tinh thần trách nhiệm</keyword>
+    </db>
+  </user_cv>
+  <education>
+    <n_423>
+      <id>423</id>
+      <school>Đại học Kinh tế-Luật</school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy>Quản trị Kinh doanh</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_423>
+  </education>
+  <experience>
+    <n_592>
+      <id>592</id>
+      <title>Marrketing Internship</title>
+      <level>1</level>
+      <cmpname>San Miguel Pure Foods VN</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>10/2015</from>
+      <to>12/2015</to>
+    </n_592>
+  </experience>
+</information>

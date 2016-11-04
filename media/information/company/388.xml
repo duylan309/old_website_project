@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>388</id>
+    <ui>3628</ui>
+    <name>tiNiWorld</name>
+    <url>tiNiWorld</url>
+    <im>388_11538113-846134735473754-5125188900653156093-o.jpg</im>
+    <im_banner>_tiniworld-cover.jpg</im_banner>
+    <category>29,35</category>
+    <phone></phone>
+    <address>326 Võ Văn Kiệt, Cầu Ông Lãnh, Ho Chi Minh, Vietnam</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.7613009</lat>
+    <lng>106.6958134</lng>
+    <website>http://tiniworld.com</website>
+    <about/>
+    <facebook>https://www.facebook.com/tiNiWorld/</facebook>
+    <facebook_cover/>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1476087041</created>
+  </db>
+  <more>
+    <about> Giải đáp thắc mắc về dịch vụ: 0908 04 04 11\\r\\nGiải đáp thắc mắc về thẻ thành viên: 0909 84 33 11\\r\\nTuyển dụng: 0906 744 600 </about>
+    <whyworkus/>
+  </more>
+  <companybanner>_tiniworld-cover.jpg</companybanner>
+  <totalJob>
+    <total>3</total>
+    <strji>421,423,485</strji>
+  </totalJob>
+  <pagecmpfacebookcover>388_tiniworld.png</pagecmpfacebookcover>
+</information>

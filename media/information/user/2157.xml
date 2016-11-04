@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2157</id>
+      <email>tinanguyen1994@gmail.com</email>
+      <username/>
+      <name>Nguyễn Đức Ngọc Vân</name>
+      <im>1473259848_nguyen-duc-ngoc-van.jpg</im>
+      <gender>2</gender>
+      <phone>0918137110</phone>
+      <address/>
+      <city/>
+      <dob>1994-10-4</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473259847</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>4</day>
+      <month>10</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân Viên Phục Vụ</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>1</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>2157</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng giải quyết tình huống,Tinh thần trách nhiệm,Tập trung trong công việc,Nhiệt tình,Tinh thần làm việc nhóm,Tự tin</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>211,113,162,253</strjo>
+  </appliedjob>
+</information>

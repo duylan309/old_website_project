@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2746</id>
+      <email>hienhanna.hh@gmail.com</email>
+      <username/>
+      <name>Dương Thị Thu Hiền</name>
+      <im>1473851624_duong-thi-thu-hien.png</im>
+      <gender>2</gender>
+      <phone>0906898394</phone>
+      <address>15B/49 Lê Thánh Tôn. P.Bến Nghé. Q.1</address>
+      <city>30</city>
+      <dob>1994-2-5</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473851624</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>5</day>
+      <month>2</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.780012</lat>
+      <lng>106.705305</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>2</experience>
+      <category>14,29,31,36</category>
+      <type>2</type>
+      <level>1,2</level>
+      <lang>vi,ja</lang>
+      <skill>- Từng học ở Nhật 1 năm, có thể giao tiếp bằng tiếng Nhật&#13;
+- Có kinh nghiệm làm việc trong cửa hàng thức ăn nhanh&#13;
+</skill>
+      <ui>2746</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>219,262,211,265,252</strjo>
+  </appliedjob>
+</information>

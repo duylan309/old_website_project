@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2502</id>
+      <email>quynhnhuql@gmail.com</email>
+      <username/>
+      <name>Vũ Thị Quỳnh Như</name>
+      <im>2502_20160627-141346.jpg</im>
+      <gender>2</gender>
+      <phone>0938675569</phone>
+      <address>quận 4</address>
+      <city>30</city>
+      <dob>1994-9-17</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473594739</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1473594739</last_signin>
+      <day>17</day>
+      <month>9</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7578263</lat>
+      <lng>106.7012968</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_553>
+      <id>553</id>
+      <title>nhân viên lễ tân</title>
+      <level>1</level>
+      <cmpname>fit24</cmpname>
+      <city>Tp.HCM</city>
+      <country>Việt Nam</country>
+      <from>02/2016</from>
+      <to>08/2016</to>
+    </n_553>
+    <n_554>
+      <id>554</id>
+      <title>nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>Cezanne</cmpname>
+      <city>Tp .HCM</city>
+      <country>Việt Nam</country>
+      <from>10/2014</from>
+      <to>04/2015</to>
+    </n_554>
+    <n_555>
+      <id>555</id>
+      <title>nhân viên phục vụ, pha chế</title>
+      <level>1</level>
+      <cmpname>milano</cmpname>
+      <city>Tp.HCM</city>
+      <country>Việt Nam</country>
+      <from>05/2015</from>
+      <to>02/2016</to>
+    </n_555>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>2502</ui>
+      <title>nhân viên phục vụ, bán hàng, lễ tân....</title>
+      <experience>2</experience>
+      <category>15,17,29,31,35</category>
+      <type>2,5,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Hòa đồng, dễ thich nghi môi trường làm việc,có trách nhiệm....</about>
+      <skill/>
+      <keyword>Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Tinh thần trách nhiệm,Trung thực,Tự tin,Nhiệt tình,Chịu được áp lực công việc,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>222</strjo>
+  </appliedjob>
+</information>

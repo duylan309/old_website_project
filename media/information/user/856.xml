@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>856</id>
+      <email>maihien9295@gmail.com</email>
+      <username/>
+      <name>mai thị hiền</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01212157406</phone>
+      <address>581/56 trường chinh, tân phú</address>
+      <city>30</city>
+      <dob>1995-1-10</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471316021</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>10</day>
+      <month>1</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.809164</lat>
+      <lng>106.633067</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>pha chế, phục vụ</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>5,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill></skill>
+      <ui>856</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword>Tinh thần trách nhiệm,Tập trung trong công việc,Chịu được áp lực công việc,Nhiệt tình,Trung thực,Kỹ năng giải quyết tình huống</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>106</strjo>
+  </appliedjob>
+  <experience>
+    <n_196>
+      <id>196</id>
+      <title>nhân viên</title>
+      <level>1</level>
+      <cmpname>nhà hàng tokyo deli</cmpname>
+      <city>hồ chí minh</city>
+      <country>việt nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_196>
+  </experience>
+</information>

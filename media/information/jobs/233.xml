@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>233</id>
+    <ui>1833</ui>
+    <ci>305</ci>
+    <ai>0</ai>
+    <ti>NHÂN VIÊN PHỤ BẾP CA TỐI ( ƯU TIÊN XOAY CA)</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>3500000</s1>
+    <s2>4000000</s2>
+    <s3>159</s3>
+    <s4>181</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description>- Kiểm tra nguyên vật liệu trước &amp; sau khi dọn quán.\r\n- Lau dọn sạch sẽ khu vực làm việc phụ trách.\r\n- Chuẩn bị &amp; trang trí món ăn trước khi ra món.\r\n- Chú trọng phần trong lẫn phần ngoài của món.\r\n- Hỗ trợ Bếp chính chuẩn bị /nhận hàng thực phẩm cho ca làm\r\n- Làm việc theo ca sáng/chiều theo sự phân công của Quản lý (Nhà hàng mở cửa từ 8:00-22:00)</description>
+    <requirement>- Ky năng bếp Âu, Á, Hàn cơ bản\r\n- SẠCH SẼ\r\n- NHANH NHẸN\r\n- LÀM VIỆC NHÓM \r\n- ĐÃ QUA TRƯỜNG LỚP ĐÀO TẠO CƠ BẢN VỀ BẾP (KHÔNG CÓ KINH NGHIÊM SE ĐƯỢC ĐÀO TẠO)\r\n</requirement>
+    <benefit>- BAO CƠM (8 TIẾNG)\r\n- Có cơ hội thăng tiến cao nếu làm việc tốt;\r\n- Môi trường làm việc cạnh tranh, được tiếp xúc với nhiều mô hình kinh doanh khác nhau và học hỏi được nhiều kinh nghiệm thực tế.</benefit>
+    <keyword>Tinh thần làm việc nhóm,Tinh thần trách nhiệm,Trung thực,Nhiệt tình</keyword>
+    <ad/>
+    <location_id>134</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-03</de>
+    <re>0000-00-00</re>
+    <cr>1472986530</cr>
+  </db>
+  <more>
+    <requirement>- Ky năng bếp Âu, Á, Hàn cơ bản&#13;
+- SẠCH SẼ&#13;
+- NHANH NHẸN&#13;
+- LÀM VIỆC NHÓM &#13;
+- ĐÃ QUA TRƯỜNG LỚP ĐÀO TẠO CƠ BẢN VỀ BẾP (KHÔNG CÓ KINH NGHIÊM SE ĐƯỢC ĐÀO TẠO)&#13;
+</requirement>
+    <description>- Kiểm tra nguyên vật liệu trước &amp; sau khi dọn quán.&#13;
+- Lau dọn sạch sẽ khu vực làm việc phụ trách.&#13;
+- Chuẩn bị &amp; trang trí món ăn trước khi ra món.&#13;
+- Chú trọng phần trong lẫn phần ngoài của món.&#13;
+- Hỗ trợ Bếp chính chuẩn bị /nhận hàng thực phẩm cho ca làm&#13;
+- Làm việc theo ca sáng/chiều theo sự phân công của Quản lý (Nhà hàng mở cửa từ 8:00-22:00)</description>
+    <benefit>- BAO CƠM (8 TIẾNG)&#13;
+- Có cơ hội thăng tiến cao nếu làm việc tốt;&#13;
+- Môi trường làm việc cạnh tranh, được tiếp xúc với nhiều mô hình kinh doanh khác nhau và học hỏi được nhiều kinh nghiệm thực tế.</benefit>
+    <keyword>Tinh thần làm việc nhóm,Tinh thần trách nhiệm,Trung thực,Nhiệt tình</keyword>
+  </more>
+  <userapplied>
+    <total>4</total>
+    <strui>661,3129,3222,3472</strui>
+  </userapplied>
+</information>

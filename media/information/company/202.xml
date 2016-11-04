@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>202</id>
+    <ui>258</ui>
+    <name>Pizza Hut</name>
+    <url>pizzahutus</url>
+    <im>6053772414_pizza-hut.png</im>
+    <im_banner>6053772414_pizza-hut-cover.png</im_banner>
+    <category>14</category>
+    <phone></phone>
+    <address>6, Thi Sách, Quận 1</address>
+    <district>0</district>
+    <district_text_vi></district_text_vi>
+    <district_text_en></district_text_en>
+    <city>30</city>
+    <lat>42.953030</lat>
+    <lng>-87.949059</lng>
+    <website>http://www.pizzahut.com</website>
+    <about></about>
+    <facebook>https://www.facebook.com/pizzahutus/</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1467779904</created>
+  </db>
+  <more>
+    <about>Pizza Hut began with two brothers borrowing $600 from their mom to start a pizzeria. What started out small has now become the biggest pizza company in the world. And every step of the way, we’ve remained committed to making the best food and providing the highest level of service.&#13;
+&#13;
+We like coming up with great-tasting products and exciting promotions because, at Pizza Hut, we’ve always known that you are what’s most important. We know what you want and we’ve made it faster and easier to get it!&#13;
+&#13;
+•	Order online at www.pizzahut.com&#13;
+•	Order with your mobile phone or download one of our apps for iPhone, iPad,  Android or Windows Phone&#13;
+&#13;
+Great taste, easy ordering options and super service. Pizza Hut.</about>
+    <whyworkus></whyworkus>
+  </more>
+  <companybanner>6053772414_pizza-hut-cover.png</companybanner>
+</information>

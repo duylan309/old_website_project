@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3825</id>
+      <email>tramanh08041998@gmail.com</email>
+      <username/>
+      <name>Ngô Thị Trâm Anh</name>
+      <im>1474870405_ngo-thi-tram-anh.png</im>
+      <gender>2</gender>
+      <phone>0935290460</phone>
+      <address>số 153 đường 79 phường tân quy quận 7 tp hhcm</address>
+      <city>30</city>
+      <dob>1998-4-8</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474870405</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>8</day>
+      <month>4</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7335118</lat>
+      <lng>106.6974634</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phụ bếp</title>
+      <experience>7</experience>
+      <category>14</category>
+      <type>6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>năng động , có tinh thần trách nhiệm, nhanh nhẹn</skill>
+      <ui>3825</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>tôi tên là Ngô Thị Trâm Anh. tôi là sinh viên nghành ngôn ngữ anh trường Đại học Công nghệ  tp HCM. nếu dùng 3 từ để miêu tả con người tôi thì đó sẽ là trung thực, chăm chỉ và không ngại khó</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>276</strjo>
+  </appliedjob>
+  <education>
+    <n_628>
+      <id>628</id>
+      <school>đại học Công nghệ TP HCM</school>
+      <degrees/>
+      <fieldofstudy>ngôn ngữ anh</fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_628>
+  </education>
+  <experience>
+    <n_851>
+      <id>851</id>
+      <title>1 Phạm Viết Chánh, phường Nguyễn Cư Trinh, quận 1</title>
+      <level>1</level>
+      <cmpname>Phúc An Khang</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2016</from>
+      <to>2016</to>
+    </n_851>
+  </experience>
+</information>

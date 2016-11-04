@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4609</id>
+      <email>trangdai2810@gmail.com</email>
+      <username/>
+      <name>Lê Thị Đài Trang</name>
+      <im>1475344021_le-thi-dai-trang.png</im>
+      <gender>0</gender>
+      <phone>0996097025</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475344021</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Thợ bánh pizza</title>
+      <experience>7</experience>
+      <category>14</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>en,ja</lang>
+      <skill/>
+      <ui>4609</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>348</strjo>
+  </appliedjob>
+</information>

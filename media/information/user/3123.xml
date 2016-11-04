@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3123</id>
+      <email>little_prince2305@yahoo.com.vn</email>
+      <username/>
+      <name>Andrew Tran</name>
+      <im>1085715354869444_andrew-tran.jpg</im>
+      <gender>1</gender>
+      <dob>1993-5-23</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474302225</created>
+      <day>23</day>
+      <month>5</month>
+      <year>1993</year>
+      <phone>0985332017</phone>
+      <address>113/04/107 - Võ Duy Ninh -P.22 - Quận Bình Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.791512</lat>
+      <lng>106.716442</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>captain</title>
+      <experience>2</experience>
+      <category>14,15,20</category>
+      <type>1</type>
+      <level>2,4</level>
+      <lang>vi,en</lang>
+      <skill>Sales </skill>
+      <ui>3123</ui>
+      <s1>6500000</s1>
+      <salary>1</salary>
+      <about>Nhanh nhẹn, vui vẻ, hoạt bát&#13;
+Vui vẻ, thân thiện, năng động, hoạt bát.</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>264,340</strjo>
+  </appliedjob>
+  <education>
+    <n_939>
+      <id>939</id>
+      <school>Đại học Công Nghiệp Tp. HCM</school>
+      <degrees>Cao Đẳng</degrees>
+      <fieldofstudy>Quản trị Kinh Doanh</fieldofstudy>
+      <from>2011</from>
+      <to>2014</to>
+    </n_939>
+  </education>
+  <experience>
+    <n_1166>
+      <id>1166</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Khách sạn Intercontinental Asiana Saigon</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt nam</country>
+      <from>2013</from>
+      <to>2015</to>
+    </n_1166>
+    <n_1167>
+      <id>1167</id>
+      <title>Captain</title>
+      <level>1</level>
+      <cmpname>The Log Restaurant</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_1167>
+  </experience>
+</information>

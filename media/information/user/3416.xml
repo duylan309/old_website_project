@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3416</id>
+      <email>Hongnguyen1996@gmail.com</email>
+      <username/>
+      <name>Trần Thị Hồng Nguyên</name>
+      <im>1474611622_tran-thi-hong-nguyen.png</im>
+      <gender>2</gender>
+      <phone>01684709646</phone>
+      <address>75/1 Đinh Bộ Lĩnh, phường 26, quận Bình Thạnh</address>
+      <city>30</city>
+      <dob>1996-5-19</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474611622</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>19</day>
+      <month>5</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8123066</lat>
+      <lng>106.7091231</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, pha chế, trợ giảng</title>
+      <experience>1</experience>
+      <category>14,15,17,29,31,35</category>
+      <type>2,3,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill></skill>
+      <ui>3416</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Là 1 có tính tình vui vẻ, hoà đồng, thănrg thắn, thích học hỏi, là người hướng ngoại,.... &#13;
+Điểm yếu đôi khi nóng tính</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>298</strjo>
+  </appliedjob>
+  <experience>
+    <n_758>
+      <id>758</id>
+      <title>Nhân viên</title>
+      <level>1</level>
+      <cmpname>Hệ thống bán đồ ăn sáng 1p30s</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>Tháng 9/2015</from>
+      <to>Tháng 4/2016</to>
+    </n_758>
+    <n_759>
+      <id>759</id>
+      <title>Phục vụ</title>
+      <level>1</level>
+      <cmpname>Quán ăn 2 Tí</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>Tháng 7/2016</from>
+      <to>Tháng 9/2016</to>
+    </n_759>
+  </experience>
+</information>

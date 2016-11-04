@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>498</id>
+    <ui>7043</ui>
+    <ci>418</ci>
+    <ai>0</ai>
+    <ti>Cộng Tác Viên</ti>
+    <ta/>
+    <le>1</le>
+    <ty>6</ty>
+    <ex>7</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>500000</s1>
+    <s2>3000000</s2>
+    <s3>22</s3>
+    <s4>136</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>16</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description/>
+    <requirement/>
+    <workhour/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>354</location_id>
+    <lat>10.760969</lat>
+    <lng>10.760969</lng>
+    <de>2016-11-30</de>
+    <re>0000-00-00</re>
+    <cr>1477040839</cr>
+  </db>
+  <more>
+    <requirement>Có Facebook&#13;
+Biết cách đăng bài&#13;
+Có nhiều mối quan hệ&#13;
+Biết cách tư vấn&#13;
+</requirement>
+    <description>Bán vé cho các sự kiện âm nhạc hot</description>
+    <workhour>Không có giới hạn thời gian làm việc.</workhour>
+    <benefit>Hưởng hoa hồng cao&#13;
+Công ty có nhiều Show, Sự Kiện âm nhạc hàng tuần/tháng</benefit>
+    <keyword>Tập trung trong công việc,Tự tin,Tinh thần trách nhiệm,Kỹ năng giải quyết tình huống,Kỹ năng chăm sóc khách hàng</keyword>
+  </more>
+  <userapplied>
+    <total>14</total>
+    <strui>7088,7033,1753,7255,7301,7305,6049,7384,7455,7474,3022,7647,3334,7963</strui>
+  </userapplied>
+</information>

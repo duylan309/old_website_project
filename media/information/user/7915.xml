@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7915</id>
+      <email>trinhtuanh1996@gmail.com</email>
+      <username/>
+      <name>Trịnh Thị Tú Anh</name>
+      <im>1477539527_trinh-thi-tu-anh.png</im>
+      <gender>2</gender>
+      <phone>01227648597</phone>
+      <address>213/36/18 Lê Văn Khương - p.Hiệp Thành - q.12 </address>
+      <city>30</city>
+      <dob>1996-1-13</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477539527</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>13</day>
+      <month>1</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.9074077</lat>
+      <lng>106.6440508</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>15,17,27,31,35</category>
+      <type>5,6</type>
+      <level>2</level>
+      <lang>vi,en,ch</lang>
+      <skill/>
+      <ui>7915</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Mình hiện đang là sinh viên năm 3 trường ĐH KHXH&amp;NV ngành ngôn ngữ Trung Quốc. Với sự ham học hỏi và năng động nhiệt huyết sẵn có, mình tin tưởng bản thân sẽ là một sự lựa chọn tốt cho nhà tuyển dụng. </about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>434,518,158,504</strjo>
+  </appliedjob>
+  <savedjob/>
+  <education>
+    <n_1281>
+      <id>1281</id>
+      <school>ĐH KHXH&amp;NV ĐHQG TP.HCM</school>
+      <degrees/>
+      <fieldofstudy>Ngôn ngữ Trung Quốc</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_1281>
+  </education>
+</information>

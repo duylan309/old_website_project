@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3756</id>
+      <email>thienpham2730@gmail.com</email>
+      <username/>
+      <name>Phạm Trung Thiện</name>
+      <im>1838910556343492_thien-pham.jpg</im>
+      <gender>1</gender>
+      <dob>1996-3-27</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474813508</created>
+      <day>27</day>
+      <month>3</month>
+      <year>1996</year>
+      <last_signin>1474813508</last_signin>
+      <phone>0973670338</phone>
+      <address>373/21, Trần Xuân Soạn, Q.7</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.751593</lat>
+      <lng>106.698258</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_836>
+      <id>836</id>
+      <title>Waiting Staff</title>
+      <level>1</level>
+      <cmpname>Ha Noi Corner Restaurant</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>11/2014</from>
+      <to>6/2015</to>
+    </n_836>
+    <n_837>
+      <id>837</id>
+      <title>Salesman</title>
+      <level>1</level>
+      <cmpname>Bossmart</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>7/2015</from>
+      <to>9/2015</to>
+    </n_837>
+    <n_838>
+      <id>838</id>
+      <title>Waiting Staff</title>
+      <level>1</level>
+      <cmpname>The KAfe</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>10/2015</from>
+      <to>1/2016</to>
+    </n_838>
+    <n_839>
+      <id>839</id>
+      <title>Supervisor</title>
+      <level>1</level>
+      <cmpname>The KAfe</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>1/2016</from>
+      <to>5/2016</to>
+    </n_839>
+    <n_840>
+      <id>840</id>
+      <title>Marketing Intern</title>
+      <level>1</level>
+      <cmpname>GBO (Global Bookkeeping - Outsourcing)</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>6/2016</from>
+      <to>8/2016</to>
+    </n_840>
+  </experience>
+  <education>
+    <n_620>
+      <id>620</id>
+      <school>THPT Chuyên Thăng Long - Đà Lạt</school>
+      <degrees>Tốt nghiệp THPT</degrees>
+      <fieldofstudy>Anh Văn</fieldofstudy>
+      <from>2011</from>
+      <to>2014</to>
+    </n_620>
+    <n_621>
+      <id>621</id>
+      <school>Đại học Tài Chính - Marketing</school>
+      <degrees>Đại học chính quy</degrees>
+      <fieldofstudy>Marketing Tổng Hợp</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_621>
+  </education>
+  <user_cv>
+    <db>
+      <ui>3756</ui>
+      <title>Phục vụ, Pha chế, Bán hàng</title>
+      <experience>1</experience>
+      <category>14,15,17,29,35</category>
+      <type>2,5,6</type>
+      <level>2,4</level>
+      <lang>vi,en</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>Cầu tiến&#13;
+Biết nghe lời&#13;
+Chăm chỉ&#13;
+Ham học hỏi&#13;
+Tinh thần đồng đội cao&#13;
+Hòa đồng</about>
+      <skill>Thành thạo Tin học Văn Phòng (Excel, Word, Powerpoint)&#13;
+Anh ngữ (Thành thạo 4 kĩ năng Nghe - Nói - Đọc - Viết)&#13;
+Digital Marketing&#13;
+Traditional Marketing&#13;
+</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>201,294,348,332,156,140</strjo>
+  </appliedjob>
+</information>

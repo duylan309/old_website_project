@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5521</id>
+      <email>w4kent.alone@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thông</name>
+      <im>1629290120538851_nguyen-thong.jpg</im>
+      <gender>1</gender>
+      <dob>1995-6-10</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476043338</created>
+      <day>10</day>
+      <month>6</month>
+      <year>1995</year>
+      <phone>01228396133</phone>
+      <address>320/45 Đoàn Văn Bơ Phường 10 Quận 4</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.761113</lat>
+      <lng>106.706736</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>5521</ui>
+      <title>Phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,17,27,35</category>
+      <type>2</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>405</strjo>
+  </appliedjob>
+</information>

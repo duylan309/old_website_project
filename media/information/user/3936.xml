@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3936</id>
+      <email>tu.tran.kpc@gmail.com</email>
+      <username/>
+      <name>TRẦN ANH TÚ</name>
+      <im>1193978824007564_anh-tu-tran.jpg</im>
+      <gender>1</gender>
+      <dob>1993-4-1</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474894148</created>
+      <day>1</day>
+      <month>4</month>
+      <year>1993</year>
+      <phone>01694044700</phone>
+      <address>201/5 Lê Văn Việt, Quận 9</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8472329</lat>
+      <lng>106.776119</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>QUẢN LÝ HỆ THỐNG CỬA HÀNG</title>
+      <experience>2</experience>
+      <category>15,31</category>
+      <type>1</type>
+      <level>5</level>
+      <lang>vi</lang>
+      <skill>TEAM WORK, LEADING.</skill>
+      <ui>3936</ui>
+      <s1>15000000</s1>
+      <salary>1</salary>
+      <about>Là một người trẻ với nhiều hoài bão về sự nghiệp và mong muốn làm việc ở một môi trường năng động, hiện đại. Luôn tạo ra niềm vui cho mọi người xung quanh và kết nối mọi người lại với nhau. Bình tĩnh trước những biến cố xảy ra và xử lý khắc phục tốt nhất có thể. </about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>175</strjo>
+  </appliedjob>
+  <experience>
+    <n_865>
+      <id>865</id>
+      <title>SALES EXECUTIVE</title>
+      <level>1</level>
+      <cmpname>FRIESLANDCAMPINA VIETNAM</cmpname>
+      <city>HỒ CHÍ MINH</city>
+      <country>VIỆT NAM</country>
+      <from>06/2015</from>
+      <to>NAY</to>
+    </n_865>
+  </experience>
+  <education>
+    <n_642>
+      <id>642</id>
+      <school>ĐẠI HỌC SƯ PHẠM KỸ THUẬT THÀNH PHỐ HỒ CHÍ MINH</school>
+      <degrees>CỬ NHÂN </degrees>
+      <fieldofstudy>QUẢN LÝ CÔNG NGHIỆP</fieldofstudy>
+      <from>9/2011</from>
+      <to>9/2015</to>
+    </n_642>
+  </education>
+</information>

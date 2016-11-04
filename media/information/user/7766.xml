@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7766</id>
+      <email>hyonotmn@gmail.com</email>
+      <username/>
+      <name>Ngoc Tong</name>
+      <im>1717899701862583_ngoc-tong.jpg</im>
+      <gender>2</gender>
+      <dob>1991-4-1</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477451226</created>
+      <day>1</day>
+      <month>4</month>
+      <year>1991</year>
+      <phone>0901010491</phone>
+      <address>861 Trần xuân Soạn, Quận 7,  HCMc</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.750915</lat>
+      <lng>106.701191</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>7766</ui>
+      <title>Receptionist</title>
+      <experience>2</experience>
+      <category>14,18,19,26,28</category>
+      <type>1,2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>409</strjo>
+  </appliedjob>
+</information>

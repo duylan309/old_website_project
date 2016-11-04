@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4260</id>
+      <email>danghamy12a10@gmail.com</email>
+      <username/>
+      <name>Đặng Hà My</name>
+      <im>1475048729_da-ng-ha-my.png</im>
+      <gender>0</gender>
+      <phone>0937203263</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475048729</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Guest service</title>
+      <experience>7</experience>
+      <category>14,36</category>
+      <type>1,2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>- I can cook well Vietnamese dishes and some of Thai food.&#13;
+- Sociable, cheerful, honest, responsible.&#13;
+- Good at teamwork, communicate, and quick-response</skill>
+      <ui>4260</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>318</strjo>
+  </appliedjob>
+</information>

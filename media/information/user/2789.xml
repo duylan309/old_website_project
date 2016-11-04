@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2789</id>
+      <email>thanhhangg9981@gmail.com</email>
+      <username/>
+      <name>Đinh Hoàng Thanh Hằng</name>
+      <im>1473928483_dinh-hoang-thanh-hang.png</im>
+      <gender>2</gender>
+      <phone>01265438806</phone>
+      <address>Q.Thủ Đức</address>
+      <city>30</city>
+      <dob>1998-2-26</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473928483</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>26</day>
+      <month>2</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,17,35</category>
+      <type>2,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Bán hàng, phục vụ khách hàng, tiếp khách hàng.&#13;
+Biết quan sát, tiếp thu, học hỏi để trao dồi và cải thiện công việc.&#13;
+</skill>
+      <ui>2789</ui>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <about>Hiện tại tôi là sinh viên khoa ngoại ngữ của Đại học Công nghiệp Thành phố Hồ Chí Minh.&#13;
+Tôi là một người cởi mở, hòa đồng với mọi người, siêng năng và luôn sẵn sàng làm hết mình để hoàn thành công việc của mình.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>8</total>
+    <strjo>247,262,202,79,158,162,219,165</strjo>
+  </appliedjob>
+  <experience>
+    <n_632>
+      <id>632</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>Balo Đẹp Giá Rẻ</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>7-7-2016</from>
+      <to>7-9-2016</to>
+    </n_632>
+  </experience>
+  <education>
+    <n_456>
+      <id>456</id>
+      <school>Đai học Công Nghiệp Thành Phố Hồ Chí Minh</school>
+      <degrees/>
+      <fieldofstudy>Ngôn Ngữ Anh</fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_456>
+  </education>
+</information>

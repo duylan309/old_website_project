@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6571</id>
+      <email>maituanvu2703@yahoo.com.vn</email>
+      <username/>
+      <name>Mai Trần Tuấn Vũ</name>
+      <im>1307153252636864_mai-tran-tuan-vu.jpg</im>
+      <gender>1</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476693358</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phụ bếp</title>
+      <experience>1</experience>
+      <category>20,31</category>
+      <type>4</type>
+      <level>1,2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>6571</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>459</strjo>
+  </appliedjob>
+</information>

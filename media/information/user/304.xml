@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>304</id>
+      <email>diemquynh2408@gmail.com</email>
+      <username/>
+      <name>Lê Thị Diễm Quỳnh</name>
+      <im>1131978746841339_le-thi-diem-quynh.jpg</im>
+      <gender>2</gender>
+      <dob>1994-8-24</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1468889054</created>
+      <day>24</day>
+      <month>8</month>
+      <year>1994</year>
+      <phone>01678069198</phone>
+      <address>33/6, KP4, Hiệp Bình Chánh, Quận Thủ Đức. TP. Hồ Chí MInh</address>
+      <country>vn</country>
+      <city/>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>304</ui>
+      <title>Phục vụ, pha chế, chăm sóc khách hàng</title>
+      <experience>1</experience>
+      <category>14,15,17,20</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <skill>•	Luôn cẩn thận và khéo léo, nắm bắt nhanh các kiến thức mới trong công việc&#13;
+•	Có khả năng thích ứng cao với môi trường làm việc mới&#13;
+•	Khả năng giao tiếp tốt, hòa đồng với mọi người xung quanh&#13;
+•	Thích học hỏi để phát huy được năng lực bản thân&#13;
+•	Kiên nhẫn và có trách nhiệm cao với công việc được giao&#13;
+•	Có khả năng nắm bắt tâm lý khách hàng&#13;
+•	Chứng chỉ Tin học A&#13;
+</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>120</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3648</id>
+      <email>smile_5995@yahoo.com</email>
+      <username/>
+      <name>Bội Nghi</name>
+      <im>1106803246056065_boi-nghi.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474733303</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>14,17,18,20,26,27,29,30,35,36</category>
+      <type>2,6</type>
+      <level>1,2</level>
+      <lang>vi,en,ch</lang>
+      <skill>- Sử dụng thành thạo mạng xã hội&#13;
+- Có kỹ năng giao tiếp&#13;
+</skill>
+      <ui>3648</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>156</strjo>
+  </appliedjob>
+  <experience>
+    <n_813>
+      <id>813</id>
+      <title>Waitress</title>
+      <level>1</level>
+      <cmpname>Wedding Coffee</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>9/2014</from>
+      <to>2/2015</to>
+    </n_813>
+    <n_814>
+      <id>814</id>
+      <title>Customer Service</title>
+      <level>1</level>
+      <cmpname>Aroma Box - The Mini Spa</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>12/2015</from>
+      <to>6/2016</to>
+    </n_814>
+    <n_815>
+      <id>815</id>
+      <title>Bán hàng onilne</title>
+      <level>1</level>
+      <cmpname>Facebook</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2/2015</from>
+      <to>Hiện tại</to>
+    </n_815>
+  </experience>
+  <education>
+    <n_598>
+      <id>598</id>
+      <school>Đại học Công Nghệ TPHCM</school>
+      <degrees>Sinh viên năm tư</degrees>
+      <fieldofstudy>Quản trị nhà hàng và dịch vụ ăn uống</fieldofstudy>
+      <from>9/2013</from>
+      <to>9/2018</to>
+    </n_598>
+  </education>
+</information>

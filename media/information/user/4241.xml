@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4241</id>
+      <email>dieuthithi18@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Thanh Diệu</name>
+      <im>620319818146857_thanh-dieu.jpg</im>
+      <gender>2</gender>
+      <dob>1998-1-22</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475041934</created>
+      <day>22</day>
+      <month>1</month>
+      <year>1998</year>
+      <last_signin>1475041934</last_signin>
+      <phone>01698545619</phone>
+      <address>209 trần xuân soạn, quận 7 hcm</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.750373</lat>
+      <lng>106.698053</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_683>
+      <id>683</id>
+      <school>dh tài chính marketing </school>
+      <degrees/>
+      <fieldofstudy>Qtkd</fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_683>
+  </education>
+  <user_cv>
+    <db>
+      <ui>4241</ui>
+      <title>nhân viên, Phục vụ nữ, ctv,</title>
+      <experience>7</experience>
+      <category>14,15,17,27,31,35</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Hiền, lễ phép,nhanh nhẹn, ham học hỏi và chịu khó</about>
+      <skill>Dùng máy tính,  giao tiếp,...</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

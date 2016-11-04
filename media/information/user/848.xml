@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>848</id>
+      <email>bichtram169.mis@gmail.com</email>
+      <username/>
+      <name>Lê Ngọc Bích Trâm</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01696065624</phone>
+      <address>8/1 TA14, p Thạnh Xuân, Q12</address>
+      <city>30</city>
+      <dob>1993-9-16</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471274422</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>16</day>
+      <month>9</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Marketing Nhà hàng khách sạn</title>
+      <experience>1</experience>
+      <category>14,15,36</category>
+      <type>1,6</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <skill>Tiếng Anh giao tiếp khá&#13;
+Kỹ năng tổ chức khá tốt&#13;
+Thành thạo Office và một số phần mềm văn phòng&#13;
+Sử dụng tốt Photoshop&#13;
+Biết về pha chế căn bản</skill>
+      <ui>848</ui>
+      <s1>5500000</s1>
+      <salary>1</salary>
+      <keyword/>
+      <about/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>99,251,220</strjo>
+  </appliedjob>
+  <experience>
+    <n_190>
+      <id>190</id>
+      <title>Nhân viên Marketing</title>
+      <level>1</level>
+      <cmpname>Công ty ATFV</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>03/2015</from>
+      <to>06/2015</to>
+    </n_190>
+    <n_191>
+      <id>191</id>
+      <title>Trợ lý giám đốc</title>
+      <level>1</level>
+      <cmpname>Công ty TNHH XD TM DV Kiều Gia</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>06/2015</from>
+      <to>nay</to>
+    </n_191>
+    <n_519>
+      <id>519</id>
+      <title>Cộng tác viên quản trị và SEO web</title>
+      <level>1</level>
+      <cmpname>Đại Dũng Solution</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Vietnam</country>
+      <from>Tháng 5/2016</from>
+      <to>nay</to>
+    </n_519>
+  </experience>
+  <education>
+    <n_131>
+      <id>131</id>
+      <school>Đại học Ngân hàng Tp.HCM</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Quản lý hệ thống thông tin</fieldofstudy>
+      <from>09/2011</from>
+      <to>04/2016</to>
+    </n_131>
+  </education>
+</information>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2274</id>
+      <email>phambinh_97@yahoo.com</email>
+      <username/>
+      <name>Phạm Bình</name>
+      <im>1157740634296390_pham-binh.jpg</im>
+      <gender>1</gender>
+      <dob>1997-1-11</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473345271</created>
+      <day>11</day>
+      <month>1</month>
+      <year>1997</year>
+      <phone>0941702701</phone>
+      <address>376/2A1 Chu Văn An, Bình Thạnh, TP.HCM</address>
+      <country>vn</country>
+      <city></city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>35</category>
+      <type>2,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Vui vẻ, hòa đồng, chịu khó</skill>
+      <ui>2274</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>219</strjo>
+  </appliedjob>
+</information>

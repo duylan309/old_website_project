@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1410</id>
+      <email>ngocanhphan2511@gmail.com</email>
+      <username/>
+      <name>Phan Ngọc Anh</name>
+      <im>1410_4cd25a00-f6e1-4902-8367-590e34abbfc2.jpg</im>
+      <gender>0</gender>
+      <phone>0902593106</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472261639</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên văn phòng</title>
+      <experience>7</experience>
+      <category>20</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>1410</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>95</strjo>
+  </appliedjob>
+</information>

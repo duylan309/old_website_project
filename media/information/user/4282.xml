@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4282</id>
+      <email>linhchiluc@gmail.com</email>
+      <username/>
+      <name>Lục Y Bình</name>
+      <im>1147608171994508_linh-chi-luc.jpg</im>
+      <gender>2</gender>
+      <dob>1992-10-5</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475055667</created>
+      <day>5</day>
+      <month>10</month>
+      <year>1992</year>
+      <phone>01677450029</phone>
+      <address>98,17,Gò Vấp</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8319663</lat>
+      <lng>106.6638596</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng</title>
+      <experience>4</experience>
+      <category>14,15,29,35</category>
+      <type>1,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>biết pha chế</skill>
+      <ui>4282</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>253</strjo>
+  </appliedjob>
+</information>

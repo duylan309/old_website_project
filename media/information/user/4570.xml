@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4570</id>
+      <email>tranthihonggiau@gmail.com</email>
+      <username/>
+      <name>Trần Thị Hồng Giàu</name>
+      <im>1475307071_tran-thi-hong-giau.png</im>
+      <gender>2</gender>
+      <phone>0908036850</phone>
+      <address>159/74/16 Trần Văn Đang P.11 Q.3</address>
+      <city>30</city>
+      <dob>1994-4-16</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475307071</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>16</day>
+      <month>4</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.785623</lat>
+      <lng>106.6734029</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>công việc hành chánh văn phòng</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>kế toán, thu ngân</skill>
+      <ui>4570</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>có tinh thần học hỏi và cầu tiến trong công việc, có tinh thần trách nhiệm, cố gắng hoàn thành công việc được giao một cách tốt nhất</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>147,323</strjo>
+  </appliedjob>
+  <experience>
+    <n_970>
+      <id>970</id>
+      <title>kế toán, thu ngân</title>
+      <level>1</level>
+      <cmpname>tiệm ăn Kim Sanh</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>Tháng 11/2015</from>
+      <to>Tháng 08/2016</to>
+    </n_970>
+  </experience>
+</information>

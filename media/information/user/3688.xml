@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3688</id>
+      <email>nhockbich2008@hotmail.com</email>
+      <username/>
+      <name>Bích Hà</name>
+      <im>1772172903040543_bich-ha.jpg</im>
+      <gender>2</gender>
+      <dob>1996-8-20</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474773566</created>
+      <day>20</day>
+      <month>8</month>
+      <year>1996</year>
+      <last_signin>1474773566</last_signin>
+      <phone>01654446714</phone>
+      <address>984/15 QL1a khu phố 3 linh trung thủ đức</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8610937</lat>
+      <lng>106.7694355</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>3688</ui>
+      <title>nhân viên phục vụ, tạp vụ</title>
+      <experience>7</experience>
+      <category>14,15,17,29,31</category>
+      <type>1,2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about></about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>179</strjo>
+  </appliedjob>
+  <education>
+    <n_738>
+      <id>738</id>
+      <school>Đại học khoa học tự nhiên tphcm</school>
+      <degrees/>
+      <fieldofstudy>sinh học</fieldofstudy>
+      <from>2014</from>
+      <to>2016</to>
+    </n_738>
+  </education>
+  <experience>
+    <n_947>
+      <id>947</id>
+      <title>nhân viên</title>
+      <level>1</level>
+      <cmpname>kem yogen fruz</cmpname>
+      <city>tphcm</city>
+      <country>việt nam</country>
+      <from>tháng 8/2016</from>
+      <to>nay</to>
+    </n_947>
+  </experience>
+</information>

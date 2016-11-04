@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5583</id>
+      <email>girlxjnh_kokan_boyvjp18@yahoo.com.vn</email>
+      <username/>
+      <name>trần kim pha</name>
+      <im>1476093951_tran-kim-pha.png</im>
+      <gender>2</gender>
+      <phone>0128 613 0800</phone>
+      <address>44/28 đường số 17, p11, gò vấp</address>
+      <city>30</city>
+      <dob>1998-4-20</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476093951</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>20</day>
+      <month>4</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8321703</lat>
+      <lng>106.6638981</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>35</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>kĩ năng giao tiếp </skill>
+      <ui>5583</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Tôi là sinh viên năm nhất của cao đẳng du lịch sài gòn, là một người yêu thích muốn khám phá nhiều điều thú vị từ bên ngoài, ham học hỏi để tích lũy kiến thức vì thế tôi luôn cố gắng từng ngày để đạt được ước mơ mình mong muốn.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>219,427</strjo>
+  </appliedjob>
+  <education>
+    <n_941>
+      <id>941</id>
+      <school>cao đẳng nghề du lịch sài gòn</school>
+      <degrees>tot nghiep THPT</degrees>
+      <fieldofstudy>HDVDL</fieldofstudy>
+      <from>2016</from>
+      <to>2018</to>
+    </n_941>
+  </education>
+</information>

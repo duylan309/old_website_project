@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6380</id>
+      <email>phuchuynh.hunglong@gmail.com</email>
+      <username/>
+      <name>Huỳnh Văn Phúc</name>
+      <im>1476530069_huynh-van-phuc.png</im>
+      <gender>1</gender>
+      <phone>01684780732</phone>
+      <address>117 Trần Hưng Đạo, quận 1</address>
+      <city>30</city>
+      <dob>1993-2-7</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476530069</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>7</day>
+      <month>2</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.766491</lat>
+      <lng>106.692316</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>trainee cook</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Em có khả năng giao tiếp tốt, thân thiện, hòa đồng, có khả năng chịu được sức ép công việc lớn. Có thể giao tiếp được tiếng anh, nhưng còn hạn chế.&#13;
+&#13;
+</skill>
+      <ui>6380</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Em tên Huỳnh Văn Phúc, sinh năm 1993, quê ở Tây Ninh, đã tốt nghiệp trường cao đẳng công Thương Tp. HCM. Em có hơn 2 năm kinh nghiệm làm phục vụ ở quán bar Apocalypse now ( số 2 Thi sách, quận 1), khoảng 6 tháng làm phụ bếp ở nhà hàng Allezboo (Phạm Ngũ Lão). Rất mong được sự quan tâm của ban Quan lý. Xin cảm ơn.</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>206</strjo>
+  </appliedjob>
+  <experience>
+    <n_1287>
+      <id>1287</id>
+      <title>phục vụ</title>
+      <level>1</level>
+      <cmpname>Apocalypse now</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>4/2014</from>
+      <to>3/2016</to>
+    </n_1287>
+    <n_1288>
+      <id>1288</id>
+      <title>phụ bếp</title>
+      <level>1</level>
+      <cmpname>Allezboo</cmpname>
+      <city>TP Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>4/2016</from>
+      <to>10/2016</to>
+    </n_1288>
+  </experience>
+  <education>
+    <n_1056>
+      <id>1056</id>
+      <school>cao đẳng công thương thành phô Hồ Chí Minh</school>
+      <degrees>cao đẳng</degrees>
+      <fieldofstudy>quản trị kinh doanh</fieldofstudy>
+      <from>2012</from>
+      <to>2015</to>
+    </n_1056>
+  </education>
+</information>

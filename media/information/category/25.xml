@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>25</id>
+    <uid>125</uid>
+    <im/>
+    <ti_en>Contact us</ti_en>
+    <ti_vi>Liên hệ</ti_vi>
+    <url>contact</url>
+    <link/>
+    <opp>1</opp>
+    <pa>1</pa>
+    <ism>0</ism>
+    <ct/>
+    <so>0</so>
+    <nv>0</nv>
+    <st>2</st>
+  </db>
+  <more>
+    <description>
+      <vi>&lt;div class="single-page m-t-15"&gt;&#13;
+&lt;div class="row"&gt;&#13;
+&lt;div class="col-sm-3"&gt;&#13;
+&lt;div class="block cmp-more no-m-top"&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;&lt;a href="/page/about-us"&gt;Giới thiệu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/page/employer"&gt;Bảng gi&amp;aacute;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/page/privacy-policy"&gt;Ch&amp;iacute;nh s&amp;aacute;ch bảo mật&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/page/terms-of-use"&gt;Điều khoản sử dụng&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="active" href="#"&gt;Li&amp;ecirc;n hệ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;div class="col-sm-9"&gt;&#13;
+&lt;div class="cmp-more no-m-top"&gt;&#13;
+&lt;h1 class="t-s-21 text-color1 text-bold no-margin"&gt;Li&amp;ecirc;n hệ&lt;/h1&gt;&#13;
+&lt;article class="m-t-15"&gt;&#13;
+&lt;p&gt;&#13;
+&lt;script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&amp;amp;render=explicit" async="" defer="defer"&gt;&lt;/script&gt;&#13;
+&lt;/p&gt;&#13;
+&lt;div class="u-contact" data-copy-template="" data-view-template=".u-contact" data-template-id="entryPopupContactWebsite"&gt;&amp;nbsp;&lt;/div&gt;&#13;
+&lt;p&gt;&#13;
+&lt;script type="text/javascript"&gt;// &lt;![CDATA[&#13;
+var verifyCallback = function(response) {&#13;
+            $('.boxcaptcha').attr('checked','checked');&#13;
+          };&#13;
+         &#13;
+          var onloadCallback = function() {&#13;
+            grecaptcha.render('captcha', {&#13;
+              'sitekey' : '6LfHDSATAAAAAEz0Kx-Dc79pluY2Hb2W1huWPBQ-',&#13;
+              'callback' : verifyCallback,&#13;
+            });&#13;
+          };&#13;
+// ]]&gt;&lt;/script&gt;&#13;
+&lt;/p&gt;&#13;
+&lt;/article&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;</vi>
+      <en>&lt;div class="single-page m-t-15"&gt;&#13;
+&lt;div class="row"&gt;&#13;
+&lt;div class="col-sm-3"&gt;&#13;
+&lt;div class="block cmp-more no-m-top"&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;&lt;a href="/page/about-us"&gt;About us&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;li&gt;&lt;a href="/page/employer"&gt;Pricing&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;li&gt;&lt;a href="/page/privacy-policy"&gt;Privacy Policy&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;li&gt;&lt;a href="/page/terms-of-use"&gt;Terms of Use&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;li&gt;&lt;a class="active" href="#"&gt;Contact us&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;div class="col-sm-9"&gt;&#13;
+&lt;div class="cmp-more no-m-top"&gt;&#13;
+&lt;h1 class="t-s-21 text-color1 text-bold no-margin"&gt;Contact us&lt;/h1&gt;&#13;
+&lt;article class="m-t-15"&gt;&#13;
+&lt;p&gt;&#13;
+&lt;script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&amp;amp;render=explicit" async="" defer="defer"&gt;&lt;/script&gt;&#13;
+&lt;/p&gt;&#13;
+&lt;div class="u-contact" data-copy-template="" data-view-template=".u-contact" data-template-id="entryPopupContactWebsite"&gt;&amp;nbsp;&lt;/div&gt;&#13;
+&lt;p&gt;&#13;
+&lt;script type="text/javascript"&gt;// &lt;![CDATA[&#13;
+var verifyCallback = function(response) {&#13;
+            $('.boxcaptcha').attr('checked','checked');&#13;
+          };&#13;
+         &#13;
+          var onloadCallback = function() {&#13;
+            grecaptcha.render('captcha', {&#13;
+              'sitekey' : '6LfHDSATAAAAAEz0Kx-Dc79pluY2Hb2W1huWPBQ-',&#13;
+              'callback' : verifyCallback,&#13;
+            });&#13;
+          };&#13;
+// ]]&gt;&lt;/script&gt;&#13;
+&lt;/p&gt;&#13;
+&lt;/article&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;</en>
+    </description>
+  </more>
+</information>

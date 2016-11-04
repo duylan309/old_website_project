@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2201</id>
+      <email>thuytnt1810@gmail.com</email>
+      <username/>
+      <name>Trương Ngọc Thuỷ</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0905252810</phone>
+      <address>1438 Phạm Thế Hiển, P.5, Q.8, TPHCM</address>
+      <city>30</city>
+      <dob>1985-10-18</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473303976</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1473303976</last_signin>
+      <day>18</day>
+      <month>10</month>
+      <year>1985</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7764745</lat>
+      <lng>106.7008831</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_480>
+      <id>480</id>
+      <title>Nhân viên Bếp (rau &amp; salad)</title>
+      <level>1</level>
+      <cmpname>Nhà Hàng Chauteau</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>02/2016</from>
+      <to>03/2016</to>
+    </n_480>
+    <n_481>
+      <id>481</id>
+      <title>Bếp Chính</title>
+      <level>1</level>
+      <cmpname>Nhà Hàng Hoàng Yến</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>04/2016</from>
+      <to>08/2016</to>
+    </n_481>
+  </experience>
+  <education>
+    <n_345>
+      <id>345</id>
+      <school>Trường Trung Cấp du lịch và khách sạn SaiGonTourist </school>
+      <degrees>Chứng chỉ nghề 6 tháng</degrees>
+      <fieldofstudy>Bếp Âu</fieldofstudy>
+      <from>04/2015</from>
+      <to>09/2015</to>
+    </n_345>
+  </education>
+  <user_cv>
+    <db>
+      <ui>2201</ui>
+      <title>Nhân viên bếp</title>
+      <experience>1</experience>
+      <category>14,20</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <about>- Yêu nghề Bếp, đủ sức khỏe, chăm chỉ và luôn cố gắng trong công việc để cầu tiến.</about>
+      <skill/>
+      <keyword>Trung thực,Chịu được áp lực công việc</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>200,153,114,187</strjo>
+  </appliedjob>
+</information>

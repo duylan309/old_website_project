@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3401</id>
+      <email>rollyangel1990@gmail.com</email>
+      <username/>
+      <name>Võ Thành Hương Thảo</name>
+      <im>1474601181_vo-thanh-huong-thao.png</im>
+      <gender>0</gender>
+      <phone>0938671408</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474601181</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>17</category>
+      <type>6</type>
+      <level>2</level>
+      <lang>en</lang>
+      <skill>- Tư vấn, bán hàng&#13;
+- Chăm sóc khách hàng&#13;
+- Giai quyết khiếu nại của khách</skill>
+      <ui>3401</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>124</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4608</id>
+      <email>But.ndt5074@sinhvien.hoasen.edu.vn</email>
+      <username/>
+      <name>Nguyễn Đình Thiên Bút</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0932631826</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475343934</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên</title>
+      <experience>1</experience>
+      <category>17,35</category>
+      <type>2,4,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>4608</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>219,205,367,333,344,124</strjo>
+  </appliedjob>
+  <savedjob/>
+</information>

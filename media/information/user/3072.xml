@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3072</id>
+      <email>thanhtung9104@gmail.com</email>
+      <username/>
+      <name>Dương Nguyễn Thanh Tùng</name>
+      <im>3072_img-4402.JPG</im>
+      <gender>1</gender>
+      <dob>1991-4-4</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474247824</created>
+      <day>4</day>
+      <month>4</month>
+      <year>1991</year>
+      <phone>0938384491</phone>
+      <address>129-131 đường 08, phường 04, quận 08</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phụ Bếp</title>
+      <experience>1</experience>
+      <category>14,15,18,20,29</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>- Chịu được áp lực và cường độ cao trong công việc;  &#13;
+- Có tinh thần tập thể và trách nhiệm cao;  &#13;
+- Nhiệt tình và có trách nhiệm cao đối với công việc;  </skill>
+      <ui>3072</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Em mới tốt nghiệp hệ Trung Cấp khoa Quản Trị Khách Sạn! Trước đó em đã làm banquet bên Park royal saigon từ 2014 - 2015, thực tập sinh ở InterContinental Asiana Saigon từ 3/2016 - 5/2016 và hiện tại em đang làm freelancer Ahamove!</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>276,277,153</strjo>
+  </appliedjob>
+  <education>
+    <n_507>
+      <id>507</id>
+      <school>Trung Cấp Mai Linh</school>
+      <degrees>Trung Cấp Chính Quy</degrees>
+      <fieldofstudy>Quản trị khách sạn</fieldofstudy>
+      <from>2013</from>
+      <to>2016</to>
+    </n_507>
+  </education>
+  <savedjob>
+    <total>1</total>
+    <strjo>277</strjo>
+  </savedjob>
+  <experience>
+    <n_681>
+      <id>681</id>
+      <title>Trainee</title>
+      <level>1</level>
+      <cmpname>InterContinental Asiana Saigon</cmpname>
+      <city>Hồ chí minh</city>
+      <country>Việt nam</country>
+      <from>3/2016</from>
+      <to>5/2016</to>
+    </n_681>
+    <n_682>
+      <id>682</id>
+      <title>Freelancer</title>
+      <level>1</level>
+      <cmpname>AhaMove</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>7/2016</from>
+      <to>Vẫn đang làm</to>
+    </n_682>
+    <n_683>
+      <id>683</id>
+      <title>Banquet</title>
+      <level>1</level>
+      <cmpname>Park Royal Saigon</cmpname>
+      <city>Hồ Chí minh</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>2015</to>
+    </n_683>
+  </experience>
+</information>

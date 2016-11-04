@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4213</id>
+      <email>Ha.luu1995@gmail.com</email>
+      <username/>
+      <name>Lưu thị thu hà</name>
+      <im>1475037297_luu-thi-thu-ha.png</im>
+      <gender>2</gender>
+      <phone>0905123125</phone>
+      <address>166 hoàng hoa thám phường 12 quận tân bình</address>
+      <city>30</city>
+      <dob>1995-7-3</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475037296</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>3</day>
+      <month>7</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.807111</lat>
+      <lng>106.648176</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng</title>
+      <experience>7</experience>
+      <category>15,35</category>
+      <type>4</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>4213</ui>
+      <s1>3000</s1>
+      <salary>1</salary>
+      <about>Là người nhiệt tình hoà đồng và hơi kĩ tính</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>322,165,124,408,64</strjo>
+  </appliedjob>
+  <savedjob/>
+</information>

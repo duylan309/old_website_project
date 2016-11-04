@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>371</id>
+    <ui>4652</ui>
+    <ci>370</ci>
+    <ai>0</ai>
+    <ti>Phục vụ nữ</ti>
+    <ta/>
+    <le>2</le>
+    <ty>2,4,5</ty>
+    <ex>1,7</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description>- Nhân viên phục vụ tại quán được training để có thể làm việc tại nhiều khâu như : nhận order, pha chế, phục vụ. Từ đó nhân viên làm trong từng ca sẽ thay phiên nhau để làm các công việc như trên.\r\n- Công việc tương đối đơn giản, nhưng cần sự siêng năng &amp; chịu khó học hỏi. \r\n</description>
+    <requirement>- Luôn linh hoạt trong mọi công việc, chịu khó, gắn bó lâu dài\r\n- Trung thực, nhanh nhẹn, nhiệt tình, thân thiện vui vẻ, giao tiếp tốt\r\n- Năng động, có gu thẩm mỹ là một lợi thế\r\n</requirement>
+    <benefit>- Có chế độ thưởng theo doanh thu, phụ cấp, và tiền tips.\r\n- Đối với nhân viên gắn bó lâu dài, sẽ có chế độ ưu tiên đặc biệt</benefit>
+    <keyword>Tập trung trong công việc,Tinh thần làm việc nhóm,Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Tinh thần trách nhiệm,Trung thực,Nhiệt tình,Kỹ năng giải quyết tình huống</keyword>
+    <ad/>
+    <location_id>254</location_id>
+    <lat>10.775350</lat>
+    <lng>10.775350</lng>
+    <de>2016-11-01</de>
+    <re>0000-00-00</re>
+    <cr>1475394699</cr>
+  </db>
+  <more>
+    <requirement>- Luôn linh hoạt trong mọi công việc, chịu khó, gắn bó lâu dài&#13;
+- Trung thực, nhanh nhẹn, nhiệt tình, thân thiện vui vẻ, giao tiếp tốt&#13;
+- Năng động, có gu thẩm mỹ là một lợi thế&#13;
+</requirement>
+    <description>- Nhân viên phục vụ tại quán được training để có thể làm việc tại nhiều khâu như : nhận order, pha chế, phục vụ. Từ đó nhân viên làm trong từng ca sẽ thay phiên nhau để làm các công việc như trên.&#13;
+- Công việc tương đối đơn giản, nhưng cần sự siêng năng &amp; chịu khó học hỏi. &#13;
+</description>
+    <benefit>- Có chế độ thưởng theo doanh thu, phụ cấp, và tiền tips.&#13;
+- Đối với nhân viên gắn bó lâu dài, sẽ có chế độ ưu tiên đặc biệt</benefit>
+    <keyword>Tập trung trong công việc,Tinh thần làm việc nhóm,Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Tinh thần trách nhiệm,Trung thực,Nhiệt tình,Kỹ năng giải quyết tình huống</keyword>
+  </more>
+  <userapplied>
+    <total>135</total>
+    <strui>4656,2163,4679,3572,2795,4125,940,4727,4746,4130,4764,4766,4777,4797,292,4474,4827,4708,4691,3332,4833,5005,4793,5017,5031,5039,425,5085,5089,5101,2476,5142,5151,4753,5179,372,5205,5255,3775,4853,5302,5163,5314,4730,5319,5334,4150,5356,5384,5388,2783,5466,5447,5501,5387,5548,5429,5638,3798,5660,5663,1315,5728,5696,5787,5811,5829,5868,5741,3022,5950,5949,5964,877,4340,6013,4364,6056,6059,6072,6076,3141,6212,6244,6309,6360,6049,350,6584,6586,6596,3268,6686,6551,3120,6399,6834,2510,6945,6279,2159,7046,6778,6993,6359,7131,7134,7278,573,7310,7331,3652,7397,5107,7468,7503,7109,7530,7542,3286,5869,7658,3293,7270,3538,7382,2968,7832,7851,7849,5633,7988,7792,8012,8072</strui>
+  </userapplied>
+</information>

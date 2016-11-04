@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5495</id>
+      <email>monica.nguyen1407@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thiện Hồng Ân</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0963456658</phone>
+      <address>195/15/18 Điện BiênPhủ, P15, Q.Bình Thạnh</address>
+      <city>30</city>
+      <dob>1996-7-14</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476018743</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476018743</last_signin>
+      <day>14</day>
+      <month>7</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8012696</lat>
+      <lng>106.7125158</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_917>
+      <id>917</id>
+      <school/>
+      <degrees>Tốt nghiệp THPT loại Giỏi</degrees>
+      <fieldofstudy/>
+      <from>2012</from>
+      <to>2014</to>
+    </n_917>
+  </education>
+  <user_cv>
+    <db>
+      <ui>5495</ui>
+      <title>Nhân viên pha chế</title>
+      <experience>7</experience>
+      <category>15,16,19,26,29,30,36</category>
+      <type>1,2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Từng phục vụ bán thời gian coffee shop&#13;
+Trợ giảng cho trung tâm Tiếng Anh&#13;
+</about>
+      <skill>Kỹ năng giao tiếp&#13;
+&#13;
+</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

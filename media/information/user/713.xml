@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>713</id>
+      <email>hungthinh1001@icluod.com</email>
+      <username/>
+      <name>Trương Hùng Thịnh</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0909648521</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470915466</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>pha chế</title>
+      <experience>1</experience>
+      <category>16</category>
+      <type>4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>pha chế các loại thức uống có cồn và không cồn.kỹ năng tốt.hoà đồng vui vẻ</skill>
+      <ui>713</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>119</strjo>
+  </appliedjob>
+</information>

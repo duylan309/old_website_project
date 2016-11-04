@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3652</id>
+      <email>lengocmynhu@gmail.com</email>
+      <username/>
+      <name>Lê Ngọc Mỹ Như</name>
+      <im>3652_image.jpeg</im>
+      <gender>2</gender>
+      <phone>01208881414</phone>
+      <address>112ct Tam Đảo p.15 q.10</address>
+      <city>30</city>
+      <dob>1997-1-14</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474735572</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>14</day>
+      <month>1</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.781485</lat>
+      <lng>106.6658209</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ </title>
+      <experience>1</experience>
+      <category>14,15</category>
+      <type>2,3,4,6</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill>Em đã học qua 1 khóa Pha chế cơ bản. </skill>
+      <ui>3652</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>27</total>
+    <strjo>294,293,163,279,165,199,201,84,162,278,69,353,222,100,126,427,435,247,371,470,202,449,219,478,330,323,525</strjo>
+  </appliedjob>
+  <experience>
+    <n_880>
+      <id>880</id>
+      <title>Phục vụ</title>
+      <level>1</level>
+      <cmpname>Pizza for good</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>01/09/2016</from>
+      <to>30/09/2016</to>
+    </n_880>
+  </experience>
+  <education>
+    <n_665>
+      <id>665</id>
+      <school>ĐH Công nghiệp Thực Phẩm</school>
+      <degrees/>
+      <fieldofstudy>Kĩ thuật Môi trường</fieldofstudy>
+      <from>2015</from>
+      <to>2018</to>
+    </n_665>
+  </education>
+  <savedjob>
+    <total>1</total>
+    <strjo>279</strjo>
+  </savedjob>
+</information>

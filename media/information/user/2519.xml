@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2519</id>
+      <email>peiu_2797@yahoo.com.vn</email>
+      <username/>
+      <name>Cà Rốt</name>
+      <im>608109632701500_ca-rot.jpg</im>
+      <gender>2</gender>
+      <dob>1997-10-17</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473609198</created>
+      <day>17</day>
+      <month>10</month>
+      <year>1997</year>
+      <phone>01663612404</phone>
+      <address>01, Đỗ Xuân Hợp, quận 2</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.822816</lat>
+      <lng>106.770521</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,27,29,31</category>
+      <type>5,6</type>
+      <level>2</level>
+      <lang>vi,ja</lang>
+      <skill>Ham học hỏi, có thể sáng tạo mọi lúc mọi nơi</skill>
+      <ui>2519</ui>
+      <s1>15000</s1>
+      <salary>1</salary>
+      <about>Sẽ cố gắng để làm tốt công việc mà bản thân đã đặt ra. Có tinh thần trách nhiệm và năng nổ, hoạt bát.</about>
+      <keyword>Trung thực,Nhiệt tình,Tinh thần làm việc nhóm,Tập trung trong công việc,Tinh thần trách nhiệm,Chịu được áp lực công việc</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>172</strjo>
+  </appliedjob>
+</information>

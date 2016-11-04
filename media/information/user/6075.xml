@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6075</id>
+      <email>trucmai7799@gmail.com</email>
+      <username/>
+      <name>Nguyen Thi Truc Mai</name>
+      <im>1476366116_nguyen-thi-truc-mai.png</im>
+      <gender>0</gender>
+      <phone>01634236546</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476366116</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Waitress</title>
+      <experience>1</experience>
+      <category>14,18,20</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>I can speak France but basic communicate</skill>
+      <ui>6075</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>279,337</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2980</id>
+      <email>sweet.silbibis@yahoo.com.vn</email>
+      <username/>
+      <name>Ho Ngoc Anh</name>
+      <im>669647003190942_ho-ngoc-anh.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474130279</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>2980</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>251</strjo>
+  </appliedjob>
+</information>

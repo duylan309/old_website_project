@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5868</id>
+      <email>nthngan1304@gamil.com</email>
+      <username/>
+      <name>nguyễn thị hồng ngân</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0969455803</phone>
+      <address>quốc lộ 13 qyuaan bình thanh</address>
+      <city>30</city>
+      <dob>1997-4-13</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476240100</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>13</day>
+      <month>4</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8125318</lat>
+      <lng>106.7125623</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>phuc vu</title>
+      <experience>1</experience>
+      <category>14,15,29,35</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>lam viec nhóm</skill>
+      <ui>5868</ui>
+      <s1>16</s1>
+      <salary>1</salary>
+      <about>thích du lịch vs mua sắm,tham học hỏi đặc biệt là để trao dồi kỹ năng,tiếng anh</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>7</total>
+    <strjo>234,364,105,165,402,222,371</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>165</strjo>
+  </savedjob>
+</information>

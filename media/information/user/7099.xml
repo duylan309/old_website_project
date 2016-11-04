@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7099</id>
+      <email>vintangeyds94@gmail.com</email>
+      <username/>
+      <name>Duyên Phạm</name>
+      <im>1766851116903346_duyen-pt.jpg</im>
+      <gender>2</gender>
+      <dob>1994-10-30</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477059332</created>
+      <day>30</day>
+      <month>10</month>
+      <year>1994</year>
+      <last_signin>1477059332</last_signin>
+      <phone>0946335164</phone>
+      <address>18A/24 Nguyễn Thị Minh Khai, quận 1</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.784559</lat>
+      <lng>106.699468</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>7099</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>2,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Hiện tại đang là sinh viên. Muốn tìm 1 công việc giúp kiếm thêm thu nhập, phát triển bản thân hơn nữa</about>
+      <skill>Khả năng giao tiếp tốt, chăm chỉ, chịu khó, chịu được áp lực cao</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>293</strjo>
+  </appliedjob>
+</information>

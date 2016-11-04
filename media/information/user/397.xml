@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>397</id>
+      <email>maithithuytrang0107@gmail.com</email>
+      <username/>
+      <name>Mai Thị Thuỳ Trang</name>
+      <im>1678134302508129_chan-chan.jpg</im>
+      <gender>2</gender>
+      <dob>1997-7-1</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470037736</created>
+      <day>1</day>
+      <month>7</month>
+      <year>1997</year>
+      <phone>01227770704</phone>
+      <address>10 đường số 9, kp4 phương Tam Bình,  quận Thủ Đức</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8317372</lat>
+      <lng>106.7115476</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>397</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>2,4,5,6</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <s1>1</s1>
+      <salary>1</salary>
+      <skill>Giao tiếp tốt, tự tin,  tinh thần trách nhiệm,  ham học hỏi,  cầu tiến. </skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>87</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>69</strjo>
+  </savedjob>
+</information>

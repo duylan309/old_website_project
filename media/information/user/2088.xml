@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2088</id>
+      <email>hoaihongnguyenngoc@gmail.com</email>
+      <username/>
+      <name>Metsign</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0936601631</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1473235751</created>
+      <dayleft>1478419751</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1473235751</last_signin>
+      <jobleft>4</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>1</total>
+    <strji>252</strji>
+  </totalJob>
+  <saveuser>
+    <total>31</total>
+    <strui>1960,2163,1773,2250,2382,2467,2515,2550,2578,2159,2332,2733,2780,2746,2972,3017,3067,1315,3141,3642,2577,3834,4207,4150,4408,3819,4532,4562,940,4632,4727</strui>
+  </saveuser>
+</information>

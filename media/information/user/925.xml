@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>925</id>
+      <email>pe_kute_love_nhox_way22@yahoo.com</email>
+      <username/>
+      <name>TRƯƠNG THỊ HỒNG VY</name>
+      <im>925_image.png</im>
+      <gender>2</gender>
+      <dob>1994-12-2</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471437415</created>
+      <day>2</day>
+      <month>12</month>
+      <year>1994</year>
+      <phone>01626499256</phone>
+      <address>25/49/15/8 Nguyễn Minh Châu ,p.Phú Trung ,q.Tân Phú </address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.783332</lat>
+      <lng>106.640855</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_215>
+      <id>215</id>
+      <title>Nhân viên thu ngân</title>
+      <level>1</level>
+      <cmpname>Siêu thị Lotte mart Cộng Hoà</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam </country>
+      <from>2/2016</from>
+      <to>8/2016</to>
+    </n_215>
+    <n_216>
+      <id>216</id>
+      <title>Nhân viên pha chế</title>
+      <level>1</level>
+      <cmpname>coffee words</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam </country>
+      <from>12/2014</from>
+      <to>2/2015</to>
+    </n_216>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>925</ui>
+      <title>Nhân viên pha chế ,nhân viên bán hàng ,nhân viên thu ngân</title>
+      <experience>1</experience>
+      <category>15,26,29,31,35</category>
+      <type>1,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3700000</s1>
+      <salary>1</salary>
+      <skill>Ca hát ,pha chế </skill>
+      <keyword>Kỹ năng chăm sóc khách hàng,Tinh thần trách nhiệm,Tập trung trong công việc,Trung thực,Tự tin,Nhiệt tình,Giao tiếp hiệu quả,Tinh thần làm việc nhóm,Kỹ năng giải quyết tình huống</keyword>
+    </db>
+  </user_cv>
+</information>

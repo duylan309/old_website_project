@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>387</id>
+      <email>phuongquynh217@gmail.com</email>
+      <username/>
+      <name>Nguyễn Phương Quỳnh</name>
+      <im>10205514169851961_shin-empty.jpg</im>
+      <gender>2</gender>
+      <dob>1993-7-21</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470011802</created>
+      <day>21</day>
+      <month>7</month>
+      <year>1993</year>
+      <phone>0988606546</phone>
+      <address>2,Lê Đức Thọ,Gò Vấp,HCM</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8311562</lat>
+      <lng>106.6828942</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_36>
+      <id>36</id>
+      <school>Đại Học kinh doanh và công nghệ Hà Nội</school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy>Quản trị Kinh doanh</fieldofstudy>
+      <from>2011</from>
+      <to>2015</to>
+    </n_36>
+  </education>
+  <experience>
+    <n_48>
+      <id>48</id>
+      <title>Cửa hàng trưởng</title>
+      <level>1</level>
+      <cmpname>Boo cafe</cmpname>
+      <city>Hà Nội</city>
+      <country>Việt Nam</country>
+      <from>8/2011</from>
+      <to>3/2012</to>
+    </n_48>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>387</ui>
+      <title>Pha chế</title>
+      <experience>1</experience>
+      <category>14,15,27</category>
+      <type>1</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Chịu được áp lực công việc,Tập trung trong công việc,Tinh thần trách nhiệm,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>119,106,111,201</strjo>
+  </appliedjob>
+</information>

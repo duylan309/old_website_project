@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>656</id>
+      <email>thuytructran2004@gmail.com</email>
+      <username/>
+      <name>Trần Lê Thuỷ Trúc</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0907161222</phone>
+      <address> 203, chung cư lý thường kiệt, phường 7, quận 11</address>
+      <city>30</city>
+      <dob>1998-4-20</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470755325</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>20</day>
+      <month>4</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7740048</lat>
+      <lng>106.6571079</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>656</ui>
+      <title>Nhân viên phục vụ, Pha chế, Phụ bếp</title>
+      <experience>7</experience>
+      <category>14,15,17,20,27,30,35</category>
+      <type>2,4,5,6</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <skill>Trình độ tiếng đức B1</skill>
+      <keyword>Nhiệt tình,Giao tiếp hiệu quả,Tinh thần trách nhiệm,Chịu được áp lực công việc,Trung thực,Tập trung trong công việc,Tự tin</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>9</total>
+    <strjo>120,112,125,104,100,130,82,150,84</strjo>
+  </appliedjob>
+  <savedjob/>
+</information>

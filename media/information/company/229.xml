@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>229</id>
+    <ui>323</ui>
+    <name>Thecoffeehouse</name>
+    <url>thecoffeehouse.cz</url>
+    <im>385792601568939_thecoffeehouse.png</im>
+    <im_banner>385792601568939_thecoffeehouse-cover.jpg</im_banner>
+    <category>15</category>
+    <phone>+420 702 123 0</phone>
+    <address>T.G.Masaryka 136</address>
+    <district>0</district>
+    <district_text_vi></district_text_vi>
+    <district_text_en></district_text_en>
+    <city>30</city>
+    <lat>49.236122</lat>
+    <lng>13.523075</lng>
+    <website>http://www.thecoffeehouse.cz</website>
+    <about></about>
+    <facebook>https://www.facebook.com/thecoffeehouse.cz/</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1469021077</created>
+  </db>
+  <more>
+    <about>Nabízíme kvalitní regionální praženou kávu,&#13;
+kterou si můžete u nás  příjemně vychutnat nebo si jí vzít s sebou. &#13;
+&#13;
+&#13;
+                                  </about>
+    <whyworkus></whyworkus>
+  </more>
+  <companybanner>385792601568939_thecoffeehouse-cover.jpg</companybanner>
+</information>

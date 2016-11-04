@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3089</id>
+      <email>Albanphi@gmail.com</email>
+      <username/>
+      <name>La Bodega</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01207573288</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1474265136</created>
+      <dayleft>1476857136</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1474265136</last_signin>
+      <jobleft>4</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>1</total>
+    <strji>300</strji>
+  </totalJob>
+</information>

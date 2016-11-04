@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4669</id>
+      <email>nhoxhero_love_em@yahoo.com.vn</email>
+      <username/>
+      <name>Nguyễn Hoàng An</name>
+      <im>976412022503976_an-takizawa.jpg</im>
+      <gender>1</gender>
+      <dob>1997-8-9</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475404216</created>
+      <day>9</day>
+      <month>8</month>
+      <year>1997</year>
+      <last_signin>1475404216</last_signin>
+      <phone>0931811573</phone>
+      <address>1/36/22 Trần Bình Trọng P.5 Q.Bình Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.811693</lat>
+      <lng>106.689174</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>4669</ui>
+      <title>Nhân viên pha chế cà phê</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <experience>
+    <n_986>
+      <id>986</id>
+      <title>Pha Chế</title>
+      <level>1</level>
+      <cmpname>Gong Cha</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>9/2015</from>
+      <to>5/2016</to>
+    </n_986>
+  </experience>
+  <education>
+    <n_775>
+      <id>775</id>
+      <school>Cao đẳng Tôn Đức Thắng</school>
+      <degrees/>
+      <fieldofstudy>Công nghệ thông tin</fieldofstudy>
+      <from>2015</from>
+      <to>2018</to>
+    </n_775>
+  </education>
+  <appliedjob>
+    <total>2</total>
+    <strjo>106,105</strjo>
+  </appliedjob>
+</information>

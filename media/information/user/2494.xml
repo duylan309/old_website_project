@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2494</id>
+      <email>ngochasaito22@gmail.com</email>
+      <username/>
+      <name>Đinh Thị Ngọc Hà</name>
+      <im>1473589232_dinh-thi-ngoc-ha.png</im>
+      <gender>2</gender>
+      <phone>0908070923</phone>
+      <address></address>
+      <city></city>
+      <dob>1991-10-29</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473589232</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>29</day>
+      <month>10</month>
+      <year>1991</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha Chế</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>thật thà ,chịu khó , sạch sẽ .....</skill>
+      <ui>2494</ui>
+      <s1>4</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>243</strjo>
+  </appliedjob>
+</information>

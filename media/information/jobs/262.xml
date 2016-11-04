@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>262</id>
+    <ui>2235</ui>
+    <ci>321</ci>
+    <ai>0</ai>
+    <ti>nhân viên bán hàng</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1,2,4</ty>
+    <ex>7</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>2000000</s1>
+    <s2>4500000</s2>
+    <s3>90</s3>
+    <s4>204</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>17</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description>Cửa Hàng Big Burger nhu cầu tuyển :\r\n1.Nhân viên làm việc tại cửa hàng \r\nCa 1 :6h sáng_11h trưa(tháng nghỉ 4 ngày) lương thử việc 2 tr/th (5h)\r\nCa 2 :6h sáng_14h trưa(tháng nghỉ 4 ngày) lương thử việc 2,7tr/th (8h)\r\nCa3:14h-15h(tháng nghỉ 4 ngày)lương thử việc 2tr/th(5h)\r\nCa4:19h-23h(tháng nghỉ 4 ngày)lương thử việc 2tr/th(4h)\r\nMô tả công việc: \r\nNhân viên phục vụ thức ăn nhanh Fast Food (Food &amp; Bevergage)\r\nThao tác chuẩn bị món ăn.\r\nGhi nhận order của khách hàng;\r\nGiữ vệ sinh chung nơi làm việc;\r\nChuẩn bị bàn ghế phục vụ khách;\r\nGợi ý những món khuyến mãi đến khách hàng;\r\nLàm việc theo chỉ đạo của quản lý.\r\n</description>
+    <requirement>năng động, nhiệt tình.</requirement>
+    <benefit>Có phụ cấp và chế độ cho người làm việc ổn định lâu dài.</benefit>
+    <keyword>fast food,Giao tiếp hiệu quả,Tinh thần trách nhiệm</keyword>
+    <ad/>
+    <location_id>156</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-07</de>
+    <re>0000-00-00</re>
+    <cr>1473795924</cr>
+  </db>
+  <more>
+    <requirement>năng động, nhiệt tình.</requirement>
+    <description>Cửa Hàng Big Burger nhu cầu tuyển :&#13;
+1.Nhân viên làm việc tại cửa hàng &#13;
+Ca 1 :6h sáng_11h trưa(tháng nghỉ 4 ngày) lương thử việc 2 tr/th (5h)&#13;
+Ca 2 :6h sáng_14h trưa(tháng nghỉ 4 ngày) lương thử việc 2,7tr/th (8h)&#13;
+Ca3:14h-15h(tháng nghỉ 4 ngày)lương thử việc 2tr/th(5h)&#13;
+Ca4:19h-23h(tháng nghỉ 4 ngày)lương thử việc 2tr/th(4h)&#13;
+Mô tả công việc: &#13;
+Nhân viên phục vụ thức ăn nhanh Fast Food (Food &amp; Bevergage)&#13;
+Thao tác chuẩn bị món ăn.&#13;
+Ghi nhận order của khách hàng;&#13;
+Giữ vệ sinh chung nơi làm việc;&#13;
+Chuẩn bị bàn ghế phục vụ khách;&#13;
+Gợi ý những món khuyến mãi đến khách hàng;&#13;
+Làm việc theo chỉ đạo của quản lý.&#13;
+</description>
+    <benefit>Có phụ cấp và chế độ cho người làm việc ổn định lâu dài.</benefit>
+    <keyword>fast food,Giao tiếp hiệu quả,Tinh thần trách nhiệm</keyword>
+  </more>
+  <userapplied>
+    <total>122</total>
+    <strui>2250,2271,2335,2332,1480,2424,2459,2481,2525,2567,2591,2703,2723,2746,1814,2789,292,2958,3025,3058,3063,3067,3121,3425,3444,3453,3494,3523,3572,3320,2480,3356,3761,3773,3784,3803,3811,3900,2262,4119,4123,4174,4261,4310,4150,4389,4396,4595,4593,4685,4125,4708,4718,4948,5003,1023,4833,5073,5101,425,5136,4900,5289,5311,5325,5351,5356,5015,5426,1605,5471,5497,5615,5656,5782,5847,5853,5869,5885,5892,5452,6148,6216,4206,5344,6437,6061,6456,4875,5708,6542,5785,6593,6502,6623,6647,6551,6699,6718,6839,6953,7036,6586,940,7243,5335,7278,7310,7038,7193,7383,7452,7454,7468,7618,7636,7246,7672,7754,6399,7792,7805</strui>
+  </userapplied>
+</information>

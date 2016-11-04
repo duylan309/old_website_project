@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>286</id>
+    <ui>1318</ui>
+    <ci>280</ci>
+    <ai>0</ai>
+    <ti>Bartender</ti>
+    <ta/>
+    <le>2</le>
+    <ty>4</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>6000000</s1>
+    <s2>6000000</s2>
+    <s3>272</s3>
+    <s4>272</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description>Pha chế cơ bản.\r\nThời gian: 4pm-12am</description>
+    <requirement>\r\nCó thể giao tiếp bằng tiếng Anh</requirement>
+    <benefit>Off thứ Hai hằng tuần.</benefit>
+    <keyword>Nhiệt tình,Tự tin,Pha chế,Cafe</keyword>
+    <ad/>
+    <location_id>103</location_id>
+    <lat>10.791810</lat>
+    <lng>10.791810</lng>
+    <de>2016-10-24</de>
+    <re>0000-00-00</re>
+    <cr>1473938744</cr>
+  </db>
+  <more>
+    <requirement>&#13;
+Có thể giao tiếp bằng tiếng Anh</requirement>
+    <description>Pha chế cơ bản.&#13;
+Thời gian: 4pm-12am</description>
+    <benefit>Off thứ Hai hằng tuần.</benefit>
+    <keyword>Nhiệt tình,Tự tin,Pha chế,Cafe</keyword>
+  </more>
+  <userapplied>
+    <total>25</total>
+    <strui>2858,3067,3127,3148,2866,3530,3532,3569,2577,3718,4183,4252,4409,1274,4785,4833,5033,5911,6012,1259,6475,5977,6272,7226,8037</strui>
+  </userapplied>
+</information>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5201</id>
+      <email>lebaochau14@gmail.com</email>
+      <username/>
+      <name>Lê Bảo Châu</name>
+      <im>1475803061_le-bao-chau.png</im>
+      <gender>0</gender>
+      <phone>0966424920</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475803061</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Du lich, nha hang khach san</title>
+      <experience>2</experience>
+      <category>18,20,26,29,36</category>
+      <type>1,2,6</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>5201</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>156,322</strjo>
+  </appliedjob>
+</information>

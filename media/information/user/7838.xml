@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7838</id>
+      <email>stirensanghuynh@yahoo.com.vn</email>
+      <username/>
+      <name>Huỳnh Nguyễn Phú Sang</name>
+      <im>1110139159093547_huynh-nguyen-phu-sang.jpg</im>
+      <gender>1</gender>
+      <dob>1995-11-24</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477477530</created>
+      <day>24</day>
+      <month>11</month>
+      <year>1995</year>
+      <phone>0981256595</phone>
+      <address>21 đào tấn phường 5 quận 5</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7505151</lat>
+      <lng>106.6753104</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_1270>
+      <id>1270</id>
+      <school>Đại học tôn đức thắng</school>
+      <degrees>Sinh Viên</degrees>
+      <fieldofstudy>Điện Tử</fieldofstudy>
+      <from>2013</from>
+      <to>2018</to>
+    </n_1270>
+  </education>
+  <user_cv>
+    <db>
+      <ui>7838</ui>
+      <title>nhân viên lễ tân</title>
+      <experience>7</experience>
+      <category>14,15,16</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <about>tính tình nhanh nhẹn vui vẻ hòa đồng ^^&#13;
+giao tiếp tốt</about>
+      <skill>giao tiếp lịch sự</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>420</strjo>
+  </appliedjob>
+</information>

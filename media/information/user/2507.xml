@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2507</id>
+      <email>tructranthanh1806@gmail.com</email>
+      <username/>
+      <name>Trần Thị Thanh Trúc</name>
+      <im>1105955616162000_truc-tran.jpg</im>
+      <gender>2</gender>
+      <dob>1995-6-18</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473601673</created>
+      <day>18</day>
+      <month>6</month>
+      <year>1995</year>
+      <last_signin>1473601673</last_signin>
+      <phone>01662750593</phone>
+      <address>453/20/58 đường Lê Văn Khương,q.12</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8822507</lat>
+      <lng>106.6485583</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_557>
+      <id>557</id>
+      <title>Thu Ngân-Phục vụ- Pha chế</title>
+      <level>1</level>
+      <cmpname>Tàu hủ Orisoy</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>15/01/2016</from>
+      <to>31/07/2016</to>
+    </n_557>
+    <n_558>
+      <id>558</id>
+      <title>Phục vụ</title>
+      <level>1</level>
+      <cmpname>Nhà hàng Tre Vàng</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>03/2015</from>
+      <to>12/2015</to>
+    </n_558>
+  </experience>
+  <education>
+    <n_400>
+      <id>400</id>
+      <school>Cao Đằng Viễn Đông</school>
+      <degrees>Cử nhân cao đẳng Anh Văn Thương Mại</degrees>
+      <fieldofstudy>Ngôn Ngữ Anh</fieldofstudy>
+      <from>2013</from>
+      <to>2016</to>
+    </n_400>
+    <n_401>
+      <id>401</id>
+      <school>Wall Street English</school>
+      <degrees>Threshold 1</degrees>
+      <fieldofstudy>Communication</fieldofstudy>
+      <from>2014</from>
+      <to>2015</to>
+    </n_401>
+  </education>
+  <user_cv>
+    <db>
+      <ui>2507</ui>
+      <title>Nhân viên phục vụ , Lễ tân</title>
+      <experience>2</experience>
+      <category>14,20,30</category>
+      <type>1,2,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <about>Tôi là người năng động, siêng năng, có trách nhiệm với công việc, phối hợp làm nhóm tốt, sẵn sàng làm việc dưới môi trường có nhiều áp lực, có tinh thần học hỏi cao.</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>247</strjo>
+  </appliedjob>
+</information>

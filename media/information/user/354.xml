@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>354</id>
+      <email>luonganh0609@gmail.com</email>
+      <username/>
+      <name>Lương Thị Anh</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0972968465</phone>
+      <address>Lô C1, P508, Chung cư Thạnh Mỹ Lợi, đường Đồng Văn Cống, quận 2</address>
+      <city>30</city>
+      <dob>1994-9-6</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1469886709</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>6</day>
+      <month>9</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7733105</lat>
+      <lng>106.7637158</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_28>
+      <id>28</id>
+      <school>Đại học Sài Gòn</school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy>Tài chính - ngân hàng</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_28>
+  </education>
+  <experience>
+    <n_52>
+      <id>52</id>
+      <title>Nhân viên test phầm mềm</title>
+      <level>1</level>
+      <cmpname>VNIT Solutions</cmpname>
+      <city>TP HCM</city>
+      <country/>
+      <from>6/2015</from>
+      <to>9/2015</to>
+    </n_52>
+    <n_53>
+      <id>53</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Công ty TNHH Vinh Thanh</cmpname>
+      <city>Vũng Tàu</city>
+      <country/>
+      <from>2/2016</from>
+      <to>3/2016</to>
+    </n_53>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>354</ui>
+      <title>Thu ngân</title>
+      <category>14,17,29,35</category>
+      <type>1,4</type>
+      <level>2</level>
+      <lang>vi,en,ja</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <skill>Giao tiếp&#13;
+Làm việc nhóm</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>107</strjo>
+  </appliedjob>
+</information>

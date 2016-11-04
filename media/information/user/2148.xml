@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2148</id>
+      <email>lethiphuoc204@gmail.com</email>
+      <username/>
+      <name>Lê Thị Phước</name>
+      <im>647366565417974_phuoc-le.jpg</im>
+      <gender>2</gender>
+      <dob>1994-4-20</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473258859</created>
+      <day>20</day>
+      <month>4</month>
+      <year>1994</year>
+      <last_signin>1473258859</last_signin>
+      <phone>0968020056</phone>
+      <address>692/58 Đoàn Văn Bơ, Phường 16, Q4</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7566661</lat>
+      <lng>106.7149824</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ, lễ tân, chăm sóc khách hàng, thu ngân</title>
+      <experience>2</experience>
+      <category>14,20,28,29,35</category>
+      <type>4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Có kinh nghiệm về nhà hàng, thật  thà, chăm chỉ, thân thiện, nhanh nhẹn.&#13;
+Có khả năng làm việc nhóm&#13;
+Giao tiếp hiệu quả&#13;
+Có tinh thần trách nhiệm&#13;
+Tập trung trong công việc</skill>
+      <ui>2148</ui>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <about>Tôi cao 1m65 nặng 52kg&#13;
+Tôi là người  hòa đồng, vui vẻ và luôn nhiệt  tình trong công việc.&#13;
+Tôi thích học hỏi để trao dồi kinh nghiệm cho bản thân ngày càng hoàn thiện hơn.&#13;
+Tôi có kinh nghiệm về nhà hàng, bán hàng và biết chút ít về thu ngân.</about>
+      <keyword>Tinh thần trách nhiệm,Tập trung trong công việc,Nhiệt tình,Trung thực</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>247</strjo>
+  </appliedjob>
+  <experience>
+    <n_482>
+      <id>482</id>
+      <title>nhân viên</title>
+      <level>1</level>
+      <cmpname>Nhà hàng D’Nyonya</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt  Nam</country>
+      <from>01/01/2014</from>
+      <to>15/03/2015</to>
+    </n_482>
+    <n_483>
+      <id>483</id>
+      <title>nhân viên</title>
+      <level>1</level>
+      <cmpname>Nhà hàng Moo Beef Steak</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt  Nam</country>
+      <from>13/11/2015</from>
+      <to>Đến nay</to>
+    </n_483>
+    <n_484>
+      <id>484</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>Cửa hàng choocolate Vendone</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt  Nam</country>
+      <from>05/01/2013</from>
+      <to>16/07/2013</to>
+    </n_484>
+  </experience>
+</information>

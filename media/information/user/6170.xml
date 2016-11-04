@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6170</id>
+      <email>baodongle@gmail.com</email>
+      <username/>
+      <name>Lê Bảo Đông</name>
+      <im>6170_141.jpg</im>
+      <gender>1</gender>
+      <dob>1995-1-4</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476409491</created>
+      <day>4</day>
+      <month>1</month>
+      <year>1995</year>
+      <phone>01982004980</phone>
+      <address>548/10A Nguyễn Thái Sơn, phường 5, quận Gò Vấp</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.828192</lat>
+      <lng>106.6917859</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_1021>
+      <id>1021</id>
+      <school>Đại học Công nghiệp Tp Hồ Chí Minh</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Quản trị nhà hàng</fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_1021>
+  </education>
+  <experience>
+    <n_1259>
+      <id>1259</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Phoco Resto-Bar</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>9/2016</from>
+      <to>10/2016</to>
+    </n_1259>
+    <n_1260>
+      <id>1260</id>
+      <title>Nhân viên bán hàng, thu ngân</title>
+      <level>1</level>
+      <cmpname>Sách Khai Tâm</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>3/2016</from>
+      <to>7/2016</to>
+    </n_1260>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>6170</ui>
+      <title>Nhân viên phục vụ, văn phòng, xử lý</title>
+      <experience>1</experience>
+      <category>14,15,17,20,31,35</category>
+      <type>2,3,4,5,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <skill>- Kỹ năng Tin học văn phòng (Microsoft Office Specialist)&#13;
+- Kỹ năng giải quyết vấn đề&#13;
+- Kỹ năng làm việc nhóm&#13;
+</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>419</strjo>
+  </appliedjob>
+</information>

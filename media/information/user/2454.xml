@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2454</id>
+      <email>nnat990@gmail.com</email>
+      <username/>
+      <name>Nguyễn Ngọc Anh Thư</name>
+      <im>1067175063398126_nguyen-ngoc-anh-thu.jpg</im>
+      <gender>2</gender>
+      <dob>1992-8-10</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473525061</created>
+      <day>10</day>
+      <month>8</month>
+      <year>1992</year>
+      <phone>0944776805</phone>
+      <address>577/14 Trần Hưng Đạo </address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7566986</lat>
+      <lng>106.6858433</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên pha chế</title>
+      <experience>1</experience>
+      <category>15,16,20,26,27,29,31</category>
+      <type>1,2,4,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>2454</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Tôi hoạt bát, siêng năng và thích học hỏi. Tôi muốn tìm một công việc tạo cho tôi cảm hứng yêu thích, tôi sẽ dốc toàn bộ sức lực để hoàn thành tốt nhất. </about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>7</total>
+    <strjo>208,222,201,248,142,126,156</strjo>
+  </appliedjob>
+</information>

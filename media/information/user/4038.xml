@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4038</id>
+      <email>hongngan4949@gmail.com</email>
+      <username/>
+      <name>Hồng Ngân</name>
+      <im>631321127041606_hong-ngan.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474962524</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Bán hàng</title>
+      <experience>2</experience>
+      <category>14,15,18,20,26,30</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Giao tiếp tốt</skill>
+      <ui>4038</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>287</strjo>
+  </appliedjob>
+</information>

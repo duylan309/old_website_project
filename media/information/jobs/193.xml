@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>193</id>
+    <ui>1278</ui>
+    <ci>279</ci>
+    <ai>0</ai>
+    <ti>Nhân viên Phụ Bếp</ti>
+    <ta/>
+    <le>1</le>
+    <ty>1,2</ty>
+    <ex>7</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>4000000</s1>
+    <s2>4700000</s2>
+    <s3>181</s3>
+    <s4>213</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14,15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description>- Kiểm tra nguyên vật liệu trước &amp; sau khi dọn quán.\r\n- Lau dọn sạch sẽ khu vực làm việc phụ trách.\r\n- Chuẩn bị &amp; trang trí món ăn trước khi ra món.\r\n- Chú trọng phần trong lẫn phần ngoài của món.\r\n\r\n</description>
+    <requirement>- Ưu tiên chưa có kinh nghiệm.\r\n- Chịu khó, chịu làm, chịu điên.\r\n- Năng động, hòa động, thật thà.\r\n- Nắm vững kiến thức về VSATTP.</requirement>
+    <benefit>- Được hưởng lương &amp; ưu đãi được ghi rõ trong Hợp Đồng.\r\n- Được hưởng lương tháng Thứ 13 khi làm hơn 6 tháng trong năm.\r\n- Được hưởng chiếu khấu 20% khi mua sản phẩm tại Sài Gòn Vặt.\r\n- Được tham gia chung những cuộc họp, vui chơi, du lịch, team-building.\r\n</benefit>
+    <keyword>Tập trung trong công việc,Tinh thần làm việc nhóm,Trung thực,Tự tin,Nhiệt tình,Tinh thần trách nhiệm</keyword>
+    <ad/>
+    <location_id>102</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-10-23</de>
+    <re>0000-00-00</re>
+    <cr>1472122657</cr>
+  </db>
+  <more>
+    <requirement>- Ưu tiên chưa có kinh nghiệm.&#13;
+- Chịu khó, chịu làm, chịu điên.&#13;
+- Năng động, hòa động, thật thà.&#13;
+- Nắm vững kiến thức về VSATTP.</requirement>
+    <description>- Kiểm tra nguyên vật liệu trước &amp; sau khi dọn quán.&#13;
+- Lau dọn sạch sẽ khu vực làm việc phụ trách.&#13;
+- Chuẩn bị &amp; trang trí món ăn trước khi ra món.&#13;
+- Chú trọng phần trong lẫn phần ngoài của món.&#13;
+&#13;
+</description>
+    <benefit>- Được hưởng lương &amp; ưu đãi được ghi rõ trong Hợp Đồng.&#13;
+- Được hưởng lương tháng Thứ 13 khi làm hơn 6 tháng trong năm.&#13;
+- Được hưởng chiếu khấu 20% khi mua sản phẩm tại Sài Gòn Vặt.&#13;
+- Được tham gia chung những cuộc họp, vui chơi, du lịch, team-building.&#13;
+</benefit>
+    <keyword>Tập trung trong công việc,Tinh thần làm việc nhóm,Trung thực,Tự tin,Nhiệt tình,Tinh thần trách nhiệm</keyword>
+  </more>
+  <userapplied>
+    <total>84</total>
+    <strui>940,1099,1531,1625,1761,1814,1848,292,1698,2199,2268,2320,2329,2385,2436,2510,2521,2547,2695,2332,2508,2770,2829,2831,2302,2882,2964,3013,1277,3178,3222,3292,3737,3789,3802,1503,3809,3744,3950,3472,4051,4141,4165,4194,4267,4353,4420,2472,4575,4580,4759,4762,4708,4898,5003,5015,5042,5233,5316,5429,5443,3798,4907,5516,1175,5636,5769,5858,6138,6155,4833,6320,4150,4738,125,6581,6588,6610,6641,7039,5615,7338,7348,7404</strui>
+  </userapplied>
+</information>

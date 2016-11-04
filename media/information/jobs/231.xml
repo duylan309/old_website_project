@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>231</id>
+    <ui>1532</ui>
+    <ci>291</ci>
+    <ai>0</ai>
+    <ti>Kế toán , văn thư</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>2</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description>Theo dõi Thu - Chi\r\nTính lương, thưởng cho Nhân viên\r\nSoạn Hồ sơ, Hợp đồng\r\nLiên hệ Ngân hàng, Bảo hiểm, các cơ quan khác...\r\nKhai báo Thuế\r\nPhụ trách các công việc hành chính và nhân sự</description>
+    <requirement>Giới tính : Nam,nữ\r\nTuổi : dưới 26\r\nGiỏi các phần mềm kế toán\r\nNhiệt tình, cẩn thận, tinh thần trách nhiệm cao...\r\nChịu áp lực tốt</requirement>
+    <benefit>- Lương từ 4-5 triệu + hỗ trợ cơm trưa\r\n- Được hưởng mọi quyền lợi theo quy chế Công ty ban hành\r\n- Được nghỉ 01h30 phút để ăn trưa\r\n- Đóng bảo hiểm đối với nhân viên có sự gắn bó với công ty lâu dài\r\n- Nghỉ các ngày lễ, tết theo quy định của Công ty</benefit>
+    <keyword>Trung thực,Nhiệt tình,Tinh thần trách nhiệm,Tập trung trong công việc,kế toán,văn thư</keyword>
+    <ad/>
+    <location_id>114</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-10-28</de>
+    <re>0000-00-00</re>
+    <cr>1473411196</cr>
+  </db>
+  <more>
+    <requirement>Giới tính : Nam,nữ&#13;
+Tuổi : dưới 26&#13;
+Giỏi các phần mềm kế toán&#13;
+Nhiệt tình, cẩn thận, tinh thần trách nhiệm cao...&#13;
+Chịu áp lực tốt</requirement>
+    <description>Theo dõi Thu - Chi&#13;
+Tính lương, thưởng cho Nhân viên&#13;
+Soạn Hồ sơ, Hợp đồng&#13;
+Liên hệ Ngân hàng, Bảo hiểm, các cơ quan khác...&#13;
+Khai báo Thuế&#13;
+Phụ trách các công việc hành chính và nhân sự</description>
+    <benefit>- Lương từ 4-5 triệu + hỗ trợ cơm trưa&#13;
+- Được hưởng mọi quyền lợi theo quy chế Công ty ban hành&#13;
+- Được nghỉ 01h30 phút để ăn trưa&#13;
+- Đóng bảo hiểm đối với nhân viên có sự gắn bó với công ty lâu dài&#13;
+- Nghỉ các ngày lễ, tết theo quy định của Công ty</benefit>
+    <keyword>Trung thực,Nhiệt tình,Tinh thần trách nhiệm,Tập trung trong công việc,kế toán,văn thư</keyword>
+  </more>
+  <userapplied>
+    <total>13</total>
+    <strui>2025,2060,2127,2385,2387,2449,2463,3064,4512,4836,4944,6197,6256</strui>
+  </userapplied>
+</information>

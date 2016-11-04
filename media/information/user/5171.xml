@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5171</id>
+      <email>mi_mi_heo@yahoo.com.vn</email>
+      <username/>
+      <name>Krin Nguyen</name>
+      <im>1297573263600032_krin-nguyen.jpg</im>
+      <gender>2</gender>
+      <dob>1996-7-14</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475767207</created>
+      <day>14</day>
+      <month>7</month>
+      <year>1996</year>
+      <phone>01265348470</phone>
+      <address>135 Đào Cam Mộc</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.742142</lat>
+      <lng>106.66944</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục Vụ, Lễ Tân</title>
+      <experience>7</experience>
+      <category>14,15,16,20,29,30,35</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>5171</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>9</total>
+    <strjo>273,124,386,105,253,156,219,162,323</strjo>
+  </appliedjob>
+  <education>
+    <n_850>
+      <id>850</id>
+      <school>Cao Đẳng Du Lịch Sài Gòn</school>
+      <degrees>Cao Đẳng</degrees>
+      <fieldofstudy>Khách sạn - Nhà Hàng</fieldofstudy>
+      <from>2015</from>
+      <to>2017</to>
+    </n_850>
+  </education>
+</information>

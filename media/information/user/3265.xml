@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3265</id>
+      <email>Nguyenchitrung.rgm@gmail.com</email>
+      <username/>
+      <name>Nguyễn Chí Trung</name>
+      <im>1474469668_nguyen-chi-trung.png</im>
+      <gender>1</gender>
+      <phone>0907888734</phone>
+      <address>79/8 Tây Sơn, P.Tân Quý, Q.Tân Phú</address>
+      <city>30</city>
+      <dob>1991-5-8</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474469667</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>8</day>
+      <month>5</month>
+      <year>1991</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.793084</lat>
+      <lng>106.6243319</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>F&amp;B Manager</title>
+      <experience>3</experience>
+      <category>14,15,16,17,18,19,20,29,31,35</category>
+      <type>6</type>
+      <level>5</level>
+      <lang>vi</lang>
+      <skill>- Quản lý, đào tạo nghiệp vụ FOH.&#13;
+- Quản lý tài chánh, hàng hóa ( P&amp;L, COL...)&#13;
+- Hỗ trợ Marketing.&#13;
+- ..v..v...</skill>
+      <ui>3265</ui>
+      <s1>7000000</s1>
+      <salary>1</salary>
+      <about>Mong muốn làm việc trong một công ty có nhiều thử thách và môi trường làm việc chuyên nghiệp. Vị trí mong muốn đảm nhận trong 3 năm tới là Operation Manager. </about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>7</total>
+    <strjo>203,240,298,269,285,170,129</strjo>
+  </appliedjob>
+  <experience>
+    <n_728>
+      <id>728</id>
+      <title>Restaurant Genaral Manager</title>
+      <level>1</level>
+      <cmpname>The Pizza Company</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>13/06/2015</from>
+      <to>31/08/2016</to>
+    </n_728>
+    <n_729>
+      <id>729</id>
+      <title>Manager</title>
+      <level>1</level>
+      <cmpname>BookCafe PNC</cmpname>
+      <city>Cần Thơ</city>
+      <country>Việt Nam</country>
+      <from>08/03/2013</from>
+      <to>15/05/2015</to>
+    </n_729>
+    <n_730>
+      <id>730</id>
+      <title>Teamleader</title>
+      <level>1</level>
+      <cmpname>Barocco Club</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>01/03/2012</from>
+      <to>15/12/2012</to>
+    </n_730>
+    <n_731>
+      <id>731</id>
+      <title>Waiter &amp; Bartender</title>
+      <level>1</level>
+      <cmpname>Phương Đông Club</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>01/07/2009</from>
+      <to>15/11/2011</to>
+    </n_731>
+  </experience>
+  <education>
+    <n_538>
+      <id>538</id>
+      <school>Cantho tourist </school>
+      <degrees>Trung Cấp</degrees>
+      <fieldofstudy>Quản Trị Nhà Hàng - Khách Sạn</fieldofstudy>
+      <from>2012</from>
+      <to>2013</to>
+    </n_538>
+  </education>
+</information>

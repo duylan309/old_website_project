@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7955</id>
+      <email>kunno.nt93@gmail.com</email>
+      <username/>
+      <name>Đặng Lê Hương Xuân</name>
+      <im>1249243025098234_dang-le-huong-xuan.jpg</im>
+      <gender>2</gender>
+      <dob>1993-1-24</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477552930</created>
+      <day>24</day>
+      <month>1</month>
+      <year>1993</year>
+      <phone>01649704722</phone>
+      <address>46 Lê Niệm, Tân Phú</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.779755</lat>
+      <lng>106.6270289</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1549>
+      <id>1549</id>
+      <title>Seller</title>
+      <level>1</level>
+      <cmpname>Shop and Go</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>June, 2015</from>
+      <to>September, 2015</to>
+    </n_1549>
+    <n_1550>
+      <id>1550</id>
+      <title>Staff - Technique Products</title>
+      <level>1</level>
+      <cmpname>Event Christmas Party in ERC Institute</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>October, 2015</from>
+      <to>December, 2015</to>
+    </n_1550>
+    <n_1551>
+      <id>1551</id>
+      <title>Accountant</title>
+      <level>1</level>
+      <cmpname>Thành Trí Financial Ltd. Liability Company</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>July, 2013</from>
+      <to>December, 2013</to>
+    </n_1551>
+  </experience>
+  <education>
+    <n_1288>
+      <id>1288</id>
+      <school>University of Greenwich</school>
+      <degrees>Second Class</degrees>
+      <fieldofstudy>BACHELOR OF ARTS BUSINESS MANAGEMENT (Tourism and Hospitality).</fieldofstudy>
+      <from>2015</from>
+      <to>Present</to>
+    </n_1288>
+    <n_1289>
+      <id>1289</id>
+      <school>Hutech University</school>
+      <degrees>Good</degrees>
+      <fieldofstudy>BACHELOR OF ACCOUNTING MAJOR (Financial Accounting)</fieldofstudy>
+      <from>2011</from>
+      <to>2014</to>
+    </n_1289>
+    <n_1290>
+      <id>1290</id>
+      <school>Hướng Nghiệp Á Âu</school>
+      <degrees/>
+      <fieldofstudy>Bartender</fieldofstudy>
+      <from>2016</from>
+      <to>Present</to>
+    </n_1290>
+  </education>
+  <user_cv>
+    <db>
+      <ui>7955</ui>
+      <title>Barback, Bartender</title>
+      <experience>7</experience>
+      <category>14,16,18</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>•	In the period as a student, I had 3 jobs which have the different job title from each other: A staff who finds the supplier technical productions, Seller, and Accountant. Those careers have developed my skills and personalities.&#13;
+•	I graduated in two universities, one from Hutech University as the bachelor of accountancy and another is Greenwich University as the Bachelor of Arts business management (Tourism and Hospitality).</about>
+      <skill>•	Communication skills.&#13;
+•	Teamwork and collaboration.&#13;
+•	Adaptability.&#13;
+•	Problem-solving.&#13;
+•	Critical observation.&#13;
+•	Influence in English.&#13;
+•	Computer skill.</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>210</strjo>
+  </appliedjob>
+</information>

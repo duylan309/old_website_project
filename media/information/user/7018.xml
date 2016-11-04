@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7018</id>
+      <email>chiphu.huynh@gmail.com</email>
+      <username/>
+      <name>Huỳnh Chí Phú</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0978 778 988</phone>
+      <address>181/28 Phan Đăng Lưu, Quận Phú Nhuận TPHCM</address>
+      <city>30</city>
+      <dob>1991-6-23</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477021172</created>
+      <dayleft>0</dayleft>
+      <jobleft>0</jobleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1477021172</last_signin>
+      <day>23</day>
+      <month>6</month>
+      <year>1991</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.802397</lat>
+      <lng>106.6948697</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1382>
+      <id>1382</id>
+      <title>Shift Manager</title>
+      <level>1</level>
+      <cmpname>McDonald’s Việt Nam</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>1/2014</from>
+      <to>8/2016</to>
+    </n_1382>
+  </experience>
+  <education>
+    <n_1152>
+      <id>1152</id>
+      <school>Đại Học Công Nghiêp TPHCM</school>
+      <degrees>Cử nhân kinh tế</degrees>
+      <fieldofstudy>Quản trị kinh doanh</fieldofstudy>
+      <from>9/2009</from>
+      <to>9/2013</to>
+    </n_1152>
+  </education>
+  <user_cv>
+    <db>
+      <ui>7018</ui>
+      <title>Shift Manager / Assistant Store Manager / Store Manager</title>
+      <experience>2</experience>
+      <category>14,15,29</category>
+      <type>1</type>
+      <level>5</level>
+      <lang>vi,en</lang>
+      <s1>14000000</s1>
+      <salary>1</salary>
+      <about>- Có hơn 2 năm kinh nghiệm làm trong ngành F&amp;B với vai trò quản lý.&#13;
+- Có khả năng teamwork, lãnh đạo, quan sát&#13;
+- Có tinh thần trách nhiệm cao, chịu học hỏi, năng động&#13;
+- Thích du lịch</about>
+      <skill>- Kỹ năng  thuyết trình và giao tiếp bằng tiếng Anh khá lưu loát&#13;
+- Kỹ năng lãnh đạo, đàm phán và lên kế hoạch&#13;
+- Kỹ năng vi tính cơ bản</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>373,196,229</strjo>
+  </appliedjob>
+</information>

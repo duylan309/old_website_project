@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1512</id>
+      <email>parkrussell96@gmail.com</email>
+      <username/>
+      <name>Trung Huy Nguyen Vu</name>
+      <im>1512_img-10731.jpg</im>
+      <gender>1</gender>
+      <dob>1996-12-8</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472443279</created>
+      <day>8</day>
+      <month>12</month>
+      <year>1996</year>
+      <last_signin>1472443279</last_signin>
+      <phone>01234681296</phone>
+      <address>214 Võ Văn Kiệt, quận 1</address>
+      <country>vn</country>
+      <city>7</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Bến Tre</city_text_vi>
+      <city_text_en>Ben Tre</city_text_en>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>1512</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>2,4</type>
+      <level>2,4</level>
+      <lang>vi,en</lang>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <skill></skill>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Tinh thần trách nhiệm,Chịu được áp lực công việc,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>171,199,100,161</strjo>
+  </appliedjob>
+  <experience>
+    <n_350>
+      <id>350</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Nhà hàng Indochine</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Vietnam</country>
+      <from>tháng 9, 2014</from>
+      <to>tháng 2, 2015</to>
+    </n_350>
+    <n_351>
+      <id>351</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Nhà hàng Quán Bụi - 17A Ngô Văn Năm</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Vietnam</country>
+      <from>tháng 9, 2015</from>
+      <to>tháng 7, 2016</to>
+    </n_351>
+  </experience>
+</information>

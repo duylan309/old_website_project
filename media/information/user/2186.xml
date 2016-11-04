@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2186</id>
+      <email>hoanglinhbar@gmail.com</email>
+      <username/>
+      <name>Hoàng Thị Linh</name>
+      <im>1473275878_hoang-thi-linh.jpg</im>
+      <gender>2</gender>
+      <phone>0909760006</phone>
+      <address>Hoà hưng phường 13 quận 10</address>
+      <city>30</city>
+      <dob>1989-8-15</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473275878</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>15</day>
+      <month>8</month>
+      <year>1989</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7785625</lat>
+      <lng>106.6727113</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế</title>
+      <experience>3</experience>
+      <category>14,15,29</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>2186</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword>Tinh thần trách nhiệm,Trung thực,Tập trung trong công việc,Nhiệt tình</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>250,243,64,222</strjo>
+  </appliedjob>
+  <experience>
+    <n_475>
+      <id>475</id>
+      <title>Tôn đức thắng q1</title>
+      <level>1</level>
+      <cmpname>Nhà hàng-karaoke-beerclub Kingdom</cmpname>
+      <city>Hồ chí minh</city>
+      <country>Viet nam</country>
+      <from>2011</from>
+      <to>2016</to>
+    </n_475>
+  </experience>
+  <education>
+    <n_341>
+      <id>341</id>
+      <school>Quản Lý Khách San Việt Úc</school>
+      <degrees/>
+      <fieldofstudy>Bartender</fieldofstudy>
+      <from>2016</from>
+      <to>2016</to>
+    </n_341>
+  </education>
+</information>

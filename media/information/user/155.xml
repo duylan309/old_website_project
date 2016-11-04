@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>155</id>
+      <email>sskalinski@icloud.com</email>
+      <username/>
+      <name>Shawn</name>
+      <im/>
+      <gender>0</gender>
+      <category/>
+      <phone/>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1463101266</created>
+      <dayleft>0</dayleft>
+      <deactive>1</deactive>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>155</ui>
+      <deactive>1</deactive>
+    </db>
+  </user_cv>
+</information>

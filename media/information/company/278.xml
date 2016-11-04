@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>278</id>
+    <ui>1263</ui>
+    <name>Mon Antisushi</name>
+    <url>sushimonvn</url>
+    <im>_mon-antisushi.jpg</im>
+    <im_banner>_mon-antisushi-cover.jpg</im_banner>
+    <category>14,15</category>
+    <phone>+84938468624</phone>
+    <address>1B Trương Định, quận 3</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.7812553</lat>
+    <lng>106.68539280000005</lng>
+    <website>http://antisushi.vn</website>
+    <about/>
+    <facebook>https://www.facebook.com/sushimonvn/</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>0</fb_load_newfeed>
+    <fb_load_photo>0</fb_load_photo>
+    <created>1472026528</created>
+  </db>
+  <more>
+    <about/>
+    <whyworkus/>
+  </more>
+  <companybanner>_mon-antisushi-cover.jpg</companybanner>
+  <totalJob>
+    <total>3</total>
+    <strji>188,278,370</strji>
+  </totalJob>
+</information>

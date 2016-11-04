@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4474</id>
+      <email>thaiquynhanhh@gmail.com</email>
+      <username/>
+      <name>Thái Thụy Quỳnh Anh</name>
+      <im>1475213536_thai-thuy-quynh-anh.png</im>
+      <gender>2</gender>
+      <phone>01203870398</phone>
+      <address>7/3/4/10. Thành Thái, p.14, q.10</address>
+      <city>30</city>
+      <dob>1995-2-23</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475213536</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>23</day>
+      <month>2</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.768872</lat>
+      <lng>106.6640863</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>15,28,29,35,36</category>
+      <type>2,5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>4474</ui>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <about>Đang học liên thông đại học khoa Báo chí. Chăm chỉ, biết lắng nghe, hiền lành.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>12</total>
+    <strjo>221,84,235,99,371,251,202,252,268,130,211,222</strjo>
+  </appliedjob>
+</information>

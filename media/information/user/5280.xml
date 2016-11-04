@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5280</id>
+      <email>rd.greenphar@gmail.com</email>
+      <username/>
+      <name>Trần Lê Bích Vân</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0968694589</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1475848700</created>
+      <dayleft>1478440700</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1475848700</last_signin>
+      <jobleft>3</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>2</total>
+    <strji>408,469</strji>
+  </totalJob>
+  <saveuser>
+    <total>19</total>
+    <strui>5426,5449,5459,4213,5570,4957,5407,5849,5741,5925,5778,6082,6187,6229,6254,6321,6358,6437,6502</strui>
+  </saveuser>
+</information>

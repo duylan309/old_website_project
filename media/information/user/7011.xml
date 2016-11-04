@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7011</id>
+      <email>thaophuongqt37@gmail.com</email>
+      <username/>
+      <name>Phan Thị Thảo Phương</name>
+      <im>1477018081_phan-thi-thao-phuong.png</im>
+      <gender>2</gender>
+      <phone>01634307877</phone>
+      <address>51, đường số 13, phường Linh Tây, quận Thủ Đức</address>
+      <city>30</city>
+      <dob>1996-1-25</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477018080</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>25</day>
+      <month>1</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8636854</lat>
+      <lng>106.7582552</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng, phục vụ</title>
+      <experience>1</experience>
+      <category>15,17</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Có kĩ năng giao tiếp tốt, làm việc trong môi trường nhiều áp lực. </skill>
+      <ui>7011</ui>
+      <s1>1500000</s1>
+      <salary>1</salary>
+      <about>Vui vẻ, hòa đồng.&#13;
+Cẩn thận và chủ động trong công việc</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>267</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>267</strjo>
+  </savedjob>
+</information>

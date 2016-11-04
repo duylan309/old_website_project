@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>669</id>
+      <email>Alo_thucday@yahoo.com</email>
+      <username/>
+      <name>Nguyễn hoàng thức</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0901372687</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470776475</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế</title>
+      <experience>2</experience>
+      <category>14,15,27,29,35</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Bếp á</skill>
+      <ui>669</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>106,119,132</strjo>
+  </appliedjob>
+</information>

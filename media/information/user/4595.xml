@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4595</id>
+      <email>nhock_yuki113@yahoo.com</email>
+      <username/>
+      <name>Lâm Tấn Phát</name>
+      <im>1042813045817209_lam-phat.jpg</im>
+      <gender>1</gender>
+      <dob>1998-4-4</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475333026</created>
+      <day>4</day>
+      <month>4</month>
+      <year>1998</year>
+      <phone>01224722169</phone>
+      <address>154/3 Phong Phú phường 12 quận 8</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.743803</lat>
+      <lng>106.660852</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>phục vụ, pha chế</title>
+      <experience>7</experience>
+      <category>15,31,35</category>
+      <type>2,5,6</type>
+      <level>1,2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>4595</ui>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <about>to cao</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>8</total>
+    <strjo>262,215,165,267,294,219,222,296</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>215</strjo>
+  </savedjob>
+</information>

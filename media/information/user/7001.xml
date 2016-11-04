@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7001</id>
+      <email>Letan20101994@gmail.com</email>
+      <username/>
+      <name>Lê Minh Tân</name>
+      <im>1476986975_le-minh-tan.png</im>
+      <gender>0</gender>
+      <phone>0903009250</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476986975</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục vụ , Bartender , ...</title>
+      <experience>3</experience>
+      <category>14</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>7001</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>273</strjo>
+  </appliedjob>
+</information>

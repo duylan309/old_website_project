@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3143</id>
+      <email>nguyen_ngoclinh91@yahoo.com.vn</email>
+      <username/>
+      <name>Nguyen Ngoc Linh</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0907313056</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474345502</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhan vien phuc vu</title>
+      <experience>7</experience>
+      <category>15,17,29,31,35</category>
+      <type>4</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>3143</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>294</strjo>
+  </appliedjob>
+</information>

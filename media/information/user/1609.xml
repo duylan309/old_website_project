@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1609</id>
+      <email>Ivytrangdu@gmail.com</email>
+      <username/>
+      <name>Dư thuỳ trang</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0904016016</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1472640336</created>
+      <dayleft>1475232336</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1472640336</last_signin>
+      <jobleft>2</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>3</total>
+    <strji>223,224,232</strji>
+  </totalJob>
+  <saveuser>
+    <total>5</total>
+    <strui>355,1842,1880,1886,1993</strui>
+  </saveuser>
+</information>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>560</id>
+      <email>huynhtuan100@gmail.com</email>
+      <username/>
+      <name>Huỳnh Dũng Tuấn</name>
+      <im>560_3x4.jpg</im>
+      <gender>1</gender>
+      <dob>1994-11-15</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470490227</created>
+      <day>15</day>
+      <month>11</month>
+      <year>1994</year>
+      <phone>0938856628</phone>
+      <address>182 Lãnh Binh Thăng P.13 Q.11</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.762653</lat>
+      <lng>106.653541</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_110>
+      <id>110</id>
+      <title>Nhân viên phụ bếp</title>
+      <level>1</level>
+      <cmpname>Hệ thống bánh xèo Ăn Là Ghiềng</cmpname>
+      <city>Hồ CHí Minh</city>
+      <country>Việt Nam </country>
+      <from>2013</from>
+      <to>2014</to>
+    </n_110>
+    <n_111>
+      <id>111</id>
+      <title>Nhân viên pha chế</title>
+      <level>1</level>
+      <cmpname>Hệ thống chuỗi cửa hàng Coffee shop Urban Station</cmpname>
+      <city>Hồ CHí Minh</city>
+      <country>Việt Nam </country>
+      <from>2014</from>
+      <to>2015</to>
+    </n_111>
+  </experience>
+  <education>
+    <n_81>
+      <id>81</id>
+      <school>Đại học Công Nghiệp Thực Phẩm</school>
+      <degrees>Cao đẳng nghề</degrees>
+      <fieldofstudy>Kỹ Thuật Chế Biến Món Ăn</fieldofstudy>
+      <from>2012</from>
+      <to>2015</to>
+    </n_81>
+  </education>
+  <user_cv>
+    <db>
+      <ui>560</ui>
+      <title>Cook, Nhân viên bếp</title>
+      <experience>7</experience>
+      <category>14,15,16,17,18,19,20,29,36</category>
+      <type>1,4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng giải quyết tình huống,Tinh thần trách nhiệm,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>122,114</strjo>
+  </appliedjob>
+</information>

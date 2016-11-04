@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5917</id>
+      <email>anhthoai.nhatrang94@gmail.com</email>
+      <username/>
+      <name>Võ Anh Thoại</name>
+      <im>1855558574673013_ruby-red.jpg</im>
+      <gender>1</gender>
+      <dob>1994-7-22</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476266470</created>
+      <day>22</day>
+      <month>7</month>
+      <year>1994</year>
+      <last_signin>1476266470</last_signin>
+      <phone>01674537252</phone>
+      <address>4/5 Bàu Cát, Phường 14, Quận Tân Bìn</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7906656</lat>
+      <lng>106.6431196</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>5917</ui>
+      <title>Phụ bếp</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Tôi đang học lớp bếp Âu tại trường Saigontourist.</about>
+      <skill>Phụ được cả bếp Á và Âu</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>361,365</strjo>
+  </appliedjob>
+</information>

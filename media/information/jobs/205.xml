@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>205</id>
+    <ui>1468</ui>
+    <ci>290</ci>
+    <ai>0</ai>
+    <ti>Nhân viên bán hàng - Chăm sóc khách hàng</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1,2,4</ty>
+    <ex>1,7</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>17</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>113</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-10-27</de>
+    <re>0000-00-00</re>
+    <cr>1472385065</cr>
+  </db>
+  <more>
+    <requirement>- Tốt nghiệp PTTH.&#13;
+- Ưu tiên có kinh nghiệm bán hàng.&#13;
+- Có trách nhiệm trong công việc.</requirement>
+    <description>- Tuân Thủ việc chấp hành nội quy của shop, các quy định, quy chế bán hàng, phục vụ khách hàng của Chip.vn.&#13;
+- Cung cấp dịch vụ tốt nhất cho khách hàng để khuyến khích khách hàng mua sắm cho lần tiếp theo. Lịch sự, niềm nở lắng nghe nhu cầu của khách hàng.&#13;
+- Nắm bắt được nhu cầu và thị hiếu của khách hàng.&#13;
+- Đảm bảo dịch vụ chăm sóc khách hàng tốt nhất vào mọi lúc.&#13;
+- Nhận và chuyển thông tin đến cấp Quản lý/Giám sát để giải quyết khiếu nại của khách hàng.&#13;
+- Hỗ trợ việc trưng bày sản phẩm, hàng hóa trong cửa hàng&#13;
+- Hỗ trợ nhân viên kho kiểm hàng khi có hàng mới về&#13;
+- Kiểm kho theo định kỳ theo quy định của Shop.&#13;
+- Xin thông tin khách hàng mới&#13;
+- Vệ sinh quầy kệ, khu vực làm việc trong cửa hàng…&#13;
+- Duy trì sản phẩm trưng bày theo đúng sắp xếp của nhân viên trưng bày&#13;
+- Dán giá và tem mạc cho hàng hóa. &#13;
+- Tư vấn cho khách hàng, không đơn thuần chỉ đứng hỗ trợ khách hàng&#13;
+- Đảm bảo tinh thần làm việc tập thể, đoàn kết và hỗ trợ cho các đồng nghiệp. Nếu thấy có mâu thuẫn, phải thông báo ngay đến cấp trên để được giải quyết, không gây ra mâu thuẫn nội bộ.&#13;
+- Chịu trách nhiệm bổ sung hàng hóa đã bán ra trong khu vực của mình&#13;
+- Bảo quản hàng hóa trong điều kiện tốt nhất, đặc biệt không được phép để hàng hóa (do vô tình hay cố ý) rơi xuống đất.</description>
+    <benefit>- Lương cứng + thưởng theo doanh số.&#13;
+- Giảm giá khi mua hàng tại shop.&#13;
+- Xem xét tăng lương nếu bán hàng tốt, hoặc gắn bó lâu dài.&#13;
+- Một tháng được off 2 ngày. </benefit>
+    <keyword>Nhiệt tình,Tinh thần trách nhiệm,Chịu được áp lực công việc,Kỹ năng chăm sóc khách hàng</keyword>
+  </more>
+  <userapplied>
+    <total>76</total>
+    <strui>1561,292,1763,1785,1793,1803,1629,2026,2467,2471,2480,2476,2591,2525,2826,2831,2882,2899,2995,3017,3050,3067,3253,3257,3264,3307,3319,3372,3413,3474,3603,3609,3649,3665,3689,1794,2787,3356,4009,4351,3864,4593,4608,4130,4566,4726,5106,5272,5351,5356,5481,5538,5694,5838,5850,5741,5943,5344,6366,6584,6616,6709,6778,6992,6279,7028,7049,7070,7199,7192,7158,7383,7069,4833,7608,7874</strui>
+  </userapplied>
+</information>

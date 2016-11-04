@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4099</id>
+      <email>hoaipho_vang@yahoo.com</email>
+      <username/>
+      <name>Hiên Võ</name>
+      <im>1326447240728587_hien-vo.jpg</im>
+      <gender>2</gender>
+      <dob>1986-9-28</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474968053</created>
+      <day>28</day>
+      <month>9</month>
+      <year>1986</year>
+      <phone>0988909399</phone>
+      <address>159/48/82 Trần Văn Đang.Q3</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.785556</lat>
+      <lng>106.674592</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1136>
+      <id>1136</id>
+      <title>Nhân viên Pha Chế</title>
+      <level>1</level>
+      <cmpname>AQ cafe .138 Điện Biên Phủ. Q3</cmpname>
+      <city>Thành Phố Hồ chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2010</from>
+      <to>2012</to>
+    </n_1136>
+    <n_1137>
+      <id>1137</id>
+      <title>Nhân viên Pha Chế</title>
+      <level>1</level>
+      <cmpname>Napoly cafe.07 Phạm Ngọc Thạch. Q3</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>02/2015</from>
+      <to>07/2016</to>
+    </n_1137>
+    <n_1138>
+      <id>1138</id>
+      <title>Nhân viên Pha Chế</title>
+      <level>1</level>
+      <cmpname>Trung Nguyên cafe.1086 Hậu Giang.Q6</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2012</from>
+      <to>2014</to>
+    </n_1138>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>4099</ui>
+      <title>NV Pha Chế</title>
+      <experience>4</experience>
+      <category>14,15</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Là một người nhanh nhẹn trong công việc, học hỏi và tiếp thu nhanh trong nhiều môi trường, làm việc nghiêm túc và giao tiếp tốt.... </about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>400,163</strjo>
+  </appliedjob>
+</information>

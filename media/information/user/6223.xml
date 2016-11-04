@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6223</id>
+      <email>tai.thanhvo021195@gmail.com</email>
+      <username/>
+      <name>Thanh Tài</name>
+      <im>319613981727617_thanh-tai.jpg</im>
+      <gender>1</gender>
+      <dob>1995-11-2</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476444765</created>
+      <day>2</day>
+      <month>11</month>
+      <year>1995</year>
+      <phone>01646820651</phone>
+      <address>50/20/10a Bạch Đằng, p2, Quận Tân Bình, TpHCm</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1261>
+      <id>1261</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>khách sạn Sheraton</cmpname>
+      <city>HCM</city>
+      <country>Việt Nam</country>
+      <from>tháng 9 2015</from>
+      <to>tháng 11 nắm 2015</to>
+    </n_1261>
+    <n_1262>
+      <id>1262</id>
+      <title>Nhân viên pha chế</title>
+      <level>1</level>
+      <cmpname>Bazaar lounge</cmpname>
+      <city>HCm</city>
+      <country>Việt Nam</country>
+      <from>tháng 1 năm 2016</from>
+      <to>tháng 3 năm 2016</to>
+    </n_1262>
+  </experience>
+  <education>
+    <n_1034>
+      <id>1034</id>
+      <school>ĐH Hoa Sen</school>
+      <degrees/>
+      <fieldofstudy>Du lịch</fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_1034>
+  </education>
+  <user_cv>
+    <db>
+      <ui>6223</ui>
+      <title>Nhân viên pha chế, Barternder</title>
+      <experience>1</experience>
+      <category>16,19</category>
+      <type>1,2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Là một người hòa đồng vui tính, chịu khó trong công việc khuynh hướng học hỏi, đặc biệt luôn làm cho quầy bar của mình trở nên sạch sẽ nhất có thể.</about>
+      <skill>Pha chế rượu. </skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2126</id>
+      <email>Honghue678@gmail.com</email>
+      <username/>
+      <name>Nguyen thi hong hue</name>
+      <im>1473254698_nguyen-thi-hong-hue.jpg</im>
+      <gender>0</gender>
+      <phone>01217776769</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473254698</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhan vien</title>
+      <experience>1</experience>
+      <category>17</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,ar,rs</lang>
+      <skill/>
+      <ui>2126</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>140</strjo>
+  </appliedjob>
+</information>

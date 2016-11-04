@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6827</id>
+      <email>xuanb369@gmail.com</email>
+      <username/>
+      <name>Bùi Thị Hồng Xuân</name>
+      <im>1476874137_bui-thi-hong-xuan.png</im>
+      <gender>2</gender>
+      <phone>0937436535</phone>
+      <address>4/8 Văn Chung, phường 13, quận Tân Bình, TPHCM</address>
+      <city>30</city>
+      <dob>1997-2-6</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476874137</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>6</day>
+      <month>2</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.807718</lat>
+      <lng>106.646904</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Giao tiếp tốt</skill>
+      <ui>6827</ui>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>Tôi đang là sinh viên Đại Học Văn Hiến. Chuyên nghành marketing. Rất vui vẽ, hòa đồng. Tôi có kế hoạch cho bản thân là sẽ tìm được công việc ngòai giờ học, học tập thêm nhiều kỷ năng cho bản thân</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>64</strjo>
+  </appliedjob>
+  <education>
+    <n_1122>
+      <id>1122</id>
+      <school>Đại học văn hiến</school>
+      <degrees>năm 2</degrees>
+      <fieldofstudy>Marketing</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_1122>
+  </education>
+</information>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>537</id>
+      <email>nguyenthanhthao.sg@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thanh Thảo</name>
+      <im>537_13164252-284196465246552-5320590414672088007-n.jpg</im>
+      <gender>2</gender>
+      <phone>01674556971</phone>
+      <address>161A Võ Văn Tần Phường 6 Quận 3</address>
+      <city>30</city>
+      <dob>1994-2-6</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470445802</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>6</day>
+      <month>2</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.774512</lat>
+      <lng>106.688702</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_107>
+      <id>107</id>
+      <title>Trợ giảng</title>
+      <level>1</level>
+      <cmpname>Anh văn hội Việt Mỹ</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2013</from>
+      <to>Nay</to>
+    </n_107>
+  </experience>
+  <education>
+    <n_77>
+      <id>77</id>
+      <school>Đại học Sài Gòn</school>
+      <degrees>Đại Học</degrees>
+      <fieldofstudy>Tài Chính</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_77>
+  </education>
+  <user_cv>
+    <db>
+      <ui>537</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>15,16,17,26,27,29,31,35,36</category>
+      <type>1,2,3,4</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <skill>Giao tiếp tốt, hòa nhã&#13;
+Làm việc nhóm hiệu quả&#13;
+Biết lắng nghe khách hàng&#13;
+</skill>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng giải quyết tình huống,Tinh thần trách nhiệm,Chịu được áp lực công việc,Trung thực,Tự tin,Nhiệt tình,Tinh thần làm việc nhóm,Kỹ năng chăm sóc khách hàng</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>84,64,100,107</strjo>
+  </appliedjob>
+</information>

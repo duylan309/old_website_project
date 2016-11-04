@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1726</id>
+      <email>thaitrang0106@gmail.com</email>
+      <username/>
+      <name>Thái Sơn</name>
+      <im>1726_14022259-1874301916130788-1315312806032738746-n.jpg</im>
+      <gender>1</gender>
+      <phone>01212133491</phone>
+      <address>73/117 Nguyễn Biểu, P1, Q5 </address>
+      <city>30</city>
+      <dob>1998-2-19</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472825504</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1472825504</last_signin>
+      <day>19</day>
+      <month>2</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7542204</lat>
+      <lng>106.6833452</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_271>
+      <id>271</id>
+      <school>THPT Hùng Vương</school>
+      <degrees>Tốt nghiệp THPT</degrees>
+      <fieldofstudy/>
+      <from>2013</from>
+      <to>2016</to>
+    </n_271>
+  </education>
+  <user_cv>
+    <db>
+      <ui>1726</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>7</experience>
+      <category>14,15,20,29,31</category>
+      <type>1,2,4</type>
+      <level>2</level>
+      <lang>en</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Trung thực,Nhiệt tình,Tinh thần làm việc nhóm,Tập trung trong công việc</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>213</strjo>
+  </appliedjob>
+</information>

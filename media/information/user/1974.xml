@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1974</id>
+      <email>the.nguyen7428@yahoo.com</email>
+      <username/>
+      <name>Nguyễn Thế</name>
+      <im>1974_p4070024-2.jpg</im>
+      <gender>1</gender>
+      <dob>1993-4-15</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473122521</created>
+      <day>15</day>
+      <month>4</month>
+      <year>1993</year>
+      <last_signin>1473122521</last_signin>
+      <phone>0975617428</phone>
+      <address>79/7 Nguyễn Hữu Cầu, Phường Tân Định, Quận Phú Nhuận.</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7902838</lat>
+      <lng>106.6906119</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_319>
+      <id>319</id>
+      <school>Trung Cấp Sài Gòn Tourist</school>
+      <degrees>Loại khá.</degrees>
+      <fieldofstudy>Quản trị nhà hàng</fieldofstudy>
+      <from>2011</from>
+      <to>2013</to>
+    </n_319>
+  </education>
+  <experience>
+    <n_445>
+      <id>445</id>
+      <title>Chuyên viên pha chế cà phê.</title>
+      <level>1</level>
+      <cmpname>[a] café</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>9/2014</from>
+      <to>8/2016</to>
+    </n_445>
+    <n_447>
+      <id>447</id>
+      <title>Trainer</title>
+      <level>1</level>
+      <cmpname>Red door</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>1/2016</from>
+      <to>3/2016</to>
+    </n_447>
+    <n_448>
+      <id>448</id>
+      <title>Trainer</title>
+      <level>1</level>
+      <cmpname>Cowboy’s  Place</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>10/2015</from>
+      <to>12/2015</to>
+    </n_448>
+    <n_449>
+      <id>449</id>
+      <title>Nhân viên pha chế Tw</title>
+      <level>1</level>
+      <cmpname>Urban Station</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>1/2014</from>
+      <to>11/2014</to>
+    </n_449>
+    <n_450>
+      <id>450</id>
+      <title>Chuyên viên tư vấn bảo hiểm.</title>
+      <level>1</level>
+      <cmpname>Prudential</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>11/2011</from>
+      <to>11/2012</to>
+    </n_450>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>1974</ui>
+      <title>Pha chế cà phê</title>
+      <experience>4</experience>
+      <category>14,15,16,18,20,28,29,36</category>
+      <type>1,4,6</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <s1>7000000</s1>
+      <salary>1</salary>
+      <skill>Pha chế cà phê của Hà Lan, Đức, Pháp, và Ý&#13;
+Tìm hiểu chuyên sâu về giống cà phê, cà phê sạch, thưởng thức cà phê&#13;
+Đào tạo kỹ năng và nghiệp vụ pha chế cho nhân viên mới&#13;
++ 	Huấn luyện tìm hiểu chuyên sâu về giống cà phê, cà phê sạch, thưởng thức cà phê&#13;
++	Huấn luyện kỹ năng giao tiếp&#13;
++	Huấn luyện kỹ năng xử lý tình huống&#13;
++	Huấn luyện chăm sóc khách hàng&#13;
++	Huấn luyện pha chế cà phê của Hà Lan, Đức, Pháp, và Ý&#13;
++	Huấn luyện kỹ năng phục vụ &#13;
+Hỗ trợ pha chế sự kiện Bourbon Party New Crop 2015</skill>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Tinh thần trách nhiệm,Trung thực,Tự tin</keyword>
+    </db>
+  </user_cv>
+</information>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>281</id>
+      <email>lucas.trongnghia@gmail.com</email>
+      <username/>
+      <name>Pham Trong Nghia</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0937026404</phone>
+      <address>218 Str. Pham Van Hai St., 5 Ward, Tan Binh Dist.</address>
+      <city>30</city>
+      <dob>1990-9-27</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1468082128</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>27</day>
+      <month>9</month>
+      <year>1990</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_19>
+      <id>19</id>
+      <title>Pastry Cook</title>
+      <level>1</level>
+      <cmpname>Doing pastry for my own online bakery</cmpname>
+      <city>HCMC</city>
+      <country>Vietnam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_19>
+    <n_20>
+      <id>20</id>
+      <title>coder</title>
+      <level>1</level>
+      <cmpname>Private Major ERP Software Project for An Binh Security Co.</cmpname>
+      <city>HCMC</city>
+      <country>Vietnam</country>
+      <from>2013</from>
+      <to>2015</to>
+    </n_20>
+  </experience>
+  <education>
+    <n_18>
+      <id>18</id>
+      <school>Hoa Sen University</school>
+      <degrees>B.A</degrees>
+      <fieldofstudy>IT</fieldofstudy>
+      <from>2008</from>
+      <to>2013</to>
+    </n_18>
+  </education>
+  <user_cv>
+    <db>
+      <ui>281</ui>
+      <title>Barista, pastry cook</title>
+      <category>14,15</category>
+      <location>30</location>
+      <type>1</type>
+      <level>3</level>
+      <experience>1</experience>
+      <lang>vi,en,ja</lang>
+      <s1>250</s1>
+      <salary>2</salary>
+      <skill>- Kneading, maturing, cutting, mixing and shaping dough.&#13;
+- Cakes decoration&#13;
+- Fast learning&#13;
+- Well-listening&#13;
+</skill>
+      <s2>5500000</s2>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>63</strjo>
+  </appliedjob>
+</information>

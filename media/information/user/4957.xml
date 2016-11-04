@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4957</id>
+      <email>thunguyen17593@gmail.com</email>
+      <username/>
+      <name>Thư Thư</name>
+      <im>4957_image.jpeg</im>
+      <gender>2</gender>
+      <dob>1993-5-17</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475602028</created>
+      <day>17</day>
+      <month>5</month>
+      <year>1993</year>
+      <phone>0938756422</phone>
+      <address>tân bình</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8014659</lat>
+      <lng>106.6525974</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>thu ngân lễ tân</title>
+      <experience>1</experience>
+      <category>14,15,16,17,19,26,29,30</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>en</lang>
+      <skill>giao tiếp tự tin&#13;
+ăn nói lưu loát</skill>
+      <ui>4957</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>năng động &#13;
+hoạt bát&#13;
+có tinh thần trách nhiệm cao&#13;
+giao tiếp tốt, tự tin với công việc được giao&#13;
+chịu được áp lực cao &#13;
+nhiệt tình, tỉ mỉ và có tính cầu tiến</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>275,334,410,260,408,322</strjo>
+  </appliedjob>
+  <experience>
+    <n_1033>
+      <id>1033</id>
+      <title>barista</title>
+      <level>1</level>
+      <cmpname>starbuck</cmpname>
+      <city>hồ chí minh</city>
+      <country>việt nam</country>
+      <from>2014</from>
+      <to>2015</to>
+    </n_1033>
+    <n_1034>
+      <id>1034</id>
+      <title>barista</title>
+      <level>1</level>
+      <cmpname>gloria jean coffee</cmpname>
+      <city>hồ chí minh</city>
+      <country>vietnam</country>
+      <from>2012</from>
+      <to>2013</to>
+    </n_1034>
+    <n_1035>
+      <id>1035</id>
+      <title>store manager</title>
+      <level>1</level>
+      <cmpname>The space</cmpname>
+      <city>hồ chí minh</city>
+      <country>vietnam</country>
+      <from>5/2016</from>
+      <to>10/2016</to>
+    </n_1035>
+    <n_1036>
+      <id>1036</id>
+      <title>nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Grillbar restaurant</cmpname>
+      <city>hồ chí minh</city>
+      <country>vietnam</country>
+      <from>2013</from>
+      <to>2014</to>
+    </n_1036>
+    <n_1046>
+      <id>1046</id>
+      <title>nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>Thuy Design House , Her accessories , Orange , Cocosin</cmpname>
+      <city>Hồ chí minh</city>
+      <country>vietnam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_1046>
+  </experience>
+</information>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5968</id>
+      <email>hoangphilong812@gmal.com</email>
+      <username/>
+      <name>Hoàng Phi Long</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0984367893</phone>
+      <address>95/6 Đường số 3, Phường 9, Quận Gò Vấp, TP HCM</address>
+      <city>30</city>
+      <dob>1993-12-8</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476287008</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476287008</last_signin>
+      <day>8</day>
+      <month>12</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.845539</lat>
+      <lng>106.6508485</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_991>
+      <id>991</id>
+      <school>Đại Học Công Nghiệp Tp HCM</school>
+      <degrees>Trung Cấp</degrees>
+      <fieldofstudy>Công Nghệ Thông TIn</fieldofstudy>
+      <from>2011</from>
+      <to>2013</to>
+    </n_991>
+  </education>
+  <experience>
+    <n_1218>
+      <id>1218</id>
+      <title>Hồ Chí Minh</title>
+      <level>1</level>
+      <cmpname>Golden - Garden</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_1218>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>5968</ui>
+      <title>Phụ Bếp Âu</title>
+      <experience>7</experience>
+      <category>14</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Do đam mê nghề bếp từ lâu nay em đang theo học khóa bếp Âu. Nay em muốn ứng tuyển vào vị trí phụ bếp để trau dồi thêm kinh nghiệm và để phát triển thêm.&#13;
+- Tìm kiếm cơ hội học hỏi và phấn đấu để trở thành đầu bếp giỏi.</about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>443,276,451</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>3</total>
+    <strjo>443,276,451</strjo>
+  </savedjob>
+</information>

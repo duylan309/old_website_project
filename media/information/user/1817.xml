@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1817</id>
+      <email>trang251194@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Thuỳ Trang</name>
+      <im>1472970532_nguye-n-thi-thuy-trang.jpg</im>
+      <gender>2</gender>
+      <phone>01212070155</phone>
+      <address>155 Nguyễn xí, phường 26, quận Bình Thạnh</address>
+      <city/>
+      <dob>1994-11-25</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472970532</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>25</day>
+      <month>11</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng, nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,29,31,35</category>
+      <type>4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Quản trị khách sạn- nhà hàng</skill>
+      <ui>1817</ui>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <keyword>Tinh thần làm việc nhóm,Tập trung trong công việc,Trung thực,Tự tin,Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>156,140,211,124</strjo>
+  </appliedjob>
+  <experience>
+    <n_402>
+      <id>402</id>
+      <title>Nhân viên phục vụ yến tiệc</title>
+      <level>1</level>
+      <cmpname>Nikko Saigon Hotel</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>tháng 10/2014</from>
+      <to>tháng 10/2015</to>
+    </n_402>
+    <n_403>
+      <id>403</id>
+      <title>Nhân viên phục vụ a la carte</title>
+      <level>1</level>
+      <cmpname>Hog’s Breath Cafe</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>4/2016</from>
+      <to>8/2016</to>
+    </n_403>
+  </experience>
+  <education>
+    <n_287>
+      <id>287</id>
+      <school>Cao đẳng nghề Du lịch Sài gòn</school>
+      <degrees>Khá</degrees>
+      <fieldofstudy>Quản trị khách sạn - nhà hàng</fieldofstudy>
+      <from>2012</from>
+      <to>2015</to>
+    </n_287>
+  </education>
+</information>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2913</id>
+      <email>ttaattttmail@gmail.com</email>
+      <username/>
+      <name>Trà sữa Hưong Trà</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0902722883</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1474078490</created>
+      <dayleft>1476670490</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1474078490</last_signin>
+      <jobleft>2</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>3</total>
+    <strji>291,292,347</strji>
+  </totalJob>
+  <saveuser>
+    <total>7</total>
+    <strui>2941,2451,3313,3600,3120,3816,3942</strui>
+  </saveuser>
+</information>

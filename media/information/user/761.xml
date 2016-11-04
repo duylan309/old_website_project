@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>761</id>
+      <email>thanhngan192015@gmail.com</email>
+      <username/>
+      <name>Trần đình thành</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0981819434</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471002214</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Bếp  tủ thớt</title>
+      <experience>2</experience>
+      <category>14</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Bbb</skill>
+      <ui>761</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>139</strjo>
+  </appliedjob>
+</information>

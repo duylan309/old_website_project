@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6835</id>
+      <email>mynguyen24089@gmail.com</email>
+      <username/>
+      <name>Ngô Thảo My</name>
+      <im>6835_14647433-622438287917573-1517217892-o.jpg</im>
+      <gender>2</gender>
+      <phone>01226730350</phone>
+      <address>497/50 đường Thống Nhất, phường 16,quận Gò Vấp</address>
+      <city>30</city>
+      <dob>1997-8-24</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476882744</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476882744</last_signin>
+      <day>24</day>
+      <month>8</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8451911</lat>
+      <lng>106.6648241</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6835</ui>
+      <title>Nhân viên pha chế cà phê</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>2,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <about>Tôi tên là Thảo My. Năm nay 19 tuổi. Tôi đã tốt nghiệp trung học phổ thông.Hiện nay tôi đang học thêm tiếng anh.Tôi là người cẩn thận và chăm chỉ. Tôi ham học hỏi.Tôi khá nghiêm túc trong công việc và tôi có thể chịu đựng được áp lực cao</about>
+      <skill>Tôi rất năng động và biết lắng nghe.</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>215,172</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>215</strjo>
+  </savedjob>
+  <experience>
+    <n_1556>
+      <id>1556</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Trà sữa oxy</cmpname>
+      <city>Tp Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>10/2015</from>
+      <to>2/2016</to>
+    </n_1556>
+  </experience>
+</information>

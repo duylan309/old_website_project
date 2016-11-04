@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>512</id>
+    <ui>7522</ui>
+    <ci>425</ci>
+    <ai>0</ai>
+    <ti>Nhân viên phục vụ </ti>
+    <ta/>
+    <le>2</le>
+    <ty>1,4</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>3750000</s1>
+    <s2>6000000</s2>
+    <s3>170</s3>
+    <s4>272</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>16,19</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description>- Chào đón khách hàng niềm nở, sắp xếp chỗ ngồi.\r\n- Ghi order, chuyển thức ăn, thu tiền.\r\n- Dọn dẹp vệ sinh khu vực ăn uống, pha chế.\r\n- Thực hiện một số công việc khác do quản lý giao.\r\n</description>
+    <requirement>- Tuổi từ 18 - 28 tuổi\r\n- Ưu tiên ngoại hình đẹp.\r\n- Nữ, có kinh nghiệm làm việc trong nhà hàng, bars.\r\n- Nhanh nhẹn, chịu khó, thật thà, hòa đồng, dễ thích nghi.\r\n- Giao tiếp tiếng Anh</requirement>
+    <workhour/>
+    <benefit>Theo quy định Nhà nước\r\n- Lương khởi điểm nhân viên phục vụ : 3,750 -6 triệu.\r\n- Tiền tips cao.\r\n- Bao ăn, phụ cấp tiền gửi xe hàng tháng.\r\n- Làm việc 6 ngày/ tuần, 1 ca  làm 8 tiếng.\r\n</benefit>
+    <keyword>Giao tiếp hiệu quả,Kỹ năng giải quyết tình huống,Tinh thần trách nhiệm,Nhiệt tình,Trung thực,Tinh thần làm việc nhóm</keyword>
+    <ad/>
+    <location_id>371</location_id>
+    <lat>10.773519</lat>
+    <lng>10.773519</lng>
+    <de>2016-11-23</de>
+    <re>0000-00-00</re>
+    <cr>1477298384</cr>
+  </db>
+  <more>
+    <requirement>- Tuổi từ 18 - 28 tuổi&#13;
+- Ưu tiên ngoại hình đẹp.&#13;
+- Nữ, có kinh nghiệm làm việc trong nhà hàng, bars.&#13;
+- Nhanh nhẹn, chịu khó, thật thà, hòa đồng, dễ thích nghi.&#13;
+- Giao tiếp tiếng Anh</requirement>
+    <description>- Chào đón khách hàng niềm nở, sắp xếp chỗ ngồi.&#13;
+- Ghi order, chuyển thức ăn, thu tiền.&#13;
+- Dọn dẹp vệ sinh khu vực ăn uống, pha chế.&#13;
+- Thực hiện một số công việc khác do quản lý giao.&#13;
+</description>
+    <workhour>- Làm việc ca tối.&#13;
+- Thảo luận thêm khi phỏng vấn.</workhour>
+    <benefit>Theo quy định Nhà nước&#13;
+- Lương khởi điểm nhân viên phục vụ : 3,750 -6 triệu.&#13;
+- Tiền tips cao.&#13;
+- Bao ăn, phụ cấp tiền gửi xe hàng tháng.&#13;
+- Làm việc 6 ngày/ tuần, 1 ca  làm 8 tiếng.&#13;
+</benefit>
+    <keyword>Giao tiếp hiệu quả,Kỹ năng giải quyết tình huống,Tinh thần trách nhiệm,Nhiệt tình,Trung thực,Tinh thần làm việc nhóm</keyword>
+  </more>
+  <userapplied>
+    <total>1</total>
+    <strui>3834</strui>
+  </userapplied>
+</information>

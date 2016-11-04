@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3881</id>
+      <email>nhiayumi@gmail.com</email>
+      <username/>
+      <name>Su Nguyễn</name>
+      <im>936532619786466_su-nguyen.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474883401</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên bán hàng</title>
+      <experience>7</experience>
+      <category>14,15,16,27</category>
+      <type>2,4,5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>3881</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>192,165,172</strjo>
+  </appliedjob>
+</information>

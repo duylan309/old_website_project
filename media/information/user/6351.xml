@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6351</id>
+      <email>violetpham0202096@gmail.com</email>
+      <username/>
+      <name>Tuyet Pham</name>
+      <im>1656263271331836_tuyet-pham.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476518161</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Cashier, nhân viên phục vụ, pha chế</title>
+      <experience>2</experience>
+      <category>15,16,19,20,27,29,35</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>6351</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>222</strjo>
+  </appliedjob>
+  <experience>
+    <n_1283>
+      <id>1283</id>
+      <title>Cashier, nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Công ty Mesa nhà hàng Texas Chicken</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>2015</to>
+    </n_1283>
+    <n_1284>
+      <id>1284</id>
+      <title>Cashier, nhân viên phục vụ, pha chế</title>
+      <level>1</level>
+      <cmpname>Hoppy Juice Bars</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_1284>
+  </experience>
+  <education>
+    <n_1053>
+      <id>1053</id>
+      <school>Saigon Tourist Hospitality College</school>
+      <degrees>Trung cấp</degrees>
+      <fieldofstudy>Restaurant Manager</fieldofstudy>
+      <from>2015</from>
+      <to>2016</to>
+    </n_1053>
+  </education>
+</information>

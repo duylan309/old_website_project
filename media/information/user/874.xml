@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>874</id>
+      <email>Ngocanh2508ueh@gmail.com</email>
+      <username/>
+      <name>NGUYỄN LÊ NGỌC ÁNH</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01223094369</phone>
+      <address>606 ba tháng hai</address>
+      <city>30</city>
+      <dob>1997-8-25</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471353211</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>25</day>
+      <month>8</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7651586</lat>
+      <lng>106.6623545</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phụ bếp/ Phục vụ/ Pha chế / Thu ngân/..</title>
+      <experience>7</experience>
+      <category>14,15,17,27,31,35</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill></skill>
+      <ui>874</ui>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <keyword>Kỹ năng chăm sóc khách hàng,Tập trung trong công việc,Trung thực,Chịu được áp lực công việc,Nhiệt tình</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>153</strjo>
+  </appliedjob>
+  <experience>
+    <n_204>
+      <id>204</id>
+      <title>Telesale</title>
+      <level>1</level>
+      <cmpname>New Zealand Promotion Education</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2016</from>
+      <to>2016</to>
+    </n_204>
+  </experience>
+  <education>
+    <n_141>
+      <id>141</id>
+      <school>Đại học Kinh tế TPHCM</school>
+      <degrees>Chưa tốt nghiệp</degrees>
+      <fieldofstudy>Tài chính</fieldofstudy>
+      <from>2015</from>
+      <to>2020</to>
+    </n_141>
+  </education>
+</information>

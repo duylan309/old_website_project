@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>408</id>
+      <email>nghib29@gmail.com</email>
+      <username/>
+      <name>Lý Bảo Nghi</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0909537170</phone>
+      <address/>
+      <city/>
+      <dob>1998-10-15</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470060701</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>15</day>
+      <month>10</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>408</ui>
+      <title>Nhân viên phục vụ, thu ngân</title>
+      <experience>7</experience>
+      <category>14,15,17,31,35</category>
+      <type>1,2,4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Tinh thần trách nhiệm,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Tự tin,Nhiệt tình</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>107,105,100</strjo>
+  </appliedjob>
+</information>

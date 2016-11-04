@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4298</id>
+      <email>one_kiss_sweet_9x@yahoo.com.vn</email>
+      <username/>
+      <name>Lã Minh Đức</name>
+      <im>860266850741277_la-minh-duc.jpg</im>
+      <gender>1</gender>
+      <dob>1996-8-23</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475060488</created>
+      <day>23</day>
+      <month>8</month>
+      <year>1996</year>
+      <last_signin>1475060488</last_signin>
+      <phone>01233725319</phone>
+      <address>Khu căn hộ Hoàng Anh Gia Lai An Tiến</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>4298</ui>
+      <title>waiter, service,...</title>
+      <experience>7</experience>
+      <category>14,16,19,26</category>
+      <type>2,6</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Có trách nhiệm, ngoại hình, có ngoại ngữ giao tiếp.</about>
+      <skill>Đã từng làm phục vụ Highland, seller cho adidas.</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>334</strjo>
+  </appliedjob>
+</information>

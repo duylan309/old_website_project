@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3726</id>
+      <email>hanphan97@gmail.com</email>
+      <username/>
+      <name>Phan Thị Ngọc Hân</name>
+      <im>3726_11737816-522409117914657-3460863553987935524-n.jpg</im>
+      <gender>2</gender>
+      <phone>0927372229</phone>
+      <address>154/49/55L Âu Dương Lân phường 3 quận 8</address>
+      <city>30</city>
+      <dob>1997-6-17</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474790419</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1474790419</last_signin>
+      <day>17</day>
+      <month>6</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7442689</lat>
+      <lng>106.6807649</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_825>
+      <id>825</id>
+      <title>nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>quán cơm</cmpname>
+      <city/>
+      <country/>
+      <from>2014</from>
+      <to>2015</to>
+    </n_825>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>3726</ui>
+      <title>nhân viên</title>
+      <experience>1</experience>
+      <category>31,35</category>
+      <type>2,5</type>
+      <level>2,3,5</level>
+      <lang>vi</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about></about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

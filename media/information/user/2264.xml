@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2264</id>
+      <email>thuyngocsy1995@gmail.com</email>
+      <username/>
+      <name>thủy ngọc sỹ</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0969959021</phone>
+      <address>241 kha vạn cân thủ đức</address>
+      <city>30</city>
+      <dob>1995-7-29</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473338145</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>29</day>
+      <month>7</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.824784</lat>
+      <lng>106.715414</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>phụ bếp</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>2264</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Đã học hướng nghiệp á âu và &#13;
+Đã có 1 năm kinh nghiệm làm bếp</about>
+      <keyword>Tinh thần trách nhiệm,Nhiệt tình,Tự tin,Chịu được áp lực công việc</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>114,206,139,125,247</strjo>
+  </appliedjob>
+  <education>
+    <n_357>
+      <id>357</id>
+      <school>hướng nghiệp á âu</school>
+      <degrees>khá</degrees>
+      <fieldofstudy>bếp trưởng điều hành</fieldofstudy>
+      <from>2014</from>
+      <to>2015</to>
+    </n_357>
+  </education>
+  <experience>
+    <n_508>
+      <id>508</id>
+      <title>phụ bếp</title>
+      <level>1</level>
+      <cmpname>siverland hotell</cmpname>
+      <city>tp.hồ chí minh</city>
+      <country>việt nam</country>
+      <from>2014</from>
+      <to>2015</to>
+    </n_508>
+  </experience>
+  <savedjob>
+    <total>2</total>
+    <strjo>206,125</strjo>
+  </savedjob>
+</information>

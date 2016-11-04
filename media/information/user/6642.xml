@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6642</id>
+      <email>hien1504@icloud.com</email>
+      <username/>
+      <name>Ngô Văn Hiển</name>
+      <im>950428988419632_no-vo-ho.jpg</im>
+      <gender>1</gender>
+      <dob>01998-4-15</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476761365</created>
+      <day>15</day>
+      <month>4</month>
+      <year>01998</year>
+      <phone>0938619223</phone>
+      <address>67/200 Bùi Đình Tuý Phường 12 Quận Bình Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.810104</lat>
+      <lng>106.703206</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6642</ui>
+      <title>Nhân viên</title>
+      <experience>1</experience>
+      <category>14,15</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Học hết 12 nhưng không đỗ tốt nghiệp và đại học </about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>470,302,459</strjo>
+  </appliedjob>
+</information>

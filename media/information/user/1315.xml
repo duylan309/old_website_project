@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1315</id>
+      <email>thanhtructruc280895@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Thanh Trúc</name>
+      <im>1315_921-truc.jpg</im>
+      <gender>2</gender>
+      <phone>01665586063</phone>
+      <address>Lê Quang Kim F9 Q8</address>
+      <city/>
+      <dob>1995-8-28</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472107454</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>28</day>
+      <month>8</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên</title>
+      <experience>1</experience>
+      <category>14,15,17,20,28,29,35</category>
+      <type>2,5,6</type>
+      <level>2</level>
+      <lang>vi,en,kr</lang>
+      <skill>-Có thể giao tiếp cơ bản bằng tiếng anh và tiếng hàn.&#13;
+-Có kỹ năng sử dụng máy tính căn bản.</skill>
+      <ui>1315</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>-Là một người chăm chỉ, vui vẻ, khả năng làm việc nhóm tốt.&#13;
+</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>14</total>
+    <strjo>156,234,202,124,252,279,235,294,100,247,371,165,172,301</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>2</total>
+    <strjo>279,371</strjo>
+  </savedjob>
+  <education>
+    <n_1047>
+      <id>1047</id>
+      <school>Cao đẳng kinh tế đối ngoại</school>
+      <degrees/>
+      <fieldofstudy>tiếng anh thương mại</fieldofstudy>
+      <from>2016</from>
+      <to>2018</to>
+    </n_1047>
+  </education>
+  <experience>
+    <n_1296>
+      <id>1296</id>
+      <title>Nhân viên tiếp thị</title>
+      <level>1</level>
+      <cmpname>Cty Cổ Phần SX-TM Tài Tài</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>7/2016</from>
+      <to>9/2016</to>
+    </n_1296>
+  </experience>
+</information>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7518</id>
+      <email>tranhongocnhan123@gmail.com</email>
+      <username/>
+      <name>trần hồ ngọc nhân</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0938876326</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477296896</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,36</category>
+      <type>2,4,6</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill>đã từng làm phục vụ một số quán cafe</skill>
+      <ui>7518</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>474</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6282</id>
+      <email>hokhanhlinh0901@gmail.com</email>
+      <username/>
+      <name>Khánh Linh</name>
+      <im>6282_image.jpg</im>
+      <gender>2</gender>
+      <phone>01676934515</phone>
+      <address>Kỳ đồng, phường 9, quận 3</address>
+      <city>30</city>
+      <dob>1997-12-6</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476461742</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476461742</last_signin>
+      <day>6</day>
+      <month>12</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7825112</lat>
+      <lng>106.6821149</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6282</ui>
+      <title>Nhân viên phục vụ, lễ tân</title>
+      <experience>7</experience>
+      <category>15,16,19,29,31</category>
+      <type>2,4</type>
+      <level>1,2</level>
+      <lang>vi</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Sinh viên</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>323</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>897</id>
+      <email>tringuyendo@gmail.com</email>
+      <username/>
+      <name>Trí Nguyên Đỗ</name>
+      <im>619979801496793_tri-nguyen-do.jpg</im>
+      <gender>2</gender>
+      <dob>1995-5-4</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471368217</created>
+      <day>4</day>
+      <month>5</month>
+      <year>1995</year>
+      <phone>01668752805</phone>
+      <address>1005/35, Nguyễn Kiệm, phường 3, Gò Vấp</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8152847</lat>
+      <lng>106.6785983</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_144>
+      <id>144</id>
+      <school>Đại học Công Nghiệp Tp. Hồ Chí Minh</school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy>Quản trị nhà hàng - khách sạn</fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_144>
+  </education>
+  <user_cv>
+    <db>
+      <ui>897</ui>
+      <title>Waiter/ Waitress</title>
+      <experience>1</experience>
+      <category>14,20</category>
+      <type>4,5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Giao tiếp hiệu quả,Chịu được áp lực công việc,Trung thực,Tinh thần làm việc nhóm,Nhiệt tình,Tự tin,Tinh thần trách nhiệm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>64</strjo>
+  </appliedjob>
+</information>

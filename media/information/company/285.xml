@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>285</id>
+    <ui>1385</ui>
+    <name>Nhà Hàng Con Ốc</name>
+    <url>Conocqua</url>
+    <im></im>
+    <im_banner></im_banner>
+    <category>14</category>
+    <phone></phone>
+    <address>150/39, Nguyễn Trãi, Quận 1</address>
+    <district>0</district>
+    <district_text_vi></district_text_vi>
+    <district_text_en></district_text_en>
+    <city>30</city>
+    <lat>10.770192</lat>
+    <lng>106.689781</lng>
+    <website></website>
+    <about></about>
+    <facebook></facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>0</fb_load_newfeed>
+    <fb_load_photo>0</fb_load_photo>
+    <created>1472211725</created>
+  </db>
+  <more>
+    <about>Con Ốc Quán chuyên các món ăn từ Ốc vị miền bắc</about>
+    <whyworkus></whyworkus>
+  </more>
+  <companybanner></companybanner>
+</information>

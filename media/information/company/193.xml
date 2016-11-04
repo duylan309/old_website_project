@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>193</id>
+    <ui>224</ui>
+    <name>Hoa Túc Contemporary Vietnamese Cuisine</name>
+    <url>hoatucrestaurant</url>
+    <im></im>
+    <im_banner></im_banner>
+    <category>14</category>
+    <phone>08 3825 1676</phone>
+    <address>74/7 Hai Bà Trưng</address>
+    <district>760</district>
+    <district_text_vi>Quận 1</district_text_vi>
+    <district_text_en>District 1</district_text_en>
+    <city>30</city>
+    <lat>10.778543</lat>
+    <lng>106.703644</lng>
+    <website>www.hoatuc.com</website>
+    <about></about>
+    <facebook>https://www.facebook.com/HoaTucSaigon/</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>0</fb_load_newfeed>
+    <fb_load_photo>0</fb_load_photo>
+    <created>1467173548</created>
+  </db>
+  <more>
+    <about></about>
+    <whyworkus></whyworkus>
+  </more>
+</information>

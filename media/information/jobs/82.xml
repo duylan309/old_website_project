@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>82</id>
+    <ui>268</ui>
+    <ci>208</ci>
+    <ai>0</ai>
+    <ti>Nhân viên bán hàng</ti>
+    <ta/>
+    <le>3</le>
+    <ty>5</ty>
+    <ex>1,7</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>17</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>1</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description>- Giới thiệu và tư vấn sản phẩm với khách hàng. \r\n- Theo dõi tình hình hàng hoá.  \r\n- Đảm bảo vệ sinh sạch sẽ khu vực bán hàng </description>
+    <requirement>tốt nghiệp lớp 12</requirement>
+    <ad>411, Võ Văn Tần, Quận 3</ad>
+    <lat>10.770113</lat>
+    <lng>106.684517</lng>
+    <de>2016-11-11</de>
+    <re>0000-00-00</re>
+    <cr>1476162599</cr>
+    <location_id>9</location_id>
+    <benefit></benefit>
+    <keyword></keyword>
+  </db>
+  <more>
+    <requirement>tốt nghiệp lớp 12</requirement>
+    <description>- Giới thiệu và tư vấn sản phẩm với khách hàng. &#13;
+- Theo dõi tình hình hàng hoá.  &#13;
+- Đảm bảo vệ sinh sạch sẽ khu vực bán hàng </description>
+    <benefit></benefit>
+    <keyword></keyword>
+  </more>
+  <userapplied>
+    <total>50</total>
+    <strui>311,292,351,364,369,367,372,361,394,402,410,412,416,420,439,447,448,396,457,469,478,505,526,529,535,543,471,554,556,571,582,656,671,458,689,699,715,733,737,772,787,799,612,816,825,844,877,902,987,2236</strui>
+  </userapplied>
+</information>

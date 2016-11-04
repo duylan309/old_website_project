@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7769</id>
+      <email>truongtuanueh199@gmail.com</email>
+      <username/>
+      <name>Trương Hồ Văn Tuấn</name>
+      <im>1477452010_truong-ho-van-tuan.png</im>
+      <gender>0</gender>
+      <phone>0975 958 751</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477452010</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục vụ, pha chế</title>
+      <experience>1</experience>
+      <category>14,31,35</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>giao tiếp, làm việc nhóm</skill>
+      <ui>7769</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>434</strjo>
+  </appliedjob>
+</information>

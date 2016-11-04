@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3353</id>
+      <email>thanhthaoo.nguyenn@gmail.com</email>
+      <username/>
+      <name>Nguyễn Tuấn Thanh Thảo</name>
+      <im>1474548000_nguyen-tuan-thanh-thao.png</im>
+      <gender>2</gender>
+      <phone>0935504944</phone>
+      <address>49 Đường 66, Phường Thảo Điền, Quận 2</address>
+      <city>30</city>
+      <dob>1998-6-15</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474548000</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>15</day>
+      <month>6</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.813433</lat>
+      <lng>106.728674</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,17</category>
+      <type>2</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>3353</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>79,301,211,86,298,219</strjo>
+  </appliedjob>
+  <experience>
+    <n_744>
+      <id>744</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>The Coffee Factory</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Viet Nam</country>
+      <from>7.9.2016</from>
+      <to>nay</to>
+    </n_744>
+  </experience>
+  <education>
+    <n_547>
+      <id>547</id>
+      <school>International School Ho Chi Minh City - American Academy</school>
+      <degrees>Diploma</degrees>
+      <fieldofstudy/>
+      <from>2013</from>
+      <to>2016</to>
+    </n_547>
+  </education>
+</information>

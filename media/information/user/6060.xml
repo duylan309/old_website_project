@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6060</id>
+      <email>Kiet2308@gmail.com</email>
+      <username/>
+      <name>Trần Thế Anh</name>
+      <im>666787670147219_anh-vo-suy.jpg</im>
+      <gender>1</gender>
+      <dob>1997-5-3</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476356816</created>
+      <day>3</day>
+      <month>5</month>
+      <year>1997</year>
+      <phone>01698981469</phone>
+      <address></address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6060</ui>
+      <title>Phụ bếp</title>
+      <experience>2</experience>
+      <category>14</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Tôi đã phụ bếp nhà hàng Harry Casual đã được 1 năm rưỡi</about>
+      <skill>Phụ bếp</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>7</total>
+    <strjo>443,376,358,363,191,136,139</strjo>
+  </appliedjob>
+  <experience>
+    <n_1253>
+      <id>1253</id>
+      <title>Phụ bếp</title>
+      <level>1</level>
+      <cmpname>Harry casual</cmpname>
+      <city>Tp.HCM</city>
+      <country>Việt Nam </country>
+      <from>10/5/2015</from>
+      <to>1/10/2016</to>
+    </n_1253>
+  </experience>
+  <education>
+    <n_1027>
+      <id>1027</id>
+      <school>THCS Tân Hội</school>
+      <degrees>Trung học</degrees>
+      <fieldofstudy>Bếp</fieldofstudy>
+      <from>2009</from>
+      <to>2014</to>
+    </n_1027>
+  </education>
+</information>

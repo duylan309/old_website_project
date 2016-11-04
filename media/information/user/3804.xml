@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3804</id>
+      <email>theteastore.just@gmail.com</email>
+      <username/>
+      <name>Ngô Anh Thư</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01206649439</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1474862257</created>
+      <dayleft>1480046257</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1474862257</last_signin>
+      <jobleft>3</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>4</total>
+    <strji>337,338,511,524</strji>
+  </totalJob>
+  <saveuser>
+    <total>20</total>
+    <strui>3808,3884,4002,4129,4188,4286,4466,292,4718,1714,1605,5428,6075,6203,6256,6489,4875,6529,6611,3022</strui>
+  </saveuser>
+</information>

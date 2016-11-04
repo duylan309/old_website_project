@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3120</id>
+      <email>josemourinho26011963@yahoo.com</email>
+      <username/>
+      <name>Thái Trường An</name>
+      <im>1474301019_thai-truong-an.png</im>
+      <gender>2</gender>
+      <phone>01223829637</phone>
+      <address>275 Lê Đại Hành p13 q11</address>
+      <city>30</city>
+      <dob>1995-12-10</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474301019</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>10</day>
+      <month>12</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.764574</lat>
+      <lng>106.655141</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ, nhân viên bán hàng, lễ tân</title>
+      <experience>2</experience>
+      <category>14,15,20,26,29,31,35</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Chịu được áp lực cao, giao tiếp tiếng anh</skill>
+      <ui>3120</ui>
+      <s1>3700000</s1>
+      <salary>1</salary>
+      <about>Vui vẻ, hòa đồng, có ngoại hình, năng động và nhiệt tình, luôn trung thực, nghe lời dạy bảo của đan anh đàn chị đi trước</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>28</total>
+    <strjo>287,199,275,131,273,156,151,249,219,292,92,124,335,364,363,402,386,294,107,334,348,368,349,476,423,477,371,478</strjo>
+  </appliedjob>
+  <experience>
+    <n_692>
+      <id>692</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>The Pizza Company</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>4/2015</from>
+      <to>6/2016</to>
+    </n_692>
+    <n_693>
+      <id>693</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>MINISTOP</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>6/2016</from>
+      <to>8/2016</to>
+    </n_693>
+  </experience>
+  <education>
+    <n_512>
+      <id>512</id>
+      <school>GDTX Chu Văn An</school>
+      <degrees/>
+      <fieldofstudy/>
+      <from>2010</from>
+      <to>2013</to>
+    </n_512>
+  </education>
+</information>

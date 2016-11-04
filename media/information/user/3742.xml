@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3742</id>
+      <email>phuongthuycow@gmail.com</email>
+      <username/>
+      <name>Nguyễn Phương Thủy</name>
+      <im>700389003452477_phuong-thuy.jpg</im>
+      <gender>2</gender>
+      <dob>1997-5-22</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474806992</created>
+      <day>22</day>
+      <month>5</month>
+      <year>1997</year>
+      <phone>01695791875</phone>
+      <address>86/11 TCH36 phường Tân Chánh Hiệp Q12</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8529531</lat>
+      <lng>106.6261124</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_831>
+      <id>831</id>
+      <title>nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>nhà hàng Him Lam Palace</cmpname>
+      <city>Hồ Chí Minh </city>
+      <country>Việt Nam</country>
+      <from>05/2016</from>
+      <to>9/2016</to>
+    </n_831>
+  </experience>
+  <education>
+    <n_616>
+      <id>616</id>
+      <school>Đại học Ngoại ngữ - Tin học thành phố Hồ Chí Minh ( HUFLIT)</school>
+      <degrees>đại học</degrees>
+      <fieldofstudy>marketing</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_616>
+  </education>
+  <user_cv>
+    <db>
+      <ui>3742</ui>
+      <title>nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>2,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about> Năng động, nói năng lưu loát và thân thiện với mọi người xung quanh là thế mạnh khiến em tự tin hơn về bản thân mình. Tuy nhiên, bên cạnh ưu điểm em còn có những mặt hạn chế như chưa biết nói không với một số việc không quan trọng khiến bản thân đôi lúc ôm đồm quá nhiều thứ và để xảy ra những sai sót không đáng. Em cũng đã và đang tích cực khắc phục nhược điểm này bằng cách xem xét và chọn lọc kỹ càng mọi thứ để bản thân có thể hoàn thành một cách tốt nhất. &#13;
+ Em thích được giao lưu, được tương tác với mọi người để tích lũy thêm kinh nghiệm sống cho chính bản thân cũng như được trải nghiệm thêm những điều mới. Đọc sách, nghe nhạc, ăn uống, đi du lịch đặc biệt là đi phượt,……cũng là những sở thích cá nhân của em. &#13;
+</about>
+      <skill>Vui vẻ,  hoà đồng có ý thức công việc, .....Đặt quyền lợi khách hàng lên hàng đầu, chịu khó cần cù..&#13;
+&#13;
+</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>130,222</strjo>
+  </appliedjob>
+</information>

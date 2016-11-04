@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>8052</id>
+      <email>nhiphamvl95@gmail.com</email>
+      <username/>
+      <name>PHẠM NGỌC DIỄM NHI</name>
+      <im>1477633692_pham-ngoc-diem-nhi.png</im>
+      <gender>2</gender>
+      <phone>0983858739</phone>
+      <address>kí túc xá khu B Đại học Quốc Gia</address>
+      <city>30</city>
+      <dob>1995-6-1</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477633692</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>1</day>
+      <month>6</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ, nhân viên bán hàng,...</title>
+      <experience>1</experience>
+      <category>14,15,17,20,26,27,28,29,31,35,36</category>
+      <type>2,4,5,6</type>
+      <level>2,3</level>
+      <lang>vi,en,kr</lang>
+      <skill>giao tiếp khá, biết cách gây cười cho người khác, khéo tay, chăm chỉ</skill>
+      <ui>8052</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Là người vui vẻ, hòa đồng nên rất thích pha trò làm người khác cười. Bên cạnh đó vẫn luôn cố gắng chăm chỉ học hỏi nâng cao khả năng bản thân.&#13;
+Thích hát và nhảy (đã từng diễn ở trường cũng như các trường đại học khác), nấu ăn và đi chơi với bạn bè.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>318,356,181,338,465</strjo>
+  </appliedjob>
+  <education>
+    <n_1301>
+      <id>1301</id>
+      <school>Đại học Khoa học Xã hội và Nhân văn TPHCM</school>
+      <degrees>sinh viên năm 4</degrees>
+      <fieldofstudy>Giáo dục học</fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_1301>
+  </education>
+  <experience>
+    <n_1565>
+      <id>1565</id>
+      <title>nhân viên phục vụ - part time</title>
+      <level>1</level>
+      <cmpname>KAMAKURA CAFE</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>7/2016</from>
+      <to>9/2016</to>
+    </n_1565>
+  </experience>
+</information>

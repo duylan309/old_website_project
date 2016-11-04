@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6187</id>
+      <email>ngochongnguyenn@gmail.com</email>
+      <username/>
+      <name>Nguyễn Hồng Ngọc</name>
+      <im>6187_img20160924202509.jpg</im>
+      <gender>2</gender>
+      <dob>1997-1-26</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476416052</created>
+      <day>26</day>
+      <month>1</month>
+      <year>1997</year>
+      <phone>0906356683</phone>
+      <address>Q12 tphcm </address>
+      <country>vn</country>
+      <city/>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6187</ui>
+      <title>Nhan vien phuc vu</title>
+      <experience>1</experience>
+      <category>16</category>
+      <type>4,5,6</type>
+      <level>2</level>
+      <lang>en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>...</about>
+      <skill>...</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>414,427,107,285,408</strjo>
+  </appliedjob>
+</information>

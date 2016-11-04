@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>775</id>
+      <email>khanguyen1990@yahoo.com</email>
+      <username/>
+      <name>Kha Nguyen</name>
+      <im>768201126655775_kha-nguyen.jpg</im>
+      <gender>1</gender>
+      <dob>1990-1-9</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471019887</created>
+      <day>9</day>
+      <month>1</month>
+      <year>1990</year>
+      <phone>0903002928</phone>
+      <address>132a phan huy ích p15.q.tân bình</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8244789</lat>
+      <lng>106.6302621</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>775</ui>
+      <title>Phụ bếp</title>
+      <experience>2</experience>
+      <category>14</category>
+      <type>1,4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <skill>Từng làm phụ bếp ở sumo đươc 7 tháng.phụ chảo ở nhà hang cocasuki 14 tháng.phụ bếp ở sanfulou 7 tháng.</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <education>
+    <n_107>
+      <id>107</id>
+      <school>Tc nghề việt giao.</school>
+      <degrees>Chứng chỉ bếp việt</degrees>
+      <fieldofstudy>Bếp việt</fieldofstudy>
+      <from>Tháng 5 năm 2013</from>
+      <to>Tháng 9 năm 2013</to>
+    </n_107>
+  </education>
+  <appliedjob>
+    <total>4</total>
+    <strjo>139,136,330,187</strjo>
+  </appliedjob>
+</information>

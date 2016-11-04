@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4542</id>
+      <email>Truccao1021998@gmail.com</email>
+      <username/>
+      <name>Cao ngọc phương trúc</name>
+      <im>4542_image.jpg</im>
+      <gender>2</gender>
+      <phone>0989959887</phone>
+      <address>232/34 ngô quyền phường 8 quận 10</address>
+      <city>30</city>
+      <dob>1998-2-10</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475288613</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1475288613</last_signin>
+      <day>10</day>
+      <month>2</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7642183</lat>
+      <lng>106.6647713</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>4542</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>7</experience>
+      <category>17,18,20,26,35</category>
+      <type>2,5,6</type>
+      <level>2</level>
+      <lang>en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>202,222,158,154</strjo>
+  </appliedjob>
+</information>

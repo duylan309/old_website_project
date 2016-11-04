@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3605</id>
+      <email>hoanghahuong772@yahoo.com</email>
+      <username/>
+      <name>Hà Quỳnh Như</name>
+      <im>553194174884152_ha-quynh-nhu.jpg</im>
+      <gender>2</gender>
+      <dob>1998-3-9</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474711525</created>
+      <day>9</day>
+      <month>3</month>
+      <year>1998</year>
+      <phone>01884369665</phone>
+      <address>số 6 lê lợi quận gò vấp </address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.820362</lat>
+      <lng>106.686266</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân Viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15</category>
+      <type>5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill></skill>
+      <ui>3605</ui>
+      <s1>15000</s1>
+      <salary>1</salary>
+      <about>Sinh Viên năm nhất tại đại học công nghiệp tp. Hồ Chí Minh</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>158</strjo>
+  </appliedjob>
+</information>

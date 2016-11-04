@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6111</id>
+      <email>myhoa.101097@gmail.com</email>
+      <username/>
+      <name>Huỳnh Mỹ Hoa</name>
+      <im>1476375404_huynh-my-hoa.png</im>
+      <gender>0</gender>
+      <phone>01676539271</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476375404</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,27,35</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Các kĩ năng về máy tính như word, excel,..&#13;
+Kĩ năng giao tiếp tốt.</skill>
+      <ui>6111</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>130</strjo>
+  </appliedjob>
+</information>

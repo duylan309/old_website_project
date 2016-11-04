@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>408</id>
+    <ui>6492</ui>
+    <name>Tư nhân</name>
+    <url>quancaphe</url>
+    <im/>
+    <im_banner/>
+    <category>15</category>
+    <phone></phone>
+    <address>12AB cư xá thanh đa .phường 27. Quận bình thạnh .tphcm</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.802397</lat>
+    <lng>106.6948697</lng>
+    <website></website>
+    <about/>
+    <facebook></facebook>
+    <facebook_cover/>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>0</fb_load_newfeed>
+    <fb_load_photo>0</fb_load_photo>
+    <created>1476633840</created>
+  </db>
+  <more>
+    <about>  </about>
+    <whyworkus/>
+  </more>
+  <companybanner/>
+  <totalJob>
+    <total>1</total>
+    <strji>467</strji>
+  </totalJob>
+</information>

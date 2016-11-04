@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1828</id>
+      <email>ducnguyen.la97@gmail.com</email>
+      <username/>
+      <name>Nguyễn Phúc Đức</name>
+      <im>683514045138712_nguyen-phuc-duc.jpg</im>
+      <gender>1</gender>
+      <dob>1997-12-14</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472982120</created>
+      <day>14</day>
+      <month>12</month>
+      <year>1997</year>
+      <phone>01286564671</phone>
+      <address>CC Hoàng Quân. Nguyễn Văn Linh, Bình Chánh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7090718</lat>
+      <lng>106.6418752</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_405>
+      <id>405</id>
+      <title>Phục vụ</title>
+      <level>1</level>
+      <cmpname>Quán Vịt Gầy</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Vietnam</country>
+      <from>1/2016</from>
+      <to>8/2016</to>
+    </n_405>
+  </experience>
+  <education>
+    <n_289>
+      <id>289</id>
+      <school>Đại học Văn Hiến</school>
+      <degrees/>
+      <fieldofstudy>Tâm lý quản trị</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_289>
+  </education>
+  <user_cv>
+    <db>
+      <ui>1828</ui>
+      <title>Phục vụ</title>
+      <experience>1</experience>
+      <category>14,16,20,29,35</category>
+      <type>2,6</type>
+      <level>1,2,3</level>
+      <lang>vi,en</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <skill>Có trách nhiệm&#13;
+Có kỹ năng giải quyết tình huống&#13;
+Trung thực, tự tin, nhiệt tình&#13;
+Customer service mindset</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>211,279</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6189</id>
+      <email>anhkiet21.TK@gmail.com</email>
+      <username/>
+      <name>an anh kiệt</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0937946422</phone>
+      <address>40/33 phan chu trinh, quận bình thạnh</address>
+      <city>30</city>
+      <dob>1993-7-21</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476417661</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476417661</last_signin>
+      <day>21</day>
+      <month>7</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.805709</lat>
+      <lng>106.703548</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_1023>
+      <id>1023</id>
+      <school>trung cấp việt giao</school>
+      <degrees>trung cấp</degrees>
+      <fieldofstudy>quản trị nhà hàng khách sạn</fieldofstudy>
+      <from>2014</from>
+      <to>2017</to>
+    </n_1023>
+  </education>
+  <experience>
+    <n_1247>
+      <id>1247</id>
+      <title>nhân viên nấu bếp</title>
+      <level>1</level>
+      <cmpname>KFC</cmpname>
+      <city>Hồ chí minh</city>
+      <country>việt nam</country>
+      <from>7/2012</from>
+      <to>1/2013</to>
+    </n_1247>
+    <n_1248>
+      <id>1248</id>
+      <title>nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>cafe SHE</cmpname>
+      <city>hồ chí minh</city>
+      <country>việt nam</country>
+      <from>9/2013</from>
+      <to>5/2014</to>
+    </n_1248>
+    <n_1249>
+      <id>1249</id>
+      <title>shipper</title>
+      <level>1</level>
+      <cmpname>cửa hàng túi vải MAY</cmpname>
+      <city>hồ chí minh</city>
+      <country>việt nam</country>
+      <from>10/2015</from>
+      <to>5/2016</to>
+    </n_1249>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>6189</ui>
+      <title>phục vụ ,pha chế</title>
+      <experience>7</experience>
+      <category>14,15,16,20</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>409,449,412</strjo>
+  </appliedjob>
+</information>

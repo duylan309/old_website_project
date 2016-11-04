@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5696</id>
+      <email>thanhphung420@gmail.com</email>
+      <username/>
+      <name>Lê Thái Thanh Phụng</name>
+      <im>1476159002_le-thai-thanh-phung.png</im>
+      <gender>2</gender>
+      <phone>01267540675</phone>
+      <address>260/9 bình quới p28 bình thạnh</address>
+      <city>30</city>
+      <dob>1998-11-17</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476159002</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>17</day>
+      <month>11</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.817349</lat>
+      <lng>106.722395</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,20,29,30,31,35</category>
+      <type>2,4,6</type>
+      <level>1,2</level>
+      <lang>vi</lang>
+      <skill>Năng động, vui vẻ, nhiệt huyết trong công việc</skill>
+      <ui>5696</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>105,64,164,371,324,414</strjo>
+  </appliedjob>
+</information>

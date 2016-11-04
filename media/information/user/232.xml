@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>232</id>
+      <email>trangle.128@gmail.com</email>
+      <username/>
+      <name>Trang Le</name>
+      <im/>
+      <gender>0</gender>
+      <phone/>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1467263211</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <experience>
+    <n_5>
+      <id>5</id>
+      <title>Store Manager</title>
+      <level>1</level>
+      <cmpname>Pizza Pier</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Vietnam</country>
+      <from>2016</from>
+      <to>2016</to>
+    </n_5>
+    <n_6>
+      <id>6</id>
+      <title>Media Planner</title>
+      <level>1</level>
+      <cmpname>Mekong Communications</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Vietnam</country>
+      <from>2016</from>
+      <to>2016</to>
+    </n_6>
+  </experience>
+</information>

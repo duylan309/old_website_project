@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2134</id>
+      <email>girl_vutruong2008@yahoo.com</email>
+      <username/>
+      <name>Trần Mai</name>
+      <im>1270200229666515_tran-mai.jpg</im>
+      <gender>2</gender>
+      <dob>1994-7-15</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473257644</created>
+      <day>15</day>
+      <month>7</month>
+      <year>1994</year>
+      <phone>0979205794</phone>
+      <address>90/48 Trần Văn Ơn, P. Tân Sơn Nhì, Q. Tân Phú</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8006221</lat>
+      <lng>106.6293606</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Phục vụ khách hàng, giao tiếp nhanh</skill>
+      <ui>2134</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Sinh viên nhiệt tình trong công việc, đã từng làm ở quán cà phê lớn, có kính nghiệm trong phục vụ, muốn học hỏi thêm về nhiều lĩnh vực</about>
+      <keyword>Giao tiếp hiệu quả,Tập trung trong công việc,Trung thực,Tự tin,Nhiệt tình,Tinh thần làm việc nhóm,Tinh thần trách nhiệm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>201,222</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6061</id>
+      <email>trantuyetkhuong@gmail.com</email>
+      <username/>
+      <name>Trần Tuyết Khương</name>
+      <im>831557810319193_khuong-khuong.jpg</im>
+      <gender>2</gender>
+      <dob>1996-1-12</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476357133</created>
+      <day>12</day>
+      <month>1</month>
+      <year>1996</year>
+      <phone>0947402273</phone>
+      <address>A4-16-01 chung cư Hoàng Anh Gia Lai An Tiến, nhà bè</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.6952642</lat>
+      <lng>106.704874</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ, lễ tân, thu ngân</title>
+      <experience>1</experience>
+      <category>14,15,16,17,19,29,35</category>
+      <type>2,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>kĩ năng văn phòng, word exel </skill>
+      <ui>6061</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Hiện đang là sinh viên năm 3, trường đại học Tôn Đức Thắng, khoa quản trị kinh doanh</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>19</total>
+    <strjo>426,275,432,294,386,199,252,409,427,378,262,276,162,201,241,301,350,470,273</strjo>
+  </appliedjob>
+  <experience>
+    <n_1230>
+      <id>1230</id>
+      <title>Cashier</title>
+      <level>1</level>
+      <cmpname>Texas chicken</cmpname>
+      <city>Tp Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>6-2015</from>
+      <to>10-2015</to>
+    </n_1230>
+  </experience>
+  <education>
+    <n_1006>
+      <id>1006</id>
+      <school>Đại học Tôn Đức Thắng</school>
+      <degrees/>
+      <fieldofstudy>Kinh doanh quốc tế</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_1006>
+  </education>
+</information>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5013</id>
+      <email>7othemoon@gmail.com</email>
+      <username/>
+      <name>Andy Đỗ</name>
+      <im>1722565681401914_andy-do.jpg</im>
+      <gender>1</gender>
+      <dob>1994-1-5</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475651062</created>
+      <day>5</day>
+      <month>1</month>
+      <year>1994</year>
+      <last_signin>1475651062</last_signin>
+      <phone>0962945194</phone>
+      <address/>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>5013</ui>
+      <title>Pha chế</title>
+      <experience>7</experience>
+      <category>14,15,16,17,18,20,26,27,28,29,30,35</category>
+      <type>1,2,3,4,5,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <savedjob>
+    <total>1</total>
+    <strjo>330</strjo>
+  </savedjob>
+</information>

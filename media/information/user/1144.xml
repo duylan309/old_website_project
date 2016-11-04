@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1144</id>
+      <email>nguyetpy8195@gmail.com</email>
+      <username/>
+      <name>Nguyệt Ánh</name>
+      <im>1123825034365158_nguyet-anh.jpg</im>
+      <gender>2</gender>
+      <dob>1995-1-8</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471844031</created>
+      <day>8</day>
+      <month>1</month>
+      <year>1995</year>
+      <phone>01655564658</phone>
+      <address>21, đường số 7, khu phố 2, linh trung, thủ đức</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.848955</lat>
+      <lng>106.763907</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục vụ</title>
+      <experience>7</experience>
+      <category>15,27</category>
+      <type>5,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill></skill>
+      <ui>1144</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>130</strjo>
+  </appliedjob>
+</information>

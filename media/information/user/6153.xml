@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6153</id>
+      <email>khocviban_deokhocvitrai_123@yahoo.com</email>
+      <username/>
+      <name>Minki Nguyen</name>
+      <im>1288872397791067_minki-nguyen.jpg</im>
+      <gender>2</gender>
+      <dob>1994-10-24</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476396497</created>
+      <day>24</day>
+      <month>10</month>
+      <year>1994</year>
+      <last_signin>1476396497</last_signin>
+      <phone>0903318349</phone>
+      <address>362/4A Ung Văn Khiêm , phường 25 , quận Bình Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8095342</lat>
+      <lng>106.7129809</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6153</ui>
+      <title>Thu ngân</title>
+      <experience>2</experience>
+      <category>14,15,17,20,29,31,35</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>en</lang>
+      <s1>7000000</s1>
+      <salary>1</salary>
+      <about>Năng động , ham học hỏi , làm việc nghiêm túc </about>
+      <skill>Bartender &#13;
+Tốt nghệp Đại học Công Nghệ Tp HCM chuyên ngành kế toán - tài chính </skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <education>
+    <n_1019>
+      <id>1019</id>
+      <school>Đại Học Công Nghệ Tp Hồ Chí Minh</school>
+      <degrees>Đại học Chính quu</degrees>
+      <fieldofstudy>Kế Toán Tài Chính</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_1019>
+  </education>
+  <appliedjob>
+    <total>1</total>
+    <strjo>259</strjo>
+  </appliedjob>
+</information>

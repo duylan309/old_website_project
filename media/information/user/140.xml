@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>140</id>
+      <email>test@gmail.com</email>
+      <username/>
+      <name>TEST</name>
+      <im/>
+      <gender>1</gender>
+      <category/>
+      <phone>0916900095</phone>
+      <address>392 A Hữu Trí, Thị trấn Tân Túc Bình Chánh</address>
+      <city>30</city>
+      <dob>1990-01-01</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1461573858</created>
+      <dayleft>0</dayleft>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1>
+      <id>1</id>
+      <title>a</title>
+      <level>1</level>
+      <cmpname>1</cmpname>
+      <address/>
+      <city>30</city>
+      <from>25-04-2016</from>
+      <to>25-04-2016</to>
+    </n_1>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>140</ui>
+      <title></title>
+      <category>14</category>
+      <type>1</type>
+      <level>1</level>
+      <experience></experience>
+      <location>30</location>
+      <lang>en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <skill>da</skill>
+      <s2>0</s2>
+    </db>
+  </user_cv>
+</information>

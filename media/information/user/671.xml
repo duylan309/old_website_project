@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>671</id>
+      <email>trankimphung230997@gmail.com</email>
+      <username/>
+      <name>Kim Phụng</name>
+      <im>692760814210170_kim-phung.jpg</im>
+      <gender>2</gender>
+      <dob>1997-9-23</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470800081</created>
+      <day>23</day>
+      <month>9</month>
+      <year>1997</year>
+      <phone>0903370099</phone>
+      <address>68 Hòa Bình Phường 5 Quận 11</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7686347</lat>
+      <lng>106.6394379</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>671</ui>
+      <title>Nhân viên bán hàng</title>
+      <experience>7</experience>
+      <category>14,15,17,31,35,36</category>
+      <type>2,4,5,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <skill></skill>
+      <keyword>Giao tiếp hiệu quả,Chịu được áp lực công việc,Trung thực,Tập trung trong công việc,Tinh thần làm việc nhóm,Nhiệt tình,Tự tin,Tinh thần trách nhiệm,Kỹ năng chăm sóc khách hàng</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>124,82</strjo>
+  </appliedjob>
+</information>

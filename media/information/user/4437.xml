@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4437</id>
+      <email>nhungnhungn33@gmail.com</email>
+      <username/>
+      <name>Nhung Huyền</name>
+      <im>778236122318056_nhung-huyen.jpg</im>
+      <gender>2</gender>
+      <dob>1998-3-3</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475153541</created>
+      <day>3</day>
+      <month>3</month>
+      <year>1998</year>
+      <last_signin>1475153541</last_signin>
+      <phone>01227694500</phone>
+      <address>290  chu van an, f26, q. binh thanh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8113312</lat>
+      <lng>106.7047411</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>4437</ui>
+      <title>phuc vu</title>
+      <experience>7</experience>
+      <category>15,17,27,29,31,35</category>
+      <type>2,4,5,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>nhiet tinh, nang dong, sieng nang</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>124</strjo>
+  </appliedjob>
+</information>

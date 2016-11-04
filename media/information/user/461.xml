@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>461</id>
+      <email>buithittrinh95@gmail.com</email>
+      <username/>
+      <name>Bùi Thị Tố Trinh</name>
+      <im>1007621602667568_to-trinh.jpg</im>
+      <gender>2</gender>
+      <dob>1995-9-23</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470191174</created>
+      <day>23</day>
+      <month>9</month>
+      <year>1995</year>
+      <phone>01248351511</phone>
+      <address>62/20 ĐINH BỘ LĨNH, PHƯỜNG 26, QUẬN BÌNH THẠNH</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.812316</lat>
+      <lng>106.7091245</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_88>
+      <id>88</id>
+      <title>Nhân viên</title>
+      <level>1</level>
+      <cmpname>CÀ PHÊ TRUNG NGUYÊN</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>2015</to>
+    </n_88>
+  </experience>
+  <education>
+    <n_62>
+      <id>62</id>
+      <school>Đại học Công Nghệ  Thành Phố Hồ Chí Minh</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>NGÔN NGỮ ANH </fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_62>
+  </education>
+  <user_cv>
+    <db>
+      <ui>461</ui>
+      <title>NHÂN VIÊN</title>
+      <experience>1</experience>
+      <category>20,29</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>en,ja</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <skill>-Kỹ năng làm việc nhóm cũng như quản lý thời gian hiệu quả.&#13;
+- Kỹ năng thuyết trình, giao tiếp. &#13;
+-Nhiệt tình và tập trung trong công việc. </skill>
+      <keyword>Tập trung trong công việc,Trung thực,Giao tiếp hiệu quả,Tự tin,Nhiệt tình</keyword>
+    </db>
+  </user_cv>
+</information>

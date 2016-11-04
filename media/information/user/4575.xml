@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4575</id>
+      <email>bamboosoul80@gmail.com</email>
+      <username/>
+      <name>Phạm Trúc Linh</name>
+      <im>4575_hinh-the-2.jpg</im>
+      <gender>2</gender>
+      <phone>+84978179980</phone>
+      <address>119/5 đường 3-2, phường 11, quận 10, TPHCM</address>
+      <city>30</city>
+      <dob>1980-2-25</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475310804</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1475310804</last_signin>
+      <day>25</day>
+      <month>2</month>
+      <year>1980</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8279001</lat>
+      <lng>106.6695937</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>4575</ui>
+      <title>phụ bếp</title>
+      <experience>1</experience>
+      <category>14,20,29</category>
+      <type>1,2,6</type>
+      <level>2,3,4,5</level>
+      <lang>vi,en</lang>
+      <s1>7000000</s1>
+      <salary>1</salary>
+      <about/>
+      <skill>- Giao tiếp tốt;&#13;
+- Có khả năng giao tiếp bằng tiếng anh;&#13;
+- Có kỹ năng quản lý công việc;&#13;
+- Yêu thích công việc làm bếp;&#13;
+- Nhiệt tình và có tinh thần trách nhiệm cao trong công việc.</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>7</total>
+    <strjo>349,343,276,188,153,268,193</strjo>
+  </appliedjob>
+  <education>
+    <n_756>
+      <id>756</id>
+      <school>Đại học khoa học xã hội và nhân văn TPHCM</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Ngữ văn Anh</fieldofstudy>
+      <from>1999</from>
+      <to>2004</to>
+    </n_756>
+  </education>
+</information>

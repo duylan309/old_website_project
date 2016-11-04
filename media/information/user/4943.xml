@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4943</id>
+      <email>uyenphuong230913@gmail.com</email>
+      <username/>
+      <name>Nguyễn Lâm Phương Uyên</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0947415093</phone>
+      <address></address>
+      <city></city>
+      <dob>1998-9-23</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475596887</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>23</day>
+      <month>9</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,20,28,29,30,35</category>
+      <type>5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>phục vụ quán cafe, dọn dẹp quán,...</skill>
+      <ui>4943</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>tôi là người năng động, ham học hỏi, sẵn sàng làm việc trong mọi điều kiện.</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>234,154,386</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>596</id>
+      <email>ngotu0510@gmail.com</email>
+      <username/>
+      <name>Ngô Anh Tú</name>
+      <im>707552119382981_ngo-anh-tu.jpg</im>
+      <gender>1</gender>
+      <dob>1997-10-5</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470600381</created>
+      <day>5</day>
+      <month>10</month>
+      <year>1997</year>
+      <phone>0901921717</phone>
+      <address>56 Hoang Dieu 2, Linh Chieu Ward, Thu Duc District</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8494094</lat>
+      <lng>106.7537055</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>596</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15</category>
+      <type>2</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <skill></skill>
+      <keyword></keyword>
+      <about></about>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>273</strjo>
+  </appliedjob>
+</information>

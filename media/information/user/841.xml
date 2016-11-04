@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>841</id>
+      <email>emmatrann22@gmail.com</email>
+      <username/>
+      <name>Trần Ngọc Mai Đình</name>
+      <im>841_image.jpeg</im>
+      <gender>2</gender>
+      <phone>0937317237</phone>
+      <address>410B/34 Hậu Giang F12 Q6</address>
+      <city>30</city>
+      <dob>1998-2-2</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471248544</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <day>2</day>
+      <month>2</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.747437</lat>
+      <lng>106.63939</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_128>
+      <id>128</id>
+      <school>THPT Mạc Đỉnh Chi</school>
+      <degrees/>
+      <fieldofstudy/>
+      <from>2013</from>
+      <to>2016</to>
+    </n_128>
+  </education>
+  <user_cv>
+    <db>
+      <ui>841</ui>
+      <title>Nhân viên phục vụ, lễ tân</title>
+      <experience>7</experience>
+      <category>14,15,29</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <skill></skill>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Tập trung trong công việc,Chịu được áp lực công việc,Tự tin,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+</information>

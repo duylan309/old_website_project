@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7788</id>
+      <email>mynhanvo311@gmail.com</email>
+      <username/>
+      <name>Võ Thị Mỹ Nhàn</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0919900475</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1477458493</created>
+      <dayleft>1480050493</dayleft>
+      <jobleft>5</jobleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1477458493</last_signin>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>1</total>
+    <strji>525</strji>
+  </totalJob>
+</information>

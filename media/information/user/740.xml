@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>740</id>
+      <email>vietnguyen3939@gmail.com</email>
+      <username/>
+      <name>Duc Viet Nguyen</name>
+      <im>595812170597783_vincent-nguyen.jpg</im>
+      <gender>1</gender>
+      <dob>1989-3-6</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470980670</created>
+      <day>6</day>
+      <month>3</month>
+      <year>1989</year>
+      <phone>0937698887</phone>
+      <address>188 phan dang luu, quan phu nhuan</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.800443</lat>
+      <lng>106.681385</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>740</ui>
+      <title>Chef</title>
+      <experience>2</experience>
+      <category>14,18,20</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>en</lang>
+      <s1>7000000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>78</strjo>
+  </appliedjob>
+</information>

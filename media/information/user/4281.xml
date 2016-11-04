@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4281</id>
+      <email>phuongkieu990@gmail.com</email>
+      <username/>
+      <name>Trần Thị Phương Kiều</name>
+      <im>1475055608_tran-thi-phuong-kieu.png</im>
+      <gender>2</gender>
+      <phone>01682022275</phone>
+      <address>312 Nguyễn Văn Đậu, phường 11, quận Bình Thạnh, TpHcm</address>
+      <city>30</city>
+      <dob>1995-12-20</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475055608</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>20</day>
+      <month>12</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8141687</lat>
+      <lng>106.6937747</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,17,18,28</category>
+      <type>2,5</type>
+      <level>2</level>
+      <lang>en</lang>
+      <skill>Giao tiếp khá</skill>
+      <ui>4281</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>202</strjo>
+  </appliedjob>
+</information>

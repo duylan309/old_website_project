@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7454</id>
+      <email>onlyrap1998@gmail.com</email>
+      <username/>
+      <name>Huỳnh Tấn Phúc</name>
+      <im/>
+      <gender>1</gender>
+      <phone>09023716451998</phone>
+      <address>7A/154 Thành Thái P14 Q10</address>
+      <city>30</city>
+      <dob>1998-9-13</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477272974</created>
+      <dayleft>0</dayleft>
+      <jobleft>0</jobleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1477272974</last_signin>
+      <day>13</day>
+      <month>9</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7701852</lat>
+      <lng>106.6657279</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_1214>
+      <id>1214</id>
+      <school>Đại Học Văn Hiến</school>
+      <degrees/>
+      <fieldofstudy>Tâm Lí Học</fieldofstudy>
+      <from>2016</from>
+      <to>Nay</to>
+    </n_1214>
+  </education>
+  <user_cv>
+    <db>
+      <ui>7454</ui>
+      <title>Pha Chế, Phục Vụ</title>
+      <experience>1</experience>
+      <category>15,17,27,35</category>
+      <type>2,4,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Linh động nhanh nhẹn chăm chỉ trong công việc, chịu khó học hỏi</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>262</strjo>
+  </appliedjob>
+</information>

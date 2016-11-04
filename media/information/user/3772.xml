@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3772</id>
+      <email>lunisolar97@yahoo.com</email>
+      <username/>
+      <name>Hoàng Anh</name>
+      <im>874528256017795_hoang-anh.jpg</im>
+      <gender>2</gender>
+      <dob>1997-6-14</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474822192</created>
+      <day>14</day>
+      <month>6</month>
+      <year>1997</year>
+      <phone>0935389801</phone>
+      <address>15 bàu cát 7, phường 14, quận tân bình</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7904432</lat>
+      <lng>106.6414887</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,26,27,29,31</category>
+      <type>2,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>có kinh nghiệm bán hàng, tư vấn và phục vụ khách hàng</skill>
+      <ui>3772</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>nhanh nhẹn, vui vẻ, hòa đồng, chịu khó chăm chỉ, có trách nhiệm trong công việc</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>162,323,219</strjo>
+  </appliedjob>
+  <experience>
+    <n_872>
+      <id>872</id>
+      <title>sale promotion</title>
+      <level>1</level>
+      <cmpname>VBL</cmpname>
+      <city>hồ chí minh</city>
+      <country>việc nam</country>
+      <from>8/2015</from>
+      <to>2/2016</to>
+    </n_872>
+  </experience>
+  <education>
+    <n_652>
+      <id>652</id>
+      <school>đại học kinh tế tp hcm</school>
+      <degrees/>
+      <fieldofstudy>tài chính</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_652>
+  </education>
+  <savedjob>
+    <total>1</total>
+    <strjo>219</strjo>
+  </savedjob>
+</information>

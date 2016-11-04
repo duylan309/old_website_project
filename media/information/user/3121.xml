@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3121</id>
+      <email>thuytruong010397@gmail.com</email>
+      <username/>
+      <name>Thủy Trường</name>
+      <im>680878048732837_thuy-truong.jpg</im>
+      <gender>2</gender>
+      <dob>199701227071737-3-1</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474301023</created>
+      <day>1</day>
+      <month>3</month>
+      <year>199701227071737</year>
+      <phone>01227071737</phone>
+      <address>272/15/8 Phan Văn Hớn, phường Tân Thới Nhất, quận 12</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.829388</lat>
+      <lng>106.614442</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>35</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>3121</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>262,105</strjo>
+  </appliedjob>
+  <experience>
+    <n_691>
+      <id>691</id>
+      <title>nhân viên</title>
+      <level>1</level>
+      <cmpname>Bánh mì may mắn</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>Tháng 9</from>
+      <to>Tháng 2</to>
+    </n_691>
+  </experience>
+</information>

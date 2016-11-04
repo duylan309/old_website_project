@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5413</id>
+      <email>lequynhmai.angel@gmail.com</email>
+      <username/>
+      <name>lê thị ngữ</name>
+      <im>507763056059291_le-thi-ngu.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475960395</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhan vien phuc vu</title>
+      <experience>7</experience>
+      <category>14,17</category>
+      <type>4,5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>5413</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>299</strjo>
+  </appliedjob>
+</information>

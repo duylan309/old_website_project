@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7346</id>
+      <email>caotai2904@gmail.com</email>
+      <username/>
+      <name>Tai Cao</name>
+      <im>193466934430436_tai-cao.jpg</im>
+      <gender>1</gender>
+      <dob>1997-4-29</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477195530</created>
+      <day>29</day>
+      <month>4</month>
+      <year>1997</year>
+      <last_signin>1477195530</last_signin>
+      <phone>0919859861</phone>
+      <address>Đường 9A khu trung sơn hoàng tháp plaza quận 8</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7240878</lat>
+      <lng>106.6286259</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>7346</ui>
+      <title>Part time</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>2</s1>
+      <salary>1</salary>
+      <about>Cao: 1m70&#13;
+Nặng: 57kg&#13;
+</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>364,275,470</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>2</total>
+    <strjo>364,470</strjo>
+  </savedjob>
+</information>

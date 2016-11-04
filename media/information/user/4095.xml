@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4095</id>
+      <email>lebakha91@gmail.com</email>
+      <username/>
+      <name>Ánh Ellyy</name>
+      <im>694637394036305_anh-ellyy.jpg</im>
+      <gender>2</gender>
+      <dob>1998-3-3</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474966981</created>
+      <day>3</day>
+      <month>3</month>
+      <year>1998</year>
+      <last_signin>1474966981</last_signin>
+      <phone>01223952400</phone>
+      <address>86/99/17a Âu Cơ, phường 9, quận Tân Bình</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.771422</lat>
+      <lng>106.651213</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>4095</ui>
+      <title>Phục vụ nữ</title>
+      <experience>7</experience>
+      <category>14,15,16,17,18,19,27,29,30,31,35</category>
+      <type>2,3,4,5,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>rất đam mê kinh doanh, ham học hỏi, có chí cầu tiến, nhiệt tình với công việc</about>
+      <skill>kỹ năng giao tiếp, làm việc nhóm</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <education>
+    <n_656>
+      <id>656</id>
+      <school>đại học kinh tế thành phố Hồ Chí Minh</school>
+      <degrees>cử nhân</degrees>
+      <fieldofstudy>chưa phân ngành</fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_656>
+  </education>
+</information>

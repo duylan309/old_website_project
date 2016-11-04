@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4510</id>
+      <email>long.nguyenhoanghcm@gmail.com</email>
+      <username/>
+      <name>NGUYEN HOANG LONG</name>
+      <im>1475242299_nguyen-hoang-long.png</im>
+      <gender>0</gender>
+      <phone>01683434411</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475242299</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Barista</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>2,3,4,5</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill>Focus on target</skill>
+      <ui>4510</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>294</strjo>
+  </appliedjob>
+</information>

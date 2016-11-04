@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>129</id>
+    <ui>534</ui>
+    <ci>246</ci>
+    <ai>0</ai>
+    <ti>Culinary Services Supervisor</ti>
+    <ta/>
+    <le>5</le>
+    <ty>1</ty>
+    <ex>1,2</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>4000000</s1>
+    <s2>5000000</s2>
+    <s3>181</s3>
+    <s4>227</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Tinh thần trách nhiệm,Tập trung trong công việc,Nhiệt tình</keyword>
+    <ad/>
+    <location_id>66</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-03</de>
+    <re>0000-00-00</re>
+    <cr>1470459271</cr>
+  </db>
+  <more>
+    <requirement/>
+    <description/>
+    <benefit/>
+    <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Tinh thần trách nhiệm,Tập trung trong công việc,Nhiệt tình</keyword>
+  </more>
+  <userapplied>
+    <total>9</total>
+    <strui>592,654,935,986,1371,1507,3265,3509,4944</strui>
+  </userapplied>
+</information>

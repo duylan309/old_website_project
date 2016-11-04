@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>623</id>
+      <email>nguyenmytien317@yahoo.com</email>
+      <username/>
+      <name>Nguyễn Thị Mỹ Tiên</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0909004317</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470665406</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>trợ lý, chăm sóc khách hàng, lễ tân</title>
+      <experience>2</experience>
+      <category>14,18,20,28,30</category>
+      <type>1</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>623</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>95</strjo>
+  </appliedjob>
+</information>

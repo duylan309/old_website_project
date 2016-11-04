@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>402</id>
+    <ui>5149</ui>
+    <ci>382</ci>
+    <ai>0</ai>
+    <ti>Nhân viên phục vụ</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1,2</ty>
+    <ex>7</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>15000</s1>
+    <s2>20000</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>15,17,35</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>281</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-05</de>
+    <re>0000-00-00</re>
+    <cr>1475758154</cr>
+  </db>
+  <more>
+    <requirement>Có thể làm ca đêm vì là cửa hàng 24/7&#13;
+Có thể làm xoay ca&#13;
+Ưu tiên Nam là ca tối</requirement>
+    <description>•	Phục vụ café, nước và thức ăn nhẹ.&#13;
+•	Dọn dẹp khu vực, bếp…&#13;
+•	Dọn rửa ly, chén… sau khi kết thúc ca&#13;
+•	Trao đổi cụ thể khi phỏng vấn.&#13;
+</description>
+    <benefit/>
+    <keyword>Nhân viên phục vụ,phục vụ</keyword>
+  </more>
+  <userapplied>
+    <total>25</total>
+    <strui>2476,4822,5192,5226,4639,5271,940,5356,3120,4593,5612,5628,5868,6162,3178,4833,5933,6555,6653,6776,7008,6875,7109,8028,6778</strui>
+  </userapplied>
+</information>

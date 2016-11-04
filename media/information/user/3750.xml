@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3750</id>
+      <email>phamhonganh140577@gmai.com</email>
+      <username/>
+      <name>Phạm Hồng Anh</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0931498004</phone>
+      <address>Số 78 đường 6 P Bình an Quận 2 TP HCM</address>
+      <city/>
+      <dob>1977-5-14</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474809926</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>14</day>
+      <month>5</month>
+      <year>1977</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>quản lý, nvkd,</title>
+      <experience>5</experience>
+      <category>17,29,31,35</category>
+      <type>1</type>
+      <level>4,5</level>
+      <lang>vi,en</lang>
+      <skill>Có khả năng giao tiếp trước đám đông, kỹ năng làm việc nhóm , được đào tạo các khóa kd bán hàng hiệu quả, nhiệt tình trong công việc.</skill>
+      <ui>3750</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>166,264</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5573</id>
+      <email>nguyenthanh040497@gmail.com</email>
+      <username/>
+      <name>NGUYỄN HỮU THANH</name>
+      <im>1476088631_nguyen-huu-thanh.png</im>
+      <gender>0</gender>
+      <phone>01688645475</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476088631</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục vụ</title>
+      <experience>1</experience>
+      <category>14,17,20,29,31,35</category>
+      <type>1,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>5573</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>172</strjo>
+  </appliedjob>
+</information>

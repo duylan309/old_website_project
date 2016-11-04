@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5528</id>
+      <email>linh.tm2411@gmail.com</email>
+      <username/>
+      <name>Linh Tran</name>
+      <im>868649333236208_linh-tran.jpg</im>
+      <gender>2</gender>
+      <dob>1996-11-24</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476063295</created>
+      <day>24</day>
+      <month>11</month>
+      <year>1996</year>
+      <phone>0902080698</phone>
+      <address>176 / 3 cách mạng tháng 8 phường 10 quận 3</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7792325</lat>
+      <lng>106.6803735</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>5528</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>7</experience>
+      <category>14,15,20,26</category>
+      <type>2,4,6</type>
+      <level>1,2</level>
+      <lang>vi</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Nhanh nhẹn , học hỏi , tích cực trong công việc</about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

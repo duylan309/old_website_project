@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6507</id>
+      <email>trinhhuynh.h3t@gmail.com</email>
+      <username/>
+      <name>Tu Trinh Huynh</name>
+      <im>1048725381913630_tu-trinh-huynh.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476670471</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+      <last_signin>1476670471</last_signin>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1305>
+      <id>1305</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>Siêu thị coop mart bà rịa</cmpname>
+      <city>Bà Rịa, BRVT</city>
+      <country>Việt nam</country>
+      <from>11/2012</from>
+      <to>02/2013</to>
+    </n_1305>
+    <n_1306>
+      <id>1306</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>Mobifone</cmpname>
+      <city>Vũng Tàu</city>
+      <country>Việt nam</country>
+      <from>04/2013</from>
+      <to>11/2015</to>
+    </n_1306>
+    <n_1307>
+      <id>1307</id>
+      <title>Pg</title>
+      <level>1</level>
+      <cmpname>Tự do</cmpname>
+      <city>Vũng Tàu</city>
+      <country>Việt nam</country>
+      <from>11/2015</from>
+      <to>5/2016</to>
+    </n_1307>
+  </experience>
+</information>

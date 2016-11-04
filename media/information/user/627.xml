@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>627</id>
+      <email>chuotngox97@gmail.com</email>
+      <username/>
+      <name>Hồ Ánh Loan</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0906026960</phone>
+      <address>75/27/14 Đường 48,P.Hiệp Bình Chánh,Q.Thủ Đức</address>
+      <city>30</city>
+      <dob>1997-12-4</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470708346</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>4</day>
+      <month>12</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8366761</lat>
+      <lng>106.7272146</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_120>
+      <id>120</id>
+      <title>Pha chế</title>
+      <level>1</level>
+      <cmpname>Our matcha &amp; cafe</cmpname>
+      <city>Hồ Chí Minh </city>
+      <country>Việt Nam</country>
+      <from>T4/2016</from>
+      <to>nay</to>
+    </n_120>
+  </experience>
+  <education>
+    <n_86>
+      <id>86</id>
+      <school>ĐH Kinh tế - Tài chính (UEF)</school>
+      <degrees/>
+      <fieldofstudy>Kế toán - Kiểm toán</fieldofstudy>
+      <from>2015</from>
+      <to>nay</to>
+    </n_86>
+  </education>
+  <user_cv>
+    <db>
+      <ui>627</ui>
+      <title>Nhân viên phục vụ, Pha chế</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>4,5</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Nhiệt tình</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>221,219</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>3</total>
+    <strjo>219,154,193</strjo>
+  </savedjob>
+</information>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1700</id>
+      <email>ammytran1993@gmail.com</email>
+      <username/>
+      <name>Trần Phương Hiền</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0932436334</phone>
+      <address>920/69 Quang Trung, F.8, Gò Vấp</address>
+      <city>30</city>
+      <dob>1993-6-2</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472787540</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>2</day>
+      <month>6</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8418118</lat>
+      <lng>106.6437324</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế</title>
+      <experience>2</experience>
+      <category>14,15,27,29,35</category>
+      <type>2,4,6</type>
+      <level>2,3</level>
+      <lang>en</lang>
+      <skill>Đã từng làm pha chế cho mc donald và caffee bene nhà hàng ý</skill>
+      <ui>1700</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword>Giao tiếp hiệu quả,Tinh thần trách nhiệm,Tập trung trong công việc,Chịu được áp lực công việc,Tinh thần làm việc nhóm,Trung thực,Nhiệt tình</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>106,64</strjo>
+  </appliedjob>
+  <experience>
+    <n_371>
+      <id>371</id>
+      <title>Trainer</title>
+      <level>1</level>
+      <cmpname>Mc Donald</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2013</from>
+      <to>2014</to>
+    </n_371>
+    <n_372>
+      <id>372</id>
+      <title>Barista</title>
+      <level>1</level>
+      <cmpname>Caffe Bene</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>2015</to>
+    </n_372>
+  </experience>
+  <education>
+    <n_268>
+      <id>268</id>
+      <school>Đại học Kinh tế Tài chính</school>
+      <degrees>Cao đẳng</degrees>
+      <fieldofstudy>Quản trị kinh doanh quốc tế</fieldofstudy>
+      <from>2011</from>
+      <to>2014</to>
+    </n_268>
+  </education>
+</information>

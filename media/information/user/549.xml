@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>549</id>
+      <email>levy06071996@gmail.com</email>
+      <username/>
+      <name>Lê Nhật Khả Vy</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01646608025</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470458535</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, Pha chế</title>
+      <experience>7</experience>
+      <category>14,15,17,27,29,35</category>
+      <type>4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>549</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>105</strjo>
+  </appliedjob>
+</information>

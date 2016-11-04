@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>8005</id>
+      <email>lamphong0110@gmail.com</email>
+      <username/>
+      <name>Châu Quốc Lâm Phong</name>
+      <im>1477585694_chau-quoc-lam-phong.png</im>
+      <gender>1</gender>
+      <phone>0967373148</phone>
+      <address>33b đường số 8, p.11 , quận gò vấp , tp.hcm</address>
+      <city>30</city>
+      <dob>1996-6-11</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477585693</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>11</day>
+      <month>6</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phụ Bếp</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>6</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill>sơ chế nguyên liệu , dọn dẹp dụng cụ  </skill>
+      <ui>8005</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Em hiện đang theo học cao đẳng nghề về nhà hàng - chuyên ngành bếp năm 2 , có thể sơ chế nguyên liệu , dọn dẹp dụng cụ nấu ăn và nấu 1 số món việt - âu</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>358,188,443,406,139,464</strjo>
+  </appliedjob>
+  <experience>
+    <n_1560>
+      <id>1560</id>
+      <title>20 nguyễn duy dương , quận 5</title>
+      <level>1</level>
+      <cmpname>nhà hàng rainbow</cmpname>
+      <city>hồ chí minh</city>
+      <country>việt nam</country>
+      <from>2014</from>
+      <to>2015</to>
+    </n_1560>
+  </experience>
+</information>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5265</id>
+      <email>luckyboy_stars2011@yahoo.com</email>
+      <username/>
+      <name>Ý Chí Chữ Lười</name>
+      <im>1077647929015359_y-chi-chu-luoi.jpg</im>
+      <gender>1</gender>
+      <dob>1994-8-12</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475837789</created>
+      <day>12</day>
+      <month>8</month>
+      <year>1994</year>
+      <phone>0933113522</phone>
+      <address>7/3 hồ bá phần, phường phước long a, quận 9</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.821463</lat>
+      <lng>106.764116</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Cook</title>
+      <experience>4</experience>
+      <category>14,17,35,36</category>
+      <type>2,4</type>
+      <level>4</level>
+      <lang>vi</lang>
+      <skill>Sắp xếp, quản lý mọi công việc và đội ngũ để chuẩn bị cho tiệc, alacarte, buffet.....giảm costing xuống mức thấp!!!</skill>
+      <ui>5265</ui>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <about>Thật thà, nghiêm túc và trách nhiệm cao trong công việc.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>272,343,342</strjo>
+  </appliedjob>
+  <education>
+    <n_873>
+      <id>873</id>
+      <school>Hướng nghiệp Á Âu</school>
+      <degrees>Bếp trưởng điều hành</degrees>
+      <fieldofstudy>Bếp á âu</fieldofstudy>
+      <from>Tháng 2/2014</from>
+      <to>Tháng 10/2014</to>
+    </n_873>
+  </education>
+  <experience>
+    <n_1077>
+      <id>1077</id>
+      <title>Cook</title>
+      <level>1</level>
+      <cmpname>Sai Gon Prince Hotel</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>Nay</to>
+    </n_1077>
+  </experience>
+</information>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>729</id>
+      <email>Kimthoa.nt411@gmail.com</email>
+      <username/>
+      <name>Lê Thị Kim Thoa</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01232421821</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470968245</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>729</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>64</strjo>
+  </appliedjob>
+</information>

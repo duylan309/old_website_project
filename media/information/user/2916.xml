@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2916</id>
+      <email>phuongjr7@yahoo.com</email>
+      <username/>
+      <name>Hải Phương</name>
+      <im>1828040400760924_hai-phuong.jpg</im>
+      <gender>1</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474081092</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Barista</title>
+      <experience>2</experience>
+      <category>15</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Đã làm tại Pizza Hut, Dairy Queen, Caffe Bene</skill>
+      <ui>2916</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>266</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1718</id>
+      <email>kimnguyen466@gmail.com</email>
+      <username/>
+      <name>Trần Anh Kiệt</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01636002229</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472821422</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Tư vấn bán hàng</title>
+      <experience>2</experience>
+      <category>17,19,20,28,29,36</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Tư vấn bán hàng hoa đồng, chịu áp lực cao</skill>
+      <ui>1718</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>140</strjo>
+  </appliedjob>
+</information>

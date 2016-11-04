@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5635</id>
+      <email>hoa.trannhan1@gmail.com</email>
+      <username/>
+      <name>Trần Nhân Hòa</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0122 569 6685</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1476114675</created>
+      <dayleft>1478706675</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1476114675</last_signin>
+      <jobleft>3</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>2</total>
+    <strji>424,425</strji>
+  </totalJob>
+</information>

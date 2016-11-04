@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3513</id>
+      <email>maikhoa241295@gmail.com</email>
+      <username/>
+      <name>Thủy Tiên</name>
+      <im>987597664720419_thuy-tien.jpg</im>
+      <gender>2</gender>
+      <dob>01995-12-24</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474663726</created>
+      <day>24</day>
+      <month>12</month>
+      <year>01995</year>
+      <phone>0908893431</phone>
+      <address>144 D1, quận bình thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8008158</lat>
+      <lng>106.7184203</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>3513</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15,26</category>
+      <type>2,4,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>1500000</s1>
+      <salary>1</salary>
+      <about>Em là sinh viên năm 3 tại ĐH Hoa Sen, sống tại TpHCM. Hiện tại e rảnh các chiều từ thưs 2 -&gt; t5 do lịch học của e vào t7 18h30 mới kết thúc, t6 e rảnh buổi sáng và sau 16h nên e mong rằng sẽ có quán coffee nào đó giúp đỡ e về thời gian làm việc để e có thể tích cóp kinh nghiệm. Em xin cảm ơn</about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

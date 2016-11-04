@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7226</id>
+      <email>moicong2282013@gmail.com</email>
+      <username/>
+      <name>Nhậtt Lệ</name>
+      <im>705024082981876_nhatt-le.jpg</im>
+      <gender>2</gender>
+      <dob>1998-7-10</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477120409</created>
+      <day>10</day>
+      <month>7</month>
+      <year>1998</year>
+      <phone>0943188609</phone>
+      <address>91 Phạm Văn hai- phương3- quận tân bình- hồ chí minh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7944359</lat>
+      <lng>106.663375</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, Pha chế</title>
+      <experience>2</experience>
+      <category>14,15,19,29</category>
+      <type>1,4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill></skill>
+      <ui>7226</ui>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>286,449</strjo>
+  </appliedjob>
+  <experience>
+    <n_1416>
+      <id>1416</id>
+      <title>Nhân viên phục vụ, Pha chế</title>
+      <level>1</level>
+      <cmpname>T-top, Ding Tea</cmpname>
+      <city>Hải phòng</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_1416>
+  </experience>
+</information>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4332</id>
+      <email>chiennguyen14998@gmail.com</email>
+      <username/>
+      <name>Nguyễn Văn Chiến</name>
+      <im>1475075403_nguyen-van-chien.png</im>
+      <gender>1</gender>
+      <phone>01267865467</phone>
+      <address>230/30-Nguyễn Văn Nguyễn-Phường Tân Định-Quận 1</address>
+      <city>30</city>
+      <dob>1998-4-12</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475075403</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>12</day>
+      <month>4</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7929496</lat>
+      <lng>106.6875038</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,17,29,35</category>
+      <type>2,5,6</type>
+      <level>1,2,3</level>
+      <lang>vi</lang>
+      <skill>giao tiếp được, thật thà, tự tin</skill>
+      <ui>4332</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>130,64,202,154,355,351</strjo>
+  </appliedjob>
+  <education>
+    <n_709>
+      <id>709</id>
+      <school/>
+      <degrees>đang học đại học</degrees>
+      <fieldofstudy/>
+      <from>2016</from>
+      <to>2019</to>
+    </n_709>
+  </education>
+</information>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4916</id>
+      <email>hoaiiphan@gmail.com</email>
+      <username/>
+      <name>Phan Thu Hoài</name>
+      <im>4916_img-20160130-211351.jpg</im>
+      <gender>2</gender>
+      <phone>0981859942</phone>
+      <address>62B Huỳnh Mẫn Đạt, quận bình Thạnh</address>
+      <city>30</city>
+      <dob>1997-1-5</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475585055</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1475585055</last_signin>
+      <day>5</day>
+      <month>1</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.790263</lat>
+      <lng>106.708437</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>4916</ui>
+      <title>Lễ tân, nhân viên pha chế, cashier</title>
+      <experience>1</experience>
+      <category>14,15,18,26,29</category>
+      <type>3,4,5</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Em đang là sinh viên năm thứ 2, rất yêu thích lĩnh vực nhà hàng, khách sạn và yêu thích cà phê. Em được nhận xét là tính cách khá chững, có trách nhiệm và nghiêm túc trong công việc. Ban đầu em khá trầm tính, nhưng rất biết quan sát và lắng nghe; sau khi đã quen với môi trường em sẽ dễ dàng hòa đồng và hoạt bát hơn. Em muốn tìm kiếm công việc ngoài giờ học ở trường với mục đích chủ yếu là được đào tạo và học hỏi để có thêm nhiều kinh nghiệm và cơ hội làm việc về lĩnh vực nhà hàng, khách sạn. </about>
+      <skill>-Có khả năng giao tiếp Tiếng Anh khá.&#13;
+-Đã từng làm lễ tân ở tàu nhà hàng Bến Nghé ở cảng Sài Gòn, nơi có rất nhiều du khách nước ngoài.&#13;
+- Đã từng có cơ hội tìm hiểu và được hướng dẫn sử dụng máy pha chế, học pha chế cà phê mặc dù trong khoảng thời gian rất ngắn tại Corner coffee and dinning.</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <savedjob>
+    <total>9</total>
+    <strjo>289,181,107,259,240,312,234,150,201</strjo>
+  </savedjob>
+  <education>
+    <n_822>
+      <id>822</id>
+      <school>Đại học Kinh Tế TP.HCM</school>
+      <degrees/>
+      <fieldofstudy>Kinh doanh quốc tế</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_822>
+  </education>
+  <experience>
+    <n_1030>
+      <id>1030</id>
+      <title>Lễ tân</title>
+      <level>1</level>
+      <cmpname>Ben Nghe Floating Restaurant</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt nam</country>
+      <from>03/2016</from>
+      <to>06/2016</to>
+    </n_1030>
+  </experience>
+  <appliedjob>
+    <total>1</total>
+    <strjo>201</strjo>
+  </appliedjob>
+</information>

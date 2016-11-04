@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3674</id>
+      <email>trungnguyencntp2612@gmail.com</email>
+      <username/>
+      <name>Nguyễn Trung</name>
+      <im>673192342831843_nguyen-trung.jpg</im>
+      <gender>1</gender>
+      <dob>1994-12-26</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474768159</created>
+      <day>26</day>
+      <month>12</month>
+      <year>1994</year>
+      <phone>0932069214</phone>
+      <address>47/11, Nguyễn Hữu Tiến, Tây Thạnh, Tân Phú</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8098893</lat>
+      <lng>106.6257434</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên</title>
+      <experience>1</experience>
+      <category>35</category>
+      <type>1,2,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Sử dụng thành thạo vi tính</skill>
+      <ui>3674</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>302</strjo>
+  </appliedjob>
+  <education>
+    <n_602>
+      <id>602</id>
+      <school>Hufi</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Công nghệ sinh học</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_602>
+  </education>
+</information>

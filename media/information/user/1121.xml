@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1121</id>
+      <email>lean35461@gmail.com</email>
+      <username/>
+      <name>Lê Mộng Bình</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01693767320</phone>
+      <address>443/71T Lê Văn Sỹ, quận 3, TPHCM</address>
+      <city/>
+      <dob>1996-9-19</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471792562</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>19</day>
+      <month>9</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>35</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en,ja</lang>
+      <skill>Giao tiếp&#13;
+Sắp xếp công việc&#13;
+Tư vấn</skill>
+      <ui>1121</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>124</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>124</strjo>
+  </savedjob>
+</information>

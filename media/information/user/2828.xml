@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2828</id>
+      <email>trucdiem2309@gmail.com</email>
+      <username/>
+      <name>Phạm Thị Diễm Trúc</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01889929698</phone>
+      <address>F4/2F ấp 6 xã Vĩnh Lộc A huyện Bình Chánh </address>
+      <city>30</city>
+      <dob>1999-3-2</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474005676</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1474005676</last_signin>
+      <day>2</day>
+      <month>3</month>
+      <year>1999</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.819491</lat>
+      <lng>106.552245</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>2828</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Hiện tại em chưa có kinh nghiệm. Nhưng siêng năng chăm chỉ vui vẻ va rất hòa đồng thân thiện với mọi người. </about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1027</id>
+      <email>thangcong85@ymail.com</email>
+      <username/>
+      <name>Nguyễn Công Thắng</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0935337123</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1471610065</created>
+      <dayleft>1476810299</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <jobleft>3</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>2</total>
+    <strji>168,296</strji>
+  </totalJob>
+</information>

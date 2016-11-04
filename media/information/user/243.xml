@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>243</id>
+      <email>haduy_0907@yahoo.com.vn</email>
+      <username/>
+      <name>Hà Duy</name>
+      <im>1277083162317013_ha-duy.jpg</im>
+      <gender>1</gender>
+      <category/>
+      <phone>01223363830</phone>
+      <address>45 Nguyen Thai Hoc Distric 1</address>
+      <city>30</city>
+      <dob>1997-7-9</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1467571775</created>
+      <dayleft>0</dayleft>
+      <signupby>FB</signupby>
+      <day>9</day>
+      <month>7</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7653723</lat>
+      <lng>106.6970274</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>243</ui>
+      <title>Waiter</title>
+      <category>14,15</category>
+      <location>30</location>
+      <type>2</type>
+      <level>2</level>
+      <experience>1</experience>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <skill></skill>
+    </db>
+  </user_cv>
+</information>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>444</id>
+      <email>boo.sid13@gmail.com</email>
+      <username/>
+      <name>Nguyễn Cao Ngọc Nhi</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0933400280</phone>
+      <address>481/12 Đoàn Văn Bơ F13 Q4</address>
+      <city>30</city>
+      <dob>1997-12-5</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470131838</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>5</day>
+      <month>12</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.760821</lat>
+      <lng>106.707658</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_77>
+      <id>77</id>
+      <title>Phục vụ, Pha chế, Bán hàng</title>
+      <level>1</level>
+      <cmpname>Cakes and Ale</cmpname>
+      <city>HCM</city>
+      <country>Việt Nam</country>
+      <from>4.2016</from>
+      <to>7. 2016</to>
+    </n_77>
+    <n_78>
+      <id>78</id>
+      <title>Phục vụ, bán hàng</title>
+      <level>1</level>
+      <cmpname>Grival Cafe</cmpname>
+      <city>HCM</city>
+      <country>Việt Nam</country>
+      <from>7.2015</from>
+      <to>9. 2015</to>
+    </n_78>
+  </experience>
+  <education>
+    <n_54>
+      <id>54</id>
+      <school>Đại học Văn Lang</school>
+      <degrees/>
+      <fieldofstudy>Quản trị hệ thống thông tin phần mềm</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_54>
+  </education>
+  <user_cv>
+    <db>
+      <ui>444</ui>
+      <title>Phục vụ, bán hàng, pha chế</title>
+      <experience>7</experience>
+      <category>14,15,17,20,26,27,29,35</category>
+      <type>2,3</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <skill>- Thích nghi công việc nhanh&#13;
+- Có trách nhiệm&#13;
+- Sức khoẻ tốt</skill>
+      <keyword>Giao tiếp hiệu quả,Tinh thần trách nhiệm,Tự tin,Trung thực,Tinh thần làm việc nhóm,Tập trung trong công việc</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>63</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>63</strjo>
+  </savedjob>
+</information>

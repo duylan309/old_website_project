@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>463</id>
+      <email>tramle1697@gmail.com</email>
+      <username/>
+      <name>Trâm Lê</name>
+      <im>744209475722184_tram-le.jpg</im>
+      <gender>2</gender>
+      <dob>1997-9-16</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470194598</created>
+      <day>16</day>
+      <month>9</month>
+      <year>1997</year>
+      <phone>0937037720</phone>
+      <address>03,6A,phuong Binh Hung Hoa B, quận Bình Tân</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8044194</lat>
+      <lng>106.5890328</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_63>
+      <id>63</id>
+      <school>đại học văn lang</school>
+      <degrees/>
+      <fieldofstudy>Quản trị nha hàng khách sạn</fieldofstudy>
+      <from>năm 1</from>
+      <to>năm 2</to>
+    </n_63>
+  </education>
+  <experience>
+    <n_89>
+      <id>89</id>
+      <title>Nhân viên</title>
+      <level>1</level>
+      <cmpname>FD Mart</cmpname>
+      <city>TP HCM</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_89>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>463</ui>
+      <title>Giao hàng, nhân viên phục vụ, housekeepping</title>
+      <experience>7</experience>
+      <category>14,15,16,17,18,19,20,26,27,29</category>
+      <type>2,5,6</type>
+      <level>2,4</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <skill>Sáng tạo, khéo léo, năng đông trong công việc, chăm sóc khách hàng,work team, có trách nhiệm, kỹ năng giải quyết tình huống bất ngờ</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

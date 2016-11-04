@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3727</id>
+      <email>johua1304@gmail.com</email>
+      <username/>
+      <name>Hứa Thị Ngọc Chi</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0937099220</phone>
+      <address>364 Bình Đông, p.15, quận 8</address>
+      <city>30</city>
+      <dob>1993-4-13</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474794269</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1474794269</last_signin>
+      <day>13</day>
+      <month>4</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.732862</lat>
+      <lng>106.636639</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_826>
+      <id>826</id>
+      <title>Kế toán kho</title>
+      <level>1</level>
+      <cmpname>Vina changtai</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>2015</to>
+    </n_826>
+    <n_827>
+      <id>827</id>
+      <title>Bán hàng Adidas</title>
+      <level>1</level>
+      <cmpname>Adidas store</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2012</from>
+      <to>2013</to>
+    </n_827>
+  </experience>
+  <education>
+    <n_611>
+      <id>611</id>
+      <school>Đạo học Hoa Sen</school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy>Kế toán</fieldofstudy>
+      <from>2011</from>
+      <to>2015</to>
+    </n_611>
+  </education>
+  <user_cv>
+    <db>
+      <ui>3727</ui>
+      <title>Nhân viên</title>
+      <experience>1</experience>
+      <category>14,15,17,35</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en,ch</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Khả năng làm việc độc lập, trung thực, trách nhiệm, ham học hỏi&#13;
+❑	Nhiệt tình và hòa đồng&#13;
+❑	Trung thực và nhanh nhẹn&#13;
+❑	Yêu thích nhiếp ảnh ( có khả năng chụp ảnh)</about>
+      <skill>◈	Kỹ năng vi tính văn phòng: Photoshop,Word, Excel, Powerpoint, Internet.&#13;
+◈	Kỹ năng Anh văn: TOEIC 565</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>311,222</strjo>
+  </appliedjob>
+</information>

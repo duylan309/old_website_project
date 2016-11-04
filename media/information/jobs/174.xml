@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>174</id>
+    <ui>1150</ui>
+    <ci>270</ci>
+    <ai>0</ai>
+    <ti>QUẢN LÝ CỬA HÀNG CAFE</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1,4</ty>
+    <ex>2</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>7000000</s1>
+    <s2>10000000</s2>
+    <s3>318</s3>
+    <s4>454</s4>
+    <lo/>
+    <co>vn,for</co>
+    <ca>14,15,27,35</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description>A. Quản lý Nhân sự:\r\nChịu trách nhiệm quản lý và phát triển đội ngũ nhân viên; \r\nTham gia vào việc đào tạo nhân viên tại quán;\r\nTrực tiếp hướng dẫn và đào tạo nhân viên các kỹ năng và kiến thức cơ bản;\r\nĐánh giá nhân viên định kỳ; khuyến khích và động viên nhân viên; \r\nHướng dẫn, đôn đốc, nhắc nhở Nhân viên hoàn thành tốt công việc được giao (04 vị trí làm việc);\r\nB. Quản lý Kính doanh:\r\nTheo dõi và Quản lý doanh thu; \r\nNộp doanh thu hàng ngày về công ty (kế toán)\r\nGiám sát và chịu trách nhiệm về việc kinh doanh của Quán nhằm đạt được doanh số được giao;\r\nXử lý các vấn đề phát sinh tại quán;\r\nThỏa mãn và giải đáp các yêu cầu thắc mắc của khách hàng;\r\nĐề xuất các phương án nhằm :\r\n+ cải thiện quy trình làm việc \r\n+ gia tăng doanh số\r\n+ tối ưu hóa việc quản lý\r\nC. Quản lý tài sản, nguyên vật liệu\r\nQuản lý tài sản, nguyên vật liệu;\r\nKiểm tra hàng ngày và kiểm kê định kỳ;\r\nD. Chế độ Báo cáo\r\nBáo cáo tình hình kinh doanh trực tiếp với Giám Đốc Hệ Thống theo định kỳ/đột xuất;\r\nBáo cáo xuất, nhập, tồn theo định kỳ;</description>
+    <requirement>- Nam, nữ từ 25 đến 35 tuổi, độc thân\r\n- Kinh nghiệm : tối thiểu 2 năm kinh nghiệm quản lý cửa hàng/quán café, hoặc ở vị trí tương đương\r\n- Ứng viên tốt nghiệp Cao Đẳng, Đại học chuyên ngành nhà hàng khách sạn , QTKD, - Quản lý ẩm thực hoặc CN thực phẩm sẽ được ưu tiên\r\n- Tiếng Anh giao tiếp tốt\r\n- Có kỹ năng đào tạo, ra quyết định, giải quyết xung đột tốt\r\n- Có khả năng quản lý và sắp xếp công việc tốt\r\n- Sử dụng tốt vi tính văn phòng, có kiến thức cơ bản về kế toán - kinh doanh\r\n- Vui vẻ, hoạt bát, yêu thích công việc trong ngành kinh doanh café\r\n- Cam kết phát triển cùng Passio</requirement>
+    <benefit>- Mức lương khởi điểm: hấp dẫn\r\n- Được đào tạo các kỹ năng chuyên môn\r\n- Cơ hội thăng tiến công bằng \r\n- Chế độ lương thưởng hấp dẫn khuyến khích năng lực làm việc \r\n- Môi trường làm việc: chuyên nghiệp, thân thiện, nhiều cơ hội phát triển</benefit>
+    <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Tự tin,Tinh thần làm việc nhóm</keyword>
+    <ad/>
+    <location_id>91</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-30</de>
+    <re>0000-00-00</re>
+    <cr>1477291205</cr>
+  </db>
+  <more>
+    <requirement>- Nam, nữ từ 25 đến 35 tuổi, độc thân&#13;
+- Kinh nghiệm : tối thiểu 2 năm kinh nghiệm quản lý cửa hàng/quán café, hoặc ở vị trí tương đương&#13;
+- Ứng viên tốt nghiệp Cao Đẳng, Đại học chuyên ngành nhà hàng khách sạn , QTKD, - Quản lý ẩm thực hoặc CN thực phẩm sẽ được ưu tiên&#13;
+- Tiếng Anh giao tiếp tốt&#13;
+- Có kỹ năng đào tạo, ra quyết định, giải quyết xung đột tốt&#13;
+- Có khả năng quản lý và sắp xếp công việc tốt&#13;
+- Sử dụng tốt vi tính văn phòng, có kiến thức cơ bản về kế toán - kinh doanh&#13;
+- Vui vẻ, hoạt bát, yêu thích công việc trong ngành kinh doanh café&#13;
+- Cam kết phát triển cùng Passio</requirement>
+    <description>A. Quản lý Nhân sự:&#13;
+Chịu trách nhiệm quản lý và phát triển đội ngũ nhân viên; &#13;
+Tham gia vào việc đào tạo nhân viên tại quán;&#13;
+Trực tiếp hướng dẫn và đào tạo nhân viên các kỹ năng và kiến thức cơ bản;&#13;
+Đánh giá nhân viên định kỳ; khuyến khích và động viên nhân viên; &#13;
+Hướng dẫn, đôn đốc, nhắc nhở Nhân viên hoàn thành tốt công việc được giao (04 vị trí làm việc);&#13;
+B. Quản lý Kính doanh:&#13;
+Theo dõi và Quản lý doanh thu; &#13;
+Nộp doanh thu hàng ngày về công ty (kế toán)&#13;
+Giám sát và chịu trách nhiệm về việc kinh doanh của Quán nhằm đạt được doanh số được giao;&#13;
+Xử lý các vấn đề phát sinh tại quán;&#13;
+Thỏa mãn và giải đáp các yêu cầu thắc mắc của khách hàng;&#13;
+Đề xuất các phương án nhằm :&#13;
++ cải thiện quy trình làm việc &#13;
++ gia tăng doanh số&#13;
++ tối ưu hóa việc quản lý&#13;
+C. Quản lý tài sản, nguyên vật liệu&#13;
+Quản lý tài sản, nguyên vật liệu;&#13;
+Kiểm tra hàng ngày và kiểm kê định kỳ;&#13;
+D. Chế độ Báo cáo&#13;
+Báo cáo tình hình kinh doanh trực tiếp với Giám Đốc Hệ Thống theo định kỳ/đột xuất;&#13;
+Báo cáo xuất, nhập, tồn theo định kỳ;</description>
+    <workhour/>
+    <benefit>- Mức lương khởi điểm: hấp dẫn&#13;
+- Được đào tạo các kỹ năng chuyên môn&#13;
+- Cơ hội thăng tiến công bằng &#13;
+- Chế độ lương thưởng hấp dẫn khuyến khích năng lực làm việc &#13;
+- Môi trường làm việc: chuyên nghiệp, thân thiện, nhiều cơ hội phát triển</benefit>
+    <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Tự tin,Tinh thần làm việc nhóm</keyword>
+  </more>
+  <userapplied>
+    <total>16</total>
+    <strui>1157,2199,1354,2778,3080,3538,4313,4944,5241,3710,654,5633,6021,7638,7668,1365</strui>
+  </userapplied>
+</information>

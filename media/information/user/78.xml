@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>78</id>
+      <email>ngocbd2@gmail.com</email>
+      <username/>
+      <name>Du Bao Ngoc</name>
+      <im/>
+      <gender>2</gender>
+      <category/>
+      <phone>01238970602</phone>
+      <address>6 Thi Sach</address>
+      <city>30</city>
+      <dob>1983-01-20</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1460529357</created>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>78</ui>
+      <category>14,17,20</category>
+      <title></title>
+      <type>1</type>
+      <level>2</level>
+      <experience></experience>
+      <location>1,16,30</location>
+      <s1>10000000</s1>
+      <salary>1</salary>
+      <skill>lkeafjakldsfjdalsk</skill>
+      <s2>454.54545454545</s2>
+    </db>
+  </user_cv>
+</information>

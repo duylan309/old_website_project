@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5575</id>
+      <email>ngoctomboy29697@gmail.com</email>
+      <username/>
+      <name>TRẦN THỊ BÍCH NGỌC</name>
+      <im>1476089138_tran-thi-bich-ngoc.png</im>
+      <gender>2</gender>
+      <phone>01632640271</phone>
+      <address>47 dương quảng hàm quận gò vấp hcm</address>
+      <city>30</city>
+      <dob>1997-6-29</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476089138</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>29</day>
+      <month>6</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8326322</lat>
+      <lng>106.6857826</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>phụ bếp</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>sơ chế nguyên liệu.&#13;
+sử dụng dao chảo Á-Âu.&#13;
+vệ sinh an toàn thực phẩm.</skill>
+      <ui>5575</ui>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <about>nhiệt tình vui vẻ và hòa đồng!có trách nhiệm trong công việc.</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>360</strjo>
+  </appliedjob>
+</information>

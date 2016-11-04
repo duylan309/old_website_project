@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>741</id>
+      <email>maicamvan195@gmail.com</email>
+      <username/>
+      <name>Mai Thị Cẩm Vân</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0944702420</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470981401</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,16</category>
+      <type>1,5</type>
+      <level>2</level>
+      <lang>vi,en,ja,fr</lang>
+      <skill>Pha chế thức uống cơ bản hoặc làm lễ tân chỉ dẫn cho khách</skill>
+      <ui>741</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>92</strjo>
+  </appliedjob>
+</information>

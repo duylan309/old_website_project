@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>8054</id>
+      <email>dunghuynh9646@gmail.com</email>
+      <username/>
+      <name>Huỳnh Thị Mỹ Dung</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01679333241</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477637831</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ và bán hàng</title>
+      <experience>7</experience>
+      <category>27</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Phục vụ</skill>
+      <ui>8054</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>516</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4820</id>
+      <email>Chithanhtran1104@gmail.com</email>
+      <username/>
+      <name>Trần Chí Thành</name>
+      <im>1475508291_tran-chi-thanh.png</im>
+      <gender>1</gender>
+      <phone>0975766231</phone>
+      <address>27/74 điên biên phủ.p 15, q bình thạnh</address>
+      <city>30</city>
+      <dob>1996-6-8</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475508291</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>8</day>
+      <month>6</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.79501</lat>
+      <lng>106.699327</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>2,4,5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill></skill>
+      <ui>4820</ui>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>64</strjo>
+  </appliedjob>
+</information>

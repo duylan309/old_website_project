@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>752</id>
+      <email>kenpotato1994@gmail.com</email>
+      <username/>
+      <name>Khương Trần</name>
+      <im>889809684480416_khuong-tran.jpg</im>
+      <gender>1</gender>
+      <dob>1994-4-8</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470984956</created>
+      <day>8</day>
+      <month>4</month>
+      <year>1994</year>
+      <phone>01202284183</phone>
+      <address>246 dương đình hội ,phường tăng nhơn phú b ,quận 9</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8302264</lat>
+      <lng>106.7831762</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Bartender ,Waiter</title>
+      <experience>4</experience>
+      <category>14,16,18,20</category>
+      <type>1</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <skill>Excel ,word ,power point , dịch thuật cũng như có hiểu biết về bộ phận bếp , lễ tân !    </skill>
+      <ui>752</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <keyword>tự tin,Nhiệt tình,Tinh thần làm việc nhóm,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Kỹ năng giải quyết tình huống,Kỹ năng chăm sóc khách hàng</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>117</strjo>
+  </appliedjob>
+  <experience/>
+</information>

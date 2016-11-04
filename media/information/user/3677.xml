@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3677</id>
+      <email>Trinhkhanh2996@gmail.com</email>
+      <username/>
+      <name>Trịnh Trần Quốc Khánh</name>
+      <im>1474768674_trinh-tran-quoc-khanh.png</im>
+      <gender>0</gender>
+      <phone>01253090996</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474768673</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế</title>
+      <experience>1</experience>
+      <category>26</category>
+      <type>2,5,6</type>
+      <level>2,3,4</level>
+      <lang>vi,en,ja</lang>
+      <skill>Teamwork,Teamleader,Management,Make Beverages.</skill>
+      <ui>3677</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>332</strjo>
+  </appliedjob>
+  <experience>
+    <n_819>
+      <id>819</id>
+      <title>Shift Leader</title>
+      <level>1</level>
+      <cmpname>Yennie Coffee</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Viet Nam</country>
+      <from>9/2015</from>
+      <to>10/2016</to>
+    </n_819>
+    <n_820>
+      <id>820</id>
+      <title>Personal Assistant</title>
+      <level>1</level>
+      <cmpname>Penland Asia</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Viet Nam</country>
+      <from>10/2014</from>
+      <to>Now</to>
+    </n_820>
+  </experience>
+  <education>
+    <n_603>
+      <id>603</id>
+      <school>HUFLIT</school>
+      <degrees></degrees>
+      <fieldofstudy>International Business </fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_603>
+  </education>
+</information>

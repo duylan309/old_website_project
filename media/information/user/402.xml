@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>402</id>
+      <email>thanhlt1303@gmail.com</email>
+      <username/>
+      <name>Thanh Thanh</name>
+      <im>321857711487835_thanh-thanh.jpg</im>
+      <gender>2</gender>
+      <dob>1992-4-15</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470053764</created>
+      <day>15</day>
+      <month>4</month>
+      <year>1992</year>
+      <phone>01205688555</phone>
+      <address>127 lô I chung cư Ngô Gia Tự, P2 Q10</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_55>
+      <id>55</id>
+      <title>Thu ngân</title>
+      <level>1</level>
+      <cmpname>The Caterers Vietnam</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>08/2013</from>
+      <to>11/2014</to>
+    </n_55>
+    <n_56>
+      <id>56</id>
+      <title>Điều phối viên</title>
+      <level>1</level>
+      <cmpname>The Caterers Vietnam</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>11/2014</from>
+      <to>09/2015</to>
+    </n_56>
+    <n_57>
+      <id>57</id>
+      <title>Quản lí nhà ăn</title>
+      <level>1</level>
+      <cmpname>The Caterers</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>10/2015</from>
+      <to>04/2016</to>
+    </n_57>
+  </experience>
+  <education>
+    <n_41>
+      <id>41</id>
+      <school>Đại học Ngoại ngữ - Tin học Thành phố Hồ Chí Minh</school>
+      <degrees>Cao đẳng hệ chính quy</degrees>
+      <fieldofstudy>Ngoại ngữ</fieldofstudy>
+      <from>2010</from>
+      <to>2013</to>
+    </n_41>
+  </education>
+  <user_cv>
+    <db>
+      <ui>402</ui>
+      <title>Bán hàng, Chăm sóc khách hàng, Thu ngân</title>
+      <experience>2</experience>
+      <category>14,17,20,29,35,36</category>
+      <type>1,2,4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <skill>Kỹ năng làm việc nhóm, Kỹ năng giao tiếp</skill>
+      <keyword>Giao tiếp hiệu quả, Tinh thần trách nhiệm, Tập trung trong công việc, Trung thực, Nhiệt tình</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>82</strjo>
+  </appliedjob>
+</information>

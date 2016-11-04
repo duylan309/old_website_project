@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2229</id>
+      <email>dieuchi1009@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Diệu Chi</name>
+      <im>1473314722_nguyen-thi-dieu-chi.jpg</im>
+      <gender>0</gender>
+      <phone>01696454654</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473314722</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>14,15,27,30,35</category>
+      <type>4,5,6</type>
+      <level>1</level>
+      <lang>vi,en,rs</lang>
+      <skill>Giao tiếp tốt, nhanh nhẹn, siêng năng, sạch sẽ, ham học hỏi, cẩn thận, hoà đồng, làm việc nhóm tốt.</skill>
+      <ui>2229</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>165</strjo>
+  </appliedjob>
+  <education>
+    <n_351>
+      <id>351</id>
+      <school>Đại học Sư Phạm TPHCM</school>
+      <degrees>Chưa tốt nghiệp </degrees>
+      <fieldofstudy>Song ngữ Nga Anh</fieldofstudy>
+      <from>2015</from>
+      <to>2020</to>
+    </n_351>
+  </education>
+</information>

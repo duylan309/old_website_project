@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3898</id>
+      <email>nguyenanhlinh0401@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Ánh Linh</name>
+      <im>716907598472755_anh-linh.jpg</im>
+      <gender>2</gender>
+      <dob>1996-1-4</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474889092</created>
+      <day>4</day>
+      <month>1</month>
+      <year>1996</year>
+      <last_signin>1474889092</last_signin>
+      <phone>01288982526</phone>
+      <address>601/8, Cách mạng tháng 8, phường 15, quận 10,tp HCM</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.784114</lat>
+      <lng>106.668702</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>3898</ui>
+      <title>Nhân viên</title>
+      <experience>7</experience>
+      <category>15,17,35,36</category>
+      <type>2,4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>Bản thân mình là một người có trách nhiệm, siêng năng, hiền lành. Đi làm thêm một phần là vì mình muốn tự kiếm tiền, một phần cũng vì muốn có thêm nhiều kinh nghiệm sống cho bản thân.  Dù bản thân mình thật sự chưa có nhiều kinh nghiệm nhưng với lòng nhiệt huyết và quyết tâm, mình nghĩ mình có thể làm tốt.</about>
+      <skill>mình biết chụp hình, nhưng hiện giờ máy vừa bị mất. Mình thường xuyên những trang web thời trang để cập nhật những xu hướng mới nhất. </skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>124</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6582</id>
+      <email>nguyenchung119@gmail.com</email>
+      <username/>
+      <name>Nguyễn Hàm Chung</name>
+      <im>1143463005743825_nguyen-ham-chung.jpg</im>
+      <gender>1</gender>
+      <dob>1994-6-29</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476694132</created>
+      <day>29</day>
+      <month>6</month>
+      <year>1994</year>
+      <last_signin>1476694132</last_signin>
+      <phone>0969003568</phone>
+      <address>hẻm 27/18/5 nguyễn bỉnh khiêm , phường 1, quận Gò vấp, tp HCM</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_1077>
+      <id>1077</id>
+      <school>THPT Buôn Ma Thuột</school>
+      <degrees>Tốt nghiệp THPT Buôn Ma Thuột</degrees>
+      <fieldofstudy>Văn Hóa</fieldofstudy>
+      <from>2010</from>
+      <to>2012</to>
+    </n_1077>
+    <n_1078>
+      <id>1078</id>
+      <school>Hướng Nghiệp Á Âu</school>
+      <degrees>Chứng chỉ nghề </degrees>
+      <fieldofstudy>Bếp Âu - Á</fieldofstudy>
+      <from>2013</from>
+      <to>2014</to>
+    </n_1078>
+    <n_1079>
+      <id>1079</id>
+      <school>Hướng Nghiệp Á Âu</school>
+      <degrees>Chứng chỉ nghề</degrees>
+      <fieldofstudy>Bếp Bánh Âu</fieldofstudy>
+      <from>2013</from>
+      <to>2014</to>
+    </n_1079>
+  </education>
+  <experience>
+    <n_1315>
+      <id>1315</id>
+      <title>Bếp Trưởng</title>
+      <level>1</level>
+      <cmpname>Cty TNHH Gia Hòa - Nhà Hàng Mộc-Riêu-Nướng</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>09/2015</from>
+      <to>9/2016</to>
+    </n_1315>
+    <n_1317>
+      <id>1317</id>
+      <title>Bếp Phó</title>
+      <level>1</level>
+      <cmpname>Cty TNHH Hương Trang- Nhà Hàng Master-Chef</cmpname>
+      <city>Hà Nội</city>
+      <country>Việt Nam</country>
+      <from>01/2015</from>
+      <to>09/2015</to>
+    </n_1317>
+    <n_1318>
+      <id>1318</id>
+      <title>Bếp Chính</title>
+      <level>1</level>
+      <cmpname>Cty Một thành viên La-Creperie Sài Gon</cmpname>
+      <city>hồ Chí minh</city>
+      <country>Việt Nam</country>
+      <from>01/2014</from>
+      <to>12/2014</to>
+    </n_1318>
+    <n_1319>
+      <id>1319</id>
+      <title>Nhân viên Thời Vụ</title>
+      <level>1</level>
+      <cmpname>Khách Sạn Intercontinental Asia Sài Gòn</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>01/2013</from>
+      <to>12/2013</to>
+    </n_1319>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>6582</ui>
+      <title>Đầu Bếp</title>
+      <experience>3</experience>
+      <category>14,15,18,20,28,29</category>
+      <type>1,2,4,5,6</type>
+      <level>4</level>
+      <lang>vi,en</lang>
+      <s1>10000000</s1>
+      <salary>1</salary>
+      <about>tôi là nguyễn hàm chung, năm nay 22 tuổi, đang độc thân vui vẻ, là người yêu thích nấu ăn và đó là lí do ôi theo nghề đầu bếp, tuy nhiên tôi vẫn thích đi du lịch, đọc sách, lướt wed, chơi thể thao, tụ tập với bạn bè để tìm hiểu thêm nhiều kiến thức sống và cho nghề nghiệp. Hiện tại tôi đã làm bếp được 4 năm và có kinh nghiệm về bếp Âu, bếp Á , một ít về bếp Bánh Âu. Mong muốn tương lai là phát triển nghề nghiệp, tích góp vốn để bắt đầu sự nghiệp kinh doanh. </about>
+      <skill>Tôi biết làm việc bằng máy tính, và email. &#13;
+Có biết tiếng anh giao tiếp căn bản&#13;
+và có kỹ năng giao tiếp tốt.&#13;
+Có tinh thần trách nghiệm cao trong công việc.</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>359,458,143,416</strjo>
+  </appliedjob>
+</information>

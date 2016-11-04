@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3071</id>
+      <email>phuongtrinh160397@gmail.com</email>
+      <username/>
+      <name>Vũ Đỗ Phương Trinh</name>
+      <im>3071_12524249-1534798966822734-2401635577873292976-n.jpg</im>
+      <gender>2</gender>
+      <phone>01869065242</phone>
+      <address>63/18/15 Chu Thiên, P. Hiệp Tân, Q. Tân Phú</address>
+      <city>30</city>
+      <dob>1997-3-16</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474245364</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1474245364</last_signin>
+      <day>16</day>
+      <month>3</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.773157</lat>
+      <lng>106.629497</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_506>
+      <id>506</id>
+      <school>FPT Polytechnic</school>
+      <degrees>Cao đẳng</degrees>
+      <fieldofstudy>Thiết kế đồ họa</fieldofstudy>
+      <from>2015</from>
+      <to>2018</to>
+    </n_506>
+  </education>
+  <user_cv>
+    <db>
+      <ui>3071</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15,17</category>
+      <type>1,2,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Em tên là: Phương Trinh. Năm nay em 19 tuổi, em là một người hòa đồng, vui vẻ, chịu khó học hỏi và quan trọng là em rất hay cười !</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>403</strjo>
+  </appliedjob>
+</information>

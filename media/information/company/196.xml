@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>196</id>
+    <ui>229</ui>
+    <name>DTWO - Ho Chi Minh City</name>
+    <url>dtwovn</url>
+    <im/>
+    <im_banner/>
+    <category>16</category>
+    <phone>08.3519 4138</phone>
+    <address>55-57 Thao Dien Street</address>
+    <district>769</district>
+    <district_text_vi>Quận 2</district_text_vi>
+    <district_text_en>District 2</district_text_en>
+    <city>30</city>
+    <lat>10.805118</lat>
+    <lng>106.736374</lng>
+    <website>www.dtwo.vn</website>
+    <about/>
+    <facebook>https://www.facebook.com/dtwosportspub/?fref=ts</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1467255307</created>
+  </db>
+  <more>
+    <about></about>
+    <whyworkus/>
+  </more>
+</information>

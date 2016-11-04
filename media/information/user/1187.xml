@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1187</id>
+      <email>tracyvo46@gmail.com</email>
+      <username/>
+      <name>Võ Nguyễn Thuỳ Dương</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0908764921</phone>
+      <address>888/9 Lạc Long Quân, F8, Quận Tân Bình</address>
+      <city>30</city>
+      <dob>1993-6-4</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471914665</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>4</day>
+      <month>6</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7827249</lat>
+      <lng>106.649058</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên Marketing</title>
+      <experience>1</experience>
+      <category>14,15,18,19,20,26,29</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>- Giỏi sử dụng MS Office (Word, Excel, Power Point,...)&#13;
+- Có khả năng teamwork và nhanh nhẹn</skill>
+      <ui>1187</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Tinh thần trách nhiệm,Tập trung trong công việc,Chịu được áp lực công việc,Nhiệt tình,Tự tin,Trung thực,Tinh thần làm việc nhóm,năng động</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>99</strjo>
+  </appliedjob>
+  <experience>
+    <n_292>
+      <id>292</id>
+      <title>Marketing Executive</title>
+      <level>1</level>
+      <cmpname>NutiFood Joint Stock Company</cmpname>
+      <city>HCMC</city>
+      <country>Vietnam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_292>
+  </experience>
+  <education>
+    <n_205>
+      <id>205</id>
+      <school>University College of Dublin, Ireland</school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy>Quản lý Tài chính</fieldofstudy>
+      <from>2011</from>
+      <to>2015</to>
+    </n_205>
+  </education>
+</information>

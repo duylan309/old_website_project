@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3315</id>
+      <email>hoangtuangtvttphcm@gmail.com</email>
+      <username/>
+      <name>Hoàng Khắc Tuấn</name>
+      <im>3315_14358763-1680091765651180-6546178120007443563-n.jpg</im>
+      <gender>1</gender>
+      <phone>01695159146</phone>
+      <address>D2, phường 25, Bình Thạnh</address>
+      <city>30</city>
+      <dob>1994-10-13</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474524979</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>13</day>
+      <month>10</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8058358</lat>
+      <lng>106.7159504</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ </title>
+      <experience>1</experience>
+      <category>14,16,17,19,20</category>
+      <type>1,2,4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Giao tiêp. Máy tính</skill>
+      <ui>3315</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Vui vẻ, trung thực, siêng năng</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>17</total>
+    <strjo>211,181,161,140,301,275,334,107,279,199,259,364,247,258,240,170,273</strjo>
+  </appliedjob>
+</information>

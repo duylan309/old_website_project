@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4565</id>
+      <email>thusoneulaw@gmail.com</email>
+      <username/>
+      <name>Lê Huỳnh Anh Thư</name>
+      <im>875159065948388_le-huynh-anh-thu.jpg</im>
+      <gender>2</gender>
+      <dob>1995-9-14</dob>
+      <deactive>1</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475303934</created>
+      <day>14</day>
+      <month>9</month>
+      <year>1995</year>
+      <last_signin>1475303934</last_signin>
+      <phone>01658434674</phone>
+      <address>Phạm Văn Đồng Phường Hiệp Bình Chánh Quận Thủ Đức</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8330083</lat>
+      <lng>106.7274973</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_969>
+      <id>969</id>
+      <title>Nhân viên soạn hồ sơ</title>
+      <level>1</level>
+      <cmpname>Công ty Luật NTV</cmpname>
+      <city/>
+      <country/>
+      <from>09/2015</from>
+      <to>05/2016</to>
+    </n_969>
+  </experience>
+  <education>
+    <n_755>
+      <id>755</id>
+      <school>Đại học Luật thành phố Hồ Chí Minh</school>
+      <degrees/>
+      <fieldofstudy>Luật quốc tế</fieldofstudy>
+      <from>2014</from>
+      <to>2017</to>
+    </n_755>
+  </education>
+  <user_cv>
+    <db>
+      <ui>4565</ui>
+      <title>nhân viên thu ngân, phục vụ</title>
+      <experience>7</experience>
+      <category>15,29,30</category>
+      <type>4,5</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>Là một người năng động, giao tiếp tốt, vui vẻ , hòa đồng. Muốn trau dồi kỹ năng giao tiếp, tiếng Anh và học hỏi nhiều điều mới</about>
+      <skill>Tiếng Anh tương đối tốt</skill>
+      <keyword/>
+      <deactive>1</deactive>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>150,215,252</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4252</id>
+      <email>linhpham2929@gmail.com</email>
+      <username/>
+      <name>Phạm Nhật Phương Linh</name>
+      <im>1475047892_pha-m-nha-t-phuong-linh.png</im>
+      <gender>2</gender>
+      <phone>01208226908</phone>
+      <address>124/2 Nguyễn Đình Chiều, Phường 3, Quận Phú Nhuận</address>
+      <city>30</city>
+      <dob>1996-2-29</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475047891</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>29</day>
+      <month>2</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.804082</lat>
+      <lng>106.682713</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Barista / Bartender</title>
+      <experience>1</experience>
+      <category>14,15,16,19,20</category>
+      <type>1,4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Có kiến thức về barista và bartender </skill>
+      <ui>4252</ui>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <about>Có kiến thức cơ bản về Barista/Bartender nhưng chưa vững, sẽ học hỏi thêm trong thời gian làm việc. &#13;
+Ham học hỏi, yêu thích công việc, tinh thần trách nhiệm cao.&#13;
+Có thể làm ca xoay, tăng ca, đổi ca theo yêu cầu.&#13;
+Anh văn giao tiếp chưa tốt nhưng sẽ cố gắng học hỏi</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>7</total>
+    <strjo>93,207,286,126,111,201,312</strjo>
+  </appliedjob>
+  <education>
+    <n_686>
+      <id>686</id>
+      <school>Trường Trung cấp Du lịch &amp; Khách sạn Saigontourist</school>
+      <degrees>Chứng chỉ pha chế rượu</degrees>
+      <fieldofstudy>Bartender</fieldofstudy>
+      <from>03/2015</from>
+      <to>07/2015</to>
+    </n_686>
+  </education>
+  <experience>
+    <n_897>
+      <id>897</id>
+      <title>Bartender</title>
+      <level>1</level>
+      <cmpname>SHC Việt Nam</cmpname>
+      <city>TPHCM</city>
+      <country>Việt Nam</country>
+      <from>01/2016</from>
+      <to>08/2016</to>
+    </n_897>
+    <n_898>
+      <id>898</id>
+      <title>Bartender</title>
+      <level>1</level>
+      <cmpname>Zest Bistro &amp; Cafe</cmpname>
+      <city>TPHCM</city>
+      <country>Việt Nam</country>
+      <from>01/2014</from>
+      <to>04/2016</to>
+    </n_898>
+  </experience>
+</information>

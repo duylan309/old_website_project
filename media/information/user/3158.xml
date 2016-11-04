@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3158</id>
+      <email>twdavies@hotmail.com</email>
+      <username/>
+      <name>Trent Davies</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0903976735</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1474356756</created>
+      <dayleft>1479540756</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1474356756</last_signin>
+      <jobleft>3</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>2</total>
+    <strji>305,312</strji>
+  </totalJob>
+  <saveuser>
+    <total>46</total>
+    <strui>3148,1029,2224,2047,3425,1259,3481,3543,3554,3604,2577,3422,3738,3521,3794,3861,3918,3866,579,3755,1802,4202,4265,4252,4304,4456,4465,1274,3775,4511,3819,4656,4712,4764,4773,4786,4905,4967,5059,4833,5142,5180,4639,5168,986,4200</strui>
+  </saveuser>
+</information>

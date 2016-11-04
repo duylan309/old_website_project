@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>289</id>
+      <email>binh.bkgt@yahoo.com.vn</email>
+      <username/>
+      <name>Phan Chí Bình</name>
+      <im>289_12080746-870457409690810-869623314-n.jpg</im>
+      <gender>1</gender>
+      <dob>1993-8-29</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1468227412</created>
+      <day>29</day>
+      <month>8</month>
+      <year>1993</year>
+      <phone>01652187487</phone>
+      <address>197/33A Hàn Hải Nguyên </address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.757346</lat>
+      <lng>106.646379</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_26>
+      <id>26</id>
+      <title>Barista, Manager</title>
+      <level>1</level>
+      <cmpname>CI5 Coffee and Tea House</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Viet Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_26>
+    <n_27>
+      <id>27</id>
+      <title>Barista</title>
+      <level>1</level>
+      <cmpname>Pigasus Cafe and Board Game</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Viet Nam</country>
+      <from>2016</from>
+      <to>Now</to>
+    </n_27>
+    <n_28>
+      <id>28</id>
+      <title>Waiter, Barista</title>
+      <level>1</level>
+      <cmpname>Sai Gon 2 Restaurant</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Viet Nam</country>
+      <from>2013</from>
+      <to>2015</to>
+    </n_28>
+  </experience>
+  <education>
+    <n_20>
+      <id>20</id>
+      <school>Ho Chi Minh City of Technology - Đại Học Bách Khoa</school>
+      <degrees>Engineering</degrees>
+      <fieldofstudy>Bachelor in the University</fieldofstudy>
+      <from>2011</from>
+      <to>2016</to>
+    </n_20>
+  </education>
+  <user_cv>
+    <db>
+      <ui>289</ui>
+      <title>Barista, Store Manager</title>
+      <experience>2</experience>
+      <category>14,15,27,35</category>
+      <type>1</type>
+      <level>3,4,5</level>
+      <lang>vi,en,ja,ch</lang>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <skill>Customer service,Responsibility,Enthusiasm,Team-work,Attentiveness,Work well under pressure,Honesty,Confidence,Problem-solving</skill>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>68,63</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2411</id>
+      <email>trangrompham1412@gmail.com</email>
+      <username/>
+      <name>Kim Changr</name>
+      <im>1642631749361371_kim-changr.jpg</im>
+      <gender>2</gender>
+      <dob>01997-12-14</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473480449</created>
+      <day>14</day>
+      <month>12</month>
+      <year>01997</year>
+      <phone>01266103511</phone>
+      <address>tùng thiện vương</address>
+      <country>vn</country>
+      <city/>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>pha chế phục vụ</title>
+      <experience>1</experience>
+      <category>15,35</category>
+      <type>1,4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>tự tin vui ve chiu kho</skill>
+      <ui>2411</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>195,516</strjo>
+  </appliedjob>
+</information>

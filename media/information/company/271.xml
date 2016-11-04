@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>271</id>
+    <ui>1138</ui>
+    <name>Plan K BBQ</name>
+    <url>PlanKBBQ</url>
+    <im>_plan-k-bbq.jpg</im>
+    <im_banner>_plan-k-bbq-cover.jpg</im_banner>
+    <category>14</category>
+    <phone> 08.5412.1950</phone>
+    <address>66 Lý Long Tường, Mỹ Phước,  Phú Mỹ Hưng, Phường Tân Phong, Quận 7.</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.723268</lat>
+    <lng>106.710098</lng>
+    <website/>
+    <about/>
+    <facebook>https://www.facebook.com/PlanKBBQ/</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1471863887</created>
+  </db>
+  <more>
+    <about>Restaurant BBQ House Plan K với phương châm đáp ứng mọi mong đợi của khách hàng. Với  nguồn nguyên liệu tươi sạch được kiểm soát chặt chẽ từ khâu nhập hàng kết hợp với các loại gia vị đặc trưng của xứ sở Kim Chi Korea làm nên những món ăn đậm đà khẩu vị Hàn Quốc.</about>
+    <whyworkus/>
+  </more>
+  <companybanner>_plan-k-bbq-cover.jpg</companybanner>
+  <totalJob>
+    <total>4</total>
+    <strji>176,177,178,179</strji>
+  </totalJob>
+  <pagecmpfacebookcover>271_plank.png</pagecmpfacebookcover>
+</information>

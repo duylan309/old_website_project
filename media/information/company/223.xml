@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>223</id>
+    <ui>297</ui>
+    <name>Nineteen 11 Restaurant &amp; Bar</name>
+    <url>Nineteen</url>
+    <im>_nineteen-11-restaurant-bar.jpg</im>
+    <im_banner>_nineteen-11-restaurant-bar-cover.jpg</im_banner>
+    <category>14</category>
+    <phone>+844 3933 4801</phone>
+    <address>1, Trang Tien, Hoan Kiem</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>23</city>
+    <lat>21.024086</lat>
+    <lng>105.857658</lng>
+    <website>http://www.nineteen11.com</website>
+    <about/>
+    <facebook>https://www.facebook.com/Nineteen-11-Restaurant-Bar-461785173869963/</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1468405443</created>
+  </db>
+  <more>
+    <about>Modern Fusion Cuisine&#13;
+Welcome to Nineteen 11 Restaurant&#13;
+upscale international flavored cuisine with modern stylish decor in the historical Opera House </about>
+    <whyworkus/>
+  </more>
+  <companybanner>_nineteen-11-restaurant-bar-cover.jpg</companybanner>
+  <totalJob>
+    <total>4</total>
+    <strji>96,97,236,237</strji>
+  </totalJob>
+</information>

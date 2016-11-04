@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2337</id>
+      <email>phucha407@gmail.com</email>
+      <username/>
+      <name>Hà Hoàng Phúc</name>
+      <im>2337_12643037-788240331308153-4569112921460943721-n.jpg</im>
+      <gender>1</gender>
+      <phone>01698887385</phone>
+      <address>266 Nguyễn Oanh Phường 17 Quận Gò Vấp</address>
+      <city>30</city>
+      <dob>1995-7-4</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473409842</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1473409842</last_signin>
+      <day>4</day>
+      <month>7</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8422888</lat>
+      <lng>106.6767855</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_369>
+      <id>369</id>
+      <school>Cao Đẳng Viễn Đông</school>
+      <degrees/>
+      <fieldofstudy>Quản trị Kinh doanh</fieldofstudy>
+      <from>2013</from>
+      <to>2016</to>
+    </n_369>
+  </education>
+  <experience>
+    <n_522>
+      <id>522</id>
+      <title>Phục vụ/ Tiếp thực</title>
+      <level>1</level>
+      <cmpname>Trung tâm hội nghị tiệc cưới The Chateau</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>2015</to>
+    </n_522>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>2337</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>7</experience>
+      <category>14,15,27</category>
+      <type>2,4,5</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Tôi là cung Cự Giải. Một cung hoàng đạo thoạt nhìn tưởng lạnh lùng khó gần nhưng Cự Giải là một người luôn tạo cho mình lớp vỏ cứng cáp bên ngoài để nhằm che đậy tính cách nổi loạn bên trong. Và tôi là một người như vậy. Một người năng động, thích học hỏi, khám phá những điều mới, thích làm những việc mình thích và luôn hết mình vì công việc.</about>
+      <skill>Tôi có kỹ năng làm phục vụ tại nhà hàng tiệc cưới trong khoảng thời gian một năm. Và tôi đang là sinh viên ngành Quản trị Kinh doanh chuyên Quản trị Nhà hàng Khách sạn. Tôi đam mê những công việc liên quan đến phục vụ con người, nhân sự.</skill>
+      <keyword>Trung thực,Nhiệt tình,Tự tin,Tinh thần làm việc nhóm,Tập trung trong công việc,Chịu được áp lực công việc</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>215,301,276,247,221,202</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>2</total>
+    <strjo>221,202</strjo>
+  </savedjob>
+</information>

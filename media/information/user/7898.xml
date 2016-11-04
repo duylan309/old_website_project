@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7898</id>
+      <email>alicevy123@gmail.com</email>
+      <username/>
+      <name>Trúc Vy Đặng</name>
+      <im>1753508514900874_truc-vy-dang.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477533444</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Bartender</title>
+      <experience>2</experience>
+      <category>14,16,18,19,26</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>7898</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>456</strjo>
+  </appliedjob>
+</information>

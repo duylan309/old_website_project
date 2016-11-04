@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>51</id>
+    <ui>138</ui>
+    <ci>138</ci>
+    <ai>0</ai>
+    <ti>Waiter / Waitress</ti>
+    <ta/>
+    <le>3</le>
+    <ty>1</ty>
+    <ex>3</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>2000000</s1>
+    <s2>5000000</s2>
+    <s3>90</s3>
+    <s4>227</s4>
+    <lo>30</lo>
+    <ca>14,16,19</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st></st>
+    <pi>0</pi>
+    <la>en</la>
+    <de>0000-00-00</de>
+    <re>0000-00-00</re>
+    <cr>1461568249</cr>
+  </db>
+  <more>
+    <number>10</number>
+    <requirement>serve customers&#13;
+clean tables&#13;
+take food orders&#13;
+ensure food quality</requirement>
+    <description>Looking for a presentable english speaking Waiter/Waitress immediately.  We need experienced staff who are young and friendly. Must be 165cm or higher.</description>
+  </more>
+</information>

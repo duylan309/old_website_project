@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6664</id>
+      <email>nguyenthique234@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Quế</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01203440584</phone>
+      <address>296/92/3, Nguyễn Văn Lượng, F17, Gò Vấp</address>
+      <city>30</city>
+      <dob>1993-4-23</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476768315</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>23</day>
+      <month>4</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8387119</lat>
+      <lng>106.67791</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill></skill>
+      <ui>6664</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Hiện là sinh viên năm 4 trường Đại Học Tài Chính - Marketing, chuyên ngành Quản Trị Khách Sạn&#13;
+Đam mê, yêu thích các công viên ngành dịch vụ nhà hàng khách sạn.&#13;
+Yêu thích du lịch, nghe nhạc</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>330</strjo>
+  </appliedjob>
+  <experience>
+    <n_1334>
+      <id>1334</id>
+      <title>nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>B’smart</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>5/2015</from>
+      <to>2/1016</to>
+    </n_1334>
+    <n_1335>
+      <id>1335</id>
+      <title>nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Trung tâm hội nghị tiệc cưới White Palace</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>8/2016</from>
+      <to>hiện nay</to>
+    </n_1335>
+  </experience>
+  <education>
+    <n_1096>
+      <id>1096</id>
+      <school>Đại Học Tài Chính-Marketing</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>quản trị khách sạn</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_1096>
+  </education>
+</information>

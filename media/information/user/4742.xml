@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4742</id>
+      <email>kukhoai8888@yahoo.com.vn</email>
+      <username/>
+      <name>Đạt Ngô</name>
+      <im>4742_img-12022016-160127.jpg</im>
+      <gender>1</gender>
+      <dob>1996-9-3</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475475204</created>
+      <day>3</day>
+      <month>9</month>
+      <year>1996</year>
+      <phone>0903096714</phone>
+      <address>189 lầu 3 Hải Thượng Lãn Ông F13 Q5</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7505778</lat>
+      <lng>106.6579666</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ.</title>
+      <experience>7</experience>
+      <category>14,15,31,35</category>
+      <type>4,5,6</type>
+      <level>1,2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>4742</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>364</strjo>
+  </appliedjob>
+  <experience>
+    <n_997>
+      <id>997</id>
+      <title>Nhân viên bán hàng.</title>
+      <level>1</level>
+      <cmpname>Công Ty TNHH Vòng Tròn Đỏ</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>Tháng 9 năm 2015</from>
+      <to>Tháng 12 năm 2015</to>
+    </n_997>
+  </experience>
+</information>

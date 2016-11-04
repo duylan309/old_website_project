@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2380</id>
+      <email>Ndva96@yahoo.com</email>
+      <username/>
+      <name>Đắc Vân Anh</name>
+      <im>608040716033836_dac-van-anh.jpg</im>
+      <gender>2</gender>
+      <dob>1996-9-11</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473427765</created>
+      <day>11</day>
+      <month>9</month>
+      <year>1996</year>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <phone>0961 362 331</phone>
+      <address>217, võ công tồn, quận tân phú/ hồ chí minh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7912699</lat>
+      <lng>106.6218383</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên</title>
+      <experience>1</experience>
+      <category>15,17,20</category>
+      <type>5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Viết báo, biên tập, chỉnh sửa nội dung, viết seo, tạo content cho web và các mạng xã hội khác.&#13;
+&#13;
+&#13;
+</skill>
+      <ui>2380</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Là sinh viên năm 3 ngành ngôn ngữ Anh tại Đại Học Văn Lang. Vui vẻ dễ hoà đồng, có tinh thần trách nhiệm cao. Yêu thích thử thách trong công việc cũng như muốn gặt hái thành công. Khao khát khám phá tiềm năng bản thân, lấy phương châm sống hết mình vì tuổi trẻ làm mục tiêu phấn đấu.</about>
+      <keyword>Giao tiếp hiệu quả,Tinh thần trách nhiệm,Kỹ năng chăm sóc khách hàng,Tinh thần làm việc nhóm,Nhiệt tình,Tự tin,Tập trung trong công việc</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>121,156</strjo>
+  </appliedjob>
+  <experience>
+    <n_524>
+      <id>524</id>
+      <title>Cộng tác viên</title>
+      <level>1</level>
+      <cmpname>Thanh niên game</cmpname>
+      <city/>
+      <country/>
+      <from>2/2015</from>
+      <to>4/2016</to>
+    </n_524>
+  </experience>
+  <education>
+    <n_371>
+      <id>371</id>
+      <school>Lương thế vinh quận 1</school>
+      <degrees>Trung học phổ thông</degrees>
+      <fieldofstudy/>
+      <from>2011</from>
+      <to>2014</to>
+    </n_371>
+    <n_372>
+      <id>372</id>
+      <school>Văn Lang</school>
+      <degrees>Đại Học</degrees>
+      <fieldofstudy>Ngôn ngữ Anh</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_372>
+  </education>
+</information>

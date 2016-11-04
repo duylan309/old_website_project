@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1661</id>
+      <email>motivation2895@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thiên Hải Đăng</name>
+      <im>1661_12170706-850370458410660-530910203-n.jpg</im>
+      <gender>1</gender>
+      <phone>01886995281</phone>
+      <address>188/9 Võ Văn Tần , Phường 5 , Quận 3</address>
+      <city>30</city>
+      <dob>1995-8-2</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472720655</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>2</day>
+      <month>8</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7745224</lat>
+      <lng>106.6884592</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân Viên</title>
+      <experience>2</experience>
+      <category>14</category>
+      <type>1,2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>có khả năng giao hàng </skill>
+      <ui>1661</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>151,191</strjo>
+  </appliedjob>
+  <experience>
+    <n_357>
+      <id>357</id>
+      <title>Nhân Viên Phục Vụ</title>
+      <level>1</level>
+      <cmpname>Domino’s Pizza Đinh Tiên Hoàng</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>28/12/2014</from>
+      <to>25/8/2016</to>
+    </n_357>
+  </experience>
+</information>

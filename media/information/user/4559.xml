@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4559</id>
+      <email>Yenbinh@yahoo.com.vn</email>
+      <username/>
+      <name>Vưu Yến Bình</name>
+      <im>1789816874594464_viu-yen-bin.jpg</im>
+      <gender>2</gender>
+      <dob>1997-10-22</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475299310</created>
+      <day>22</day>
+      <month>10</month>
+      <year>1997</year>
+      <phone>01207343156</phone>
+      <address>15/4/2 đường 22, q9</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8201059</lat>
+      <lng>106.772606</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>4559</ui>
+      <title>nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Đang là sinh viên tại trường cao đẳng kinh tế đối ngoại, Ngành tiếng anh thương mại</about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6596</id>
+      <email>kimuyen98117@gmail.com</email>
+      <username/>
+      <name>Trần Thiên Kim Uyên</name>
+      <im>6596_14618916-1782998191970084-1444196201-o.png</im>
+      <gender>2</gender>
+      <phone>01635533336</phone>
+      <address>179/8 Tồ Hiến Thành F.13 Q.10</address>
+      <city>30</city>
+      <dob>1998-7-11</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476705285</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476705285</last_signin>
+      <day>11</day>
+      <month>7</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.782828</lat>
+      <lng>106.67173</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6596</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15,17,35</category>
+      <type>4,5,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Năng động , hoạt bát , thân thiện&#13;
+Muốn được giao lưu với mọi người</about>
+      <skill>Làm việc nhóm</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>371</strjo>
+  </appliedjob>
+  <education>
+    <n_1080>
+      <id>1080</id>
+      <school>Đại học Hoa Sen</school>
+      <degrees/>
+      <fieldofstudy>Kinh Doanh Quốc Tế</fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_1080>
+  </education>
+</information>

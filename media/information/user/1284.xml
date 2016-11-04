@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1284</id>
+      <email>yalpis@yahoo.com</email>
+      <username/>
+      <name>Nguyễn Đỗ Hoàng Giang</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0931230495</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472057339</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Bartender</title>
+      <experience>1</experience>
+      <category>16</category>
+      <type>1,4</type>
+      <level>2</level>
+      <lang>vi,en,kr</lang>
+      <skill>Bartender, Mixologist</skill>
+      <ui>1284</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>111</strjo>
+  </appliedjob>
+  <experience>
+    <n_290>
+      <id>290</id>
+      <title>Bartender</title>
+      <level>1</level>
+      <cmpname>The Racha Room</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>02/2016</from>
+      <to>08/2016</to>
+    </n_290>
+    <n_291>
+      <id>291</id>
+      <title>Bartender</title>
+      <level>1</level>
+      <cmpname>Vespa Bar</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>12/2015</from>
+      <to>2/2016</to>
+    </n_291>
+  </experience>
+</information>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7510</id>
+      <email>ntnphuong27@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thái Nam Phương</name>
+      <im>7510_14359262-1786837368252923-8147243417462354116-n.jpg</im>
+      <gender>2</gender>
+      <dob>1997-11-27</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477294912</created>
+      <day>27</day>
+      <month>11</month>
+      <year>1997</year>
+      <last_signin>1477294912</last_signin>
+      <phone>01207745878</phone>
+      <address>935/27 Huỳnh Tấn Phát Q7</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.723611</lat>
+      <lng>106.733731</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>7510</ui>
+      <title>Pha chế rượu, pha chế cà phê</title>
+      <experience>1</experience>
+      <category>14,15,16,26</category>
+      <type>2,4,5,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Năng động, dễ thích nghi với môi trường, hòa đồng, vui vẻ.&#13;
+Mong muốn được học hỏi kinh nghiệm, và có nhiều cơ hội việc làm</about>
+      <skill>pha chế rượu&#13;
+giao tiếp</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <experience>
+    <n_1470>
+      <id>1470</id>
+      <title>Pha chế</title>
+      <level>1</level>
+      <cmpname>Acoustic Bar</cmpname>
+      <city>HCM</city>
+      <country>Việt Nam</country>
+      <from>03/2016</from>
+      <to>08/2016</to>
+    </n_1470>
+    <n_1471>
+      <id>1471</id>
+      <title>Barmaid Daytime</title>
+      <level>1</level>
+      <cmpname>Indika Saigon</cmpname>
+      <city>HCM</city>
+      <country>Việt Nam</country>
+      <from>09/2016</from>
+      <to>11/2016</to>
+    </n_1471>
+  </experience>
+  <education>
+    <n_1218>
+      <id>1218</id>
+      <school>Cao đẳng Du lịch Sài Gòn</school>
+      <degrees/>
+      <fieldofstudy>Nhà hàng - Khách sạn</fieldofstudy>
+      <from>09/2015</from>
+      <to>09/2018</to>
+    </n_1218>
+  </education>
+</information>

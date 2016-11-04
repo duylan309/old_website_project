@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1440</id>
+      <email>Tranngocthuy6868@gmail.com</email>
+      <username/>
+      <name>Trần Thị Ngọc Thuỳ</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0934456819</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472318180</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Manager</title>
+      <experience>2</experience>
+      <category>14,28,36</category>
+      <type>4</type>
+      <level>5</level>
+      <lang>vi</lang>
+      <skill>Customer Service,F&amp;B</skill>
+      <ui>1440</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>196</strjo>
+  </appliedjob>
+</information>

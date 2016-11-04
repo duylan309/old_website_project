@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4557</id>
+      <email>minhhoa261996@gmail.com</email>
+      <username/>
+      <name>Lê Minh Hòa</name>
+      <im>1475297891_le-minh-hoa.png</im>
+      <gender>1</gender>
+      <phone>0905052615</phone>
+      <address>799/22/39 Nguyễn Kiệm, phường 3, quận Gò Vấp</address>
+      <city/>
+      <dob>1996-6-2</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475297890</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>2</day>
+      <month>6</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Các công viên liên quan đến ngành dịch vụ</title>
+      <experience>1</experience>
+      <category>17,29,35</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Kỹ năng mềm tốt, kỹ năng giao tiếp tốt, tiếng anh giao tiếp khá</skill>
+      <ui>4557</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>302,240</strjo>
+  </appliedjob>
+</information>

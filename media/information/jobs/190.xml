@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>190</id>
+    <ui>1318</ui>
+    <ci>280</ci>
+    <ai>0</ai>
+    <ti>Chef</ti>
+    <ta/>
+    <le>2,4</le>
+    <ty>1,2</ty>
+    <ex>2</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo/>
+    <co>vn,for</co>
+    <ca>15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>9</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description/>
+    <requirement>Bếp chính: nấu được các món Âu\r\nBếp phụ: nhanh nhẹn, hoà đồng</requirement>
+    <benefit>Được off 1 ngày/ tuần</benefit>
+    <keyword>Trung thực,Nhiệt tình,Tập trung trong công việc,Kỹ năng giải quyết tình huống,Tinh thần làm việc nhóm</keyword>
+    <ad/>
+    <location_id>103</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-10-24</de>
+    <re>0000-00-00</re>
+    <cr>1473866584</cr>
+  </db>
+  <more>
+    <requirement>Bếp chính: nấu được các món Âu&#13;
+Bếp phụ: nhanh nhẹn, hoà đồng</requirement>
+    <description/>
+    <benefit>Được off 1 ngày/ tuần</benefit>
+    <keyword>Trung thực,Nhiệt tình,Tập trung trong công việc,Kỹ năng giải quyết tình huống,Tinh thần làm việc nhóm</keyword>
+  </more>
+  <userapplied>
+    <total>7</total>
+    <strui>1342,1378,1113,292,2230,2332,2756</strui>
+  </userapplied>
+</information>

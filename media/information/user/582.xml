@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>582</id>
+      <email>hthongnguyen1511@gmail.com</email>
+      <username/>
+      <name>Nguyễn Hoàng Thông</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01684315125</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470576310</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, thu ngân</title>
+      <experience>7</experience>
+      <category>14,15,17,27,29,31,35</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>_Có kinh nghiệm mua bán ngoài chợ trên 3 năm&#13;
+_Từng dạy gia sư Anh văn lớp 7 (3 tháng)</skill>
+      <ui>582</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>100,105,107,82,84</strjo>
+  </appliedjob>
+</information>

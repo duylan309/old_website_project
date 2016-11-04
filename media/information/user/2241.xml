@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2241</id>
+      <email>Hoanghth7689@gmail.com</email>
+      <username/>
+      <name>Lê Trần Phương Yến</name>
+      <im>1473319707_le-tran-phuong-yen.jpg</im>
+      <gender>0</gender>
+      <phone>0924905379</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473319707</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hành , pha chế</title>
+      <experience>2</experience>
+      <category>29,31</category>
+      <type>6</type>
+      <level>2,4</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>2241</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>124</strjo>
+  </appliedjob>
+  <experience>
+    <n_499>
+      <id>499</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>Hailuashop</cmpname>
+      <city>Hồ chí minh</city>
+      <country>Viet nam</country>
+      <from>2014</from>
+      <to>2016</to>
+    </n_499>
+  </experience>
+  <education>
+    <n_352>
+      <id>352</id>
+      <school>Múa thành phố Hồ Chí Minh</school>
+      <degrees>Trung cấp</degrees>
+      <fieldofstudy>Múa</fieldofstudy>
+      <from>2012</from>
+      <to>2014</to>
+    </n_352>
+  </education>
+</information>

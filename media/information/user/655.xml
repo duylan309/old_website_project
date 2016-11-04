@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>655</id>
+      <email>huynhthikimanh110.kk@gmail.com</email>
+      <username/>
+      <name>Huỳnh Thị Kim Anh</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0938387620</phone>
+      <address>22/1 nguyễn văn đăng phương tân sơn nhì quận tân phú</address>
+      <city>30</city>
+      <dob>1997-10-1</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470751018</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>1</day>
+      <month>10</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7997882</lat>
+      <lng>106.630604</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>655</ui>
+      <title>Nhân viên phụ vụ và bán hàng</title>
+      <experience>7</experience>
+      <category>15,29,35</category>
+      <type>2,5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Trung thực,Tự tin,Tinh thần trách nhiệm,Nhiệt tình</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>130,107</strjo>
+  </appliedjob>
+</information>

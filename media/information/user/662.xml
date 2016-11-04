@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>662</id>
+      <email>lamnguyenanhthu55@gmail.com</email>
+      <username/>
+      <name>Lâm Nguyễn Anh Thu</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0981654769</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470764012</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>waitress, food runner</title>
+      <experience>7</experience>
+      <category>14,15,18,20,29,35</category>
+      <type>1,2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Giao tiếp tốt</skill>
+      <ui>662</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>112,120</strjo>
+  </appliedjob>
+</information>

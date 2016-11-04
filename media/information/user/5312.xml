@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5312</id>
+      <email>quianh250714@gmail.com</email>
+      <username/>
+      <name>Biện Nguyễn Ngọc Vân Anh</name>
+      <im>1475896100_bien-nguyen-ngoc-van-anh.png</im>
+      <gender>2</gender>
+      <phone>01654575626</phone>
+      <address>117/</address>
+      <city/>
+      <dob>1997-2-12</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475896100</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>12</day>
+      <month>2</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên thu ngân</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Chịu được áp lực công việc &#13;
+Năng động linh hoạt ham học hỏi </skill>
+      <ui>5312</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>368</strjo>
+  </appliedjob>
+  <education>
+    <n_882>
+      <id>882</id>
+      <school>Đại hoc Tôn Đức Thắng </school>
+      <degrees>Đại học </degrees>
+      <fieldofstudy>Quản trị kinh doanh </fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_882>
+  </education>
+</information>

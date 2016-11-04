@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2464</id>
+      <email>pham.ynhi@yahoo.com.vn</email>
+      <username/>
+      <name>Phạm Thị Ý Nhi</name>
+      <im>1473560246_pham-thi-y-nhi.png</im>
+      <gender>2</gender>
+      <phone>0908831243</phone>
+      <address>hẻm 54, đường Bạch Đằng, quận Tân Bình, tp Hồ Chí Minh.</address>
+      <city>30</city>
+      <dob>1995-5-12</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473560246</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>12</day>
+      <month>5</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.816735</lat>
+      <lng>106.674786</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,17,20,27,29,31,35</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill> giao tiếp anh văn trung bình nhưng em đang nổ lực trao dồi thêm anh văn.</skill>
+      <ui>2464</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Em từng làm việc bán thời gian tại nhà hàng LIberty Central quận 1, đường paster gần 1 năm. </about>
+      <keyword>Nhiệt tình,Tinh thần làm việc nhóm,Tập trung trong công việc,Chịu được áp lực công việc,Tinh thần trách nhiệm,Trung thực</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>247</strjo>
+  </appliedjob>
+</information>

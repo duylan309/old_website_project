@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5940</id>
+      <email>Nguyetcat0923168186@gmail.com</email>
+      <username/>
+      <name>Nguyễn quyết thắng</name>
+      <im>1476276766_nguyen-quyet-thang.png</im>
+      <gender>1</gender>
+      <phone>01227900827</phone>
+      <address>77 mai văn Vĩnh quận 7</address>
+      <city>30</city>
+      <dob>1988-3-14</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476276766</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>14</day>
+      <month>3</month>
+      <year>1988</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7442642</lat>
+      <lng>106.7137905</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phụ bếp</title>
+      <experience>2</experience>
+      <category>14</category>
+      <type>1,2,4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Biết về sushi và một số món Nhật</skill>
+      <ui>5940</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Đã lập gia đình </about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>200,391,352,370</strjo>
+  </appliedjob>
+  <experience>
+    <n_1207>
+      <id>1207</id>
+      <title>Bếp chính</title>
+      <level>1</level>
+      <cmpname>Ani sushi</cmpname>
+      <city>Hải phòng</city>
+      <country>Việt nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_1207>
+  </experience>
+  <savedjob>
+    <total>1</total>
+    <strjo>391</strjo>
+  </savedjob>
+</information>

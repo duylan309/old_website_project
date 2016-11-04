@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2576</id>
+      <email>thuonghuynhqt@gmail.com</email>
+      <username/>
+      <name>Huỳnh Thanh Thương</name>
+      <im>1473681404_huynh-thanh-thuong.png</im>
+      <gender>2</gender>
+      <phone>0966422011</phone>
+      <address>222/46 Bùi Đình Túy, Bình Thạnh</address>
+      <city>30</city>
+      <dob>1995-9-6</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473681404</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>6</day>
+      <month>9</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.807196</lat>
+      <lng>106.6992099</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên bán hàng phục vụ</title>
+      <experience>7</experience>
+      <category>15,29,30,35</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Tôi sử dụng thành thạo word và excel, giao tiếp khá tốt bằng tiếng Anh, biết một ít tiếng Thái, ngoài ra tôi có kinh nghiệm làm việc trong lĩnh vực nhà hàng, cà phê. Tôi yêu thích thời trang, là người hòa đồng vui vẻ và chăm chỉ.</skill>
+      <ui>2576</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Tinh thần trách nhiệm,Trung thực,Nhiệt tình</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>253,156</strjo>
+  </appliedjob>
+  <experience>
+    <n_579>
+      <id>579</id>
+      <title>phục vụ</title>
+      <level>1</level>
+      <cmpname>Boulevard Restaurant</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>tháng 6/2015</from>
+      <to>tháng 8/2015</to>
+    </n_579>
+  </experience>
+  <education>
+    <n_414>
+      <id>414</id>
+      <school>Cao đẳng Kinh tế Đối ngoại</school>
+      <degrees>Cao đẳng</degrees>
+      <fieldofstudy>Quản trị doanh nghiệp</fieldofstudy>
+      <from>tháng 9/2013</from>
+      <to>tháng 9/2016</to>
+    </n_414>
+  </education>
+</information>

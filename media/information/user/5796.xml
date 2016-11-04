@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5796</id>
+      <email>ngoctran.180497@gmail.com</email>
+      <username/>
+      <name>Như Ngọc</name>
+      <im>635364273309358_nhu-ngoc.jpg</im>
+      <gender>1</gender>
+      <dob>1987-10-7</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476191796</created>
+      <day>7</day>
+      <month>10</month>
+      <year>1987</year>
+      <last_signin>1476191796</last_signin>
+      <phone>0907044022</phone>
+      <address>030 lô K chung cư Nguyễn Thiện Thuật, p1, Q3</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7677073</lat>
+      <lng>106.6786704</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>5796</ui>
+      <title>nhân viên bếp</title>
+      <experience>3</experience>
+      <category>14,20,29,31,35</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <about>Có 3 năm kinh nghiệm làm việc tại bếp. </about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>153,421,358</strjo>
+  </appliedjob>
+</information>

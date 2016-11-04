@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7693</id>
+      <email>lamtrum2011@gmail.com</email>
+      <username/>
+      <name>Đức Lâm</name>
+      <im>171398529985960_duc-lam.jpg</im>
+      <gender>1</gender>
+      <dob>1997-9-30</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477400153</created>
+      <day>30</day>
+      <month>9</month>
+      <year>1997</year>
+      <last_signin>1477400153</last_signin>
+      <phone>0941673767</phone>
+      <address>649/111 Điện Biên Phủ, p25, Quận Bình Thạnh, TP HCM</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1506>
+      <id>1506</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>1993shop</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_1506>
+    <n_1507>
+      <id>1507</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Mama Phở</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2016</from>
+      <to>Nay</to>
+    </n_1507>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>7693</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,16,19,27</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>497,323,201,222</strjo>
+  </appliedjob>
+</information>

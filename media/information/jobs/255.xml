@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>255</id>
+    <ui>2008</ui>
+    <ci>311</ci>
+    <ai>0</ai>
+    <ti>Ca trưởng, phục vụ</ti>
+    <ta/>
+    <le>4</le>
+    <ty>4</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14,15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>en</la>
+    <description>Sẽ trao đổi khi phỏng vấn</description>
+    <requirement>- tiếng Anh giao tiếp tốt, nhanh nhẹn, chịu khó. \r\n- Có kinh nghiệm phục vụ nhà hàng là lợi thế.</requirement>
+    <benefit>Thưởng lễ, tăng ca, tips. Có điều kiện rèn luyện ngoại ngữ\r\nOff: 3 ngày/tháng</benefit>
+    <keyword>phuc vu</keyword>
+    <ad/>
+    <location_id>146</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-06</de>
+    <re>0000-00-00</re>
+    <cr>1473249434</cr>
+  </db>
+  <more>
+    <requirement>- tiếng Anh giao tiếp tốt, nhanh nhẹn, chịu khó. &#13;
+- Có kinh nghiệm phục vụ nhà hàng là lợi thế.</requirement>
+    <description>Sẽ trao đổi khi phỏng vấn</description>
+    <benefit>Thưởng lễ, tăng ca, tips. Có điều kiện rèn luyện ngoại ngữ&#13;
+Off: 3 ngày/tháng</benefit>
+    <keyword>phuc vu</keyword>
+  </more>
+  <userapplied>
+    <total>9</total>
+    <strui>3005,3509,4284,3075,6794,7331,7648,3538,7342</strui>
+  </userapplied>
+</information>

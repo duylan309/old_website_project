@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7451</id>
+      <email>Vokhanh143@gmail.com</email>
+      <username/>
+      <name>Võ Đức Hoài Khánh</name>
+      <im>7451_image.jpeg</im>
+      <gender>2</gender>
+      <phone>01248006714</phone>
+      <address>681/26/40 quang trung, gò vấp</address>
+      <city>30</city>
+      <dob>1994-3-14</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477268458</created>
+      <dayleft>0</dayleft>
+      <jobleft>0</jobleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1477268458</last_signin>
+      <day>14</day>
+      <month>3</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8374939</lat>
+      <lng>106.654436</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_1212>
+      <id>1212</id>
+      <school>Đại học Công Nghiệp TP HCM</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Kế toán</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_1212>
+  </education>
+  <user_cv>
+    <db>
+      <ui>7451</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,35</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Nhanh nhẹn, hoạt bát, hoà đồng. Yêu thích âm nhạc, thể thao, mê du lịch</about>
+      <skill>Kỹ năng mềm, thê thao</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>348,364,397</strjo>
+  </appliedjob>
+</information>

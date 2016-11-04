@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>118</id>
+    <ui>240</ui>
+    <ci>215</ci>
+    <ai>0</ai>
+    <ti>Nhân viên pha chế</ti>
+    <ta/>
+    <le>2</le>
+    <ty>2</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>19,28,29</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>1</st>
+    <pi>0</pi>
+    <la>en</la>
+    <description>- As a Part Time Team member at Guanabana your job will be trained to:\r\n-Make deliveries for customers quickly and effectively\r\n-Learn good customer service practices\r\n-Maintain company standards of sanitation, cleanliness, and professionalism\r\n-Carry out company procedures and guidelines</description>
+    <requirement>-Knowledge of directions in the city\r\n-Some basic english is required\r\n-Must have motorbike\r\n-Students are preferred</requirement>
+    <benefit></benefit>
+    <keyword></keyword>
+    <ad/>
+    <location_id>176</location_id>
+    <lat>10.804059</lat>
+    <lng>10.804059</lng>
+    <de>2016-11-04</de>
+    <re>0000-00-00</re>
+    <cr>1477416016</cr>
+  </db>
+  <more>
+    <requirement>-Knowledge of directions in the city&#13;
+-Some basic english is required&#13;
+-Must have motorbike&#13;
+-Students are preferred</requirement>
+    <description>- As a Part Time Team member at Guanabana your job will be trained to:&#13;
+-Make deliveries for customers quickly and effectively&#13;
+-Learn good customer service practices&#13;
+-Maintain company standards of sanitation, cleanliness, and professionalism&#13;
+-Carry out company procedures and guidelines</description>
+    <workhour></workhour>
+    <benefit></benefit>
+    <keyword></keyword>
+  </more>
+  <userapplied>
+    <total>3</total>
+    <strui>125,547,1760</strui>
+  </userapplied>
+</information>

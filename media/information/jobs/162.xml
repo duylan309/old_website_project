@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>162</id>
+    <ui>989</ui>
+    <ci>264</ci>
+    <ai>0</ai>
+    <ti>Nhân viên phục vụ</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1,2</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>2500000</s1>
+    <s2>3000000</s2>
+    <s3>113</s3>
+    <s4>136</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description/>
+    <requirement>- Biết ngoại ngữ Tiếng Anh có thể giao tiếp được.</requirement>
+    <benefit/>
+    <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Tinh thần trách nhiệm,Nhiệt tình,Tập trung trong công việc</keyword>
+    <ad/>
+    <location_id>85</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-10-18</de>
+    <re>0000-00-00</re>
+    <cr>1471545508</cr>
+  </db>
+  <more>
+    <requirement>- Biết ngoại ngữ Tiếng Anh có thể giao tiếp được.</requirement>
+    <description/>
+    <benefit/>
+    <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Tinh thần trách nhiệm,Nhiệt tình,Tập trung trong công việc</keyword>
+  </more>
+  <userapplied>
+    <total>84</total>
+    <strui>451,1120,1302,1342,1387,1546,1648,355,1740,1751,1803,1911,1926,1960,292,2196,2157,2208,2382,1742,2471,2485,2567,2708,2508,2755,2789,2995,1480,3372,3494,3422,3609,2963,3773,3772,3850,4295,4150,3775,3455,1279,4872,3884,425,5121,5111,5142,5150,4195,5180,4900,2863,5447,1605,3652,5580,5728,5779,5811,5171,5741,5323,4833,6136,6214,6061,657,5785,6673,6703,6711,6877,2510,5107,7147,5382,6272,6761,7342,7795,7792,7805,877</strui>
+  </userapplied>
+</information>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>152</id>
+    <ui>809</ui>
+    <ci>254</ci>
+    <ai>0</ai>
+    <ti>Nhân viên toàn thời gian</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>7</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>3000000</s1>
+    <s2>3500000</s2>
+    <s3>136</s3>
+    <s4>159</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>75</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-09-13</de>
+    <re>0000-00-00</re>
+    <cr>1471141984</cr>
+  </db>
+  <more>
+    <requirement/>
+    <description/>
+    <benefit/>
+    <keyword/>
+  </more>
+  <userapplied>
+    <total>6</total>
+    <strui>853,1836,1383,2382,2530,5031</strui>
+  </userapplied>
+</information>

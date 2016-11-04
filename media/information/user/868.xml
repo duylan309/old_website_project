@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>868</id>
+      <email>petrusnguyen28@gmail.com</email>
+      <username/>
+      <name>Nguyen Thanh Lan</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0903618890</phone>
+      <address>64/13,Le Quang Dinh,Binh Thanh/Tphcm</address>
+      <city>30</city>
+      <dob>1995-10-28</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471342337</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <day>28</day>
+      <month>10</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>868</ui>
+      <title>Trợ lý quản lý cấp cao</title>
+      <experience>2</experience>
+      <category>20</category>
+      <type>1</type>
+      <level>3</level>
+      <lang>vi,en</lang>
+      <s1>8000000</s1>
+      <salary>1</salary>
+      <skill>Quan ly, Giao tiep, Nam bat tinh hinh, Sap xep cong viec</skill>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Tinh thần trách nhiệm,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Tự tin,Nhiệt tình,Kỹ năng giải quyết tình huống,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>95</strjo>
+  </appliedjob>
+</information>

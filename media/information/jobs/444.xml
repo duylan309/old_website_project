@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>444</id>
+    <ui>5752</ui>
+    <ci>393</ci>
+    <ai>0</ai>
+    <ti>Nhân viên phục vụ </ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>4000000</s1>
+    <s2>4500000</s2>
+    <s3>181</s3>
+    <s4>204</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description>- Phục vụ tại tất cả các nhà hàng và dòng sản phẩm thuộc hệ thống Hoàng Yến Group.\r\n-	Giao nhận ca đúng giờ, nắm bắt các thông tin về thực đơn, đặt chỗ…\r\n-	Tham dự họp đầu ca, tiếp nhận công việc từ tổ trưởng\r\n-	Chuẩn bị công cụ dụng cụ, sắp đặt bàn ghế, khăn,...theo quy định\r\n-	Đón khách, hướng dẫn khách hàng, giới thiệu thực đơn, cách chương trình kinh doanh, marketing của công ty\r\n-	Tiếp nhận đơn hàng, thông tin đến các đơn vị liên quan\r\n-	Phục vụ khách hàng theo đúng quy trình\r\n-	Xử lý khiếu nại khách hàng trong phạm vi trách nhiệm. Báo cáo ngay các trường hợp vượt quá thẩm quyền.\r\n-	Tuân thủ đúng các quy trình, quy định, nội quy,... công ty\r\n-	Am hiểu văn hóa, thương hiệu công ty\r\n-	Am hiểu về sản phẩm của công ty, các chương trình kinh doanh.\r\n</description>
+    <requirement>o	Tốt nghiệp lớp phục vụ bàn \r\no	Sức khỏe tốt, có đức tính cẩn thận, ngăn nắp, nhanh nhẹn\r\no	Có khả năng giao tiếp, thuyết phục cao\r\no	Ngoại hình dễ nhìn, tác phong chững chạc, tự tin\r\no	Anh Văn giao tiếp.\r\n</requirement>
+    <benefit>- Lương + tip/charge + Thường doanh thu\r\n- Chế độ phúc lợi theo luật lao động (BHXH, BHYT)\r\n- Du lịch nghỉ dưỡng hằng năm\r\n- 1 năm tăng lương 1 lần\r\n- Lương tháng 134\r\n- Thường tết\r\n</benefit>
+    <keyword/>
+    <ad/>
+    <location_id>305</location_id>
+    <lat>10.771801</lat>
+    <lng>10.771801</lng>
+    <de>2016-11-10</de>
+    <re>0000-00-00</re>
+    <cr>1476260494</cr>
+  </db>
+  <more>
+    <requirement>o	Tốt nghiệp lớp phục vụ bàn &#13;
+o	Sức khỏe tốt, có đức tính cẩn thận, ngăn nắp, nhanh nhẹn&#13;
+o	Có khả năng giao tiếp, thuyết phục cao&#13;
+o	Ngoại hình dễ nhìn, tác phong chững chạc, tự tin&#13;
+o	Anh Văn giao tiếp.&#13;
+</requirement>
+    <description>- Phục vụ tại tất cả các nhà hàng và dòng sản phẩm thuộc hệ thống Hoàng Yến Group.&#13;
+-	Giao nhận ca đúng giờ, nắm bắt các thông tin về thực đơn, đặt chỗ…&#13;
+-	Tham dự họp đầu ca, tiếp nhận công việc từ tổ trưởng&#13;
+-	Chuẩn bị công cụ dụng cụ, sắp đặt bàn ghế, khăn,...theo quy định&#13;
+-	Đón khách, hướng dẫn khách hàng, giới thiệu thực đơn, cách chương trình kinh doanh, marketing của công ty&#13;
+-	Tiếp nhận đơn hàng, thông tin đến các đơn vị liên quan&#13;
+-	Phục vụ khách hàng theo đúng quy trình&#13;
+-	Xử lý khiếu nại khách hàng trong phạm vi trách nhiệm. Báo cáo ngay các trường hợp vượt quá thẩm quyền.&#13;
+-	Tuân thủ đúng các quy trình, quy định, nội quy,... công ty&#13;
+-	Am hiểu văn hóa, thương hiệu công ty&#13;
+-	Am hiểu về sản phẩm của công ty, các chương trình kinh doanh.&#13;
+</description>
+    <benefit>- Lương + tip/charge + Thường doanh thu&#13;
+- Chế độ phúc lợi theo luật lao động (BHXH, BHYT)&#13;
+- Du lịch nghỉ dưỡng hằng năm&#13;
+- 1 năm tăng lương 1 lần&#13;
+- Lương tháng 134&#13;
+- Thường tết&#13;
+</benefit>
+    <keyword/>
+  </more>
+  <userapplied>
+    <total>3</total>
+    <strui>6915,7212,6279</strui>
+  </userapplied>
+</information>

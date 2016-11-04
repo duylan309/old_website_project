@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6666</id>
+      <email>trinhnguyen3791@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Kiều Trinh</name>
+      <im>6666_1-img-5034.JPG</im>
+      <gender>2</gender>
+      <dob>1991-7-3</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476770914</created>
+      <day>3</day>
+      <month>7</month>
+      <year>1991</year>
+      <last_signin>1476770914</last_signin>
+      <phone>01285511704</phone>
+      <address>47/38. Lạc Long Quân. Phường 1. Quận 11</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7581279</lat>
+      <lng>106.638978</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1338>
+      <id>1338</id>
+      <title>nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Nhà hàng Buffet Gánh Bông Sen.</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>03/2014</from>
+      <to>09/2015.</to>
+    </n_1338>
+    <n_1340>
+      <id>1340</id>
+      <title>nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Domino’s Pizza Việt Nam</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>03/2013</from>
+      <to>12/2013</to>
+    </n_1340>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>6666</ui>
+      <title>Nhân viên phục vụ và pha chế</title>
+      <experience>2</experience>
+      <category>14,15,17,18,20,26,27,28,29,30,31,35,36</category>
+      <type>1,2,4,5,6</type>
+      <level>1,2,3</level>
+      <lang>vi,en</lang>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <about>- Luôn luôn cố gắng, nỗ lực trau dồi kiến thức và phát triển  bản thân về kỹ năng và kinh nghiệm trong các công việc yêu thích.&#13;
+- Áp dụng những kiến thức thực tiễn, sự hiểu biết của bản thân để hoàn thành tốt công việc và trở nên chuyên nghiệp hơn.&#13;
+&#13;
+</about>
+      <skill>•	Làm việc từ cái tâm và cố gắng làm tốt.&#13;
+•	Học được cách giao tiếp, lắng nghe và tương tác với khách hàng.&#13;
+•	Luôn mỉm cười niềm nở với khách.&#13;
+•	Phải xin lỗi khách khi có vấn đề xảy ra gây ảnh hưởng cho khách.&#13;
+•	Tự giác dọn dẹp, vệ sinh sạch sẽ nơi khu vực làm việc.&#13;
+•	Luôn kiểm soát bản thân và bình tĩnh khi có vấn đề xảy ra trong công việc. &#13;
+•	Chịu đựng được áp lực khi khách đông.&#13;
+•	Ý thức sắp xếp công việc một cách hiệu quả nhất.&#13;
+</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <education>
+    <n_1098>
+      <id>1098</id>
+      <school>	Tốt nghiệp Trường Cao đẳng SG.ACT</school>
+      <degrees>Cao Đắng-Loại Khá</degrees>
+      <fieldofstudy> Quản trị Du lịch Nhà hàng- Khách sạn.</fieldofstudy>
+      <from>2010</from>
+      <to>2012</to>
+    </n_1098>
+    <n_1099>
+      <id>1099</id>
+      <school> Trường Hướng Nghiệp Á Âu </school>
+      <degrees/>
+      <fieldofstudy> Pha chế - Barista</fieldofstudy>
+      <from>2016</from>
+      <to>2016</to>
+    </n_1099>
+  </education>
+  <appliedjob>
+    <total>1</total>
+    <strjo>323</strjo>
+  </appliedjob>
+</information>

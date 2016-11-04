@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1659</id>
+      <email>tranlehanuyen@gmail.com</email>
+      <username/>
+      <name>Trần Lê Hàn Uyên</name>
+      <im>1765723703685619_tran-le-han-uyen.jpg</im>
+      <gender>2</gender>
+      <dob>1997-1-6</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472718306</created>
+      <day>6</day>
+      <month>1</month>
+      <year>1997</year>
+      <last_signin>1472718306</last_signin>
+      <phone>0904860347</phone>
+      <address>184 đường số 9 phường tân phú quận 7</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7359685</lat>
+      <lng>106.7181824</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_356>
+      <id>356</id>
+      <title>nhân viên</title>
+      <level>1</level>
+      <cmpname>TNHH DỊCH VỤ VÀ THỰC PHẨM GIẢI KHÁT VIỆT NAM</cmpname>
+      <city>HỒ CHÍ MINH</city>
+      <country>VIỆT NAM</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_356>
+  </experience>
+  <education>
+    <n_257>
+      <id>257</id>
+      <school>Đại học Nguyên Tất Thành</school>
+      <degrees/>
+      <fieldofstudy>Dược sĩ</fieldofstudy>
+      <from>2015</from>
+      <to>2021</to>
+    </n_257>
+  </education>
+  <user_cv>
+    <db>
+      <ui>1659</ui>
+      <title>nhân viên phục vụ, pha chế, thu ngân</title>
+      <experience>7</experience>
+      <category>14,15,16,17</category>
+      <type>2,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <skill>hòa đồng, vui vẻ, thích giao tiếp</skill>
+      <keyword>Tinh thần trách nhiệm,Chịu được áp lực công việc,Trung thực,Nhiệt tình</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>221</strjo>
+  </appliedjob>
+</information>

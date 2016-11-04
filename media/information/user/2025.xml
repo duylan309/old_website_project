@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2025</id>
+      <email>nguyenthilanh18051995@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Lành</name>
+      <im>1473156083_nguyen-thi-lanh.jpg</im>
+      <gender>2</gender>
+      <phone>01664593943</phone>
+      <address>Nghĩa An</address>
+      <city>48</city>
+      <dob>1995-5-18</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473156082</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>18</day>
+      <month>5</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Quảng Ngãi</city_text_vi>
+      <city_text_en>Quang Ngai</city_text_en>
+      <lat>15.1187966</lat>
+      <lng>108.8997119</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Kế toán, thu ngân</title>
+      <experience>1</experience>
+      <category>14,15,18,20,28,29,31,35</category>
+      <type>1,3</type>
+      <level>1,2,3</level>
+      <lang>vi,en</lang>
+      <skill>- Sử dụng phần mềm kế toán misa&#13;
+- Kê khai thuế vào htkk&#13;
+- Xuất hóa đơn&#13;
+- Theo dõi công nợ, lập phiếu thu, chi, ủy nhiệm chi, séc</skill>
+      <ui>2025</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword>Tinh thần trách nhiệm,Chịu được áp lực công việc,Tập trung trong công việc,Nhiệt tình,Tinh thần làm việc nhóm,Trung thực</keyword>
+      <about>- Là người vui vẻ, hòa đồng&#13;
+- Chịu được áp lực công việc &#13;
+- Trung thực, có tinh thần trách nhiệm cao</about>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>231,203,107</strjo>
+  </appliedjob>
+</information>

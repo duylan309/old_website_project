@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6956</id>
+      <email>tientung2211@gmail.com</email>
+      <username/>
+      <name>Tung Nguyen Tien</name>
+      <im>672237742930862_tung-nguyen-tien.jpg</im>
+      <gender>1</gender>
+      <dob>1994-11-22</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476967562</created>
+      <day>22</day>
+      <month>11</month>
+      <year>1994</year>
+      <phone>01665956041</phone>
+      <address>quận 9, khu công nghệ cao</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8492585</lat>
+      <lng>106.8006141</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_1143>
+      <id>1143</id>
+      <school>ĐH Khoa học Tự Nhiên - ĐHQG Hà Nội</school>
+      <degrees>Khá</degrees>
+      <fieldofstudy>Công nghệ kỹ thuật hóa học</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_1143>
+  </education>
+  <experience>
+    <n_1374>
+      <id>1374</id>
+      <title>Chuyên viên phân tích</title>
+      <level>1</level>
+      <cmpname>Trung tâm công nghệ và quản lý môi trường</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>6/2016</from>
+      <to>nay</to>
+    </n_1374>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>6956</ui>
+      <title>Nhân viên phục vụ, pha chế</title>
+      <experience>1</experience>
+      <category>14,15,16,17,18,19,20,26,27,28,29,30,31,35,36</category>
+      <type>3,4</type>
+      <level>2</level>
+      <lang>vi,en,ja,kr</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Tôi đang tìm kiếm một công việc bán thời gian từ 17h30-24h  , nơi tôi có thể học hỏi để phát triển kiến thức và kỹ năng cho bản thân.&#13;
+Với mong muốn được phát huy hết khả năng vốn có, tôi hướng tới mục tiêu tạo ra thu nhập lâu dài bằng chính những thế mạnh của bản thân, góp phần vào sự phát triển của đơn vị, tổ chức nơi tôi ứng tuyển&#13;
+Sở thích: Đọc sách báo, du lịch, xem phim, nghe nhạc và tham gia chương trình tình nguyện và hoạt động ngoại khóa.</about>
+      <skill>Trình độ tin học: MS Excel, MS Word, MS PowerPoint ; Thành thạo truy cập internet và mạng xã hội quảng cáo.&#13;
+Trình độ ngoại ngữ: Tiếng Anh giao tiếp&#13;
+</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>434,276,432,426,343</strjo>
+  </appliedjob>
+</information>

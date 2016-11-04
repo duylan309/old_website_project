@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4358</id>
+      <email>nguyenthihoangdung24@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Hoàng Dung</name>
+      <im>4358_1426525-1405198719715401-380253844-n.jpg</im>
+      <gender>2</gender>
+      <dob>1995-10-24</dob>
+      <deactive>1</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475083303</created>
+      <day>24</day>
+      <month>10</month>
+      <year>1995</year>
+      <phone>01644429106</phone>
+      <address>393 Nguyễn Chí Thanh P.15, Q.5, TPHCM</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7764745</lat>
+      <lng>106.7008831</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_716>
+      <id>716</id>
+      <school>Nguyen Tat Thanh University</school>
+      <degrees>Bachelor</degrees>
+      <fieldofstudy>Business or Translation English</fieldofstudy>
+      <from>2013</from>
+      <to>2016</to>
+    </n_716>
+    <n_718>
+      <id>718</id>
+      <school/>
+      <degrees>Japanese-Language Proficiency Test (N5 - Test result: A)</degrees>
+      <fieldofstudy/>
+      <from>2015</from>
+      <to>2016</to>
+    </n_718>
+  </education>
+  <user_cv>
+    <db>
+      <ui>4358</ui>
+      <title>Những công việc liên quan đến Ngoại Ngữ, Nhà hàng, Khách sạn.</title>
+      <experience>1</experience>
+      <category>14,20,28,29,31,35,36</category>
+      <type>2,4,5,6</type>
+      <level>2,3</level>
+      <lang>vi,en,ja</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about/>
+      <skill>1. Soft skills &#13;
+</skill>
+      <keyword/>
+      <deactive>1</deactive>
+    </db>
+  </user_cv>
+</information>

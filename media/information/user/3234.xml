@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3234</id>
+      <email>vulinh11121994@gmail.com</email>
+      <username/>
+      <name>Vũ Khánh Linh</name>
+      <im>1474445300_vu-khanh-linh.png</im>
+      <gender>2</gender>
+      <phone>01646129509</phone>
+      <address>188 Phan Đăng Lưu, Phường 3, Quận Phú Nhuận ,Tp Hồ Chí Minh</address>
+      <city>30</city>
+      <dob>1994-12-11</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474445300</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>11</day>
+      <month>12</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7989443</lat>
+      <lng>106.6817711</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Thu ngân</title>
+      <experience>7</experience>
+      <category>14,18,20,27,35</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Em đã từng làm một số cửa hàng cafe tại Nha Trang.</skill>
+      <ui>3234</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Em là một người năng động và rất muốn được học hỏi nhiều ,để trau dồi kiến thức kinh nghiệm.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>107,202,240</strjo>
+  </appliedjob>
+  <experience>
+    <n_725>
+      <id>725</id>
+      <title>Nhân viên chứng từ</title>
+      <level>1</level>
+      <cmpname>Công ty TNHH CON ĐƯỜNG VẬN CHUYỂN</cmpname>
+      <city>HỒ CHÍ MINH</city>
+      <country>VIỆT NAM</country>
+      <from>Tháng  1/ 2016</from>
+      <to>Đến nay</to>
+    </n_725>
+  </experience>
+  <education>
+    <n_534>
+      <id>534</id>
+      <school>Cao đẳng Kinh tế-Kỹ Thuật Miền Nam</school>
+      <degrees>Trung cấp</degrees>
+      <fieldofstudy>Kế Toán</fieldofstudy>
+      <from>2013</from>
+      <to>2015</to>
+    </n_534>
+  </education>
+</information>

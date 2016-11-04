@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5102</id>
+      <email>levoxuantoan@gmail.com</email>
+      <username/>
+      <name>Lê Võ Xuân Toàn</name>
+      <im>1475734971_le-vo-xuan-toan.png</im>
+      <gender>1</gender>
+      <phone>0997425065</phone>
+      <address>số 52, đường số 5, xã Bình Hưng, Huyện Bình Chánh</address>
+      <city>30</city>
+      <dob>1994-2-3</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475734971</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>3</day>
+      <month>2</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7356986</lat>
+      <lng>106.6735788</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Kế toán</title>
+      <experience>1</experience>
+      <category>14,15,17,20,27,28,29,31,35,36</category>
+      <type>1,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Kê toán cao đẳng, giỏi vi tính.</skill>
+      <ui>5102</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Cẩn thận, trung thực, có tinh thần trách nhiệm trong công việc, học hỏi nhanh, vui vẻ, quyết đoán</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>397</strjo>
+  </appliedjob>
+  <education>
+    <n_843>
+      <id>843</id>
+      <school>Cao đẳng giao thông vận tải thành phố hồ chí minh</school>
+      <degrees>Cao đẳng</degrees>
+      <fieldofstudy>Kế toán</fieldofstudy>
+      <from>2013</from>
+      <to>2016</to>
+    </n_843>
+  </education>
+  <experience>
+    <n_1048>
+      <id>1048</id>
+      <title>Nhân viên</title>
+      <level>1</level>
+      <cmpname>Công ty bất động sản Vạn An Phát</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_1048>
+  </experience>
+</information>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3830</id>
+      <email>Nhubinh12.6@gmail.com</email>
+      <username/>
+      <name>Lê Đỗ Như Bình</name>
+      <im>3830_received-962014970610795.jpeg</im>
+      <gender>2</gender>
+      <phone>0933829027</phone>
+      <address>Chung cư Tuệ Tĩnh p12 q11</address>
+      <city>30</city>
+      <dob>1995-6-12</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474872187</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1474872187</last_signin>
+      <day>12</day>
+      <month>6</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>3830</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>1</experience>
+      <category>14,15,17,20,29,31,35</category>
+      <type>5,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Nhanh nhẹn, siêng năng , hoàn thành công việc được giao, luôn nổ lực</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <experience>
+    <n_853>
+      <id>853</id>
+      <title>Nhân viên</title>
+      <level>1</level>
+      <cmpname>Loteria</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>Tháng 3/2016</from>
+      <to>Tháng 7/2016</to>
+    </n_853>
+  </experience>
+  <education>
+    <n_630>
+      <id>630</id>
+      <school>Đh Văn Lang</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Công nghệ sinh học</fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_630>
+  </education>
+  <appliedjob>
+    <total>2</total>
+    <strjo>202,294</strjo>
+  </appliedjob>
+</information>

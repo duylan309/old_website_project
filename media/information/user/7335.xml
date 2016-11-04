@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7335</id>
+      <email>Truongkytruongthinh1989@gmail.com</email>
+      <username/>
+      <name>Trương kỳ trường thịnh</name>
+      <im>1477185199_truong-ky-truong-thinh.png</im>
+      <gender>1</gender>
+      <phone>0938678447</phone>
+      <address>66 đinh hoà p13 q8</address>
+      <city>30</city>
+      <dob>1988-9-17</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477185199</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>17</day>
+      <month>9</month>
+      <year>1988</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.746437</lat>
+      <lng>106.65968</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Bếp âu</title>
+      <experience>2</experience>
+      <category>14</category>
+      <type>1</type>
+      <level>2,4</level>
+      <lang>vi</lang>
+      <skill>Giữ gìn vệ sinh chung, &#13;
+Chịu được áp lực công việc, tìm tòi học hỏi luôn tìm kiếm những công thức món ăn mới .&#13;
+Đam mê công việc.</skill>
+      <ui>7335</ui>
+      <s1>7000000</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>137</strjo>
+  </appliedjob>
+  <experience>
+    <n_1442>
+      <id>1442</id>
+      <title>bếp nóng, bếp lạnh</title>
+      <level>1</level>
+      <cmpname>Noir dinner in the dank</cmpname>
+      <city>Hồ chí minh</city>
+      <country>Việt nam</country>
+      <from>1/02/2014</from>
+      <to>2/09/2014</to>
+    </n_1442>
+    <n_1443>
+      <id>1443</id>
+      <title>Bếp</title>
+      <level>1</level>
+      <cmpname>Casaitalia</cmpname>
+      <city>Hồ chí minh</city>
+      <country>Việt nam</country>
+      <from>2/10/2014</from>
+      <to>25/07/2016</to>
+    </n_1443>
+  </experience>
+</information>

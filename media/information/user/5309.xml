@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5309</id>
+      <email>thieuthimongkieu@gmail.com</email>
+      <username/>
+      <name>Thiều Thị Mộng Kiều</name>
+      <im>1475886684_thieu-thi-mong-kieu.png</im>
+      <gender>2</gender>
+      <phone>01227779093</phone>
+      <address>2381 Phạm Thế Hiển, F.6, Q.8</address>
+      <city>30</city>
+      <dob>1993-12-4</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475886684</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>4</day>
+      <month>12</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.73739</lat>
+      <lng>106.665093</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Giám sát, tổ trưởng phục vụ...</title>
+      <experience>2</experience>
+      <category>15,20,29</category>
+      <type>6</type>
+      <level>2,3,4</level>
+      <lang>vi,en</lang>
+      <skill>Kỹ năng làm việc nhóm, kỹ năng giao tiếp, tin học văn phòng.</skill>
+      <ui>5309</ui>
+      <s1>9000000</s1>
+      <salary>1</salary>
+      <about>Năng động, nhiệt huyết và chăm chỉ</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>284</strjo>
+  </appliedjob>
+  <experience>
+    <n_1088>
+      <id>1088</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Nhà hàng Sorae</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>6-2015</from>
+      <to>10-2016</to>
+    </n_1088>
+  </experience>
+  <education>
+    <n_881>
+      <id>881</id>
+      <school>Cao đẳng nghề Du lịch Sài Gòn</school>
+      <degrees>Cao đẳng</degrees>
+      <fieldofstudy>Quản trị nhà hàng khách sạn</fieldofstudy>
+      <from>6-2013</from>
+      <to>6-2016</to>
+    </n_881>
+  </education>
+  <savedjob>
+    <total>1</total>
+    <strjo>284</strjo>
+  </savedjob>
+</information>

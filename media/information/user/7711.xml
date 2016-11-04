@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7711</id>
+      <email>Thanhphm1909@yahoo.com</email>
+      <username/>
+      <name>Phạm Hoàng Thanh Thanh</name>
+      <im>1072996566150738_thanh-thanh-pham-hoang.jpg</im>
+      <gender>2</gender>
+      <dob>1998-9-19</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477408246</created>
+      <day>19</day>
+      <month>9</month>
+      <year>1998</year>
+      <last_signin>1477408246</last_signin>
+      <phone>01269937807</phone>
+      <address>225 c/c Nguyễn Thiện Thuật P1 Q3</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7690004</lat>
+      <lng>106.6785138</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>7711</ui>
+      <title>Phục vụ, bán hàng,...</title>
+      <experience>2</experience>
+      <category>14,15,17,26,27,35</category>
+      <type>2,4,5,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Hòa đồng,thân thiện,vui vẻ,có sự kiên nhẫn và tôn trọng đối với khách hàng,giao tiếp ổn, không đi trễ,đó là em à hihi</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>340,305</strjo>
+  </appliedjob>
+</information>

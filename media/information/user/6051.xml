@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6051</id>
+      <email>tonynguyen0180@yahoo.com</email>
+      <username/>
+      <name>Toan huu Nguyen</name>
+      <im>955419024570126_torino-nguyen.jpg</im>
+      <gender>1</gender>
+      <dob>1980-1-12</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476349597</created>
+      <day>12</day>
+      <month>1</month>
+      <year>1980</year>
+      <last_signin>1476349597</last_signin>
+      <phone>0917179178</phone>
+      <address>6 dang thai than p11/ q5</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7549793</lat>
+      <lng>106.6654519</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_1001>
+      <id>1001</id>
+      <school>Polytechnic west WA Australia</school>
+      <degrees>Diploma</degrees>
+      <fieldofstudy>Hospitality</fieldofstudy>
+      <from>2009</from>
+      <to>2014</to>
+    </n_1001>
+    <n_1002>
+      <id>1002</id>
+      <school>Saigontourist college </school>
+      <degrees>Chung chi</degrees>
+      <fieldofstudy>Bep au</fieldofstudy>
+      <from>2008</from>
+      <to>2009</to>
+    </n_1002>
+  </education>
+  <user_cv>
+    <db>
+      <ui>6051</ui>
+      <title>Quản lý nhà hàng ,, sour chef</title>
+      <experience>2</experience>
+      <category>14,20</category>
+      <type>1</type>
+      <level>3,5</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

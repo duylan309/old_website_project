@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5911</id>
+      <email>Nganguyen.mis@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Nga</name>
+      <im>5911_img-2007.JPG</im>
+      <gender>2</gender>
+      <phone>0948808947</phone>
+      <address>23 Hoàng Sa, Đakao, Quận 1</address>
+      <city>30</city>
+      <dob>1990-8-2</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476264559</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>2</day>
+      <month>8</month>
+      <year>1990</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7918109</lat>
+      <lng>106.70462</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Quản lý</title>
+      <experience>3</experience>
+      <category>14,15,16,17,18,19,20,26,28,29,30,31,35</category>
+      <type>1,6</type>
+      <level>2,3,4,5</level>
+      <lang>vi,en</lang>
+      <skill>Good in presentation, interpersonal and communication skills.&#13;
+Good in managerial and organizational skills.&#13;
+Ability to work independently, under pressure and meet targets,&#13;
+work in a team.&#13;
+Have independent studying and research skills.&#13;
+Have English skills.&#13;
+Well-versed in use Microsoft Office.&#13;
+Knowledge in Database as SQL Server, MySql.&#13;
+Ability to Analyze and Design System and Window.&#13;
+Basis knowledge in Network, Linux, C#, PHP.</skill>
+      <ui>5911</ui>
+      <s1>10000000</s1>
+      <salary>1</salary>
+      <about>Proactive and assertive&#13;
+Flexible and approachable&#13;
+Enthusiastic&#13;
+Time management</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>9</total>
+    <strjo>166,196,216,445,211,286,284,412,314</strjo>
+  </appliedjob>
+  <experience>
+    <n_1208>
+      <id>1208</id>
+      <title>Assistant General Manager</title>
+      <level>1</level>
+      <cmpname>Private Enterprise Thien Que (The Sushi Bar Restaurants)</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Vietnam</country>
+      <from>09/2013</from>
+      <to>08/2014</to>
+    </n_1208>
+    <n_1209>
+      <id>1209</id>
+      <title>IT Support</title>
+      <level>1</level>
+      <cmpname>Grant Thornton Vietnam Limited Company</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Vietnam</country>
+      <from>08/2014</from>
+      <to>8/2015</to>
+    </n_1209>
+    <n_1210>
+      <id>1210</id>
+      <title>IT Support and Operating</title>
+      <level>1</level>
+      <cmpname>Vietnam Technological and Commercial Joint Stock Bank – Techcombank</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Vietnam</country>
+      <from>08/2015</from>
+      <to>06/2016</to>
+    </n_1210>
+    <n_1211>
+      <id>1211</id>
+      <title>IT Technician, Technical Consultant &amp; Customer care.</title>
+      <level>1</level>
+      <cmpname>ITM Management Ltd., Co.</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Vietnam</country>
+      <from>06/2016</from>
+      <to>present</to>
+    </n_1211>
+  </experience>
+  <education>
+    <n_986>
+      <id>986</id>
+      <school>University Economics in Ho Chi Minh City</school>
+      <degrees>Bachelor Degree.</degrees>
+      <fieldofstudy>Manage Information System </fieldofstudy>
+      <from>2008</from>
+      <to>2012</to>
+    </n_986>
+    <n_987>
+      <id>987</id>
+      <school>Vietnam and Australia College (VAAC) of Hotel Management</school>
+      <degrees>Excellent Certificate</degrees>
+      <fieldofstudy>Bartender skill </fieldofstudy>
+      <from>[ 2012 ]</from>
+      <to>[ 2012 ]</to>
+    </n_987>
+  </education>
+</information>

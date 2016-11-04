@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1009</id>
+      <email>ken3893@gmail.com</email>
+      <username/>
+      <name>Lê Gia Kiệt</name>
+      <im>1219183731482510_le-gia-kiet.jpg</im>
+      <gender>1</gender>
+      <dob>1993-8-3</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471580913</created>
+      <day>3</day>
+      <month>8</month>
+      <year>1993</year>
+      <phone>0935870856</phone>
+      <address></address>
+      <country>vn</country>
+      <city></city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <experience>
+    <n_237>
+      <id>237</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>sumo BBQ</cmpname>
+      <city>TP.HCM</city>
+      <country>Việt Nam</country>
+      <from>06/2015</from>
+      <to>12/2015</to>
+    </n_237>
+  </experience>
+  <education>
+    <n_159>
+      <id>159</id>
+      <school>Đại học Công Nghệ TP.HCM</school>
+      <degrees>Cao Đẳng</degrees>
+      <fieldofstudy>Kế Toán</fieldofstudy>
+      <from>09/2012</from>
+      <to>06/2016</to>
+    </n_159>
+  </education>
+  <user_cv>
+    <db>
+      <ui>1009</ui>
+      <title>Nhân viên pha chế cà phê</title>
+      <experience>1</experience>
+      <category>15,26,29</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <skill></skill>
+      <keyword>Giao tiếp hiệu quả,Tinh thần trách nhiệm,Chịu được áp lực công việc,Nhiệt tình</keyword>
+    </db>
+  </user_cv>
+</information>

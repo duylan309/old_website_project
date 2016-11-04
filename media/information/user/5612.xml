@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5612</id>
+      <email>kimsao.ton@gmail.com</email>
+      <username/>
+      <name>Đặng Thị Kim Sao</name>
+      <im>1784627821792856_sao-coong.jpg</im>
+      <gender>2</gender>
+      <dob>1998-3-23</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476110278</created>
+      <day>23</day>
+      <month>3</month>
+      <year>1998</year>
+      <phone>01626411777</phone>
+      <address>C1,Cộng Hòa,Tân Bình</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.802373</lat>
+      <lng>106.644774</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_926>
+      <id>926</id>
+      <school>Đại học kinh tế Hồ Chí Minh</school>
+      <degrees/>
+      <fieldofstudy/>
+      <from>2016</from>
+      <to>2020</to>
+    </n_926>
+  </education>
+  <user_cv>
+    <db>
+      <ui>5612</ui>
+      <title>Nhân viên phục vụ,bán hàng</title>
+      <experience>7</experience>
+      <category>14,15,35</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>Tôi hiện đang là sinh viên năm nhất. Tôi luôn luôn học hỏi và nỗ lực để đạt được mục tiêu và hoàn thành các nhiệm vụ, công việc. Được làm việc cho bạn là vinh dự cũng như một thử thách cho bản thân tôi. Tôi hi vọng sẽ có thể góp phần nâng cao hình ảnh và hiệu quả công việc cho bạn.</about>
+      <skill>Giao tiếp tốt, nhanh nhẹn và tiếp thu nhanh</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>402</strjo>
+  </appliedjob>
+</information>

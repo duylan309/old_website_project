@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>79</id>
+      <email>do.hong@gmail.com</email>
+      <username/>
+      <name>Hong Do</name>
+      <im>79_2013-08-26 14.07.31.jpg</im>
+      <gender>2</gender>
+      <category/>
+      <phone>0938059551</phone>
+      <address>123 street</address>
+      <city>30</city>
+      <dob>2016-04-13</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1460530342</created>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1>
+      <id>1</id>
+      <title>Waitress</title>
+      <level>3</level>
+      <cmpname>ABC</cmpname>
+      <address>123 street</address>
+      <city>30</city>
+      <from>01-04-2010</from>
+      <to>13-04-2016</to>
+    </n_1>
+  </experience>
+  <education>
+    <n_1>
+      <id>1</id>
+      <school>AIB</school>
+      <study/>
+      <degrees>6</degrees>
+      <address>Aidelaide</address>
+      <city>30</city>
+      <from>01-02-2013</from>
+      <to>13-04-2016</to>
+    </n_1>
+  </education>
+  <user_cv>
+    <db>
+      <ui>79</ui>
+      <title>Server</title>
+      <category>14,15,17</category>
+      <type>1,2,3</type>
+      <level>3,4</level>
+      <experience>2</experience>
+      <location>15,23,30</location>
+      <lang>vi,en</lang>
+      <s1>20000000</s1>
+      <salary>1</salary>
+      <skill>xosjcijasknfsdnfkjshdf</skill>
+      <s2>909.09090909091</s2>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>10,49</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>29</strjo>
+  </savedjob>
+</information>

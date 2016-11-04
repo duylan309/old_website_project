@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3723</id>
+      <email>ducanhh280795@gmail.com</email>
+      <username/>
+      <name>Bùi Anh Thi</name>
+      <im>3723_13241106-653577088126871-4770349552811655515-n.jpg</im>
+      <gender>2</gender>
+      <phone>01649278028</phone>
+      <address>Hoàng Diêu., Q.4, TP Hồ Chí Minh</address>
+      <city>30</city>
+      <dob>1995-7-25</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474787249</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1474787249</last_signin>
+      <day>25</day>
+      <month>7</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.764822</lat>
+      <lng>106.708905</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>3723</ui>
+      <title>Lễ tân, Thu ngân, Phục vụ</title>
+      <experience>2</experience>
+      <category>14,16,18,20,29,30</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Chăm chỉ, hòa đồng</about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>275,348</strjo>
+  </appliedjob>
+</information>

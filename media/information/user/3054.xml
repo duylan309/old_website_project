@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3054</id>
+      <email>nguyenquocduy626@gmail.com</email>
+      <username/>
+      <name>Nguyễn Quốc Duy</name>
+      <im>1474211663_nguyen-quoc-duy.png</im>
+      <gender>0</gender>
+      <phone>01687450483</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474211663</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>waiter</title>
+      <experience>2</experience>
+      <category>14,20</category>
+      <type>1,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>3054</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>240,284,170</strjo>
+  </appliedjob>
+  <experience/>
+  <education>
+    <n_503>
+      <id>503</id>
+      <school>Đại Học Công Nghệ Tp.Hồ Chí Minh</school>
+      <degrees>Cao Đẳng</degrees>
+      <fieldofstudy>Quản trịk hách Sạn</fieldofstudy>
+      <from>8/2014</from>
+      <to>3/2017</to>
+    </n_503>
+  </education>
+</information>

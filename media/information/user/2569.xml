@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2569</id>
+      <email>tamnguyen180198@icloud.com</email>
+      <username/>
+      <name>Nguyễn Ngọc Thanh Tâm</name>
+      <im>1473671305_nguyen-ngoc-thanh-tam.png</im>
+      <gender>2</gender>
+      <phone>0933639970</phone>
+      <address>793/37 trần xuân soạn, phường tân hưng, quận 7</address>
+      <city>30</city>
+      <dob>1998-1-18</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473671305</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>18</day>
+      <month>1</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.751121</lat>
+      <lng>106.698705</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>en</lang>
+      <skill/>
+      <ui>2569</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword>Kỹ năng chăm sóc khách hàng,Tập trung trong công việc,Tinh thần trách nhiệm,Trung thực,Nhiệt tình</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>219,222,247,130</strjo>
+  </appliedjob>
+</information>

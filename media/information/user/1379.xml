@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1379</id>
+      <email>luuvy94@gmail.com</email>
+      <username/>
+      <name>Lưu Vy</name>
+      <im>2099614236929553_luu-vy.jpg</im>
+      <gender>2</gender>
+      <dob>1994-1-25</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472209362</created>
+      <day>25</day>
+      <month>1</month>
+      <year>1994</year>
+      <last_signin>1472209362</last_signin>
+      <phone>0917986445</phone>
+      <address>Binh Thanh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8105831</lat>
+      <lng>106.7091422</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>1379</ui>
+      <title>Marketing Executive, Personal Assistant</title>
+      <experience>1</experience>
+      <category>14,15,17,18,20,26,28,29,35</category>
+      <type>1,3</type>
+      <level>1,2,3</level>
+      <lang>vi,en</lang>
+      <s1>7000000</s1>
+      <salary>1</salary>
+      <skill>•	Transferable skills: Teamwork, interpersonal skills, managing time and duties, creative and imaginative, controlling, work independently, flexible and adaptable, meeting deadline, presentation, written and spoken communication.&#13;
+•	Information technology: basic knowledge about hardware and software, and excellent in Microsoft Office &#13;
+•	Analytic: familiar with numerical analysis and data collection.&#13;
+•	English proficiency: intermediate level in speaking and writing English.&#13;
+•	Basic Adope Illustrator and Photoshop&#13;
+</skill>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng giải quyết tình huống,Chịu được áp lực công việc,Trung thực,Tinh thần làm việc nhóm,Tập trung trong công việc,Nhiệt tình,Tự tin</keyword>
+      <about>As an undergraduate student in charge of Business Administration. I am a devoted, dedicated and thoughtful person. I respect my time and also other people’s time so that I am always on time, and meet the deadline but get work done efficiently. I am creative, think fast, and eager to learn new things so that I can contribute my knowledge to the organization and attain the final target.&#13;
+HOBBIES AND INTERESTS	&#13;
+I love spending time reading English books and learning languages. I love languages so that I usually attempt to learn more languages at home. I also enjoy meeting new people from other countries because I can learn about new cultures, and I can introduce them my country’s cultures either. I am fond of music, and I found out that I work more effectively, feeling less strain, being more motivated and creative when I listen to music while working. </about>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>9</total>
+    <strjo>220,99,253,268,201,294,156,326,368</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>220</strjo>
+  </savedjob>
+  <experience>
+    <n_685>
+      <id>685</id>
+      <title>Marketing Executive</title>
+      <level>1</level>
+      <cmpname>B.G.N multiad</cmpname>
+      <city>HCM</city>
+      <country>Việt Nam</country>
+      <from>7/2016</from>
+      <to>8/2016</to>
+    </n_685>
+    <n_686>
+      <id>686</id>
+      <title>Volunteer</title>
+      <level>1</level>
+      <cmpname>AIESEC</cmpname>
+      <city>HCM</city>
+      <country>Việt Nam</country>
+      <from>9/2013</from>
+      <to>11/2013</to>
+    </n_686>
+  </experience>
+  <education>
+    <n_509>
+      <id>509</id>
+      <school>University of Greenwich</school>
+      <degrees>Bachelor</degrees>
+      <fieldofstudy>Business Administration</fieldofstudy>
+      <from>2016</from>
+      <to>2017</to>
+    </n_509>
+  </education>
+</information>

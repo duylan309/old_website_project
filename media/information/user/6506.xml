@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6506</id>
+      <email>ngocanh279dn@gmail.com</email>
+      <username/>
+      <name>Trần Thị Ngọc Ánh</name>
+      <im>6506_img-20160321-231458.jpg</im>
+      <gender>2</gender>
+      <phone>01648806059</phone>
+      <address>102/33 đường 4, phường Tam Phú, quận Thủ Đức, Tp HCM</address>
+      <city>30</city>
+      <dob>1995-9-27</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476670344</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>27</day>
+      <month>9</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên pha chế</title>
+      <experience>2</experience>
+      <category>15</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en,kr</lang>
+      <skill>kỹ năng làm việc nhóm&#13;
+kỹ năng giao tiếp&#13;
+kỹ năng thuyết trình</skill>
+      <ui>6506</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Sinh viên năm cuối trường cao đẳng công nghệ Thủ Đức, chuyên ngành tiếng Anh.&#13;
+Có kinh nghiệm và đam mê trong công việc pha chế cà phê, sinh tố, nước ép trái cây...&#13;
+Thân thiện, có trách nhiệm trong công việc.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>257</strjo>
+  </appliedjob>
+  <education>
+    <n_1069>
+      <id>1069</id>
+      <school>Cao đẳng công nghệ Thủ Đức</school>
+      <degrees/>
+      <fieldofstudy>Tiếng Anh</fieldofstudy>
+      <from>2013</from>
+      <to>2016</to>
+    </n_1069>
+  </education>
+  <experience>
+    <n_1303>
+      <id>1303</id>
+      <title>nhân viên pha chế</title>
+      <level>1</level>
+      <cmpname>Cà phê Napoli</cmpname>
+      <city>hcm</city>
+      <country>Việt Nam</country>
+      <from>tháng 6 2015</from>
+      <to>tháng 8 2016</to>
+    </n_1303>
+    <n_1304>
+      <id>1304</id>
+      <title>Trợ giảng tiếng Anh</title>
+      <level>1</level>
+      <cmpname>Công ty Châu lục sao Việt</cmpname>
+      <city>Bình Dương</city>
+      <country>Việt Nam</country>
+      <from>tháng 3 2016</from>
+      <to>tháng 6 2016</to>
+    </n_1304>
+  </experience>
+</information>

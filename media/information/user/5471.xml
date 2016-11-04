@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5471</id>
+      <email>phantrantieumy@gmail.com</email>
+      <username/>
+      <name>Phan Trần Tiểu My</name>
+      <im>671491646348993_phan-tran-tieu-my.jpg</im>
+      <gender>2</gender>
+      <dob>1996-7-16</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475999387</created>
+      <day>16</day>
+      <month>7</month>
+      <year>1996</year>
+      <phone>0942535127</phone>
+      <address>224 ung văn khiêm bình thạnh</address>
+      <country>vn</country>
+      <city></city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,27</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>nhiệt tình trong công việc&#13;
+thân thiện với mọi người&#13;
+siêng năng</skill>
+      <ui>5471</ui>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>105,221,64,172,262</strjo>
+  </appliedjob>
+  <education>
+    <n_909>
+      <id>909</id>
+      <school>đh công nghệ tphcm</school>
+      <degrees/>
+      <fieldofstudy/>
+      <from>2015</from>
+      <to>2019</to>
+    </n_909>
+  </education>
+</information>

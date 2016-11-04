@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5325</id>
+      <email>yeennphi@gmail.com</email>
+      <username/>
+      <name>Huỳnh Phi Yến</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0946764441</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475904298</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,31,36</category>
+      <type>2</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill>Có kỹ năng sales , giao tiếp với khách hàng </skill>
+      <ui>5325</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>262</strjo>
+  </appliedjob>
+</information>

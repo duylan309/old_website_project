@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3735</id>
+      <email>luu.w.93@gmail.com</email>
+      <username/>
+      <name>Thịt Ba Rọi</name>
+      <im>1791898297716804_thit-ba-roi.jpg</im>
+      <gender>1</gender>
+      <dob>1993-8-1</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474798328</created>
+      <day>1</day>
+      <month>8</month>
+      <year>1993</year>
+      <phone>0964544427</phone>
+      <address>96/10 đường tây hòa . Q9</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.824295</lat>
+      <lng>106.766164</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>3735</ui>
+      <title>Part time (sinh vien)</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>2,6</type>
+      <level>1</level>
+      <lang>en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>350</strjo>
+  </appliedjob>
+</information>

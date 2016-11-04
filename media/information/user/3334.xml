@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3334</id>
+      <email>cloudanh123@gmail.com</email>
+      <username/>
+      <name>Tuấn Anh Võ</name>
+      <im>839493126150371_tuan-anh-vo.jpg</im>
+      <gender>1</gender>
+      <dob>1997-1-24</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474534801</created>
+      <day>24</day>
+      <month>1</month>
+      <year>1997</year>
+      <last_signin>1474534801</last_signin>
+      <phone>0911717710</phone>
+      <address>CC 212B Nguyễn Trãi Lô B , P.Nguyễn Cư Trinh, Q.1, TP.Hồ Chí Minh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>3334</ui>
+      <title>Phục vụ, Pha Chế, Phụ Bếp</title>
+      <experience>7</experience>
+      <category>14,15,16,19,20</category>
+      <type>6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Siêng năng , có trách nhiệm</about>
+      <skill>Các kỹ năng về bếp</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <savedjob>
+    <total>1</total>
+    <strjo>153</strjo>
+  </savedjob>
+  <appliedjob>
+    <total>4</total>
+    <strjo>348,376,498,276</strjo>
+  </appliedjob>
+</information>

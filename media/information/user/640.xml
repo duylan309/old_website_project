@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>640</id>
+      <email>zendaleo@gmail.com</email>
+      <username/>
+      <name>Hồ Vân Nhi</name>
+      <im>1010198565760029_van-nhi.jpg</im>
+      <gender>2</gender>
+      <dob>1994-8-14</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470719183</created>
+      <day>14</day>
+      <month>8</month>
+      <year>1994</year>
+      <phone>0901 492 825</phone>
+      <address>Chung cư 1050, Chu Văn An, p.12, Q.Bình Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8061195</lat>
+      <lng>106.7070369</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_125>
+      <id>125</id>
+      <title>Trợ lý trưởng phòng Nhân sự</title>
+      <level>1</level>
+      <cmpname>Công ty TNHH Môi giới bảo hiểm JLT</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>1/2016</from>
+      <to>5/2016</to>
+    </n_125>
+  </experience>
+  <education>
+    <n_89>
+      <id>89</id>
+      <school>Đại học Dân lập Văn Lang</school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy>Ngôn ngữ Anh</fieldofstudy>
+      <from>9/2012</from>
+      <to>6/2016</to>
+    </n_89>
+  </education>
+  <user_cv>
+    <db>
+      <ui>640</ui>
+      <title>Instructor</title>
+      <experience>2</experience>
+      <category>36</category>
+      <type>1,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <skill>Thành thạo Word, Excel, Power Point&#13;
+Kỹ năng giao tiếp, thuyết trình, phối hợp với nhóm lẫn làm việc cá nhân tốt&#13;
+Linh hoạt trong mọi môi trường làm việc</skill>
+      <keyword>Trung thực,Kỹ năng chăm sóc khách hàng,Giao tiếp hiệu quả,Nhiệt tình,Chịu được áp lực công việc,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+  <savedjob>
+    <total>1</total>
+    <strjo>122</strjo>
+  </savedjob>
+  <appliedjob>
+    <total>1</total>
+    <strjo>122</strjo>
+  </appliedjob>
+</information>

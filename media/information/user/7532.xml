@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7532</id>
+      <email>thaothao0194@gmail.com</email>
+      <username/>
+      <name>Nguyen Thu Thao</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01243330193</phone>
+      <address>Q. Bình Tân</address>
+      <city>30</city>
+      <dob>1994-1-1</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477299716</created>
+      <dayleft>0</dayleft>
+      <jobleft>0</jobleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1477299716</last_signin>
+      <day>1</day>
+      <month>1</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7652581</lat>
+      <lng>106.6038535</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1475>
+      <id>1475</id>
+      <title>Nhân viên bếp</title>
+      <level>1</level>
+      <cmpname>Cowboy Jack’s</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Vietnam</country>
+      <from>05.2016</from>
+      <to>nay</to>
+    </n_1475>
+  </experience>
+  <education>
+    <n_1223>
+      <id>1223</id>
+      <school>ĐH Công Nghệ Tp.HCM - HUTECH</school>
+      <degrees>Đại Học</degrees>
+      <fieldofstudy>Tiếng Anh thương mại</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_1223>
+  </education>
+  <user_cv>
+    <db>
+      <ui>7532</ui>
+      <title>Nhân viên bếp</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>1,2,3</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Siêng năng, chịu được áp lực công việc, mong muốn làm việc trong môi trường chuyên nghiệp.</about>
+      <skill>Kỹ năng giao tiếp&#13;
+Kỹ năng bếp cơ bản&#13;
+Kỹ năng làm việc nhóm</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>476</strjo>
+  </appliedjob>
+</information>

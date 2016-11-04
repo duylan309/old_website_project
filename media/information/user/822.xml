@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>822</id>
+      <email>phamcongthanh157@gmail.com</email>
+      <username/>
+      <name>Phạm Công Thành</name>
+      <im>822_13934726-895387077271808-4082203541620249887-n.jpg</im>
+      <gender>1</gender>
+      <phone>0937554189</phone>
+      <address>159 Trần hữu trang, P.10, Q.phú nhuận, Tp.HCM</address>
+      <city>30</city>
+      <dob>1993-7-15</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471176174</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <day>15</day>
+      <month>7</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7764745</lat>
+      <lng>106.7008831</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_121>
+      <id>121</id>
+      <school>Hướng nghiệp Á Âu</school>
+      <degrees>Nghiệp vụ pha chế thức uống - Barista</degrees>
+      <fieldofstudy>Pha chế coffee ý </fieldofstudy>
+      <from>9/3/2016</from>
+      <to>16/4/2016</to>
+    </n_121>
+    <n_122>
+      <id>122</id>
+      <school>Trung cấp du lịch &amp; khách sạn Saigontourist </school>
+      <degrees>Bartender</degrees>
+      <fieldofstudy>Pha chế rượu</fieldofstudy>
+      <from>15/3/2016</from>
+      <to>7/7/2016</to>
+    </n_122>
+  </education>
+  <experience>
+    <n_182>
+      <id>182</id>
+      <title>Barista</title>
+      <level>1</level>
+      <cmpname>Coffee robas</cmpname>
+      <city>Tp.HCM</city>
+      <country>việt nam</country>
+      <from>10/1/2016</from>
+      <to>31/5/2016</to>
+    </n_182>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>822</ui>
+      <title>Pha chế rượu</title>
+      <experience>7</experience>
+      <category>14,16,19,20,29,35</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>111,119</strjo>
+  </appliedjob>
+</information>

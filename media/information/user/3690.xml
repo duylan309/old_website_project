@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3690</id>
+      <email>nhatha.vu16@gmail.com</email>
+      <username/>
+      <name>Vũ Hồng Nhật Hạ</name>
+      <im>1474775284_vu-hong-nhat-han.png</im>
+      <gender>2</gender>
+      <phone>01253837909</phone>
+      <address>11 lô J, Nguyen Thi Tan, Ward 2, Dist. 8</address>
+      <city>30</city>
+      <dob>1997-5-22</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474775284</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>22</day>
+      <month>5</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15</category>
+      <type>2,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>-	Got basic service experience in restaurant&#13;
+-	Work effectively with team mates&#13;
+-	Enthusiastic attitude&#13;
+-	Hard-working&#13;
+</skill>
+      <ui>3690</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>287,100,211,165,409</strjo>
+  </appliedjob>
+  <education>
+    <n_605>
+      <id>605</id>
+      <school>Đại học Ngoại ngữ - Tin học thành phố Hồ Chí Minh</school>
+      <degrees/>
+      <fieldofstudy>Du lịch - Khách sạn</fieldofstudy>
+      <from>Tháng 8, 2015</from>
+      <to>nay</to>
+    </n_605>
+  </education>
+  <experience>
+    <n_823>
+      <id>823</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>The Workshop</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>Tháng 8, 2015</from>
+      <to>Tháng 11, 2015</to>
+    </n_823>
+  </experience>
+</information>

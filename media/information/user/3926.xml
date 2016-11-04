@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3926</id>
+      <email>lamngannguyen0609@gmail.com</email>
+      <username/>
+      <name>Nguyễn Ngọc Lâm Ngân</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0947381539</phone>
+      <address>537 Lê Văn Lương , phường Tân Phong , quận 7</address>
+      <city>30</city>
+      <dob>1995-9-6</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474891796</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1474891796</last_signin>
+      <day>6</day>
+      <month>9</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.737895</lat>
+      <lng>106.703218</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_863>
+      <id>863</id>
+      <title>Phụ bếp</title>
+      <level>1</level>
+      <cmpname>Nhà hàng - khách sạn - karaoke Thái Bình 3</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>3/2015</from>
+      <to>4/2015</to>
+    </n_863>
+  </experience>
+  <education>
+    <n_640>
+      <id>640</id>
+      <school>Trung cấp y tế Đăng Văn Ngữ</school>
+      <degrees>Kỹ thuật viên xét nghiệm</degrees>
+      <fieldofstudy>Xét nghiệm</fieldofstudy>
+      <from>9/2014</from>
+      <to>8/2016</to>
+    </n_640>
+  </education>
+  <user_cv>
+    <db>
+      <ui>3926</ui>
+      <title>Nhân viên phục vụ , nhân viên bán hàng , nhân viên siêu thị , phụ bếp , pha chế</title>
+      <experience>7</experience>
+      <category>14,15,17,29,31,35</category>
+      <type>1,2,4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>153</strjo>
+  </appliedjob>
+</information>

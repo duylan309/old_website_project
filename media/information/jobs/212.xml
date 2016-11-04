@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>212</id>
+    <ui>287</ui>
+    <ci>220</ci>
+    <ai>0</ai>
+    <ti>Guest Service Officer/Receptionist</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>5000000</s1>
+    <s2>6000000</s2>
+    <s3>227</s3>
+    <s4>272</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>20</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>en</la>
+    <description>- Welcome &amp; register the guest according to the procedure\r\n\r\n- Assign room and accommodate special request whenever possible.\r\n\r\n- Stay up – to – date on rooms rates, packages, discounts and how to handle each.\r\n\r\n- Review the room rates, room location, and types of rooms\r\n\r\n- Develop knowledge about other departments, their staffing, services and hours of opreration in the hotel.\r\n\r\n- Promoptly notify housekeeping of all late check out, early check in and special requests.\r\n\r\n- Develop thorough knowledge of the software used in the Front Office\r\n\r\n- File and post all charges to guest accounts.\r\n\r\n- Use proper the telephone etiquette.\r\n\r\n- Report any unusual occurrences and meeting taking place in the hotel.\r\n\r\n- Follow the message handling procedures.\r\n\r\n- Get information about the daily activities and meetings taking place in the hotel.\r\n\r\n- Follow all safety and emergency procedures and how to act upon them.\r\n\r\n- Maitain the cleanliness and neatness of the front desk area\r\n\r\n- Handle and record every kind of request and complaints of the guests.\r\n\r\n- Keep properly the accounts of the guests for their expenses during their stay and charge them upon departure or anytime they ask for it.\r\n\r\n- Handle room changes according to availability\r\n\r\n- Control the issue of room keys\r\n\r\n- Give suggestions and comments to his direct superior.\r\n\r\n- Handle in inquires of guests and give all the information required\r\n\r\n- Prepare all the necessary forms required to carry out the daily operation\r\n\r\n- Know cash handling process\r\n\r\n- Complete guest check – in procedures.\r\n\r\n- Maintain the safe deposit box\r\n\r\n- Balance the cash, traveler’s checks, currency, credit cards received and hand them to the accounting department.\r\n\r\n- Verify the transfer of guest changes from other departments like the restaurant\r\n\r\n- Complete guest check – out procedures.\r\n\r\n- Settle guest account\r\n\r\n- Handle payments\r\n\r\n- Prepare the records upon check – out and check – in.\r\n\r\n- Perform other duties as may be assigned.\r\n\r\n- Problem solving skills. </description>
+    <requirement> Có kinh nghiệm làm khách sạn 4 sao\r\n- Có kinh nghiệm làm tổ trưởng, trưởng nhóm, giám sát\r\n- Khả năng đàm phán, xử lý tình huống tốt.\r\n- Tiếng Anh giao tiếp tốt\r\n- Biết Tiếng Nhật là một ưu tiên\r\n- Tinh thần cầu tiến, ham học hỏi, mong muốn đồng hành và phát triển</requirement>
+    <benefit>- Làm việc trong môi trường năng động, chuyên nghiệp.\r\n- Tham gia đóng các loại bảo hiểm (BHXH, BHYT, BHTN)\r\n- Hỗ trợ ăn giữa ca.\r\n- Thưởng tháng lương thứ 13.\r\n- Các chế độ phúc lợi khác theo quy định của công ty.</benefit>
+    <keyword/>
+    <ad/>
+    <location_id>21</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-08</de>
+    <re>0000-00-00</re>
+    <cr>1475553659</cr>
+  </db>
+  <more>
+    <requirement> Có kinh nghiệm làm khách sạn 4 sao&#13;
+- Có kinh nghiệm làm tổ trưởng, trưởng nhóm, giám sát&#13;
+- Khả năng đàm phán, xử lý tình huống tốt.&#13;
+- Tiếng Anh giao tiếp tốt&#13;
+- Biết Tiếng Nhật là một ưu tiên&#13;
+- Tinh thần cầu tiến, ham học hỏi, mong muốn đồng hành và phát triển</requirement>
+    <description>- Welcome &amp; register the guest according to the procedure&#13;
+&#13;
+- Assign room and accommodate special request whenever possible.&#13;
+&#13;
+- Stay up – to – date on rooms rates, packages, discounts and how to handle each.&#13;
+&#13;
+- Review the room rates, room location, and types of rooms&#13;
+&#13;
+- Develop knowledge about other departments, their staffing, services and hours of opreration in the hotel.&#13;
+&#13;
+- Promoptly notify housekeeping of all late check out, early check in and special requests.&#13;
+&#13;
+- Develop thorough knowledge of the software used in the Front Office&#13;
+&#13;
+- File and post all charges to guest accounts.&#13;
+&#13;
+- Use proper the telephone etiquette.&#13;
+&#13;
+- Report any unusual occurrences and meeting taking place in the hotel.&#13;
+&#13;
+- Follow the message handling procedures.&#13;
+&#13;
+- Get information about the daily activities and meetings taking place in the hotel.&#13;
+&#13;
+- Follow all safety and emergency procedures and how to act upon them.&#13;
+&#13;
+- Maitain the cleanliness and neatness of the front desk area&#13;
+&#13;
+- Handle and record every kind of request and complaints of the guests.&#13;
+&#13;
+- Keep properly the accounts of the guests for their expenses during their stay and charge them upon departure or anytime they ask for it.&#13;
+&#13;
+- Handle room changes according to availability&#13;
+&#13;
+- Control the issue of room keys&#13;
+&#13;
+- Give suggestions and comments to his direct superior.&#13;
+&#13;
+- Handle in inquires of guests and give all the information required&#13;
+&#13;
+- Prepare all the necessary forms required to carry out the daily operation&#13;
+&#13;
+- Know cash handling process&#13;
+&#13;
+- Complete guest check – in procedures.&#13;
+&#13;
+- Maintain the safe deposit box&#13;
+&#13;
+- Balance the cash, traveler’s checks, currency, credit cards received and hand them to the accounting department.&#13;
+&#13;
+- Verify the transfer of guest changes from other departments like the restaurant&#13;
+&#13;
+- Complete guest check – out procedures.&#13;
+&#13;
+- Settle guest account&#13;
+&#13;
+- Handle payments&#13;
+&#13;
+- Prepare the records upon check – out and check – in.&#13;
+&#13;
+- Perform other duties as may be assigned.&#13;
+&#13;
+- Problem solving skills. </description>
+    <benefit>- Làm việc trong môi trường năng động, chuyên nghiệp.&#13;
+- Tham gia đóng các loại bảo hiểm (BHXH, BHYT, BHTN)&#13;
+- Hỗ trợ ăn giữa ca.&#13;
+- Thưởng tháng lương thứ 13.&#13;
+- Các chế độ phúc lợi khác theo quy định của công ty.</benefit>
+    <keyword/>
+  </more>
+  <userapplied>
+    <total>3</total>
+    <strui>4795,3509,6183</strui>
+  </userapplied>
+</information>

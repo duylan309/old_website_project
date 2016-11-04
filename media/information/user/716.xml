@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>716</id>
+      <email>Levan.toan11@yahoo.com.vn</email>
+      <username/>
+      <name>Lê Văn Toàn</name>
+      <im>716_image.jpeg</im>
+      <gender>1</gender>
+      <phone>01664331642</phone>
+      <address>283 đường Bông Sao, p5,q8</address>
+      <city>30</city>
+      <dob>1987-9-22</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470929151</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>22</day>
+      <month>9</month>
+      <year>1987</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.735758</lat>
+      <lng>106.66357</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên đầu bếp</title>
+      <experience>5</experience>
+      <category>14</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,ch</lang>
+      <skill>Biết đứng chảo, sa chế thực phẩm, cắt rau củ quả đều ok</skill>
+      <ui>716</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <keyword>Tinh thần trách nhiệm,Tập trung trong công việc,Trung thực,Nhiệt tình,Chịu được áp lực công việc,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>139,113,114,104,125,153</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>139</strjo>
+  </savedjob>
+  <experience>
+    <n_146>
+      <id>146</id>
+      <title>Bếp phó</title>
+      <level>1</level>
+      <cmpname>Quán ăn thái lan</cmpname>
+      <city>Taipei</city>
+      <country>Taiwan</country>
+      <from>2010</from>
+      <to>2016</to>
+    </n_146>
+  </experience>
+</information>

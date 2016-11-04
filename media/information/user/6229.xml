@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6229</id>
+      <email>trantuyen0110@gmail.com</email>
+      <username/>
+      <name>Trần Kim Tuyến</name>
+      <im>6229_fb-img-1476448025457.jpg</im>
+      <gender>2</gender>
+      <phone>0917220123</phone>
+      <address>47/16 TCH21, phường Tân Chánh Hiệp, quận 12</address>
+      <city>30</city>
+      <dob>1996-10-1</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476447760</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476447760</last_signin>
+      <day>1</day>
+      <month>10</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8732775</lat>
+      <lng>106.6386792</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6229</ui>
+      <title>Nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>14,15,17,29,30,31,35,36</category>
+      <type>2,5,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>1800000</s1>
+      <salary>1</salary>
+      <about>Sinh viên năm 3, trường Đại học Mở TP.HCM.</about>
+      <skill>Làm việc nhóm</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>222,408</strjo>
+  </appliedjob>
+</information>

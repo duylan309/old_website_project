@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3920</id>
+      <email>trangmiumiu1994@gmail.com</email>
+      <username/>
+      <name>Trần Thị Thu Trang</name>
+      <im>1672563603057982_hilary-tran.jpg</im>
+      <gender>2</gender>
+      <dob>1994-10-14</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474890697</created>
+      <day>14</day>
+      <month>10</month>
+      <year>1994</year>
+      <phone>0902450742</phone>
+      <address>107 hùng vương p4 q5 tphcm</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7764745</lat>
+      <lng>106.7008831</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân Viên phục vụ</title>
+      <experience>1</experience>
+      <category>20</category>
+      <type>2</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill></skill>
+      <ui>3920</ui>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <about>Tôi tên Trần Thị Thu Trang, năm nay tôi 22 tuổi đang theo học ngành quản lý nhà hàng khách sạn trường cao đẳng du lịch Sài Gòn, tôi muốn trau dồi khả năng ngoại ngữ tốt hơn khi được nhận vào làm phục vụ ở khách sạn năm sao bậc nhất Sài Gòn vì tôi không có khả năng tài chính nên sẽ cố gắng học hỏi ạ ! </about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>279</strjo>
+  </appliedjob>
+</information>

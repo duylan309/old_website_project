@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>942</id>
+      <email>bluesky_vdtd@yahoo.com</email>
+      <username/>
+      <name>vo dang thanh dat</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0936103921</phone>
+      <address>366/1 go dau phuong tan quy quan tan phu</address>
+      <city>30</city>
+      <dob>1994-1-10</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471454123</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>10</day>
+      <month>1</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.794946</lat>
+      <lng>106.628975</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>pha che, tổ trưởng</title>
+      <experience>2</experience>
+      <category>14,16,20</category>
+      <type>1,2,4</type>
+      <level>2,3,4</level>
+      <lang>vi,en</lang>
+      <skill>Tung lam 1 nam ve ca phe may&#13;
+6 thang bartender tai the penthoues quan 1&#13;
+5 thang haed bar tai nha hang kobe bbq cong hoa&#13;
+Biet lam shisa trai cay bia tuoi ...</skill>
+      <ui>942</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword/>
+      <about/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>93,466,201</strjo>
+  </appliedjob>
+</information>

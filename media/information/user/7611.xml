@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7611</id>
+      <email>daudau128@yahoo.com.au</email>
+      <username/>
+      <name>Nồi Cơm</name>
+      <im>1262694693781699_noi-com.jpg</im>
+      <gender>2</gender>
+      <dob>1987-8-12</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477328286</created>
+      <day>12</day>
+      <month>8</month>
+      <year>1987</year>
+      <last_signin>1477328286</last_signin>
+      <phone>0904275085</phone>
+      <address>36/12 Sư Vạn Hạnh,P9 , Q5</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7579459</lat>
+      <lng>106.673939</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>7611</ui>
+      <title>bán hàng</title>
+      <experience>3</experience>
+      <category>35</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about></about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

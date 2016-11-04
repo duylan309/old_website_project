@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>3</id>
+    <uid>1</uid>
+    <im/>
+    <ti>About Us</ti>
+    <ti1/>
+    <url>about-us</url>
+    <link/>
+    <opp>1</opp>
+    <pa>1</pa>
+    <ism>1</ism>
+    <ct/>
+    <so>0</so>
+    <nv>0</nv>
+    <st>2</st>
+    <ti_vi>Về chúng tôi</ti_vi>
+    <ti_en>ABOUT US</ti_en>
+  </db>
+  <more>
+    <description>
+      <vi>&lt;div class="single-page m-t-15"&gt;&#13;
+&lt;div class="row"&gt;&#13;
+&lt;div class="col-sm-3"&gt;&#13;
+&lt;div class="block cmp-more no-m-top"&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;&lt;a class="active" href="/page/about-us"&gt;Giới thiệu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/page/employer"&gt;Bảng gi&amp;aacute;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/page/privacy-policy"&gt;Ch&amp;iacute;nh s&amp;aacute;ch bảo mật&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/page/terms-of-use"&gt;Điều khoản sử dụng&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/page/contact"&gt;Li&amp;ecirc;n hệ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;div class="col-sm-9"&gt;&#13;
+&lt;div class="cmp-more no-m-top"&gt;&#13;
+&lt;h1 class="t-s-21 text-color1 text-bold no-margin"&gt;Giới Thiệu&lt;/h1&gt;&#13;
+&lt;article class="m-t-15"&gt;&#13;
+&lt;p&gt;Thu&amp;ecirc; l&amp;agrave; một hệ thống online được h&amp;igrave;nh th&amp;agrave;nh chuy&amp;ecirc;n biệt để hỗ trợ c&amp;aacute;c nhu cầu tuyển dụng trong ng&amp;agrave;nh dịch vụ (nh&amp;agrave; h&amp;agrave;ng kh&amp;aacute;ch sạn, F&amp;amp;B v&amp;agrave; c&amp;aacute;c k&amp;ecirc;nh b&amp;aacute;n lẻ)&lt;/p&gt;&#13;
+&lt;br /&gt;&#13;
+&lt;p&gt;Y&amp;ecirc;u cầu về c&amp;aacute;c yếu tố mới lạ ở địa điểm, sản phẩm cũng như chất lượng dịch vụ ng&amp;agrave;y một gia tăng tại Việt Nam. Đối với hầu hết c&amp;aacute;c doanh nghiệp, t&amp;igrave;m kiếm nguồn nh&amp;acirc;n lực ph&amp;ugrave; hợp với c&amp;aacute;c đ&amp;ograve;i hỏi mới của kh&amp;aacute;ch h&amp;agrave;ng hiện đang l&amp;agrave; một vấn đề nan giải. Thu&amp;ecirc; đ&amp;aacute;p ứng được nhu cầu cấp thiết n&amp;agrave;y.&lt;/p&gt;&#13;
+&lt;br /&gt;&#13;
+&lt;p&gt;Phần lớn c&amp;aacute;c doanh nghiệp hiện nay đều đang tuyển dụng nh&amp;acirc;n sự bằng c&amp;ugrave;ng một phương ph&amp;aacute;p truyền thống dẫn đến hạn chế về hiệu quả. Tại Thu&amp;ecirc;, ch&amp;uacute;ng t&amp;ocirc;i tin rằng h&amp;igrave;nh ảnh thương hiệu ho&amp;agrave;n to&amp;agrave;n c&amp;oacute; thể trở th&amp;agrave;nh ch&amp;igrave;a kh&amp;oacute;a th&amp;agrave;nh c&amp;ocirc;ng trong việc thu h&amp;uacute;t th&amp;ecirc;m nhiều ứng vi&amp;ecirc;n c&amp;oacute; năng lực. Đ&amp;acirc;y l&amp;agrave; triết l&amp;yacute; tư duy cốt lỗi trong từng xếp đặt của ch&amp;uacute;ng t&amp;ocirc;i. Bất kể quy m&amp;ocirc; c&amp;ocirc;ng ty, Thu&amp;ecirc; đều c&amp;oacute; thể hỗ trợ c&amp;aacute;c đối t&amp;aacute;c thu h&amp;uacute;t nh&amp;acirc;n t&amp;agrave;i, đồng thời kiểm so&amp;aacute;t thương hiệu th&amp;ocirc;ng qua trang hồ sơ nh&amp;agrave; tuyển dụng với t&amp;iacute;nh năng trực tiếp đăng tuyển v&amp;agrave; quản l&amp;yacute; hồ sơ ứng vi&amp;ecirc;n, nhờ đ&amp;oacute; cắt giảm c&amp;aacute;c bộ phận trung gian.&lt;/p&gt;&#13;
+&lt;/article&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;</vi>
+      <en>&lt;div class="single-page m-t-15"&gt;&#13;
+&lt;div class="row"&gt;&#13;
+&lt;div class="col-sm-3"&gt;&#13;
+&lt;div class="block cmp-more no-m-top"&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;&lt;a class="active" href="/page/about-us"&gt;About us&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;li&gt;&lt;a href="/page/employer"&gt;Pricing&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;li&gt;&lt;a href="/page/privacy-policy"&gt;Privacy Policy&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;li&gt;&lt;a href="/page/terms-of-use"&gt;Terms of Use&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;li&gt;&lt;a href="/page/contact"&gt;Contact us&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;div class="col-sm-9"&gt;&#13;
+&lt;div class="cmp-more no-m-top"&gt;&#13;
+&lt;h1 class="t-s-21 text-color1 text-bold no-margin"&gt;About us&lt;/h1&gt;&#13;
+&lt;article class="m-t-15"&gt;&#13;
+&lt;p&gt;Thue is an online platform specifically created to address the recruitment needs for service sector (Hospitality, F&amp;amp;B and Retail).&lt;/p&gt;&#13;
+&lt;br /&gt;&#13;
+&lt;p&gt;The demand for innovative venues, products and quality service is on the rise in Vietnam. For most businesses, finding staff to meet the new demands have been one of the major challenges. Thue addresses this particular need.&lt;/p&gt;&#13;
+&lt;br /&gt;&#13;
+&lt;p&gt;Businesses are currently using the same traditional method to recruit from the same pool of talents with limited results. At Thue, we believe brand image can become a key differentiator in attracting quality candidates. This is the corner stone of our design philosophy. Thue enables our clients total control of their brand with their profile page and to post jobs directly from their page, thus cutting out the middlemen and making it more feasible for companies of all sizes to attract and recruit candidates.&lt;/p&gt;&#13;
+&lt;/article&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;</en>
+    </description>
+  </more>
+  <meta>
+    <title>
+      <vi>Về chúng tôi</vi>
+      <en>About Us</en>
+    </title>
+    <desc>
+      <vi/>
+      <en/>
+    </desc>
+    <keyword>
+      <vi/>
+      <en/>
+    </keyword>
+  </meta>
+</information>

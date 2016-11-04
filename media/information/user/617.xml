@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>617</id>
+      <email>linhkid.hihe@gmail.com</email>
+      <username/>
+      <name>Đỗ Thảo Linh</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0906525927</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470656151</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục vụ , Pha chế</title>
+      <experience>1</experience>
+      <category>14,15</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Từng làm phục vụ nhà hàng , pha chế , có học qua pha chế </skill>
+      <ui>617</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>106</strjo>
+  </appliedjob>
+</information>

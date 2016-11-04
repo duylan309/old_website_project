@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6142</id>
+      <email>Huynhtrang18111998@gmail.com</email>
+      <username/>
+      <name>Đặng Bảo Thuận</name>
+      <im>6142_image.jpeg</im>
+      <gender>0</gender>
+      <phone>0922148748</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476380733</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phụ bếp</title>
+      <experience>2</experience>
+      <category>14,16,18,19,20</category>
+      <type>4,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Thớt, chảo</skill>
+      <ui>6142</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>342</strjo>
+  </appliedjob>
+  <experience>
+    <n_1236>
+      <id>1236</id>
+      <title>Phụ bếp</title>
+      <level>1</level>
+      <cmpname>Elisa</cmpname>
+      <city>Hcmc</city>
+      <country>Việt Nam</country>
+      <from>07/2014</from>
+      <to>09/2016</to>
+    </n_1236>
+  </experience>
+  <education>
+    <n_1015>
+      <id>1015</id>
+      <school>Hướng nghiệp á âu</school>
+      <degrees>Bếp trưởng nghiệp vụ</degrees>
+      <fieldofstudy>Nhà hàng dịch vụ ăn uống</fieldofstudy>
+      <from>2014</from>
+      <to>2016</to>
+    </n_1015>
+    <n_1016>
+      <id>1016</id>
+      <school>Đại học hoa sen</school>
+      <degrees>TN</degrees>
+      <fieldofstudy>Quản lý nhà hàng và dịch vụ ăn uống</fieldofstudy>
+      <from>2013</from>
+      <to>2016</to>
+    </n_1016>
+  </education>
+</information>

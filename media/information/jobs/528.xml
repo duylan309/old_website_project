@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>528</id>
+    <ui>7802</ui>
+    <ci>431</ci>
+    <ai>0</ai>
+    <ti>Trợ lý quầy thời trang</ti>
+    <ta/>
+    <le>3</le>
+    <ty>1,4</ty>
+    <ex>2</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>5000000</s1>
+    <s2>7000000</s2>
+    <s3>227</s3>
+    <s4>318</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>31</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description/>
+    <requirement/>
+    <workhour/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>385</location_id>
+    <lat>10.825847</lat>
+    <lng>10.825847</lng>
+    <de>2016-11-20</de>
+    <re>0000-00-00</re>
+    <cr>1477468500</cr>
+  </db>
+  <more>
+    <requirement>- Tốt nghiệp Cao đẳng trở lên&#13;
+- Có kĩ năng giao tiếp tốt, làm việc nhóm, tin học văn phòng&#13;
+- Giao tiếp tiếng Anh tốt&#13;
+- Làm việc có trách nhiệm, cẩn thận và chu đáo&#13;
+- Có 1 - 2 năm kinh nghiệm ở vị trí tương đương là 1 lợi thế</requirement>
+    <description>-	Nhận hàng&#13;
+-	Trưng bày hàng hóa, giá cả&#13;
+-	Quản lý hàng hóa, trang thiết bị&#13;
+-	Quản lý nhân viên và nhân viên tiếp thị&#13;
+</description>
+    <workhour>8 tiếng/ngày, xoay ca, 6 ngày/tuần</workhour>
+    <benefit>- Theo Luật Lao động hiện hành của nhà nước Việt Nam&#13;
+- Chế độ BHXH&#13;
+- Bảo hiểm Tai Nạn&#13;
+- Khám sức khỏe định kỳ&#13;
+- Được hưởng lương tháng 13&#13;
+- Cùng các chế độ khác theo quy định của công ty</benefit>
+    <keyword/>
+  </more>
+  <userapplied>
+    <total>1</total>
+    <strui>8123</strui>
+  </userapplied>
+</information>

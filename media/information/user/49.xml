@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>49</id>
+      <email>hanh.nguyen@gmail.com</email>
+      <username/>
+      <name>Lê Hạnh Nguyên</name>
+      <im>49_hang-nguyen.jpg</im>
+      <gender>2</gender>
+      <category/>
+      <phone>083826 5777</phone>
+      <address>Tầng 12, Cao ốc Văn phòng BlueSky, 01 Bạch Đằng, Q. Tân Bình</address>
+      <city>0</city>
+      <dob>1982-03-20</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1458454304</created>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <country>ru</country>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>49</ui>
+      <category>15,17,19</category>
+      <title>Communications Manager</title>
+      <level>2</level>
+      <experience>3</experience>
+      <location>30</location>
+      <salary>12,000,000 VND</salary>
+      <skill>- Cao 1m70 trở lên; Nữ cao 1m60 trở lên;&#13;
+- Tuổi từ 20 đến 28; Ngoại hình ưa nhìn&#13;
+- Có văn bằng, chứng chỉ về nghiệp vụ lễ tân khách sạn&#13;
+- Thông thạo một ngoại ngữ và giao tiếp tốt một ngoại ngữ khác (một ngoại ngữ là tiếng Anh).&#13;
+- Có khả năng giao tiếp và xử lý tình huống tốt.&#13;
+- Sử dụng tốt vi tính văn phòng.</skill>
+      <type>1</type>
+      <s1>0</s1>
+    </db>
+  </user_cv>
+</information>

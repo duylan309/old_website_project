@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7409</id>
+      <email>huynhnhuan9520@gmail.com</email>
+      <username/>
+      <name>Nguyễn huỳnh như an</name>
+      <im>7409_image.jpeg</im>
+      <gender>2</gender>
+      <phone>01226824763</phone>
+      <address>Nhà bè  tp Hồ Chí Minh</address>
+      <city>30</city>
+      <dob>1995-5-20</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477227468</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>20</day>
+      <month>5</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.6943704</lat>
+      <lng>106.7411559</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, pha chế</title>
+      <experience>2</experience>
+      <category>14,15,16,19,29</category>
+      <type>2,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>7409</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Ham học hỏi, trải nghiệm và cải thiện bản thân . Mong muốn trao dồi mọi kỹ năng </about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>312,477,457</strjo>
+  </appliedjob>
+  <experience>
+    <n_1460>
+      <id>1460</id>
+      <title>Cashier</title>
+      <level>1</level>
+      <cmpname>CGV cinema viêt nam</cmpname>
+      <city/>
+      <country/>
+      <from>2015</from>
+      <to>2016</to>
+    </n_1460>
+    <n_1461>
+      <id>1461</id>
+      <title>Barista</title>
+      <level>1</level>
+      <cmpname>The coffee house</cmpname>
+      <city/>
+      <country/>
+      <from>2014</from>
+      <to>2015</to>
+    </n_1461>
+    <n_1462>
+      <id>1462</id>
+      <title>Cashier</title>
+      <level>1</level>
+      <cmpname>Familymart</cmpname>
+      <city/>
+      <country/>
+      <from>2013</from>
+      <to>2014</to>
+    </n_1462>
+  </experience>
+  <education>
+    <n_1207>
+      <id>1207</id>
+      <school>Đại học Văn Lang</school>
+      <degrees/>
+      <fieldofstudy>Mỹ thuật công nghiệp</fieldofstudy>
+      <from>2014</from>
+      <to>2019</to>
+    </n_1207>
+  </education>
+</information>

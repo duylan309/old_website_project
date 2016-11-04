@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7442</id>
+      <email>daicaqn12@gmail.com</email>
+      <username/>
+      <name>Trường Phi</name>
+      <im>561364484055091_truong-phi.jpg</im>
+      <gender>1</gender>
+      <dob>1996-7-16</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477247107</created>
+      <day>16</day>
+      <month>7</month>
+      <year>1996</year>
+      <phone>012686449657</phone>
+      <address>57 dương bá trạc quận 8 tphcm</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>7442</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>1</experience>
+      <category>14,15,35</category>
+      <type>2,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>15000</s1>
+      <salary>1</salary>
+      <about>Sinh viên năm 2 mong muốn kiếm việc làm thêm để trang trải cuộc sống , trải nghiệm cuộc sống , làm quen thêm nhiều bạn mới </about>
+      <skill>Khả năng làm việc nhóm  , giao tiếp tự tin , thoải mái . &#13;
+Chịu được áp lực công việc.</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <experience>
+    <n_1466>
+      <id>1466</id>
+      <title>Phục vụ</title>
+      <level>1</level>
+      <cmpname>Baikohken</cmpname>
+      <city>HỒ CHÍ MINH</city>
+      <country>VIệt Nam</country>
+      <from>30/8</from>
+      <to>20/10</to>
+    </n_1466>
+  </experience>
+</information>

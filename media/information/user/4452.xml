@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4452</id>
+      <email>mia.lynde@yahoo.com</email>
+      <username/>
+      <name>Võ Thị Thùy Mai</name>
+      <im>971005916376670_mai-vo.jpg</im>
+      <gender>2</gender>
+      <dob>1994-2-6</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475171994</created>
+      <day>6</day>
+      <month>2</month>
+      <year>1994</year>
+      <phone>0907013270</phone>
+      <address>130/42. Nguyễn Văn luông. P10. Q6</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.751732</lat>
+      <lng>106.635228</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Trợ lý học việc - phục vụ - nhân viên trong văn phòng - nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>14,20,29</category>
+      <type>4,5</type>
+      <level>1,2,3</level>
+      <lang>vi</lang>
+      <skill>- Anh Văn cơ bản.( Bản thân mong mún được làm việc ở  môi trường tiếp xúc v người quốc tế. k ngại giao tiếp và học hỏi )Học chuyên nghành quản trị nhà hàng khách sạn.&#13;
+-Có học qua lớp đào tạo chăm sóc khách hàng (có kỹ năng mềm )&#13;
+-Đang theo học lớp hoa ngữ ( tiếng phổ thông )</skill>
+      <ui>4452</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Có kinh nghiệm nghiệp vụ về bộ phận FB bên nhà hàng khách sạn. &#13;
+Đã từng làm sell cho công ty sữa abbott hòa kì.&#13;
+Có kinh nghiệm làm hoạt náo viên cho các chương trình  hội chợ,Siêu thị...</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>279</strjo>
+  </appliedjob>
+  <education>
+    <n_735>
+      <id>735</id>
+      <school>Cao Đẳng Nghề Du Lịch Sài Gòn</school>
+      <degrees>Cao Đẳng</degrees>
+      <fieldofstudy>Quản Trị Nhà Hàng Khách Sạn</fieldofstudy>
+      <from>2013</from>
+      <to>2016</to>
+    </n_735>
+  </education>
+</information>

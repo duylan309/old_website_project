@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5138</id>
+      <email>mylovemylove1005@gmail.com</email>
+      <username/>
+      <name>Hai Ban Mê</name>
+      <im>640593856112219_hai-ban-me.jpg</im>
+      <gender>1</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475751130</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Đầu bếp</title>
+      <experience>5</experience>
+      <category>14</category>
+      <type>1</type>
+      <level>4</level>
+      <lang>vi</lang>
+      <skill>Chế biến món ăn. Quản lý bếp</skill>
+      <ui>5138</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>359</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2622</id>
+      <email>nduc7306@gmail.com</email>
+      <username></username>
+      <name>Nguyễn Minh Đức</name>
+      <im>1473735039_nguyen-minh-duc.png</im>
+      <gender>0</gender>
+      <phone>0989443715</phone>
+      <address></address>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473735039</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>pha chế</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>đã có nửa năm làm Bariata ở Highlands Coffee</skill>
+      <ui>2622</ui>
+    </db>
+  </user_cv>
+</information>

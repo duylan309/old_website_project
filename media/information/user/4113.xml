@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4113</id>
+      <email>Tramnguyen2nhh@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Ngọc Trầm</name>
+      <im>1474973495_nguyen-thi-ngoc-tram.png</im>
+      <gender>0</gender>
+      <phone>0987246425</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474973494</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Đầu bếp</title>
+      <experience>3</experience>
+      <category>14,15</category>
+      <type>6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>4113</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>230</strjo>
+  </appliedjob>
+</information>

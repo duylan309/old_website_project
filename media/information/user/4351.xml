@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4351</id>
+      <email>minanguyent96@gmail.com</email>
+      <username/>
+      <name>Bao Ngoc</name>
+      <im>323492781334204_bao-ngoc.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475081797</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Chăm soc khách hàng, nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,17,31,35</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Giao tiếp, quản lí cảm xúc, làm việc nhóm</skill>
+      <ui>4351</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>205</strjo>
+  </appliedjob>
+</information>

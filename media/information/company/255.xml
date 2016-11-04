@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>255</id>
+    <ui>854</ui>
+    <name>Koko Tree</name>
+    <url>Kokotree</url>
+    <im></im>
+    <im_banner></im_banner>
+    <category>29</category>
+    <phone>0915909933</phone>
+    <address>9, Trường Chinh, Tân Bình</address>
+    <district>0</district>
+    <district_text_vi></district_text_vi>
+    <district_text_en></district_text_en>
+    <city>30</city>
+    <lat>10.803129</lat>
+    <lng>106.636284</lng>
+    <website>www.kokotree.vn</website>
+    <about></about>
+    <facebook>www.facebook.com/kokotree</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>0</fb_load_newfeed>
+    <fb_load_photo>0</fb_load_photo>
+    <created>1471310762</created>
+  </db>
+  <more>
+    <about></about>
+    <whyworkus></whyworkus>
+  </more>
+  <companybanner></companybanner>
+</information>

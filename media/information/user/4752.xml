@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4752</id>
+      <email>Diepngocshynie@gmail.com</email>
+      <username/>
+      <name>Đoàn Thị Ngọc Diệp</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01636393898</phone>
+      <address>143 Tân Sơn Gò Vâp</address>
+      <city>30</city>
+      <dob>1994-3-28</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475479338</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>28</day>
+      <month>3</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8305163</lat>
+      <lng>106.6434126</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng</title>
+      <experience>2</experience>
+      <category>17,28,35,36</category>
+      <type>2,5</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <skill></skill>
+      <ui>4752</ui>
+      <s1>7000000</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>140</strjo>
+  </appliedjob>
+  <experience>
+    <n_999>
+      <id>999</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>Cửa hàng gốm Authentique 113 Lê Thánh Tôn Q1</cmpname>
+      <city>HCM</city>
+      <country>Việt Nam</country>
+      <from>2013</from>
+      <to>2015</to>
+    </n_999>
+  </experience>
+  <education>
+    <n_792>
+      <id>792</id>
+      <school>Đại học Công nghiệp thực phẩm TpHCM</school>
+      <degrees>Đang chờ nhận bằng</degrees>
+      <fieldofstudy>Công nghệ kỹ thuật hóa học</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_792>
+  </education>
+</information>

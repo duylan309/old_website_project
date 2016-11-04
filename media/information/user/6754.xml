@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6754</id>
+      <email>hongthoa2603@gmail.com</email>
+      <username/>
+      <name>Trần Hoàng Hồng Thoa</name>
+      <im>1476843662_tran-hoang-hong-thoa.png</im>
+      <gender>0</gender>
+      <phone>0906407484</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476843662</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ, pha chế, bán hàng</title>
+      <experience>7</experience>
+      <category>14,15,16,19,29,31,35</category>
+      <type>2,4,5</type>
+      <level>1,2</level>
+      <lang>en</lang>
+      <skill/>
+      <ui>6754</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>412</strjo>
+  </appliedjob>
+</information>

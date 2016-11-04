@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>308</id>
+    <ui>1948</ui>
+    <name>Vinhomes</name>
+    <url>Vinhomes</url>
+    <im>308_download.png</im>
+    <im_banner/>
+    <category>26,28,29,35</category>
+    <phone/>
+    <address>208, Nguyễn Hữu Cảnh, Bình Thạnh</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.788923</lat>
+    <lng>106.715134</lng>
+    <website/>
+    <about/>
+    <facebook>https://www.facebook.com/vh.centralpark/</facebook>
+    <facebook_cover/>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1473085848</created>
+  </db>
+  <more>
+    <about/>
+    <whyworkus/>
+  </more>
+  <companybanner>308_vinhomes-central-park.jpg</companybanner>
+  <totalJob>
+    <total>1</total>
+    <strji>240</strji>
+  </totalJob>
+</information>

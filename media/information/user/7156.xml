@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7156</id>
+      <email>nguyentk158@gmail.com</email>
+      <username/>
+      <name>Trần Khôi Nguyên</name>
+      <im>7156_13939578-1671191596534054-8831479235362377872-n.jpg</im>
+      <gender>1</gender>
+      <phone>01227137248</phone>
+      <address>292 Nguyễn Xí P13 Q Bình Thạnh TPHCM</address>
+      <city>30</city>
+      <dob>1995-8-15</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477092334</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>15</day>
+      <month>8</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục vụ</title>
+      <experience>2</experience>
+      <category>14,16,19</category>
+      <type>1,4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Kỹ năng nhà hàng Âu cơ bản</skill>
+      <ui>7156</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Thân thiện&#13;
+Hòa đồng</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>14</total>
+    <strjo>238,161,181,302,253,199,273,247,420,497,409,470,323,280</strjo>
+  </appliedjob>
+  <experience>
+    <n_1406>
+      <id>1406</id>
+      <title>Nhân viên</title>
+      <level>1</level>
+      <cmpname>Nhà hàng Casa Italia</cmpname>
+      <city/>
+      <country/>
+      <from>2013</from>
+      <to>2016</to>
+    </n_1406>
+  </experience>
+  <education>
+    <n_1167>
+      <id>1167</id>
+      <school>Quốc Văn Sài Gòn</school>
+      <degrees>THPT</degrees>
+      <fieldofstudy/>
+      <from>2010</from>
+      <to>2013</to>
+    </n_1167>
+  </education>
+</information>

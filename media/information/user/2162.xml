@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2162</id>
+      <email>nghia.n.trung@gmail.com</email>
+      <username/>
+      <name>Nguyễn Trung Nghĩa</name>
+      <im/>
+      <gender>0</gender>
+      <phone/>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473259904</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1473259904</last_signin>
+    </db>
+  </userinfo>
+  <education>
+    <n_359>
+      <id>359</id>
+      <school>RMIT</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Marketing</fieldofstudy>
+      <from>2012</from>
+      <to>2015</to>
+    </n_359>
+  </education>
+</information>

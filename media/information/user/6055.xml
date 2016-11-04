@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6055</id>
+      <email>p3_nhox_kute_9x@yahoo.com</email>
+      <username/>
+      <name>Hiền Trần</name>
+      <im>1494202353929167_hien-tran.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476352936</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+      <last_signin>1476352936</last_signin>
+    </db>
+  </userinfo>
+  <education>
+    <n_1004>
+      <id>1004</id>
+      <school>Đại học Hoa Sen</school>
+      <degrees/>
+      <fieldofstudy>Kế toán</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_1004>
+  </education>
+  <experience>
+    <n_1229>
+      <id>1229</id>
+      <title>Thực tập sinh</title>
+      <level>1</level>
+      <cmpname>Ngân hàng agribank</cmpname>
+      <city>Hồ chí minh</city>
+      <country>Việt nam</country>
+      <from>9/2014</from>
+      <to>12/2014</to>
+    </n_1229>
+  </experience>
+</information>

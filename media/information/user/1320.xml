@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1320</id>
+      <email>truonguyenthaonhi.304@gmail.com</email>
+      <username/>
+      <name>Trương Uyển Thảo Nhi</name>
+      <im>1320_fb-img-1472109689602.jpg</im>
+      <gender>2</gender>
+      <phone>01208676804</phone>
+      <address>1041/80/30 Trần Xuân Soạn, phường Tân Hưng, quận 7</address>
+      <city>30</city>
+      <dob>1998-4-30</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472109537</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>30</day>
+      <month>4</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.751637</lat>
+      <lng>106.698588</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15</category>
+      <type>2,6</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>1320</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <keyword>Tự tin,Trung thực,Nhiệt tình,Tinh thần trách nhiệm,Tinh thần làm việc nhóm,Chịu được áp lực công việc,Giao tiếp hiệu quả</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>163,130,84,172</strjo>
+  </appliedjob>
+  <education>
+    <n_210>
+      <id>210</id>
+      <school>THPT Lê Quý Đôn</school>
+      <degrees/>
+      <fieldofstudy/>
+      <from>2013</from>
+      <to>2016</to>
+    </n_210>
+  </education>
+</information>

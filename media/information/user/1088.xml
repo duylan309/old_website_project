@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1088</id>
+      <email>anhhoang020606@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Hoàng Oanh</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0908464704</phone>
+      <address>49 Hoàng Hoa Thám, phường 6, quận Bình Thạnh, Tp Hồ Chí Minh </address>
+      <city>30</city>
+      <dob>1994-6-15</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471700216</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>15</day>
+      <month>6</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.805858</lat>
+      <lng>106.690491</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế</title>
+      <experience>1</experience>
+      <category>15,18,35</category>
+      <type>5</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <skill></skill>
+      <ui>1088</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Tập trung trong công việc,Tinh thần trách nhiệm,Chịu được áp lực công việc,Tự tin,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>93</strjo>
+  </appliedjob>
+  <experience>
+    <n_260>
+      <id>260</id>
+      <title>Pha chế</title>
+      <level>1</level>
+      <cmpname>Công ty cổ phần Trung Nguyên Franchising</cmpname>
+      <city>Hồ Chí Minh </city>
+      <country>Việt Nam </country>
+      <from>27/06/2015</from>
+      <to>20/08/2016</to>
+    </n_260>
+  </experience>
+  <education>
+    <n_172>
+      <id>172</id>
+      <school>Cao đẳng Văn Hoá Nghệ Thuật và Du Lịch Sài Gòn </school>
+      <degrees/>
+      <fieldofstudy>Tiếng anh phiên dịch </fieldofstudy>
+      <from>01/10/2012</from>
+      <to>30/11/2016</to>
+    </n_172>
+  </education>
+</information>

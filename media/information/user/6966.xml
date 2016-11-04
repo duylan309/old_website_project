@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6966</id>
+      <email>tuyen9011@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Minh Tuyền</name>
+      <im>632748613561894_tuyen-nguyen.jpg</im>
+      <gender>2</gender>
+      <dob>1998-1-16</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476973489</created>
+      <day>16</day>
+      <month>1</month>
+      <year>1998</year>
+      <phone>01642775103</phone>
+      <address>922w5 Hoàng Diệu Quận 4</address>
+      <country>vn</country>
+      <city/>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,16,19,20,29</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>làm việc nhóm</skill>
+      <ui>6966</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>hòa đồng, vui vẻ, dễ gần</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>15</total>
+    <strjo>426,247,275,211,234,353,298,92,199,279,84,427,378,280,100</strjo>
+  </appliedjob>
+  <experience>
+    <n_1375>
+      <id>1375</id>
+      <title>nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>street food Ben Thanh market</cmpname>
+      <city>Tp HCM</city>
+      <country>Việt Nam</country>
+      <from>8</from>
+      <to>10</to>
+    </n_1375>
+  </experience>
+  <education>
+    <n_1147>
+      <id>1147</id>
+      <school>THPT Nhơn Trạch</school>
+      <degrees>12/12</degrees>
+      <fieldofstudy/>
+      <from>2013</from>
+      <to>2016</to>
+    </n_1147>
+  </education>
+</information>

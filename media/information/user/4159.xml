@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4159</id>
+      <email>thienthantuyet_love_babymuadong@yahoo.com</email>
+      <username/>
+      <name>Trinhh Chè</name>
+      <im>1796173997266640_trinhh-che.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474991107</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,17,27,31,35</category>
+      <type>2,4,5</type>
+      <level>1,2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>4159</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>158</strjo>
+  </appliedjob>
+  <savedjob/>
+</information>

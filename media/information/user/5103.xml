@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5103</id>
+      <email>nhatminh.nguyen.2181998@gmail.com</email>
+      <username/>
+      <name>Nguyễn Huy Nhật Minh</name>
+      <im>739460029525270_nhat-minh.jpg</im>
+      <gender>1</gender>
+      <dob>1998-8-21</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475735540</created>
+      <day>21</day>
+      <month>8</month>
+      <year>1998</year>
+      <phone>01203586004</phone>
+      <address>Gò Vấp</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8386779</lat>
+      <lng>106.6652904</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Shipper, nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15,17,27,35</category>
+      <type>5,6</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>5103</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Mình là một người hoạt bát, nhanh nhẹn, biết cầu tiến và chịu nghe lời, tiếp thu các kiến thức mới. Tuy nhiên vẫn còn có nhược điểm là hơi nhút nhát. Mình mong là sau khi đi làm, tiếp xúc với xã hội, mình sẽ khắc phục được nhược điểm này.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>344,69</strjo>
+  </appliedjob>
+  <education>
+    <n_844>
+      <id>844</id>
+      <school>Đại học Bách Khoa TPHCM</school>
+      <degrees/>
+      <fieldofstudy>Kỹ thuật Cơ-Điện tử</fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_844>
+  </education>
+</information>

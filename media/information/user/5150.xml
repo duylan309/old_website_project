@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5150</id>
+      <email>christiantran1998@gmail.com</email>
+      <username/>
+      <name>Trần Thành Đạt</name>
+      <im>318777211816354_christian-tran.jpg</im>
+      <gender>1</gender>
+      <dob>1998-4-1</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475758776</created>
+      <day>1</day>
+      <month>4</month>
+      <year>1998</year>
+      <last_signin>1475758776</last_signin>
+      <phone>0908357130</phone>
+      <address>154 , Xóm Chiếu , P14 , Quận 4 / HCM </address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.757044</lat>
+      <lng>106.709923</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>5150</ui>
+      <title>Phục vụ nam</title>
+      <experience>7</experience>
+      <category>14</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Em là Trần Thành Đạt , năm nay em lớp 12 và đang học tại trường Quốc Tế Úc Châu ( AAS ) . Em đang muốn thử sức mình để tự lập và em muốn tự kiếm tiền bằng bản thân mình , em cảm ơn </about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>162,105,247</strjo>
+  </appliedjob>
+</information>

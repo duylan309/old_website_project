@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1366</id>
+      <email>recruitment@worksaigon.com</email>
+      <username/>
+      <name>WORK</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0907946814</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1472188377</created>
+      <dayleft>1477372377</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1472188377</last_signin>
+      <jobleft>4</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>1</total>
+    <strji>196</strji>
+  </totalJob>
+  <saveuser>
+    <total>1</total>
+    <strui>1440</strui>
+  </saveuser>
+</information>

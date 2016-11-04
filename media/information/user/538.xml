@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>538</id>
+      <email>vohoangnu@gmail.com</email>
+      <username/>
+      <name>Võ Hoàng Nữ</name>
+      <im/>
+      <gender>0</gender>
+      <phone>841648499082</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470447128</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,27</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>giao tiếp, nhanh nhẹn.</skill>
+      <ui>538</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>105</strjo>
+  </appliedjob>
+</information>

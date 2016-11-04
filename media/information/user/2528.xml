@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2528</id>
+      <email>loan741996@gmail.com</email>
+      <username/>
+      <name>Nguyễn Mộng Thúy Loan</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01268310904</phone>
+      <address>230a Nguyễn Văn Hưởng, phường Thảo Điền, quận 2, Tp. Hồ Chí Minh</address>
+      <city>30</city>
+      <dob>1996-4-7</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473613503</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>7</day>
+      <month>4</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8086737</lat>
+      <lng>106.7327923</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,17,29,31,35</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Phục vụ khách hàng tốt&#13;
+Tiếp thu công việc nhanh</skill>
+      <ui>2528</ui>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword>Giao tiếp hiệu quả,Trung thực,Tự tin,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>79,181,140,326</strjo>
+  </appliedjob>
+  <experience>
+    <n_562>
+      <id>562</id>
+      <title>nhân viên bán hàng/ phục vụ</title>
+      <level>1</level>
+      <cmpname>cửa hàng 100%/ nhà hàng Manchan</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>tháng 6/2014</from>
+      <to>tháng 9/2016</to>
+    </n_562>
+  </experience>
+  <education>
+    <n_405>
+      <id>405</id>
+      <school>Đại học Văn Hóa Tp.HCM</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Văn hóa Việt Nam</fieldofstudy>
+      <from>năm 2014</from>
+      <to>năm 2017</to>
+    </n_405>
+  </education>
+  <savedjob>
+    <total>1</total>
+    <strjo>140</strjo>
+  </savedjob>
+</information>

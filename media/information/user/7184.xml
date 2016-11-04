@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7184</id>
+      <email>Trucanhpham95@gmail.com</email>
+      <username/>
+      <name>Phạm  Hoàng Trúc Anh</name>
+      <im>1477107761_pham-hoang-truc-anh.png</im>
+      <gender>0</gender>
+      <phone>0908097706</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477107761</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phụ bếp bánh</title>
+      <experience>1</experience>
+      <category>14,17,35</category>
+      <type>1</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill>Tiếp thu nhanh, thích làm bánh , đã qua lớp bánh </skill>
+      <ui>7184</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>418</strjo>
+  </appliedjob>
+</information>

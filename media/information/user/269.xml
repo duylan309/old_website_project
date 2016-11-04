@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>269</id>
+      <email>cuc.mai89@gmail.com</email>
+      <username/>
+      <name>Mai Thị Thủy Cúc</name>
+      <im>269_proflie.jpg</im>
+      <gender>2</gender>
+      <phone>0169 8833 359</phone>
+      <address>2737/47/4 Phạm Thế Hiển st. Ward 07, District 08 </address>
+      <city>30</city>
+      <dob>1989-3-8</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1467873804</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>8</day>
+      <month>3</month>
+      <year>1989</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_14>
+      <id>14</id>
+      <title>Store Manager</title>
+      <level>1</level>
+      <cmpname>Kito’s Cafe Food and Drink</cmpname>
+      <city>Hồ Chí Minh City</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_14>
+    <n_16>
+      <id>16</id>
+      <title>Assistant Manager</title>
+      <level>1</level>
+      <cmpname>Saigon Cooking Class by Hoa Tuc</cmpname>
+      <city>Hồ Chí Minh City</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>2015</to>
+    </n_16>
+    <n_17>
+      <id>17</id>
+      <title>Assistant Store Manager</title>
+      <level>1</level>
+      <cmpname>Highlands Coffee-Cao Nguyên Join Stock Company</cmpname>
+      <city>Hồ Chí Minh City</city>
+      <country>Việt Nam</country>
+      <from>2011</from>
+      <to>2014</to>
+    </n_17>
+  </experience>
+  <education>
+    <n_13>
+      <id>13</id>
+      <school>Hoa Sen University</school>
+      <degrees>College</degrees>
+      <fieldofstudy>Hospitality Management</fieldofstudy>
+      <from>2007</from>
+      <to>2012</to>
+    </n_13>
+  </education>
+  <user_cv>
+    <db>
+      <ui>269</ui>
+      <title>Restaurant Manager, Store Manager</title>
+      <category>14,15,17</category>
+      <location>30</location>
+      <type>1</type>
+      <level>5</level>
+      <experience>5</experience>
+      <lang>en</lang>
+      <s1>400</s1>
+      <salary>2</salary>
+      <skill>- Time Management.&#13;
+- Forecasting material and  PARs Level basic knowledge.                                                                                           - Spoken English fluency and good at listening, writing.&#13;
+- P&amp;L, Payroll Control, Report Skills.                                                                                                                                              - Ability to up-selling items&#13;
+- Communication, negotiation, presentation skills.&#13;
+- Ability to work under pressure and meet deadline.						                                           - Ability to handle guest complaints.			&#13;
+- Planning and organizing skills.&#13;
+- Building and developing team                                                                                                                                                                                                  - Have a high sense of responsibility. &#13;
+- Open to new ideas.&#13;
+- Computer skills: POS, Microsoft Office, Google app…&#13;
+</skill>
+      <s2>8800000</s2>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>68</strjo>
+  </appliedjob>
+</information>

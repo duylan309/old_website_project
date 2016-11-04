@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2757</id>
+      <email>nguyenngocgiaotrinh29091997@gmail.com</email>
+      <username/>
+      <name>Nguyễn Ngọc Giao Trinh</name>
+      <im>2757_13607038-587327008094907-5247414655904316992-n.jpg</im>
+      <gender>2</gender>
+      <phone>0902024367</phone>
+      <address>đường khuông việt phường phú trung quận tân phú</address>
+      <city>30</city>
+      <dob>1997-9-29</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473865557</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1473865557</last_signin>
+      <day>29</day>
+      <month>9</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7758456</lat>
+      <lng>106.6392373</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>2757</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>1</experience>
+      <category>15,30</category>
+      <type>2,4,5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>hiện là sinh viên cao đẳng kinh tế đối ngoại, năm 2, khoa thương mại quốc tế chuyên ngành xuất nhập khẩu</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>64,214,168</strjo>
+  </appliedjob>
+</information>

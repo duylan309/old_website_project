@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6603</id>
+      <email>dieuhuong.pr@gmail.com</email>
+      <username/>
+      <name>Phan Thu Hương</name>
+      <im>10206057279104728_kaori-phan.jpg</im>
+      <gender>2</gender>
+      <dob>1991-5-6</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476713203</created>
+      <day>6</day>
+      <month>5</month>
+      <year>1991</year>
+      <last_signin>1476713203</last_signin>
+      <phone>01656220198</phone>
+      <address>105/49 nguyễn tư giản - gò vấp</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8337106</lat>
+      <lng>106.6364593</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6603</ui>
+      <title>Nhân viên phục vụ/tạp vụ bếp</title>
+      <experience>1</experience>
+      <category>14,15,17,20,28,29,31,35,36</category>
+      <type>1,2,4,5,6</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Ham học hỏi, linh hoạt, thích ứng nhanh, muốn rèn luyện kiên nhẫn</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>164,165,419,268</strjo>
+  </appliedjob>
+</information>

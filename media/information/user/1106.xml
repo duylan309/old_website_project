@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1106</id>
+      <email>nguyennguyen140596@gmail.com</email>
+      <username/>
+      <name>Nguyễn Lý Quỳnh Chân</name>
+      <im>1106_13487453-299265267074730-849267158-n-3-.jpg</im>
+      <gender>2</gender>
+      <phone>0945504346</phone>
+      <address>304/60 Bùi Đình Tuý, phường 12, quận Bình Thạnh, tp. Hồ Chí Minh</address>
+      <city>30</city>
+      <dob>1996-5-14</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471752528</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <day>14</day>
+      <month>5</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.808312</lat>
+      <lng>106.706766</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_176>
+      <id>176</id>
+      <school>Đại học Công Nghệ Thành phố Hồ Chí Minh</school>
+      <degrees/>
+      <fieldofstudy>Anh văn thương mại</fieldofstudy>
+      <from>2014</from>
+      <to>2017</to>
+    </n_176>
+  </education>
+  <experience>
+    <n_264>
+      <id>264</id>
+      <title>Barista, Cashier</title>
+      <level>1</level>
+      <cmpname>Fresh Origin, Tractor, Passio,..</cmpname>
+      <city>HCM</city>
+      <country>VN</country>
+      <from>12/2014</from>
+      <to>07/2016</to>
+    </n_264>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>1106</ui>
+      <title>Nhân viên pha chế cà phê</title>
+      <experience>2</experience>
+      <category>14,15,17,27,29,31,35</category>
+      <type>1,4</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <skill>Kỹ năng giao tiếp tốt, chuyên dùng máy pos của cashier, chịu được áp lực công việc,  kỹ năng xử lý tình huống, kỹ năng chăm sóc khách hàng, trung thực, có tinh thần làm việc nhóm,...</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>126,163,165,119,169,106</strjo>
+  </appliedjob>
+</information>

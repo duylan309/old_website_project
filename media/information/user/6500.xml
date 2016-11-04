@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6500</id>
+      <email>Quocbao98@gmail.com</email>
+      <username/>
+      <name>Trương quốc bảo</name>
+      <im>6500_img-2219.JPG</im>
+      <gender>1</gender>
+      <phone>0933176525</phone>
+      <address>102 đường tân hưng phường 15 quận 5</address>
+      <city>30</city>
+      <dob>1998-9-26</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476638354</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476638354</last_signin>
+      <day>26</day>
+      <month>9</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7547776</lat>
+      <lng>106.6559005</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6500</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>7</experience>
+      <category>14,15,35</category>
+      <type>2,4,5</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about></about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>301,427,476,348,349</strjo>
+  </appliedjob>
+</information>

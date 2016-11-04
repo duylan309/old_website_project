@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3861</id>
+      <email>hoabuict@gmail.com</email>
+      <username/>
+      <name>Hoa</name>
+      <im>1801057053499212_hoa.jpg</im>
+      <gender>2</gender>
+      <dob>1994-10-2</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474877378</created>
+      <day>2</day>
+      <month>10</month>
+      <year>1994</year>
+      <phone>0908301254</phone>
+      <address>đường 61, p. phước long B, q. 9</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.832458</lat>
+      <lng>106.7689989</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>pha chế</title>
+      <experience>7</experience>
+      <category>14,15,18,20</category>
+      <type>1,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill></skill>
+      <ui>3861</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>312</strjo>
+  </appliedjob>
+</information>

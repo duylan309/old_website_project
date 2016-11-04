@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7829</id>
+      <email>caonguyentramanh0905@gmail.com</email>
+      <username/>
+      <name>Cao Nguyễn Trâm Anh</name>
+      <im>195205484258171_cao-nguyen-tram-anh.jpg</im>
+      <gender>2</gender>
+      <dob>1996-9-22</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477472760</created>
+      <day>22</day>
+      <month>9</month>
+      <year>1996</year>
+      <phone>01663149943</phone>
+      <address>02,Cù Chính Lan,p13, Tân Bình</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8052726</lat>
+      <lng>106.6456359</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>1</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill>Biết set up, đón khách và phục vụ khách</skill>
+      <ui>7829</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>20 tuổi, năng động,linh hoạt trong mọi việc. Nhanh nhẹn,tiếp thu nhanh,là người cầu tiến,vui vẻ</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>364</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>4</total>
+    <strjo>364,501,484,495</strjo>
+  </savedjob>
+</information>

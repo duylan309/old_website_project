@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4181</id>
+      <email>kostars203@gmail.com</email>
+      <username/>
+      <name>Phan Tuấn Kiệt</name>
+      <im>845205492282821_phan-tuan-kiet.jpg</im>
+      <gender>1</gender>
+      <dob>1994-3-20</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475006479</created>
+      <day>20</day>
+      <month>3</month>
+      <year>1994</year>
+      <phone>01642907320</phone>
+      <address>661 Xô Viết Nghệ Tĩnh, Phường 26, Q. Bình Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.811153</lat>
+      <lng>106.7141055</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>4181</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>8</total>
+    <strjo>172,105,252,219,222,294,478,383</strjo>
+  </appliedjob>
+  <education>
+    <n_672>
+      <id>672</id>
+      <school>Trường ĐH Công Nghệ TPHCM</school>
+      <degrees/>
+      <fieldofstudy>Cơ - Điện tử</fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_672>
+  </education>
+  <savedjob/>
+</information>

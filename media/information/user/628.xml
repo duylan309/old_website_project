@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>628</id>
+      <email>white_rose9x33@yahoo.com</email>
+      <username/>
+      <name>Vy Genji</name>
+      <im>1182269375127390_vy-genji.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470712370</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <education>
+    <n_87>
+      <id>87</id>
+      <school>Cao Đẳng Kinh tế TPHCM.</school>
+      <degrees>Trung cấp.</degrees>
+      <fieldofstudy>Kế toán</fieldofstudy>
+      <from>2010</from>
+      <to>2013</to>
+    </n_87>
+    <n_88>
+      <id>88</id>
+      <school>Dạy nghề Thăng Long</school>
+      <degrees>Chứng nhận.</degrees>
+      <fieldofstudy>Nhà hàng khách sạn.</fieldofstudy>
+      <from>2014</from>
+      <to>2015</to>
+    </n_88>
+  </education>
+  <experience>
+    <n_121>
+      <id>121</id>
+      <title>Bảo tàng tranh 3D Artinus</title>
+      <level>1</level>
+      <cmpname>Cty TNHH Artinus</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_121>
+    <n_122>
+      <id>122</id>
+      <title>Kế toán bán thời gian.</title>
+      <level>1</level>
+      <cmpname>nhà hàng SAKURA, Quận 1</cmpname>
+      <city>Ho chi minh</city>
+      <country>Vietnam</country>
+      <from>2013</from>
+      <to>2014</to>
+    </n_122>
+    <n_123>
+      <id>123</id>
+      <title>Thu ngân, bán hàng.</title>
+      <level>1</level>
+      <cmpname>-	Công ty TNHH Truyền thông MEGASTAR nay là Tập đoàn CJ CGV Việt Nam.</cmpname>
+      <city>Ho chi minh</city>
+      <country>Vietnam</country>
+      <from>2013</from>
+      <to>2014</to>
+    </n_123>
+    <n_124>
+      <id>124</id>
+      <title>Nhân viên phục vụ.</title>
+      <level>1</level>
+      <cmpname>Công ty Cổ phần Dịch vụ Cà Phê Cao Nguyên</cmpname>
+      <city>Ho chi minh</city>
+      <country>Vietnam</country>
+      <from>2010</from>
+      <to>2012</to>
+    </n_124>
+  </experience>
+</information>

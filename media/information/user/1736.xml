@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1736</id>
+      <email>nhile170297@gmail.com</email>
+      <username/>
+      <name>Lê Nguyễn Phương Nhi</name>
+      <im>1736_image.jpeg</im>
+      <gender>2</gender>
+      <phone>01289849640</phone>
+      <address>498/1/23 Lê Quang Định, phường 1, quận Gò Vấp</address>
+      <city>30</city>
+      <dob>1997-2-17</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472839181</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>17</day>
+      <month>2</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.81612</lat>
+      <lng>106.6900299</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ </title>
+      <experience>7</experience>
+      <category>14,15,17,20,27,29,35</category>
+      <type>1,2,3,4,5,6</type>
+      <level>1,2,3,4,5</level>
+      <lang>vi,en</lang>
+      <skill>Kỹ năng chăm sóc khách hàng&#13;
+Nhiệt tình, Trung thực&#13;
+Tinh thần làm việc nhóm</skill>
+      <ui>1736</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword>Kỹ năng chăm sóc khách hàng,Giao tiếp hiệu quả,Kỹ năng giải quyết tình huống</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>172,107,105</strjo>
+  </appliedjob>
+  <education>
+    <n_273>
+      <id>273</id>
+      <school>Đại học Ngân Hàng Thành Phố Hồ Chí Minh</school>
+      <degrees/>
+      <fieldofstudy>Tài chính - Ngân Hàng</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_273>
+  </education>
+  <experience>
+    <n_374>
+      <id>374</id>
+      <title>Nhân viên chăm sóc khách hàng</title>
+      <level>1</level>
+      <cmpname>TCS Hà Nội - chi nhánh Miền Nam</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>10/2015</from>
+      <to>4/2016</to>
+    </n_374>
+  </experience>
+</information>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1352</id>
+      <email>hoaitruc2000@gmail.com</email>
+      <username/>
+      <name>Hoài Trúc</name>
+      <im>1835827299988840_hoai-truc.jpg</im>
+      <gender>2</gender>
+      <dob>1999-5-19</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472150114</created>
+      <day>19</day>
+      <month>5</month>
+      <year>1999</year>
+      <phone>01217219039</phone>
+      <address>322/21/10/2  minh phụng F2 Q11</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.757629</lat>
+      <lng>106.644527</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục vụ</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Không có , nhưng bù lại tôi siêng năng vui vẻ , hoà đồng . </skill>
+      <ui>1352</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>168</strjo>
+  </appliedjob>
+  <education>
+    <n_219>
+      <id>219</id>
+      <school>Trung cấp quang trung</school>
+      <degrees>Cấp 3</degrees>
+      <fieldofstudy>Điều dưỡng</fieldofstudy>
+      <from>2016</from>
+      <to>2018</to>
+    </n_219>
+  </education>
+</information>

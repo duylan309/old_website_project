@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7605</id>
+      <email>Haulechef89@gmail.com</email>
+      <username/>
+      <name>Lê văn hậu</name>
+      <im>1477325765_le-van-hau.png</im>
+      <gender>1</gender>
+      <phone>0971894042</phone>
+      <address></address>
+      <city></city>
+      <dob>1989-2-18</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477325765</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>18</day>
+      <month>2</month>
+      <year>1989</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Đầu bếp</title>
+      <experience>4</experience>
+      <category>14</category>
+      <type>1,5</type>
+      <level>4</level>
+      <lang>vi</lang>
+      <skill>Có thê ra món mơi . Quản lý nhân sư , công việc</skill>
+      <ui>7605</ui>
+      <s1>7000000</s1>
+      <salary>1</salary>
+      <about>Lê văn hậu &#13;
+Sinh năm 1989 &#13;
+Đã có gia đình</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>441</strjo>
+  </appliedjob>
+  <experience>
+    <n_1487>
+      <id>1487</id>
+      <title>Bêp trương</title>
+      <level>1</level>
+      <cmpname>Nhà hàng mamacook 43 bùi thị xuân</cmpname>
+      <city>Hô chí minh </city>
+      <country>Việt nam</country>
+      <from>2011</from>
+      <to>2016</to>
+    </n_1487>
+  </experience>
+  <education>
+    <n_1235>
+      <id>1235</id>
+      <school>Trung học cơ sơ cam an bắc</school>
+      <degrees>9/12</degrees>
+      <fieldofstudy>Đầu bếp</fieldofstudy>
+      <from>2011</from>
+      <to>2016</to>
+    </n_1235>
+  </education>
+</information>

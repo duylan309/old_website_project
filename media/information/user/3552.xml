@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3552</id>
+      <email>thuyvydoan.2905@gmail.com</email>
+      <username/>
+      <name>Đoàn Thị Thúy Vy</name>
+      <im>1474691821_doan-thi-thuy-vy.png</im>
+      <gender>0</gender>
+      <phone>01203327570</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474691821</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, thu ngân</title>
+      <experience>1</experience>
+      <category>15,29</category>
+      <type>2</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill>Giao tiếp, làm việc nhóm ...</skill>
+      <ui>3552</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>215</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>341</id>
+    <ui>3089</ui>
+    <name>La Bodega</name>
+    <url>labodegasaigon</url>
+    <im>_la-bodega.jpg</im>
+    <im_banner>_la-bodega-cover.png</im_banner>
+    <category>14,16</category>
+    <phone>01207573288</phone>
+    <address>11 Xuân Thủy, Thảo Điền, Quận 2</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.802087</lat>
+    <lng>106.738213</lng>
+    <website></website>
+    <about/>
+    <facebook>fb://page/?id=557191647793214</facebook>
+    <facebook_cover/>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1474265313</created>
+  </db>
+  <more>
+    <about>La Bodega is the new bar to have some late drinks or delicious tapas in Thao Dien,\r\nIt is open all night long, Welcome and come enjoy our new bar !</about>
+    <whyworkus/>
+  </more>
+  <companybanner>_la-bodega-cover.png</companybanner>
+  <totalJob>
+    <total>1</total>
+    <strji>300</strji>
+  </totalJob>
+</information>

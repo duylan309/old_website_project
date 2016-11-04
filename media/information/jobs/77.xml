@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>77</id>
+    <ui>245</ui>
+    <ci>199</ci>
+    <ai>0</ai>
+    <ti>Nhân viên bán hàng</ti>
+    <ta></ta>
+    <le>3</le>
+    <ty>5</ty>
+    <ex>1,2</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo></lo>
+    <co>vn</co>
+    <ca>17</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description></description>
+    <requirement></requirement>
+    <de>2016-07-04</de>
+    <re>0000-00-00</re>
+    <cr>1467623264</cr>
+  </db>
+  <more>
+    <description>- Giới thiệu và tư vấn về sản phẩm với khách hàng&#13;
+- Theo dõi tình hình hàng hoá&#13;
+- Đảm bảo vệ sinh sạch sẽ khu vực bán hàng</description>
+    <requirement>Tốt nghiệp lớp 12</requirement>
+  </more>
+</information>

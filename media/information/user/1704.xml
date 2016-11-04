@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1704</id>
+      <email>thupham591992@gmail.com</email>
+      <username/>
+      <name>Phạm Thị Thanh Thư</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0938396167</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472796473</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Batender, Barista..</title>
+      <experience>1</experience>
+      <category>14,15,17,18,20,29</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>1704</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>195</strjo>
+  </appliedjob>
+</information>

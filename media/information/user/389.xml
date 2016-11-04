@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>389</id>
+      <email>toanvan1104@gmail.com</email>
+      <username/>
+      <name>Đặng Thị Toàn Vân</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0906908575</phone>
+      <address>713/51/41 Lê Đức Thọ, phường 16, Quận Gò Vấp</address>
+      <city>30</city>
+      <dob>1994-4-11</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470015323</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>11</day>
+      <month>4</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8492239</lat>
+      <lng>106.6658628</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_49>
+      <id>49</id>
+      <title>Lễ tân</title>
+      <level>1</level>
+      <cmpname>Công Ty TNHH Thương Mại Dịch vụ Bất động sản BEL ABRI</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>06/2016</from>
+      <to>08/2016</to>
+    </n_49>
+    <n_50>
+      <id>50</id>
+      <title>Thực tập sinh</title>
+      <level>1</level>
+      <cmpname>Công ty Trách nhiệm Hữu hạn AJE Việt Nam</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>04/2016</from>
+      <to>06/2016</to>
+    </n_50>
+    <n_51>
+      <id>51</id>
+      <title>Nhân viên phục vụ part-time</title>
+      <level>1</level>
+      <cmpname>Anni coffee</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>07/2015</from>
+      <to>09/2015</to>
+    </n_51>
+  </experience>
+  <education>
+    <n_37>
+      <id>37</id>
+      <school>Đại học Khoa học Xã hội và Nhân văn</school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy>Ngữ văn Tây Ban Nha</fieldofstudy>
+      <from>09/2012</from>
+      <to>12/2016</to>
+    </n_37>
+  </education>
+  <user_cv>
+    <db>
+      <ui>389</ui>
+      <title>HR staff</title>
+      <experience>7</experience>
+      <category>14,18,20,28</category>
+      <type>1</type>
+      <level>2,3</level>
+      <lang>vi,en,sp</lang>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Tinh thần trách nhiệm,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Tinh thần làm việc nhóm,Nhiệt tình,Kỹ năng chăm sóc khách hàng</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>95</strjo>
+  </appliedjob>
+</information>

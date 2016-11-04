@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>268</id>
+    <ui>1089</ui>
+    <name>Cafe Coc</name>
+    <url>Coccafe</url>
+    <im/>
+    <im_banner/>
+    <category>15</category>
+    <phone/>
+    <address>641, Trần Hưng Đạo, Quận 5</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.756068</lat>
+    <lng>106.684647</lng>
+    <website/>
+    <about/>
+    <facebook/>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>0</fb_load_newfeed>
+    <fb_load_photo>0</fb_load_photo>
+    <created>1471700387</created>
+  </db>
+  <more>
+    <about/>
+    <whyworkus/>
+  </more>
+  <companybanner/>
+  <totalJob>
+    <total>1</total>
+    <strji>169</strji>
+  </totalJob>
+</information>

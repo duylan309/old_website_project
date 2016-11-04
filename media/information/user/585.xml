@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>585</id>
+      <email>ylennguyen7919@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Y Len</name>
+      <im>1180253998699526_ylen-nguyen.jpg</im>
+      <gender>2</gender>
+      <dob>1998-4-5</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470583541</created>
+      <day>5</day>
+      <month>4</month>
+      <year>1998</year>
+      <phone>01282881863</phone>
+      <address>194/19/48 Bạch Đằng, P.24, Q.Bình Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.804185</lat>
+      <lng>106.705254</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>585</ui>
+      <title>Nhân viên phục vụ, nhân viên bán hàng</title>
+      <experience>7</experience>
+      <category>15,29,35</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <skill></skill>
+      <keyword>Giao tiếp hiệu quả,Tinh thần trách nhiệm,Tập trung trong công việc,Trung thực,Tự tin,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+</information>

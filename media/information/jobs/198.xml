@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>198</id>
+    <ui>567</ui>
+    <ci>247</ci>
+    <ai>0</ai>
+    <ti>phục vụ nam-nữ</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1,2,4,5</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>3000000</s1>
+    <s2>5000000</s2>
+    <s3>136</s3>
+    <s4>227</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>67</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-10-06</de>
+    <re>0000-00-00</re>
+    <cr>1472199099</cr>
+  </db>
+  <more>
+    <requirement>- Tuổi: từ 18 - 30 tuổi&#13;
+- Thời gian làm việc: ca sáng (8:30 - 16:30) hoặc ca tối (14:00 - 22:00),bán thời gian (10:00 - 14:00),(18:00-21:00)&#13;
+- Lương thỏa thuận + Tips &#13;
+-  Có thể sắp xếp ngày nghỉ cố định để phù hợp với lịch cá nhân, &#13;
+- Một tháng day off 2 ngày&#13;
+++ Kỹ Năng:&#13;
+- Có kiến thức cơ bản về nhà hàng,  biết cách sử dụng các thiết bị,  dụng cụ phục vụ trong hàng, &#13;
+- Có khả năng tiếp thu sự đào tạo của cấp trên và học hỏi từ các đồng nghiệp, &#13;
+- Có khả năng làm việc theo nhóm và chịu được áp lực công việc cao&#13;
+&#13;
+++Kiến thức:&#13;
+Có hiểu biết cơ bản về phục vụ, &#13;
+Tiếng Anh nghe,  nói lưu loát</requirement>
+    <description>Take order khách.&#13;
+Phục vụ theo quy trình chuẩn của nhà hàng khách sạn ( được ban quản lí training và đào tạo.&#13;
+Học hỏi và nâng cao tay nghề kĩ năng.&#13;
+</description>
+    <benefit>làm việc 7h30 một ngày.&#13;
+ăn cơm tại nhà hàng.&#13;
+1 tháng off 2 ngày.&#13;
+Thăng tiến nhanh với nhiều vị trí trong mô hình chuỗi.</benefit>
+    <keyword>phục vụ nhà hàng-khách sạn</keyword>
+  </more>
+  <userapplied>
+    <total>2</total>
+    <strui>1911,5271</strui>
+  </userapplied>
+</information>

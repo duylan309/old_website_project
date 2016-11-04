@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7362</id>
+      <email>truongnhom79@gmail.com</email>
+      <username/>
+      <name>Phan Hoàng Việt</name>
+      <im/>
+      <gender>1</gender>
+      <phone>01223661561</phone>
+      <address>57/4D Ấp Hậu Lân, xã Bà Điểm, huyện Hóc Môn</address>
+      <city></city>
+      <dob>1998-2-3</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477207207</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>3</day>
+      <month>2</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục Vụ, Thu ngân</title>
+      <experience>7</experience>
+      <category>14,15</category>
+      <type>6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill>Giao tiếp anh văn tốt, dễ thích nghi, dễ học hỏi</skill>
+      <ui>7362</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>SInh viên năm nhất Đại Học Hoa Sen</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>171</strjo>
+  </appliedjob>
+</information>

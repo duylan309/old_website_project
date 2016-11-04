@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1072</id>
+      <email>truonglaga369@yahoo.com</email>
+      <username/>
+      <name>Trường Tí Tẹo</name>
+      <im>623243657843427_truong-ti-teo.jpg</im>
+      <gender>1</gender>
+      <dob>1998-4-7</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471679605</created>
+      <day>7</day>
+      <month>4</month>
+      <year>1998</year>
+      <phone>01208764569</phone>
+      <address>132 đường số 1 Phường Tân Phú Quận 7</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7369388</lat>
+      <lng>106.7182527</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>1072</ui>
+      <title>Phụ bếp</title>
+      <experience>7</experience>
+      <category>14</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <skill>Khả năng giao tiếp tốt </skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <savedjob>
+    <total>2</total>
+    <strjo>153,154</strjo>
+  </savedjob>
+  <appliedjob>
+    <total>2</total>
+    <strjo>153,154</strjo>
+  </appliedjob>
+</information>

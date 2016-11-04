@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>859</id>
+      <email>phuctoanquan@gmail.com</email>
+      <username/>
+      <name>Quan Phúc Toàn</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0938212025</phone>
+      <address>45/55, lầu 2, Trần Hưng Đạo, P. Nguyễn Thái Bình, Q.1</address>
+      <city>30</city>
+      <dob>1996-11-9</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471321394</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>9</day>
+      <month>11</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7696308</lat>
+      <lng>106.6968153</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>15,16</category>
+      <type>4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Tin học</skill>
+      <ui>859</ui>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>100</strjo>
+  </appliedjob>
+  <experience>
+    <n_201>
+      <id>201</id>
+      <title>Nhân viên Phục vụ</title>
+      <level>1</level>
+      <cmpname>Elysium Cafe</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>2015</to>
+    </n_201>
+  </experience>
+  <education>
+    <n_135>
+      <id>135</id>
+      <school>Đại học Ngoại ngữ - Tin học Thành phố Hồ Chí Minh (HUFLIT)</school>
+      <degrees/>
+      <fieldofstudy>Marketing</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_135>
+  </education>
+</information>

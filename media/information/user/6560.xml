@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6560</id>
+      <email>tamnhu.tnpt@gmail.com</email>
+      <username/>
+      <name>TamNhu Pham</name>
+      <im>697475453741239_tamnhu-pham.jpg</im>
+      <gender>2</gender>
+      <dob>1995-5-8</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476692613</created>
+      <day>8</day>
+      <month>5</month>
+      <year>1995</year>
+      <phone>01226560056</phone>
+      <address>c2 Bình Hưng Bình Chánh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7224441</lat>
+      <lng>106.655957</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1478>
+      <id>1478</id>
+      <title>Thực tập sinh, Cộng tác viên.</title>
+      <level>1</level>
+      <cmpname>Trung tâm ngoại ngữ và du học ULI, ADVO VN, trường quốc tế anh ngữ Epseed.</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam.</country>
+      <from>tháng 3.2016</from>
+      <to>tháng 10.2016</to>
+    </n_1478>
+  </experience>
+  <education>
+    <n_1229>
+      <id>1229</id>
+      <school>Đại học Văn Lang, Tomorro marketer</school>
+      <degrees>Cử nhân, chứng chỉ.</degrees>
+      <fieldofstudy>Công nghệ sinh học, marketing.</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_1229>
+  </education>
+  <user_cv>
+    <db>
+      <ui>6560</ui>
+      <title>Marketing ( coppy writer), phục vụ, pha chế.</title>
+      <experience>1</experience>
+      <category>14,15,17,18,27,29,31,35</category>
+      <type>2,3,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>2850000</s1>
+      <salary>1</salary>
+      <about>Mình tên là Phạm Trần Tâm Như, đến từ vùng đất Kiên Giang xinh đẹp. Mình học ngành công nghệ sinh học nhưng lại đam mê marketing và marketing là một định hướng nghề nghiệp lâu dài của mình. Khi rãnh rỗi mình thường nghe nhạc xem phim, cũng cố đôi khi xem quảng cáo và các case study lại là hình thức vừa giải trí vừa học hỏi mà mình lựa chọn. Cuối tuần thì mình hay cafe, trà sữa với bạn bè để tám cũng có mà để học hỏi lẫn nhau cũng có ^^. Quan niệm của mình là không có gì là không làm được quan trọng là ở bạn thân mình có kiên định và quyết tâm với mục tiêu hay không.</about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

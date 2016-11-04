@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3078</id>
+      <email>info@oldcompasscafe.com</email>
+      <username/>
+      <name>The Old Compass Cafe</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0938700094</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1474252013</created>
+      <dayleft>1479436013</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1474252013</last_signin>
+      <jobleft>3</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>2</total>
+    <strji>298,373</strji>
+  </totalJob>
+  <saveuser>
+    <total>23</total>
+    <strui>3201,3206,3265,3353,1773,3397,3416,3424,3451,425,3581,3609,3603,2476,3678,3704,3715,3877,3884,2026,4266,4343,4532</strui>
+  </saveuser>
+</information>

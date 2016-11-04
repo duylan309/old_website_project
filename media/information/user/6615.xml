@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6615</id>
+      <email>lamtruong19051994@gmail.com</email>
+      <username/>
+      <name>Trương Nguyễn Thanh Lam</name>
+      <im>1476724453_truong-nguyen-thanh-lam.png</im>
+      <gender>0</gender>
+      <phone>01648009067</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476724452</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>phụ bếp</title>
+      <experience>1</experience>
+      <category>14,18,20</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill> biết cơ bản bánh á, âu, bếp á, bếp âu, kiến thức chung về ẩm thực 3 miền, đăc biệt thích những món ăn Việt Nam</skill>
+      <ui>6615</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>360</strjo>
+  </appliedjob>
+</information>

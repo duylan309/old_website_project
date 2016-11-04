@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>6</id>
+    <ti_vi>Việc làm bán hàng</ti_vi>
+    <ti_en>Retail Jobs</ti_en>
+    <url>viec-lam-ban-hang</url>
+    <subject></subject>
+    <lo></lo>
+    <di></di>
+    <nat></nat>
+    <ca>17</ca>
+    <sa></sa>
+    <ty></ty>
+    <le></le>
+    <ex></ex>
+    <la></la>
+    <sort>3</sort>
+    <status>2</status>
+    <jobid></jobid>
+  </db>
+  <pagehtml>6_banner-retail-01.png</pagehtml>
+  <meta>
+    <title>
+      <vi>Việc làm bán hàng</vi>
+      <en>Retail jobs</en>
+    </title>
+    <desc>
+      <vi>Việc làm bán hàng</vi>
+      <en>retail jobs</en>
+    </desc>
+    <keyword>
+      <vi/>
+      <en/>
+    </keyword>
+  </meta>
+</information>

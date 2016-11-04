@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>422</id>
+    <ui>5170</ui>
+    <name>Hoang Cafe</name>
+    <url>hoangcafelevansy</url>
+    <im>_hoang-cafe.jpg</im>
+    <im_banner>_hoang-cafe-cover.jpg</im_banner>
+    <category>14,15</category>
+    <phone>0938383403</phone>
+    <address>351/45 Lê Văn Sỹ Q3</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.789368</lat>
+    <lng>106.676781</lng>
+    <website>&lt;&lt;not-applicable&gt;&gt;</website>
+    <about/>
+    <facebook>https://www.facebook.com/hoangcafelevansy/</facebook>
+    <facebook_cover/>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1477268084</created>
+  </db>
+  <more>
+    <about>Hoang cafe - quán cafe không gian cổ điển, chơi nhạc acoustic mỗi tối từ 20h30. &#13;
+Để đặt chỗ, vui lòng liên hệ: 0938383403 - 0987377318</about>
+    <whyworkus/>
+  </more>
+  <companybanner>_hoang-cafe-cover.jpg</companybanner>
+  <totalJob>
+    <total>1</total>
+    <strji>504</strji>
+  </totalJob>
+</information>

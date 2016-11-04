@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1915</id>
+      <email>chicken_noop89@yahoo.com</email>
+      <username/>
+      <name>Trinh Huu Thinh</name>
+      <im>1226267577426032_trinh-huu-thinh.jpg</im>
+      <gender>1</gender>
+      <dob>1989-12-13</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473063648</created>
+      <day>13</day>
+      <month>12</month>
+      <year>1989</year>
+      <last_signin>1473063648</last_signin>
+      <phone>0909556001</phone>
+      <address>111 van kiep , q3 , quan binh thanh</address>
+      <country>vn</country>
+      <city/>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <education>
+    <n_312>
+      <id>312</id>
+      <school>Sigon touis</school>
+      <degrees>Kha</degrees>
+      <fieldofstudy>Bep a</fieldofstudy>
+      <from>2015</from>
+      <to>2016</to>
+    </n_312>
+  </education>
+  <experience>
+    <n_432>
+      <id>432</id>
+      <title>Bep nong</title>
+      <level>1</level>
+      <cmpname>Khach san winso</cmpname>
+      <city>Ho chi minh</city>
+      <country>Viet nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_432>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>1915</ui>
+      <title>Bep nong</title>
+      <experience>3</experience>
+      <category>14</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <skill>Trao doi truc tiep khi phong van </skill>
+      <keyword>Trung thực</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>200,125</strjo>
+  </appliedjob>
+</information>

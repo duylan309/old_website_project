@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1120</id>
+      <email>nguyenanhtuan9a15@gmail.com</email>
+      <username/>
+      <name>Anhtuan Nguyen</name>
+      <im>937368219742099_anhtuan-nguyen.jpg</im>
+      <gender>1</gender>
+      <dob>1998-7-4</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471785657</created>
+      <day>4</day>
+      <month>7</month>
+      <year>1998</year>
+      <phone>0986031724</phone>
+      <address>443 street 10 ward 8 Go Vap district</address>
+      <country>vn</country>
+      <city/>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>1120</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,18,27</category>
+      <type>5,6</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Chịu được áp lực công việc,Tinh thần trách nhiệm,Trung thực</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>162,100,150</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>3</total>
+    <strjo>162,171,150</strjo>
+  </savedjob>
+</information>

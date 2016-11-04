@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3884</id>
+      <email>dinhthuanphat2712@gmail.com</email>
+      <username/>
+      <name>Đinh Thuận Phát</name>
+      <im>1035627073224458_phat-dinh.jpg</im>
+      <gender>1</gender>
+      <dob>1998-1-2</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474883890</created>
+      <day>2</day>
+      <month>1</month>
+      <year>1998</year>
+      <phone>01625166366</phone>
+      <address>46 đường 10 phường Bình Trưng Đông quận 2 </address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.804516</lat>
+      <lng>106.7462976</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,17,35</category>
+      <type>2,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Tự tin nhanh nhẹn có trách nhiệm hoà đồng</skill>
+      <ui>3884</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>trung thực, giải quyết tình huống nhanh chóng, hợp lý</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>15</total>
+    <strjo>338,267,181,298,150,69,84,378,344,350,154,79,162,130,100</strjo>
+  </appliedjob>
+</information>

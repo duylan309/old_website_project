@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>171</id>
+    <ui>224</ui>
+    <ci>248</ci>
+    <ai>0</ai>
+    <ti>Nhân viên phục vụ </ti>
+    <ta/>
+    <le>2</le>
+    <ty>1,4</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description/>
+    <requirement>- Giới tính: Nam\r\n- Tuổi: từ 18 - 30 tuổi\r\n- Thời gian làm việc: ca tối (15:00 - 23:00) hoặc ca gãy (10:00 - 14:00 &amp; 17:00 - 23:00)\r\n- Lương thỏa thuận + Tips + Service charge\r\n- Tuần làm việc 6 ngày/tuần. Có thể sắp xếp ngày nghỉ cố định để phù hợp với lịch cá nhân.\r\n\r\n++ Kỹ Năng:\r\n- Có kiến thức cơ bản về nhà hàng, biết cách sử dụng các thiết bị, dụng cụ phục vụ trong hàng.\r\n- Có khả năng tiếp thu sự đào tạo của cấp trên và học hỏi từ các đồng nghiệp.\r\n- Có khả năng làm việc theo nhóm và chịu được áp lực công việc cao\r\n\r\n++Kiến thức:\r\nCó hiểu biết cơ bản về phục vụ.\r\nTiếng Anh nghe, nói lưu loát\r\n\r\n</requirement>
+    <benefit>-	Lương, thưởng theo chế độ công ty\r\n-	Service charge\r\n-	Được hướng dẫn nghiệp vụ khi bắt đầu làm việc.\r\n-	Thử việc 2 tháng\r\n-	Các chế độ bảo hiểm theo quy định của nhà nước.\r\n-	Làm việc tại Quận 1, TP.Hồ Chí Minh</benefit>
+    <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Trung thực,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+    <ad/>
+    <location_id>68</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-06</de>
+    <re>0000-00-00</re>
+    <cr>1471843347</cr>
+  </db>
+  <more>
+    <requirement>- Giới tính: Nam&#13;
+- Tuổi: từ 18 - 30 tuổi&#13;
+- Thời gian làm việc: ca tối (15:00 - 23:00) hoặc ca gãy (10:00 - 14:00 &amp; 17:00 - 23:00)&#13;
+- Lương thỏa thuận + Tips + Service charge&#13;
+- Tuần làm việc 6 ngày/tuần. Có thể sắp xếp ngày nghỉ cố định để phù hợp với lịch cá nhân.&#13;
+&#13;
+++ Kỹ Năng:&#13;
+- Có kiến thức cơ bản về nhà hàng, biết cách sử dụng các thiết bị, dụng cụ phục vụ trong hàng.&#13;
+- Có khả năng tiếp thu sự đào tạo của cấp trên và học hỏi từ các đồng nghiệp.&#13;
+- Có khả năng làm việc theo nhóm và chịu được áp lực công việc cao&#13;
+&#13;
+++Kiến thức:&#13;
+Có hiểu biết cơ bản về phục vụ.&#13;
+Tiếng Anh nghe, nói lưu loát&#13;
+&#13;
+</requirement>
+    <description/>
+    <benefit>-	Lương, thưởng theo chế độ công ty&#13;
+-	Service charge&#13;
+-	Được hướng dẫn nghiệp vụ khi bắt đầu làm việc.&#13;
+-	Thử việc 2 tháng&#13;
+-	Các chế độ bảo hiểm theo quy định của nhà nước.&#13;
+-	Làm việc tại Quận 1, TP.Hồ Chí Minh</benefit>
+    <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Trung thực,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+  </more>
+  <userapplied>
+    <total>20</total>
+    <strui>1270,1302,1512,941,2257,2382,2546,2332,2733,2780,2995,4343,4613,4651,4150,5180,5460,7362,5633,7342</strui>
+  </userapplied>
+</information>

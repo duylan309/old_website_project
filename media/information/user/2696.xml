@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2696</id>
+      <email>hangtran.spk@gmail.com</email>
+      <username/>
+      <name>Trần Thanh Hằng</name>
+      <im>2696_received-1454368074590096.jpeg</im>
+      <gender>2</gender>
+      <phone>0902585357</phone>
+      <address>5/8, đường 2, khu phố 1, p. Linh Xuân, q. Thủ Đức</address>
+      <city>30</city>
+      <dob>1994-7-26</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473763344</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1473763344</last_signin>
+      <day>26</day>
+      <month>7</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8807879</lat>
+      <lng>106.7729355</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>2696</ui>
+      <title>Nhân viên bán hàng, phụ bếp,...</title>
+      <experience>1</experience>
+      <category>14,15,16,17,18,20,29,35</category>
+      <type>2,4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>250</s1>
+      <salary>2</salary>
+      <about>Bản thân là một người cẩn thận, chu đáo và tỉ mỉ, ưa sạch sẽ và hòa đồng, thân thiện, hay giúp đỡ mọi người.</about>
+      <skill>Kỹ năng giao tiếp, kỹ năng làm việc nhóm</skill>
+      <keyword>Tinh thần trách nhiệm,Tập trung trong công việc,Trung thực,Chịu được áp lực công việc</keyword>
+      <s2>5500000</s2>
+    </db>
+  </user_cv>
+  <education>
+    <n_433>
+      <id>433</id>
+      <school>Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh</school>
+      <degrees>Kỹ sư</degrees>
+      <fieldofstudy>Công nghệ Kỹ thuật Môi trường </fieldofstudy>
+      <from>09/2012</from>
+      <to>09/2016</to>
+    </n_433>
+  </education>
+  <appliedjob>
+    <total>1</total>
+    <strjo>78</strjo>
+  </appliedjob>
+</information>

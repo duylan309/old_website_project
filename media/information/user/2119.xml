@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2119</id>
+      <email>tia.do90@yahoo.com</email>
+      <username/>
+      <name>Đỗ Thị Thuý Nga</name>
+      <im>1213221072032295_dinh-dinh-kelly.jpg</im>
+      <gender>2</gender>
+      <dob>1990-3-29</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473250666</created>
+      <day>29</day>
+      <month>3</month>
+      <year>1990</year>
+      <last_signin>1473250666</last_signin>
+      <phone>0943666647</phone>
+      <address>100/37 thích quảng đức - Q.phú nhuận</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8045692</lat>
+      <lng>106.6833246</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_468>
+      <id>468</id>
+      <title>Thu ngân</title>
+      <level>1</level>
+      <cmpname>Karaoke</cmpname>
+      <city/>
+      <country/>
+      <from>02.2015</from>
+      <to>03.2016</to>
+    </n_468>
+    <n_469>
+      <id>469</id>
+      <title>Kế toán bán hàng</title>
+      <level>1</level>
+      <cmpname>Cty TNHH Techone</cmpname>
+      <city>Hcm</city>
+      <country/>
+      <from>05/2016</from>
+      <to>Nay</to>
+    </n_469>
+    <n_470>
+      <id>470</id>
+      <title>Chăm sóc khách hàng</title>
+      <level>1</level>
+      <cmpname>Cty quảng cáo New Day</cmpname>
+      <city>Hcm</city>
+      <country/>
+      <from>10/2013</from>
+      <to>12/2014</to>
+    </n_470>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>2119</ui>
+      <title>Thu ngân</title>
+      <experience>1</experience>
+      <category>14,15,16,17,20,26,29,30,31,35</category>
+      <type>1,4,6</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>249</strjo>
+  </appliedjob>
+</information>

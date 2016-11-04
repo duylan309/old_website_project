@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2898</id>
+      <email>nguyenthinhatanh1996@gmail.com</email>
+      <username/>
+      <name>Nguyễn Ngọc Dương</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01644939136</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474059578</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>phụ bếp</title>
+      <experience>7</experience>
+      <category>14</category>
+      <type>4</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill>đã được thực tập 2 tháng ở khách sạn Đệ Nhất</skill>
+      <ui>2898</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>188</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4968</id>
+      <email>yoyophus24@gmail.com</email>
+      <username/>
+      <name>Nguyễn Ngọc Ánh Minh</name>
+      <im>1475612866_nguyen-ngoc-anh-minh.png</im>
+      <gender>2</gender>
+      <phone>0903318349</phone>
+      <address>362/6B Ung Văn Khiêm phường 25 quận Bình Thạnh</address>
+      <city>30</city>
+      <dob>1994-10-24</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475612866</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>24</day>
+      <month>10</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.802546</lat>
+      <lng>106.7236</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Thu ngân</title>
+      <experience>2</experience>
+      <category>14,15,16,29,31,35</category>
+      <type>4,6</type>
+      <level>4</level>
+      <lang>vi,en</lang>
+      <skill>Kế toán tài chính , cửa hàng trưởng</skill>
+      <ui>4968</ui>
+      <s1>7000000</s1>
+      <salary>1</salary>
+      <about>Đã tốt nghiệp Đại học Công Nghệ TP HCM chuyên ngành Kế toán - Tài chính hệ Đại học chính quy &#13;
+Có 2 năm kinh nghiệm bán hàng tại các trung tâm thương mại (Diamon, Vincom, Thương Xá Tax,... ), 1 năm tại vị trí cửa hàng trưởng &#13;
+Có 2 năm kinh nghiệm ở vị trí thu ngân &amp; trợ lý kế toán tại nhà hàng, cà phê kịch Samaa quận 1 &#13;
+Với kinh nghiệm đã có, cùng với khả năng ngoại ngữ khá tốt, tinh thần làm việc có trách nhiệm, cẩn thận , chịu khó học hỏi và có tinh thần cầu tiến cao tronh công việc tôi xin được ứng tuyển vào vị trí thu ngân tại Quý công ty &#13;
+</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>142</strjo>
+  </appliedjob>
+  <experience>
+    <n_1039>
+      <id>1039</id>
+      <title>Thu ngân</title>
+      <level>1</level>
+      <cmpname>Công ty TNHH Samaa</cmpname>
+      <city>Hồ  Chí Minh</city>
+      <country>Việt Nam </country>
+      <from>2014</from>
+      <to>2016</to>
+    </n_1039>
+    <n_1040>
+      <id>1040</id>
+      <title>Cửa Hàng Trưởng</title>
+      <level>1</level>
+      <cmpname>Công ty TNHH Doma Vina</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2013</from>
+      <to>2014</to>
+    </n_1040>
+  </experience>
+  <education>
+    <n_828>
+      <id>828</id>
+      <school>Đại học Công Nghệ TP HCM</school>
+      <degrees>Đại học chính quy</degrees>
+      <fieldofstudy>Kế toán tài chính </fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_828>
+  </education>
+  <savedjob>
+    <total>1</total>
+    <strjo>142</strjo>
+  </savedjob>
+</information>

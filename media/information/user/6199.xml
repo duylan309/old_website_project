@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6199</id>
+      <email>phuongriddikulux@gmail.com</email>
+      <username/>
+      <name>Phương Đan Hồ</name>
+      <im>6199_fb-img-1476551091289.jpg</im>
+      <gender>2</gender>
+      <dob>1998-5-18</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476425996</created>
+      <day>18</day>
+      <month>5</month>
+      <year>1998</year>
+      <last_signin>1476425996</last_signin>
+      <phone>0943394847</phone>
+      <address>661 xô viết nghệ tĩnh, p.25, q.bình thạnh, tphcm</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7764745</lat>
+      <lng>106.7008831</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6199</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>7</experience>
+      <category>14,15,17,31,35</category>
+      <type>2,4,5,6</type>
+      <level>1,2</level>
+      <lang>vi</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7694</id>
+      <email>dung8314@gmail.com</email>
+      <username/>
+      <name>Nguyễn Hoàng Dung</name>
+      <im>1477401565_nguyen-hoang-dung.png</im>
+      <gender>0</gender>
+      <phone>01258899018</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477401565</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ, pha chế, lễ tân</title>
+      <experience>1</experience>
+      <category>14,15,17,29,31,35</category>
+      <type>2,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>giao tiếp ổn</skill>
+      <ui>7694</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>435</strjo>
+  </appliedjob>
+</information>

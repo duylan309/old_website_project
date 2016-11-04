@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3958</id>
+      <email>Hntt01081995@gmail.com</email>
+      <username/>
+      <name>Hồ Ngọc Thuý Trân</name>
+      <im>1474903172_ho-ngoc-thuy-tran.png</im>
+      <gender>0</gender>
+      <phone>0939666898</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474903172</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng</title>
+      <experience>7</experience>
+      <category>17</category>
+      <type>6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Thân thiện, hoà đồng, sử dụng thành thạo các phần mềm xã hội&#13;
+Có khả năng giao tiếp bằng tiếng anh&#13;
+&#13;
+&#13;
+</skill>
+      <ui>3958</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>124</strjo>
+  </appliedjob>
+</information>

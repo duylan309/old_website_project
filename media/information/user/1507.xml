@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1507</id>
+      <email>thuanmom104@gmail.com</email>
+      <username/>
+      <name>Thuận Nguyễn</name>
+      <im>888916644547120_thuan-nguyen.jpg</im>
+      <gender>1</gender>
+      <dob>1993-4-10</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472440718</created>
+      <day>10</day>
+      <month>4</month>
+      <year>1993</year>
+      <phone>01216352754</phone>
+      <address>666/28/31 3 tháng 2 phường 14 quận 10 </address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7700632</lat>
+      <lng>106.660639</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_329>
+      <id>329</id>
+      <title>Sale Excutive</title>
+      <level>1</level>
+      <cmpname>Công ty VHT</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>05/2016</from>
+      <to>07/2016</to>
+    </n_329>
+    <n_330>
+      <id>330</id>
+      <title>Intern</title>
+      <level>1</level>
+      <cmpname>Bút Vàng Media</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>10/2015</from>
+      <to>02/2016</to>
+    </n_330>
+  </experience>
+  <education>
+    <n_237>
+      <id>237</id>
+      <school>Đại học Mở TPHCM</school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy>Quản trị kinh doanh</fieldofstudy>
+      <from>2011</from>
+      <to>2015</to>
+    </n_237>
+  </education>
+  <user_cv>
+    <db>
+      <ui>1507</ui>
+      <title>Marketing Excutive</title>
+      <experience>7</experience>
+      <category>15,17,18,19,20,28,29,35</category>
+      <type>1,4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>5500000</s1>
+      <salary>1</salary>
+      <skill></skill>
+      <keyword>Trung thực,Tự tin,Nhiệt tình,Tinh thần làm việc nhóm,Tinh thần trách nhiệm,Giao tiếp hiệu quả</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>129</strjo>
+  </appliedjob>
+</information>

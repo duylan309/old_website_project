@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2555</id>
+      <email>minguyen1148@yahoo.com.vn</email>
+      <username/>
+      <name>Hain Ngô</name>
+      <im>1825848834366792_hain-ngo.jpg</im>
+      <gender>2</gender>
+      <dob>1993-8-4</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473660663</created>
+      <day>4</day>
+      <month>8</month>
+      <year>1993</year>
+      <phone>0914849149</phone>
+      <address>100a/101 dương bá trạc f2 q8 </address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.74765</lat>
+      <lng>106.686635</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên pha chế</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>2,4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Pha chế được cafe máy, cafe việt, soda, các loại trà, smoothie, các món đá xay thông dụng ..</skill>
+      <ui>2555</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword>Giao tiếp hiệu quả,Tập trung trong công việc,Nhiệt tình</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>195,222,106</strjo>
+  </appliedjob>
+</information>

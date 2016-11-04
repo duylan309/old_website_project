@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6446</id>
+      <email>Baotran160695@gmail.com</email>
+      <username/>
+      <name>Trần Bảo Trân</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01642074866</phone>
+      <address>119/7 Nguyễn Thị Thập, phường Tân Phú, quận 7</address>
+      <city>30</city>
+      <dob>1995-6-16</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476606019</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476606019</last_signin>
+      <day>16</day>
+      <month>6</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.736349</lat>
+      <lng>106.716284</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1295>
+      <id>1295</id>
+      <title>Bán hàng</title>
+      <level>1</level>
+      <cmpname>Công ty TNHH Bạch Quả</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>12/2014</from>
+      <to>4/2016</to>
+    </n_1295>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>6446</ui>
+      <title>Nhân viên bán hàng</title>
+      <experience>2</experience>
+      <category>15,35</category>
+      <type>3</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Năng động, nhiệt tình, hoà đồng, có tinh thần trách nhiệm</about>
+      <skill>Bán hàng, giao tiếp với khách nước ngoài</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>654</id>
+      <email>Ntnhi2407@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thanh Nhi</name>
+      <im>654_img-20151221-185335.jpg</im>
+      <gender>2</gender>
+      <phone>0933977051</phone>
+      <address>174/12 Phan Văn Hân, P17, Q.Bình Thạnh</address>
+      <city>30</city>
+      <dob>1994-7-24</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470744208</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>24</day>
+      <month>7</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.792117</lat>
+      <lng>106.708068</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Giám Sát</title>
+      <experience>2</experience>
+      <category>14,15,16,17,19,20,29</category>
+      <type>1,6</type>
+      <level>3,4,5</level>
+      <lang>vi,en</lang>
+      <skill>MS office . &#13;
+Làm báo cáo ca&#13;
+Kiểm kê hàng hóa&#13;
+Quản lý nhân sự, sắp xếp lịch làm việc cho nhân viên</skill>
+      <ui>654</ui>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Tinh thần trách nhiệm,Tinh thần làm việc nhóm,Tập trung trong công việc,Chịu được áp lực công việc,Kỹ năng giải quyết tình huống</keyword>
+      <about>Hòa đồng, năng động. Giọng nói dễ nghe, giao tiếp tốt. Thích du lịch, cafe đọc sách...</about>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>13</total>
+    <strjo>131,107,129,142,155,170,157,119,147,392,284,399,174</strjo>
+  </appliedjob>
+  <experience>
+    <n_138>
+      <id>138</id>
+      <title>Captian Thu Ngân</title>
+      <level>1</level>
+      <cmpname>Công ty CP TMDV Cổng Vàng</cmpname>
+      <city>Thành phố Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>Tháng 1/ 2015</from>
+      <to>Tháng 7/2016</to>
+    </n_138>
+    <n_284>
+      <id>284</id>
+      <title>Pha chế</title>
+      <level>1</level>
+      <cmpname>Viet Hung Food</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>Tháng 1/2013</from>
+      <to>Tháng 1/2015</to>
+    </n_284>
+  </experience>
+  <education>
+    <n_94>
+      <id>94</id>
+      <school>Đại học Tài Nguyên và Môi trường Tp. Hồ Chí Minh</school>
+      <degrees>Cao đẳng Chính Quy</degrees>
+      <fieldofstudy>Quản lý Môi trường</fieldofstudy>
+      <from>2013</from>
+      <to>2015</to>
+    </n_94>
+  </education>
+</information>

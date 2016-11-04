@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3944</id>
+      <email>vuhoang23997@yahoo.com</email>
+      <username/>
+      <name>Hoàng Kiều Vũ</name>
+      <im>670124493147877_hoang-kieu-vu.jpg</im>
+      <gender>1</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474898162</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Bán thời gian</title>
+      <experience>1</experience>
+      <category>29</category>
+      <type>5</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>3944</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>285</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6420</id>
+      <email>Tutran98er@gmail.com</email>
+      <username/>
+      <name>Trần thị thanh tú</name>
+      <im>1476548143_tran-thi-thanh-tu.png</im>
+      <gender>0</gender>
+      <phone>01232833049</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476548143</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14</category>
+      <type>2,4,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>6420</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>364</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>364</strjo>
+  </savedjob>
+</information>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2385</id>
+      <email>nguyenvy0101@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Thúy Vy</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01285932338</phone>
+      <address>8, đường 20, p4, q8</address>
+      <city>30</city>
+      <dob>1992-1-1</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473436024</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1473436024</last_signin>
+      <day>1</day>
+      <month>1</month>
+      <year>1992</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.777029</lat>
+      <lng>106.615939</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_525>
+      <id>525</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>Shop Mẹ và Bé</cmpname>
+      <city>Hcm</city>
+      <country>Việt Nam</country>
+      <from>8/2015</from>
+      <to>2/2016</to>
+    </n_525>
+    <n_526>
+      <id>526</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>Sách và lịch Đại Nam</cmpname>
+      <city>Hcm</city>
+      <country>Việt Nam</country>
+      <from>3/2016</from>
+      <to>Nay</to>
+    </n_526>
+    <n_527>
+      <id>527</id>
+      <title>Gia sư học sinh cấp 3</title>
+      <level>1</level>
+      <cmpname>Tại gia</cmpname>
+      <city>Hcm</city>
+      <country>Việt Nam</country>
+      <from>9/2013</from>
+      <to>7/2015</to>
+    </n_527>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>2385</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>2</experience>
+      <category>28,35,36</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <about>- Nhân viên bán hàng ở cửa hàng Mẹ và Bé. &#13;
+- Nhân viên bán hàng công ty sách và lịch Đại Nam&#13;
+- Có kinh nghiệm trong việc quản lý kho, sổ sách, chứng từ, hàng hóa...&#13;
+- </about>
+      <skill/>
+      <keyword>Kỹ năng chăm sóc khách hàng,Chịu được áp lực công việc,Tinh thần làm việc nhóm,Trung thực</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>231,193,149,136</strjo>
+  </appliedjob>
+</information>

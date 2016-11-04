@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>817</id>
+      <email>ngothikieuhoa@gmail.com</email>
+      <username/>
+      <name>Ngô Kiều Hoa</name>
+      <im>1267456079945060_ngo-kieu-hoa.jpg</im>
+      <gender>2</gender>
+      <dob>1990-12-29</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471154106</created>
+      <day>29</day>
+      <month>12</month>
+      <year>1990</year>
+      <phone>0902619726</phone>
+      <address>24 Văn Chung phường 13 quận Tân Bình</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.80782</lat>
+      <lng>106.646394</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phụ bếp</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>1</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill>Chăm sóc khách hàng</skill>
+      <ui>817</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <keyword>Giao tiếp hiệu quả</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>136</strjo>
+  </appliedjob>
+  <education>
+    <n_120>
+      <id>120</id>
+      <school>Học viện Công nghệ Bưu chính viễn thông</school>
+      <degrees>Đại học </degrees>
+      <fieldofstudy>Quản trị kinh doanh</fieldofstudy>
+      <from>2012</from>
+      <to>2014</to>
+    </n_120>
+  </education>
+  <experience>
+    <n_181>
+      <id>181</id>
+      <title>Direct sale</title>
+      <level>1</level>
+      <cmpname>VP Bank</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2- 2015</from>
+      <to>10-2015</to>
+    </n_181>
+  </experience>
+</information>

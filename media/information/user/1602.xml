@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1602</id>
+      <email>minlittle3@gmail.com</email>
+      <username/>
+      <name>Phúc Ann</name>
+      <im>338200163182822_phuc-ann.jpg</im>
+      <gender>2</gender>
+      <dob>1997-10-18</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472632267</created>
+      <day>18</day>
+      <month>10</month>
+      <year>1997</year>
+      <phone>01203966299</phone>
+      <address>470/5 tô ngọc vân, p.Tam Phú, q.Thủ Đức</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8608628</lat>
+      <lng>106.7456895</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ, pha chế</title>
+      <experience>1</experience>
+      <category>14,15</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>đã từng làm thu ngân, phục vụ</skill>
+      <ui>1602</ui>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <about>nhanh nhẹn, biết lắng nghe, tiếp thu nhanh</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>24</total>
+    <strjo>194,219,63,293,142,107,239,259,274,176,248,69,106,64,222,201,267,139,235,323,140,294,326,299</strjo>
+  </appliedjob>
+</information>

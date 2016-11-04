@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5777</id>
+      <email>hangiang377@gmail.com</email>
+      <username/>
+      <name>Võ Nguyễn Hàn Giang</name>
+      <im>1476182605_vo-nguyen-han-giang.png</im>
+      <gender>2</gender>
+      <phone>0965068353</phone>
+      <address>79/51/48 Thồng nhất, p.11, Q. Gò vấp</address>
+      <city>30</city>
+      <dob>1996-2-28</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476182605</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>28</day>
+      <month>2</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8342735</lat>
+      <lng>106.6642712</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên pha chế, nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15,16,17,19,26,27,29</category>
+      <type>6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>kỹ năng giao tiếp và kỹ năng bán hàng</skill>
+      <ui>5777</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Hiện mình đang là sinh viên năm 3 chuyên quản trị nhân lực của trường DH Lao động-xã hội cs2 .   Mình muốn tìm 1 công việc tốt,  học thêm kỹ năng, ngoại ngữ, để dành tiền đóng góp giúp đỡ cho gia đình...chăm ngôn sống của mình là " nếu bạn muốn làm 1 việc gì đó thì có 1000 lý để làm và ngược lại nếu bạn thật sự không muốn làm thì bạn cũng có 1000 lý do để không làm"</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>201,202,221,252,505,312</strjo>
+  </appliedjob>
+  <experience>
+    <n_1180>
+      <id>1180</id>
+      <title>nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>Vindshose</cmpname>
+      <city>Hồ chí minh</city>
+      <country>việt nam</country>
+      <from>1/5/2016</from>
+      <to>8/10/2016</to>
+    </n_1180>
+    <n_1181>
+      <id>1181</id>
+      <title>lễ tân</title>
+      <level>1</level>
+      <cmpname>phòng gym</cmpname>
+      <city>Hồ chí minh</city>
+      <country>việt nam</country>
+      <from>1/10/2015</from>
+      <to>20/11/2015</to>
+    </n_1181>
+  </experience>
+  <education>
+    <n_961>
+      <id>961</id>
+      <school>Đại học Lao động xã hội cs2</school>
+      <degrees>12/12</degrees>
+      <fieldofstudy>quản trị nhân lực</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_961>
+  </education>
+</information>

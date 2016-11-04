@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3330</id>
+      <email>Kien99679@gmail.com</email>
+      <username/>
+      <name>Nguyễn văn kiên</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01226766639</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474532545</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Barista</title>
+      <experience>2</experience>
+      <category>18</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Pha chế phục vụ</skill>
+      <ui>3330</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>172</strjo>
+  </appliedjob>
+  <experience>
+    <n_743>
+      <id>743</id>
+      <title>Quận 6</title>
+      <level>1</level>
+      <cmpname>Không</cmpname>
+      <city>Hồ chí minh</city>
+      <country>Vn</country>
+      <from>Vn</from>
+      <to>Vn</to>
+    </n_743>
+  </experience>
+  <education>
+    <n_546>
+      <id>546</id>
+      <school>Hướng nghiệp á âu</school>
+      <degrees>Chứng chỉ pha chế</degrees>
+      <fieldofstudy>Pha chế</fieldofstudy>
+      <from>04 2014</from>
+      <to>01 2015</to>
+    </n_546>
+  </education>
+</information>

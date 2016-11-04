@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4244</id>
+      <email>tuyetnhidinh65987@gmail.com</email>
+      <username/>
+      <name>Đinh Thị Tuyết Nhi</name>
+      <im>4244_fb-img-1474892791866.jpg</im>
+      <gender>2</gender>
+      <phone>01217676118</phone>
+      <address></address>
+      <city></city>
+      <dob>1998-5-6</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475044694</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>6</day>
+      <month>5</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>5</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill></skill>
+      <ui>4244</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>267</strjo>
+  </appliedjob>
+  <education>
+    <n_684>
+      <id>684</id>
+      <school>Đại học ngoại ngữ tin học tphcm</school>
+      <degrees>Sinh viên năm 1</degrees>
+      <fieldofstudy>Quan hệ quốc tế</fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_684>
+  </education>
+</information>

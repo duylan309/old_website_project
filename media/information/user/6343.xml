@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6343</id>
+      <email>thuyanh10301@gmail.com</email>
+      <username/>
+      <name>Thuỵ Anh</name>
+      <im>1093493587353206_thuy-anh.jpg</im>
+      <gender>2</gender>
+      <dob>1996-3-10</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476514773</created>
+      <day>10</day>
+      <month>3</month>
+      <year>1996</year>
+      <phone>0916 988 679</phone>
+      <address>5C Nguyễn ĐÌnh Chiểu, P.Đakao, Quận 1</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, Barista</title>
+      <experience>7</experience>
+      <category>14,15,17,35</category>
+      <type>2,4,5,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill>- Kỹ năng giao tiếp&#13;
+- Kỹ năng sử dụng các phần mềm của máy tính như Word, Excel,...&#13;
+</skill>
+      <ui>6343</ui>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <about>Là một đứa con gái có thể tự nhân xét về mình bằng các từ: năng động, có kỹ năng giao tiếp khá tốt, biết lắng nghe, hòa đông và dễ thích nghi nhanh với nhiều môi trường mới. Tuy vậy, bản thân mong muốn được trau dồi thêm nhiều kinh nghiệm, các kỹ năng mềm, cách xử lý tình huống cùng học hỏi thêm nhiều bài học mới qua các công việc ứng tuyển.</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>130</strjo>
+  </appliedjob>
+  <education>
+    <n_1050>
+      <id>1050</id>
+      <school>ĐH Khoa học Xã hội và Nhân văn TP.HCM</school>
+      <degrees/>
+      <fieldofstudy>Báo chí - Truyền thông</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_1050>
+  </education>
+  <savedjob>
+    <total>1</total>
+    <strjo>130</strjo>
+  </savedjob>
+</information>

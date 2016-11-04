@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2283</id>
+      <email>nhoxwynh0511@gmail.com</email>
+      <username/>
+      <name>Trần Nguyễn Quỳnh Như</name>
+      <im>908932472544722_tran-nguyen-quynh-nhu.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473353297</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, pha chế , văn phòng</title>
+      <experience>1</experience>
+      <category>14,15,18,20,26,27,29,35</category>
+      <type>2,4</type>
+      <level>1,2</level>
+      <lang>vi,en,ch</lang>
+      <skill>Sử dụng thành thạo word và excel. Có thể giao tiếp bằng tiếnh trung một ít. Giao tiếp bằng tiếng anh tốt. Năng động siêng năng chăm chỉ và từng là ở The Coffee House</skill>
+      <ui>2283</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>107</strjo>
+  </appliedjob>
+</information>

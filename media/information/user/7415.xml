@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7415</id>
+      <email>miucool315@gmail.com</email>
+      <username/>
+      <name>Võ Nguyễn Huyền Như</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0979584333</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477235390</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15,27,31</category>
+      <type>1,2,3,5,6</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill>Có thể giao tiếp 1 chút tiếng anh chuyên ngành trong việc phục vụ, siêng năng, linh hoạt trong công việc. Tự tin sẽ làm tốt công việc được giao</skill>
+      <ui>7415</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>100</strjo>
+  </appliedjob>
+</information>

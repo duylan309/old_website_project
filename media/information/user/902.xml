@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>902</id>
+      <email>duongthingocthien@gmail.com</email>
+      <username/>
+      <name>Dương Thị Ngọc Thiên</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0933919694</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471400732</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ, nhân viên bán hàng, pha chế, phụ bếp</title>
+      <experience>2</experience>
+      <category>15,17,29,31,35,36</category>
+      <type>2,4,5</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <skill>Khả năng giao tiếp&#13;
+Khả năng xử lý tình huống, chăm sóc khách hàng&#13;
+Khả năng xử lý công việc, đáp ứng yêu cầu NTD.</skill>
+      <ui>902</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>82</strjo>
+  </appliedjob>
+  <education>
+    <n_148>
+      <id>148</id>
+      <school>ĐH Văn Lang</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>TCNH</fieldofstudy>
+      <from>2009</from>
+      <to>2013</to>
+    </n_148>
+  </education>
+  <experience>
+    <n_212>
+      <id>212</id>
+      <title>Nhân viên</title>
+      <level>1</level>
+      <cmpname>Nội thất UMA</cmpname>
+      <city>TPHCM</city>
+      <country>Việt Nam</country>
+      <from>2013</from>
+      <to>2015</to>
+    </n_212>
+  </experience>
+</information>

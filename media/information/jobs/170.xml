@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>170</id>
+    <ui>911</ui>
+    <ci>262</ci>
+    <ai>0</ai>
+    <ti>Restaurant Shift Leader</ti>
+    <ta/>
+    <le>4</le>
+    <ty>1,4</ty>
+    <ex>2</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>5000000</s1>
+    <s2>6000000</s2>
+    <s3>227</s3>
+    <s4>272</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>83</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-10-16</de>
+    <re>0000-00-00</re>
+    <cr>1471759538</cr>
+  </db>
+  <more>
+    <requirement>Cẩn thận, tỉ mỉ, siêng năng, trung thực</requirement>
+    <description>- Thời gian làm việc: 15:00 - 23:00, làm việc 6 ngày/tuần&#13;
+- Quản lý, điều động các nhân viên phục vụ khác trong ca trực làm các công việc hàng ngày của nhà hàng (lấy order, set up bàn ghế, mang thức ăn, etc.)</description>
+    <benefit>Lương + tips</benefit>
+    <keyword>Tinh thần trách nhiệm,Tập trung trong công việc,Tinh thần làm việc nhóm,Giao tiếp hiệu quả,Kỹ năng giải quyết tình huống,Trung thực,Tự tin,Nhiệt tình</keyword>
+  </more>
+  <userapplied>
+    <total>17</total>
+    <strui>654,1326,941,1972,2208,2715,3265,3509,292,3148,3947,4512,3315,908,5197,3054,2159</strui>
+  </userapplied>
+</information>

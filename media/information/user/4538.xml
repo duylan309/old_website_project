@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4538</id>
+      <email>chatriengcuatoi_david_nguyen@yahoo.com</email>
+      <username/>
+      <name>Hà Minh Thông</name>
+      <im>654982458002017_ha-minh-thong.jpg</im>
+      <gender>1</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475287506</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên thu ngân</title>
+      <experience>7</experience>
+      <category>14,15,29</category>
+      <type>3,5,6</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>4538</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>334</strjo>
+  </appliedjob>
+</information>

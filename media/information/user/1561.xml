@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1561</id>
+      <email>nguyenminhtri453@gmail.com</email>
+      <username/>
+      <name>Nguyễn Minh Trí</name>
+      <im>1459770334040253_nguyen-minh-tri.jpg</im>
+      <gender>1</gender>
+      <dob>1993-5-4</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472534594</created>
+      <day>4</day>
+      <month>5</month>
+      <year>1993</year>
+      <phone>01267302386</phone>
+      <address>32 ba hat p9 q10 tphcm</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7764745</lat>
+      <lng>106.7008831</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên</title>
+      <experience>1</experience>
+      <category>14,15,16,29,35</category>
+      <type>2,3,4,5,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill>- Kỹ năng giao tiêp, quản lý.&#13;
+- Kỹ năng làm việc nhóm.&#13;
+- Kỹ năng tin học văn phòng, giao tiếp tiếng Anh cơ bản</skill>
+      <ui>1561</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>7</total>
+    <strjo>205,172,124,165,238,192,64</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>2</total>
+    <strjo>205,165</strjo>
+  </savedjob>
+  <experience>
+    <n_456>
+      <id>456</id>
+      <title>Nhân viên</title>
+      <level>1</level>
+      <cmpname>People link</cmpname>
+      <city>HCM</city>
+      <country>Việt Nam</country>
+      <from>4/2016</from>
+      <to>8/2016</to>
+    </n_456>
+  </experience>
+  <education>
+    <n_325>
+      <id>325</id>
+      <school>đh Sài Gòn</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Tiểu học</fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_325>
+  </education>
+</information>

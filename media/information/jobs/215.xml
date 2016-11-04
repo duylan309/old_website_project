@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>215</id>
+    <ui>512</ui>
+    <ci>243</ci>
+    <ai>0</ai>
+    <ti>PARTTIME/FULL TIME - EMART GÒ VẤP</ti>
+    <ta/>
+    <le>1,2</le>
+    <ty>1,2,4,5,6</ty>
+    <ex>7</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>10000</s1>
+    <s2>13000</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en,kr</la>
+    <description>LÀM VIỆC TẠI SIÊU THỊ HÀN QUỐC EMART - 366 Phan Văn Trị, phường 5, Hồ Chí Minh</description>
+    <requirement>NHÂN VIÊN FULLTIME BIẾT BARISTA \r\n- Thời gian làm việc: \r\nCA1: 7H-15H (có thể xoay ca).\r\nCA2: 14h-22h (có thể xoay ca).\r\n- 1 tuần được nghỉ 1 ngày.\r\n- Lương cơ bản: 3,500,000 (thử việc 2 tháng).\r\n- Lương chính thức= lương CB + phụ cấp tiền ăn (+ thưởng khi làm việc hiệu quả, năng suất công việc tốt).\r\n- Chi tiết công việc sẽ trao đổi khi phỏng vấn và tranning trong quá trình làm việc.\r\n2. NHÂN VIÊN PARTTIME 🍴\r\n- Thời gian làm việc theo ca/xoay ca:\r\nca1: 7h ~ 12h\r\nca2: 12h ~ 17h\r\nca3: 17h ~ 22h\r\n- Lương thử việc: 10,000/tiếng (thử việc 1 tháng).\r\n- Lương chính thức: 13,000/tiếng.\r\n+ Thưởng khi làm việc hiệu quả, năng suất công việc tốt.\r\n- Sẽ được tranning trong quá trình làm việc.</requirement>
+    <benefit>Thưởng khi làm việc hiệu quả, năng suất công việc tốt.</benefit>
+    <keyword/>
+    <ad/>
+    <location_id>63</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-02</de>
+    <re>0000-00-00</re>
+    <cr>1473577383</cr>
+  </db>
+  <more>
+    <description>LÀM VIỆC TẠI SIÊU THỊ HÀN QUỐC EMART - 366 Phan Văn Trị, phường 5, Hồ Chí Minh</description>
+    <requirement>NHÂN VIÊN FULLTIME BIẾT BARISTA &#13;
+- Thời gian làm việc: &#13;
+CA1: 7H-15H (có thể xoay ca).&#13;
+CA2: 14h-22h (có thể xoay ca).&#13;
+- 1 tuần được nghỉ 1 ngày.&#13;
+- Lương cơ bản: 3,500,000 (thử việc 2 tháng).&#13;
+- Lương chính thức= lương CB + phụ cấp tiền ăn (+ thưởng khi làm việc hiệu quả, năng suất công việc tốt).&#13;
+- Chi tiết công việc sẽ trao đổi khi phỏng vấn và tranning trong quá trình làm việc.&#13;
+2. NHÂN VIÊN PARTTIME 🍴&#13;
+- Thời gian làm việc theo ca/xoay ca:&#13;
+ca1: 7h ~ 12h&#13;
+ca2: 12h ~ 17h&#13;
+ca3: 17h ~ 22h&#13;
+- Lương thử việc: 10,000/tiếng (thử việc 1 tháng).&#13;
+- Lương chính thức: 13,000/tiếng.&#13;
++ Thưởng khi làm việc hiệu quả, năng suất công việc tốt.&#13;
+- Sẽ được tranning trong quá trình làm việc.</requirement>
+    <benefit>Thưởng khi làm việc hiệu quả, năng suất công việc tốt.</benefit>
+  </more>
+  <userapplied>
+    <total>70</total>
+    <strui>1625,626,292,1546,940,2337,2525,1749,1742,3116,3206,3445,3480,3549,3552,3647,3678,2427,3764,3268,4026,4048,4129,4130,4311,4364,4461,4532,4301,4595,4651,4622,4766,4827,4877,4565,4981,4985,4777,5132,5354,5435,5543,6046,4833,6084,6086,6095,5257,6094,6196,6090,6198,1433,6619,6660,6700,5526,6753,6835,6946,7134,7194,7372,7109,7553,7546,7919,7923,4835</strui>
+  </userapplied>
+</information>

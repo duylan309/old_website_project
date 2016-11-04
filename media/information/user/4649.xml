@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4649</id>
+      <email>heoupy1748@gmail.com</email>
+      <username/>
+      <name>Đặng Thị Ngọc Châu</name>
+      <im>4649_13644322-613855732106057-617862460-n.jpg</im>
+      <gender>2</gender>
+      <phone>01699598863</phone>
+      <address>233/25/23 Lê Văn Khương, quận 12</address>
+      <city>30</city>
+      <dob>1998-4-17</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475386753</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1475386753</last_signin>
+      <day>17</day>
+      <month>4</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8739044</lat>
+      <lng>106.649155</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_772>
+      <id>772</id>
+      <school>THPT Lê Trung Kiên</school>
+      <degrees>THPT</degrees>
+      <fieldofstudy/>
+      <from>2013</from>
+      <to>2016</to>
+    </n_772>
+  </education>
+  <user_cv>
+    <db>
+      <ui>4649</ui>
+      <title>nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,30,35</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>en</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>Xin chào, tôi đang là sinh viên năm nhất, mong muốn học hỏi nhiều kinh nghiệm và tìm thêm công việc có thể trang trải phí sinh hoạt và học phí, không là gánh nặng của gia đình.</about>
+      <skill>Hòa đồng, vui vẻ, ham học hỏi, có tinh thần trách nhiệm, chăm chỉ.</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

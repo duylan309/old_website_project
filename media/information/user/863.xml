@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>863</id>
+      <email>hannice236@gmail.com</email>
+      <username/>
+      <name>Nguyễn Gia Hân</name>
+      <im>640576552769127_bao-han.jpg</im>
+      <gender>2</gender>
+      <dob>1998-6-23</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471331924</created>
+      <day>23</day>
+      <month>6</month>
+      <year>1998</year>
+      <phone>0903924727</phone>
+      <address>208/10/8 Bà Hạt, phường 9, quận 10</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7664011</lat>
+      <lng>106.6690034</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng</title>
+      <experience>7</experience>
+      <category>17</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>có thể giao tiếp tiếng anh cơ bản</skill>
+      <ui>863</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <keyword>Tập trung trong công việc,Trung thực,Kỹ năng chăm sóc khách hàng</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>156</strjo>
+  </appliedjob>
+</information>

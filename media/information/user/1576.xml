@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1576</id>
+      <email>vile154@gmail.com</email>
+      <username/>
+      <name>Lê Thúy Vy</name>
+      <im>1576_img-4775.JPG</im>
+      <gender>2</gender>
+      <phone>01683374750</phone>
+      <address/>
+      <city/>
+      <dob>1997-4-15</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472560702</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>15</day>
+      <month>4</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,17</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>1576</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Trung thực</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>219,202</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2897</id>
+      <email>s0opy_0nlyl0v3.kullz@yahoo.com</email>
+      <username/>
+      <name>Kim Oanh</name>
+      <im>1860671600823159_kim-oanh.jpg</im>
+      <gender>2</gender>
+      <dob>01997-6-22</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474054283</created>
+      <day>22</day>
+      <month>6</month>
+      <year>01997</year>
+      <phone>01203521318</phone>
+      <address>nguyễn oanh p17 quẩn gò vấp</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8408948</lat>
+      <lng>106.6762787</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_474>
+      <id>474</id>
+      <school>trung cấp du lịch và khách sạn saigontourist </school>
+      <degrees/>
+      <fieldofstudy>quản trị nhà hàng</fieldofstudy>
+      <from>2015</from>
+      <to>2017</to>
+    </n_474>
+  </education>
+  <user_cv>
+    <db>
+      <ui>2897</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>15,17,20,29</category>
+      <type>1,2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>519</strjo>
+  </appliedjob>
+</information>

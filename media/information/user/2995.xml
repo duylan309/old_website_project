@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2995</id>
+      <email>nhklinh2297@gmail.com</email>
+      <username/>
+      <name>NGUYỄN HOÀI KHÁNH LINH</name>
+      <im>694879430667795_khanh-linh.jpg</im>
+      <gender>2</gender>
+      <dob>1997-2-2</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474155372</created>
+      <day>2</day>
+      <month>2</month>
+      <year>1997</year>
+      <last_signin>1474155372</last_signin>
+      <phone>0902404621</phone>
+      <address>686/85 CMT8 P5 Q.TÂN BÌNH</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.788464</lat>
+      <lng>106.66041</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_492>
+      <id>492</id>
+      <school>ĐH NGOẠI NGỮ - TIN HỌC TPHCM</school>
+      <degrees/>
+      <fieldofstudy>TÀI CHÍNH - NGÂN HÀNG</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_492>
+  </education>
+  <user_cv>
+    <db>
+      <ui>2995</ui>
+      <title>phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,20,26,29,30,35</category>
+      <type>2,4,5,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>HOÀ ĐỒNG,  VUI VẺ, THÍCH LÀM VIỆC Ở NHỮNG MÔI TRƯỜNG TRONG LĨNH VỰC ĂN UỐNG, VUI CHƠI, CÓ THỂ TRAO DỒI THÊM NHIỀU KĨ NĂNG SỐNG, KĨ NĂNG GIAO TIẾP VÀ KỂT THÊM NHIỀU BẠN MỚI</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>17</total>
+    <strjo>156,211,84,205,253,219,247,162,279,222,132,278,171,124,161,63,301</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>301</strjo>
+  </savedjob>
+</information>

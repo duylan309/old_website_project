@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>477</id>
+    <ui>4903</ui>
+    <ci>378</ci>
+    <ai>0</ai>
+    <ti>Nhân viên phục vụ</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1,2,4,5,6</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>5000000</s1>
+    <s2>5500000</s2>
+    <s3>227</s3>
+    <s4>250</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14,16</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>en</la>
+    <description>==&gt;  Full time: gồm 2 ca\r\n1. Ca 1: 10AM-5PM\r\n2. Ca 2: 4PM-12AM\r\n==&gt; Ngày làm việc: 26 ngày/ tháng\r\nCông việc bao gồm:\r\nDọn dẹp, set up bàn ăn và quán\r\nGọi món\r\nGiới thiệu món ăn tới khách hàng\r\nPhục vụ món ăn\r\nKiểm tra danh sách gọi món trước khi phục vụ khách hàngOrder\r\nDọn dẹp bàn khi khách dùng bữa xong\r\nTrả lời mọi thắc mắc của khách hàng\r\nLàm theo hướng dẫn của quản lý nhà hàng</description>
+    <requirement>- Nhanh nhẹn, chăm chỉ, thật thà\r\n- Có kỷ năng làm việc nhóm và chịu khó học hỏi cải thiện kỷ năng\r\n- Tiếng anh giao tiếp \r\n</requirement>
+    <benefit>Được làm việc trong môi trường nước ngoài chuyên nghiệp\r\nCơ hội tốt cho các bạn muốn cải thiện các kỷ tiếng anh \r\nLương cao\r\n</benefit>
+    <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Tự tin,Tinh thần làm việc nhóm,phục vụ,Waiter/Waitress</keyword>
+    <ad/>
+    <location_id>275</location_id>
+    <lat>10.779729</lat>
+    <lng>10.779729</lng>
+    <de>2016-11-03</de>
+    <re>0000-00-00</re>
+    <cr>1476857606</cr>
+  </db>
+  <more>
+    <requirement>- Nhanh nhẹn, chăm chỉ, thật thà&#13;
+- Có kỷ năng làm việc nhóm và chịu khó học hỏi cải thiện kỷ năng&#13;
+- Tiếng anh giao tiếp &#13;
+</requirement>
+    <description>==&gt;  Full time: gồm 2 ca&#13;
+1. Ca 1: 10AM-5PM&#13;
+2. Ca 2: 4PM-12AM&#13;
+==&gt; Ngày làm việc: 26 ngày/ tháng&#13;
+Công việc bao gồm:&#13;
+Dọn dẹp, set up bàn ăn và quán&#13;
+Gọi món&#13;
+Giới thiệu món ăn tới khách hàng&#13;
+Phục vụ món ăn&#13;
+Kiểm tra danh sách gọi món trước khi phục vụ khách hàngOrder&#13;
+Dọn dẹp bàn khi khách dùng bữa xong&#13;
+Trả lời mọi thắc mắc của khách hàng&#13;
+Làm theo hướng dẫn của quản lý nhà hàng</description>
+    <benefit>Được làm việc trong môi trường nước ngoài chuyên nghiệp&#13;
+Cơ hội tốt cho các bạn muốn cải thiện các kỷ tiếng anh &#13;
+Lương cao&#13;
+</benefit>
+    <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Tự tin,Tinh thần làm việc nhóm,phục vụ,Waiter/Waitress</keyword>
+  </more>
+  <userapplied>
+    <total>11</total>
+    <strui>5708,3120,6778,6915,7409,7212,7542,7795,7976,2284,7994</strui>
+  </userapplied>
+</information>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5689</id>
+      <email>Anhnguyen811996@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Vân Anh</name>
+      <im>5689_image.jpeg</im>
+      <gender>2</gender>
+      <phone>0907438495</phone>
+      <address>106/9/11, đường Bình Trị Đông, phường Bình Trị Đông A, quận Bình Tân</address>
+      <city>30</city>
+      <dob>1996-1-8</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476155451</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476155451</last_signin>
+      <day>8</day>
+      <month>1</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7748495</lat>
+      <lng>106.6091171</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_942>
+      <id>942</id>
+      <school>Trung cấp Phương Nam</school>
+      <degrees>Dược sĩ Trung cấp</degrees>
+      <fieldofstudy>Dược</fieldofstudy>
+      <from>2014</from>
+      <to>2016</to>
+    </n_942>
+  </education>
+  <experience>
+    <n_1169>
+      <id>1169</id>
+      <title>Phục vụ, pha chế, thu ngân</title>
+      <level>1</level>
+      <cmpname>Trà sữa Chi Lăng Luân Mập</cmpname>
+      <city>Tp Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_1169>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>5689</ui>
+      <title>Nhân viên phục vụ hoặc pha chế</title>
+      <experience>1</experience>
+      <category>14,15,29,31,35</category>
+      <type>1,2,4</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Là một con người năng động em muốn thử thách mình qua mọi công việc. Mặc dù chưa có nhiều kinh nghiệm nhưng em tin mình có thể hoàn thành tốt mọi công việc mà cửa hàng giao phó.!</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>184,292</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>2</total>
+    <strjo>184,292</strjo>
+  </savedjob>
+</information>

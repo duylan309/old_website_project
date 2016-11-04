@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5956</id>
+      <email>thang.nx2510@sinhvien.hoasen.edu.vn</email>
+      <username/>
+      <name>Xuân Thắng</name>
+      <im>1112454982136891_xuan-thang.jpg</im>
+      <gender>1</gender>
+      <dob>1996-2-6</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476283730</created>
+      <day>6</day>
+      <month>2</month>
+      <year>1996</year>
+      <last_signin>1476283730</last_signin>
+      <phone>0934060296</phone>
+      <address>179/13bạch đằng p15 q bình thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.802694</lat>
+      <lng>106.710946</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>5956</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,20</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Hoạt bát ,năng động ,giao tiếp tốt ,có kinh nghiệm 1 năm tại khách sạn intercontinental</about>
+      <skill>Phục vụ khách hàng</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>349,427,202</strjo>
+  </appliedjob>
+</information>

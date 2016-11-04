@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>496</id>
+    <ui>6357</ui>
+    <ci>407</ci>
+    <ai>0</ai>
+    <ti>Nhân viên bếp Nhân viên phục vụ</ti>
+    <ta/>
+    <le>1,2</le>
+    <ty>1,2,3,4</ty>
+    <ex>1,2,3,4,5,7</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>12000</s1>
+    <s2>15000</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description/>
+    <requirement/>
+    <workhour/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>334</location_id>
+    <lat>10.769985</lat>
+    <lng>10.769985</lng>
+    <de>2016-11-14</de>
+    <re>0000-00-00</re>
+    <cr>1477030751</cr>
+  </db>
+  <more>
+    <requirement>Chăm chỉ, hòa đồng</requirement>
+    <description>Nhân viên bếp: chặt gà đưa phục vụ bê lên cho khách&#13;
+Nhân viên phục vụ: ghi món, đem món lên cho khách</description>
+    <benefit>Lương, thưởng, phụ cấp&#13;
+OFF 4 ngày/ tháng&#13;
+Môi trường làm việc hòa đồng, trẻ trung, thân thiện</benefit>
+    <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Tự tin,Nhiệt tình</keyword>
+  </more>
+  <userapplied>
+    <total>5</total>
+    <strui>7039,7297,5881,7478,7891</strui>
+  </userapplied>
+</information>

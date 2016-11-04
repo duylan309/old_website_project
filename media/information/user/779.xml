@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>779</id>
+      <email>lengocanh180295@gmail.com</email>
+      <username/>
+      <name>Lê Huỳnh Ngọc Anh</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0909251802</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471028284</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Food Runner</title>
+      <experience>1</experience>
+      <category>14,15,16,18,19,20,27,28,29,30</category>
+      <type>1,2,4,5,6</type>
+      <level>2,3,4</level>
+      <lang>vi,en</lang>
+      <skill>Có các kĩ năng và thái độ phục vụ khách cần thiết . Có thể setup và tổ chức buổi tiệc nhỏ. Có tinh thần team work tốt. </skill>
+      <ui>779</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>112</strjo>
+  </appliedjob>
+</information>

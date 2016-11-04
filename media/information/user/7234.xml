@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7234</id>
+      <email>phuongnaughty7@gmai.com</email>
+      <username/>
+      <name>Phạm Nguyễn Tuấn Phương</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0906610468</phone>
+      <address>22/209 nguyễn trãi phường bến thành q1</address>
+      <city>30</city>
+      <dob>1996-8-28</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477122524</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>28</day>
+      <month>8</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7711424</lat>
+      <lng>106.6926132</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phụ bếp</title>
+      <experience>7</experience>
+      <category>14</category>
+      <type>4</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill>Phụ bếp</skill>
+      <ui>7234</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>yêu thích nghề bếp . chịu khó</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>358</strjo>
+  </appliedjob>
+</information>

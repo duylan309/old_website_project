@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4844</id>
+      <email>Huathingoctran201@gmail.com</email>
+      <username/>
+      <name>Hứa Thị Ngọc Trân</name>
+      <im>1475547299_hua-thi-ngoc-tran.png</im>
+      <gender>2</gender>
+      <phone>01675891394</phone>
+      <address>206/53/10/9 KP6 Nhà Bè tp Hồ Chí Minh</address>
+      <city>30</city>
+      <dob>1996-10-20</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475547299</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>20</day>
+      <month>10</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.696047</lat>
+      <lng>106.741515</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Tư vấn bán hàng, phục vụ, tiếp tân,....</title>
+      <experience>7</experience>
+      <category>15,26,29,30,35,36</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Giao tiếp ổn, trí nhớ tốt, năng động, hoạt bát, linh hoạt, thích nghi tốt,.....</skill>
+      <ui>4844</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>"Điều quan trọng không phải là bạn giỏi như thế nào mà là bạn biết nắm bắt cơ hội ra sao". Đó là phương châm sống của tôi và tôi luôn cố gắng để tìm kiếm những cơ hội giúp tôi phát triển, tìm được cái mà mình thực sự yêu thích và lấy đó làm động lực để bức phá khỏi những giới hạn của bản thân!!!</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>273,302,253,156</strjo>
+  </appliedjob>
+  <education>
+    <n_810>
+      <id>810</id>
+      <school>Đại học Tôn Đức Thắng</school>
+      <degrees/>
+      <fieldofstudy>Quan hệ lao động</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_810>
+  </education>
+  <experience>
+    <n_1010>
+      <id>1010</id>
+      <title>Huấn luyện viên, PG, nhân viên, quản lí,...</title>
+      <level>1</level>
+      <cmpname>Vietopia, Apple kid club, cty Start up,...</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>2016</to>
+    </n_1010>
+  </experience>
+</information>

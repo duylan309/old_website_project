@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5825</id>
+      <email>janenguyen2208@gmail.com</email>
+      <username/>
+      <name>Nguyễn Bùi Tâm Thảo</name>
+      <im>1476200161_nguyen-bui-tam-thao.png</im>
+      <gender>0</gender>
+      <phone>0932128133</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476200161</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng, nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>35</category>
+      <type>2,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Food &amp; Beverage&#13;
+Guest Service &#13;
+Communication skill&#13;
+Problem - solving &#13;
+Time- Management skill</skill>
+      <ui>5825</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>280</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6895</id>
+      <email>nguyenhongdu23@gmail.com</email>
+      <username/>
+      <name>nguyen hong du</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0904765439</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476931714</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>giam sat bep</title>
+      <experience>5</experience>
+      <category>18</category>
+      <type>1</type>
+      <level>4</level>
+      <lang>vi</lang>
+      <skill>tot</skill>
+      <ui>6895</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>137,359</strjo>
+  </appliedjob>
+  <savedjob/>
+</information>

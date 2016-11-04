@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2727</id>
+      <email>Amyng2611@gmail.com</email>
+      <username/>
+      <name>Nguyễn Lê Vân Anh</name>
+      <im>1473825225_nguyen-le-van-anh.png</im>
+      <gender>0</gender>
+      <phone>01664536637</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473825225</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,16,19</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Phục vụ khách hàng </skill>
+      <ui>2727</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>280,221</strjo>
+  </appliedjob>
+  <education>
+    <n_437>
+      <id>437</id>
+      <school>Đại học sài gòn </school>
+      <degrees/>
+      <fieldofstudy/>
+      <from>2013</from>
+      <to>2017</to>
+    </n_437>
+  </education>
+</information>

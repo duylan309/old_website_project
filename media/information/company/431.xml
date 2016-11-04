@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>431</id>
+    <ui>7802</ui>
+    <name>Tuyển dụng EMART</name>
+    <url>tuyendungemart</url>
+    <im>_tuyen-dung-emart.png</im>
+    <im_banner>_tuyen-dung-emart-cover.jpg</im_banner>
+    <category>31</category>
+    <phone>0128 554 3683</phone>
+    <address>366 Phan Văn Trị, P5, Gò Vấp</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.825882</lat>
+    <lng>106.689980</lng>
+    <website>http://www.emart.com.vn</website>
+    <about/>
+    <facebook>https://www.facebook.com/tuyendungemart/</facebook>
+    <facebook_cover/>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1477466985</created>
+  </db>
+  <more>
+    <about>Đại siêu thị số 1 của Hàn Quốc với hơn 30 năm kinh nghiệm &#13;
+Hiện tại đang chuẩn bị cho siêu thị đầu tiên và hệ thống chuỗi siêu thị sắp tới</about>
+    <whyworkus/>
+  </more>
+  <companybanner>_tuyen-dung-emart-cover.jpg</companybanner>
+  <totalJob>
+    <total>8</total>
+    <strji>527,528,532,533,534,535,536,539</strji>
+  </totalJob>
+</information>

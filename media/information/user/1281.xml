@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1281</id>
+      <email>nguyentruongthaotruc@gmail.com</email>
+      <username/>
+      <name>Nguyễn Trương Thảo Trúc</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0902093440</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472050959</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên thu ngân</title>
+      <experience>7</experience>
+      <category>14,15</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en,kr</lang>
+      <skill/>
+      <ui>1281</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>107</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2284</id>
+      <email>cm230193@gmail.com</email>
+      <username/>
+      <name>Nguyễn Ngọc Phương Nhã</name>
+      <im>2284_my-cv.jpg</im>
+      <gender>1</gender>
+      <phone>0966695934</phone>
+      <address>51/22/13 Cao thắng, Phường 3 Quận 3</address>
+      <city>30</city>
+      <dob>1993-1-23</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473353341</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1473353341</last_signin>
+      <day>23</day>
+      <month>1</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7698755</lat>
+      <lng>106.6811477</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>2284</ui>
+      <title>Nhân viên văn phòng, nhân viên phục vụ</title>
+      <experience>2</experience>
+      <category>15,17,35</category>
+      <type>1,2</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <about>Tôi tốt nghiệp ngành Ngôn Ngữ Anh của Đại học Hoa Sen và có các chứng chỉ tiếng anh như TOEIC 990, IELTS 7.0. Tôi đam mê ngành nhà hàng - khách sạn và đã từng làm việc ở các vị trí như Bartender cho Pizza Hut, Server cho Au Manor De Khai và nhân viên bán hàng cho Durio. Tôi mong muốn tìm công việc lâu dài, có mức lương tốt và có chế độ thăng tiến, thưởng hấp dẫn.</about>
+      <skill>Tiếng anh 4 kĩ năng xuất sắc. Thành thạo Microsoft Office 2010</skill>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+  <experience>
+    <n_514>
+      <id>514</id>
+      <title>Cashier - Barista</title>
+      <level>1</level>
+      <cmpname>Pizza Hut</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>01/2013</from>
+      <to>12/2014</to>
+    </n_514>
+    <n_515>
+      <id>515</id>
+      <title>Server - Cashier</title>
+      <level>1</level>
+      <cmpname>Au Manor De Khai</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>03/2014</from>
+      <to>09/2014</to>
+    </n_515>
+    <n_516>
+      <id>516</id>
+      <title>Trợ giảng</title>
+      <level>1</level>
+      <cmpname>British Council</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>05/2016</from>
+      <to>nay</to>
+    </n_516>
+    <n_1543>
+      <id>1543</id>
+      <title>Barista</title>
+      <level>1</level>
+      <cmpname>The Coffee House</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Vietnam</country>
+      <from>05/2015</from>
+      <to>03/2016</to>
+    </n_1543>
+  </experience>
+  <education>
+    <n_363>
+      <id>363</id>
+      <school>Đại Học Hoa Sen</school>
+      <degrees>Cao Đẳng</degrees>
+      <fieldofstudy>Ngôn ngữ Anh</fieldofstudy>
+      <from>2011</from>
+      <to>2014</to>
+    </n_363>
+  </education>
+  <appliedjob>
+    <total>6</total>
+    <strjo>337,326,142,140,207,477</strjo>
+  </appliedjob>
+</information>

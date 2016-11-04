@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>312</id>
+      <email>thdaisy97@gmail.com</email>
+      <username/>
+      <name>Lê Thanh Thu Hiền</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0969957483</phone>
+      <address>78/16/2b đuờng 11 f11 quận Gò Vấp </address>
+      <city>30</city>
+      <dob>1997-11-16</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1468932862</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>16</day>
+      <month>11</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.833648</lat>
+      <lng>106.684305</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_34>
+      <id>34</id>
+      <title>Quận 1</title>
+      <level>1</level>
+      <cmpname>Cty Vịêt Cafe - The Coffee Bean and Tea Leaf</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Vịêt Nam</country>
+      <from>1 năm</from>
+      <to>2 năm</to>
+    </n_34>
+  </experience>
+  <education>
+    <n_23>
+      <id>23</id>
+      <school>Đại học Sài Gòn</school>
+      <degrees>Sinh viên</degrees>
+      <fieldofstudy>Tâm lý học </fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_23>
+  </education>
+  <user_cv>
+    <db>
+      <ui>312</ui>
+      <title>Barista</title>
+      <experience>1</experience>
+      <category>14,15,27,29,35</category>
+      <type>1,2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <skill>Barista , Cashier , Gourmet</skill>
+      <keyword>Giao tiếp hiệu quả,Trung thực,Tinh thần trách nhiệm,Chịu được áp lực công việc,Đúng giờ</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>69,126,163,201,199,248</strjo>
+  </appliedjob>
+</information>

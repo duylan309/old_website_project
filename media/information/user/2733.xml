@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2733</id>
+      <email>Jaydenlee2803@gmail.com</email>
+      <username/>
+      <name>Lê Hoài Phương</name>
+      <im>2733_beautyplus-20160916002531-save.jpg</im>
+      <gender>1</gender>
+      <phone>01228206230</phone>
+      <address>Số 4 Tôn Thất Thuyết phường 18 quận 4</address>
+      <city>30</city>
+      <dob>1996-3-28</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473830550</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1473830550</last_signin>
+      <day>28</day>
+      <month>3</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.753659</lat>
+      <lng>106.7171989</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_605>
+      <id>605</id>
+      <title>Nhân viên pha chế</title>
+      <level>1</level>
+      <cmpname>Phúc long coffee house</cmpname>
+      <city>Tphcm</city>
+      <country>Việt nam</country>
+      <from>26/12/2015</from>
+      <to>Bây giờ</to>
+    </n_605>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>2733</ui>
+      <title>Nhân viên pha chế cà phê</title>
+      <experience>1</experience>
+      <category>14,15,16,17,19,20,26,27,28,29,30,31</category>
+      <type>2,4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Đã tốt nghiệp cấp 3 nhưng không đủ kinh tế để học đại học nên hiện tại không vướng bận lịch học hay gia đình. có thể làm xoay ca linh động.</about>
+      <skill>Có kinh nghiệm pha chế cà phê tại Phúc Long coffee house crescent mall quận 7 trong vòng 1 năm trở lại đây. Trước đó đã từng làm phục vụ bán hàng tại Tous Les Jours và Lotte Cinema Diamond</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>11</total>
+    <strjo>130,247,252,201,219,171,266,253,240,250,311</strjo>
+  </appliedjob>
+  <savedjob/>
+</information>

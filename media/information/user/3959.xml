@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3959</id>
+      <email>sori242412@gmail.com</email>
+      <username/>
+      <name>Sơ Ri</name>
+      <im>1795811403993580_so-ri.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474904817</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <experience>
+    <n_871>
+      <id>871</id>
+      <title>Pha chế</title>
+      <level>1</level>
+      <cmpname>Ty roll coffe</cmpname>
+      <city>Đà Nẵng</city>
+      <country>Việt Nam</country>
+      <from>4/5/2015</from>
+      <to>1/6/2016</to>
+    </n_871>
+  </experience>
+  <education>
+    <n_648>
+      <id>648</id>
+      <school>Hướng nghiệp á âu</school>
+      <degrees>A</degrees>
+      <fieldofstudy>Pha chế</fieldofstudy>
+      <from>15/4/2016</from>
+      <to>15/6/2016</to>
+    </n_648>
+  </education>
+  <savedjob>
+    <total>1</total>
+    <strjo>247</strjo>
+  </savedjob>
+</information>

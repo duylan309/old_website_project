@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4236</id>
+      <email>cucnguyen8116@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Cúc</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0932882709</phone>
+      <address>861/84/6 Trần Xuân Soạn, P. Tân Hưng, Q.7</address>
+      <city>30</city>
+      <dob>1994-4-15</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475041422</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>15</day>
+      <month>4</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.751605</lat>
+      <lng>106.69728</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên pha chế, phục vụ</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Hòa đồng, vui vẻ, chịu khó học hỏi, chịu được áp lực từ công việc.</skill>
+      <ui>4236</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>349,201,341</strjo>
+  </appliedjob>
+</information>

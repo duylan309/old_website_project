@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7342</id>
+      <email>Tranhoangyennhi123@gmail.com</email>
+      <username/>
+      <name>Trần Hoàng Yến Nhi</name>
+      <im>7342_img-1485.JPG</im>
+      <gender>2</gender>
+      <phone>0909942414</phone>
+      <address>74, Lê Văn Thọ, quận Gò Vấp</address>
+      <city>30</city>
+      <dob>1997-6-12</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477188434</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>12</day>
+      <month>6</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.840041</lat>
+      <lng>106.659752</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15</category>
+      <type>5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Có kinh nghiệm làm phục vụ nhà hàng, cà phê môi trường chuyên nghiệp </skill>
+      <ui>7342</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>15</total>
+    <strjo>238,105,64,504,414,340,364,165,279,162,255,171,478,247,101</strjo>
+  </appliedjob>
+</information>

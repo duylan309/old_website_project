@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1481</id>
+      <email>thuong.chau80@yahoo.com</email>
+      <username/>
+      <name>Thuong Hoai Chau</name>
+      <im>776621525812016_thuong-hoai-chau.jpg</im>
+      <gender>2</gender>
+      <dob>1996-10-5</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472402233</created>
+      <day>5</day>
+      <month>10</month>
+      <year>1996</year>
+      <last_signin>1472402233</last_signin>
+      <phone>0945463159</phone>
+      <address>2/59 Phan Thúc Duyện, P4, Quận Tân Bình</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8037146</lat>
+      <lng>106.6621721</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>1481</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,20,27</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>en</lang>
+      <s1>18</s1>
+      <salary>1</salary>
+      <skill>- Sinh viên năm 3 chuyên ngành quản trị khách sạn trường Đại Học Tài Chính Marketing&#13;
+- Kinh nghiệm 6 tháng vị trí waiter tại GreenS Salad và Nika Coffee.&#13;
+- Kĩ năng giao tiếp tiếng Anh tốt.&#13;
+- Kĩ năng xử lý tình huống tốt&#13;
+- Chịu được áp lực công việc cao</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

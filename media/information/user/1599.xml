@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1599</id>
+      <email>kimduyen41295@gmail.com</email>
+      <username/>
+      <name>Trần Thị Kim Duyên</name>
+      <im/>
+      <gender>0</gender>
+      <phone/>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472625606</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1472625606</last_signin>
+    </db>
+  </userinfo>
+  <experience>
+    <n_344>
+      <id>344</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>Công Ty TNHH B’s mart</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>Tháng 1/2014</from>
+      <to>Tháng 10/2015</to>
+    </n_344>
+    <n_345>
+      <id>345</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>Công Ty Cổ Phần DVTM Vincommerce</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>Tháng 11/2015</from>
+      <to>Tháng 7/2016</to>
+    </n_345>
+  </experience>
+  <education>
+    <n_248>
+      <id>248</id>
+      <school>Đại học Mở</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Luật kinh tế</fieldofstudy>
+      <from>Đang học</from>
+      <to>Đang học</to>
+    </n_248>
+  </education>
+</information>

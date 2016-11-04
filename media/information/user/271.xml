@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>271</id>
+      <email>quynhnguyen3007@gmail.com</email>
+      <username/>
+      <name>Nguyễn Lâm Phương Quỳnh</name>
+      <im/>
+      <gender>0</gender>
+      <phone>09338930258</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1467886378</created>
+      <dayleft>1474963613</dayleft>
+      <is_received_email>1</is_received_email>
+      <page>1</page>
+      <jobleft>3</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>2</total>
+    <strji>87,91</strji>
+  </totalJob>
+</information>

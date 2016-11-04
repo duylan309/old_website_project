@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5310</id>
+      <email>ashleiwardz@gmail.com</email>
+      <username/>
+      <name>Trần Ánh Linh</name>
+      <im>5310_img-20150910-172546.jpg</im>
+      <gender>2</gender>
+      <phone>01202372759</phone>
+      <address>C9-12 Nguyễn Hữu Thọ, khu New Saigon, xã Phước Kiểng, huyện Nhà Bè</address>
+      <city>30</city>
+      <dob>1995-12-8</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475891966</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1475891966</last_signin>
+      <day>8</day>
+      <month>12</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.6952642</lat>
+      <lng>106.704874</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_1>
+      <id>1</id>
+      <school>Université Catholique de l'Ouest</school>
+      <degrees>Bachelor Degree</degrees>
+      <fieldofstudy>Business Management</fieldofstudy>
+      <from>2013</from>
+      <to>2016</to>
+    </n_1>
+  </education>
+  <user_cv>
+    <db>
+      <ui>5310</ui>
+      <title>Nhân viên phục vụ, thu ngân</title>
+      <experience>7</experience>
+      <category>14,15,16,17,18,19,20,26,28,29,35</category>
+      <type>1,2,3,4,5,6</type>
+      <level>1,2,3</level>
+      <lang>vi,en</lang>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <about>Ham học hỏi, làm việc nhóm tốt, tỉ mỉ và cẩn thận. &#13;
+</about>
+      <skill>Kĩ năng đánh máy, sử dụng các phần mềm Microsoft Office. &#13;
+</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>302,301,304</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>11</total>
+    <strjo>302,213,387,371,211,398,301,199,348,304,279</strjo>
+  </savedjob>
+</information>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3292</id>
+      <email>dokhanh13579@gmail.com</email>
+      <username/>
+      <name>đỗ ngọc khánh</name>
+      <im>3292_14089140-1172927776104316-1027158244090275944-n.jpg</im>
+      <gender>1</gender>
+      <phone>0986814539</phone>
+      <address>389/1/3 lê trọng tấn phường sơn kì Q.tân phú</address>
+      <city>30</city>
+      <dob>1990-7-15</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474508572</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1474508572</last_signin>
+      <day>15</day>
+      <month>7</month>
+      <year>1990</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8082781</lat>
+      <lng>106.6182375</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_541>
+      <id>541</id>
+      <school>hướng nghiệp á âu</school>
+      <degrees>chứng chỉ</degrees>
+      <fieldofstudy>pha chế</fieldofstudy>
+      <from>6/2016</from>
+      <to>8/2016</to>
+    </n_541>
+  </education>
+  <user_cv>
+    <db>
+      <ui>3292</ui>
+      <title>pha chế,thực tập bếp,nhân viên bếp.</title>
+      <experience>1</experience>
+      <category>14,18,20,35,36</category>
+      <type>1,3,4,5,6</type>
+      <level>1,2,3</level>
+      <lang>vi,en,ch</lang>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <about>tôi là đỗ ngọc khánh,tôi 26 tuổi và đang đọc thân trước đây tôi có làm cơ khí 3 năm sau này tôi phát hiện ra mình có niềm đam mê về văn hóa ẩm thực nên tôi đã nghỉ việc và đi theo niềm đam mê của mình mỗi khi rảnh rỗi tôi thường lang thang các quán cà phê trà sữa lướt wed tìm hiểu về những món ăn ngon,nhà hàng với người bạn của tôi chiếc laptop.</about>
+      <skill>thẳng thắn,thật thà,siêng năng ,ham học hỏi khám phá</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <savedjob>
+    <total>3</total>
+    <strjo>182,276,174</strjo>
+  </savedjob>
+  <appliedjob>
+    <total>4</total>
+    <strjo>193,188,194,191</strjo>
+  </appliedjob>
+</information>

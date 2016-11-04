@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2787</id>
+      <email>Duongdtps03994@gmail.com</email>
+      <username/>
+      <name>Đặng Thuỳ Dương</name>
+      <im>1473922663_dang-thuy-duong.png</im>
+      <gender>2</gender>
+      <phone>0909042341</phone>
+      <address>21/6 Vạn Kiếp f3,quận bình thạnh</address>
+      <city>30</city>
+      <dob>1993-8-21</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473922663</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>21</day>
+      <month>8</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.801699</lat>
+      <lng>106.693569</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng,thu ngân</title>
+      <experience>2</experience>
+      <category>15,17,27,31,35</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>2787</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Vui vẻ hoà đồng,nhanh nhẹn,dễ tiếp thu</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>172,205,368</strjo>
+  </appliedjob>
+  <experience>
+    <n_631>
+      <id>631</id>
+      <title>Quản lí</title>
+      <level>1</level>
+      <cmpname>Ảnh màu studio Thảo Hiền</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2012</from>
+      <to>2016</to>
+    </n_631>
+  </experience>
+  <education>
+    <n_455>
+      <id>455</id>
+      <school>Cao đẳng Fpt Polytechnich HCM</school>
+      <degrees/>
+      <fieldofstudy>Thiết kế đồ hoạ</fieldofstudy>
+      <from>2015</from>
+      <to>2016</to>
+    </n_455>
+  </education>
+</information>

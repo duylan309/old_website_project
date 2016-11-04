@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2778</id>
+      <email>lephuong.thienkim@gmail.com</email>
+      <username/>
+      <name>Lê Phương Thiên Kim</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0983017227</phone>
+      <address>Thủ Đức</address>
+      <city>30</city>
+      <dob>1992-9-18</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473911062</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>18</day>
+      <month>9</month>
+      <year>1992</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8494094</lat>
+      <lng>106.7537055</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Quản lý cửa hàng cà phê</title>
+      <experience>3</experience>
+      <category>14,15,27,30</category>
+      <type>4,5</type>
+      <level>4,5</level>
+      <lang>vi,en</lang>
+      <skill>Lập kế hoạch, xử lý tình huống, quản lý nhân sự</skill>
+      <ui>2778</ui>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>174</strjo>
+  </appliedjob>
+  <education>
+    <n_453>
+      <id>453</id>
+      <school>Đại học Nha Trang</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Quản trị kinh doanh</fieldofstudy>
+      <from>2010</from>
+      <to>2014</to>
+    </n_453>
+  </education>
+  <experience>
+    <n_627>
+      <id>627</id>
+      <title>chuyên viên nhân sự</title>
+      <level>1</level>
+      <cmpname>highland dragon</cmpname>
+      <city>bình dương</city>
+      <country>việt nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_627>
+    <n_628>
+      <id>628</id>
+      <title>trợ lý nhân sự</title>
+      <level>1</level>
+      <cmpname>quảng cáo gia hòa</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>việt nam</country>
+      <from>2014</from>
+      <to>2015</to>
+    </n_628>
+    <n_629>
+      <id>629</id>
+      <title>Leader Event</title>
+      <level>1</level>
+      <cmpname>JMB media</cmpname>
+      <city>nha trang</city>
+      <country>việt nam</country>
+      <from>2013</from>
+      <to>2014</to>
+    </n_629>
+    <n_630>
+      <id>630</id>
+      <title>ca trưởng</title>
+      <level>1</level>
+      <cmpname>cà phê bevely hill</cmpname>
+      <city>nha trang</city>
+      <country>việt nam</country>
+      <from>2011</from>
+      <to>2011</to>
+    </n_630>
+  </experience>
+</information>

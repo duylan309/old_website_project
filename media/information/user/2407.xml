@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2407</id>
+      <email>phuongquyenluu95@gmail.com</email>
+      <username/>
+      <name>lưu phương quyên</name>
+      <im>1473479521_luu-phuong-quyen.jpg</im>
+      <gender>0</gender>
+      <phone>01673508798</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473479521</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>en</lang>
+      <skill>hòa đồng,vui vẻ, nhanh nhẹn</skill>
+      <ui>2407</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>105,219,247</strjo>
+  </appliedjob>
+</information>

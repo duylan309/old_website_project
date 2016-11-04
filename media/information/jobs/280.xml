@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>280</id>
+    <ui>2667</ui>
+    <ci>332</ci>
+    <ai>0</ai>
+    <ti>Waiter/ Waitress</ti>
+    <ta/>
+    <le>2</le>
+    <ty>2,4,5</ty>
+    <ex>2</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>4000000</s1>
+    <s2>0</s2>
+    <s3>181</s3>
+    <s4>0</s4>
+    <lo/>
+    <co>vn,for</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en,ja,kr</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>172</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-12</de>
+    <re>0000-00-00</re>
+    <cr>1473746041</cr>
+  </db>
+  <more>
+    <requirement>Có kinh nghiệm trong F&amp;B service&#13;
+Am hiểu về rượu vang là một lợi thế</requirement>
+    <description>1. Phục vụ fine dining.&#13;
+2. Sale rượu vang&#13;
+3. Kiểm tra rượu hàng tháng</description>
+    <benefit>- Tham gia miễn phí các lớp training rượu vang&#13;
+- Được hưởng Tip và Service charge&#13;
+- Được tặng quà vào các ngày lễ</benefit>
+    <keyword>Tinh thần làm việc nhóm,Tinh thần trách nhiệm,Trung thực,Giao tiếp hiệu quả</keyword>
+  </more>
+  <userapplied>
+    <total>23</total>
+    <strui>2727,3775,3982,4009,844,3332,5463,5460,1605,4724,5728,5724,5825,4833,5959,6295,4623,6402,6966,7257,3834,7931,7156</strui>
+  </userapplied>
+</information>

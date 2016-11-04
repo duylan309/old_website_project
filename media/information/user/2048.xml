@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2048</id>
+      <email>ngothuytien0306@gmail.com</email>
+      <username/>
+      <name>Ngô Thủy Tiên</name>
+      <im>1027650263999335_tien-ngo.jpg</im>
+      <gender>2</gender>
+      <dob>1996-6-3</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473178570</created>
+      <day>3</day>
+      <month>6</month>
+      <year>1996</year>
+      <phone>0939520787</phone>
+      <address>Đường D2 - Quận Bình Thạnh </address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8058358</lat>
+      <lng>106.7159504</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_329>
+      <id>329</id>
+      <school>Đại học Khoa Học Xã Hội và Nhân Văn</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Văn Học Ngôn Ngữ</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_329>
+  </education>
+  <savedjob>
+    <total>1</total>
+    <strjo>105</strjo>
+  </savedjob>
+  <user_cv>
+    <db>
+      <ui>2048</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,29,31,35</category>
+      <type>1,2,4,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <skill>- Giao tiếp, ứng xử &#13;
+- Khả năng ứng biến các tình huống&#13;
+- Chịu được môi trường làm việc áp lực cao&#13;
+- Năng động, ham học hỏi </skill>
+      <keyword>Nhiệt tình,Tinh thần làm việc nhóm,Giao tiếp hiệu quả,Kỹ năng giải quyết tình huống,Tập trung trong công việc,Chịu được áp lực công việc</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>219,176,105,172,160,221</strjo>
+  </appliedjob>
+</information>

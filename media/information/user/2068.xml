@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2068</id>
+      <email>tranhoangdung07051997@gmail.com</email>
+      <username/>
+      <name>Trần Hoàng Dung</name>
+      <im>1776186839285220_tran-hoang-dung.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473222124</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <education>
+    <n_334>
+      <id>334</id>
+      <school>Hoa sen</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Nhà hàng dịch vụ ăn uống</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_334>
+  </education>
+</information>

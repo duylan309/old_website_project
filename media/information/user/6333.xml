@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6333</id>
+      <email>kurokainguyen@gmail.com</email>
+      <username/>
+      <name>Kai Nguyễn</name>
+      <im>6333_image.jpg</im>
+      <gender>1</gender>
+      <dob>1996-5-7</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476509598</created>
+      <day>7</day>
+      <month>5</month>
+      <year>1996</year>
+      <last_signin>1476509598</last_signin>
+      <phone>01215854539</phone>
+      <address>018cc lô B3 P3 Q4</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6333</ui>
+      <title>Phụ bếp , phục vụ</title>
+      <experience>2</experience>
+      <category>14,15,16,17,29</category>
+      <type>4,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>376,219,421</strjo>
+  </appliedjob>
+</information>

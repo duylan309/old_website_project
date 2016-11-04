@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7194</id>
+      <email>tothithuytien28@gmail.com</email>
+      <username/>
+      <name>Tô Thị Thủy Tiên</name>
+      <im>7194_img-20160109-231019.jpg</im>
+      <gender>2</gender>
+      <phone>01659656258</phone>
+      <address>5350/43/6 quốc lộ 1a, phường an phú đông, quận 12</address>
+      <city>30</city>
+      <dob>1997-10-28</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477114299</created>
+      <dayleft>0</dayleft>
+      <jobleft>0</jobleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1477114299</last_signin>
+      <day>28</day>
+      <month>10</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8734</lat>
+      <lng>106.744426</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>7194</ui>
+      <title>nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,17,29</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Siêng năng, trung thực, có trách nhiệm, hòa đồng</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>215,518,459</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2269</id>
+      <email>cau3cuong47sh@gmail.com</email>
+      <username/>
+      <name>Phạm Xuân Cường</name>
+      <im>2095921947300401_pham-xuan-cuong.jpg</im>
+      <gender>1</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473344405</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục Vụ</title>
+      <experience>7</experience>
+      <category>14,29</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Nhanh nhẹn dáng dễ nhìn</skill>
+      <ui>2269</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>234,191</strjo>
+  </appliedjob>
+</information>

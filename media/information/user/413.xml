@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>413</id>
+      <email>Tami.min253@gmail.com</email>
+      <username/>
+      <name>Lê Hoàng Thảo Vy</name>
+      <im>868551296582533_le-hoang-vy.jpg</im>
+      <gender>2</gender>
+      <dob>1995-3-25</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470067221</created>
+      <day>25</day>
+      <month>3</month>
+      <year>1995</year>
+      <phone>01208206802</phone>
+      <address>97/14/7 ĐHT2, p.Tân Hưng Thuận, q.12</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_63>
+      <id>63</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Nến cafe</cmpname>
+      <city>Hồ chí minh</city>
+      <country>Việt nam</country>
+      <from>Tháng 6/2013</from>
+      <to>Tháng 8/2013</to>
+    </n_63>
+    <n_65>
+      <id>65</id>
+      <title>Gia sư anh văn</title>
+      <level>1</level>
+      <cmpname>Tại gia</cmpname>
+      <city>Hồ chí minh</city>
+      <country>Việt nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_65>
+  </experience>
+  <education>
+    <n_45>
+      <id>45</id>
+      <school>Đại học Hoa Sen</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Quản trị công nghệ truyền thông</fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_45>
+  </education>
+  <user_cv>
+    <db>
+      <ui>413</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <skill></skill>
+      <keyword>Giao tiếp hiệu quả,Chịu được áp lực công việc,Nhiệt tình,Trung thực,Tinh thần làm việc nhóm,Kỹ năng chăm sóc khách hàng,Tinh thần trách nhiệm,Tập trung trong công việc</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>64</strjo>
+  </appliedjob>
+</information>

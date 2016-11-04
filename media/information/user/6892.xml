@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6892</id>
+      <email>emsesongviem8642@yahoo.com</email>
+      <username/>
+      <name>Nguyễn Thái Tường Vy</name>
+      <im>1476927861_nguyen-thai-tuong-vy.png</im>
+      <gender>2</gender>
+      <phone>01225714171</phone>
+      <address>50/39/12 đinh tiên hoàng quận bình thạnh</address>
+      <city>30</city>
+      <dob>1988-2-21</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476927861</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>21</day>
+      <month>2</month>
+      <year>1988</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.795305</lat>
+      <lng>106.697325</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>pha chế , nấu ăn</title>
+      <experience>2</experience>
+      <category>15</category>
+      <type>4,6</type>
+      <level>4,5</level>
+      <lang>vi,en</lang>
+      <skill>chuyên pha chế </skill>
+      <ui>6892</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Thích làm việc theo dạng công đồng và sự phát triển theo chiều hướng cố định và theo đuổi những đam mê</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>222,126</strjo>
+  </appliedjob>
+  <experience>
+    <n_1364>
+      <id>1364</id>
+      <title>43 nguyễn hữu cầu quận 1</title>
+      <level>1</level>
+      <cmpname>Bukafe</cmpname>
+      <city>TPHCM</city>
+      <country>viet nam </country>
+      <from>2010</from>
+      <to>2014</to>
+    </n_1364>
+  </experience>
+</information>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4715</id>
+      <email>Tan_tandrm@yaho.com.vn</email>
+      <username/>
+      <name>Nguyễn văn tân</name>
+      <im/>
+      <gender>1</gender>
+      <phone>01202821856</phone>
+      <address>Hồ văn long,  bình tân, TPHCM</address>
+      <city>30</city>
+      <dob>1991-3-27</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475460549</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>27</day>
+      <month>3</month>
+      <year>1991</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục vụ nhà hàng, phụ bếp</title>
+      <experience>1</experience>
+      <category>14,15,31</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Học qua quản lý nhà hàng.</skill>
+      <ui>4715</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Trung thực, siêng năng, hiền.  </about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>292,191,364</strjo>
+  </appliedjob>
+</information>

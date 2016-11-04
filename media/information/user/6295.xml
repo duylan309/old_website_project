@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6295</id>
+      <email>swingofangel@gmail.com</email>
+      <username/>
+      <name>Vũ Thế Nam</name>
+      <im>1476467283_vu-the-nam.png</im>
+      <gender>1</gender>
+      <phone>01686220731</phone>
+      <address>150/16/17 Lý Chính Thắng, quận 3</address>
+      <city/>
+      <dob>1993-8-3</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476467283</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>3</day>
+      <month>8</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ, giám sát tiệm cà phê</title>
+      <experience>2</experience>
+      <category>14,15,36</category>
+      <type>1,4,6</type>
+      <level>2,4</level>
+      <lang>vi,en</lang>
+      <skill>set up các loại tiệc&#13;
+lấy order và phục vụ khách&#13;
+pha chế các loại cà phê, smoothie cơ bản</skill>
+      <ui>6295</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>293,280,211,202</strjo>
+  </appliedjob>
+</information>

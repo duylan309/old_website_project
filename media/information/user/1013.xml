@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1013</id>
+      <email>truclinh1306@gmail.com</email>
+      <username/>
+      <name>Trần Thị Hồng Phước</name>
+      <im>1105422592828656_anna-phuoc.jpg</im>
+      <gender>2</gender>
+      <dob>1996-6-13</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471585823</created>
+      <day>13</day>
+      <month>6</month>
+      <year>1996</year>
+      <phone>0902731792</phone>
+      <address>69/3E Tôn Thất Đạm Phường Bến Nghé Q1</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.771368</lat>
+      <lng>106.702819</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_238>
+      <id>238</id>
+      <title>Barista-Barista Trainer-Shift Supervisor</title>
+      <level>1</level>
+      <cmpname>Caffe Bene</cmpname>
+      <city>Tphcm</city>
+      <country>Việt Nam</country>
+      <from>12/2014</from>
+      <to>7/2016</to>
+    </n_238>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>1013</ui>
+      <title>Barista</title>
+      <experience>2</experience>
+      <category>14,15,29,35</category>
+      <type>1,2,6</type>
+      <level>2,4</level>
+      <lang>vi,en</lang>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <skill>Học hỏi nhanh, giao tiếp tốt, có tầm quan sát, làm việc nhóm hiệu quả, có tinh thần trách nhiệm cao và hiểu ý khách hàng </skill>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Tinh thần trách nhiệm,Tinh thần làm việc nhóm,Tập trung trong công việc,Chịu được áp lực công việc</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>119,64</strjo>
+  </appliedjob>
+</information>

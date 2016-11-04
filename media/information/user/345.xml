@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>345</id>
+      <email>keokeo125@gmail.com</email>
+      <username/>
+      <name>Quỳnh Như</name>
+      <im>345_13819291-1337439139618533-950504428-n.jpg</im>
+      <gender>2</gender>
+      <dob>1996-8-10</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1469798359</created>
+      <day>10</day>
+      <month>8</month>
+      <year>1996</year>
+      <phone>01627507899</phone>
+      <address>188/7,phạm ngũ lão, 7, Gò Vấp</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.825912</lat>
+      <lng>106.6805679</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_26>
+      <id>26</id>
+      <school>Đại hoc Hoa Sen</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Ngôn ngữ anh</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_26>
+  </education>
+  <user_cv>
+    <db>
+      <ui>345</ui>
+      <title>Thu ngân, bán hàng, sự kiện</title>
+      <experience>1</experience>
+      <category>17</category>
+      <type>2,3,4,5,6</type>
+      <level>1,2</level>
+      <lang>vi,en,ja</lang>
+      <s1>1500000</s1>
+      <salary>1</salary>
+      <skill>Kĩ năng bán hàng, làm việc nhóm, đã từng làm trong các nhà hàng Soffitel, Pacharan, Gyoza no teiou...&#13;
+Từng làm bán hàng trong SHAT sandal&#13;
+Đang làm freelancer trong các công ty quảng cáo, hiện đang là thực tập sinh của IDG Việt Nam</skill>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Tinh thần trách nhiệm,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+  <savedjob>
+    <total>1</total>
+    <strjo>82</strjo>
+  </savedjob>
+</information>

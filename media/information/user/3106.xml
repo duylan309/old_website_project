@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3106</id>
+      <email>dangbaolam997@gmail.com</email>
+      <username/>
+      <name>ĐẶNG BẢO LÂM</name>
+      <im>1474284232_dang-bao-lam.png</im>
+      <gender>1</gender>
+      <phone>0933514362</phone>
+      <address>P6.10 Chung cư Vạn Đô, 348 Bến Vân Đồn, P1, Quận 4</address>
+      <city>30</city>
+      <dob>1997-7-1</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474284231</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>1</day>
+      <month>7</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7550862</lat>
+      <lng>106.6900214</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế</title>
+      <experience>1</experience>
+      <category>14,15</category>
+      <type>5</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill>Bản thân đã có 1 năm kinh nghiệm làm pha chế và thu ngân bên hệ thống trà sữa Hot&amp;Cold.</skill>
+      <ui>3106</ui>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <about>Hòa đồng, thân thiện, vui vẻ, luôn tìm tòi và học hỏi trong công việc</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>195</strjo>
+  </appliedjob>
+  <experience>
+    <n_690>
+      <id>690</id>
+      <title>Pha Chế - Thu ngân</title>
+      <level>1</level>
+      <cmpname>Trà sữa Hot&amp;Cold</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>8/2015</from>
+      <to>8/2016</to>
+    </n_690>
+  </experience>
+  <education>
+    <n_510>
+      <id>510</id>
+      <school>SaiGon Tourism Vocational College</school>
+      <degrees>Cao Đẳng</degrees>
+      <fieldofstudy>Quản trị Khách Sạn</fieldofstudy>
+      <from>2015</from>
+      <to>2018</to>
+    </n_510>
+  </education>
+</information>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>410</id>
+      <email>huyentran120594@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Huyền Trân</name>
+      <im>410_1914533-991541390916041-8362714560342214393-n.jpg</im>
+      <gender>2</gender>
+      <dob>1994-5-12</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470063765</created>
+      <day>12</day>
+      <month>5</month>
+      <year>1994</year>
+      <phone>0961152098</phone>
+      <address>150 Trần Bá Giao- P5- Gò Vấp</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8283312</lat>
+      <lng>106.6919892</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_43>
+      <id>43</id>
+      <school>Đại Học Quốc Tế Hồng Bàng </school>
+      <degrees/>
+      <fieldofstudy>Ngôn ngữ Anh</fieldofstudy>
+      <from>2012</from>
+      <to>Hiện tại</to>
+    </n_43>
+  </education>
+  <experience>
+    <n_61>
+      <id>61</id>
+      <title>lễ tân, PG</title>
+      <level>1</level>
+      <cmpname>Đức Vượng Hotel &amp; Rooftop Bar, công ty Delta, TCM, OMG, Gia Hòa, Thế Kỷ, Menta, Chiến Thắng, Đoàn Gia...</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2012</from>
+      <to>hiện tại</to>
+    </n_61>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>410</ui>
+      <title>Nhân viên đón khách</title>
+      <experience>2</experience>
+      <category>14,18,20,28,29,31,35</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en,fr</lang>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Tinh thần trách nhiệm,Tập trung trong công việc,Nhiệt tình,Trung thực,Kỹ năng chăm sóc khách hàng</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>82,120</strjo>
+  </appliedjob>
+</information>

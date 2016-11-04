@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>605</id>
+      <email>not.myname90@gmail.com</email>
+      <username/>
+      <name>Vũ thị thu hà</name>
+      <im>1110811075655632_ha-stomr.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470633745</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên thu ngân</title>
+      <experience>3</experience>
+      <category>14,15,16,18,20,26,29</category>
+      <type>4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Kỹ năng giao tiếp tốt . Khả năng ứng xử với trường hợp ngoài ý muốn khá tốt . Năng động và thật thà</skill>
+      <ui>605</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>107</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>107</strjo>
+  </savedjob>
+</information>

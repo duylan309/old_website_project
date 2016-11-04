@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3445</id>
+      <email>juyo881997@gmail.com</email>
+      <username/>
+      <name>Dương Thị Kim Mai</name>
+      <im>3445_img-6586.JPG</im>
+      <gender>2</gender>
+      <phone>01232933963</phone>
+      <address>11 đường số 9, khu phố 5, phường Hiệp Bình Phước, quận Thủ Đức</address>
+      <city>30</city>
+      <dob>1997-8-8</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474632914</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>8</day>
+      <month>8</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8611319</lat>
+      <lng>106.7557819</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,17,27,29,35</category>
+      <type>2,6</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill>Giao tiếp anh văn cơ bản</skill>
+      <ui>3445</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>-Hiện là sinh viên năm 2 khoa Ngoại Ngữ thuộc Đại học Công Nghiệp TPHCM&#13;
+-Thích nghe nhạc, đọc sách, nhảy,...&#13;
+-Có thể bắt chước nhiều loại động vật</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>215,222</strjo>
+  </appliedjob>
+  <experience>
+    <n_762>
+      <id>762</id>
+      <title>Phục vụ</title>
+      <level>1</level>
+      <cmpname>Comida</cmpname>
+      <city>TPHCM</city>
+      <country>Việt Nam</country>
+      <from>tháng 6 (2016)</from>
+      <to>tháng 7 (20)16</to>
+    </n_762>
+    <n_763>
+      <id>763</id>
+      <title>Phục vụ</title>
+      <level>1</level>
+      <cmpname>Cơm trưa Minh Nhựt</cmpname>
+      <city>TPHCM</city>
+      <country>Việt Nam</country>
+      <from>tháng 6 (2015)</from>
+      <to>tháng 9 (2015)</to>
+    </n_763>
+  </experience>
+  <education>
+    <n_561>
+      <id>561</id>
+      <school>Đại học Công Nghiệp TPHCM</school>
+      <degrees/>
+      <fieldofstudy>Ngôn Ngữ Anh</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_561>
+  </education>
+</information>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1969</id>
+      <email>Hpvinh0915@gmail.com</email>
+      <username/>
+      <name>Huỳnh phước vinh</name>
+      <im>1969_image.jpg</im>
+      <gender>1</gender>
+      <phone>01228825483</phone>
+      <address/>
+      <city/>
+      <dob>1995-8-21</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473104848</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>21</day>
+      <month>8</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế barista</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>4</type>
+      <level>4</level>
+      <lang>vi</lang>
+      <skill>Nhân viên pha chế 1 năm kinh nghiêm</skill>
+      <ui>1969</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>195,240,201,172</strjo>
+  </appliedjob>
+</information>

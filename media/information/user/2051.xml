@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2051</id>
+      <email>frankytai113@yahoo.com</email>
+      <username/>
+      <name>Lâm Hữu Tài</name>
+      <im>2051_10937797-480796442058788-10313445-n.jpg</im>
+      <gender>0</gender>
+      <phone>0906113367</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473182776</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Giao Hàng Or Phục Vụ</title>
+      <experience>7</experience>
+      <category>15,19</category>
+      <type>4</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>2051</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>69</strjo>
+  </appliedjob>
+  <education>
+    <n_330>
+      <id>330</id>
+      <school>IMC</school>
+      <degrees>Trung Cấp</degrees>
+      <fieldofstudy>Công Nghệ Truyền Thông</fieldofstudy>
+      <from>2012</from>
+      <to>2015</to>
+    </n_330>
+  </education>
+</information>

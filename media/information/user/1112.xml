@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1112</id>
+      <email>phuongluong2611@gmail.com</email>
+      <username/>
+      <name>Lương bảo hoàng phương</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0906370374</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471764190</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế</title>
+      <experience>7</experience>
+      <category>14,15,16,17,18,20,27,28,29,30,31,35,36</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en,ch</lang>
+      <skill/>
+      <ui>1112</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>106</strjo>
+  </appliedjob>
+</information>

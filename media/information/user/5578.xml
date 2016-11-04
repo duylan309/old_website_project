@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5578</id>
+      <email>si.yoon18@gmail.com</email>
+      <username/>
+      <name>Phạm vũ anh trâm</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0925416605</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476091638</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phụ bếp</title>
+      <experience>1</experience>
+      <category>14,15,31,35</category>
+      <type>1,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Từng phu bep cho các quán ăn &#13;
+Tạp hoá và pha chế coffee . </skill>
+      <ui>5578</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>276,153</strjo>
+  </appliedjob>
+</information>

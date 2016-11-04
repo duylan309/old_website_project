@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2858</id>
+      <email>Creo4bien@gmail.com</email>
+      <username/>
+      <name>Trần Thị Mỹ Phúc</name>
+      <im>1474033661_tran-thi-my-phuc.png</im>
+      <gender>2</gender>
+      <phone>01229147121</phone>
+      <address>9/13 đường 2, p.16, Gò Vấp</address>
+      <city>30</city>
+      <dob>1992-5-23</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474033661</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>23</day>
+      <month>5</month>
+      <year>1992</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.833169</lat>
+      <lng>106.68455</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Bartender</title>
+      <experience>1</experience>
+      <category>14,15,16,18,19,20,26,29</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en,ja</lang>
+      <skill>Bartender&#13;
+Tiếng anh</skill>
+      <ui>2858</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>286</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>286</strjo>
+  </savedjob>
+</information>

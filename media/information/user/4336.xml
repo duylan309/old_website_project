@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4336</id>
+      <email>kiettran42@gmail.com</email>
+      <username/>
+      <name>Trần Tuấn Kiệt</name>
+      <im>1161308243922890_tran-kiet.jpg</im>
+      <gender>1</gender>
+      <dob>1995-1-26</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475076504</created>
+      <day>26</day>
+      <month>1</month>
+      <year>1995</year>
+      <phone>0997410045</phone>
+      <address>106 Trần Đình xu, q1,tphcm</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>2</experience>
+      <category>15,16,19,26,27</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>kỹ năng giao tiếp tốt</skill>
+      <ui>4336</ui>
+      <s1>150</s1>
+      <salary>2</salary>
+      <about>tôi là một người hòa đồng, năng động, thích học hỏi môi trường xung quanh và mọi người và với dễ thích nghi với hoàn cảnh</about>
+      <keyword></keyword>
+      <s2>3300000</s2>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>332</strjo>
+  </appliedjob>
+  <experience>
+    <n_920>
+      <id>920</id>
+      <title>nhân viên tư vấn</title>
+      <level>1</level>
+      <cmpname>công ty én vàng</cmpname>
+      <city>hồ chí minh</city>
+      <country>việt nam</country>
+      <from>31/8/2016</from>
+      <to>28/9/2016</to>
+    </n_920>
+    <n_941>
+      <id>941</id>
+      <title>receptionist</title>
+      <level>1</level>
+      <cmpname>fox fitness center</cmpname>
+      <city>hồ chí minh</city>
+      <country>việt nam</country>
+      <from>6/2015</from>
+      <to>12/2015</to>
+    </n_941>
+  </experience>
+  <education>
+    <n_712>
+      <id>712</id>
+      <school>đại học nguyễn tất thành</school>
+      <degrees/>
+      <fieldofstudy>dược học</fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_712>
+  </education>
+</information>

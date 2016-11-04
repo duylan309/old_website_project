@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1797</id>
+      <email>lelinh114@gmai.com</email>
+      <username/>
+      <name>Lê Thị Thuỳ Linh</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01289811494</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472928148</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phụ bếp</title>
+      <experience>1</experience>
+      <category>14,15,20</category>
+      <type>6</type>
+      <level>1,2</level>
+      <lang>ja</lang>
+      <skill/>
+      <ui>1797</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>188,153,200,138</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>471</id>
+      <email>trumquinhon_113@yahoo.com</email>
+      <username/>
+      <name>Kim Hậu</name>
+      <im>1743964122533235_kim-hau.jpg</im>
+      <gender>2</gender>
+      <dob>1997-5-21</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470208248</created>
+      <day>21</day>
+      <month>5</month>
+      <year>1997</year>
+      <phone>0169 296 2627</phone>
+      <address>115/2 Phan Đăng Lưu, Phú Nhuận</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.803731</lat>
+      <lng>106.685483</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15,17,27</category>
+      <type>2,6</type>
+      <level>2</level>
+      <lang>en</lang>
+      <skill>kĩ năng giao tiếp, làm việc nhóm, kiên trì, siêng năng, có khả năng chịu được áp lực công việc, có sức khỏe tốt</skill>
+      <ui>471</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>7</total>
+    <strjo>99,64,93,82,158,181,165</strjo>
+  </appliedjob>
+  <education>
+    <n_79>
+      <id>79</id>
+      <school>Đại học Mở tpHCM</school>
+      <degrees/>
+      <fieldofstudy>Tiếng Trung Quốc</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_79>
+  </education>
+</information>

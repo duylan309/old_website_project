@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6319</id>
+      <email>nice_mouse123456@yahoo.com</email>
+      <username/>
+      <name>Nguyễn Thụy Lan Khanh</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0938152627</phone>
+      <address>321A Đinh Bộ Lĩnh, Phường 26, Quận Bình Thạnh</address>
+      <city>30</city>
+      <dob>1991-12-26</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476497853</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476497853</last_signin>
+      <day>26</day>
+      <month>12</month>
+      <year>1991</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.814367</lat>
+      <lng>106.7100527</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1275>
+      <id>1275</id>
+      <title>Nhân viên Thu ngân/ Phục vụ</title>
+      <level>1</level>
+      <cmpname>Nhà hàng AJISEN RAMEN</cmpname>
+      <city>TP.HCM</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>2016</to>
+    </n_1275>
+    <n_1276>
+      <id>1276</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>VISSAN JOINT STOCK COMPANY</cmpname>
+      <city>TP.HCM</city>
+      <country>Việt Nam</country>
+      <from>2013</from>
+      <to>2013</to>
+    </n_1276>
+    <n_1277>
+      <id>1277</id>
+      <title>Nhân viên Phục vụ</title>
+      <level>1</level>
+      <cmpname>Trung Nguyên coffee</cmpname>
+      <city>TP.HCM</city>
+      <country>Việt Nam</country>
+      <from>2012</from>
+      <to>2012</to>
+    </n_1277>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>6319</ui>
+      <title>Nhân viên Phục vụ/ Thu ngân/ Lễ tân</title>
+      <experience>2</experience>
+      <category>14,20,31</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <about>Tôi hiểu vị trí Quý Công ty đang tuyển dụng còn đòi hỏi người có tinh thần đoàn kết nội bộ và hỗ trợ đồng nghiệp trong quá trình làm việc, hòa đồng với tập thể, có khả năng làm việc độc lập và theo nhóm, cũng như có khả năng làm việc trong môi trường có áp lực cao. Đây chính là những kỹ năng mà tôi đúc kết được qua quá trình học tập và làm thêm từ trước đến nay.&#13;
+Nếu được gia nhập vào đội ngũ nhân viên của Quý Công ty, tôi xin hứa sẽ nỗ lực với cố gắng cao nhất để hoàn thành tốt công việc được giao và sẽ không ngừng học hỏi, nâng cao trình độ của mình để giúp Công ty phát triển ngày càng lớn mạnh. Tôi xin hứa sẽ luôn chấp hành đầy đủ các quy định của Công ty đưa ra.&#13;
+</about>
+      <skill>-	Khả năng làm việc độc lập và theo nhóm tốt.&#13;
+-	Khả năng giao tiếp tốt, hòa đồng với mọi người&#13;
+-	Thích nghi nhanh với hoàn cảnh mới.&#13;
+-	Siêng năng, chịu khó học hỏi trong công việc.&#13;
+-	Nhiệt tình, có tinh thần trách nhiệm với công việc được giao.&#13;
+-	Khả năng làm tốt công việc trong môi trường áp lực với cường độ cao.</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>11</total>
+    <strjo>247,235,350,275,368,349,427,378,211,219,154</strjo>
+  </appliedjob>
+</information>

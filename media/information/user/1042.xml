@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1042</id>
+      <email>linh.xu1995@yahoo.com</email>
+      <username/>
+      <name>Linh Xùuu</name>
+      <im>1786312151587042_linh-xuuu.jpg</im>
+      <gender>2</gender>
+      <dob>1995-10-3</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471626624</created>
+      <day>3</day>
+      <month>10</month>
+      <year>1995</year>
+      <phone>0937036686</phone>
+      <address>274/7 nguyễn văn đậu  bình thạnb</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.806381</lat>
+      <lng>106.687933</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên</title>
+      <experience>2</experience>
+      <category>35</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill></skill>
+      <ui>1042</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>157</strjo>
+  </appliedjob>
+  <experience>
+    <n_249>
+      <id>249</id>
+      <title>Nhân viên bán hàng và chăm sóc khách hàng</title>
+      <level>1</level>
+      <cmpname>Centerist</cmpname>
+      <city>Hồ chí minh</city>
+      <country>Viêt nam </country>
+      <from>2014</from>
+      <to>2016</to>
+    </n_249>
+  </experience>
+</information>

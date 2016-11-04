@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2276</id>
+      <email>Lengoc1514@gmail.com</email>
+      <username/>
+      <name>Lê Thị Mộng Ngọc</name>
+      <im>1473348106_le-thi-mong-ngoc.jpg</im>
+      <gender>0</gender>
+      <phone>0968047735</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473348106</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Bán hàng</title>
+      <experience>1</experience>
+      <category>14,15,17,26,27,29,36</category>
+      <type>2</type>
+      <level>2,4</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>2276</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>156</strjo>
+  </appliedjob>
+</information>

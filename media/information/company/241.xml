@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>241</id>
+    <ui>506</ui>
+    <name>Bugis Singapore</name>
+    <url>bugisrestaurant</url>
+    <im>_bugis-singapore.png</im>
+    <im_banner>_bugis-singapore-cover.png</im_banner>
+    <category>14</category>
+    <phone>08 3823 5444</phone>
+    <address>B3-10c, Vincom Center Dong Khoi, 72 Le Thanh Ton St., District 1</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.778200</lat>
+    <lng>106.702141</lng>
+    <website>http://bugis.com.vn/</website>
+    <about/>
+    <facebook>https://www.facebook.com/bugisrestaurant/</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1470299726</created>
+  </db>
+  <more>
+    <about>Bugis Singapore nhà hàng ẩm thực độc đáo với nhiều món ăn Âu, Á đặc trưng, hấp dẫn. do đầu bếp người Singapore chính gốc chế biến.\r\n\r\nMenu đa dạng phong phú với gấn 200 món ăn. Chắc chắn sẽ giúp cho quý khách hàng có bữa ăn vô cùng ngon miệng.</about>
+    <whyworkus/>
+  </more>
+  <companybanner>_bugis-singapore-cover.png</companybanner>
+  <totalJob>
+    <total>1</total>
+    <strji>125</strji>
+  </totalJob>
+</information>

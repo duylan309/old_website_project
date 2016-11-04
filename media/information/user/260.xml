@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>260</id>
+      <email>info@luburestaurant.com</email>
+      <username/>
+      <name>Lubu Restaurant</name>
+      <im/>
+      <gender>0</gender>
+      <phone>+84862818371</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>3</status>
+      <created>1467789249</created>
+      <dayleft>1478410819</dayleft>
+      <is_received_email>1</is_received_email>
+      <page>5</page>
+      <jobleft>0</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>3</total>
+    <strji>78,79,155</strji>
+  </totalJob>
+  <saveuser>
+    <total>58</total>
+    <strui>261,425,473,514,516,569,641,689,722,740,850,451,880,908,941,958,982,1005,1014,654,1113,1192,1260,1302,1321,1337,626,1340,1460,292,1856,1971,1972,2199,2322,1567,2528,2546,2696,2789,2940,3022,3075,2279,3041,3353,3744,4560,3884,4935,5075,5058,5403,5460,6176,6211,6182,6597</strui>
+  </saveuser>
+</information>

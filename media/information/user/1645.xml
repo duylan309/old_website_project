@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1645</id>
+      <email>anhtuyettrinh09@gmail.com</email>
+      <username/>
+      <name>TRỊNH THỊ TUYẾT ANH</name>
+      <im>1645_image-72eac9fa5daea707105d4bac13b65a4a7d5427495095e3b601c9e5b671042519-v.jpg</im>
+      <gender>2</gender>
+      <phone>0975199010</phone>
+      <address>07 ĐƯỜNG SỐ 09 CƯ XÁ BA SON PHƯỜNG 13 QUẬN 06 </address>
+      <city>30</city>
+      <dob>1990-6-15</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472700302</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1472700302</last_signin>
+      <day>15</day>
+      <month>6</month>
+      <year>1990</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_253>
+      <id>253</id>
+      <school>Đại Học Kinh Tế Tphcm</school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy>Quản Trị Kinh Doanh</fieldofstudy>
+      <from>2015</from>
+      <to>2017</to>
+    </n_253>
+  </education>
+  <user_cv>
+    <db>
+      <ui>1645</ui>
+      <title>NHÂN VIÊN</title>
+      <experience>1</experience>
+      <category>14,15,16,17,18,20,26,27,28,29,31,35,36</category>
+      <type>1</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <skill>- Chịu được áp lực cao&#13;
+- Kỹ năng làm việc nhóm tốt&#13;
+- Kỹ năng word &amp; Excel tốt&#13;
+</skill>
+      <keyword>Giao tiếp hiệu quả,Trung thực,Nhiệt tình</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>220</strjo>
+  </appliedjob>
+</information>

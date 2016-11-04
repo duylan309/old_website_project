@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2418</id>
+      <email>nguyenhoangthai1208@gmail.com</email>
+      <username/>
+      <name>NGUYỄN HOÀNG THÁI</name>
+      <im>1473488908_nguyen-hoang-thai.jpg</im>
+      <gender>1</gender>
+      <phone>01653727117</phone>
+      <address>11 Lô C4, Đường 40, Phường Tân Phong, Quận 7, Tp.HCM</address>
+      <city>30</city>
+      <dob>1992-8-12</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473488908</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>12</day>
+      <month>8</month>
+      <year>1992</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7335118</lat>
+      <lng>106.6974634</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phụ Bếp</title>
+      <experience>2</experience>
+      <category>14</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>2418</ui>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <about>Vui vẻ, hòa đồng, có thể làm mọi việc được giao</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>191,188,276,139</strjo>
+  </appliedjob>
+  <experience>
+    <n_532>
+      <id>532</id>
+      <title>Bếp phụ</title>
+      <level>1</level>
+      <cmpname>Nhà hàng Chateau</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>11-2013</from>
+      <to>4-2016</to>
+    </n_532>
+    <n_533>
+      <id>533</id>
+      <title>Bếp Thớt</title>
+      <level>1</level>
+      <cmpname>Nhà hàng Zenbay Q7</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>4-2016</from>
+      <to>7-2016</to>
+    </n_533>
+    <n_534>
+      <id>534</id>
+      <title>Phụ bếp</title>
+      <level>1</level>
+      <cmpname>Khách sạn Lavender</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>7-2016</from>
+      <to>8-2016</to>
+    </n_534>
+  </experience>
+  <education>
+    <n_382>
+      <id>382</id>
+      <school>Trung cấp du lịch và khách sạn Saigontourist</school>
+      <degrees>Chứng chỉ bếp Âu căn bản</degrees>
+      <fieldofstudy>Bếp Âu</fieldofstudy>
+      <from>8-4-2015</from>
+      <to>18-09-2015</to>
+    </n_382>
+  </education>
+</information>

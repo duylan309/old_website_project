@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>556</id>
+      <email>bichhanh997@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Bích Hạnh</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0969495682</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470478209</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng</title>
+      <experience>7</experience>
+      <category>15,17,29,31,35,36</category>
+      <type>4,5,6</type>
+      <level>2,3</level>
+      <lang>vi,en,ar</lang>
+      <skill>Tư vấn giao tiếp</skill>
+      <ui>556</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>82</strjo>
+  </appliedjob>
+</information>

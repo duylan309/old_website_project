@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1316</id>
+      <email>trangphamhong@gmail.com</email>
+      <username/>
+      <name>Trang Pham</name>
+      <im>1202842986413327_trang-pham.jpg</im>
+      <gender>2</gender>
+      <dob>1991-9-10</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472108464</created>
+      <day>10</day>
+      <month>9</month>
+      <year>1991</year>
+      <phone>0945 763 795</phone>
+      <address>53 Vườn Lài, Tân Phú</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.787591</lat>
+      <lng>106.634193</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_294>
+      <id>294</id>
+      <title>Copywriter</title>
+      <level>1</level>
+      <cmpname>Ureka media</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Viet Nam</country>
+      <from>04 - 2013</from>
+      <to>11 - 2014</to>
+    </n_294>
+    <n_295>
+      <id>295</id>
+      <title>Creative Executive</title>
+      <level>1</level>
+      <cmpname>Panpage Viet Nam</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Malaysia</country>
+      <from>02 - 2014</from>
+      <to>02-2016</to>
+    </n_295>
+    <n_296>
+      <id>296</id>
+      <title>Project Leader</title>
+      <level>1</level>
+      <cmpname>Starseed</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>France</country>
+      <from>04 - 2016</from>
+      <to>08 - 2016</to>
+    </n_296>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>1316</ui>
+      <title>Marketing</title>
+      <experience>2</experience>
+      <category>15</category>
+      <type>1,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>9000000</s1>
+      <salary>1</salary>
+      <skill>- Thiết kế&#13;
+- Social media plan&#13;
+- Presentation&#13;
+- Writting&#13;
+- Crisis Management</skill>
+      <keyword>Sáng tạo&#13;
+Dễ gần&#13;
+Tinh thần làm việc nhóm&#13;
+Kỹ năng xử lý khủng hoảng&#13;
+Ngoan hiền&#13;
+Biết lắng nghe</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>99</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1947</id>
+      <email>dieuhuyenn0702@gmail.com</email>
+      <username/>
+      <name>Bùi Thuỵ Diệu Huyền</name>
+      <im>1947_image.jpeg</im>
+      <gender>0</gender>
+      <phone>0976290524</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473085095</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên pha chế</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>đã học qua lớp pha chế đặc biệt, bếp trưởng bếp bánh trường Hướng Nghiệp Á Âu, có thẻ xanh(VSATTP)</skill>
+      <ui>1947</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>201</strjo>
+  </appliedjob>
+  <experience>
+    <n_437>
+      <id>437</id>
+      <title>nhân viên</title>
+      <level>1</level>
+      <cmpname>KuJuz coffee</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>12-2014</from>
+      <to>02-2015</to>
+    </n_437>
+  </experience>
+  <savedjob>
+    <total>1</total>
+    <strjo>189</strjo>
+  </savedjob>
+  <education>
+    <n_314>
+      <id>314</id>
+      <school>hướng nghiệp á âu</school>
+      <degrees>tín chỉ</degrees>
+      <fieldofstudy>bếp trưởng bếp bánh-pha chế đặc biệt</fieldofstudy>
+      <from>2015</from>
+      <to>2016</to>
+    </n_314>
+  </education>
+</information>

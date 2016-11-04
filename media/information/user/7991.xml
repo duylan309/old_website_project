@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7991</id>
+      <email>mit_mm97@yahoo.com</email>
+      <username/>
+      <name>Hà Hạnh Hoàng Mi</name>
+      <im>990612554417348_ha-hanh-hoang-mi.jpg</im>
+      <gender>2</gender>
+      <dob>1997-12-30</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477571245</created>
+      <day>30</day>
+      <month>12</month>
+      <year>1997</year>
+      <phone>0933076189</phone>
+      <address>581/39 trường chinh f.tân sơn nhì q.tân phú</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8097636</lat>
+      <lng>106.6338228</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>7991</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15</category>
+      <type>5</type>
+      <level>2</level>
+      <lang>en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Giọng nói dễ nghe tự tin trong giao tiếp</about>
+      <skill>Trực điện thoại nói chuyện và bán hàng với khách</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <education>
+    <n_1293>
+      <id>1293</id>
+      <school>Đại học ngoại ngữ tin học hcm</school>
+      <degrees/>
+      <fieldofstudy>Quan hệ quốc tế</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_1293>
+  </education>
+</information>

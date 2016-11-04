@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1566</id>
+      <email>truongdep1292@gmail.com</email>
+      <username/>
+      <name>Trương Thị Đẹp</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01648016326</phone>
+      <address>Phạm Thế Hiển, Phường 4, Quận 8</address>
+      <city>30</city>
+      <dob>1992-12-16</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472549676</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1472549676</last_signin>
+      <day>16</day>
+      <month>12</month>
+      <year>1992</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7442653</lat>
+      <lng>106.6739792</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>1566</ui>
+      <title>Nhân viên</title>
+      <experience>7</experience>
+      <category>15,17,31,35,36</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>en</lang>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Tinh thần trách nhiệm,Chịu được áp lực công việc,Kỹ năng giải quyết tình huống,Trung thực,Nhiệt tình,Tinh thần làm việc nhóm,Tập trung trong công việc</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>188</strjo>
+  </appliedjob>
+</information>

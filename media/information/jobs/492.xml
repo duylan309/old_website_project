@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>492</id>
+    <ui>5545</ui>
+    <ci>386</ci>
+    <ai>0</ai>
+    <ti>Kế toán tổng hợp</ti>
+    <ta></ta>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>2</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description></description>
+    <requirement></requirement>
+    <benefit></benefit>
+    <keyword></keyword>
+    <ad></ad>
+    <location_id>287</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-10</de>
+    <re>0000-00-00</re>
+    <cr>1476954629</cr>
+  </db>
+  <more>
+    <requirement></requirement>
+    <description> 1.Kiểm tra đối chiếu số liệu giữa các đơn vị nội bộ, dữ liệu chi tiết và tổng hợp. 2. Kiểm tra các định khoản các nghiệp vụ phát sinh. 3. Kiểm tra sự cân đối giữa số liệu kế toán chi tiết và tổng hợp 4. Kiểm tra số dư cuối kỳ có hợp lý và Khớp đúng với các báo cáo chi tiết. 5. Hạch toán thu nhập, chi phí, khấu hao,TSCĐ,công n ợ, nghi ệp v ụ khác, thu ế GTGT và báo cáo thuế khối văn phòng CT, lập quyết toán văn phòng cty. 6. Theo dõi công nợ khối văn phòng công ty, quản lý tổng quát công n ợ toàn công ty. Xác định và đề xuất lập dự phòng hoặc xử lý công nợ phải thu khó đòi toàn công ty. 7. In sổ chi tiết và tổng hợp khối văn phòng, tổng hợp công ty theo qui định. 8. Lập báo cáo tài chính theo từng quí, 6 tháng, năm và các báo cáo giải trình chi tiết. 9. Hướng dẫn xử lý và hạch toán các nghiệp vụ kế toán. 10. Tham gia phối hợp công tác kiểm tra, kiểm kê tại các đơn vị cơ sở. 11. Cải tiến phương pháp hạch toán và chế độ báo cáo. 12. Thống kê và tổng hợp số liệu kế toán khi có yêu cầu. 13. Cung cấp số liệu Cho Ban Giám Đốc hoặc các đơn vị chức năng khi có yêu cầu. 14. Giải trình số liệu và cung cấp hồ sơ, số liệu cho cơ quan thu ế, ki ểm toán, thanh tra</description>
+    <benefit>Lương và thưởng theo quy định của công ty</benefit>
+    <keyword></keyword>
+  </more>
+</information>

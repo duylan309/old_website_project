@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3399</id>
+      <email>huyvnkg@gmail.com</email>
+      <username/>
+      <name>Nguyễn Vũ Huy</name>
+      <im>3399_10388998-733485340121827-141484271237347428-n.jpg</im>
+      <gender>1</gender>
+      <phone>01632394824</phone>
+      <address>435/1  trần não, quận 2, TP.hcm</address>
+      <city>30</city>
+      <dob>1996-5-22</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474600779</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1474600779</last_signin>
+      <day>22</day>
+      <month>5</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>3399</ui>
+      <title>nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>17,35</category>
+      <type>2,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>đang là sinh viên, có chí cầu tiến, năng nổ, tiếng anh ở mức giao tiếp, </about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>10</total>
+    <strjo>156,311,219,240,253,69,267,184,288,172</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>4</total>
+    <strjo>156,267,184,288</strjo>
+  </savedjob>
+</information>

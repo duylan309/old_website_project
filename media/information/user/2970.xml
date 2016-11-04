@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2970</id>
+      <email>Raw_333@yahoo.com</email>
+      <username/>
+      <name>Nguyễn Phan Sơn Nhựt</name>
+      <im>1474123086_nguyen-phan-son-nhut.png</im>
+      <gender>1</gender>
+      <phone>01647147488</phone>
+      <address>Quận 10</address>
+      <city>30</city>
+      <dob>1992-3-30</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474123086</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>30</day>
+      <month>3</month>
+      <year>1992</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7745965</lat>
+      <lng>106.6679542</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên kinh doanh F&amp;B, nhân viên maketing, nhân viên phục vụ, bếp</title>
+      <experience>2</experience>
+      <category>14,16,19,28,29</category>
+      <type>6</type>
+      <level>4</level>
+      <lang>vi,en,ja</lang>
+      <skill>Phục vụ, bếp nhật, thu ngân, pha chế</skill>
+      <ui>2970</ui>
+      <s1>7000000</s1>
+      <salary>1</salary>
+      <about>Kinh nghiệm 1.5 năm quản lý nhà hàng Nhật Marukame Udon. Từng làm việc trong các nhà hàng 4 sao, cafe, club, trung tâm sự kiện. </about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>240</strjo>
+  </appliedjob>
+  <experience>
+    <n_665>
+      <id>665</id>
+      <title>Leader</title>
+      <level>1</level>
+      <cmpname>Toridoll VLotus</cmpname>
+      <city>Hcm</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>2016</to>
+    </n_665>
+  </experience>
+  <education>
+    <n_487>
+      <id>487</id>
+      <school>Đại học Hùng Vương</school>
+      <degrees>Cử nhân Đại học</degrees>
+      <fieldofstudy>Quản trị nhà hàng - Khách sạn</fieldofstudy>
+      <from>2010</from>
+      <to>2014</to>
+    </n_487>
+  </education>
+</information>

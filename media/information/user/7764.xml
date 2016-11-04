@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7764</id>
+      <email>quynhvy1604@gmail.com</email>
+      <username/>
+      <name>Đỗ Quỳnh Vy</name>
+      <im>1243642982373842_quynh-vy-do.jpg</im>
+      <gender>2</gender>
+      <dob>1994-4-16</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477450213</created>
+      <day>16</day>
+      <month>4</month>
+      <year>1994</year>
+      <last_signin>1477450213</last_signin>
+      <phone>0934275325</phone>
+      <address>115/91/41 Lê Văn Sỹ,Phường 13,Quận Phú Nhuận</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.789562</lat>
+      <lng>106.671276</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>7764</ui>
+      <title>Nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>17,35</category>
+      <type>1,2,4</type>
+      <level>2,3</level>
+      <lang>vi</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Tôi là người thân thiện và thích học hỏi những điều mới.</about>
+      <skill>Kỹ năng giao tiếp,kỹ năng tin học,kỹ năng làm việc nhóm,kỹ năng quản lý thời gian,kỹ năng thuyết trình.</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>429</strjo>
+  </appliedjob>
+</information>

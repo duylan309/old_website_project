@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7599</id>
+      <email>Huynhtrang181198@gmail.com</email>
+      <username/>
+      <name>Đặng bảo thuận</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0922148748</phone>
+      <address>299 ql13 hbp thủ đức</address>
+      <city>30</city>
+      <dob>1995-2-14</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477320805</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>14</day>
+      <month>2</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.836995</lat>
+      <lng>106.713058</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phụ bếp</title>
+      <experience>2</experience>
+      <category>14,16,19,20</category>
+      <type>1</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill></skill>
+      <ui>7599</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Ít nói, hoà đồng, nhanh nhẹn</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>443</strjo>
+  </appliedjob>
+  <experience>
+    <n_1484>
+      <id>1484</id>
+      <title>Phụ bếp</title>
+      <level>1</level>
+      <cmpname>Tàu nhà hàng Elisa</cmpname>
+      <city>Hcm</city>
+      <country>Việt nam</country>
+      <from>2014</from>
+      <to>2016</to>
+    </n_1484>
+    <n_1485>
+      <id>1485</id>
+      <title>Phụ bếp, phụ chảo</title>
+      <level>1</level>
+      <cmpname>Cty one plus</cmpname>
+      <city>Hcm</city>
+      <country>Việt nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_1485>
+  </experience>
+  <education>
+    <n_1233>
+      <id>1233</id>
+      <school>Hướng nghiệp á âu</school>
+      <degrees>Bếp trưởng nghiệp vụ, KT CB món á, âu</degrees>
+      <fieldofstudy/>
+      <from>.</from>
+      <to>.</to>
+    </n_1233>
+    <n_1234>
+      <id>1234</id>
+      <school>Saigontourist</school>
+      <degrees>KT CB món ăn</degrees>
+      <fieldofstudy/>
+      <from>.</from>
+      <to>.</to>
+    </n_1234>
+  </education>
+</information>

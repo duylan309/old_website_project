@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>509</id>
+    <ui>7487</ui>
+    <ci>424</ci>
+    <ai>0</ai>
+    <ti>Baker (Bếp chính/ bếp phụ)</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>2</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>3500000</s1>
+    <s2>7000000</s2>
+    <s3>159</s3>
+    <s4>318</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14,15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description>- Chế biến các loại bánh ngọt, nghiên cứu và làm các loại bánh theo yêu cầu của Bếp Trưởng.\r\n- Đảm bảo chất lượng sản phẩm của mình cũng như tôn trọng chiến lược hợp tác với các bộ phận khác\r\n- Giữ gìn chỗ làm sạch sẽ và gọn gàng\r\n- Giữ gìn các thiết bị/ dụng cụ theo đúng tiêu chuẩn an toàn thực phẩm \r\n- Hợp tác và tôn trọng các nhân viên bộ phận khác \r\n- Kiểm kho &amp; update hàng kho \r\n- Các thông tin khác sẽ trao đổi khi phỏng vấn</description>
+    <requirement>- Có kinh nghiệm làm bánh tối thiểu 1 năm\r\n- Biết kỹ năng cơ bản làm bánh\r\n- Có thể làm việc dưới áp lực\r\n- Kiến thức về tất cả các loại bánh lạnh  \r\n- Kiến thức về tất cả các loại bánh Pastry \r\n- Kỹ năng học hỏi &amp; sáng tạo hình ảnh bánh </requirement>
+    <workhour/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>368</location_id>
+    <lat>10.772547</lat>
+    <lng>10.772547</lng>
+    <de>2016-11-30</de>
+    <re>0000-00-00</re>
+    <cr>1477291016</cr>
+  </db>
+  <more>
+    <requirement>- Có kinh nghiệm làm bánh tối thiểu 1 năm&#13;
+- Biết kỹ năng cơ bản làm bánh&#13;
+- Có thể làm việc dưới áp lực&#13;
+- Kiến thức về tất cả các loại bánh lạnh  &#13;
+- Kiến thức về tất cả các loại bánh Pastry &#13;
+- Kỹ năng học hỏi &amp; sáng tạo hình ảnh bánh </requirement>
+    <description>- Chế biến các loại bánh ngọt, nghiên cứu và làm các loại bánh theo yêu cầu của Bếp Trưởng.&#13;
+- Đảm bảo chất lượng sản phẩm của mình cũng như tôn trọng chiến lược hợp tác với các bộ phận khác&#13;
+- Giữ gìn chỗ làm sạch sẽ và gọn gàng&#13;
+- Giữ gìn các thiết bị/ dụng cụ theo đúng tiêu chuẩn an toàn thực phẩm &#13;
+- Hợp tác và tôn trọng các nhân viên bộ phận khác &#13;
+- Kiểm kho &amp; update hàng kho &#13;
+- Các thông tin khác sẽ trao đổi khi phỏng vấn</description>
+    <workhour/>
+    <benefit/>
+    <keyword/>
+  </more>
+  <userapplied>
+    <total>4</total>
+    <strui>7404,7706,8074,8079</strui>
+  </userapplied>
+</information>

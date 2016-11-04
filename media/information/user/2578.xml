@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2578</id>
+      <email>lenguyenkimthoa2505@gmail.com</email>
+      <username/>
+      <name>Thoa Lê</name>
+      <im>2578_thoa.JPG</im>
+      <gender>2</gender>
+      <phone>0907300771</phone>
+      <address>26B3.6 CXĐL,đường Trần Não,Q2</address>
+      <city>30</city>
+      <dob>1995-5-25</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473684277</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>25</day>
+      <month>5</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7825772</lat>
+      <lng>106.7290688</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>đã từng làm phục vụ ở quán cafe,làm nhân viên bán hàng ở TTTM</skill>
+      <ui>2578</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>hòa đồng,ham học hỏi.</about>
+      <keyword>Trung thực,Nhiệt tình,Tập trung trong công việc,Tinh thần trách nhiệm,Giao tiếp hiệu quả</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>130,202,252</strjo>
+  </appliedjob>
+  <experience>
+    <n_581>
+      <id>581</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>Công Ty An Trần</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Viet nam</country>
+      <from>1</from>
+      <to>3 năm</to>
+    </n_581>
+  </experience>
+  <education>
+    <n_415>
+      <id>415</id>
+      <school>Đại Học Mở TP.HCM</school>
+      <degrees/>
+      <fieldofstudy>Kế Toán</fieldofstudy>
+      <from>1</from>
+      <to>3</to>
+    </n_415>
+  </education>
+</information>

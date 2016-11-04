@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6014</id>
+      <email>eclectic.vn@gmail.com</email>
+      <username/>
+      <name>Ông Tám</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0909336855</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1476332214</created>
+      <dayleft>1478924214</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1476332214</last_signin>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <jobleft>3</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>2</total>
+    <strji>453,455</strji>
+  </totalJob>
+</information>

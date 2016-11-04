@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7202</id>
+      <email>Hanphammy@gmail.com</email>
+      <username/>
+      <name>Phạm My Hân</name>
+      <im>1620490361585908_han-pham.jpg</im>
+      <gender>2</gender>
+      <dob>1997-6-3</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477116693</created>
+      <day>3</day>
+      <month>6</month>
+      <year>1997</year>
+      <phone>0932030697</phone>
+      <address>163/34 Thích Quảng Đức quận Phú Nhuận</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.806041</lat>
+      <lng>106.68069</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_1174>
+      <id>1174</id>
+      <school>Đại Học Hoa Sen</school>
+      <degrees/>
+      <fieldofstudy>Kinh Doanh Quốc Tế</fieldofstudy>
+      <from>2015</from>
+      <to>2018</to>
+    </n_1174>
+  </education>
+  <user_cv>
+    <db>
+      <ui>7202</ui>
+      <title>Nhân viên bán hàng/ Thu ngân</title>
+      <experience>1</experience>
+      <category>15,17,29,35</category>
+      <type>2,4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Tôi là một người nhanh nhẹn, thích học hỏi và có khả năng làm việc nhóm khá tốt. Tôi có thể xử lí các vấn đề, ghi nhớ mọi thứ khá nhạy.</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>140,435,322</strjo>
+  </appliedjob>
+</information>

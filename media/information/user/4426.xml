@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4426</id>
+      <email>shadowlinq@yahoo.com.vn</email>
+      <username/>
+      <name>Quỳnh Anh</name>
+      <im>933891293410104_quynh-anh.jpg</im>
+      <gender>2</gender>
+      <dob>1998-6-20</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475138564</created>
+      <day>20</day>
+      <month>6</month>
+      <year>1998</year>
+      <last_signin>1475138564</last_signin>
+      <phone>01255556711</phone>
+      <address>32/50, đường Bạch Đằng, quận Bình thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8034459</lat>
+      <lng>106.710335</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>4426</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,17,18,19,20,26,27,28,29,30,31,35,36</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <savedjob>
+    <total>2</total>
+    <strjo>100,211</strjo>
+  </savedjob>
+</information>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4813</id>
+      <email>emthuychung_131@icloud.com</email>
+      <username/>
+      <name>Trần Mai Hương</name>
+      <im>1475507206_tran-mai-huong.png</im>
+      <gender>2</gender>
+      <phone>0934852898</phone>
+      <address>98/11 Ung Văn Khiêm,phường 25,quận Bình Thạnh</address>
+      <city>30</city>
+      <dob>1998-11-3</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475507206</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>3</day>
+      <month>11</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.801752</lat>
+      <lng>106.723223</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>2,5</type>
+      <level>2</level>
+      <lang>en</lang>
+      <skill/>
+      <ui>4813</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>320,368,211</strjo>
+  </appliedjob>
+</information>

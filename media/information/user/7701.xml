@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7701</id>
+      <email>trangnguyensn@yahoo.com.vn</email>
+      <username/>
+      <name>Thuy Trang</name>
+      <im>640337602792798_thuy-trang.jpg</im>
+      <gender>2</gender>
+      <dob>1998-2-22</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477406169</created>
+      <day>22</day>
+      <month>2</month>
+      <year>1998</year>
+      <phone>01689314555</phone>
+      <address>160 phan Huy Ích Phường 12 quận Gò Vấp</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.832021</lat>
+      <lng>106.6337782</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục vụ</title>
+      <experience>7</experience>
+      <category>30</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Biết tiếng anh chút chút</skill>
+      <ui>7701</ui>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>Hơi thẳng thắng, khá vui tính, nói xhung rhi2 không quá tệ tùy sự đánh giá khi tiếp xúc</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>435</strjo>
+  </appliedjob>
+</information>

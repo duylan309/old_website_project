@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6558</id>
+      <email>dat.lt1991@yahoo.com.vn</email>
+      <username/>
+      <name>Lê Tiến Đạt</name>
+      <im>1476692464_le-tien-dat.png</im>
+      <gender>0</gender>
+      <phone>01268196034</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476692464</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>quản lý</title>
+      <experience>2</experience>
+      <category>14</category>
+      <type>4</type>
+      <level>4,5</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>6558</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>284</strjo>
+  </appliedjob>
+</information>

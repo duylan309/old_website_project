@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>284</id>
+    <ui>1374</ui>
+    <name>Nossa steakhouse</name>
+    <url>nossasteakhouse</url>
+    <im>284_logo-nossa-final.jpg</im>
+    <im_banner/>
+    <category>14</category>
+    <phone>38251536</phone>
+    <address>36, Phạm Hồng Thái, Quận 1</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.771301</lat>
+    <lng>106.695839</lng>
+    <website>nossa.vn</website>
+    <about/>
+    <facebook>https://www.facebook.com/nossasteakhouse</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1472206183</created>
+  </db>
+  <more>
+    <about>Tọa lạc tại trung tâm Sài Gòn (đối diện khách sạn New World), nhà hàng Nossa mang đến hương vị steak đích thực và những món ăn nổi tiếng của ẩm thực Ý trứ danh.\\\\r\\\\nVới phong cách ấm cúng pha lẫn nét hiện đại theo phong cách Châu Âu, Nossa mang đến một phong cách rất riêng cho thực khách.\\\\r\\\\nNossa chú trọng từng chi tiết chất lượng trong từng món ăn, bao gồm cả cách bày trí món ăn nhằm mang đến hương vị đính thực và tuyệt vời nhất. Đối với Nossa, thực phẩm tuyệt hảo, hương vị tuyệt vời và giá cả phải chăng là ưu tiên hàng đầu của chúng tôi.\\\\r\\\\nBên cạnh đó, với đội ngũ nhân viên bếp dày dạn kinh nghiệm đã từng làm việc trong nhà hàng của các tập đoàn khách sạn quốc tế cùng với đội ngũ nhân viên phục vụ chuyên nghiệp, chu đáo và vô cùng thân thiện chắc chắn sẽ mang đến cho bạn những trải nghiệm tuyệt vời tại Nossa. Không chỉ là địa điểm yêu thích của thực khách Sài Gòn, Nossa tự hào là một trong những nhà hàng tốt nhất cho du khách nước ngoài.</about>
+    <whyworkus/>
+  </more>
+  <companybanner>284_mixed.jpg</companybanner>
+  <totalJob>
+    <total>2</total>
+    <strji>199,200</strji>
+  </totalJob>
+</information>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5723</id>
+      <email>giotim7@gmail.com</email>
+      <username/>
+      <name>Đan Nguyên</name>
+      <im>1805704913039470_dan-nguyen.jpg</im>
+      <gender>2</gender>
+      <dob>1994-6-14</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476163067</created>
+      <day>14</day>
+      <month>6</month>
+      <year>1994</year>
+      <last_signin>1476163067</last_signin>
+      <phone>01698848091</phone>
+      <address>Huynh Tan Phat, Quan 7, Tp.HCM</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>5723</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>1</experience>
+      <category>17,19,35</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <about>Tôi tên là Nguyên là người chuyển giới, 22t, quê quán Tiền Giang, là kỹ sư nông nghiệp, sở thích của tôi là kiếm tiền.</about>
+      <skill>Khéo tay, nhiệt tình, ham học hỏi, có trách nhiệm, nghiêm khắc.</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>349,351</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>181</id>
+    <ui>62</ui>
+    <name>Anh tuk</name>
+    <url>anhtuk</url>
+    <im>181_anhtuk.jpg</im>
+    <category>14,16,17</category>
+    <phone>08 3828 2288</phone>
+    <address>23 Đồng Khởi Street</address>
+    <district>760</district>
+    <district_text_vi>Quận 1</district_text_vi>
+    <district_text_en>District 1</district_text_en>
+    <city>30</city>
+    <website>http://anhtuk.com/</website>
+    <skype/>
+    <facebook>https://www.facebook.com/anhtukmodernthai/</facebook>
+    <size>1</size>
+    <status>0</status>
+    <dayleft>0</dayleft>
+    <jobleft>0</jobleft>
+    <signupby/>
+    <token/>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1464941024</created>
+    <deactive>0</deactive>
+    <lat>10.773311</lat>
+    <lng>106.705833</lng>
+  </db>
+  <more>
+    <about>Anh Tuk kitchen presents the Modern Thai concept with a collection of Thai-inspired recipe with a modern twist.</about>
+    <whyworkus>....</whyworkus>
+  </more>
+  <companybanner>181_anhtuk-cover.jpg</companybanner>
+  <latlng>
+    <lat>10.77330728919345</lat>
+    <lng>106.70582023216411</lng>
+  </latlng>
+  <totalJob>
+    <total>1</total>
+    <strji>59</strji>
+  </totalJob>
+</information>

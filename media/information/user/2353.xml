@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2353</id>
+      <email>Ngolebaonguyen@gmail.com</email>
+      <username/>
+      <name>Ngô Lê Bảo Nguyên</name>
+      <im>1473416233_ngo-le-ba-o-nguyen.jpg</im>
+      <gender>2</gender>
+      <phone>0965164474</phone>
+      <address>61/380 Lê Văn Lương, Tân Hưng , Quận 7</address>
+      <city>30</city>
+      <dob>1997-1-7</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473416233</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>7</day>
+      <month>1</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7385076</lat>
+      <lng>106.70241</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế/ nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>15,17</category>
+      <type>2,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Tôi có kinh nghiệm phục vụ và pha chế, có khả năng lchịu được áp lực và khách hàng khó tính</skill>
+      <ui>2353</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Tôi đang là sinh viên năm 2 Đại học Tôn Đức Thắng.</about>
+      <keyword>Tập trung trong công việc,Chịu được áp lực công việc,Nhiệt tình,Tinh thần làm việc nhóm,Tự tin,Giao tiếp hiệu quả</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>201</strjo>
+  </appliedjob>
+</information>

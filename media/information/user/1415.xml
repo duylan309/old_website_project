@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1415</id>
+      <email>trangpink1612@gmail.com</email>
+      <username/>
+      <name>Lê Nguyên Đài Trang</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0943797564</phone>
+      <address>55, đường số 8, khu phố 3, phường linh trung, quận thủ đức, tp.hồ chí minh</address>
+      <city>30</city>
+      <dob>1995-12-16</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472286774</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>16</day>
+      <month>12</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8555855</lat>
+      <lng>106.7702417</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ, pha chế</title>
+      <experience>7</experience>
+      <category>14,15,27,29,31,35</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>en,kr</lang>
+      <skill>giao tiếp tốt, vui vẻ, siêng năng, trung thực, nhiệt tình, có tinh thần học hỏi và có trách nhiệm với công việc, có kinh nghiệm chăm sóc khách hàng</skill>
+      <ui>1415</ui>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>172</strjo>
+  </appliedjob>
+  <experience>
+    <n_318>
+      <id>318</id>
+      <title>nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>tân việt nhật</cmpname>
+      <city>hồ chí minh</city>
+      <country>việt nam </country>
+      <from>10-2015</from>
+      <to>1-2016</to>
+    </n_318>
+  </experience>
+  <education>
+    <n_227>
+      <id>227</id>
+      <school>đại học nông lâm </school>
+      <degrees>cử nhân</degrees>
+      <fieldofstudy>phát triển nông thôn</fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_227>
+  </education>
+</information>

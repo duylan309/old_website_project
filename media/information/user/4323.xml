@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4323</id>
+      <email>ntkimtuyen.2007@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Kim Tuyến</name>
+      <im>1475073529_nguyen-thi-kim-tuyen.png</im>
+      <gender>2</gender>
+      <phone>0902170404</phone>
+      <address>Hoang Anh Gold House apartment, Nha Be town</address>
+      <city>30</city>
+      <dob>1989-7-20</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475073528</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>20</day>
+      <month>7</month>
+      <year>1989</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Guest Service, Waitress, Assistant Manager</title>
+      <experience>1</experience>
+      <category>14,18,20</category>
+      <type>2,4,6</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <skill>- Trao đổi, tạo mối quan hệ tốt, tin cậy và hài lòng  từ các khách hàng.&#13;
+- Giao tiếp với khách hàng bằng tiếng Việt lẫn tiếng Anh.&#13;
+- Phục vụ khách hàng dịch vụ với sự tận tâm và chuyên nghiệp&#13;
+- Kỹ năng làm việc teamwork, tổ chức công việc, bộ máy hoạt động tinh gọn và nhịp nhàng.&#13;
+- Kỹ năng lắng nghe và giao tiếp hiệu quả.&#13;
+- Tinh thần luôn luôn tìm tòi, học hỏi những điều mới mẻ.&#13;
+- Học hỏi, nắm bắt thông tin và giải quyết vấn đề nhanh, linh hoạt</skill>
+      <ui>4323</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Tôi mong muốn được học hỏi và làm việc trong lĩnh vực F&amp;B (Food &amp; Beverage), nhà hàng, khách sạn (Hospitality), tìm kiếm môi trường làm việc chuyên nghiệp và tận tâm  nhằm đem đến cho khách hàng những trải nghiệm tuyệt vời khi sử dụng sản phẩm dịch vụ mà mình mang đến.</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>318,279,351</strjo>
+  </appliedjob>
+  <education>
+    <n_707>
+      <id>707</id>
+      <school>University of Finance and Marketing</school>
+      <degrees>Bachelor degree</degrees>
+      <fieldofstudy>Marketing</fieldofstudy>
+      <from>2007</from>
+      <to>2011</to>
+    </n_707>
+  </education>
+  <experience>
+    <n_916>
+      <id>916</id>
+      <title>Waitress and Bartender</title>
+      <level>1</level>
+      <cmpname>Air Lounge coffee shop</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Vietnam</country>
+      <from>2015</from>
+      <to>2015</to>
+    </n_916>
+    <n_917>
+      <id>917</id>
+      <title>Assistant Manager</title>
+      <level>1</level>
+      <cmpname>Air Lounge coffee shop</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Vietnam</country>
+      <from>2015</from>
+      <to>2015</to>
+    </n_917>
+  </experience>
+</information>

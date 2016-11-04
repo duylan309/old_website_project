@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7139</id>
+      <email>phuongtruc250708@gmail.com</email>
+      <username/>
+      <name>Lê Ngọc Phương Trúc</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01682189887</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477070926</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Không</skill>
+      <ui>7139</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>323</strjo>
+  </appliedjob>
+</information>

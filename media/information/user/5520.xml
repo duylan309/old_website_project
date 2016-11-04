@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5520</id>
+      <email>Nguyendangduy2202@mail.com</email>
+      <username/>
+      <name>Nguyễn đăng duy</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01253494707</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476043182</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục vụ</title>
+      <experience>2</experience>
+      <category>14,15</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>en</lang>
+      <skill>Có kinh nghiệm phục vụ ở các nhà hàng và quán cafe</skill>
+      <ui>5520</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>161</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5077</id>
+      <email>Liuliumapdit@gmail.com</email>
+      <username/>
+      <name>Trần Minh Thư</name>
+      <im>1475714051_tran-minh-thu.png</im>
+      <gender>0</gender>
+      <phone>0931476549</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475714051</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,16,19,27,36</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en,fr</lang>
+      <skill>Kỹ năng đa dạng,có thể làm được nhiều công việc,ham học hỏi</skill>
+      <ui>5077</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>172</strjo>
+  </appliedjob>
+</information>

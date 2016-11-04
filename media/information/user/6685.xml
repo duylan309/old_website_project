@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6685</id>
+      <email>Chauquynhnhu221291@gmail.com</email>
+      <username/>
+      <name>Chau Quynh Nhu</name>
+      <im>872927469510844_chau-quynh-nhu.jpg</im>
+      <gender>2</gender>
+      <dob>1991-12-22</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476780082</created>
+      <day>22</day>
+      <month>12</month>
+      <year>1991</year>
+      <phone>0945911500</phone>
+      <address>54 le van huan phuong 13 quan tan binh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8035348</lat>
+      <lng>106.6408276</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6685</ui>
+      <title>Nhân  viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,35</category>
+      <type>5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

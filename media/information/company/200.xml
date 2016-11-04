@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>200</id>
+    <ui>246</ui>
+    <name>The Loft</name>
+    <url>loftcafevn</url>
+    <im>680895558630070_the-loft.jpg</im>
+    <im_banner>680895558630070_the-loft-cover.jpg</im_banner>
+    <category>14</category>
+    <phone>0901840901</phone>
+    <address>95 Pasteur, 2nd floor, district 1</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.756216</lat>
+    <lng>106.730927</lng>
+    <website>http://theloft.vn/</website>
+    <about/>
+    <facebook>https://www.facebook.com/loftcafevn/</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1467620343</created>
+  </db>
+  <more>
+    <about>We are located in the city’s heart, at Saigon’s oldest buildings. And just as the name suggests, our space is inspired by the minimalistic yet rustic and elegant style of loft interior designs. Come visit us, and we’ll make sure that you find yourself in the perfect hideout – a comfortable and creative space from the city’s bustling urban streets.</about>
+    <whyworkus/>
+  </more>
+  <companybanner>680895558630070_the-loft-cover.jpg</companybanner>
+  <totalJob>
+    <total>2</total>
+    <strji>99,100</strji>
+  </totalJob>
+</information>

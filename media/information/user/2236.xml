@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2236</id>
+      <email>baonhupham95@gmail.com</email>
+      <username/>
+      <name>Phạm Ngọc Bảo Như</name>
+      <im>1473318243_pham-ngoc-bao-nhu.jpg</im>
+      <gender>0</gender>
+      <phone>0935049420</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473318243</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng, nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>15,17,26,29,35</category>
+      <type>4,5,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>2236</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>82</strjo>
+  </appliedjob>
+</information>

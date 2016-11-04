@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4728</id>
+      <email>nguyenthingocbich189506@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Ngọc Bích</name>
+      <im>1814040648839872_ngoc-bich.jpg</im>
+      <gender>2</gender>
+      <dob>1995-6-18</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475470772</created>
+      <day>18</day>
+      <month>6</month>
+      <year>1995</year>
+      <phone>0962036171</phone>
+      <address>574Lê văn lương.tân phong.q7</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7137542</lat>
+      <lng>106.7010399</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>các quầy nước</title>
+      <experience>7</experience>
+      <category>14,15,17,27,35</category>
+      <type>2,5</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill>từng phục vụ nhà hàng</skill>
+      <ui>4728</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Năng động ham học hỏi</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>301,276,351,191</strjo>
+  </appliedjob>
+</information>

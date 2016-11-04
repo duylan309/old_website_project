@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7301</id>
+      <email>toaa.vincentz@gmail.com</email>
+      <username/>
+      <name>Trần Ngọc Phúc</name>
+      <im>1839627086256349_ngoc-phuc.jpg</im>
+      <gender>1</gender>
+      <dob>1998-6-10</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477146981</created>
+      <day>10</day>
+      <month>6</month>
+      <year>1998</year>
+      <phone>0944387543</phone>
+      <address>110E Đinh Tiên Hoàng, P.1, Q.Bình Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7971609</lat>
+      <lng>106.696389</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_1186>
+      <id>1186</id>
+      <school>ĐH Công Nghệ TP. Hồ Chí Minh</school>
+      <degrees/>
+      <fieldofstudy>CNTT</fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_1186>
+  </education>
+  <user_cv>
+    <db>
+      <ui>7301</ui>
+      <title>CTV</title>
+      <experience>1</experience>
+      <category>15,16,18,29,35</category>
+      <type>2,4,5</type>
+      <level>1,2,3</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Em hiện tại là sinh viên năm nhất của trường ĐH. Công Nghệ TP.Hồ Chí Minh, là tân sinh viên nên lịch học cũng như thời gian rảnh rỗi còn khá nhiều, ngoài thời gian học ra thì em muốn tìm một công việc nào đó để có thể kiếm thêm thu nhập cũng như tích lũy thêm kinh nghiệm, kĩ năng xã hội có ích trong công việc và cuộc sống sau này.</about>
+      <skill>Vì là ngành nghề đang theo học cũng như là đam mê nên em có một số kĩ năng về máy tính.</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>498</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>498</strjo>
+  </savedjob>
+</information>

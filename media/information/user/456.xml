@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>456</id>
+      <email>tranthienynhi@gmail.com</email>
+      <username/>
+      <name>Trần Thiện Ý Nhi</name>
+      <im>917671788362330_tran-nhi.jpg</im>
+      <gender>2</gender>
+      <dob>1997-9-9</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470151237</created>
+      <day>9</day>
+      <month>9</month>
+      <year>1997</year>
+      <phone>01227775687</phone>
+      <address>80/31A Trần Quang Diệu, Phường 14, Quận 3</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.789413</lat>
+      <lng>106.678654</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>456</ui>
+      <title>Thu ngân, Nhân viên phục vụ, Nhân viên pha chế,....</title>
+      <experience>7</experience>
+      <category>14,15,17,29,31</category>
+      <type>2,4,5,6</type>
+      <level>1,2</level>
+      <lang>vi,en,ch</lang>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Giao tiếp hiệu quả,Tinh thần trách nhiệm,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>107</strjo>
+  </appliedjob>
+</information>

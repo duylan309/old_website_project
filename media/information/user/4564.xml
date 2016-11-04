@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4564</id>
+      <email>nlqp0403@gmail.com</email>
+      <username/>
+      <name>Nguyễn Lê Quỳnh Phương</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0937369891</phone>
+      <address>284/8, Cô Bắc, P.Cô Giang, Q.1</address>
+      <city>30</city>
+      <dob>1998-3-4</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475301879</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1475301879</last_signin>
+      <day>4</day>
+      <month>3</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>4564</ui>
+      <title>Nhân viên phục vụ, nhân viên bán hàng, pha chế...</title>
+      <experience>1</experience>
+      <category>14,15,17,27,29,35,36</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <about>Năng động, nhiệt tình, chăm chỉ và thẳng thắn, đó là tôi. Không những thế, với niềm đam mê sáng tạo tôi luôn hoàn thành có đạt được rất nhiều thành tích cao trong các project làm phim, ảnh khi đang còn đi học. Ngoài ra, cùng với tính cách hướng ngoại, chức vụ bí thư trong khoảng thời gian cấp 3 cùng công việc làm thêm đã giúp tôi có nhiều trải nghiệm thực tế cũng như cải thiện thêm về cách ứng xử, giao tiếp giữa người và người - một điều rất quan trọng trong với chuyên viên nhân sự. Với sự cố gắng và ham học hỏi tôi tin bản thân mình là một ứng cử viên phù hợp cho vị trí nhân sự của công ty.</about>
+      <skill>Photoshop, làm video, nấu ăn, word, excel</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <experience>
+    <n_974>
+      <id>974</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>Lapin Apparel</cmpname>
+      <city>HCM</city>
+      <country>Việt Nam</country>
+      <from>7/2016</from>
+      <to>10/2016</to>
+    </n_974>
+  </experience>
+  <education>
+    <n_759>
+      <id>759</id>
+      <school>Cambridge</school>
+      <degrees>IELT 7.5</degrees>
+      <fieldofstudy>Tiếng Anh</fieldofstudy>
+      <from>8/2015</from>
+      <to>8/2017</to>
+    </n_759>
+  </education>
+</information>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5220</id>
+      <email>kizzy_nhok@yahoo.com.vn</email>
+      <username/>
+      <name>Tú Nguyễn</name>
+      <im>5220_image.jpeg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475817774</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <education>
+    <n_859>
+      <id>859</id>
+      <school>Đại học Hoa Sen</school>
+      <degrees>IELTS</degrees>
+      <fieldofstudy>Ngôn ngữ anh</fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_859>
+  </education>
+</information>

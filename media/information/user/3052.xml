@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3052</id>
+      <email>loan.nguyen171291@gmail.com</email>
+      <username/>
+      <name>Loạn Loạn</name>
+      <im>1788174204732290_loan-loan.jpg</im>
+      <gender>2</gender>
+      <dob>1991-12-17</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474210288</created>
+      <day>17</day>
+      <month>12</month>
+      <year>1991</year>
+      <last_signin>1474210288</last_signin>
+      <phone>0934471712</phone>
+      <address>100A/88 Dương Bá Trạc</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.74774</lat>
+      <lng>106.686947</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>3052</ui>
+      <title>Nhân viên phục vụ, Thu ngân</title>
+      <experience>2</experience>
+      <category>14,15</category>
+      <type>1,4</type>
+      <level>2</level>
+      <lang>vi,en,ja</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>tiếng Anh giao tiếp tốt. Có kỹ năng chăm sóc khách hàng cơ bản. Tự tin. Siêng năng. Chăm chỉ.</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>275,273,142</strjo>
+  </appliedjob>
+</information>

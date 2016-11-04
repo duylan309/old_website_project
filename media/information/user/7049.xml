@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7049</id>
+      <email>cakhoai09@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Thu Hường</name>
+      <im>7049_img-5125.jpg</im>
+      <gender>2</gender>
+      <phone>01689192768</phone>
+      <address>98/16/20 tây thạnh tân phú</address>
+      <city>30</city>
+      <dob>1994-11-9</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477043432</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>9</day>
+      <month>11</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.809763</lat>
+      <lng>106.619782</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>17</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>7049</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>tôi là một người năng động, có trách nhiệm. tôi có khả năng giao tiếp và tôi muốn tìm một công việc lâu dài có mức lương ổn định, mức lương mong muốn của tôi là 5.000.000vnd</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>205,336,408</strjo>
+  </appliedjob>
+  <experience>
+    <n_1387>
+      <id>1387</id>
+      <title>nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>quà tặng pha lê</cmpname>
+      <city>hồ chí minh</city>
+      <country>việt nam</country>
+      <from>2/2016</from>
+      <to>9/2016</to>
+    </n_1387>
+  </experience>
+  <education>
+    <n_1157>
+      <id>1157</id>
+      <school>thpt định quán</school>
+      <degrees>trung bình</degrees>
+      <fieldofstudy/>
+      <from>2009</from>
+      <to>2012</to>
+    </n_1157>
+  </education>
+</information>

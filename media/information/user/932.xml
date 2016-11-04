@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>932</id>
+      <email>ptlechi188@gmail.com</email>
+      <username/>
+      <name>Phạm Thị Lệ Chi</name>
+      <im>932_12674402-1707432066144961-1681191802-n.jpg</im>
+      <gender>2</gender>
+      <dob>1997-4-28</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471441577</created>
+      <day>28</day>
+      <month>4</month>
+      <year>1997</year>
+      <phone>01664740071</phone>
+      <address>201, Đào Duy Từ, phường 6, quận 10, thành phố Hồ Chí Minh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7597354</lat>
+      <lng>106.6642368</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>932</ui>
+      <title>Nhân viên đón khách,...</title>
+      <experience>1</experience>
+      <category>14,15,17,18,19,20,26,27,28,29,30,31,36</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <skill>-Tự tin&#13;
+-Giao tiếp tốt&#13;
+-Tiếng Anh giao tiếp&#13;
+-Chăm sóc khách hàng&#13;
+-Làm việc nhóm tốt&#13;
+-Siêng năng, ham học hỏi, có trách nhiệm</skill>
+      <keyword>Kỹ năng chăm sóc khách hàng,Tập trung trong công việc,Tinh thần làm việc nhóm,Kỹ năng giải quyết tình huống,Trung thực,Nhiệt tình</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>159,107</strjo>
+  </appliedjob>
+</information>

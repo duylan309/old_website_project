@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5289</id>
+      <email>nguyennngoctran8838@gmail.com</email>
+      <username/>
+      <name>Nguyễn ngọc trân</name>
+      <im>5289_dsc-0018.JPG</im>
+      <gender>2</gender>
+      <phone>0908498838</phone>
+      <address>157/22 đường duong bá trạc p1 q8</address>
+      <city>30</city>
+      <dob>1991-3-2</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475851385</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1475851385</last_signin>
+      <day>2</day>
+      <month>3</month>
+      <year>1991</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.746816</lat>
+      <lng>106.690546</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>5289</ui>
+      <title>Phuc vu</title>
+      <experience>1</experience>
+      <category>14,35</category>
+      <type>1,4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Đã từng làm  tạp vụ phụ bếp 2nam tại nhà hàng sùi cao đại nương. Chịu khó thật tha có trách nhiệm trong cv.</about>
+      <skill>Yêu thích nấu ăn </skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>262,398,349</strjo>
+  </appliedjob>
+</information>

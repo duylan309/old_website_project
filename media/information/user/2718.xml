@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2718</id>
+      <email>Chieu7kimkhanh@gmail.com</email>
+      <username/>
+      <name>Nguyễn Kim Khánh</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01265231443</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473786498</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế</title>
+      <experience>1</experience>
+      <category>29</category>
+      <type>6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>2718</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>228</strjo>
+  </appliedjob>
+</information>

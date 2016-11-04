@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7988</id>
+      <email>hiennta16@uef.edu.vn</email>
+      <username/>
+      <name>Nguyễn Thị Ánh Hiền</name>
+      <im>1477569046_nguyen-thi-anh-hien.png</im>
+      <gender>2</gender>
+      <phone>0906874764</phone>
+      <address>115 Quốc Lộ 13, phường 26, quận Bình Thạnh</address>
+      <city>30</city>
+      <dob>1998-6-30</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477569046</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>30</day>
+      <month>6</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8163871</lat>
+      <lng>106.7111212</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên Phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,27</category>
+      <type>2,4,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Có thể giao tiếp bằng tiếng Anh</skill>
+      <ui>7988</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Tuy không được lợi thế về chiều cao, nhưng em có thể làm được những việc nặng và có sức khoẻ rất tốt. Ngoài ra em còn rất siêng năng và nhanh nhẹn. Rất mong được làm chung với anh/chị ạ.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>8</total>
+    <strjo>105,273,467,202,219,199,252,371</strjo>
+  </appliedjob>
+  <education>
+    <n_1291>
+      <id>1291</id>
+      <school>Kinh Tế-Tài Chính UEF</school>
+      <degrees/>
+      <fieldofstudy>Kinh doanh quốc tế</fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_1291>
+  </education>
+  <experience>
+    <n_1554>
+      <id>1554</id>
+      <title>Nhân viên Phục Vụ</title>
+      <level>1</level>
+      <cmpname>Papas’s Chicken</cmpname>
+      <city>Thành phố Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>15-8-2016</from>
+      <to>15-10-2016</to>
+    </n_1554>
+  </experience>
+</information>

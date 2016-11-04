@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1670</id>
+      <email>duydang2581994@gmail.com</email>
+      <username/>
+      <name>Nguyễn Duy Đăng</name>
+      <im>1670_14064072-955174111259041-7330929800266158211-n.jpg</im>
+      <gender>1</gender>
+      <phone>01632768314</phone>
+      <address>267/2b Nguyễn Văn Đậu Bình Thạnh</address>
+      <city>30</city>
+      <dob>1994-8-25</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472726419</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>25</day>
+      <month>8</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.809449</lat>
+      <lng>106.6898439</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân Viên</title>
+      <experience>7</experience>
+      <category>17,20,35</category>
+      <type>1,4,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>...</skill>
+      <ui>1670</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>172,158,214,323,267</strjo>
+  </appliedjob>
+</information>

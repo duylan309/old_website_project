@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2865</id>
+      <email>tram.nlt0475@sinhvien.hoasen.edu.vn</email>
+      <username/>
+      <name>Nguyễn Lê Thu Trâm</name>
+      <im>1474037916_nguyen-le-thu-tram.png</im>
+      <gender>2</gender>
+      <phone>0923851186</phone>
+      <address>100/33 Trần Hưng Đạo, Phạm Ngũ Lão, Quận 1</address>
+      <city>30</city>
+      <dob>1997-9-11</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474037915</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>11</day>
+      <month>9</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.766552</lat>
+      <lng>106.692984</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>5,6</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill>tính kiên nhẫn, giao tiếp ngoại ngữ khá tốt, luôn niềm nở, tươi cười , khéo tay </skill>
+      <ui>2865</ui>
+      <s1>1500000</s1>
+      <salary>1</salary>
+      <about>Hiện em đang là  sinh viên năm 2, ngành Ngôn Ngữ Anh thuộc trường Đại học Hoa Sen. Em là người thân thiện, khiêm tốn,dễ gần, rất thích gần gũi và kết bạn, chia sẻ quan điểm với mọi người nhưng vẫn luôn biết giữ sự riêng tư. Tính tình hơi nóng nảy nhưng rất lại biết kiềm chế khi làm việc.  Kế hoạch trong tương lai của em muốn được làm trong môi trường cởi mở, hội nhập và luôn thay đổi, vì vậy em muốn có một công việc ngoài giờ, còn trẻ nên càng muốn có thêm cơ hội để học hỏi thêm kĩ năng, trau dồi ngoại ngữ và dành tiền đóng góp giúp đỡ cho gia đình.  Câu nói yêu thích và tin tưởng của em xuất phát từ 1 nhà tỷ phú Mỹ Chris Gadner :“Tìm một cái gì đó mà bạn yêu thích để làm trong cuộc đời. Cái gì đó làm bạn phấn khích đến nỗi chờ mặt trời lên để được ra khỏi giường vào buổi sáng. Quên tiền bạc đi, hãy hạnh phúc”. </about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>202</strjo>
+  </appliedjob>
+  <education>
+    <n_471>
+      <id>471</id>
+      <school>Đại học Hoa Sen</school>
+      <degrees/>
+      <fieldofstudy>Ngôn Ngữ Anh </fieldofstudy>
+      <from>2015</from>
+      <to>2016</to>
+    </n_471>
+  </education>
+</information>

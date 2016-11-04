@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <companybanner>77_kafe-cover.jpg</companybanner>
+  <totalJob>1</totalJob>
+  <db>
+    <id>77</id>
+    <ui>77</ui>
+    <name>112phn</name>
+    <url>kafe-workingspace</url>
+    <im>77_kafe-logo.jpg</im>
+    <category>14</category>
+    <phone>0909090909</phone>
+    <address>59 Le Van Huan</address>
+    <city>30</city>
+    <website></website>
+    <skype></skype>
+    <facebook>https://www.facebook.com/thekafeSG/?fref=ts</facebook>
+    <size>1</size>
+    <status>1</status>
+    <dayleft>1492080933</dayleft>
+    <jobleft>0</jobleft>
+    <fb_load_newfeed>2</fb_load_newfeed>
+    <fb_load_photo>2</fb_load_photo>
+    <created>1460523946</created>
+    <deactive>0</deactive>
+  </db>
+</information>

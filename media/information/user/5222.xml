@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5222</id>
+      <email>bujiin1804@gmail.com</email>
+      <username/>
+      <name>Bùi Mai Anh</name>
+      <im>5222_c360-2016-02-09-16-15-54-694.jpg</im>
+      <gender>2</gender>
+      <phone>0932659969</phone>
+      <address>186 Phó Cơ Điều P.6 Q.11</address>
+      <city>30</city>
+      <dob>1998-5-13</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475820125</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>13</day>
+      <month>5</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.760712</lat>
+      <lng>106.657244</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15</category>
+      <type>2,3,4,5,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill>giao tiếp được bằng tiếng Anh, có tinh thần học hỏi, thích nghi tốt với môi trường làm việc mới</skill>
+      <ui>5222</ui>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <about>Đang đi học tại đại học Hutech&#13;
+Yêu thích ăn uống, âm nhạc, xem phim và du lịch&#13;
+Thân thiện với mọi người, thích nghi tốt với môi trường mới</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>202,84,348,340</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>878</id>
+      <email>phuongthuy.nguyenngoc@gmail.com</email>
+      <username/>
+      <name>Nguyễn Ngọc Phương Thùy</name>
+      <im>878_picture1.jpg</im>
+      <gender>2</gender>
+      <dob>1990-6-6</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471358797</created>
+      <day>6</day>
+      <month>6</month>
+      <year>1990</year>
+      <phone>01699853651</phone>
+      <address>Quận 10</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7745965</lat>
+      <lng>106.6679542</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>878</ui>
+      <title>Nhân viên phục vụ, thu ngân</title>
+      <experience>7</experience>
+      <category>14,15,27,36</category>
+      <type>1,2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en,ja</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <skill>Giao tiếp tiếng Anh tốt, hiện đang học thêm tiếng Nhật.&#13;
+Không ngại khó khăn và có khả năng học hỏi, thích ứng với công việc nhanh.&#13;
+Bình tĩnh, có kỹ năng giải quyết tình huống.&#13;
+</skill>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng giải quyết tình huống,Chịu được áp lực công việc,Tinh thần trách nhiệm,Nhiệt tình,Tinh thần làm việc nhóm,Trung thực</keyword>
+    </db>
+  </user_cv>
+  <education/>
+  <appliedjob>
+    <total>13</total>
+    <strjo>105,107,151,92,172,112,113,150,165,100,194,127,63</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>6</total>
+    <strjo>113,150,64,100,151,92</strjo>
+  </savedjob>
+</information>

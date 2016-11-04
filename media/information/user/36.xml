@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>36</id>
+      <email>ngan@gmail.com</email>
+      <username/>
+      <name>Phương Ngân</name>
+      <im>36_ngan.jpg</im>
+      <gender>2</gender>
+      <dob>1992-03-15</dob>
+      <is_newletter>0</is_newletter>
+      <type>2</type>
+      <status>1</status>
+      <created>1458057499</created>
+      <phone>097251275</phone>
+      <address>122 Nguyễn Trãi, Quận Phú Nhuận</address>
+      <city>30</city>
+      <facebook>https://www.facebook.com/sillycari</facebook>
+      <skype/>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <deactive>0</deactive>
+      <country>vn</country>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>36</ui>
+      <title>Waitress</title>
+      <category>14,16</category>
+      <type>1,2,3</type>
+      <level>1,2,3</level>
+      <experience>3</experience>
+      <location>23,30</location>
+      <lang>vi,en</lang>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <skill>-	Tốt nghiệp Cao đẳng trở lên trong lĩnh vực nhà hàng khách sạn&#13;
+-	Kinh nghiệm liên quan tới vị trí: Tối thiểu 03 kinh nghiệm tại vị trí tương đương&#13;
+-	Năng động, sáng tạo, nhiệt tình, tự tin, quyết đoán, có trách nhiệm với công việc&#13;
+-	Kỹ năng thuyết trình, làm việc theo nhóm, làm việc độc lập, lãnh đạo, chịu được áp lực công việc;&#13;
+-	Kỹ năng giao tiếp tốt &#13;
+-	Sử dụng máy tính và tin học văn phòng&#13;
+-	Giao tiếp Tiếng Anh tốt</skill>
+      <s2>272.72727272727</s2>
+      <deactive>0</deactive>
+    </db>
+  </user_cv>
+  <totalApplied>1</totalApplied>
+  <totalSaved>1</totalSaved>
+  <appliedjob>
+    <total>6</total>
+    <strjo>33,25,27,21,42,59</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>7</total>
+    <strjo>46,47,18,42,61,37,59</strjo>
+  </savedjob>
+  <experience>
+    <n_4>
+      <id>4</id>
+      <title>waiter</title>
+      <level>1</level>
+      <cmpname>pasteur</cmpname>
+      <city>HCM</city>
+      <country>vn</country>
+      <from>2016</from>
+      <to>2016</to>
+    </n_4>
+  </experience>
+  <education>
+    <n_8>
+      <id>8</id>
+      <school>kent</school>
+      <degrees>master</degrees>
+      <fieldofstudy>developer</fieldofstudy>
+      <from>2016</from>
+      <to>2016</to>
+    </n_8>
+  </education>
+</information>

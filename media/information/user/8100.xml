@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>8100</id>
+      <email>thanhbinh226summer@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thanh Bình</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0904527874</phone>
+      <address>526 Kha Vạn Cân, Linh Đông, Thủ Đức</address>
+      <city>30</city>
+      <dob>1995-6-22</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477711442</created>
+      <dayleft>0</dayleft>
+      <jobleft>0</jobleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1477711442</last_signin>
+      <day>22</day>
+      <month>6</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8477163</lat>
+      <lng>106.7522365</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>8100</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>7</experience>
+      <category>15,17,20,28,31,35</category>
+      <type>2,4,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>408</strjo>
+  </appliedjob>
+</information>

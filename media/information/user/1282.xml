@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1282</id>
+      <email>huuloc1309@gmail.com</email>
+      <username/>
+      <name>Hữu Tê</name>
+      <im>598880083618918_huu-te.jpg</im>
+      <gender>1</gender>
+      <dob>1996-10-30</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472054474</created>
+      <day>30</day>
+      <month>10</month>
+      <year>1996</year>
+      <phone>01627682235</phone>
+      <address>218/25/33 Bùi Thị Xuân phường 3 quận Tân Bình thành phố Hồ Chí Minh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.792181</lat>
+      <lng>106.6654</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_202>
+      <id>202</id>
+      <school>Trung cấp du lịch Saigontourist</school>
+      <degrees>Trung cấp</degrees>
+      <fieldofstudy>Bếp</fieldofstudy>
+      <from>2014</from>
+      <to>2016</to>
+    </n_202>
+  </education>
+  <user_cv>
+    <db>
+      <ui>1282</ui>
+      <title>Phụ bếp</title>
+      <experience>7</experience>
+      <category>14,15,18,20</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>10</total>
+    <strjo>69,358,276,182,139,290,206,376,406,191</strjo>
+  </appliedjob>
+</information>

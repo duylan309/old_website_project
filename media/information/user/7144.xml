@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7144</id>
+      <email>nguyenngocthuytram72@gmail.com</email>
+      <username/>
+      <name>Nguyễn Ngọc Thuỷ Trâm</name>
+      <im/>
+      <gender>2</gender>
+      <phone>099 3056834</phone>
+      <address>542/23/2 nguyễn thái sơn, phường 5, Gò Vấp </address>
+      <city>30</city>
+      <dob>1994-9-30</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477072731</created>
+      <dayleft>0</dayleft>
+      <jobleft>0</jobleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1477072731</last_signin>
+      <day>30</day>
+      <month>9</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8278258</lat>
+      <lng>106.6913647</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>7144</ui>
+      <title>Nhan vien ban hang</title>
+      <experience>1</experience>
+      <category>35</category>
+      <type>6</type>
+      <level>2</level>
+      <lang>vi,en,ch</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>322</strjo>
+  </appliedjob>
+</information>

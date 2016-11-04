@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5821</id>
+      <email>Chinguyen160495@gmail.com</email>
+      <username/>
+      <name>Nguyễn Ngọc Kim Chi</name>
+      <im>1476198454_nguyen-ngoc-kim-chi.png</im>
+      <gender>2</gender>
+      <phone>0942611691</phone>
+      <address>98 Nguyễn Tri Phương, phường 7, quận 5</address>
+      <city>30</city>
+      <dob>1995-4-16</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476198454</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>16</day>
+      <month>4</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7537509</lat>
+      <lng>106.6692663</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Tổ chức sự kiện</title>
+      <experience>7</experience>
+      <category>35</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Giao tiếp tốt.&#13;
+Bằng quốc tế MOS: word và excel.</skill>
+      <ui>5821</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Là một người hoà đồng, thân thiện. Có khả năng giao tiếp tốt. Ham học hỏi và chịu được áp lực công việc. Thích tham gia các hoạt động cộng đồng và các hoạt động về từ thiện. Là cộng tác viên cho chiến dịch Việt Nam Ơi.</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>419</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>419</strjo>
+  </savedjob>
+  <education>
+    <n_968>
+      <id>968</id>
+      <school>Đại học Tôn Đức Thắng</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Quản trị kinh doanh</fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_968>
+  </education>
+  <experience>
+    <n_1182>
+      <id>1182</id>
+      <title>Nhân viên</title>
+      <level>1</level>
+      <cmpname>Tita Research</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>2015</to>
+    </n_1182>
+    <n_1183>
+      <id>1183</id>
+      <title>Cộng tác viên</title>
+      <level>1</level>
+      <cmpname>MNS Training</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>2015</to>
+    </n_1183>
+  </experience>
+</information>

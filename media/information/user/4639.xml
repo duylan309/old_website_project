@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4639</id>
+      <email>duylinh1996.ln@gmail.com</email>
+      <username/>
+      <name>Duy Linh</name>
+      <im>660851530745649_duy-linh.jpg</im>
+      <gender>1</gender>
+      <dob>1996-11-16</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475384900</created>
+      <day>16</day>
+      <month>11</month>
+      <year>1996</year>
+      <phone>0961814100</phone>
+      <address>Phan văn hớn </address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8471867</lat>
+      <lng>106.591017</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phụ vụ</title>
+      <experience>7</experience>
+      <category>29</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>4639</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>10</total>
+    <strjo>64,364,219,165,130,305,222,402,247,324</strjo>
+  </appliedjob>
+  <savedjob/>
+</information>

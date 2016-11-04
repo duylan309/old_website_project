@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1177</id>
+      <email>boathousesgn@gmail.com</email>
+      <username/>
+      <name>Jeff Puchalski</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0903908544</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1471874115</created>
+      <dayleft>1479706103</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <jobleft>3</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>2</total>
+    <strji>180,181</strji>
+  </totalJob>
+  <saveuser>
+    <total>2</total>
+    <strui>471,1303</strui>
+  </saveuser>
+</information>

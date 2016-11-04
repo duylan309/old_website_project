@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6778</id>
+      <email>giaodng97@gmail.com</email>
+      <username/>
+      <name>Dương Mai Quỳnh Giao</name>
+      <im>6778_image.jpeg</im>
+      <gender>2</gender>
+      <phone>0989220954</phone>
+      <address>554/19 Cộng Hoà,p13, Tân Bình</address>
+      <city>30</city>
+      <dob>1997-11-9</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476858234</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>9</day>
+      <month>11</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8014043</lat>
+      <lng>106.6508706</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15</category>
+      <type>1,2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Giao tiếp khá, vui vẻ, hoà đồng</skill>
+      <ui>6778</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Sinh viên khoa Tài chính - Ngân hàng tại Đại học Hutech TP.HCM</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>27</total>
+    <strjo>64,181,379,477,349,205,452,423,478,105,386,434,482,249,375,247,459,192,453,460,142,140,371,219,202,455,402</strjo>
+  </appliedjob>
+  <education>
+    <n_1171>
+      <id>1171</id>
+      <school>Hutech University</school>
+      <degrees/>
+      <fieldofstudy>Tài chính - Ngân hàng</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_1171>
+  </education>
+</information>

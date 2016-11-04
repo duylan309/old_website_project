@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5271</id>
+      <email>thuylinh9643@gmail.com</email>
+      <username/>
+      <name>Thuỳ Linh</name>
+      <im>787628411378816_thuy-linh.jpg</im>
+      <gender>2</gender>
+      <dob>1996-2-9</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475839639</created>
+      <day>9</day>
+      <month>2</month>
+      <year>1996</year>
+      <phone>01666229643</phone>
+      <address>12 nguyễn văn bảo,p4,gò vấp</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8217818</lat>
+      <lng>106.6870713</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>5271</ui>
+      <title>Bán hàng, phục vụ, phụ bếp, pg</title>
+      <experience>1</experience>
+      <category>14,15,17,18,20,26,27,29,35,36</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Ham học hỏi,biết tiếp thu, nhiệt tình trong công việc</about>
+      <skill>Bán hàng, phục vụ</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>158,198,402</strjo>
+  </appliedjob>
+</information>

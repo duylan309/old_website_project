@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7652</id>
+      <email>kieungan_pkn@yahoo.com</email>
+      <username/>
+      <name>Phan Kiều Ngân</name>
+      <im>7652_14551033-624085271096544-964923861-o.jpg</im>
+      <gender>2</gender>
+      <phone>01688521166</phone>
+      <address>Số 116/43/27, p.17, Nguyễn Văn Lượng, q.Gò Vấp</address>
+      <city>30</city>
+      <dob>1995-8-13</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477377361</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>13</day>
+      <month>8</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.839111</lat>
+      <lng>106.680718</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15,29,31,36</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>linh động trong công việc</skill>
+      <ui>7652</ui>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <about>hòa đồng, vui tính, hiền </about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>360,504,470,436</strjo>
+  </appliedjob>
+</information>

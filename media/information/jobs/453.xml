@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>453</id>
+    <ui>6014</ui>
+    <ci>402</ci>
+    <ai>0</ai>
+    <ti>Nhân viên phục vụ</ti>
+    <ta/>
+    <le>2</le>
+    <ty>4</ty>
+    <ex>7</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>2400000</s1>
+    <s2>4800000</s2>
+    <s3>109</s3>
+    <s4>218</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description>THỜI GIAN LÀM VIỆC: Theo ca, 7 ngày/tuần\r\n- Ca sáng: 9AM - 2PM\r\n- Ca chiều: 4:30PM - 9PM\r\n\r\nMỨC LƯƠNG: 80.000 đồng/ ca\r\n\r\nMÔ TẢ CÔNG VIỆC:\r\n- Chịu trách nhiệm sắp sếp và vệ sinh bàn, ghế, và các dụng cụ hỗ trợ.\r\n- Tư vấn món ăn và nhận order cho thực khách.\r\n- Phục vụ khách ăn tại bàn và dọn dẹp bàn sạch sẽ sau khi khách rời khỏi.\r\n- Đảm bảo công việc vệ sinh theo tiêu chuẩn quy định.\r\n- Bảo quản và sắp xếp công cụ dụng cụ theo đúng vị trí quy định.\r\n- Thực hiện công việc khác theo sự phân công, chỉ đạo của cấp trên.</description>
+    <requirement>- Chăm chỉ, nhiệt tình, vui vẻ, hòa đồng, ngoại hình khá, và đủ sức khỏe\r\n- Có khả năng giao tiếp tốt\r\n- Không yêu cầu kinh nghiệm</requirement>
+    <benefit>- Quyền lợi, chính sách theo qui định của công ty.\r\n- Được làm việc trong môi trường thân thiện, năng động và chuyên nghiệp.</benefit>
+    <keyword>Tinh thần trách nhiệm,Trung thực,Nhiệt tình,Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng</keyword>
+    <ad/>
+    <location_id>322</location_id>
+    <lat>10.777480</lat>
+    <lng>10.777480</lng>
+    <de>2016-11-12</de>
+    <re>0000-00-00</re>
+    <cr>1476334067</cr>
+  </db>
+  <more>
+    <requirement>- Chăm chỉ, nhiệt tình, vui vẻ, hòa đồng, ngoại hình khá, và đủ sức khỏe&#13;
+- Có khả năng giao tiếp tốt&#13;
+- Không yêu cầu kinh nghiệm</requirement>
+    <description>THỜI GIAN LÀM VIỆC: Theo ca, 7 ngày/tuần&#13;
+- Ca sáng: 9AM - 2PM&#13;
+- Ca chiều: 4:30PM - 9PM&#13;
+&#13;
+MỨC LƯƠNG: 80.000 đồng/ ca&#13;
+&#13;
+MÔ TẢ CÔNG VIỆC:&#13;
+- Chịu trách nhiệm sắp sếp và vệ sinh bàn, ghế, và các dụng cụ hỗ trợ.&#13;
+- Tư vấn món ăn và nhận order cho thực khách.&#13;
+- Phục vụ khách ăn tại bàn và dọn dẹp bàn sạch sẽ sau khi khách rời khỏi.&#13;
+- Đảm bảo công việc vệ sinh theo tiêu chuẩn quy định.&#13;
+- Bảo quản và sắp xếp công cụ dụng cụ theo đúng vị trí quy định.&#13;
+- Thực hiện công việc khác theo sự phân công, chỉ đạo của cấp trên.</description>
+    <benefit>- Quyền lợi, chính sách theo qui định của công ty.&#13;
+- Được làm việc trong môi trường thân thiện, năng động và chuyên nghiệp.</benefit>
+    <keyword>Tinh thần trách nhiệm,Trung thực,Nhiệt tình,Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng</keyword>
+  </more>
+  <userapplied>
+    <total>8</total>
+    <strui>6034,4833,5589,6638,6778,2510,6432,7738</strui>
+  </userapplied>
+</information>

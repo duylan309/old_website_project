@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>326</id>
+    <ui>2496</ui>
+    <name>Coffee Bike</name>
+    <url>coffeebike</url>
+    <im>_coffee-bike.jpg</im>
+    <im_banner>_coffee-bike-cover.jpg</im_banner>
+    <category>15</category>
+    <phone></phone>
+    <address>400/8A Ung Văn Khiêm, P.25, Q.Bình Thạnh</address>
+    <district>0</district>
+    <district_text_vi></district_text_vi>
+    <district_text_en></district_text_en>
+    <city>30</city>
+    <lat>10.800390</lat>
+    <lng>106.723534</lng>
+    <website>http://www.coffeebike.vn/</website>
+    <about></about>
+    <facebook>https://www.facebook.com/coffeebike.vn/</facebook>
+    <facebook_cover></facebook_cover>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1473590090</created>
+  </db>
+  <more>
+    <about>Chuỗi hệ thống cà phê hiện đại với nguyên liệu chất lượng, dịch vụ tiện lợi, nhanh chóng và sứ mệnh mang đến "trải nghiệm niềm vui" mỗi ngày cho mọi người.</about>
+    <whyworkus></whyworkus>
+  </more>
+  <companybanner>_coffee-bike-cover.jpg</companybanner>
+</information>

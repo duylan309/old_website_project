@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>8094</id>
+      <email>uyengiao0410@gmail.com</email>
+      <username/>
+      <name>Giao Nguyen</name>
+      <im>675228462631755_giao-nguyen.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477709457</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>pha chế</title>
+      <experience>2</experience>
+      <category>15,17,35</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Biết làm những món đá xay...</skill>
+      <ui>8094</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>400</strjo>
+  </appliedjob>
+</information>

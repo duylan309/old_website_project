@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2336</id>
+      <email>n.tran2102@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thuỳ Ngọc Trân</name>
+      <im>1473408934_nguyen-thuy-ngoc-tran.jpg</im>
+      <gender>0</gender>
+      <phone>0965978212</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473408934</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên</title>
+      <experience>7</experience>
+      <category>14,15,27,29,35,36</category>
+      <type>2,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>2336</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>222</strjo>
+  </appliedjob>
+</information>

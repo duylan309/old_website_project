@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3178</id>
+      <email>longdon20317@gmail.com</email>
+      <username/>
+      <name>Đỗ Nguyễn Long Đơn</name>
+      <im/>
+      <gender>1</gender>
+      <phone>01682864901</phone>
+      <address>14/7/1 , Đ. Trương Phước Phan , KP 1 , Q. Bình Tân</address>
+      <city>30</city>
+      <dob>1998-1-28</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474368424</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1474368424</last_signin>
+      <day>28</day>
+      <month>1</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7652581</lat>
+      <lng>106.6038535</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>3178</ui>
+      <title>nhân viên phụ bếp</title>
+      <experience>7</experience>
+      <category>14</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>vui vẻ , hòa đồng , siêng năng , chăm chỉ ,đa tài ,thật thà ,</about>
+      <skill>giao tiếp tốt</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>193,153,187,191,276,402</strjo>
+  </appliedjob>
+</information>

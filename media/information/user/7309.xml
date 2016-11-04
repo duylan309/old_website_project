@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7309</id>
+      <email>duongthao288@gmail.com</email>
+      <username/>
+      <name>Dương Thị Thanh Thảo</name>
+      <im>1444230668928233_duong-thao.jpg</im>
+      <gender>2</gender>
+      <dob>1994-8-28</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477150391</created>
+      <day>28</day>
+      <month>8</month>
+      <year>1994</year>
+      <last_signin>1477150391</last_signin>
+      <phone>01668353422</phone>
+      <address>352/3 Lê Hồng Phong, phường 1, quận 10</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.771129</lat>
+      <lng>106.6728159</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1437>
+      <id>1437</id>
+      <title>KCS</title>
+      <level>1</level>
+      <cmpname>Saigon Givral</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>8/2016</from>
+      <to>9/2016</to>
+    </n_1437>
+  </experience>
+  <education>
+    <n_1190>
+      <id>1190</id>
+      <school>Đại học Khoa học tự nhiên</school>
+      <degrees>Cử nhân Công nghệ sinh học</degrees>
+      <fieldofstudy>Công nghệ sinh học Công nghiệp</fieldofstudy>
+      <from>8/2012</from>
+      <to>7/2016</to>
+    </n_1190>
+  </education>
+  <user_cv>
+    <db>
+      <ui>7309</ui>
+      <title>Quản lý truyền thông</title>
+      <experience>1</experience>
+      <category>14,15,20,29</category>
+      <type>4</type>
+      <level>2,3,5</level>
+      <lang>vi,en</lang>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <about>Sinh viên đã tốt nghiệp chuyên ngành Công nghệ sinh học công nghiệp đã được đào tạo về kiến thức chuyên môn. Bên cạnh đó, trong 3 năm đầu đã tham gia và là thành viên tổ chức các hoạt động trong lớp và khoa. Góp sức giành được nhiều giải thưởng lớn và giúp cho Chi hội, khoa mình luôn đạt được vị trí dẫn đầu.&#13;
+&#13;
+</about>
+      <skill>Làm việc nhóm và làm việc độc lập&#13;
+Quản lí thời gian&#13;
+Thuyết trình và báo cáo khoa học&#13;
+Khả năng quan sát và tự học&#13;
+Quản trị fanpage&#13;
+</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>428</strjo>
+  </appliedjob>
+</information>

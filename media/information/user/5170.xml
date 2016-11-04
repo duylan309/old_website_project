@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5170</id>
+      <email>hr.hoangcafe@gmail.com</email>
+      <username/>
+      <name>HỒ THỊ KIM ANH</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0938383403</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1475766852</created>
+      <dayleft>1478358852</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1475766852</last_signin>
+      <jobleft>5</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>1</total>
+    <strji>504</strji>
+  </totalJob>
+  <saveuser>
+    <total>14</total>
+    <strui>7388,7490,7597,7608,5869,7652,7246,3538,940,7738,7342,7801,1773,877</strui>
+  </saveuser>
+</information>

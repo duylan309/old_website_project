@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>503</id>
+    <ui>7302</ui>
+    <ci>420</ci>
+    <ai>0</ai>
+    <ti>Nhân viên tiếp thực</ti>
+    <ta></ta>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>4000000</s1>
+    <s2>4500000</s2>
+    <s3>181</s3>
+    <s4>204</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description></description>
+    <requirement></requirement>
+    <workhour></workhour>
+    <benefit></benefit>
+    <keyword></keyword>
+    <ad></ad>
+    <location_id>361</location_id>
+    <lat>10.778010</lat>
+    <lng>10.778010</lng>
+    <de>2016-11-30</de>
+    <re>0000-00-00</re>
+    <cr>1477148665</cr>
+  </db>
+  <more>
+    <requirement>- Giới tính: NAM&#13;
+- Nhanh nhẹn, khoẻ mạnh và chăm chỉ</requirement>
+    <description>- Bưng bê thức ăn cho khách&#13;
+- Chuẩn bị các vật dụng cho mỗi ca làm</description>
+    <workhour>- Ca làm: 10.00-17.00 hoặc 17.00-24.00</workhour>
+    <benefit>-  Cung cấp bãi đỗ xe.&#13;
+-  1 bữa cơm/ 1 ca làm&#13;
+- Tăng ca : x1.5&#13;
+- Làm vào các ngày lễ: lương x2&#13;
+- Làm vào dịp Tết ta: lương x3</benefit>
+    <keyword>Tập trung trong công việc,Tinh thần làm việc nhóm,Nhiệt tình,Tinh thần trách nhiệm</keyword>
+  </more>
+</information>

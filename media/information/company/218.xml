@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>218</id>
+    <ui>229</ui>
+    <name>Hot n Tasty Hanoi</name>
+    <url>hotntastyhanoi</url>
+    <im>_hot-n-tasty-hanoi.jpg</im>
+    <im_banner>_hot-n-tasty-hanoi-cover.jpg</im_banner>
+    <category>14</category>
+    <phone>0904 876 518</phone>
+    <address>81, Láng Hạ, Đống Đa</address>
+    <district>0</district>
+    <district_text_vi></district_text_vi>
+    <district_text_en></district_text_en>
+    <city>30</city>
+    <lat>21.004076</lat>
+    <lng>105.818054</lng>
+    <website>http://hotntasty.vn/home/vi.html</website>
+    <about></about>
+    <facebook>https://www.facebook.com/hotntastyvietnam/</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1468052873</created>
+  </db>
+  <more>
+    <about>BBQ , Hot pot..&#13;
+Opening time: every day from 11-14h for lunch. Dinner from 17.30 – 23.00</about>
+    <whyworkus></whyworkus>
+  </more>
+  <companybanner>_hot-n-tasty-hanoi-cover.jpg</companybanner>
+</information>

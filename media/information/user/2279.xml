@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2279</id>
+      <email>subin4793@gmail.com</email>
+      <username/>
+      <name>Lê Đức Thịnh</name>
+      <im>2279_10525906-724616617580489-2121797567099112126-n.jpg</im>
+      <gender>1</gender>
+      <phone>01646648344</phone>
+      <address>122/27/29/26 Tôn Đản P10 Q4</address>
+      <city>30</city>
+      <dob>1993-7-4</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473350957</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1473350957</last_signin>
+      <day>4</day>
+      <month>7</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7603734</lat>
+      <lng>106.7057108</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_512>
+      <id>512</id>
+      <title>Waiter</title>
+      <level>1</level>
+      <cmpname>Ciao Cafe</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2011</from>
+      <to>2014</to>
+    </n_512>
+    <n_513>
+      <id>513</id>
+      <title>Waiter</title>
+      <level>1</level>
+      <cmpname>Swiss House Saigon</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_513>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>2279</ui>
+      <title>Waiter</title>
+      <experience>3</experience>
+      <category>14,15,17</category>
+      <type>1,2,4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Đam mê công việc, Tính tình vui vẻ hòa đồng, chịu học hỏi, chịu được áp lực công việc, không sợ khổ.&#13;
+Có kỹ năng và kinh nghiệm trong công việc phục vụ, giao tiếp bằng tiếng Anh tốt.&#13;
+Ngoài ra còn có đam mê với công việc làm bánh.</about>
+      <skill>Basic customer service.&#13;
+Basic kitchen skills.&#13;
+English.</skill>
+      <keyword>Chịu được áp lực công việc,Tinh thần trách nhiệm,Tinh thần làm việc nhóm,Trung thực</keyword>
+    </db>
+  </user_cv>
+  <savedjob>
+    <total>1</total>
+    <strjo>151</strjo>
+  </savedjob>
+  <appliedjob>
+    <total>3</total>
+    <strjo>151,140,79</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>418</id>
+    <ui>5559</ui>
+    <ci>387</ci>
+    <ai>0</ai>
+    <ti>Nhân viên bếp bánh và phụ việc</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>2</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>291</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-30</de>
+    <re>0000-00-00</re>
+    <cr>1476083296</cr>
+  </db>
+  <more>
+    <requirement>Đối với nhân viê  bếp&#13;
+- Kinh nghiệm ít nhất 1 năm.&#13;
+- Biết sử dụng các thiết bị làm bánh.&#13;
+- Biết và có khả năng làm các loại bánh Âu và Á.&#13;
+- Có thể làm thêm giờ khi cần.&#13;
+- Chịu được áp lực công việc.&#13;
+Đối với phụ bếp&#13;
+- Không yêu cầu kinh nghiệm&#13;
+- Yêu thích công việc bánh.&#13;
+- Chăm chỉ, nhanh nhẹn.&#13;
+</requirement>
+    <description>Nhân viên bếp&#13;
+- Nhận order bánh hằng ngày và hoàn thành đơn bánh trong ngày.&#13;
+- Làm bánh theo đúng công thức và tiêu chuẩn được đề ra.&#13;
+- Đảm bảo vấn đề vệ sinh thực phẩm.&#13;
+Thời gian làm việc : 8h - 17h&#13;
+Phụ bếp&#13;
+- Nhận bánh hoàn thành cắt, gói và chia cho các cửa hàng.&#13;
+- Dọn dẹp nơi làm việc.&#13;
+- Chuẩn bị nguyên liệu để giao bánh cho các cửa hàng.&#13;
+- Hỗ trợ 1 số việc khác.&#13;
+- Thời gian làm việc : 13h-21h&#13;
+&#13;
+</description>
+    <benefit>- Lương thưởng theo năng lực.&#13;
+- Xét tăng lương hằng năm.&#13;
+- Phụ cấp.&#13;
+- Nghỉ 1 ngày trong tuần.&#13;
+- Môi trường làm việc thân thiện.&#13;
+- Được phát huy năng lực bản thân.</benefit>
+    <keyword>Chịu được áp lực công việc,Tinh thần trách nhiệm</keyword>
+  </more>
+  <userapplied>
+    <total>15</total>
+    <strui>5164,4833,1099,5772,5990,6074,6320,6691,6919,6973,7184,7269,7345,7706,8074</strui>
+  </userapplied>
+</information>

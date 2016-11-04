@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>306</id>
+    <ui>3244</ui>
+    <ci>347</ci>
+    <ai>0</ai>
+    <ti>PT</ti>
+    <ta></ta>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>7</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>6000000</s1>
+    <s2>6500000</s2>
+    <s3>272</s3>
+    <s4>295</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>26</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>1</st>
+    <pi>0</pi>
+    <la>ar</la>
+    <description></description>
+    <requirement></requirement>
+    <benefit></benefit>
+    <keyword></keyword>
+    <ad></ad>
+    <location_id>205</location_id>
+    <lat>10.769992</lat>
+    <lng>10.769992</lng>
+    <de>2016-09-21</de>
+    <re>0000-00-00</re>
+    <cr>1474451353</cr>
+  </db>
+  <more>
+    <requirement>cute</requirement>
+    <description>tập tạ</description>
+    <benefit></benefit>
+    <keyword>Kỹ năng chăm sóc khách hàng</keyword>
+  </more>
+</information>

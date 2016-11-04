@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4421</id>
+      <email>maitrangthanh091012@gmail.com</email>
+      <username/>
+      <name>MAI TRANG THANH</name>
+      <im>1475135558_mai-trang-thanh.png</im>
+      <gender>2</gender>
+      <phone>0907132894</phone>
+      <address>350/33/30 Nguyễn Văn Lượng , phường 16, quận Gò Vấp, TP Hồ Chí Minh</address>
+      <city>30</city>
+      <dob>1997-10-9</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475135558</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>9</day>
+      <month>10</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.838758</lat>
+      <lng>106.665665</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill></skill>
+      <ui>4421</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Là người vui vẻ, hòa đồng, cẩn thận.</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>107</strjo>
+  </appliedjob>
+  <education>
+    <n_727>
+      <id>727</id>
+      <school>Đại Học Ngân Hàng TP HCM</school>
+      <degrees>Năm 2</degrees>
+      <fieldofstudy>Ngôn Ngữ Anh</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_727>
+  </education>
+</information>

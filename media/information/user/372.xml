@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>372</id>
+      <email>quynhanhshun.1998@gmail.com</email>
+      <username/>
+      <name>Quynh Anh</name>
+      <im>372_image.jpeg</im>
+      <gender>2</gender>
+      <dob>1998-2-26</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1469951118</created>
+      <day>26</day>
+      <month>2</month>
+      <year>1998</year>
+      <phone>01222728086</phone>
+      <address>117/16 Ba Vân Quận Tân Bình</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.795458</lat>
+      <lng>106.639624</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>372</ui>
+      <title>Nhân viên phục vụ, Nhân viên bán hàng</title>
+      <experience>7</experience>
+      <category>14,15,17,29,31,35</category>
+      <type>2,4,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Kỹ năng chăm sóc khách hàng,Giao tiếp hiệu quả,Tinh thần trách nhiệm,Tự tin,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>10</total>
+    <strjo>82,107,64,156,124,165,114,253,154,371</strjo>
+  </appliedjob>
+</information>

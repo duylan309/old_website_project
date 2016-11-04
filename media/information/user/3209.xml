@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3209</id>
+      <email>thuytan1995@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Thúy Tần</name>
+      <im>3209_dscn0231.JPG</im>
+      <gender>2</gender>
+      <phone>01684270878</phone>
+      <address>299/4 Quốc lộ 13, Hiệp Bình Phước, Thủ Đức</address>
+      <city>30</city>
+      <dob>1995-8-20</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474395204</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1474395204</last_signin>
+      <day>20</day>
+      <month>8</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8285</lat>
+      <lng>106.7123809</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>3209</ui>
+      <title>Nhân viên bán hàng/ Lễ tân</title>
+      <experience>7</experience>
+      <category>14,17,20,29,31,35</category>
+      <type>4,6</type>
+      <level>2</level>
+      <lang>vi,en,fr</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Tôi 21 tuổi, có ngoại hình, vừa tốt nghiệp đại học chuyên ngành kinh tế, đặc biệt yêu thích các công việc liên quan đến thời trang và mỹ phẩm, không ngại các công việc không đúng chuyên môn hay vị trí thấp.</about>
+      <skill>Tiếng pháp tốt, tiếng anh cơ bản, có kinh nghiệm làm lễ tân sự kiện và nhà hàng.</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>253,301,124</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>322</strjo>
+  </savedjob>
+</information>

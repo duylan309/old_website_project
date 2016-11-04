@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4622</id>
+      <email>sica.dung96@gmail.com</email>
+      <username/>
+      <name>Đoàn Khoa Phương Dung</name>
+      <im>1475371213_doan-khoa-phuong-dung.png</im>
+      <gender>2</gender>
+      <phone>0911548381</phone>
+      <address>451/39 xô viết nghệ tĩnh phường 26 quận bình thạnh</address>
+      <city>30</city>
+      <dob>1996-4-17</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475371213</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>17</day>
+      <month>4</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.806661</lat>
+      <lng>106.711406</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, pha chế, bán hàng</title>
+      <experience>1</experience>
+      <category>14,15,17,35</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>4622</ui>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>Chăm chỉ, trung thực, năng động, mong muốn được học hỏi</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>156,215,219,267,364</strjo>
+  </appliedjob>
+  <education>
+    <n_767>
+      <id>767</id>
+      <school>Đại Học Tôn Đức Thắng</school>
+      <degrees/>
+      <fieldofstudy>Quan Hệ Lao Động</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_767>
+  </education>
+  <experience>
+    <n_979>
+      <id>979</id>
+      <title>Phục vụ</title>
+      <level>1</level>
+      <cmpname>Barbecue Garden 2</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>6/2015</from>
+      <to>11/2015</to>
+    </n_979>
+  </experience>
+</information>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7172</id>
+      <email>liennguyen0304@gmail.com</email>
+      <username/>
+      <name>iBasic</name>
+      <im/>
+      <gender>0</gender>
+      <phone>(08)36011359</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1477103636</created>
+      <dayleft>1479695636</dayleft>
+      <jobleft>5</jobleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1477103636</last_signin>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>2</total>
+    <strji>499,500</strji>
+  </totalJob>
+</information>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4051</id>
+      <email>Nguyenduy261195@yahoo.com</email>
+      <username/>
+      <name>Nguyển Hoàng Ngọc Duy</name>
+      <im>4051_14445843-2125688827656541-1428454915-n.jpg</im>
+      <gender>1</gender>
+      <phone>01695405081</phone>
+      <address>Phan Thiết Bình Thuận</address>
+      <city>30</city>
+      <dob>1995-11-26</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474965093</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>26</day>
+      <month>11</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7417516</lat>
+      <lng>106.7205154</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>phụ bếp</title>
+      <experience>1</experience>
+      <category>14,18,19,20,29,31,35</category>
+      <type>4</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill>có </skill>
+      <ui>4051</ui>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <about>một người hoạt động năng nỗ trong công việc</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>11</total>
+    <strjo>183,276,193,139,153,206,114,182,377,358,370</strjo>
+  </appliedjob>
+  <education>
+    <n_654>
+      <id>654</id>
+      <school>trungcapdulichkhachsan Saigontourist</school>
+      <degrees>12/12</degrees>
+      <fieldofstudy>bếp châu âu</fieldofstudy>
+      <from>15</from>
+      <to>30</to>
+    </n_654>
+  </education>
+  <experience>
+    <n_874>
+      <id>874</id>
+      <title>go vap</title>
+      <level>1</level>
+      <cmpname>nhahanglaunuongsury</cmpname>
+      <city/>
+      <country/>
+      <from>15</from>
+      <to>30</to>
+    </n_874>
+  </experience>
+  <savedjob/>
+</information>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2574</id>
+      <email>sephanguyen@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Thuý Nga</name>
+      <im>1473675783_nguyen-thi-thuy-nga.png</im>
+      <gender>0</gender>
+      <phone>01688900635</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473675783</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ , bán hàng</title>
+      <experience>7</experience>
+      <category>14,15,18,20,29,31,35</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>học hỏi nhanh và nhớ lâu</skill>
+      <ui>2574</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>172</strjo>
+  </appliedjob>
+</information>

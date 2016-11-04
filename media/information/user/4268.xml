@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4268</id>
+      <email>becon_nonon@yahoo.com</email>
+      <username/>
+      <name>Sai Phân Phương</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0909647833</phone>
+      <address>51 Dân Tộc , phường Tân Thành , quận Tân Phú</address>
+      <city>30</city>
+      <dob>1991-8-1</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475050431</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1475050431</last_signin>
+      <day>1</day>
+      <month>8</month>
+      <year>1991</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7943425</lat>
+      <lng>106.6351374</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_901>
+      <id>901</id>
+      <title>Phụ bếp</title>
+      <level>1</level>
+      <cmpname>Red sun , food studio</cmpname>
+      <city>Tp.hcm</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>2016</to>
+    </n_901>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>4268</ui>
+      <title>Phụ bếp</title>
+      <experience>2</experience>
+      <category>14,16,18,19,20,29,31,35</category>
+      <type>4,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Vui vẻ , thân thiện, ham học hỏi</about>
+      <skill>Pha chế trà sữa, gỏi, salad, chè, sushi</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>188</strjo>
+  </appliedjob>
+</information>

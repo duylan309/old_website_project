@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3462</id>
+      <email>nguyentrangthanhthuong5398@gmail.com</email>
+      <username/>
+      <name>Nguyễn Trang Thanh Thương</name>
+      <im>3462_13461140-153346701745914-1794933026-o.jpg</im>
+      <gender>2</gender>
+      <phone>01632911170</phone>
+      <address>Lê Quang Định, Bình Thạnh</address>
+      <city>30</city>
+      <dob>1998-3-5</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474638789</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1474638789</last_signin>
+      <day>5</day>
+      <month>3</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8092869</lat>
+      <lng>106.6933319</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>3462</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>1</experience>
+      <category>14,15,17,26,27,29,31,35</category>
+      <type>1,2,4,5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Tự lập, nắm bắt tốt. Lương thiện, thật thà, có tư cách. Yêu thích công việc năng động. Có trách nhiệm với công việc.</about>
+      <skill>Nhanh nhạy trong mọi hoạt động.</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>267</strjo>
+  </appliedjob>
+</information>

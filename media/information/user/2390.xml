@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2390</id>
+      <email>tuanquoc1996@yahoo.com</email>
+      <username/>
+      <name>Ngô Quốc Tuấn</name>
+      <im>1176343969089285_ngo-quoc-tuan.jpg</im>
+      <gender>1</gender>
+      <dob>1996-1-9</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473442636</created>
+      <day>9</day>
+      <month>1</month>
+      <year>1996</year>
+      <last_signin>1473442636</last_signin>
+      <phone>01219409020</phone>
+      <address>333/11/12 Lý Thái Tổ phường 9 , quận 10</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7677286</lat>
+      <lng>106.6705495</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>2390</ui>
+      <title>Nhân viên Pha Chế</title>
+      <experience>1</experience>
+      <category>15,16</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng giải quyết tình huống,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Nhiệt tình,Tinh thần làm việc nhóm,Tinh thần trách nhiệm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>240,250</strjo>
+  </appliedjob>
+  <education>
+    <n_375>
+      <id>375</id>
+      <school>Đại Học FPT</school>
+      <degrees/>
+      <fieldofstudy>Công Nghệ Thông Tin</fieldofstudy>
+      <from>2013</from>
+      <to>2016</to>
+    </n_375>
+  </education>
+</information>

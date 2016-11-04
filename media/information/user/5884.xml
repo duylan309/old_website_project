@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5884</id>
+      <email>yenphuonglam3097@gmail.com</email>
+      <username/>
+      <name>Lâm Yến Phượng</name>
+      <im>711077485706774_yen-phuong-lam.jpg</im>
+      <gender>2</gender>
+      <dob>1997-11-30</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476250779</created>
+      <day>30</day>
+      <month>11</month>
+      <year>1997</year>
+      <phone>0902787763</phone>
+      <address>254/98/24 đường Âu Cơ F9 Q.Tân Bình </address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.780496</lat>
+      <lng>106.645683</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1196>
+      <id>1196</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Family food</cmpname>
+      <city>Hồ Chí Minh </city>
+      <country>Việt Nam </country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_1196>
+  </experience>
+  <education>
+    <n_979>
+      <id>979</id>
+      <school>THPT Nam Kỳ Khởi Nghĩa </school>
+      <degrees>Trung học phổ thông </degrees>
+      <fieldofstudy/>
+      <from>2012</from>
+      <to>2015</to>
+    </n_979>
+  </education>
+  <user_cv>
+    <db>
+      <ui>5884</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>296,427,222</strjo>
+  </appliedjob>
+</information>

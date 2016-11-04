@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4464</id>
+      <email>anhme01512@gmail.com</email>
+      <username/>
+      <name>Phạm Ánh</name>
+      <im>181600142280254_pham-anh.jpg</im>
+      <gender>2</gender>
+      <dob>1996-4-22</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475206931</created>
+      <day>22</day>
+      <month>4</month>
+      <year>1996</year>
+      <last_signin>1475206931</last_signin>
+      <phone>01658504754</phone>
+      <address>606/49/11 đường 3/2 quận 10</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7745965</lat>
+      <lng>106.6679542</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>4464</ui>
+      <title>Liên quan về quản lý, kinh doanh, buôn bán....</title>
+      <experience>1</experience>
+      <category>15,17,20,27,28,29,30,35,36</category>
+      <type>3,4,5</type>
+      <level>1,2</level>
+      <lang>vi</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>- Là sinh viên năm 3 chuyen ngành quản lý công nghiệp.&#13;
+- Nhiệt huyết, chăm chỉ, trung thực là điểm mạnh tích cực của tôi.&#13;
+</about>
+      <skill>- Từng làm trợ giảng của trung tâm anh ngữ.&#13;
+- Từng làm phục vụ</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

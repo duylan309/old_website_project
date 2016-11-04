@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3863</id>
+      <email>ntthanhan96@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Thanh Ân</name>
+      <im>3863_12071282-902505473164532-742434465-n.jpg</im>
+      <gender>2</gender>
+      <phone>01642104325</phone>
+      <address>4 Tôn Đức Thắng,p.Bến Nghé, q.1</address>
+      <city>30</city>
+      <dob>1996-8-10</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474877664</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1474877664</last_signin>
+      <day>10</day>
+      <month>8</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7743665</lat>
+      <lng>106.7065416</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>3863</ui>
+      <title>Bán thời gian</title>
+      <experience>7</experience>
+      <category>14,15,16,17,19,20,26,27,29,30,31,35,36</category>
+      <type>2,3,4,5,6</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <s1>1500000</s1>
+      <salary>1</salary>
+      <about>Sinh viên năm 3 trường ĐH Sài Gòn, học ngành Kế toán. Có 1 năm kinh nghiệm phục vụ quán cafe</about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

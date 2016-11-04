@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3568</id>
+      <email>buivukimngan@gmail.com</email>
+      <username/>
+      <name>Bui Vu Kim Ngan</name>
+      <im>1812483448981031_bui-vu-kim-ngan.jpg</im>
+      <gender>2</gender>
+      <dob>1995-3-9</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474697112</created>
+      <day>9</day>
+      <month>3</month>
+      <year>1995</year>
+      <phone>0909862486</phone>
+      <address>31 Cô Giang P2 Q. Phú Nhuận</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.795936</lat>
+      <lng>106.6831</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, nhân viên bán hàng, lễ tân, cashier</title>
+      <experience>1</experience>
+      <category>14,16,20,29</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>en,ja,ch</lang>
+      <skill>Có kỹ năng giao tiếp tốt, kỹ năng làm việc nhóm, có tinh thần trách nhiệm cao, có thể khắc phục và xử lý tình huống linh hoạt, biết nắm bắt thông tin và chăm sóc khách hàng tận tuỵ, có tinh thần ham học hỏi và luôn cầu tiến trong công việc.  Có khả năng ngoại ngữ ,nhạy bén và dễ thích nghi với môi trường mới. </skill>
+      <ui>3568</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Sinh ra và lớn lên tại TPHCM, hiện đang là sinh viên khoa quốc tế trường Đại Học Kỹ Thuật Công Nghệ Hutech chuyên ngành quản trị kinh doanh quốc tế. Có sở thích khám phá và tìm tòi những điều mới lạ, thích đọc sách,  yêu thiên nhiên, động vật và trẻ em, thi thoảng vào những lúc cao hứng cũng có thể viết lách,  Có hứng thú với những hoạt động mang tính chất cộng đồng và truyền cảm hứng. Là tuýp người sống nội tâm nhưng lại yêu thích các hoạt động hướng ngoại. Luôn tự đặt ra mục tiêu phấn đấu cho bản thân, thực tế nhưng không thực dụng. Yêu gia đình và quý trọng những mối quan hệ xung quanh, thiên hướng sống tình cảm nên đôi lúc hành xử theo cảm tính và đó cũng là hạn chế và yếu kém của bản thân cần khắc phục trong thời gian tới. Niềm vui đối với bản thân đôi lúc cũng chỉ đơn giản như là ngồi ăn bữa cơm cùng gia đình, đi coffee tán gẫu cùng hội bạn, có khi chỉ là mua được một món hàng mà mình yêu thích với giá hời. Phương châm sống là " Hãy làm và tận hưởng ngay khi bạn còn có thể " </about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>279</strjo>
+  </appliedjob>
+  <experience>
+    <n_793>
+      <id>793</id>
+      <title>Nhân viên phục vụ bán thời gian</title>
+      <level>1</level>
+      <cmpname>Kentucky Restaurant ( Chuỗi cửa hàng thức ăn nhanh KFC )</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>3/2014</from>
+      <to>4/2016</to>
+    </n_793>
+  </experience>
+  <education>
+    <n_580>
+      <id>580</id>
+      <school>Đại Học Kỹ Thuật Công Nghệ HuTech TPHCM</school>
+      <degrees/>
+      <fieldofstudy>Quản trị kinh doanh quốc tế</fieldofstudy>
+      <from>9/2016</from>
+      <to>2019</to>
+    </n_580>
+  </education>
+</information>

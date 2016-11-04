@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>339</id>
+    <ui>3295</ui>
+    <ci>349</ci>
+    <ai>0</ai>
+    <ti>Line cook (ca chiều)</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1,4</ty>
+    <ex>2</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>5000000</s1>
+    <s2>7000000</s2>
+    <s3>227</s3>
+    <s4>318</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14,15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>208</location_id>
+    <lat>10.805460</lat>
+    <lng>10.805460</lng>
+    <de>2016-10-22</de>
+    <re>0000-00-00</re>
+    <cr>1474864659</cr>
+  </db>
+  <more>
+    <requirement>Yêu cầu khác:&#13;
+- Biết tiếng Anh là một lợi thế  &#13;
+- Nhanh nhẹn, ham học hỏi, nhiệt tình trong công việc&#13;
+- Không vướng bận việc học &#13;
+- Có kinh nghiệm làm bếp Âu </requirement>
+    <description>- Thời gian làm việc: &#13;
+*** Ca chiều từ 14:30 đến 22:30 &#13;
+- Chuyên món Âu (Món nướng áp chảo- saute grill)&#13;
+- Đứng bếp&#13;
+- Nấu món theo công thức và thực đơn của Nhà hàng&#13;
+- Sáng tạo món mới theo yêu cầu của Bếp Trưởng</description>
+    <benefit>- Được hưởng TIPS + overtime hàng tháng&#13;
+- Hỗ trợ 1 phần cơm mỗi ngày công&#13;
+- Có cơ hội tham gia lớp Tiếng Anh miễn phí&#13;
+- Được hưởng đầy đủ các chế độ pháp luật và theo quy định của Công Ty sau khi ký HĐLĐ&#13;
+- Lương từ 5,000,000 - 7,000,000 &#13;
+- Hưởng 100% lương trong thời gian thử việc &#13;
+- Lương tháng 13 cho nhân viên theo quy định&#13;
+- Off 4 ngày 1 tháng&#13;
+- Sinh nhật nhân viên hàng tháng </benefit>
+    <keyword>line cook,đứng chảo,bếp nóng</keyword>
+  </more>
+  <userapplied>
+    <total>1</total>
+    <strui>4120</strui>
+  </userapplied>
+</information>

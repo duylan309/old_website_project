@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>536</id>
+      <email>Oliviatran216@gmail.com</email>
+      <username/>
+      <name>Trần Nhựt Hoàng Oanh</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01285283922</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470439326</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,17,19,26,29,30</category>
+      <type>1,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Kĩ năng giao tiếp tốt</skill>
+      <ui>536</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>120</strjo>
+  </appliedjob>
+</information>

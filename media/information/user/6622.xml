@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6622</id>
+      <email>trangnguyen1131995@gmail.com</email>
+      <username/>
+      <name>Trang Nguyễn</name>
+      <im>1767920623446677_trang-nguyen.jpg</im>
+      <gender>2</gender>
+      <dob>1995-3-11</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476730348</created>
+      <day>11</day>
+      <month>3</month>
+      <year>1995</year>
+      <phone>0989620019</phone>
+      <address>Số 100, Dương Quảng Hàm, Gò Vấp</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.83147</lat>
+      <lng>106.690205</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6622</ui>
+      <title>Nhân viên bán hàng, Thu Ngân</title>
+      <experience>7</experience>
+      <category>14,16,18,19,20,29,31,35</category>
+      <type>2,4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Hiện đang là sinh viên năm 4 chuyên ngành Ngân hàng tại ĐH Công Nghiệp TPHCM. Có mong muốn làm việc trong môi trường năng động, hiện đại. Là 1 người nhanh nhẹn, biết cách giao thiệp.  Đã từng làm qua 1 số công việc như: tổng đài viên Vinaphone, Telesales, KFC, Nhà hàng-tiệc cưới.</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>156,408</strjo>
+  </appliedjob>
+</information>

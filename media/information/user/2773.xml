@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2773</id>
+      <email>Willnguyen219@gmail.com</email>
+      <username/>
+      <name>Nguyễn Phước Hồng Hạnh</name>
+      <im>2773_image.jpeg</im>
+      <gender>2</gender>
+      <phone>01284135936</phone>
+      <address>50/9 Nguyễn Kim, phường 6, quận 10</address>
+      <city>30</city>
+      <dob>1996-11-14</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473901299</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1473901299</last_signin>
+      <day>14</day>
+      <month>11</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7639571</lat>
+      <lng>106.6617247</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_623>
+      <id>623</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>Cửa hàng tiện lợi Vinmart+</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>Tháng 12/2015</from>
+      <to>1/7/2016</to>
+    </n_623>
+  </experience>
+  <education>
+    <n_449>
+      <id>449</id>
+      <school>Cao đẳng văn hoá nghệ thuật và du lịch Sài Gòn</school>
+      <degrees>Chưa tốt nghiệp</degrees>
+      <fieldofstudy>Quản trị khách sạn</fieldofstudy>
+      <from>2014</from>
+      <to>2016</to>
+    </n_449>
+  </education>
+  <user_cv>
+    <db>
+      <ui>2773</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>15,17</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Là 1 người hoạt bát, hoà đồng, có trách nhiệm trong công việc.&#13;
+Đang là sinh viên ngành du lịch chuyên ngành Quản trị khách sạn của trường Cao đẳng văn hoá nghệ thuật và du lịch Sài Gòn</about>
+      <skill>Giao tiếp tốt, học hỏi công việc nhanh</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

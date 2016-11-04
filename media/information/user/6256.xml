@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6256</id>
+      <email>rukoko94@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thịnh</name>
+      <im>6256_1483288-668772796575613-4770787325624301798-n.jpg</im>
+      <gender>1</gender>
+      <phone>0972365761</phone>
+      <address>104 Tân Mỹ , Phường Tân Thuận Tây , Quận 7</address>
+      <city>30</city>
+      <dob>1994-7-6</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476456040</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476456040</last_signin>
+      <day>6</day>
+      <month>7</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7482235</lat>
+      <lng>106.7196202</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1266>
+      <id>1266</id>
+      <title>Kế toán kho</title>
+      <level>1</level>
+      <cmpname>Yến sào sài gòn anpha</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>10/2014</from>
+      <to>5/2015</to>
+    </n_1266>
+    <n_1267>
+      <id>1267</id>
+      <title>Store Leader</title>
+      <level>1</level>
+      <cmpname>B’S Mart</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>6/2015</from>
+      <to>8/2016</to>
+    </n_1267>
+  </experience>
+  <education>
+    <n_1037>
+      <id>1037</id>
+      <school>Trung cấp Tôn Đức Thắng</school>
+      <degrees>Khá</degrees>
+      <fieldofstudy>Kế toán</fieldofstudy>
+      <from>8/2012</from>
+      <to>9/2014</to>
+    </n_1037>
+  </education>
+  <user_cv>
+    <db>
+      <ui>6256</ui>
+      <title>Kế toán , Quản lý , thủ kho</title>
+      <experience>1</experience>
+      <category>14,17,35</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>7000000</s1>
+      <salary>1</salary>
+      <about>Tôi tên là Nguyễn Thịnh , tôi hiện đang tìm kiếm một công việc phù hợp với bản thân , tôi có khả năng kiểm soát số liệu , quản lý doanh thu và phát triễn cửa hàng .Nếu bạn đang tìm nhân viên nhưng lo lắng không biết tìm ai , bạn đang phiền vì nhân viên cứ nghỉ liên tục và chẳng có ai làm chắc chắn . hôm nay có thể là 1 điều gì đó với tôi và bạn , hãy gọi cho tôi , cho tôi cơ hội thể hiện , và bạn sẽ biết mình đang tìm kiếm ai trở thành người hỗ trợ cho công ty , cửa hàng của bạn</about>
+      <skill>-Quản lý cửa hàng&#13;
+-Tuyển dụng , trainning nhân viên&#13;
+- Quản ly số liệu&#13;
+-Quản lý hàng hóa trong cửa hàng&#13;
+-Phát triển doanh thu</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>157,231,149,337,386,288</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>288</strjo>
+  </savedjob>
+</information>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2475</id>
+      <email>Dangquang.vo020194@gmail.com</email>
+      <username/>
+      <name>Võ Đăng Quang</name>
+      <im>2475_image.jpg</im>
+      <gender>1</gender>
+      <phone>01686871715</phone>
+      <address>40/1 Lam Sơn, phường 2 quận Tân Bình</address>
+      <city>30</city>
+      <dob>1994-1-2</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473578918</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1473578918</last_signin>
+      <day>2</day>
+      <month>1</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.811899</lat>
+      <lng>106.667159</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_552>
+      <id>552</id>
+      <title>Casual labor</title>
+      <level>1</level>
+      <cmpname>Cafe Central Nguyen Hue</cmpname>
+      <city>Thành phố Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>5/2013</from>
+      <to>1/2014</to>
+    </n_552>
+  </experience>
+  <education>
+    <n_396>
+      <id>396</id>
+      <school>Đại học Công nghiệp thực phẩm TPHCM</school>
+      <degrees>Đại học chính quy</degrees>
+      <fieldofstudy>Đảm bảo chất lượng và vệ sinh an toàn thực phẩm</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_396>
+  </education>
+  <user_cv>
+    <db>
+      <ui>2475</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,16</category>
+      <type>2,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword>Giao tiếp hiệu quả,Tinh thần trách nhiệm,Tập trung trong công việc,Trung thực,Tinh thần làm việc nhóm,Chịu được áp lực công việc</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>181,206</strjo>
+  </appliedjob>
+</information>

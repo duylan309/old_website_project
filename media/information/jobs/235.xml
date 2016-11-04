@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>235</id>
+    <ui>1752</ui>
+    <ci>306</ci>
+    <ai>0</ai>
+    <ti>Nhân viên phục vụ</ti>
+    <ta/>
+    <le>2</le>
+    <ty>6</ty>
+    <ex>2</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>3500000</s1>
+    <s2>5000000</s2>
+    <s3>159</s3>
+    <s4>227</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>en</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>135</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-10-03</de>
+    <re>0000-00-00</re>
+    <cr>1473040305</cr>
+  </db>
+  <more>
+    <requirement>Có khả năng giao tiếp tốt&#13;
+Nhanh Nhẹn, sạch sẽ&#13;
+Từng làm việc cho nhà hàng là một lợi thế</requirement>
+    <description/>
+    <benefit>Lương, trợ cấp, tips, thưởng</benefit>
+    <keyword/>
+  </more>
+  <userapplied>
+    <total>20</total>
+    <strui>1886,823,2974,2990,1315,1602,3494,2476,412,3808,4150,4345,4474,4541,1279,4651,5005,5638,6319,7257</strui>
+  </userapplied>
+</information>

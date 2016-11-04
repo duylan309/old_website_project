@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5193</id>
+      <email>kimngan1996k@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Kim Ngân</name>
+      <im>1262438487134030_nguyen-thi-kim-ngan.jpg</im>
+      <gender>2</gender>
+      <dob>1996-12-12</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475779066</created>
+      <day>12</day>
+      <month>12</month>
+      <year>1996</year>
+      <phone>01264486889</phone>
+      <address/>
+      <country>vn</country>
+      <city/>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>2</experience>
+      <category>14</category>
+      <type>1,2,5,6</type>
+      <level>2</level>
+      <lang>vi,en,ja</lang>
+      <skill/>
+      <ui>5193</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>211,279,386</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4708</id>
+      <email>phngththy@gmail.com</email>
+      <username/>
+      <name>Thanh Thy</name>
+      <im>1060164564097921_thanh-thy.jpg</im>
+      <gender>2</gender>
+      <dob>1997-7-15</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475442287</created>
+      <day>15</day>
+      <month>7</month>
+      <year>1997</year>
+      <phone>01887442021</phone>
+      <address>57/52 Trần Nhân Tôn P9 Q5</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7596174</lat>
+      <lng>106.6747225</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,17,26,31,35</category>
+      <type>2</type>
+      <level>1,2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>4708</ui>
+      <s1>1500000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>18</total>
+    <strjo>267,222,262,188,64,69,211,130,193,383,219,371,334,344,367,150,323,172</strjo>
+  </appliedjob>
+  <education>
+    <n_794>
+      <id>794</id>
+      <school>Đại Học Sư Phạm TPHCM</school>
+      <degrees/>
+      <fieldofstudy>Giáo Dục Thể Chất</fieldofstudy>
+      <from>2016</from>
+      <to>2021</to>
+    </n_794>
+  </education>
+  <savedjob/>
+</information>

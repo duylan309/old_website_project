@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7284</id>
+      <email>huykingtiger@gmail.com</email>
+      <username/>
+      <name>Nguyễn Hoàng Huy</name>
+      <im>7284_dsc-00361.jpg</im>
+      <gender>1</gender>
+      <dob>1998-12-29</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477141914</created>
+      <day>29</day>
+      <month>12</month>
+      <year>1998</year>
+      <last_signin>1477141914</last_signin>
+      <phone>01627648833</phone>
+      <address>395/26 Vĩnh Viễn, P.5, Q.10, TP. HCM</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>7284</ui>
+      <title>Tất cả</title>
+      <experience>1</experience>
+      <category>14,15,16,17,18,19,27,29,35</category>
+      <type>2,4,5,6</type>
+      <level>1,2,3,4,5</level>
+      <lang>vi,en</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>Sinh viên năm Nhất trường Đại học Kinh tế Hồ Chí Minh</about>
+      <skill>-Giao tiếp tốt&#13;
+-Chăm chỉ, dễ thích nghi với môi trường mới&#13;
+-Có tinh thần trách nhiệm </skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>323</strjo>
+  </appliedjob>
+</information>

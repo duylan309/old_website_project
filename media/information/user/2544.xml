@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2544</id>
+      <email>pe_su_lox_chox97@yahoo.com.vn</email>
+      <username/>
+      <name>Tuyet Tran Ta Nguyen</name>
+      <im>902944909837462_tuyet-tran-ta-nguyen.jpg</im>
+      <gender>2</gender>
+      <dob>1997-6-16</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473652952</created>
+      <day>16</day>
+      <month>6</month>
+      <year>1997</year>
+      <phone>0906551097</phone>
+      <address>18 Khánh Hội phường 4 quận 4</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.753623</lat>
+      <lng>106.702233</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục vụ và pha chế</title>
+      <experience>1</experience>
+      <category>14,15,27,29,31,35</category>
+      <type>1,2,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Nhạy bén, linh hoạt trong giao tiếp và phục vụ khách hàng.</skill>
+      <ui>2544</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Hiện tại sinh viên tại Cao Đẳng Hoa Sen-thiết kế đồ họa. Có kinh nghiệm 1 năm phục vụ tại Trung Nguyen coffee</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>202</strjo>
+  </appliedjob>
+  <experience>
+    <n_566>
+      <id>566</id>
+      <title>Phục vụ</title>
+      <level>1</level>
+      <cmpname>Trung nguyen coffee</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>Tháng 12-2015</from>
+      <to>Tháng 8- 2016</to>
+    </n_566>
+  </experience>
+  <education>
+    <n_408>
+      <id>408</id>
+      <school>Cao đẳng Hoa Sen</school>
+      <degrees/>
+      <fieldofstudy>Thiết kế đồ họa</fieldofstudy>
+      <from>2015</from>
+      <to>2018</to>
+    </n_408>
+  </education>
+</information>

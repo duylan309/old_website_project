@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3029</id>
+      <email>aihien.dangnguyen@gmail.com</email>
+      <username/>
+      <name>Nguyễn Đăng Ái Hiền</name>
+      <im>3029_img-20151001-225551.jpg</im>
+      <gender>2</gender>
+      <dob>1991-9-26</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474197389</created>
+      <day>26</day>
+      <month>9</month>
+      <year>1991</year>
+      <phone>0938377736</phone>
+      <address>710 Đoàn Văn Bơ,  p.16,  q.4</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7647818</lat>
+      <lng>106.7016797</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Giám sát</title>
+      <experience>2</experience>
+      <category>14,16,18,20,28,29</category>
+      <type>4</type>
+      <level>3</level>
+      <lang>vi,en</lang>
+      <skill>Phân tích,  xử lý tình huống&#13;
+Giao tiếp khách hàng&#13;
+Sắp xếp,  điều phối công việc</skill>
+      <ui>3029</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>284,240</strjo>
+  </appliedjob>
+  <experience>
+    <n_671>
+      <id>671</id>
+      <title>Guess Services Officer</title>
+      <level>1</level>
+      <cmpname>Park Hyatt Hotel</cmpname>
+      <city>Hồ Chí Minh </city>
+      <country>Việt Nam</country>
+      <from>2013</from>
+      <to>2015</to>
+    </n_671>
+  </experience>
+</information>

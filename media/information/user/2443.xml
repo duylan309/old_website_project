@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2443</id>
+      <email>khaitranngoc1@gmail.com</email>
+      <username/>
+      <name>Khải Trần</name>
+      <im>1197233253651883_khai-tran.jpg</im>
+      <gender>1</gender>
+      <dob>1989-3-1</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473511896</created>
+      <day>1</day>
+      <month>3</month>
+      <year>1989</year>
+      <last_signin>1473511896</last_signin>
+      <phone>01685870416</phone>
+      <address>phòng 114 lô 3 khách sạn công đoàn thanh đaquận bình thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8105831</lat>
+      <lng>106.7091422</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>2443</ui>
+      <title>phụ bếp, bếp chính</title>
+      <experience>3</experience>
+      <category>14,15,16,19,20,29,35</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>en</lang>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <about>đã từng làm bếp chính nhà hàng three amigos 76 bis nam kỳ khởi nghĩa chuyên món âu và Mexico trong 3 năm, 1 năm bếp chính tại cafe kem the warehouse  29 nguyễn văn tráng Quận 1 chuyên cơm văn phòng và alacarte.</about>
+      <skill>giao tiếp hiệu quả, kỹ năng giải quyết tình huống, trung thực, chịu áp lực công việc, tinh thần chịu trách nhiệm cao, tập trung trong công việc</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

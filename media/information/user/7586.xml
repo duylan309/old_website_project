@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7586</id>
+      <email>nguyendokhanhlinh3006@gmail.com</email>
+      <username/>
+      <name>Nguyễn Đỗ Khánh Linh</name>
+      <im>7586_9.jpg</im>
+      <gender>0</gender>
+      <phone>0971009813</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477316008</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, Nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>29,35</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>7586</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>408,434</strjo>
+  </appliedjob>
+  <experience>
+    <n_1483>
+      <id>1483</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>TTTM Now Zone</cmpname>
+      <city>HCM</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>2015</to>
+    </n_1483>
+  </experience>
+  <savedjob>
+    <total>1</total>
+    <strjo>434</strjo>
+  </savedjob>
+</information>

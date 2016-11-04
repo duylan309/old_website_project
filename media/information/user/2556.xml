@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2556</id>
+      <email>huynhtuyetha@gmail.com</email>
+      <username/>
+      <name>Huỳnh Thị Tuyết Hà</name>
+      <im>1473660714_huynh-thi-tuyet-ha.png</im>
+      <gender>2</gender>
+      <phone>01653319409</phone>
+      <address>127 Đinh Tiên Hoàng. P3. Q Bình Thạnh.</address>
+      <city>30</city>
+      <dob>1994-7-15</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473660714</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>15</day>
+      <month>7</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8003279</lat>
+      <lng>106.6959217</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Thu ngân</title>
+      <experience>1</experience>
+      <category>15,35</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Làm việc nhóm </skill>
+      <ui>2556</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Là người có trách nhiệm trong công việc. Trung thực. Vui vẻ. Nhiệt tình &#13;
+</about>
+      <keyword>Giao tiếp hiệu quả,Chịu được áp lực công việc,Tập trung trong công việc,Trung thực,Tinh thần trách nhiệm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>107,182,153</strjo>
+  </appliedjob>
+  <experience>
+    <n_575>
+      <id>575</id>
+      <title>Gia sư</title>
+      <level>1</level>
+      <cmpname>Trường đh. Sư phạm tp.HCM</cmpname>
+      <city>Tp. Hồ Chí Minh </city>
+      <country>Việt Nam</country>
+      <from>9/2014</from>
+      <to>5/2016</to>
+    </n_575>
+  </experience>
+  <education>
+    <n_411>
+      <id>411</id>
+      <school>Đại học Sư phạm tp. Hồ Chí Minh</school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy>Vật Lí</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_411>
+  </education>
+</information>

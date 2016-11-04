@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>124</id>
+    <ui>499</ui>
+    <ci>240</ci>
+    <ai>0</ai>
+    <ti>Nhân viên bán hàng ONL - OFF</ti>
+    <ta/>
+    <le>2</le>
+    <ty>2,4</ty>
+    <ex>7</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>3000000</s1>
+    <s2>6000000</s2>
+    <s3>136</s3>
+    <s4>272</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>17</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description>NVBH ONLINE :\r\nTrả lời khách hàng online , sử dụng tot mạng xã hội\r\n+ Chăm sóc khách hàng qua điện thoại\r\n+ tư vấn về sản phẩm \r\n+ Trao đổi thêm khi phỏng vấn\r\n\r\nNVBH OFFLINE:\r\n+ bán quần áo tại shop \r\n+ tư vấn về sản phẩm \r\n+ Có khả năng phối đồ là một lợi thế \r\n+ Trao đổi thêm khi phỏng vấn</description>
+    <requirement>+ Đã có kinh nghiệm bán hàng \r\n+Trung thực , Hòa đồng\r\n+ Yêu thích cái đẹp \r\n+ Ăn nói nhỏ nhẹ , có chất giọng hay ngoại hình dễ nhìn\r\n+ Có tinh thần học hỏi</requirement>
+    <benefit>Có laptop (nếu ứng tuyển NV ONLINE)\r\nKhông vướng bận việc học\r\n1 tháng sẽ được nghỉ 2 ngày\r\nThưởng hoa hồng cao </benefit>
+    <keyword>Kỹ năng chăm sóc khách hàng,Tinh thần trách nhiệm,Tinh thần làm việc nhóm</keyword>
+    <ad/>
+    <location_id>59</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-10-03</de>
+    <re>0000-00-00</re>
+    <cr>1470306457</cr>
+  </db>
+  <more>
+    <requirement>+ Đã có kinh nghiệm bán hàng &#13;
++Trung thực , Hòa đồng&#13;
++ Yêu thích cái đẹp &#13;
++ Ăn nói nhỏ nhẹ , có chất giọng hay ngoại hình dễ nhìn&#13;
++ Có tinh thần học hỏi</requirement>
+    <description>NVBH ONLINE :&#13;
+Trả lời khách hàng online , sử dụng tot mạng xã hội&#13;
++ Chăm sóc khách hàng qua điện thoại&#13;
++ tư vấn về sản phẩm &#13;
++ Trao đổi thêm khi phỏng vấn&#13;
+&#13;
+NVBH OFFLINE:&#13;
++ bán quần áo tại shop &#13;
++ tư vấn về sản phẩm &#13;
++ Có khả năng phối đồ là một lợi thế &#13;
++ Trao đổi thêm khi phỏng vấn</description>
+    <benefit>Có laptop (nếu ứng tuyển NV ONLINE)&#13;
+Không vướng bận việc học&#13;
+1 tháng sẽ được nghỉ 2 ngày&#13;
+Thưởng hoa hồng cao </benefit>
+    <keyword>Kỹ năng chăm sóc khách hàng,Tinh thần trách nhiệm,Tinh thần làm việc nhóm</keyword>
+  </more>
+  <userapplied>
+    <total>125</total>
+    <strui>529,374,591,292,651,671,687,689,728,737,742,792,821,852,922,982,1062,1066,1073,1093,1121,1182,1221,1256,1271,1301,1324,1438,1483,1486,1546,1561,1589,1624,1629,1683,1686,1753,1803,1817,1857,1879,372,1991,2026,2082,2112,2185,2241,1315,2359,2399,2467,2468,2476,2525,2591,2722,2332,2768,2780,2783,2826,2785,2834,2899,2946,2967,2995,3017,3036,2052,3067,3079,3214,3253,2267,3401,1706,3425,3487,1800,3532,350,3567,3580,2942,3627,3637,3649,1794,3666,3120,3793,3753,3898,3958,3798,4137,4213,4232,4231,4266,4255,4274,3209,4009,4405,4434,4437,3781,4500,4294,4524,4532,4580,4608,4628,4650,3572,4802,4291,4979,5032,5171</strui>
+  </userapplied>
+</information>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3919</id>
+      <email>maithy_2910@yahoo.com</email>
+      <username/>
+      <name>Nguyễn Mai Thy</name>
+      <im>944542925692292_mai-thy.jpg</im>
+      <gender>2</gender>
+      <dob>1997-10-29</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474890471</created>
+      <day>29</day>
+      <month>10</month>
+      <year>1997</year>
+      <phone>01889570552</phone>
+      <address>281/5 Ung Văn Khiêm, phường 25, quận Bình Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.801969</lat>
+      <lng>106.723086</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>3919</ui>
+      <title>Nhân viên phục vụ , lễ tân</title>
+      <experience>1</experience>
+      <category>15,20,27,29,31,36</category>
+      <type>2,4,6</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <about>Tự tin, hòa đồng, khả năng giao tiếp tốt, năng động, có kinh nghiệm làm thêm như nhân viên phục vụ, lễ tân, PG</about>
+      <skill>hát, pha chế ổn vì từng phục vụ ở quán cà phê</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <education>
+    <n_638>
+      <id>638</id>
+      <school>Đại học Mở TPHCM</school>
+      <degrees>Chưa tốt nghiệp</degrees>
+      <fieldofstudy>Luật kinh tế</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_638>
+  </education>
+</information>

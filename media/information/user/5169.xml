@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5169</id>
+      <email>thuquyen2701@gmail.com</email>
+      <username/>
+      <name>Bùi Thị Thu Quyên</name>
+      <im>1475766770_bui-thi-thu-quyen.png</im>
+      <gender>0</gender>
+      <phone>01698523208</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475766770</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhaan viên pha chế, phục vụ</title>
+      <experience>1</experience>
+      <category>14,15</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>5169</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>323</strjo>
+  </appliedjob>
+  <experience>
+    <n_1054>
+      <id>1054</id>
+      <title>Nhân viên pha chế + phục vụ</title>
+      <level>1</level>
+      <cmpname>btown</cmpname>
+      <city>TP.HCM</city>
+      <country>việt Nam</country>
+      <from>03/2016</from>
+      <to>07/2016</to>
+    </n_1054>
+  </experience>
+  <education>
+    <n_849>
+      <id>849</id>
+      <school>Trung cấp Du lịch và Khách sạn saigontourist</school>
+      <degrees></degrees>
+      <fieldofstudy>Quản lí nhà hàng</fieldofstudy>
+      <from>2014</from>
+      <to>2016</to>
+    </n_849>
+  </education>
+</information>

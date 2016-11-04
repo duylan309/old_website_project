@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3829</id>
+      <email>Donhuquynh.1710@gmail.com</email>
+      <username/>
+      <name>Đỗ Như Quỳnh</name>
+      <im>3829_image.jpeg</im>
+      <gender>0</gender>
+      <phone/>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474871854</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1474871854</last_signin>
+    </db>
+  </userinfo>
+  <experience>
+    <n_852>
+      <id>852</id>
+      <title>Thực tập sinh</title>
+      <level>1</level>
+      <cmpname>Công ty TNHH SX TM Thực Phẩm Ngọc Bảo Trân</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>18/7/2016</from>
+      <to>11/9/2016</to>
+    </n_852>
+  </experience>
+  <education/>
+</information>

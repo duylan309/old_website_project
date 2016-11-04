@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5721</id>
+      <email>dungmagem@gmail.com</email>
+      <username/>
+      <name>Dung Ma</name>
+      <im>670857719746745_dung-ma.jpg</im>
+      <gender>1</gender>
+      <dob>01991-4-14</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476162423</created>
+      <day>14</day>
+      <month>4</month>
+      <year>01991</year>
+      <phone>0949939488</phone>
+      <address>334/17, tôn hiến thành, phường 3, quận 10, tp hcm</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.802397</lat>
+      <lng>106.6948697</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nấu bếp</title>
+      <experience>4</experience>
+      <category>19</category>
+      <type>6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Tôi tỉa hoa quả nhìn cũng bắt mắt</skill>
+      <ui>5721</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>321</strjo>
+  </appliedjob>
+</information>

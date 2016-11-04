@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2943</id>
+      <email>lamtrang0402@gmail.com</email>
+      <username/>
+      <name>Trần Thanh Lâm</name>
+      <im>1486025374748363_lucky-starllforll-you.jpg</im>
+      <gender>1</gender>
+      <dob>1991-12-27</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474092675</created>
+      <day>27</day>
+      <month>12</month>
+      <year>1991</year>
+      <phone>0908945117</phone>
+      <address>82/25Đ ấp xuân thới đông 3, xã xuân thới đông, huyện hóc môn</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8605277</lat>
+      <lng>106.6018314</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế</title>
+      <experience>3</experience>
+      <category>14,15,16,19</category>
+      <type>4,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>- Vi tính cơ bản: Word, Excel….&#13;
+- Pha Chế Rượu, Sinh Tố, Nước Ép, Cà Phê, Cà Phê Máy, Quản lý nhân sự,…..&#13;
+- Chạy trương trình tiệc cưới, sự kiện, buffet….</skill>
+      <ui>2943</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>-Hơi Nóng Tính nhưng biết kiềm chế trong công việc.&#13;
+-Hay quan sát sự sạch sẽ trong công việc nên dễ bị mọi người nói.&#13;
+- Giao tiếp Ngoại Ngữ Còn Kém, khách oder và yêu cầu của khách hàng về nước thì biết còn khi giao tiếp thì hiểu nhưng không nói lại được.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>243,294</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>2</total>
+    <strjo>243,294</strjo>
+  </savedjob>
+  <experience>
+    <n_652>
+      <id>652</id>
+      <title>Số 1 Công Trường Quốc Tế, F6, Q3</title>
+      <level>1</level>
+      <cmpname>Uhouse</cmpname>
+      <city>HCM</city>
+      <country>Việt Nam</country>
+      <from>09/2014</from>
+      <to>03/2016</to>
+    </n_652>
+    <n_653>
+      <id>653</id>
+      <title>Số 1 Công Trường Quốc Tế, F6, Q3</title>
+      <level>1</level>
+      <cmpname>UCafe</cmpname>
+      <city>HCM</city>
+      <country>Việt Nam</country>
+      <from>03/2011</from>
+      <to>06/2014</to>
+    </n_653>
+  </experience>
+  <education>
+    <n_482>
+      <id>482</id>
+      <school>Trường Đại Học Công Nghiệp 4</school>
+      <degrees>Cao Đẳng</degrees>
+      <fieldofstudy>Ngân Hàng</fieldofstudy>
+      <from>2010</from>
+      <to>2013</to>
+    </n_482>
+  </education>
+</information>

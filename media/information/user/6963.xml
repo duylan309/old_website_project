@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6963</id>
+      <email>ltquynhtruc1810@gmail.com</email>
+      <username/>
+      <name>Lâm Thái Quỳnh Trúc</name>
+      <im>6963_-mg-0968.JPG</im>
+      <gender>2</gender>
+      <dob>1992-10-18</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476971694</created>
+      <day>18</day>
+      <month>10</month>
+      <year>1992</year>
+      <last_signin>1476971694</last_signin>
+      <phone>0905216491</phone>
+      <address>chung cư K26 Dương Quảng Hàm, p7, q Gò Vấp</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8308711</lat>
+      <lng>106.6875269</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_1146>
+      <id>1146</id>
+      <school>Đại học Quốc Tế - Đại học Quốc Gia tp HCM</school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy/>
+      <from>2010</from>
+      <to>2016</to>
+    </n_1146>
+  </education>
+  <user_cv>
+    <db>
+      <ui>6963</ui>
+      <title>Graphic Design</title>
+      <experience>1</experience>
+      <category>28,29</category>
+      <type>1,2</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <about>Please allow me to introduce myself. I am Lam Thai Quynh Truc, a student at International University (VNU - HCMC) who is is graduated in Biotechnology Bachelor.&#13;
+&#13;
+You can refer more in the attached CV and Portfolio that I have composed by myself. Link: https://drive.google.com/open?id=0B_zdYJG3k7-QVHliWF9wN1AweGM&#13;
+&#13;
+I believe that I can partly contribute to your company success. At the same time I can grow myself by learning from colleagues during working on promotion projects.&#13;
+&#13;
+Please give me a ring or send email if you think I am qualified for an interview.&#13;
+&#13;
+Thank you for your attention and looking forward to receiving your kind reply.</about>
+      <skill>Link of CV and Portfolio: https://drive.google.com/open?id=0B_zdYJG3k7-QVHliWF9wN1AweGM</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>403</strjo>
+  </appliedjob>
+</information>

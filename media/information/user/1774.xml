@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1774</id>
+      <email>hangoccuc1605@gmail.com</email>
+      <username/>
+      <name>HÀ NGỌC CÚC</name>
+      <im>1472908655_ha-ngoc-cuc.jpg</im>
+      <gender>2</gender>
+      <phone>0932685985</phone>
+      <address>32/11 lương thế vinh, phường tân thới hòa, quận tân phú</address>
+      <city>30</city>
+      <dob>1995-5-16</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472908655</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>16</day>
+      <month>5</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.764324</lat>
+      <lng>106.62969</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>thu ngân</title>
+      <experience>2</experience>
+      <category>15,17,35</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>1774</ui>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <about>Em Là HÀ NGỌC CÚC vừa tốt nghiệp trường Cao Đẳng Kinh Tế - Công Nghệ Tp.HCM tôi đã có kinh nghiệm làm việc trong suốt thời gian còn ngồi ghế nhà trường. Trong cuộc sống tôi luôn tâm niệm “Lao động khai phá con đường dẫn đến vinh quang” và vì triết lý đó tôi luôn cố gắng làm việc với toàn bộ khả năng, tâm trí để có thể hoàn thành mọi việc xuất sắc nhất có thể. Với kiến thức và kinh nghiệm được trao dồi trong suốt thời gian qua, tôi tin tôi có thể đóng góp rất nhiều đến thành công của quý công ty sau này. </about>
+      <keyword>Nhiệt tình,Trung thực</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>107,105,156</strjo>
+  </appliedjob>
+  <experience>
+    <n_541>
+      <id>541</id>
+      <title>nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Windsor Hotel</cmpname>
+      <city>TPHCM</city>
+      <country>TPHCM</country>
+      <from>3/2016</from>
+      <to>6/2016</to>
+    </n_541>
+    <n_542>
+      <id>542</id>
+      <title>nhân viên tư vấn khách hàng</title>
+      <level>1</level>
+      <cmpname>Shop MATCA</cmpname>
+      <city>TPHCM</city>
+      <country>TPHCM</country>
+      <from>8/2013</from>
+      <to>6/2015</to>
+    </n_542>
+  </experience>
+  <education>
+    <n_386>
+      <id>386</id>
+      <school>CAO ĐẲNG KINH TẾ CÔNG NGHỆ TPHCM</school>
+      <degrees>CAO ĐẲNG</degrees>
+      <fieldofstudy>QUẢN TRỊ NHÀ HÀNG VÀ DỊCH VỤ ĂN UỐNG</fieldofstudy>
+      <from>2013</from>
+      <to>2016</to>
+    </n_386>
+  </education>
+</information>

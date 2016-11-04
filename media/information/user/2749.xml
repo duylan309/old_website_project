@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2749</id>
+      <email>nguyenkimlinh641@gmail.com</email>
+      <username/>
+      <name>Nguyễn Kim Linh</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0938142897</phone>
+      <address>229/83 Tây Thạnh, phường Tây Thạnh, quận Tân Phú</address>
+      <city>30</city>
+      <dob>1994-9-15</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473854994</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1473854994</last_signin>
+      <day>15</day>
+      <month>9</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8110753</lat>
+      <lng>106.6206859</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_444>
+      <id>444</id>
+      <school>Đại học Công Nghiệp Thực Phẩm TP HCM </school>
+      <degrees>Kỹ sư </degrees>
+      <fieldofstudy>Công nghệ Thực phẩm </fieldofstudy>
+      <from>Tháng 08/2012</from>
+      <to>Tháng 08/2012</to>
+    </n_444>
+  </education>
+  <user_cv>
+    <db>
+      <ui>2749</ui>
+      <title>nhân viên sơ chế thực phẩm, nhân viên phục vụ, nhân viên QA/QC</title>
+      <experience>1</experience>
+      <category>14,15,29,31,35</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <about>Tôi tốt nghiệp Đại học Công Nghiệp Thực phẩm Phẩm TP HCM, chuyên ngành công nghệ thực phẩm. Tôi nhóm máu O, có sở thích đi du lịch, bơi lội,  hoạt động thể thao. Tôi thích làm việc trong môi trường chuyên nghiệp, năng động, có thể trau dồi kinh nghiệm chuyên môn và cống hiến cho xã hội.</about>
+      <skill>Kỹ năng giao tiếp, kỹ năng giải quyết vấn đề,  kỹ năng máy tính văn phòng.</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>148,253</strjo>
+  </appliedjob>
+</information>

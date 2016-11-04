@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3494</id>
+      <email>choihyunki93@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thanh Tuyền</name>
+      <im>1474648098_nguyen-thanh-tuyen.png</im>
+      <gender>2</gender>
+      <phone>0969461797</phone>
+      <address>183/15 Trần Phú, P4, Q5</address>
+      <city>30</city>
+      <dob>1993-11-23</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474648098</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>23</day>
+      <month>11</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7631463</lat>
+      <lng>106.6797001</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên vục phụ</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Làm việc nhóm, quản lý thời gian</skill>
+      <ui>3494</ui>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>Hoạt bát, nhiệt tình, năng động, ham học hỏi</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>219,162,262,222,247,235</strjo>
+  </appliedjob>
+  <experience>
+    <n_775>
+      <id>775</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Pizza 4P’s</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>31/5/2016</from>
+      <to>31/8/2016</to>
+    </n_775>
+  </experience>
+  <education>
+    <n_569>
+      <id>569</id>
+      <school>Đại học Tôn Đức Thắng</school>
+      <degrees/>
+      <fieldofstudy>Ngoại ngữ</fieldofstudy>
+      <from>2013</from>
+      <to>2016</to>
+    </n_569>
+  </education>
+</information>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>412</id>
+      <email>trungdo145899@gmail.com</email>
+      <username/>
+      <name>Trung Đỗ</name>
+      <im>1359222650759249_trung-do.jpg</im>
+      <gender>1</gender>
+      <dob>01995-4-8</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470066659</created>
+      <day>8</day>
+      <month>4</month>
+      <year>01995</year>
+      <phone>0914080495</phone>
+      <address>137/41/20 trần đình xu, q.1</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.762049</lat>
+      <lng>106.687329</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>412</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,16,17,18,20,26,27,28,29,30,31,35</category>
+      <type>2,3,4,5</type>
+      <level>2</level>
+      <lang>en</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <skill>Có khả năng giao tiếp tốt, làm việc nhóm, siêng năm và ham học hỏi&#13;
+Có thể giải quyết tình huống, tập trung trong công việc, tự tin và nhiệt tình</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>9</total>
+    <strjo>99,82,93,279,318,202,197,294,235</strjo>
+  </appliedjob>
+</information>

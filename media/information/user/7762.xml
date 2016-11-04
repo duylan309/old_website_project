@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7762</id>
+      <email>nguyenthaoly1096@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thảo Ly</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01668599449</phone>
+      <address>497 Hoà Hảo, phường 7, quận 10, TP Hồ Chí Minh</address>
+      <city>30</city>
+      <dob>1996-10-26</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477449526</created>
+      <dayleft>0</dayleft>
+      <jobleft>0</jobleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1477449526</last_signin>
+      <day>26</day>
+      <month>10</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7619215</lat>
+      <lng>106.6686596</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_1265>
+      <id>1265</id>
+      <school>Đại học Bách Khoa TPHCM</school>
+      <degrees>Sinh viên năm 3</degrees>
+      <fieldofstudy>Quản lí công nghiệp</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_1265>
+  </education>
+  <user_cv>
+    <db>
+      <ui>7762</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>7</experience>
+      <category>15,17,27,29,35</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>Xin chào, em là Ly, sinh viên năm 3 Đại học Bách Khoa TP Hồ Chí Minh. Em muốn có công việc làm thêm để có thêm thu nhập cũng như kinh nghiệm để phát triển bản thân và hoàn thiện mình hơn.</about>
+      <skill>- Siêng năng, nhanh nhẹn, biết lắng nghe, học hỏi&#13;
+- Có khả năng làm việc nhóm tốt&#13;
+- Quản lí thời gian tốt&#13;
+- Có khả năng giao tiếp tốt</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

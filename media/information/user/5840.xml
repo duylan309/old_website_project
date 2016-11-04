@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5840</id>
+      <email>phithinhnguyen23@gmail.com</email>
+      <username/>
+      <name>Nguyễn Phi Thịnh</name>
+      <im>1476203108_nguyen-phi-thinh.png</im>
+      <gender>1</gender>
+      <phone>0902561644</phone>
+      <address>83/78/5 Năm Châu P.11 Quận Tân Bình</address>
+      <city>30</city>
+      <dob>1998-3-2</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476203108</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>2</day>
+      <month>3</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.789705</lat>
+      <lng>106.648571</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ,pha chế</title>
+      <experience>7</experience>
+      <category>14,15,17,19,29,31,35</category>
+      <type>2,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Em có khả năng giao tiếp Tiếng Anh khá .</skill>
+      <ui>5840</ui>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <about>Là một sinh viên năm nhất còn khá nhiều bỡ ngỡ và tuy tuổi đời còn trẻ nhưng em luôn hết mình trong công việc được giao, chăm chỉ , làm hết sức mình,hòa đồng và luôn muốn học hỏi kinh nghiệm từ những anh chị đi trước để ngày một hoàn thiện bản thân hơn.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>219,64</strjo>
+  </appliedjob>
+</information>

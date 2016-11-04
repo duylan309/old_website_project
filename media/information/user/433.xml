@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>433</id>
+      <email>baongan.moha@gmail.com</email>
+      <username/>
+      <name>Nguyễn Vũ Bảo Ngân</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0902098138</phone>
+      <address>54/30 Đồng Đen Phường 14 Quận Tân Bình </address>
+      <city>30</city>
+      <dob>1996-8-26</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470106030</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>26</day>
+      <month>8</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7962969</lat>
+      <lng>106.645556</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>433</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,27,35</category>
+      <type>2,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Tinh thần trách nhiệm,Tập trung trong công việc,Nhiệt tình</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>100,84,105</strjo>
+  </appliedjob>
+</information>

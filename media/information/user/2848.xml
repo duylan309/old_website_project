@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2848</id>
+      <email>tienthao209@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Tiền Thảo</name>
+      <im>1474023628_nguyen-thi-tien-thao.png</im>
+      <gender>0</gender>
+      <phone>0963214874</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474023628</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên pha chế</title>
+      <experience>7</experience>
+      <category>15,16,18,28</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Nấu ăn, pha chế, trang trí tại nhà 15 năm.&#13;
+Bán hàng, tư vấn, chăm sóc khách hàng, tổ chức sự kiện...&#13;
+Lắng nghe, làm việc nhóm, nắm bắt tâm lý</skill>
+      <ui>2848</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>240</strjo>
+  </appliedjob>
+</information>

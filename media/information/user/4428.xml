@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4428</id>
+      <email>1500196@hcmut.edu.vn</email>
+      <username/>
+      <name>Cổ Tấn Phát</name>
+      <im/>
+      <gender>1</gender>
+      <phone>01677502179</phone>
+      <address>41 Diên Hồng P.1 Q.Bình Thạnh</address>
+      <city>30</city>
+      <dob>1997-5-20</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475140049</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>20</day>
+      <month>5</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8011332</lat>
+      <lng>106.6988045</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục Vụ</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>4428</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>105,158</strjo>
+  </appliedjob>
+</information>

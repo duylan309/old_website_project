@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>188</id>
+    <ui>195</ui>
+    <name>Demo Link Page</name>
+    <url>demo-page-link</url>
+    <im/>
+    <category>14</category>
+    <phone/>
+    <address>149 nguyen thi dinh</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <website/>
+    <skype/>
+    <facebook/>
+    <size>1</size>
+    <status>0</status>
+    <dayleft>0</dayleft>
+    <jobleft>0</jobleft>
+    <signupby/>
+    <token/>
+    <fb_load_newfeed>0</fb_load_newfeed>
+    <fb_load_photo>0</fb_load_photo>
+    <created>1465319938</created>
+    <deactive>0</deactive>
+  </db>
+  <more>
+    <about>testing</about>
+    <whyworkus/>
+  </more>
+  <totalJob>
+    <total>1</total>
+    <strji>62</strji>
+  </totalJob>
+</information>

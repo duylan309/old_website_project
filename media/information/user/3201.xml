@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3201</id>
+      <email>dntt0903@gmail.com</email>
+      <username/>
+      <name>Đỗ Nguyễn Thảo Trang</name>
+      <im>506682939527019_do-nguyen-thao-trang.jpg</im>
+      <gender>2</gender>
+      <dob>1996-7-25</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474388727</created>
+      <day>25</day>
+      <month>7</month>
+      <year>1996</year>
+      <phone>0938293902</phone>
+      <address>57/34 đường 12 khu phố 2 phường Linh Chiểu quận Thủ Đức</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8653271</lat>
+      <lng>106.7312367</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, đầu bếp</title>
+      <experience>2</experience>
+      <category>14,15,18,20,27,29,31,35</category>
+      <type>2,4,5</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill>- Đầu bếp</skill>
+      <ui>3201</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>8</total>
+    <strjo>64,298,191,106,187,206,224,114</strjo>
+  </appliedjob>
+  <experience>
+    <n_709>
+      <id>709</id>
+      <title>Quản lý bếp</title>
+      <level>1</level>
+      <cmpname>Bonte’</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>10/2014</from>
+      <to>08/2016</to>
+    </n_709>
+  </experience>
+  <education>
+    <n_525>
+      <id>525</id>
+      <school>Cao đẳng Việt Mỹ</school>
+      <degrees/>
+      <fieldofstudy>Quản lý nhà hàng - khách sạn</fieldofstudy>
+      <from>2015</from>
+      <to>2018</to>
+    </n_525>
+  </education>
+</information>

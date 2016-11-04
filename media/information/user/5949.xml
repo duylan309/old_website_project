@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5949</id>
+      <email>thuydiem2458@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Thúy Diễm</name>
+      <im>1476280857_nguyen-thi-thuy-diem.png</im>
+      <gender>2</gender>
+      <phone>0938058352</phone>
+      <address>50/3 Nguyễn Quý Anh, Phường Tân Sơn Nhì, Quận Tân Phú, TPHCM</address>
+      <city>30</city>
+      <dob>1998-4-2</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476280857</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>2</day>
+      <month>4</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8010294</lat>
+      <lng>106.6277947</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,17,26,27,29,31,35</category>
+      <type>2,4,5</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>5949</ui>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <about>Vui vẻ, hòa đồng </about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>351,371</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>2</total>
+    <strjo>351,371</strjo>
+  </savedjob>
+</information>

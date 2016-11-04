@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7857</id>
+      <email>Nguyengiangthanhngan97@gmail.com</email>
+      <username/>
+      <name>Nguyễn Giang Thanh Ngân</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01223954187</phone>
+      <address>105/2 Bạch Đằng, Phường 2, quận Tân Bình</address>
+      <city>30</city>
+      <dob>1997-9-10</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477493449</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>10</day>
+      <month>9</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8157409</lat>
+      <lng>106.672933</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,20</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Em có khả năng học tập và thích ứng công việc nhanh chóng. Có thề nhận thức và xử lý tình huống theo cách tối ưu nhất. Và cuối cùng là em có thể chịu được áp lực của công việc, không ngại học hỏi thêm nhiều kỹ năng và kinh nghiệm mới để hoàn toàn tốt công việc được phân công.</skill>
+      <ui>7857</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Xin chào các anh chị Ban ứng tuyển. Em hiện là sinh viên năm 2 của trường ĐH Ngoại ngữ - Tin học TpHCM. Em muốn có được một công việc bán thời gian trước là em có thể học tập được kỹ năng ngôn ngữ và trau dồi kiến thức, kinh nghiệm cho bản thân và sau là em có thể kiếm ra được một nguồn thu nhập mới cho việc học tập, cũng như cuộc sống hàng ngày. Em rất mong nhận được sự chú ý của các anh chị để nhận được lịch hẹn phỏng vấn và hơn hết là có thể nhận được cơ hội để làm việc trong môi trường năng động và hiện đại của nhà hàng. Em hi vọng nhận được sự hồi đáp của anh chị. Em xin cảm ơn rất nhiều.</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>348</strjo>
+  </appliedjob>
+  <experience>
+    <n_1531>
+      <id>1531</id>
+      <title>Nhân viên thu ngân, nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Cửa hàng thức ăn nhanh Jollibee</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2/2016</from>
+      <to>5/2016</to>
+    </n_1531>
+  </experience>
+  <education>
+    <n_1275>
+      <id>1275</id>
+      <school>ĐH Ngoại ngữ - Tin học TPHCM</school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy>Ngôn ngữ Anh</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_1275>
+  </education>
+</information>

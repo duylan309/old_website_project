@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7168</id>
+      <email>nguyendangson1796@gmail.com</email>
+      <username/>
+      <name>Nguyễn Đăng Sơn</name>
+      <im>1477102655_nguyen-dang-son.png</im>
+      <gender>1</gender>
+      <phone>0936010796</phone>
+      <address>257/27 Phan Xích Long, p.2, q.Phú Nhuận </address>
+      <city>30</city>
+      <dob>1996-7-1</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477102655</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>1</day>
+      <month>7</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.800379</lat>
+      <lng>106.684814</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,16,19</category>
+      <type>2,4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>-Kĩ năng giao tiếp tốt&#13;
+-Nhiệt tình trong công việc&#13;
+-Kĩ năng chăm sóc và thuyết phục khách hàng tốt&#13;
+-Thích nghi nhanh với môi trường làm việc mới</skill>
+      <ui>7168</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>238,349</strjo>
+  </appliedjob>
+</information>

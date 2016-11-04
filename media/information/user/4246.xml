@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4246</id>
+      <email>evie.nguyen2403@gmail.com</email>
+      <username/>
+      <name>Nguyễn Hồng Phương Vy</name>
+      <im>1475045156_nguyen-hong-phuong-vy.png</im>
+      <gender>2</gender>
+      <phone>0964117696</phone>
+      <address>07 đường số 9 phường 13 quận 6</address>
+      <city>30</city>
+      <dob>1995-3-24</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475045155</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>24</day>
+      <month>3</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7513551</lat>
+      <lng>106.6278787</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha Chế</title>
+      <experience>1</experience>
+      <category>14,15,35</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Có khả năng làm việc độc lập và team work&#13;
+Có tinh thần trách nhiệm cao &#13;
+Giao tiếp tiếng anh tốt &#13;
+Có kinh nghiệm làm phục vụ, thu ngân, pha chế</skill>
+      <ui>4246</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Hòa đồng&#13;
+Giao tiếp tốt &#13;
+Vui vẻ thân thiện </about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>12</total>
+    <strjo>201,132,131,126,151,107,284,252,426,163,387,340</strjo>
+  </appliedjob>
+  <experience>
+    <n_896>
+      <id>896</id>
+      <title>Thu ngân phục vụ</title>
+      <level>1</level>
+      <cmpname>Saigon Coffee Roastery</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>Tháng 2/2016</from>
+      <to>Tháng 8/2016</to>
+    </n_896>
+  </experience>
+  <education>
+    <n_685>
+      <id>685</id>
+      <school>Đại học hoa sen</school>
+      <degrees>Chính quy</degrees>
+      <fieldofstudy>Quảng trị nhà hàng - khách sạn</fieldofstudy>
+      <from>2013</from>
+      <to>2016</to>
+    </n_685>
+  </education>
+</information>

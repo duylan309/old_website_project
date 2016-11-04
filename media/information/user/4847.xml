@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4847</id>
+      <email>rhezareyes@yahoo.com</email>
+      <username/>
+      <name>Fillreza Revestir</name>
+      <im>4847_c360-2016-05-01-13-38-59-299.jpg</im>
+      <gender>2</gender>
+      <dob>1979-8-27</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475548312</created>
+      <day>27</day>
+      <month>8</month>
+      <year>1979</year>
+      <phone>01643971822</phone>
+      <address>4B4 Phuc yen Building, 31 Phan Huy Ich, Ward 15 Tan Binh District HCM</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Supervisor,Manager</title>
+      <experience>5</experience>
+      <category>14,15,17,18,20,27,29,30,31,35,36</category>
+      <type>2</type>
+      <level>4,5</level>
+      <lang>en</lang>
+      <skill>Computer literate&#13;
+Guest Relation&#13;
+Customer Service&#13;
+Sales Experience&#13;
+Hardworking&#13;
+Good English Communication&#13;
+Logistic skills</skill>
+      <ui>4847</ui>
+      <s1>600</s1>
+      <salary>2</salary>
+      <about>Trustworthy&#13;
+Hardworking</about>
+      <keyword/>
+      <s2>13200000</s2>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>121,303</strjo>
+  </appliedjob>
+  <experience>
+    <n_1011>
+      <id>1011</id>
+      <title>Account Sales Executive</title>
+      <level>1</level>
+      <cmpname>San Miguel Purefoods</cmpname>
+      <city>Manila</city>
+      <country>Philippines</country>
+      <from>2007</from>
+      <to>2010</to>
+    </n_1011>
+    <n_1012>
+      <id>1012</id>
+      <title>Front Desk</title>
+      <level>1</level>
+      <cmpname>Loreland Resort</cmpname>
+      <city>Antipolo City</city>
+      <country>Philippines</country>
+      <from>2005</from>
+      <to>2006</to>
+    </n_1012>
+    <n_1013>
+      <id>1013</id>
+      <title>Executive Assistant</title>
+      <level>1</level>
+      <cmpname>KLG Incorporated</cmpname>
+      <city>Pasay</city>
+      <country>Philippines</country>
+      <from>2002</from>
+      <to>2004</to>
+    </n_1013>
+  </experience>
+  <education>
+    <n_811>
+      <id>811</id>
+      <school>La Consolacion College Manila</school>
+      <degrees>BACHELOR OF SCIENCE IN HOTEL AND RESTAURANT MANAGEMENT</degrees>
+      <fieldofstudy>Hospitality Industry</fieldofstudy>
+      <from>1996</from>
+      <to>2000</to>
+    </n_811>
+    <n_812>
+      <id>812</id>
+      <school>Siena College</school>
+      <degrees>Secondary</degrees>
+      <fieldofstudy>High school</fieldofstudy>
+      <from>1993</from>
+      <to>1996</to>
+    </n_812>
+  </education>
+</information>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3051</id>
+      <email>ngocyenle996@gmail.com</email>
+      <username/>
+      <name>Lê Thị Ngọc Yến</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01694564133</phone>
+      <address>Nguyễn Khoái, quận 4, tp.HCM</address>
+      <city></city>
+      <dob>1996-11-6</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474209886</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>6</day>
+      <month>11</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, thu ngân, bán hàng</title>
+      <experience>1</experience>
+      <category>14,15,17,18,20,27,28,29,35,36</category>
+      <type>2,3,4,5,6</type>
+      <level>1,2,3</level>
+      <lang>vi,en,fr</lang>
+      <skill>Tin học Mos word, excel </skill>
+      <ui>3051</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>202</strjo>
+  </appliedjob>
+</information>

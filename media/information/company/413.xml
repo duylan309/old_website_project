@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>413</id>
+    <ui>6908</ui>
+    <name>YuKi Bao</name>
+    <url>YuKi9090</url>
+    <im>_yuki-bao.jpg</im>
+    <im_banner>_yuki-bao-cover.jpg</im_banner>
+    <category>14,15,16,19,20</category>
+    <phone>0932796200</phone>
+    <address>12, Nguyễn Văn Đậu, Phú Nhuận</address>
+    <district>0</district>
+    <district_text_vi></district_text_vi>
+    <district_text_en></district_text_en>
+    <city>30</city>
+    <lat>10.804765</lat>
+    <lng>106.687233</lng>
+    <website></website>
+    <about></about>
+    <facebook>https://www.facebook.com/YuKi9090/</facebook>
+    <facebook_cover></facebook_cover>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1476939625</created>
+  </db>
+  <more>
+    <about>Đầu bếp phải biết rửa rau&#13;
+Trước không vo gạo thì sau phải làm&#13;
+Đã ăn thì phải biết làm&#13;
+Làm ăn vớ vẩn chẳng làm cho xong.&#13;
+</about>
+    <whyworkus></whyworkus>
+  </more>
+  <companybanner>_yuki-bao-cover.jpg</companybanner>
+</information>

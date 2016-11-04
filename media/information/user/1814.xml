@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1814</id>
+      <email>lilsaint791@gmail.com</email>
+      <username/>
+      <name>Nguyễn Pang Chiu Kou</name>
+      <im>1099985386758333_nguyen-chi-quoc.jpg</im>
+      <gender>1</gender>
+      <dob>1995-3-27</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472968147</created>
+      <day>27</day>
+      <month>3</month>
+      <year>1995</year>
+      <phone>01223107187</phone>
+      <address>172/1/22 trần phú p9 q5</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7647273</lat>
+      <lng>106.6813184</lng>
+    </db>
+  </userinfo>
+  <savedjob>
+    <total>1</total>
+    <strjo>219</strjo>
+  </savedjob>
+  <experience>
+    <n_398>
+      <id>398</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>Adidas puma</cmpname>
+      <city>Tphcm</city>
+      <country>Vietnam</country>
+      <from>12/2013</from>
+      <to>6/2014</to>
+    </n_398>
+    <n_399>
+      <id>399</id>
+      <title>Quản lý</title>
+      <level>1</level>
+      <cmpname>Ab tower</cmpname>
+      <city>Tphcm</city>
+      <country>Vietnam</country>
+      <from>6/2013</from>
+      <to>12/2013</to>
+    </n_399>
+    <n_400>
+      <id>400</id>
+      <title>Quản lý</title>
+      <level>1</level>
+      <cmpname>Circle k</cmpname>
+      <city>Tphcm</city>
+      <country>Vietnam</country>
+      <from>9/2014</from>
+      <to>6/2015</to>
+    </n_400>
+  </experience>
+  <education>
+    <n_286>
+      <id>286</id>
+      <school>Đh văn lang</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Marketing</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_286>
+  </education>
+  <user_cv>
+    <db>
+      <ui>1814</ui>
+      <title>Marketing, phục vụ, lễ tân, quản lý nhà hàng khãhs sạn</title>
+      <experience>2</experience>
+      <category>14,15,17,20,28,29</category>
+      <type>2,3,5,6</type>
+      <level>2,5</level>
+      <lang>vi,en,kr</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <skill>Giao tiếp kỹ năng mềm kỹ năng cứng kỹ năng quản lý</skill>
+      <keyword>Trung thực tự tin nhiệt tình tinh thần làm việc nhóm trách nhiệm giải quyết tình huống...7</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>7</total>
+    <strjo>220,193,219,92,262,69,251</strjo>
+  </appliedjob>
+</information>

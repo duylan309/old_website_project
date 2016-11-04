@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4231</id>
+      <email>thinhnguyen241097@gmail.com</email>
+      <username/>
+      <name>Nguyễn Văn Thịnh</name>
+      <im>1475039569_nguyen-van-thinh.png</im>
+      <gender>0</gender>
+      <phone>01226175596</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475039568</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên Face Book tại Lynh Kitchen</title>
+      <experience>2</experience>
+      <category>14,15,35</category>
+      <type>5</type>
+      <level>3,4</level>
+      <lang>vi,en</lang>
+      <skill>+ Video Editor&#13;
++Photographer&#13;
++ Reviewer&#13;
++Food Blogger</skill>
+      <ui>4231</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>285,124</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>285</strjo>
+  </savedjob>
+</information>

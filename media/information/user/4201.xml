@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4201</id>
+      <email>hangmy.phan55@gmail.com</email>
+      <username/>
+      <name>Phan Nguyễn Hằng My</name>
+      <im>674813136005214_my-tom.jpg</im>
+      <gender>2</gender>
+      <dob>1998-5-5</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475030785</created>
+      <day>5</day>
+      <month>5</month>
+      <year>1998</year>
+      <last_signin>1475030785</last_signin>
+      <phone>0987234617</phone>
+      <address>775 Huỳnh Tấn Phát, Phú Thuận, quận 7, thành phố Hồ Chí Minh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7342548</lat>
+      <lng>106.7312202</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>4201</ui>
+      <title>Nhân viên phục vụ, Tạp vụ</title>
+      <experience>1</experience>
+      <category>14,15,17,20,27,31,35</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about/>
+      <skill>Các kỹ năng làm việc nhóm, giao tiếp với mọi người, học hỏi và thích ứng nhanh với môi trường mới ... của tôi rất tốt. Với các kỹ năng tôi tích lũy được chắc chắn sẽ làm bạn hài lòng.</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>470</strjo>
+  </appliedjob>
+</information>

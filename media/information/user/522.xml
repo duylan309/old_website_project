@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>522</id>
+      <email>mickey_bi_lovely123@yahoo.com</email>
+      <username/>
+      <name>Jenny Xí</name>
+      <im>10209058395393541_jenny-xi.jpg</im>
+      <gender>2</gender>
+      <dob>1989-3-20</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470383230</created>
+      <day>20</day>
+      <month>3</month>
+      <year>1989</year>
+      <phone>01217835677</phone>
+      <address>60/30 Trần Hưng Đạo P7 Q5 TPHCM</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7764745</lat>
+      <lng>106.7008831</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_103>
+      <id>103</id>
+      <title>nhân viên bảo hiểm</title>
+      <level>1</level>
+      <cmpname>Daichi life</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country/>
+      <from>Tphcm</from>
+      <to>tphcm</to>
+    </n_103>
+  </experience>
+  <education>
+    <n_74>
+      <id>74</id>
+      <school>SaiGon Tourist </school>
+      <degrees>Trung cấp</degrees>
+      <fieldofstudy>Quản trị nhà hàng</fieldofstudy>
+      <from>2008</from>
+      <to>2010</to>
+    </n_74>
+  </education>
+  <user_cv>
+    <db>
+      <ui>522</ui>
+      <title>nhân viên bán hàng</title>
+      <experience>2</experience>
+      <category>15,17,27,31,36</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <skill>vi tính văn phòng</skill>
+      <keyword>Trung thực </keyword>
+    </db>
+  </user_cv>
+</information>

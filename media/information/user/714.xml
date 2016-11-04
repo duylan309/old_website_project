@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>714</id>
+      <email>minmin_kool12@yahoo.com.vn</email>
+      <username/>
+      <name>Nguyễn Phạm Minh Trang</name>
+      <im>1768792120068378_mo-trang.jpg</im>
+      <gender>2</gender>
+      <dob>1998-2-11</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470918120</created>
+      <day>11</day>
+      <month>2</month>
+      <year>1998</year>
+      <phone>0916442134</phone>
+      <address>131 lô B c/c nguyễn thiện thuật p1 q3</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7679841</lat>
+      <lng>106.6777705</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phụ bếp</title>
+      <experience>1</experience>
+      <category>14,35</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>siêng năng, biết làm việc nhóm, có kĩ năng giao tiếp.</skill>
+      <ui>714</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>vui vẻ hòa đồng siêng năng</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>153</strjo>
+  </appliedjob>
+</information>

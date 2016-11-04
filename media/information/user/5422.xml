@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5422</id>
+      <email>trughieu22@gmail.com</email>
+      <username/>
+      <name>Văn Tài </name>
+      <im>186043991802020_trung-hieu.jpg</im>
+      <gender>1</gender>
+      <dob>1985-4-18</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475966488</created>
+      <day>18</day>
+      <month>4</month>
+      <year>1985</year>
+      <last_signin>1475966488</last_signin>
+      <phone>01226700276</phone>
+      <address>118/24.Vĩnh Hội. F4.Q4</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.755982</lat>
+      <lng>106.702688</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>5422</ui>
+      <title>nhân viên phụ bếp</title>
+      <experience>1</experience>
+      <category>14,15</category>
+      <type>1,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Vui vẻ, hòa đồng, làm việc độc lập và nhóm </about>
+      <skill>Cẩn thận, thích học hỏi </skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>191,276</strjo>
+  </appliedjob>
+</information>

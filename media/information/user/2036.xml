@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2036</id>
+      <email>nguyenthithao1020@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Thảo</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01627073749</phone>
+      <address>51/33/2 đường thống nhất p11 quận gò vấp </address>
+      <city>30</city>
+      <dob>1994-10-20</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473166100</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1473166100</last_signin>
+      <day>20</day>
+      <month>10</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8324568</lat>
+      <lng>106.6639647</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_326>
+      <id>326</id>
+      <school>Cao Đẳng Kinh Tế - Công Nghệ TP.HCM</school>
+      <degrees>CAO ĐẲNG</degrees>
+      <fieldofstudy>MARKETING</fieldofstudy>
+      <from>2012</from>
+      <to>2015</to>
+    </n_326>
+  </education>
+  <user_cv>
+    <db>
+      <ui>2036</ui>
+      <title>nhân viên bán hàng, nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,17,20,35,36</category>
+      <type>1,4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Trung thực,Tinh thần trách nhiệm,Giao tiếp hiệu quả,Nhiệt tình,Kỹ năng chăm sóc khách hàng,Tập trung trong công việc,Tự tin</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>156</strjo>
+  </appliedjob>
+</information>

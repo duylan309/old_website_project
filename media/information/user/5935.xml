@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5935</id>
+      <email>nhocboy95@yahoo.com</email>
+      <username/>
+      <name>Nguyễn Minh Trung</name>
+      <im>539423222915431_soi-hoang.jpg</im>
+      <gender>1</gender>
+      <dob>1994-6-9</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476274514</created>
+      <day>9</day>
+      <month>6</month>
+      <year>1994</year>
+      <phone>0902816614</phone>
+      <address>314/86/8</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.742495</lat>
+      <lng>106.67234</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Bếp Á , Âu</title>
+      <experience>5</experience>
+      <category>14,15</category>
+      <type>1</type>
+      <level>5</level>
+      <lang>vi,en</lang>
+      <skill>Setup menu điều hành bếp, lên giá cost món ăn.&#13;
+&#13;
+</skill>
+      <ui>5935</ui>
+      <s1>8000000</s1>
+      <salary>1</salary>
+      <about>Bắt đầu công việc bếp từ cuối năm 2009.</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>230</strjo>
+  </appliedjob>
+</information>

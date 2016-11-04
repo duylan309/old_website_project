@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>467</id>
+      <email>thunguyen.nnat@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thư</name>
+      <im>1778816972392625_nguyen-thu.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470203319</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <savedjob>
+    <total>1</total>
+    <strjo>82</strjo>
+  </savedjob>
+</information>

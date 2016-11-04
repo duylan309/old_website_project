@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1754</id>
+      <email>thien151092_bobby@yahoo.com</email>
+      <username/>
+      <name>Nguyễn Hữu Thiện</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0938399816</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472883610</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên pha chế</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>2,4,6</type>
+      <level>2</level>
+      <lang>en</lang>
+      <skill/>
+      <ui>1754</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>201</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4361</id>
+      <email>trongvien23@gmail.com</email>
+      <username/>
+      <name>Đỗ trọng viên</name>
+      <im>4361_14034992-661739140655221-1907119356595966712-n.jpg</im>
+      <gender>1</gender>
+      <phone>01692493008</phone>
+      <address>66 Dương Đức Hiền,tây thạnh,tân phú</address>
+      <city>30</city>
+      <dob>1994-10-16</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475086822</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1475086822</last_signin>
+      <day>16</day>
+      <month>10</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.809344</lat>
+      <lng>106.627179</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>4361</ui>
+      <title>việc làm buổi tối</title>
+      <experience>7</experience>
+      <category>28</category>
+      <type>2,4</type>
+      <level>2,3,5</level>
+      <lang>vi</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

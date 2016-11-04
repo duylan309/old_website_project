@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>625</id>
+      <email>maithanh20101997@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Mai Thanh</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01262983714</phone>
+      <address>85/20/1 Đường Lò Siêu p16 q11</address>
+      <city>30</city>
+      <dob>1997-10-20</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470676631</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>20</day>
+      <month>10</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.754926</lat>
+      <lng>106.648301</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>625</ui>
+      <title>nhân viên phục vụ tiệm bánh .</title>
+      <experience>7</experience>
+      <category>35</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <skill>Giao tiếp tốt , Chịu học hỏi , Biết lắng nghe . Có thể Sáng tạo ra nhiều ý tưởng . </skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <experience>
+    <n_117>
+      <id>117</id>
+      <title>Store Crew</title>
+      <level>1</level>
+      <cmpname>Công Ty Phân Phối Tổng Hợp - Siêu Thị C-Express</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>17/12/2015</from>
+      <to>31/7/2016</to>
+    </n_117>
+    <n_118>
+      <id>118</id>
+      <title>Làm PG Sữa Dumex</title>
+      <level>1</level>
+      <cmpname>Công Ty Delta</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>05/12/2015</from>
+      <to>05/01/2016</to>
+    </n_118>
+  </experience>
+</information>

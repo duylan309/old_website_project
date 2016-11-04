@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4178</id>
+      <email>Kimtranngoc96@gmail.com</email>
+      <username/>
+      <name>Trần Ngọc Kim</name>
+      <im>4178_image.jpeg</im>
+      <gender>0</gender>
+      <phone/>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474998417</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1474998417</last_signin>
+    </db>
+  </userinfo>
+  <experience>
+    <n_886>
+      <id>886</id>
+      <title>Captain</title>
+      <level>1</level>
+      <cmpname>Nhà hàng Moo Beef Steak</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>05.2015</from>
+      <to>Nay</to>
+    </n_886>
+  </experience>
+  <education>
+    <n_671>
+      <id>671</id>
+      <school>Trung cấp Du lịch và Khách sạn Saigon Tourist</school>
+      <degrees>Trung cấp</degrees>
+      <fieldofstudy>Khách sạn</fieldofstudy>
+      <from>10.2014</from>
+      <to>10.2016</to>
+    </n_671>
+  </education>
+</information>

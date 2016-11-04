@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2082</id>
+      <email>nguyenthanhkimhuyen.ftu@gmail.com</email>
+      <username/>
+      <name>Kim Huyền Nguyễn Thanh</name>
+      <im>670851179731941_kim-huyen-nguyen-thanh.jpg</im>
+      <gender>2</gender>
+      <dob>1994-1-17</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473224722</created>
+      <day>17</day>
+      <month>1</month>
+      <year>1994</year>
+      <phone>0919883979</phone>
+      <address>151A, Nguyễn Thượng Hiền, Phường 6, Quận Bình Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.808218</lat>
+      <lng>106.68429</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>2082</ui>
+      <title>Nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>17</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <skill>Giao tiếp tốt; &#13;
+Có khả năng sắp xếp và tổ chức; &#13;
+Kỹ năng chăm sóc khách hàng;&#13;
+Tập trung trong công việc;&#13;
+Là một người tử tế và cố gắng hướng đến sự tử tế trong cuộc sống;</skill>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Tinh thần trách nhiệm,Tự tin,Tập trung trong công việc</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>124</strjo>
+  </appliedjob>
+</information>

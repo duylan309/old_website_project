@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>378</id>
+    <ui>4760</ui>
+    <ci>374</ci>
+    <ai>0</ai>
+    <ti>Phục vụ</ti>
+    <ta/>
+    <le>1,2,5</le>
+    <ty>4,5,6</ty>
+    <ex>7</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>2800000</s1>
+    <s2>3500000</s2>
+    <s3>127</s3>
+    <s4>159</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description>Ghi order, tiếp thực, phục vụ chăm sóc thực khách.</description>
+    <requirement>-Không yêu cầu bằng cấp\r\n-Ưu tiên các bạn đã từng có kinh nghiệm phục vụ và biết tiếng anh giao tiếp\r\n-Trung thực, nhanh nhẹn, nhiệt tình, vui vẻ hoà đồng\r\n-Làm việc vào ca tối từ 5hpm-11hpm</requirement>
+    <benefit>Được training kiến thức về món Âu và rượu vang.</benefit>
+    <keyword>Chịu được áp lực công việc,Trung thực,Tự tin,Nhiệt tình,Tinh thần làm việc nhóm,Kỹ năng giải quyết tình huống,Kỹ năng chăm sóc khách hàng,Giao tiếp hiệu quả,Tinh thần trách nhiệm</keyword>
+    <ad/>
+    <location_id>262</location_id>
+    <lat>10.791743</lat>
+    <lng>10.791743</lng>
+    <de>2016-11-02</de>
+    <re>0000-00-00</re>
+    <cr>1475485321</cr>
+  </db>
+  <more>
+    <requirement>-Không yêu cầu bằng cấp&#13;
+-Ưu tiên các bạn đã từng có kinh nghiệm phục vụ và biết tiếng anh giao tiếp&#13;
+-Trung thực, nhanh nhẹn, nhiệt tình, vui vẻ hoà đồng&#13;
+-Làm việc vào ca tối từ 5hpm-11hpm</requirement>
+    <description>Ghi order, tiếp thực, phục vụ chăm sóc thực khách.</description>
+    <benefit>Được training kiến thức về món Âu và rượu vang.</benefit>
+    <keyword>Chịu được áp lực công việc,Trung thực,Tự tin,Nhiệt tình,Tinh thần làm việc nhóm,Kỹ năng giải quyết tình huống,Kỹ năng chăm sóc khách hàng,Giao tiếp hiệu quả,Tinh thần trách nhiệm</keyword>
+  </more>
+  <userapplied>
+    <total>24</total>
+    <strui>3332,3884,4900,4898,4967,5074,5136,5153,5356,3022,4340,6319,6214,6061,6718,5811,6966,7297,7386,6272,7600,2968,7923,3268</strui>
+  </userapplied>
+</information>

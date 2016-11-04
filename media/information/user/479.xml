@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>479</id>
+      <email>black_puppy_1994@yahoo.com.vn</email>
+      <username/>
+      <name>BaoBao Nguyễn</name>
+      <im>1054595657970750_baobao-nguyen.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470218065</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <experience>
+    <n_94>
+      <id>94</id>
+      <title>Waitress</title>
+      <level>1</level>
+      <cmpname>Gummy Chicken Steak</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>9/2015</from>
+      <to>6/2016</to>
+    </n_94>
+  </experience>
+  <education>
+    <n_68>
+      <id>68</id>
+      <school>Đại học Ngoại Ngữ - Tin Học</school>
+      <degrees>Cử Nhân</degrees>
+      <fieldofstudy>Anh Văn</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_68>
+  </education>
+</information>

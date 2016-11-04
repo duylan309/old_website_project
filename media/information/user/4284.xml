@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4284</id>
+      <email>thanhtruc2802.tn@gmail.com</email>
+      <username/>
+      <name>Nguyễn Phạm Thanh Trúc</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0981536398</phone>
+      <address>Bình Chánh, TP.HCM</address>
+      <city>30</city>
+      <dob>1996-2-28</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475056011</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1475056011</last_signin>
+      <day>28</day>
+      <month>2</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8409421</lat>
+      <lng>106.7261112</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_912>
+      <id>912</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>CÔNG TY ABBOTT</cmpname>
+      <city>TP.HCM</city>
+      <country>VIỆT NAM</country>
+      <from>20/07/2014</from>
+      <to>30/10/2015</to>
+    </n_912>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>4284</ui>
+      <title>Nhân viên phục vụ, PG, dạy kèm</title>
+      <experience>2</experience>
+      <category>14,15,17,29,31,35</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Chuyên nghành Tài chính- Ngân hàng tại trường Đại học Công Nghiệp TP.HCM&#13;
+Đã có 2 năm kinh nghiệm tại công ty Abbott. Mình mông muốn tìm một công việc về pha chế, phục vụ nhà hàng để học hỏi kinh nghiệm.&#13;
+Luôn sẵn sàng học hỏi trong mọi hoàn cảnh, có trách nhiệm cao trong công việc.</about>
+      <skill>- Vi tính văn phòng&#13;
+- Giao tiếp bằng tiếng Anh&#13;
+- Kĩ năng teamwork&#13;
+- Kĩ năng tiếp thị, thương mại</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>255,107</strjo>
+  </appliedjob>
+</information>

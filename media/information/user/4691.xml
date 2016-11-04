@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4691</id>
+      <email>Bena_kute26@yahoo.com.vn</email>
+      <username/>
+      <name>Lê Thị Hồng Đào</name>
+      <im>4691_image.jpg</im>
+      <gender>2</gender>
+      <phone>0916631627</phone>
+      <address>98 ung văn khiêm . Phường 25 . Quận bình thạnh </address>
+      <city>30</city>
+      <dob>1998-6-2</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475421889</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>2</day>
+      <month>6</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.804415</lat>
+      <lng>106.721357</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>4691</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>105,371</strjo>
+  </appliedjob>
+</information>

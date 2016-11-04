@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7917</id>
+      <email>Haiancc062@gmail.com</email>
+      <username/>
+      <name>Cún chạc hải ân</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01217463036</phone>
+      <address>374/5/24 Âu Cơ , P.10 , Q.Tân Bình</address>
+      <city>30</city>
+      <dob>1998-2-6</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477541098</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>6</day>
+      <month>2</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.778227</lat>
+      <lng>106.646088</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15</category>
+      <type>6</type>
+      <level>2</level>
+      <lang>en,ch</lang>
+      <skill/>
+      <ui>7917</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Hòa đồng , vui vẻ , thân thiện , giao tiếp tốt với mọi người xung quanh , co trách nhiệm với việc mình làm. </about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>287,279,247,518</strjo>
+  </appliedjob>
+  <education>
+    <n_1287>
+      <id>1287</id>
+      <school>THPT Hùng Vương</school>
+      <degrees>Bằng tốt nghiệp THPT</degrees>
+      <fieldofstudy/>
+      <from>2013</from>
+      <to>2016</to>
+    </n_1287>
+  </education>
+</information>

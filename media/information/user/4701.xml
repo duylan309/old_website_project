@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4701</id>
+      <email>tawanhy.taquanghuy@gmail.com</email>
+      <username/>
+      <name>Tạ Quang Huy</name>
+      <im>1060679250715263_ta-wan-hy.jpg</im>
+      <gender>1</gender>
+      <dob>1996-1-23</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475427454</created>
+      <day>23</day>
+      <month>1</month>
+      <year>1996</year>
+      <phone>0969870045</phone>
+      <address>250 Hồng Lạc, Tân Bình</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7880321</lat>
+      <lng>106.6458927</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>phục vụ, nhân viên</title>
+      <experience>7</experience>
+      <category>14,15,17,18,31,35,36</category>
+      <type>2,4,5,6</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill>các kĩ năng hoạt náo, dân chương trình, tổ chức sự kiện</skill>
+      <ui>4701</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>269</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>269</strjo>
+  </savedjob>
+</information>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4987</id>
+      <email>vuongdai139hmt@gmail.com</email>
+      <username/>
+      <name>nguyễn thị vương đại</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01665950100</phone>
+      <address>97 lê thúc hoạch , p. phú thọ hòa , q.tân phú</address>
+      <city>30</city>
+      <dob>1994-12-25</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475637198</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>25</day>
+      <month>12</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.787226</lat>
+      <lng>106.622579</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>phục vụ / pha chế / lễ tân /housekeeping</title>
+      <experience>1</experience>
+      <category>14,15,20</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>nghiệp vụ &#13;
+</skill>
+      <ui>4987</ui>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>64,294,202,194,279</strjo>
+  </appliedjob>
+  <experience>
+    <n_1041>
+      <id>1041</id>
+      <title>phục vụ/ pha chế</title>
+      <level>1</level>
+      <cmpname>huromjuce cafe</cmpname>
+      <city>hồ chí minh</city>
+      <country>việt nam</country>
+      <from>1</from>
+      <to>3</to>
+    </n_1041>
+  </experience>
+  <education>
+    <n_830>
+      <id>830</id>
+      <school>trung cấp sài cài tourist</school>
+      <degrees>nghiệp vụ</degrees>
+      <fieldofstudy>nhà hàng khách sạn</fieldofstudy>
+      <from>1</from>
+      <to>4</to>
+    </n_830>
+  </education>
+</information>

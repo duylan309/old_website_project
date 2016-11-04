@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3279</id>
+      <email>cogtutbs2cuho@gmail.com</email>
+      <username/>
+      <name>Thanh Bình</name>
+      <im>619447388226183_thanh-binh.jpg</im>
+      <gender>1</gender>
+      <dob>01654565432-2-7</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474476388</created>
+      <day>7</day>
+      <month>2</month>
+      <year>01654565432</year>
+      <phone>01654565432</phone>
+      <address>58/153F Phan Chu Trinh phường24 quận Bình Thạnh </address>
+      <country>vn</country>
+      <city/>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <experience>
+    <n_732>
+      <id>732</id>
+      <title>Bếp chính</title>
+      <level>1</level>
+      <cmpname>Cafe &amp;fasfood CHB</cmpname>
+      <city>Tp hcm</city>
+      <country>Việt Nam </country>
+      <from>Tháng5</from>
+      <to>Tháng 9</to>
+    </n_732>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>3279</ui>
+      <title>Nấu bếp</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>5000</s1>
+      <salary>1</salary>
+      <about>Muốn học hỏi. Chịu khó. Chịu được áp lực công việc</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>137,230,191</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4777</id>
+      <email>nininini959@gmail.com</email>
+      <username/>
+      <name>Nguyễn Ngọc Thuỳ Anh</name>
+      <im>873106479455701_mint-love.jpg</im>
+      <gender>2</gender>
+      <dob>1997-10-22</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475491638</created>
+      <day>22</day>
+      <month>10</month>
+      <year>1997</year>
+      <phone>0933948141</phone>
+      <address>643/81 xô viết nghệ tĩnh phường 26 quận bình thạnh</address>
+      <country>vn</country>
+      <city/>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>4777</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>371,172,215,294,252</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>172</strjo>
+  </savedjob>
+</information>

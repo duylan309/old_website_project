@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6441</id>
+      <email>lonely_4ever997@yahoo.com.vn</email>
+      <username/>
+      <name>Chí Nhiệt Nhi</name>
+      <im>1087306228056501_chi-nhiet-nhi.jpg</im>
+      <gender>2</gender>
+      <dob>1996-10-23</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476603410</created>
+      <day>23</day>
+      <month>10</month>
+      <year>1996</year>
+      <last_signin>1476603410</last_signin>
+      <phone>01259396757</phone>
+      <address>964/59 Tân Kì Tân Quý, P. Bình Hưng Hòa, Q. Bình Tân </address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7891465</lat>
+      <lng>106.6011764</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1294>
+      <id>1294</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>cafe sân vườn Tino</cmpname>
+      <city>Tp. Hcm </city>
+      <country>Việt Nam </country>
+      <from>5/6/2015</from>
+      <to>1/7/2016</to>
+    </n_1294>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>6441</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en,kr</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Hiện đang là sinh viên năm 3 Trường Ngoại ngữ và tin học Huflit chuyên ngành tiếng Anh thuơng mại </about>
+      <skill>Kĩ năng sale và thuyết phục khách hàng, nhiệt tình và chịu khó, chịu được áp lực cao</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>156,64</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7843</id>
+      <email>minhddoo@yahoo.com</email>
+      <username/>
+      <name>Đỗ Hoàng Nhật Minh</name>
+      <im>1477482550_do-hoang-nhat-minh.png</im>
+      <gender>1</gender>
+      <phone>0983982146</phone>
+      <address>175/9 Nguyễn Cửu Vân, P.17, quận Bình Thạnh</address>
+      <city>30</city>
+      <dob>1998-5-28</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477482550</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>28</day>
+      <month>5</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.794954</lat>
+      <lng>106.708754</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,17</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Có khả năng tiếng Anh tốt (IELTS 6.5)</skill>
+      <ui>7843</ui>
+      <s1>1500000</s1>
+      <salary>1</salary>
+      <about>Là một người năng động, hoạt bát, linh hoạt trong công việc, chịu khó và biết lắng nghe.</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>219</strjo>
+  </appliedjob>
+  <education>
+    <n_1272>
+      <id>1272</id>
+      <school>Đai học Luật TP.HCM</school>
+      <degrees/>
+      <fieldofstudy>Quản trị Kinh doanh</fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_1272>
+  </education>
+</information>

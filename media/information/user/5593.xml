@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5593</id>
+      <email>quankhoi9199@gmail.com</email>
+      <username/>
+      <name>Dương Phạm Minh Khôi</name>
+      <im>1476103995_duong-pham-minh-khoi.png</im>
+      <gender>1</gender>
+      <phone>0935519542</phone>
+      <address>245 Hùng Vương P9 Q5 </address>
+      <city>30</city>
+      <dob>1998-7-22</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476103995</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>22</day>
+      <month>7</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7637295</lat>
+      <lng>106.6801522</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,17</category>
+      <type>4,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Em học chuyên ngành marketing</skill>
+      <ui>5593</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>415</strjo>
+  </appliedjob>
+</information>

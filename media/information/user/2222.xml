@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2222</id>
+      <email>Khanhhong150891@hmail.com</email>
+      <username/>
+      <name>Khánh  Hồng</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0909254396</phone>
+      <address>E58 cư xá phú lâm B f13 quận 6</address>
+      <city>30</city>
+      <dob>1991-8-15</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473311234</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1473311234</last_signin>
+      <day>15</day>
+      <month>8</month>
+      <year>1991</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.753936</lat>
+      <lng>106.629745</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_349>
+      <id>349</id>
+      <school>Cao đẳng kinh tế công nghệ thành phố Hồ Chí Minh</school>
+      <degrees>Cao đẳng</degrees>
+      <fieldofstudy>Tài chính ngân hàng </fieldofstudy>
+      <from>2011</from>
+      <to>2014</to>
+    </n_349>
+  </education>
+  <user_cv>
+    <db>
+      <ui>2222</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,16,19,20</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3500</s1>
+      <salary>1</salary>
+      <about>Hòa đồng,vui vẻ, ham học hỏi, tinh thần trách nhiệm. Giao tiếp tiếng anh cơ bản. </about>
+      <skill>Kỹ năng chăm sóc khách hàng. Làm việc theo nhóm.</skill>
+      <keyword>Nhiệt tình,Tinh thần làm việc nhóm,Trung thực,Tập trung trong công việc,Tinh thần trách nhiệm,Chịu được áp lực công việc,Kỹ năng chăm sóc khách hàng</keyword>
+    </db>
+  </user_cv>
+  <experience>
+    <n_497>
+      <id>497</id>
+      <title>Bán hàng</title>
+      <level>1</level>
+      <cmpname>Chợ phú lâm</cmpname>
+      <city>Hồ chí minh</city>
+      <country>Việt nam</country>
+      <from>2005</from>
+      <to>2016</to>
+    </n_497>
+  </experience>
+  <savedjob>
+    <total>1</total>
+    <strjo>93</strjo>
+  </savedjob>
+</information>

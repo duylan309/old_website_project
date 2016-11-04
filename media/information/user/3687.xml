@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3687</id>
+      <email>DOANLUA1995@GMAIL.COM</email>
+      <username/>
+      <name>ĐOÀN THỊ CẨM LỤA</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0986748832</phone>
+      <address/>
+      <city>30</city>
+      <dob>1995-7-19</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474773488</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>19</day>
+      <month>7</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>BẾP CHÍNH</title>
+      <experience>3</experience>
+      <category>14</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en,ch</lang>
+      <skill>BIẾT CẢ MÓN Á</skill>
+      <ui>3687</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>200,321,206,153</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>2</total>
+    <strjo>321,206</strjo>
+  </savedjob>
+</information>

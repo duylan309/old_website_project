@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5412</id>
+      <email>ngocthy.nguyentran@gmail.com</email>
+      <username/>
+      <name>Nguyễn Trần Ngọc Thy</name>
+      <im>5412_p-20161006-201318-bf.jpg</im>
+      <gender>2</gender>
+      <phone>0913979097</phone>
+      <address>504/28 cách mạng tháng Tám, phường 11, quận 3</address>
+      <city>30</city>
+      <dob>1995-12-29</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475951950</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1475951950</last_signin>
+      <day>29</day>
+      <month>12</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7740307</lat>
+      <lng>106.6890475</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>5412</ui>
+      <title>Nhân viên pha chế cà phê</title>
+      <experience>7</experience>
+      <category>15,16,28,29</category>
+      <type>2,4,5,6</type>
+      <level>1,2</level>
+      <lang>vi,en,ja</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Trung thực, kỹ càng, sẵn sàng học hỏi, năng động. MÌnh có thể nói tiếng Anh (trình độ trung bình) và hiện mình đang học tiếng nhật.&#13;
+Mình có một ít kinh nghiệm làm phục vụ quán coffee và quán ăn.</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <savedjob>
+    <total>3</total>
+    <strjo>334,364,222</strjo>
+  </savedjob>
+  <appliedjob>
+    <total>1</total>
+    <strjo>334</strjo>
+  </appliedjob>
+</information>

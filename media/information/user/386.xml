@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>386</id>
+      <email>jun.nhozpun_02@yahoo.com.vn</email>
+      <username/>
+      <name>Perry Nguyễn</name>
+      <im>715137045305690_perry-nguyen.jpg</im>
+      <gender>2</gender>
+      <dob>1997-11-15</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470002690</created>
+      <day>15</day>
+      <month>11</month>
+      <year>1997</year>
+      <phone>0902572701</phone>
+      <address>K16 cư xá Phú Lâm A, phường 12, quận 6.</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.748829</lat>
+      <lng>106.63105</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>386</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,29</category>
+      <type>2,5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <skill>Đã có kinh nghiệm phục vụ tại quán cà phê Boon..g quận 10, và tại quán kem Gấu Tuyết quận 5. </skill>
+      <keyword>Kỹ năng chăm sóc khách hàng,Tinh thần trách nhiệm,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>87</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7516</id>
+      <email>sonmai1208@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Sơn Mai</name>
+      <im>7516_mai.jpg</im>
+      <gender>2</gender>
+      <phone>01692622320</phone>
+      <address>195 đường trục 30m phường 13 quận Bình Thạnh, tp HCM</address>
+      <city>30</city>
+      <dob>1998-8-12</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477295819</created>
+      <dayleft>0</dayleft>
+      <jobleft>0</jobleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1477295819</last_signin>
+      <day>12</day>
+      <month>8</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.802397</lat>
+      <lng>106.6948697</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>7516</ui>
+      <title>Nhân viên order, nhân viên thu ngân, nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15,29,30,31</category>
+      <type>4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <about>Em tên là Nguyễn Thị Sơn Mai. Em sinh năm 1998 ( 18 tuổi ) hiện đang là sinh viên năm nhất đại học Ngoại Thương cơ sở 2 tại tp HCM, chuyên ngành kinh doanh và thương mại quốc tế. &#13;
+Em là người vui tính, năng động, chăm chỉ, tích cực trong công việc, tính đúng giờ cao, có trách nhiệm với công việc, khả năng thích ứng với môi trường công việc mới tốt, tự tin khi giao tiếp, tư vấn, giới thiệu sản phẩm cho khách hàng. Giao tiếp tiếng Anh khá tốt ( toeic 530 )&#13;
+Tuy em chưa có nhiều kinh nghiệm làm việc nhưng em sẽ cố gắng học giỏi để làm tốt công việc trong phạm vi khả năng cho phép. Em muốn có một công việc làm thêm ngoài giờ học để học hỏi kinh nghiệm, trao dồi kĩ năng mềm giúp ích cho cuộc sống cũng như công việc sau này của em. Em hy vọng sẽ sớm nhận được sự quan tâm từ phía nhà tuyển dụng để em có thể phát huy khả năng của mình, giúp ích một phần nào đó cho cửa hàng. Em xin chân thành cảm ơn!</about>
+      <skill>Tự tin trong giao tiếp cũng như tư vấn, giới thiệu sản phẩm, chăm sóc khách hàng.&#13;
+</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <education>
+    <n_1219>
+      <id>1219</id>
+      <school>Đại học Ngoại Thương cơ sở 2 tp HCM</school>
+      <degrees/>
+      <fieldofstudy>kinh doanh và thương mại quốc tế</fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_1219>
+  </education>
+  <appliedjob>
+    <total>1</total>
+    <strjo>408</strjo>
+  </appliedjob>
+</information>

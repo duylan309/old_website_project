@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3268</id>
+      <email>phamlinhdan1109@gmail.com</email>
+      <username/>
+      <name>Phạm Linh Đan</name>
+      <im>1474472165_pham-linh-dan.png</im>
+      <gender>2</gender>
+      <phone>0965407261</phone>
+      <address>368/7 phan văn trị phường 5 quận gò vấp</address>
+      <city>30</city>
+      <dob>1997-9-11</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474472164</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>11</day>
+      <month>9</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.825893</lat>
+      <lng>106.689987</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>có kinh nghiệm trong việc chăm sóc và phục vụ khách hàng </skill>
+      <ui>3268</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>hòa đồng  &#13;
+thích môi trường làm việc chuyên nghiệp &#13;
+</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>16</total>
+    <strjo>202,320,267,64,215,165,371,199,163,383,348,460,130,465,378,525</strjo>
+  </appliedjob>
+  <experience>
+    <n_788>
+      <id>788</id>
+      <title>phục vụ</title>
+      <level>1</level>
+      <cmpname>The kafe</cmpname>
+      <city>Tp Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>12/2015</from>
+      <to>6/2016</to>
+    </n_788>
+    <n_789>
+      <id>789</id>
+      <title>phục vụ</title>
+      <level>1</level>
+      <cmpname>Cafe Terrace</cmpname>
+      <city>TP Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>7/2016</from>
+      <to>9/2016</to>
+    </n_789>
+  </experience>
+  <education>
+    <n_576>
+      <id>576</id>
+      <school>Đại Học Hutech</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Quản trị dịch vụ du lịch và lữ hành</fieldofstudy>
+      <from>9/2015</from>
+      <to>9/2019</to>
+    </n_576>
+  </education>
+</information>

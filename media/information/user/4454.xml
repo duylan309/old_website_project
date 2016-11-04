@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4454</id>
+      <email>nghngmi@yahoo.com</email>
+      <username/>
+      <name>Ngô Hồng Mi</name>
+      <im>1699061550415395_hong-mi.jpg</im>
+      <gender>2</gender>
+      <dob>1997-5-17</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475193241</created>
+      <day>17</day>
+      <month>5</month>
+      <year>1997</year>
+      <phone>01299977261</phone>
+      <address>216E Bạch Đằng phường 24 quận Bình Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8035789</lat>
+      <lng>106.705517</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên làm bánh</title>
+      <experience>7</experience>
+      <category>14</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill></skill>
+      <ui>4454</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>351</strjo>
+  </appliedjob>
+  <education>
+    <n_736>
+      <id>736</id>
+      <school>Cao đẳng kinh tế đối ngoại</school>
+      <degrees/>
+      <fieldofstudy>Quản Trị Kinh doanh</fieldofstudy>
+      <from>2015</from>
+      <to>2018</to>
+    </n_736>
+  </education>
+</information>

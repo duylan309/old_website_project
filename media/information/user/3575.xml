@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3575</id>
+      <email>monnguyen1313@gmail.com</email>
+      <username/>
+      <name>NGUYỄN MINH TIẾN</name>
+      <im>3575_13071983-1739764236293659-2050499158198951595-o.jpg</im>
+      <gender>1</gender>
+      <phone>0932931402</phone>
+      <address>801/99 xô viết nghệ tĩnh, quận bình thạnh</address>
+      <city>30</city>
+      <dob>1993-8-12</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474698209</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1474698209</last_signin>
+      <day>12</day>
+      <month>8</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.796334</lat>
+      <lng>106.712407</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>3575</ui>
+      <title>NHÂN VIÊN PHA CHẾ</title>
+      <experience>1</experience>
+      <category>14,15,20,27,35</category>
+      <type>1,4</type>
+      <level>2,3,4</level>
+      <lang>vi</lang>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <about>Từng làm nhân viên bộ phận bar tại nhà hàng Phổ Đình 12 tháng&#13;
+Nhà hàng Moo beef steak Đồng khởi 6 Tháng chức vụ nhân viên bar&#13;
+</about>
+      <skill>pha chế rượu mạnh, cooktail, vang, cà phê máy, sinh tố , nước ép....&#13;
+tinh thần làm việc nhóm cao, có trách nhiệm trong công việc, sáng tạo...&#13;
+</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <experience>
+    <n_794>
+      <id>794</id>
+      <title>nhân viên bar</title>
+      <level>1</level>
+      <cmpname>Phổ Đình</cmpname>
+      <city>hồ chí minh</city>
+      <country>Việt Nam</country>
+      <from>08/03/2014</from>
+      <to>08/03/2015</to>
+    </n_794>
+  </experience>
+  <education>
+    <n_581>
+      <id>581</id>
+      <school>HUTECH</school>
+      <degrees>TRUNG CẤP CHUYÊN NGHIỆP</degrees>
+      <fieldofstudy>XÂY DỰNG DÂN DỤNG</fieldofstudy>
+      <from>2012</from>
+      <to>2015</to>
+    </n_581>
+  </education>
+  <appliedjob>
+    <total>3</total>
+    <strjo>63,172,332</strjo>
+  </appliedjob>
+</information>

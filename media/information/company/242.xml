@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>242</id>
+    <ui>506</ui>
+    <name>Fujiya Yakiniku Nabe</name>
+    <url>FujiyaYakiniku</url>
+    <im>_fujiya-yakiniku-nabe.png</im>
+    <im_banner>_fujiya-yakiniku-nabe-cover.jpg</im_banner>
+    <category>14</category>
+    <phone>0938122552</phone>
+    <address>72 Le Thanh Ton</address>
+    <district>0</district>
+    <district_text_vi></district_text_vi>
+    <district_text_en></district_text_en>
+    <city>30</city>
+    <lat>10.776487</lat>
+    <lng>106.701065</lng>
+    <website>https://www.instagram.com/fujiyayakiniku/</website>
+    <about></about>
+    <facebook>https://www.facebook.com/FujiyaYakiniku/</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1470300041</created>
+  </db>
+  <more>
+    <about>Trải nghiệm bò Wagyu Nhật với FUJIYA Yakiniku Nabe và Buffet Nướng Lẩu Sushi Sashimi Hào Sữa theo phong cách Thuần Nhật</about>
+    <whyworkus></whyworkus>
+  </more>
+  <companybanner>_fujiya-yakiniku-nabe-cover.jpg</companybanner>
+</information>

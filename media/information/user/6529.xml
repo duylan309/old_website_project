@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6529</id>
+      <email>ttt010294@gmail.com</email>
+      <username/>
+      <name>Trần Thạch Thảo</name>
+      <im>1476682858_tran-thach-thao.png</im>
+      <gender>2</gender>
+      <phone>01208424699</phone>
+      <address>398 lê văn lương p tân hưng q7</address>
+      <city>30</city>
+      <dob>1994-2-1</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476682858</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>1</day>
+      <month>2</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7386631</lat>
+      <lng>106.702445</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>cashier</title>
+      <experience>7</experience>
+      <category>14</category>
+      <type>1,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>translation, group-working, solve problem, carefull, goob observation</skill>
+      <ui>6529</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>hello! my name is Thao. i will be graduated  from American Polytechnic College in November 2016. i am enthusiastic, responsible, and able to work under pressure. i am very grateful if you give me an opportunity to work. </about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>12</total>
+    <strjo>259,428,349,337,142,140,275,260,343,391,107,302</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4879</id>
+      <email>yangyoseob2807@gmail.com</email>
+      <username/>
+      <name>DT Nguyễn</name>
+      <im>1821909358096091_dt-nguyen.jpg</im>
+      <gender>1</gender>
+      <dob>1991-7-28</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475563691</created>
+      <day>28</day>
+      <month>7</month>
+      <year>1991</year>
+      <last_signin>1475563691</last_signin>
+      <phone>01656191178</phone>
+      <address>63/7/2/3 TL29 Hà Huy Giáp P Thạnh Lộc Q12</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8784425</lat>
+      <lng>106.6780892</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1018>
+      <id>1018</id>
+      <title>Trainer</title>
+      <level>1</level>
+      <cmpname>TNHH Nhân Thăng</cmpname>
+      <city>TPHCM</city>
+      <country>Việt Nam</country>
+      <from>9/2012</from>
+      <to>Hiện tại</to>
+    </n_1018>
+  </experience>
+  <education>
+    <n_815>
+      <id>815</id>
+      <school>Đh Công nghiệp TPHCM</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Nhiệt lạnh</fieldofstudy>
+      <from>2013</from>
+      <to>2015</to>
+    </n_815>
+  </education>
+  <user_cv>
+    <db>
+      <ui>4879</ui>
+      <title>Nhân viên thời vụ</title>
+      <experience>1</experience>
+      <category>14,15,18,20,29,31,36</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Mình học cđ Cao Thằng liên thông xong đh ở Đh Công Nghiệp TPHCM. Mình đang mong muốn tìm được 1 công việc thời vụ hoặc bán thời gian với 1 mức lương phù hợp. Tks.</about>
+      <skill>Team work&#13;
+Siêng Năng&#13;
+Chịu khó&#13;
+Biết lắng nghe&#13;
+...</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>27</total>
+    <strjo>304,386,221,370,364,293,234,294,284,351,247,334,84,206,202,267,69,100,64,369,359,92,207,192,275,248,353</strjo>
+  </appliedjob>
+</information>

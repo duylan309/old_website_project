@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>430</id>
+      <email>uyen31797@gmail.com</email>
+      <username/>
+      <name>Nguyễn Điềm Thảo Uyên</name>
+      <im>430_10175241-1704258419790162-54259960-n.jpg</im>
+      <gender>2</gender>
+      <dob>1997-7-31</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470094894</created>
+      <day>31</day>
+      <month>7</month>
+      <year>1997</year>
+      <phone>01653619269</phone>
+      <address>693b Bình Quới phường 27 quận Bình Thạnh tp HCM</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8189562</lat>
+      <lng>106.724167</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_50>
+      <id>50</id>
+      <school>Đại học công nghiệp Hutech</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Truyền thông đa phương tiện</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_50>
+  </education>
+  <experience>
+    <n_74>
+      <id>74</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Mì cay Sasin</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>4/2016</from>
+      <to>8/2016</to>
+    </n_74>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>430</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15,27</category>
+      <type>2,5,6</type>
+      <level>2</level>
+      <lang>vi,kr</lang>
+      <s1>1800000</s1>
+      <salary>1</salary>
+      <skill>Giao tiếp, phục vụ, ứng xử</skill>
+      <keyword>Tinh thần làm việc nhóm,Tinh thần trách nhiệm,Trung thực,Nhiệt tình,Chịu được áp lực công việc,Kỹ năng chăm sóc khách hàng</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>105</strjo>
+  </appliedjob>
+</information>

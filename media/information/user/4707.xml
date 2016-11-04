@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4707</id>
+      <email>Vietthao.tp@gmail.com</email>
+      <username/>
+      <name>Nay phan việt thảo</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0981873077</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475432154</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bếp</title>
+      <experience>2</experience>
+      <category>14,19,20</category>
+      <type>2,4,5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Đã từng làm nhiều nhà hàng, các của hàng ở quận 2. Có khẩu vị tốt, tinh thần làm việc cao.biết lắng nghe, học hơi</skill>
+      <ui>4707</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>276</strjo>
+  </appliedjob>
+</information>

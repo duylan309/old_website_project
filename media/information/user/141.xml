@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>141</id>
+      <email>test1@gmail.com</email>
+      <username/>
+      <name>TEST1</name>
+      <im/>
+      <gender>1</gender>
+      <category/>
+      <phone>0916900095</phone>
+      <address>1</address>
+      <city>30</city>
+      <dob>1990-01-01</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1461581248</created>
+      <dayleft>0</dayleft>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>141</ui>
+      <title>da</title>
+      <category>14</category>
+      <type>1</type>
+      <level>1</level>
+      <experience>2</experience>
+      <location>30</location>
+      <lang>vi</lang>
+      <s1>10000000</s1>
+      <salary>1</salary>
+      <skill>da</skill>
+      <s2>454.54545454545</s2>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>1</strjo>
+  </appliedjob>
+</information>

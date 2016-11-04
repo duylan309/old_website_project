@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6534</id>
+      <email>minhminh.crazy@yahoo.com.vn</email>
+      <username/>
+      <name>Võ Diệu Minh</name>
+      <im>674820666002200_minh-mo.jpg</im>
+      <gender>2</gender>
+      <dob>98-4-19</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476684310</created>
+      <day>19</day>
+      <month>4</month>
+      <year>98</year>
+      <last_signin>1476684310</last_signin>
+      <phone>0935334677</phone>
+      <address>122/28/28 bùi đình túy , p12, q.bình thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.806944</lat>
+      <lng>106.698999</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1313>
+      <id>1313</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>Shop Ship</cmpname>
+      <city>Quy Nhơn</city>
+      <country>Việt Nam</country>
+      <from>2016</from>
+      <to>2016</to>
+    </n_1313>
+    <n_1314>
+      <id>1314</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Book Coffee</cmpname>
+      <city>Quy Nhơn</city>
+      <country>Việt Nam</country>
+      <from>2016</from>
+      <to>2016</to>
+    </n_1314>
+  </experience>
+  <education>
+    <n_1075>
+      <id>1075</id>
+      <school>Đại học Ngân Hàng</school>
+      <degrees/>
+      <fieldofstudy>Kinh tế quốc tế</fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_1075>
+  </education>
+  <savedjob>
+    <total>1</total>
+    <strjo>215</strjo>
+  </savedjob>
+  <user_cv>
+    <db>
+      <ui>6534</ui>
+      <title>Nhân viên phục vụ nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>15,17,35</category>
+      <type>2,4,5,6</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about></about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

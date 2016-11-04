@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4675</id>
+      <email>ruby183club@yahoo.com</email>
+      <username/>
+      <name>Nguyễn thị ngọc phượng</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0937695535</phone>
+      <address>223/1a lương định của</address>
+      <city>30</city>
+      <dob>1991-1-10</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475411245</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>10</day>
+      <month>1</month>
+      <year>1991</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7782102</lat>
+      <lng>106.7162486</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng</title>
+      <experience>3</experience>
+      <category>17,31</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Có kinh nghiệm thu ngân,pha chế</skill>
+      <ui>4675</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>140,240</strjo>
+  </appliedjob>
+  <education>
+    <n_776>
+      <id>776</id>
+      <school>Nguyễn tất thành</school>
+      <degrees>Trung cấp</degrees>
+      <fieldofstudy>Du lịch</fieldofstudy>
+      <from>2012</from>
+      <to>2014</to>
+    </n_776>
+  </education>
+</information>

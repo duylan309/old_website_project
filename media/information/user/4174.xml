@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4174</id>
+      <email>lethiquynhnhitqt2016@gmail.com</email>
+      <username/>
+      <name>Lê Thị Quỳnh Nhi</name>
+      <im>1474995854_le-thi-quynh-nhi.png</im>
+      <gender>2</gender>
+      <phone>0982961863</phone>
+      <address>16 Phùng Văn Cung, phường 7, quận Phú Nhuận</address>
+      <city>30</city>
+      <dob>1998-5-22</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474995854</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>22</day>
+      <month>5</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7998088</lat>
+      <lng>106.6861287</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>35</category>
+      <type>4</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>4174</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Vui vẻ, hòa đồng, dễ tiếp thu, siêng năng,..</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>262,296</strjo>
+  </appliedjob>
+  <education>
+    <n_668>
+      <id>668</id>
+      <school>Đại học dân lập Văn Lang</school>
+      <degrees/>
+      <fieldofstudy>Kinh doanh thương mại</fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_668>
+  </education>
+</information>

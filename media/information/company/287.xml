@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>287</id>
+    <ui>1439</ui>
+    <name>An Deli</name>
+    <url>AnDeliNgon</url>
+    <im>_an-deli.jpg</im>
+    <im_banner>_an-deli-cover.jpg</im_banner>
+    <category>35</category>
+    <phone>0906729448</phone>
+    <address>28 thu khoa huan q1</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.773832</lat>
+    <lng>106.697418</lng>
+    <website/>
+    <about/>
+    <facebook>https://www.facebook.com/AnDeliNgon/</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1472316600</created>
+  </db>
+  <more>
+    <about>Chăm chút chọn lựa nguyên liệu tự nhiên  giữ tròn vị ngon truyền thống  vì hạnh phúc trong từng món ăn!</about>
+    <whyworkus/>
+  </more>
+  <companybanner>_an-deli-cover.jpg</companybanner>
+  <totalJob>
+    <total>2</total>
+    <strji>203,204</strji>
+  </totalJob>
+</information>

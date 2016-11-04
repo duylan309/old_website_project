@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6307</id>
+      <email>nguyen12138951@gmail.com</email>
+      <username/>
+      <name>Minh Nguyên</name>
+      <im>1287588764599163_minh-nguyen.jpg</im>
+      <gender>1</gender>
+      <dob>1994-2-15</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476493377</created>
+      <day>15</day>
+      <month>2</month>
+      <year>1994</year>
+      <phone>01258232872</phone>
+      <address>42 Nguyễn Xuân Ôn,Phường 2,Quận Bình Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7986023</lat>
+      <lng>106.7000944</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Kế toán</title>
+      <experience>7</experience>
+      <category>14,15,17,28,35</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>6307</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Ưu điểm:&#13;
+- Cẩn thận&#13;
+- Có tinh thần học hỏi&#13;
+- thành thạo phần mềm Excel,Misa&#13;
+Khuyết điểm:&#13;
+- Chưa có kinh nghiệm các mảng chuyên sâu kế toán</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>419,149</strjo>
+  </appliedjob>
+  <education>
+    <n_1046>
+      <id>1046</id>
+      <school>Đại học Công Nghiệp TPHCM</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Kế toán</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_1046>
+  </education>
+  <experience>
+    <n_1274>
+      <id>1274</id>
+      <title>Kế toán kho</title>
+      <level>1</level>
+      <cmpname>Công Ty TNHH Công nghệ và Kỹ thuật TNT</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>5/2016</from>
+      <to>9/2016</to>
+    </n_1274>
+  </experience>
+</information>

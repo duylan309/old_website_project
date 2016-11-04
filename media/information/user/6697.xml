@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6697</id>
+      <email>nhocksock_l0ve_p3@yahoo.com</email>
+      <username/>
+      <name>Chánh Huỳnh</name>
+      <im>690283041140823_chanh-huynh.jpg</im>
+      <gender>1</gender>
+      <dob>1997-9-1</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476794640</created>
+      <day>1</day>
+      <month>9</month>
+      <year>1997</year>
+      <phone>01228053687</phone>
+      <address>C7B/144</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7328378</lat>
+      <lng>106.6770303</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill></skill>
+      <ui>6697</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>sinh viên , có kinh nghiệm bán hàng lotte mark Q7</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>219</strjo>
+  </appliedjob>
+</information>

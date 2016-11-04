@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5335</id>
+      <email>luuquynhnhu1993@gmail.com</email>
+      <username/>
+      <name>Lưu Quỳnh Như</name>
+      <im>5335_nhu.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475911191</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+      <last_signin>1475911191</last_signin>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,17,35</category>
+      <type>2,4,5</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill>Đã từng phục vụ tại các cửa hàng thức ăn nhanh &#13;
+Tác phong nhanh nhẹn, nhiệt tình &#13;
+</skill>
+      <ui>5335</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>262</strjo>
+  </appliedjob>
+</information>

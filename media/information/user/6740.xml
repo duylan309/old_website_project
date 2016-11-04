@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6740</id>
+      <email>Ni_co_lai8199@yahoo.com</email>
+      <username/>
+      <name>Chau chi cong</name>
+      <im>1476824569_chau-chi-cong.png</im>
+      <gender>0</gender>
+      <phone>0909028048</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476824569</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Bếp chảo viet,á</title>
+      <experience>5</experience>
+      <category>35</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Che bien com  van phong va alacar</skill>
+      <ui>6740</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>136</strjo>
+  </appliedjob>
+</information>

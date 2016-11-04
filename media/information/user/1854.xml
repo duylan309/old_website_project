@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1854</id>
+      <email>behan.1709@gmail.com</email>
+      <username/>
+      <name>Trần Ngọc Tú Hân</name>
+      <im>1783763421880782_tran-ngoc-tu-han.jpg</im>
+      <gender>2</gender>
+      <dob>1996-9-17</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473007624</created>
+      <day>17</day>
+      <month>9</month>
+      <year>1996</year>
+      <phone>0946961709</phone>
+      <address>100/5 vạn kiếp f3 quận bình thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.802314</lat>
+      <lng>106.693361</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Bán hàng, thu ngân</title>
+      <experience>2</experience>
+      <category>14,15,17,20,26,29,31,35</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>1854</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword>Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Trung thực,Tập trung trong công việc,Tinh thần làm việc nhóm,Tự tin</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>140,107</strjo>
+  </appliedjob>
+</information>

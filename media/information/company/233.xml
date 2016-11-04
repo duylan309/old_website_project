@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>233</id>
+    <ui>330</ui>
+    <name>The Workshop</name>
+    <url>the.workshop.coffee</url>
+    <im>862412433787218_the-workshop.jpg</im>
+    <im_banner>862412433787218_the-workshop-cover.jpg</im_banner>
+    <category>15</category>
+    <phone>(08) 3824 6801</phone>
+    <address>27 Ngo Duc Ke, P. Ben Nghe, Q.1 (2nd floor)</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.773552</lat>
+    <lng>106.705681</lng>
+    <website/>
+    <about/>
+    <facebook>https://www.facebook.com/the.workshop.coffee/</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1469175694</created>
+  </db>
+  <more>
+    <about>Specialty coffee bar - coolest place for coffee lovers</about>
+    <whyworkus/>
+  </more>
+  <companybanner>862412433787218_the-workshop-cover.jpg</companybanner>
+  <totalJob>
+    <total>1</total>
+    <strji>114</strji>
+  </totalJob>
+</information>

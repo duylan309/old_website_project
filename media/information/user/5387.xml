@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5387</id>
+      <email>bachvothanhgiang273@gmail.com</email>
+      <username/>
+      <name>Bạch Võ Thanh Giang</name>
+      <im>1219236748133224_giang-bach-bach.jpg</im>
+      <gender>2</gender>
+      <dob>1996-3-27</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475939737</created>
+      <day>27</day>
+      <month>3</month>
+      <year>1996</year>
+      <last_signin>1475939737</last_signin>
+      <phone>01683414725</phone>
+      <address>D26.2, chung cư Phú Hoàng Anh, đường Nguyễn Hữu Thọ, huyện Nhà Bè</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.6987587</lat>
+      <lng>106.7164735</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_919>
+      <id>919</id>
+      <school>Đại học Hoa Sen</school>
+      <degrees>Sinh viên năm 3</degrees>
+      <fieldofstudy>Marketing</fieldofstudy>
+      <from>5/2014</from>
+      <to>Nay</to>
+    </n_919>
+  </education>
+  <experience>
+    <n_1145>
+      <id>1145</id>
+      <title>PR Coordinator - Internship</title>
+      <level>1</level>
+      <cmpname>California Fitness and Yoga</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>07/2016</from>
+      <to>10/2016</to>
+    </n_1145>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>5387</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>1</experience>
+      <category>14,15,17,28,29,35</category>
+      <type>2,4,5</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Tôi hiện đang là sinh viên năm 3 tại đại học Hoa Sen, chuyên ngành Marketing.&#13;
+Tôi rất muốn được làm nhiều công việc khác nhau để được học hỏi và trải nghiệm nhiều hơn.</about>
+      <skill>Giao tiếp khá&#13;
+Nắm bắt tâm lý &#13;
+Có khả năng giữ bình tĩnh và giải quyết tốt các tình huống trong công việc&#13;
+Có trách nhiệm trong công việc&#13;
+Luôn có tinh thần học hỏi cao</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>371,323</strjo>
+  </appliedjob>
+</information>

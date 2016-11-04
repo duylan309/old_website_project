@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>733</id>
+      <email>nguyenlanthanh09@gmail.com</email>
+      <username/>
+      <name>NGUYỄN LAN THANH</name>
+      <im>733_-7c3dc6f16e13f6407afcf97c6afe1bed43939aa0ebd8d589de-pimgpsh-fullsize-distr.jpg</im>
+      <gender>2</gender>
+      <phone>0964694257</phone>
+      <address>100 - Đường 18 - Khu phố 5 - Phường Linh Trung - Quận Thủ Đức</address>
+      <city>30</city>
+      <dob>1995-10-9</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470972907</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>9</day>
+      <month>10</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8624563</lat>
+      <lng>106.7924732</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng, trợ lý, Cộng tác viên..</title>
+      <experience>7</experience>
+      <category>17,27,29,31,35</category>
+      <type>2,4,5,6</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <skill>Kỹ năng giao tiếp: Biết lắng nghe và phát biểu ý kiến đúng lúc. Khả năng thuyết trình trước đám đông khá tố&#13;
+Kỹ năng tin học: Có thể sử dụng tốt các phần mềm Microsoft Office (Word, PowerPoint, exel), sử dụng Internet để tìm kiếm thông tin hiệu quả.</skill>
+      <ui>733</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>82,140,150</strjo>
+  </appliedjob>
+  <education>
+    <n_103>
+      <id>103</id>
+      <school>Đại học Nông Lâm Thành phố Hồ Chí Minh</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Công nghệ thực phẩm</fieldofstudy>
+      <from>9/2013</from>
+      <to>6/2017</to>
+    </n_103>
+  </education>
+  <experience>
+    <n_158>
+      <id>158</id>
+      <title>Nhân viên tư vấn</title>
+      <level>1</level>
+      <cmpname>Trung tâm anh ngữ ECE</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>7/2015</from>
+      <to>9/2015</to>
+    </n_158>
+  </experience>
+</information>

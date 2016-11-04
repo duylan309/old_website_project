@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>971</id>
+      <email>huynhnganchau@gmail.com</email>
+      <username/>
+      <name>Huỳnh Ngân Châu</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0932580819</phone>
+      <address>77, Nguyễn Công Hoan, P7, Phú Nhuận</address>
+      <city>30</city>
+      <dob>1993-8-8</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471510966</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>8</day>
+      <month>8</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8008535</lat>
+      <lng>106.6906225</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế</title>
+      <experience>1</experience>
+      <category>14,15,16,18,20,29</category>
+      <type>1,2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Pha chế</skill>
+      <ui>971</ui>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <keyword>Tự tin,Trung thực,Chịu được áp lực công việc,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>13</total>
+    <strjo>106,111,69,126,163,64,93,172,119,178,169,189,201</strjo>
+  </appliedjob>
+  <experience>
+    <n_247>
+      <id>247</id>
+      <title>Pha chế</title>
+      <level>1</level>
+      <cmpname>Cộng Cà Phê</cmpname>
+      <city>Hcm</city>
+      <country>Vn</country>
+      <from>12/2015</from>
+      <to>6/2016</to>
+    </n_247>
+    <n_248>
+      <id>248</id>
+      <title>Hostess</title>
+      <level>1</level>
+      <cmpname>Mc Donalds</cmpname>
+      <city/>
+      <country/>
+      <from>6/2016</from>
+      <to>8/2016</to>
+    </n_248>
+  </experience>
+</information>

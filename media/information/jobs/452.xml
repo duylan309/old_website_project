@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>452</id>
+    <ui>6005</ui>
+    <ci>401</ci>
+    <ai>0</ai>
+    <ti>Nhân viên phục vụ</ti>
+    <ta/>
+    <le>2</le>
+    <ty>2,4</ty>
+    <ex>7</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description>1. Chúng tôi cần tuyển Nhân viên Phục vụ theo ca\r\n2. Trình độ văn hóa cần thiết: Trung học cơ sở \r\n2. Nam/Nữ từ Tuổi từ 18 đến 25 Ngoại hình dễ nhìn, ngăn nắp, nhận thức tốt về vệ sinh an toàn thực phẩm Có thể đảm bảo\r\n3. Có thể làm việc vào ngày thứ bảy, chủ nhật và ngày lễ \r\n4. Trung thực, vui vẻ và chăm chỉ \r\n5. Có phương tiện đi lại thuận tiện\r\n7. Ưu tiên sinh viên vừa đi học vừa đi làm\r\n8. Hiện đang trống ca từ 12h trưa đến 18h chiều</description>
+    <requirement>Trực tiếp thực hiện công việc phục vụ khách hàng tại coffee Milano\r\nNhận order từ khách hàng và mang thức uống cho khách hàng\r\nPha chế coffee theo yêu cầu menu\r\nDọn dẹp và rửa ly tách \r\nĐảm bảo khách hàng đến và ra về đều cảm thấy thật thoải mái, thân thiện và hài lòng với chất lượng dịch vụ</requirement>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>321</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-12</de>
+    <re>0000-00-00</re>
+    <cr>1476330061</cr>
+  </db>
+  <more>
+    <requirement>Trực tiếp thực hiện công việc phục vụ khách hàng tại coffee Milano&#13;
+Nhận order từ khách hàng và mang thức uống cho khách hàng&#13;
+Pha chế coffee theo yêu cầu menu&#13;
+Dọn dẹp và rửa ly tách &#13;
+Đảm bảo khách hàng đến và ra về đều cảm thấy thật thoải mái, thân thiện và hài lòng với chất lượng dịch vụ</requirement>
+    <description>1. Chúng tôi cần tuyển Nhân viên Phục vụ theo ca&#13;
+2. Trình độ văn hóa cần thiết: Trung học cơ sở &#13;
+2. Nam/Nữ từ Tuổi từ 18 đến 25 Ngoại hình dễ nhìn, ngăn nắp, nhận thức tốt về vệ sinh an toàn thực phẩm Có thể đảm bảo&#13;
+3. Có thể làm việc vào ngày thứ bảy, chủ nhật và ngày lễ &#13;
+4. Trung thực, vui vẻ và chăm chỉ &#13;
+5. Có phương tiện đi lại thuận tiện&#13;
+7. Ưu tiên sinh viên vừa đi học vừa đi làm&#13;
+8. Hiện đang trống ca từ 12h trưa đến 18h chiều</description>
+    <benefit/>
+    <keyword/>
+  </more>
+  <userapplied>
+    <total>10</total>
+    <strui>6700,6778,6878,7297,7412,4833,3538,7754,7891,7792</strui>
+  </userapplied>
+</information>

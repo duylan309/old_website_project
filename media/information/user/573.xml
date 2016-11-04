@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>573</id>
+      <email>pilstore13114@gmail.com</email>
+      <username/>
+      <name>Hoàng Thị Ngọc Ánh</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0981867429</phone>
+      <address>36/37 đường 05, khu phố 05, phường Linh Chiểu, quận Thủ Đức</address>
+      <city>30</city>
+      <dob>1997-11-9</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470545521</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>9</day>
+      <month>11</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8469992</lat>
+      <lng>106.7544561</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>573</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>1,4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <skill>- Làm việc tốt dưới áp lực.&#13;
+- Chăm chỉ, học nhanh chóng, và có khả năng chịu trách nhiệm.&#13;
+- Cókhả năng thích ứng với thiết bị mới và công nghệ.&#13;
+- Nhiệt tình, đáng tin cậy, năng động.&#13;
+- Có kỹ giao tiếp tốt.&#13;
+- Sáng tạo, năng lượng và sự kiên nhẫn.&#13;
+</skill>
+      <keyword>Tinh thần làm việc nhóm,Nhiệt tình,Tinh thần trách nhiệm,Trung thực,Tập trung trong công việc,Chịu được áp lực công việc</keyword>
+      <about/>
+    </db>
+  </user_cv>
+  <experience>
+    <n_113>
+      <id>113</id>
+      <title>nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Hello coffee</cmpname>
+      <city>Đà Lạt</city>
+      <country>Việt Nam</country>
+      <from>06/2014</from>
+      <to>09/2014</to>
+    </n_113>
+    <n_1429>
+      <id>1429</id>
+      <title>nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Mộc Coffee</cmpname>
+      <city>TP.HCM</city>
+      <country>Việt Nam</country>
+      <from>05.2016</from>
+      <to>08.2016</to>
+    </n_1429>
+  </experience>
+  <education>
+    <n_1184>
+      <id>1184</id>
+      <school>Đại học Nông Lâm TP.HCM</school>
+      <degrees>sinh viên năm 2</degrees>
+      <fieldofstudy>Ngôn Ngữ Anh</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_1184>
+  </education>
+  <appliedjob>
+    <total>1</total>
+    <strjo>371</strjo>
+  </appliedjob>
+</information>

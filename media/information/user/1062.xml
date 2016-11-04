@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1062</id>
+      <email>anhthu2241999@gmail.com</email>
+      <username/>
+      <name>Trần Thị Anh Thư</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0932709342</phone>
+      <address></address>
+      <city></city>
+      <dob>1999-4-22</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471668015</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>22</day>
+      <month>4</month>
+      <year>1999</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Bán hàng</title>
+      <experience>7</experience>
+      <category>17</category>
+      <type>5</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill></skill>
+      <ui>1062</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>124</strjo>
+  </appliedjob>
+</information>

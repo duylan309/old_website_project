@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>633</id>
+      <email>tanthanh@namanmarket.com.vn</email>
+      <username/>
+      <name>Tấn Thành</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0909380412</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1470713648</created>
+      <dayleft>1478489648</dayleft>
+      <page>1</page>
+      <is_received_email>0</is_received_email>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <jobleft>0</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>5</total>
+    <strji>140,141,142,148,149</strji>
+  </totalJob>
+  <saveuser>
+    <total>42</total>
+    <strui>654,694,718,733,737,739,777,800,853,872,883,982,994,1014,1005,1091,1340,626,1351,1559,1594,292,1718,1724,1714,1746,1794,1817,1854,1896,1976,2063,2126,2199,2261,1354,2362,2385,2399,2454,2501,2524</strui>
+  </saveuser>
+</information>

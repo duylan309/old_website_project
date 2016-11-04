@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>40</id>
+      <email>binhphan@gmail.com</email>
+      <username/>
+      <name>Phan Thanh Bình</name>
+      <im>40_binh.jpg</im>
+      <gender>1</gender>
+      <category/>
+      <phone>0235236323</phone>
+      <address>9 Đặng Tuất, Quận Phú Nhuận</address>
+      <city>30</city>
+      <dob>1990-03-20</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1458453471</created>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>40</ui>
+      <category>14,15,16,17</category>
+      <title></title>
+      <level>2</level>
+      <experience>4</experience>
+      <location>30</location>
+      <salary></salary>
+      <skill>- Nam cao 1m70 trở lên; Nữ cao 1m60 trở lên;&#13;
+- Tuổi từ 20 đến 28; Ngoại hình ưa nhìn&#13;
+- Có văn bằng, chứng chỉ về nghiệp vụ lễ tân khách sạn&#13;
+- Thông thạo một ngoại ngữ và giao tiếp tốt một ngoại ngữ khác (một ngoại ngữ là tiếng Anh).&#13;
+- Có khả năng giao tiếp và xử lý tình huống tốt.&#13;
+- Sử dụng tốt vi tính văn phòng.</skill>
+    </db>
+  </user_cv>
+</information>

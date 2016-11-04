@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>245</id>
+    <ui>521</ui>
+    <name>Sigoong.Hostel.Bar</name>
+    <url>Sigoong.Hostel.Bar</url>
+    <im>245_logo-sigoong-square.jpg</im>
+    <im_banner/>
+    <category>16,20</category>
+    <phone>0937854041</phone>
+    <address>92 Đề Thám, Ho Chi Minh City, Ho Chi Minh, Vietnam</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.764348</lat>
+    <lng>106.695465</lng>
+    <website/>
+    <about/>
+    <facebook>www.facebook.com/sigoong.hostel</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1470381935</created>
+  </db>
+  <more>
+    <about/>
+    <whyworkus/>
+  </more>
+  <companybanner>245_img-7509.JPG</companybanner>
+  <totalJob>
+    <total>5</total>
+    <strji>131,132,133,410,411</strji>
+  </totalJob>
+</information>

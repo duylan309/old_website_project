@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7802</id>
+      <email>huyen_recruitment@emart.vn</email>
+      <username/>
+      <name>Giang Huyen</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0165 905 6732</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1477465598</created>
+      <dayleft>1480057598</dayleft>
+      <jobleft>1</jobleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1477465598</last_signin>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>8</total>
+    <strji>527,532,533,534,535,539,536,528</strji>
+  </totalJob>
+</information>

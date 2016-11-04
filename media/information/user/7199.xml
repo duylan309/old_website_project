@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7199</id>
+      <email>tan.rgkg@gmail.com</email>
+      <username/>
+      <name>Vũ Trương Khánh Linh</name>
+      <im>1477116369_vu-truong-khanh-linh.png</im>
+      <gender>0</gender>
+      <phone>01229842847</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477116369</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng, nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>17,35</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Linh động, có thể thích nghi với từng môi trường làm việc, ham học hỏi, có khả năng giao tiếp, làm việc nhóm tốt.</skill>
+      <ui>7199</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>205</strjo>
+  </appliedjob>
+</information>

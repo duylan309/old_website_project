@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4793</id>
+      <email>nppt.150597@gmail.com</email>
+      <username/>
+      <name>Nguyễn Phan Phương Thanh</name>
+      <im>1743499732582262_thanh-thanh.jpg</im>
+      <gender>2</gender>
+      <dob>1997-5-15</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475500352</created>
+      <day>15</day>
+      <month>5</month>
+      <year>1997</year>
+      <last_signin>1475500352</last_signin>
+      <phone>01867500484</phone>
+      <address>101/29 Bắc Hải, phường 15, quận 10</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.785651</lat>
+      <lng>106.6634529</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>4793</ui>
+      <title>Nhân viên phục vụ, pha chế</title>
+      <experience>7</experience>
+      <category>14,15,27,29</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Tốt nghiệp THPT bằng giỏi, hiện đang là sinh viên năm 2 hệ chất lượng cao trường đại học Ngân Hàng Tp. Hồ Chí Minh khoa quản trị kinh doanh. Từng tham gia nghiên cứu khoa học, hoạt động tình nguyện tại địa phương,  đoàn, trường.</about>
+      <skill>Có kinh nghiệm trong làm việc nhóm, kỹ năng thuyết trình đứng trước đám đông, kỹ năng giao tiếp và ứng xử với khách hàng.</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>222,371</strjo>
+  </appliedjob>
+</information>

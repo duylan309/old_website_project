@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7101</id>
+      <email>trannguyen91098@gmail.com</email>
+      <username/>
+      <name>Nguyễn Hoàng Bảo Trân</name>
+      <im>1477060103_nguyen-hoang-bao-tran.png</im>
+      <gender>2</gender>
+      <phone>0902746820</phone>
+      <address>153/32 Điện Biên Phủ, phường 15, quận Bình Thạnh</address>
+      <city>30</city>
+      <dob>1998-10-9</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477060103</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>9</day>
+      <month>10</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.801417</lat>
+      <lng>106.708875</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàn</title>
+      <experience>1</experience>
+      <category>16,17,18,19,20,26,28,29,30,31,35</category>
+      <type>2,4,6</type>
+      <level>2,3</level>
+      <lang>vi,en,ch</lang>
+      <skill>Kỹ năng bán hàng, tư vấn và chăm sóc khách hàng. &#13;
+có thể xử lí tình huống</skill>
+      <ui>7101</ui>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <about>Hoạt bát, năng động, có trách nhiệm với công việc.&#13;
+đúng giờ&#13;
+khéo léo trong xử lí tình huống&#13;
+&#13;
+&#13;
+</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>375,333,468,423</strjo>
+  </appliedjob>
+  <education>
+    <n_1162>
+      <id>1162</id>
+      <school>Đại học Khoa học xã hội và Nhân văn</school>
+      <degrees/>
+      <fieldofstudy>Ngôn ngữ Trung Quốc</fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_1162>
+  </education>
+</information>

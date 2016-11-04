@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>393</id>
+    <ui>4406</ui>
+    <ci>367</ci>
+    <ai>0</ai>
+    <ti>Công Nhân Sơ Chế Thực Phẩm (Làm giờ hành chính)</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>7</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>4000000</s1>
+    <s2>5000000</s2>
+    <s3>181</s3>
+    <s4>227</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description>• Sơ chế nguyên liệu, bao gói thực phẩm, đóng gói hàng hóa.\r\n• Nơi làm việc: Bếp trung tâm Lê Quốc Hưng Q.4</description>
+    <requirement>• Không lộ hình xăm khi mặc áo tay ngắn, không bị dị ứng da.\r\n• Luôn sẵn sàng hỗ trợ lẫn nhau trong công việc.\r\n• Phải chịu khó, không phải là một công việc nhẹ nhàng.</requirement>
+    <benefit>• Đào tạo hội nhập môi trường, hướng dẫn kỹ năng trước khi làm việc.\r\n• Tăng lương, thăng bậc định kỳ theo quy định.\r\n• Thưởng lễ, tết, lương tháng 13.\r\n• Du lịch thường niên cho nhân viên.</benefit>
+    <keyword>Công nhân,Lao động phổ thông,Bếp</keyword>
+    <ad/>
+    <location_id>249</location_id>
+    <lat>10.765136</lat>
+    <lng>10.765136</lng>
+    <de>2016-10-29</de>
+    <re>0000-00-00</re>
+    <cr>1475656959</cr>
+  </db>
+  <more>
+    <requirement>• Không lộ hình xăm khi mặc áo tay ngắn, không bị dị ứng da.&#13;
+• Luôn sẵn sàng hỗ trợ lẫn nhau trong công việc.&#13;
+• Phải chịu khó, không phải là một công việc nhẹ nhàng.</requirement>
+    <description>• Sơ chế nguyên liệu, bao gói thực phẩm, đóng gói hàng hóa.&#13;
+• Nơi làm việc: Bếp trung tâm Lê Quốc Hưng Q.4</description>
+    <benefit>• Đào tạo hội nhập môi trường, hướng dẫn kỹ năng trước khi làm việc.&#13;
+• Tăng lương, thăng bậc định kỳ theo quy định.&#13;
+• Thưởng lễ, tết, lương tháng 13.&#13;
+• Du lịch thường niên cho nhân viên.</benefit>
+    <keyword>Công nhân,Lao động phổ thông,Bếp</keyword>
+  </more>
+  <userapplied>
+    <total>4</total>
+    <strui>5477,5478,940,7146</strui>
+  </userapplied>
+</information>

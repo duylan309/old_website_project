@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4128</id>
+      <email>pety_ngox@yahoo.com.vn</email>
+      <username/>
+      <name>Ngọc Quânn</name>
+      <im>892814777518172_ngoc-quann.jpg</im>
+      <gender>2</gender>
+      <dob>1995-10-31</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474980217</created>
+      <day>31</day>
+      <month>10</month>
+      <year>1995</year>
+      <phone>0903395072</phone>
+      <address>418/4/13 nguyễn thái sơn p5 quận gò vấp</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.826623</lat>
+      <lng>106.687712</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_877>
+      <id>877</id>
+      <title>nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>skinfood</cmpname>
+      <city>hcm</city>
+      <country>việt nam</country>
+      <from>tháng 1</from>
+      <to>tháng 8</to>
+    </n_877>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>4128</ui>
+      <title>nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>15,17,35</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>322</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>197</id>
+    <ui>238</ui>
+    <name>Dinosaur</name>
+    <url>dinosaurvn</url>
+    <im>232014716921079_dinosaur.jpg</im>
+    <im_banner>232014716921079_dinosaur-cover.jpg</im_banner>
+    <category>15</category>
+    <phone>+84838239382</phone>
+    <address>26, Lý Tự Trọng, Quận 1</address>
+    <district>0</district>
+    <district_text_vi></district_text_vi>
+    <district_text_en></district_text_en>
+    <city>30</city>
+    <lat>10.778417</lat>
+    <lng>106.701019</lng>
+    <website>http://www.dinosaur.vn</website>
+    <about></about>
+    <facebook>https://www.facebook.com/dinosaurvn/</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1467517583</created>
+  </db>
+  <more>
+    <about>Visit us at www.dinosaur.vn or email us@dinosaur.vn</about>
+    <whyworkus></whyworkus>
+  </more>
+  <companybanner>232014716921079_dinosaur-cover.jpg</companybanner>
+</information>

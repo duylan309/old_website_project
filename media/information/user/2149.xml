@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2149</id>
+      <email>hoangthienquocbao211996@gmail.com</email>
+      <username/>
+      <name>Hoàng Thiên Quốc Bảo</name>
+      <im>1473259034_hoang-thien-quoc-bao.jpg</im>
+      <gender>0</gender>
+      <phone>01216142230</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473259034</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên pha chế cà phê</title>
+      <experience>7</experience>
+      <category>35</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>2149</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>201</strjo>
+  </appliedjob>
+</information>

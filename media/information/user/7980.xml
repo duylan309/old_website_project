@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7980</id>
+      <email>xbinghi_langtu6891@yahoo.com.vn</email>
+      <username/>
+      <name>Lê Nghi</name>
+      <im>1087850381332010_anitya-nghi.jpg</im>
+      <gender>1</gender>
+      <dob>1991-8-6</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477563136</created>
+      <day>6</day>
+      <month>8</month>
+      <year>1991</year>
+      <last_signin>1477563136</last_signin>
+      <phone>01626055444</phone>
+      <address>180 Nguyễn Tất Thành P13 Q4</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.762781</lat>
+      <lng>106.708049</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>7980</ui>
+      <title>Phụ bếp</title>
+      <experience>1</experience>
+      <category>14,16,20</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Tốt nghiệp lớp 12 , từng làm bếp tại Pizza hut , mong muốn kiếm công biệc ổn định gắn bó lâu dài</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>276</strjo>
+  </appliedjob>
+</information>

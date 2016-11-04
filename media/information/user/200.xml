@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>200</id>
+      <email>tam.nguyen@elgaucho.asia</email>
+      <username/>
+      <name>Nguyen Minh Nhut</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0909621610</phone>
+      <address>74 Hai Ba Trung,P.Ben Nghe,Q.1</address>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>3</status>
+      <created>1465961564</created>
+      <dayleft>1481994193</dayleft>
+      <page>5</page>
+      <jobleft>0</jobleft>
+      <is_received_email>1</is_received_email>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>3</total>
+    <strji>111,112,113</strji>
+  </totalJob>
+  <saveuser>
+    <total>65</total>
+    <strui>306,428,453,516,591,626,656,662,387,701,716,722,779,785,498,822,292,941,998,971,1067,1068,1094,923,1220,1240,1274,1284,878,1458,1134,1610,1625,1663,1905,1972,1986,1584,2157,2224,2228,2238,2504,2532,2546,2588,2866,2990,3156,3240,2047,3866,4252,2786,4905,4833,3210,5197,5226,5318,5033,5603,5882,5985,1259</strui>
+  </saveuser>
+</information>

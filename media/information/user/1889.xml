@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1889</id>
+      <email>phuongkieu.smile@gmail.com</email>
+      <username/>
+      <name>Vũ Lê Phương Kiều</name>
+      <im>1889_11891084-983337838396914-9178212014835628946-n.jpg</im>
+      <gender>2</gender>
+      <dob>1993-11-17</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473048050</created>
+      <day>17</day>
+      <month>11</month>
+      <year>1993</year>
+      <last_signin>1473048050</last_signin>
+      <phone>0967706470</phone>
+      <address>536/32/9 Âu Cơ, Phường 10, quận Tân Bình</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7821451</lat>
+      <lng>106.6501222</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_420>
+      <id>420</id>
+      <title>Nhân viên thu ngân</title>
+      <level>1</level>
+      <cmpname>Shop thời trang J-P</cmpname>
+      <city>TP Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2013</from>
+      <to>2014</to>
+    </n_420>
+    <n_421>
+      <id>421</id>
+      <title>Thư ký Nhà Hàng</title>
+      <level>1</level>
+      <cmpname>Nhà Hàng tiệc cưới Melisa</cmpname>
+      <city>TP Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>9/2015</from>
+      <to>4/2016</to>
+    </n_421>
+    <n_422>
+      <id>422</id>
+      <title>Sales Admin</title>
+      <level>1</level>
+      <cmpname>Công ty BĐS Sland</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>5/2016</from>
+      <to>Nay</to>
+    </n_422>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>1889</ui>
+      <title>Nhân viên pha chế, nhân viên phục vụ, nhân viên thu ngân, nhân viên phụ bếp</title>
+      <experience>2</experience>
+      <category>15,27,36</category>
+      <type>2,4,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <skill></skill>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Tinh thần trách nhiệm,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Tự tin,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>7</total>
+    <strjo>105,106,64,165,208,130,222</strjo>
+  </appliedjob>
+</information>

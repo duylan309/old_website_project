@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5710</id>
+      <email>thtv94@gmail.com</email>
+      <username/>
+      <name>Trương Hà Thảo Vy</name>
+      <im>5710_img-20160921-1.png</im>
+      <gender>2</gender>
+      <phone>0963841940</phone>
+      <address></address>
+      <city></city>
+      <dob>1994-4-24</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476160756</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>24</day>
+      <month>4</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên ban hàng, Nhân viên phục vụ, Nhân viên tiếp tân</title>
+      <experience>1</experience>
+      <category>14,17,18,20,30,35</category>
+      <type>1,2,4,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Kỹ năng giao tiếp tốt, thân thiện, nhiệt tình, trung thực</skill>
+      <ui>5710</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Tôi có kỹ năng giao tiếp tốt đồng thời cũng là người trung thực, nhiệt huyết, siêng năng.</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>253</strjo>
+  </appliedjob>
+  <education>
+    <n_947>
+      <id>947</id>
+      <school>Đại học Tôn Đức Thắng</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Quản Trị Khách sạn</fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_947>
+  </education>
+  <experience>
+    <n_1171>
+      <id>1171</id>
+      <title>Nhân viên tiếp tân</title>
+      <level>1</level>
+      <cmpname>Armani Spa</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>8/2016</from>
+      <to>Nay</to>
+    </n_1171>
+    <n_1173>
+      <id>1173</id>
+      <title>Telesale</title>
+      <level>1</level>
+      <cmpname>Sheraton Hotel</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>06/2016</from>
+      <to>09/2016</to>
+    </n_1173>
+  </experience>
+</information>

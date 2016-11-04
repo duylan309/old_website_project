@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>195</id>
+    <ui>1359</ui>
+    <ci>282</ci>
+    <ai>0</ai>
+    <ti>Barista</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>1,7</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>3000000</s1>
+    <s2>4000000</s2>
+    <s3>136</s3>
+    <s4>181</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description>Ca sáng: 7g-15g / Ca chiều: 15g - 23g\r\nMở / đóng cửa quán theo ca, pha chế và dọn vệ sinh tại quầy barista, giới thiệu các sản phẩm của quán cho khách, chia sẻ kinh nghiệm pha chế với đội pha chế</description>
+    <requirement>Sử dụng máy pha cà phê expresso, có kinh nghiệm pha sinh tố, cà phê đá xay</requirement>
+    <benefit>Lương khởi điểm 13.000 - 15.000 / 1 giờ tùy kinh nghiệm + trợ cấp \r\nHưởng 2 ngày nghỉ 1 tháng, \r\nCó nơi giữ xe, tủ chứa đồ và nhà vệ sinh riêng cho nhân viên\r\nLàm việc tại trung tâm thành phố trong 1 môi trường trẻ, năng động </benefit>
+    <keyword>Trung thực,Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Tinh thần trách nhiệm,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+    <ad/>
+    <location_id>105</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-09-25</de>
+    <re>0000-00-00</re>
+    <cr>1472177951</cr>
+  </db>
+  <more>
+    <requirement>Sử dụng máy pha cà phê expresso, có kinh nghiệm pha sinh tố, cà phê đá xay</requirement>
+    <description>Ca sáng: 7g-15g / Ca chiều: 15g - 23g&#13;
+Mở / đóng cửa quán theo ca, pha chế và dọn vệ sinh tại quầy barista, giới thiệu các sản phẩm của quán cho khách, chia sẻ kinh nghiệm pha chế với đội pha chế</description>
+    <benefit>Lương khởi điểm 13.000 - 15.000 / 1 giờ tùy kinh nghiệm + trợ cấp &#13;
+Hưởng 2 ngày nghỉ 1 tháng, &#13;
+Có nơi giữ xe, tủ chứa đồ và nhà vệ sinh riêng cho nhân viên&#13;
+Làm việc tại trung tâm thành phố trong 1 môi trường trẻ, năng động </benefit>
+    <keyword>Trung thực,Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Tinh thần trách nhiệm,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+  </more>
+  <userapplied>
+    <total>19</total>
+    <strui>1158,1626,1704,1802,1882,1969,2411,2555,3055,3067,2715,3106,3308,3342,3532,898,3819,4402,4511</strui>
+  </userapplied>
+</information>

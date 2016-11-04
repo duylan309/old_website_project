@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3425</id>
+      <email>ngocngannguyendinh@gmail.com</email>
+      <username/>
+      <name>Nguyễn Đình Ngọc Ngân</name>
+      <im>1474618614_nguyen-dinh-ngoc-ngan.png</im>
+      <gender>2</gender>
+      <phone>0936360001</phone>
+      <address/>
+      <city/>
+      <dob>1997-10-12</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474618613</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>12</day>
+      <month>10</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>bán hàng</title>
+      <experience>7</experience>
+      <category>17,29,35</category>
+      <type>2,6</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill>Biết ăn nói</skill>
+      <ui>3425</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Đơn giãn và hiền hòa</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>156,305,262,124,311</strjo>
+  </appliedjob>
+  <education>
+    <n_558>
+      <id>558</id>
+      <school>Đại học Nguyễn Tất Thành</school>
+      <degrees/>
+      <fieldofstudy>dược</fieldofstudy>
+      <from>2016</from>
+      <to>2021</to>
+    </n_558>
+  </education>
+  <savedjob>
+    <total>3</total>
+    <strjo>124,100,262</strjo>
+  </savedjob>
+</information>

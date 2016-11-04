@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4522</id>
+      <email>tamthao.ngn@gmail.com</email>
+      <username/>
+      <name>Nguyễn Bùi Tâm Thảo</name>
+      <im>1475246869_nguyen-bui-tam-thao.png</im>
+      <gender>0</gender>
+      <phone>0932128133</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475246868</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên</title>
+      <experience>1</experience>
+      <category>35,36</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Customer Service, Food and Beverage, Teamwork, Communication skills, Problem - solving</skill>
+      <ui>4522</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>318</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>318</strjo>
+  </savedjob>
+</information>

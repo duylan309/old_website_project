@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>554</id>
+      <email>ndbtram2211@gmail.com</email>
+      <username/>
+      <name>Nguyễn Dạ Bích Trâm</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01208573740</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470473972</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế, thu ngân</title>
+      <experience>7</experience>
+      <category>14,15,17,27,29,31</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Nhanh nhẹn. Giao tiếp tiếp. Chịu học hỏi. Sinh viên trường Du lịch Sài Gòn khoa Nhà hàng - Khách sạn.</skill>
+      <ui>554</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>107,82</strjo>
+  </appliedjob>
+</information>

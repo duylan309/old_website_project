@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4868</id>
+      <email>helianthus128@gmail.com</email>
+      <username/>
+      <name>Lê Khánh Linh</name>
+      <im>4868_14212074-1142926239088645-1881042569687711100-n.jpg</im>
+      <gender>2</gender>
+      <phone>01265402143</phone>
+      <address>102/9 Trần Khắc Chân Q.1 P.Tân Định</address>
+      <city>30</city>
+      <dob>1995-8-12</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475558662</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1475558662</last_signin>
+      <day>12</day>
+      <month>8</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.794953</lat>
+      <lng>106.691171</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>4868</ui>
+      <title>Nhân viên phục vụ, nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>29,35</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <about>Có khiếu thẩm mỹ tốt, tinh tế, tác phong lịch sự, nhẹ nhàng, điềm tĩnh</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <savedjob>
+    <total>3</total>
+    <strjo>301,202,460</strjo>
+  </savedjob>
+  <experience>
+    <n_1233>
+      <id>1233</id>
+      <title>Waitress</title>
+      <level>1</level>
+      <cmpname>agata.Japan Cafe</cmpname>
+      <city/>
+      <country/>
+      <from>6/2016</from>
+      <to>9/2016</to>
+    </n_1233>
+    <n_1234>
+      <id>1234</id>
+      <title>Sale assistant</title>
+      <level>1</level>
+      <cmpname>The Stone Home VN</cmpname>
+      <city/>
+      <country/>
+      <from>1/2016</from>
+      <to>5/2016</to>
+    </n_1234>
+  </experience>
+  <appliedjob>
+    <total>4</total>
+    <strjo>253,275,107,285</strjo>
+  </appliedjob>
+</information>

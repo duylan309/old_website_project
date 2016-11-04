@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7749</id>
+      <email>huynhdangloi91@gmai.com</email>
+      <username/>
+      <name>Huỳnh Đặng Lợi</name>
+      <im>1181052698607748_huynh-dang-loi.jpg</im>
+      <gender>1</gender>
+      <dob>1991-7-5</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477420391</created>
+      <day>5</day>
+      <month>7</month>
+      <year>1991</year>
+      <last_signin>1477420391</last_signin>
+      <phone>01212410122</phone>
+      <address>464/14 hoà hảo phường 5 quận 10 </address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.761232</lat>
+      <lng>106.6658018</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>7749</ui>
+      <title>Phụ bếp</title>
+      <experience>7</experience>
+      <category>14</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Chịu khó. Siêng năng. Vui vẻ . Hoà đồng</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>451,470,443</strjo>
+  </appliedjob>
+</information>

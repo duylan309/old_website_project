@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5124</id>
+      <email>rain_winter96@yahoo.com</email>
+      <username/>
+      <name>Tuyến Huỳnh</name>
+      <im>1177119482355017_tuyen-huynh.jpg</im>
+      <gender>2</gender>
+      <dob>1996-3-15</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475745470</created>
+      <day>15</day>
+      <month>3</month>
+      <year>1996</year>
+      <phone>01882103175</phone>
+      <address>750/17a điện biên phủ, p10 quận 10</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8026579</lat>
+      <lng>106.713725</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,35</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill></skill>
+      <ui>5124</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Sinh viên đại học Công nghiệp thực phầm</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>351</strjo>
+  </appliedjob>
+</information>

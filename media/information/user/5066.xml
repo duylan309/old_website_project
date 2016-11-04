@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5066</id>
+      <email>my.tth0411@gmail.com</email>
+      <username/>
+      <name>Trần Thị Hoài My</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01675584385</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475689273</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên pha chế</title>
+      <experience>2</experience>
+      <category>26</category>
+      <type>5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>5066</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>332</strjo>
+  </appliedjob>
+</information>

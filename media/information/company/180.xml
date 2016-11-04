@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>180</id>
+    <ui>1</ui>
+    <name>ABC</name>
+    <url></url>
+    <im></im>
+    <category>14</category>
+    <phone>0916900095</phone>
+    <address>97/1 Le Quang Dinh</address>
+    <city>30</city>
+    <website></website>
+    <skype></skype>
+    <facebook></facebook>
+    <size>2</size>
+    <status>0</status>
+    <dayleft>0</dayleft>
+    <jobleft>0</jobleft>
+    <signupby></signupby>
+    <token></token>
+    <fb_load_newfeed>0</fb_load_newfeed>
+    <fb_load_photo>0</fb_load_photo>
+    <created>1464178726</created>
+    <deactive>0</deactive>
+  </db>
+  <more>
+    <whyworkus>Work with us</whyworkus>
+    <about>Work with us About Us</about>
+  </more>
+</information>

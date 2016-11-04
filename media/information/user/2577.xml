@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2577</id>
+      <email>adai.nguyen.163@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Anh Đài</name>
+      <im>2577_beautyplus-20160907202318-save.jpg</im>
+      <gender>2</gender>
+      <phone>0933180941</phone>
+      <address>41/5/35 Sư Vạn Hạnh P3 Q10 Tp.HCM</address>
+      <city>30</city>
+      <dob>1990-3-16</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473682748</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>16</day>
+      <month>3</month>
+      <year>1990</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7764745</lat>
+      <lng>106.7008831</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân Viên Pha Chế</title>
+      <experience>3</experience>
+      <category>15,29</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Thu Ngân, Nhân Viên Phục Vụ</skill>
+      <ui>2577</ui>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>Đam mê và có kiến thức về Pha chế.&#13;
+Vui vẻ, siêng năng, luôn học hỏi trao dồi bản thân.&#13;
+Hơn 3 năm làm việc tại Highlands Coffee.&#13;
+</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>10</total>
+    <strjo>201,286,222,64,305,332,132,252,208,294</strjo>
+  </appliedjob>
+  <experience>
+    <n_580>
+      <id>580</id>
+      <title>Pha chế, Thu Ngân, Phục Vu</title>
+      <level>1</level>
+      <cmpname>Highlands Coffee</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>5/6/2013</from>
+      <to>2016</to>
+    </n_580>
+  </experience>
+</information>

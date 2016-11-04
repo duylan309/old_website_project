@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>532</id>
+      <email>thienthan_nhinhanh54@yahoo.com</email>
+      <username/>
+      <name>Băng Trương</name>
+      <im>1961811137378498_bang-truong.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470411156</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>phục vụ</title>
+      <experience>3</experience>
+      <category>14,29</category>
+      <type>1,4</type>
+      <level>4</level>
+      <lang>vi,en</lang>
+      <skill>Kỹ năng quản lý, làm việc độc lập , làm việc nhóm, vui vẻ hòa đồng , trung thực trong công việc </skill>
+      <ui>532</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>120</strjo>
+  </appliedjob>
+</information>

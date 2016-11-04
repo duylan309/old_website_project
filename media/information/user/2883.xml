@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2883</id>
+      <email>xuannha1997@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Xuân Nhã</name>
+      <im>1474047460_nguyen-thi-xuan-nha.png</im>
+      <gender>2</gender>
+      <phone>01683077014</phone>
+      <address>5B Phùng Khắc Khoan, p Đakao, quận 1</address>
+      <city>30</city>
+      <dob>1997-3-4</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474047460</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>4</day>
+      <month>3</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7855749</lat>
+      <lng>106.6968462</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phụ bếp, phục vụ bàn</title>
+      <experience>7</experience>
+      <category>14,15</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill></skill>
+      <ui>2883</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Em đang theo học năm 2 ngành quản trị nhà hàng và dịch vụ ăn uống tại trường đại học Hutech. Em là người hoà đồng, đam mê với công việc, và luôn luôn học hỏi.</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>238</strjo>
+  </appliedjob>
+  <education>
+    <n_472>
+      <id>472</id>
+      <school>Đại học Hutech</school>
+      <degrees>Đang theo học </degrees>
+      <fieldofstudy>Quản trị nhà hàng và dịch vụ ăn uống</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_472>
+  </education>
+</information>

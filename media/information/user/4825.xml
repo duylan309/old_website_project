@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4825</id>
+      <email>1557010136nga@ou.edu.vn</email>
+      <username/>
+      <name>Đoàn Hồng Nga</name>
+      <im>1475510163_doan-hong-nga.png</im>
+      <gender>2</gender>
+      <phone>01292997902</phone>
+      <address>710/11A Huỳnh Tấn Phát, phường Tân Phú, quận 7</address>
+      <city>30</city>
+      <dob>1997-11-23</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475510163</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>23</day>
+      <month>11</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7296689</lat>
+      <lng>106.7324552</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15,35</category>
+      <type>5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Kỹ năng làm việc nhóm&#13;
+Kỹ năng giao tiếp khách hàng (người nước ngoài)&#13;
+</skill>
+      <ui>4825</ui>
+      <s1>1500000</s1>
+      <salary>1</salary>
+      <about>Tôi đánh giá bản thân là một người năng động, dễ dàng hòa nhập với môi trường và mọi người. Luôn cố gắng hoàn thành công việc và nhiệm vụ được giao. Có thể tham gia các hoạt động một cách tích cực, có tinh thần làm việc nhóm tốt.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>222,150</strjo>
+  </appliedjob>
+  <education>
+    <n_806>
+      <id>806</id>
+      <school>Đại học Mở thành phố Hồ Chí Minh</school>
+      <degrees>12/12, đang học Đại học</degrees>
+      <fieldofstudy>Tiếng Anh thương mại</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_806>
+  </education>
+  <savedjob/>
+</information>

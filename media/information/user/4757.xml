@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4757</id>
+      <email>thuyduyen2797@gmail.com</email>
+      <username/>
+      <name>Đinh Nguyễn Thùy Duyên</name>
+      <im>1201960343210542_thuy-duyenn.jpg</im>
+      <gender>2</gender>
+      <dob>1997-1-27</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475479949</created>
+      <day>27</day>
+      <month>1</month>
+      <year>1997</year>
+      <last_signin>1475479949</last_signin>
+      <phone>0938731052</phone>
+      <address>82/2D huỳnh văn nghệ phường 15 tân bình</address>
+      <country>vn</country>
+      <city></city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>4757</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>7</experience>
+      <category>14,15,17,18,20,26,27,28,29,30,31,35,36</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>1200000</s1>
+      <salary>1</salary>
+      <about>Sinh viên trường đại học nguyễn tất thành&#13;
+Có một chút kiến thức về tiếng anh&#13;
+Đang theo học chuyên ngành dược sĩ&#13;
+Nhanh nhẹn ham học hỏi, thích nghi nhanh với môi trường làm việc&#13;
+</about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

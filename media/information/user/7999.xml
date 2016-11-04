@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7999</id>
+      <email>chihiroaoi1996@gmail.com</email>
+      <username/>
+      <name>Chihiro Aoi</name>
+      <im>707491529413401_chihiro-aoi.jpg</im>
+      <gender>2</gender>
+      <dob>1996-11-4</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477579651</created>
+      <day>4</day>
+      <month>11</month>
+      <year>1996</year>
+      <phone>0927441030</phone>
+      <address>phạm văn chiêu p14 q gò vấp</address>
+      <country>vn</country>
+      <city/>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>7999</ui>
+      <title>Phục vụ nữ</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>6</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>372</strjo>
+  </appliedjob>
+</information>

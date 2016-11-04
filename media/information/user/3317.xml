@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3317</id>
+      <email>thanhhangnl90@gmail.com</email>
+      <username/>
+      <name>NGUYỄN LÊ THANH HẰNG</name>
+      <im>1474525482_nguyen-le-thanh-hang.png</im>
+      <gender>0</gender>
+      <phone>01266727279</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474525482</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Quản ly</title>
+      <experience>3</experience>
+      <category>14,17,35</category>
+      <type>1</type>
+      <level>3,5</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>3317</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>166</strjo>
+  </appliedjob>
+  <experience>
+    <n_740>
+      <id>740</id>
+      <title>Cửa hàng trưởng</title>
+      <level>1</level>
+      <cmpname>Autogrill vff f&amp;b sân bay Tân Sơn Nhất</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>5/2014</from>
+      <to>8/2016</to>
+    </n_740>
+  </experience>
+</information>

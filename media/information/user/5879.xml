@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5879</id>
+      <email>canhnguyen100595@gmail.com</email>
+      <username/>
+      <name>Nguyễn Hữu Cảnh</name>
+      <im>679177342235917_canh-nguyen.jpg</im>
+      <gender>1</gender>
+      <dob>1995-5-10</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476248666</created>
+      <day>10</day>
+      <month>5</month>
+      <year>1995</year>
+      <phone>0907212000</phone>
+      <address>385A Điện Biên Phủ, phường 25, quận Bình Thạnh</address>
+      <country>vn</country>
+      <city/>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Tất cả việc partime</title>
+      <experience>1</experience>
+      <category>14,15,16,17,18,19,20,26,27,28,29,30,31,35</category>
+      <type>4,5,6</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill>Kỹ năng làm việc nhóm&#13;
+Kỹ năng giải quyết tình huống&#13;
+Kỹ năng giao tiếp&#13;
+Kỹ năng lắng nghe&#13;
+Kỹ năng đàm phán&#13;
+Kỹ năng sử dụng thành thạo word, excel, powerpoint</skill>
+      <ui>5879</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>13</total>
+    <strjo>395,219,140,301,427,348,435,350,410,275,154,419,436</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>2</total>
+    <strjo>395,427</strjo>
+  </savedjob>
+  <experience>
+    <n_1193>
+      <id>1193</id>
+      <title>Phục vụ</title>
+      <level>1</level>
+      <cmpname>Red Sun</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>27/6/2016</from>
+      <to>Hiện tại</to>
+    </n_1193>
+  </experience>
+  <education>
+    <n_976>
+      <id>976</id>
+      <school>Trung học phổ thông Tân Quới A</school>
+      <degrees>12/12</degrees>
+      <fieldofstudy/>
+      <from>2012</from>
+      <to>2014</to>
+    </n_976>
+  </education>
+</information>

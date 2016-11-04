@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5319</id>
+      <email>lanhkute28@gmail.com</email>
+      <username/>
+      <name>Timmy Lành</name>
+      <im>804157999726428_timmy-lanh.jpg</im>
+      <gender>2</gender>
+      <dob>1993-11-28</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475901263</created>
+      <day>28</day>
+      <month>11</month>
+      <year>1993</year>
+      <phone>01645643068</phone>
+      <address>540 Ngô Gia Tự, phường 9, quận 5</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7581671</lat>
+      <lng>106.6672854</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ tại Slow&amp;Chill  Nguyễn Huệ</title>
+      <experience>7</experience>
+      <category>14,15,17</category>
+      <type>2,6</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill> giao tiếp tốt,  chịu được áp lực công việc</skill>
+      <ui>5319</ui>
+      <s1>15000</s1>
+      <salary>1</salary>
+      <about>chăm chỉ, vui vẻ, hòa đồng, làm việc nhóm tốt</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>371</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>214</id>
+    <ui>1557</ui>
+    <ci>296</ci>
+    <ai>0</ai>
+    <ti>Nhân Viên Bán Hàng</ti>
+    <ta/>
+    <le>2</le>
+    <ty>2</ty>
+    <ex>7</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>15000</s1>
+    <s2>18000</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>35</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>119</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-09-29</de>
+    <re>0000-00-00</re>
+    <cr>1472532648</cr>
+  </db>
+  <more>
+    <requirement>+ Tuổi từ 18 - 30&#13;
++ Năng động, giao tiếp linh hoạt&#13;
++ Tác phong gọn gàng&#13;
++ Yêu thích công việc bán hàng, phục vụ&#13;
+</requirement>
+    <description>+ Có mặt tại điểm bán hàng lúc 4h30 sáng&#13;
++ Chuẩn bị nguyên liệu, sản phẩm theo công thức có sẵn&#13;
++ Bán hàng tại cửa hàng hoặc tại địa điểm được phân công&#13;
++ Vệ sinh, dọn dẹp cửa hàng&#13;
++ Làm việc cùng với nhóm 3-6 người, có nhóm trưởng hướng dẫn công việc</description>
+    <benefit>+ Được nghỉ ngày chủ nhật, các ngày Lễ, Tết&#13;
++ Tổ chức sinh nhật cho NV hàng tháng&#13;
++ Kết nối với nhau trong các chương trình Team Building, du lịch hàng năm &#13;
++ Có nhiều cơ hội phát triển lên các cấp: Tổ Trưởng, Giám Sát, Quản Lý. Chỉ cần bạn có năng lực.</benefit>
+    <keyword>Tự tin,Tinh thần làm việc nhóm</keyword>
+  </more>
+  <userapplied>
+    <total>14</total>
+    <strui>1670,2723,2757,2994,3242,3487,3580,3789,3900,3940,3572,4390,4687,5656</strui>
+  </userapplied>
+</information>

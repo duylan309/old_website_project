@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7328</id>
+      <email>Minhhanhsgu@gmail.com</email>
+      <username/>
+      <name>Lương Thị Minh Hạnh</name>
+      <im>1477164644_luong-thi-minh-hanh.png</im>
+      <gender>0</gender>
+      <phone>0935597874</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477164644</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Thu ngân, trợ lý cửa hàng trưởng.</title>
+      <experience>1</experience>
+      <category>14,15,17,31,35</category>
+      <type>2,5,6</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <skill>Khả năng giao tiếp tốt,  kiểm soát được công việc...</skill>
+      <ui>7328</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>107</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6192</id>
+      <email>tochau3993@gmail.com</email>
+      <username/>
+      <name>Tô châu</name>
+      <im>1476419248_to-chau.png</im>
+      <gender>2</gender>
+      <phone>0981857642</phone>
+      <address>63,thân nhân trung,p13,q tân bình</address>
+      <city>30</city>
+      <dob>1993-9-3</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476419248</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>3</day>
+      <month>9</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.804034</lat>
+      <lng>106.642311</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>15,17,31</category>
+      <type>2,4,5</type>
+      <level>2</level>
+      <lang>vi,ch</lang>
+      <skill></skill>
+      <ui>6192</ui>
+      <s1>3000</s1>
+      <salary>1</salary>
+      <about>Từng học trung cấp dược hà nội&#13;
+Làm nhân viên kho cty đèn led</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>165</strjo>
+  </appliedjob>
+  <education>
+    <n_1024>
+      <id>1024</id>
+      <school>Trung cấp y dược lê hữu trác</school>
+      <degrees>Trung cấp chuyên nghiệp</degrees>
+      <fieldofstudy>Dược sĩ trung cấp</fieldofstudy>
+      <from>2012</from>
+      <to>2014</to>
+    </n_1024>
+  </education>
+</information>

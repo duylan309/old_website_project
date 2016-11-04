@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>694</id>
+      <email>chau.phannguyen@gmail.com</email>
+      <username/>
+      <name>Phan Nguyễn Ngọc Châu</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0909195442</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470883876</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên kế toán</title>
+      <experience>2</experience>
+      <category>29</category>
+      <type>6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>694</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>149</strjo>
+  </appliedjob>
+</information>

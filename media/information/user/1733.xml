@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1733</id>
+      <email>duonghaipham.1105@gmail.com</email>
+      <username/>
+      <name>Phạm Dương Hải</name>
+      <im>1733_rsz-mg-0325-1.jpg</im>
+      <gender>1</gender>
+      <phone>01269900568</phone>
+      <address>549/14/5 Xô Viết Nghệ Tĩnh P26 quận Bình Thạnh</address>
+      <city>30</city>
+      <dob>1993-5-11</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472832460</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>11</day>
+      <month>5</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.795246</lat>
+      <lng>106.710492</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, Kĩ sư Cơ khí</title>
+      <experience>7</experience>
+      <category>14,15,17</category>
+      <type>1,2,6</type>
+      <level>2</level>
+      <lang>en</lang>
+      <skill>Làm việc nhóm. Siêng năng. Chăm chỉ</skill>
+      <ui>1733</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword/>
+      <about/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>172,267,241,105,176,202</strjo>
+  </appliedjob>
+</information>

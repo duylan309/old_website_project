@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1503</id>
+      <email>Tranhuuquoc2512@gmail.com</email>
+      <username/>
+      <name>Trần Hữu Quốc</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0962451428</phone>
+      <address>245 Âu Cơ  phường 5 quận 11</address>
+      <city>30</city>
+      <dob>1994-12-25</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472432922</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>25</day>
+      <month>12</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.774162</lat>
+      <lng>106.648067</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phụ bếp, pha chế</title>
+      <experience>7</experience>
+      <category>14,15,20</category>
+      <type>1,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Kỹ năng giao tiếp tốt và thích ứng tốt với văn hoá của công ty </skill>
+      <ui>1503</ui>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <keyword>Trung thực,Chịu được áp lực công việc,Tinh thần làm việc nhóm,Nhiệt tình,Tự tin,Kỹ năng giải quyết tình huống,Giao tiếp hiệu quả,Tinh thần trách nhiệm,Tập trung trong công việc</keyword>
+      <about>Điểm hạn chế là bộ đội xuất ngũ kinh nghiệm còn hạn chế &#13;
+Điểm mạnh là đã từng làm việc trong môi trường bếp và các môi trường khác nhau và yêu thích ngành dịch vụ </about>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>8</total>
+    <strjo>153,193,294,200,276,318,222,201</strjo>
+  </appliedjob>
+</information>

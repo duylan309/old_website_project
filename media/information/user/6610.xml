@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6610</id>
+      <email>tranuyen9a9@gmail.com</email>
+      <username/>
+      <name>Trần Phương Uyên</name>
+      <im>1476721353_tran-phuong-uyen.png</im>
+      <gender>1</gender>
+      <phone>01647420507</phone>
+      <address>246/56A Hòa Hưng, Phường 12, Quận 10</address>
+      <city>30</city>
+      <dob>1996-9-7</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476721352</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>7</day>
+      <month>9</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.778992</lat>
+      <lng>106.671287</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, Pha chế, Barista, Cashier,...</title>
+      <experience>7</experience>
+      <category>14,15,17,26,27,29,31,35,36</category>
+      <type>2,3,4,5,6</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill>Đã phụ bạn bán quán ăn được một thời gian đến khi gia đình bạn tìm được người phụ việc chính thức thì nghỉ.</skill>
+      <ui>6610</ui>
+      <s1>18000</s1>
+      <salary>1</salary>
+      <about>Là một Xử Nữ theo chủ nghĩa hoàn hảo, tỉ mỉ cẩn thận từng chút một.&#13;
+Là một bác sĩ tương lai hết mình vì người bệnh.&#13;
+Mình muốn tìm một công việc phù hợp với lịch học của mình một phần giúp ba mẹ tiền học, một phần muốn giao tiếp với mọi người nhiều hơn, muốn tích lũy thêm kinh nghiệm cho bản thân.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>193,219,323,537,427,201</strjo>
+  </appliedjob>
+  <education>
+    <n_1084>
+      <id>1084</id>
+      <school/>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Y đa khoa</fieldofstudy>
+      <from>2014</from>
+      <to>2020</to>
+    </n_1084>
+  </education>
+</information>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3625</id>
+      <email>thiennguyen305266@gmail.com</email>
+      <username/>
+      <name>NGUYỄN THỊ THIÊN HƯƠNG</name>
+      <im>1474721189_nguyen-thi-thien-huong.png</im>
+      <gender>2</gender>
+      <phone>01694605538</phone>
+      <address>199/24/22A Lê Quang Định, phường 7, quận Bình Thạnh</address>
+      <city>30</city>
+      <dob>1994-6-26</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474721189</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>26</day>
+      <month>6</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.808327</lat>
+      <lng>106.693251</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ, pha chế</title>
+      <experience>1</experience>
+      <category>14,15,16,18,19,20</category>
+      <type>1,4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>kỹ năng giao tiếp, kỹ năng vi tính,kỹ năng quản lý thời gian</skill>
+      <ui>3625</ui>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>250</strjo>
+  </appliedjob>
+  <experience>
+    <n_803>
+      <id>803</id>
+      <title>barista</title>
+      <level>1</level>
+      <cmpname>Start Up cafe</cmpname>
+      <city>Hồ Chí MInh</city>
+      <country>Việt Nam</country>
+      <from>10/2014</from>
+      <to>1/2015</to>
+    </n_803>
+    <n_804>
+      <id>804</id>
+      <title>phục vụ, pha chế, phụ bếp</title>
+      <level>1</level>
+      <cmpname>Xúc Xắc Xoay coffee</cmpname>
+      <city>Hồ Chí MInh</city>
+      <country>Việt Nam</country>
+      <from>8/2013</from>
+      <to>8/2014</to>
+    </n_804>
+    <n_805>
+      <id>805</id>
+      <title>thực tập sinh, phục vụ</title>
+      <level>1</level>
+      <cmpname>Silver Creek City Resort</cmpname>
+      <city>Hồ Chí MInh</city>
+      <country>Việt Nam</country>
+      <from>3/2016</from>
+      <to>8/2016</to>
+    </n_805>
+  </experience>
+  <education>
+    <n_591>
+      <id>591</id>
+      <school>Đại học Công Nghệ TP.HCM</school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy>Quản trị nhà hàng và DVAU</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_591>
+  </education>
+</information>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4179</id>
+      <email>Tranngocchi1810@gmail.com</email>
+      <username/>
+      <name>TRẦN NGỌC CHI</name>
+      <im>4179_image.jpg</im>
+      <gender>0</gender>
+      <phone/>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474998460</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1474998460</last_signin>
+    </db>
+  </userinfo>
+  <experience>
+    <n_885>
+      <id>885</id>
+      <title>Captain</title>
+      <level>1</level>
+      <cmpname>Moo Beef Steak</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>05/2015</from>
+      <to>Nay</to>
+    </n_885>
+  </experience>
+  <education>
+    <n_670>
+      <id>670</id>
+      <school>Saigontourist Hospitality College</school>
+      <degrees>Trung cấp chuyên nghiệp</degrees>
+      <fieldofstudy>Hotel Management</fieldofstudy>
+      <from>10/2014</from>
+      <to>10/2016</to>
+    </n_670>
+  </education>
+  <savedjob>
+    <total>4</total>
+    <strjo>240,199,140,79</strjo>
+  </savedjob>
+</information>

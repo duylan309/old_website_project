@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1772</id>
+      <email>littlegirl_stupid_lk@yahoo.com</email>
+      <username/>
+      <name>Mai Vân</name>
+      <im>585930501609254_mai-van.jpg</im>
+      <gender>2</gender>
+      <dob>1998-2-5</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472907834</created>
+      <day>5</day>
+      <month>2</month>
+      <year>1998</year>
+      <last_signin>1472907834</last_signin>
+      <phone>0973028032</phone>
+      <address>149/50 khu phố 1 đường hùng vương thị xã long khánh tỉnh đồng nai</address>
+      <country>vn</country>
+      <city>19</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Đồng Nai</city_text_vi>
+      <city_text_en>Dong Nai</city_text_en>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>1772</ui>
+      <title>Sinh viên</title>
+      <experience>7</experience>
+      <category>35</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>3</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>154</strjo>
+  </appliedjob>
+</information>

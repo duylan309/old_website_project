@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1255</id>
+      <email>truonghien232@gmail.com</email>
+      <username/>
+      <name>Truong Hien</name>
+      <im>716609588477160_truong-hien.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472013207</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <savedjob>
+    <total>1</total>
+    <strjo>181</strjo>
+  </savedjob>
+</information>

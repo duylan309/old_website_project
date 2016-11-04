@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3222</id>
+      <email>Nghoangthanh@gmail.com</email>
+      <username/>
+      <name>Nguyen hoang thanh</name>
+      <im/>
+      <gender>1</gender>
+      <phone>01205469973</phone>
+      <address>Duong cong quynh quan 1</address>
+      <city>30</city>
+      <dob>1996-5-29</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474432863</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1474432863</last_signin>
+      <day>29</day>
+      <month>5</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7667249</lat>
+      <lng>106.6882406</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_722>
+      <id>722</id>
+      <title>Nhan vien</title>
+      <level>1</level>
+      <cmpname>Khach san dai nam</cmpname>
+      <city>Ho chi minh</city>
+      <country>Viet nam</country>
+      <from>2013</from>
+      <to>2016</to>
+    </n_722>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>3222</ui>
+      <title>Phu bep</title>
+      <experience>7</experience>
+      <category>14,15</category>
+      <type>3,4,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Toi la nguoi rat co trach nhiem trong cong viec va co tinh than hoc hoi cau tien.</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>12</total>
+    <strjo>139,188,193,276,191,114,233,183,182,236,153,128</strjo>
+  </appliedjob>
+</information>

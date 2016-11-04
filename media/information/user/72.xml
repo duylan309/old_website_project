@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>72</id>
+      <email>sumesh.peringeth@gmail.com</email>
+      <username/>
+      <name>Sumesh Peringeth</name>
+      <im>72_dat.jpg</im>
+      <gender>1</gender>
+      <category/>
+      <phone>0903309540</phone>
+      <address>26 Ly Tu Trong</address>
+      <city>30</city>
+      <dob>1977-09-09</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1460478394</created>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>72</ui>
+      <title></title>
+      <category>14,15</category>
+      <type>1</type>
+      <level>1</level>
+      <experience>1</experience>
+      <location>30</location>
+      <lang>vi,en,ja</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <skill>Sleeping</skill>
+      <s2>227.27272727273</s2>
+    </db>
+  </user_cv>
+  <savedjob>
+    <total>1</total>
+    <strjo>20</strjo>
+  </savedjob>
+  <appliedjob>
+    <total>2</total>
+    <strjo>20,21</strjo>
+  </appliedjob>
+</information>

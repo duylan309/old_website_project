@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6862</id>
+      <email>bi12392@yahoo.com</email>
+      <username/>
+      <name>Đõ Hoàng Dung</name>
+      <im>1476892305_do-hoang-dung.png</im>
+      <gender>0</gender>
+      <phone>01227776802</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476892305</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên pha chế</title>
+      <experience>2</experience>
+      <category>15</category>
+      <type>1,4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>biết pha về những món sinh tố đá xay, matcha, cookies, smoothies,... </skill>
+      <ui>6862</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>106</strjo>
+  </appliedjob>
+</information>

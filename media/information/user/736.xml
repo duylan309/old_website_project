@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>736</id>
+      <email>huytuan101095@gmail.com</email>
+      <username/>
+      <name>đỗ huy tuấn</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0984136871</phone>
+      <address>đương 61 quân 9 </address>
+      <city>30</city>
+      <dob>1995-10-10</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470974287</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <day>10</day>
+      <month>10</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8311458</lat>
+      <lng>106.7706111</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>736</ui>
+      <title>phụ bếp</title>
+      <experience>1</experience>
+      <category>14,19,36</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

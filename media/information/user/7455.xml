@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7455</id>
+      <email>phamngocha.951@gmail.com</email>
+      <username/>
+      <name>Hà Phạm</name>
+      <im>316266392089496_ha-pham.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477273587</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phạm Thị Ngọc Hà</title>
+      <experience>1</experience>
+      <category>14,27,29,35</category>
+      <type>5,6</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>7455</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>498</strjo>
+  </appliedjob>
+</information>

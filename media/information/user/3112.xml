@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3112</id>
+      <email>Thanhlong@asianrubyhotel.com</email>
+      <username/>
+      <name>Phạm Thanh Long</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0908345978</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1474289059</created>
+      <dayleft>1479473059</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1474289059</last_signin>
+      <jobleft>3</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>2</total>
+    <strji>301,324</strji>
+  </totalJob>
+  <saveuser>
+    <total>88</total>
+    <strui>1480,940,3172,3177,3218,3209,292,3353,2332,3452,3451,2337,3476,3474,3450,3633,3635,3689,3767,3768,3773,3079,3834,3950,3954,3908,4119,4135,4205,3315,3405,4312,4338,4331,4345,4360,4372,4391,4415,4203,4472,4590,4601,3657,4566,4728,4738,4853,4898,4948,3668,4900,4679,1605,5256,4639,5310,2995,5460,5500,5580,5647,4833,5696,5819,5879,5987,5778,6056,6207,6214,5828,6244,6377,6416,6061,6500,6499,6513,6638,6779,6761,6837,6838,1315,7283,7832,7891</strui>
+  </saveuser>
+</information>

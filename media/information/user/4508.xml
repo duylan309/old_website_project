@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4508</id>
+      <email>thuhang.cofer@gmail.com</email>
+      <username/>
+      <name>Thu Hằng</name>
+      <im>2141576672734948_thu-hang.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475240359</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+      <last_signin>1475240359</last_signin>
+    </db>
+  </userinfo>
+  <education>
+    <n_741>
+      <id>741</id>
+      <school>Cao Đẳng Kinh Tế Đối Ngoại</school>
+      <degrees>Cao Đẳng</degrees>
+      <fieldofstudy>Tiếng Anh Thương Mại</fieldofstudy>
+      <from>2013</from>
+      <to>2016</to>
+    </n_741>
+  </education>
+</information>

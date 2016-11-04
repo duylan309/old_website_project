@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2572</id>
+      <email>ruacon1324@yahoo.com</email>
+      <username/>
+      <name>Trang Nguyễn</name>
+      <im>1173691369368682_trang-nguyen.jpg</im>
+      <gender>2</gender>
+      <dob>1994-6-15</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473675616</created>
+      <day>15</day>
+      <month>6</month>
+      <year>1994</year>
+      <last_signin>1473675616</last_signin>
+      <phone>0168 558 3674</phone>
+      <address>Quận 8</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7240878</lat>
+      <lng>106.6286259</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>2572</ui>
+      <title>Nhân viên</title>
+      <experience>1</experience>
+      <category>26</category>
+      <type>1</type>
+      <level>1,2</level>
+      <lang>vi</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Hi everyone</about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

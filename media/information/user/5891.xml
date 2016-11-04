@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5891</id>
+      <email>maiducthinh1122@gmail.com</email>
+      <username/>
+      <name>Mai Đức Thịnh</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0905196537</phone>
+      <address>159/50b Xóm Chiếu ,Phường 16 , Quận 4</address>
+      <city>30</city>
+      <dob>1996-10-12</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476254540</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476254540</last_signin>
+      <day>12</day>
+      <month>10</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.755598</lat>
+      <lng>106.709937</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1197>
+      <id>1197</id>
+      <title>Nhân viên bán thời gian</title>
+      <level>1</level>
+      <cmpname>BAR’sBar ( Lor )</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2013</from>
+      <to>đến nay</to>
+    </n_1197>
+    <n_1198>
+      <id>1198</id>
+      <title>Nhân viên pha chế</title>
+      <level>1</level>
+      <cmpname>G Coffee</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>3/2016</from>
+      <to>8/2016</to>
+    </n_1198>
+  </experience>
+  <education>
+    <n_980>
+      <id>980</id>
+      <school>Thang Long School</school>
+      <degrees>Hospitality </degrees>
+      <fieldofstudy>Nghiệp Vụ Nhà Hàng</fieldofstudy>
+      <from>7/2013</from>
+      <to>7/2014</to>
+    </n_980>
+  </education>
+  <user_cv>
+    <db>
+      <ui>5891</ui>
+      <title>Nhân viên pha chế cà phê</title>
+      <experience>1</experience>
+      <category>14,15,17,26,31,35</category>
+      <type>1,2,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <about>Áp dụng những kinh nghiệm về kỹ năng pha chế để trở thành một Barista chuyên nghiệp . </about>
+      <skill>Nghiệp vụ nhà hàng , khách sạn&#13;
+Sử dụng thành thạo tin học văn phòng</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>332,274</strjo>
+  </appliedjob>
+</information>

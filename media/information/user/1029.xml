@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1029</id>
+      <email>phamvu2719@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Tuyết Ngân</name>
+      <im>327431380930269_bigbaby-nguyen.jpg</im>
+      <gender>2</gender>
+      <dob>1997-1-23</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471611229</created>
+      <day>23</day>
+      <month>1</month>
+      <year>1997</year>
+      <phone>0987396188</phone>
+      <address>824 huỳnh tấn phát tân phú quận 7</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7312816</lat>
+      <lng>106.7317884</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>1029</ui>
+      <title>Thu ngân, Pha chế</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>14000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Giao tiếp hiệu quả,Chịu được áp lực công việc,Trung thực,Nhiệt tình</keyword>
+      <about/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>8</total>
+    <strjo>107,222,201,208,169,266,293,312</strjo>
+  </appliedjob>
+  <experience>
+    <n_596>
+      <id>596</id>
+      <title>barista</title>
+      <level>1</level>
+      <cmpname>let’s coffee and food</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>03/2016</from>
+      <to>08/2016</to>
+    </n_596>
+  </experience>
+  <education>
+    <n_427>
+      <id>427</id>
+      <school>Đại  học Tôn Đức Thắng</school>
+      <degrees/>
+      <fieldofstudy>Kinh Doanh Quốc Tế</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_427>
+  </education>
+</information>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>340</id>
+    <ui>3949</ui>
+    <ci>358</ci>
+    <ai>0</ai>
+    <ti>Waiter/Waitress</ti>
+    <ta/>
+    <le>1,2</le>
+    <ty>1,3,4,6</ty>
+    <ex>1,2,7</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>5000000</s1>
+    <s2>8000000</s2>
+    <s3>227</s3>
+    <s4>363</s4>
+    <lo>30</lo>
+    <co>vn,for</co>
+    <ca>14,16</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>229</location_id>
+    <lat>10.773604</lat>
+    <lng>10.773604</lng>
+    <de>2016-10-26</de>
+    <re>0000-00-00</re>
+    <cr>1474900902</cr>
+  </db>
+  <more>
+    <requirement>• Accessible to beginners and those with a first experience in the field  &#13;
+• Vocational certificate in restaurant or café work or professional diploma in F&amp;B, restaurants  &#13;
+• Knowledge of HACCP regulations  &#13;
+• Languages: fluent in the national language and good spoken English</requirement>
+    <description>• Provides information for guests within his/her field of competence or directs them to the right person  &#13;
+• Remains polite and courteous at all times whatever customers may request  &#13;
+• Passes on any complaints to the supervisor and/or handles those concerning the restaurant immediately and sensibly, and keeps the supervisor informed  &#13;
+• Helps set up the meeting rooms and areas as required by the hotel, and helps clean and tidy areas and equipment used during his/her workshift  &#13;
+• Sets up catering at break times for seminars, in meeting rooms, for banquets, at breakfast, in the bar and prepares trays for room service as required by the hotel  &#13;
+• Keeps working areas clean  &#13;
+• Maintains the stocks of products available for guests</description>
+    <benefit>• Professional working environment &#13;
+• Attractive benefits that will be discuss directly during the interview</benefit>
+    <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Tinh thần trách nhiệm,Kỹ năng giải quyết tình huống,Tập trung trong công việc,Chịu được áp lực công việc,Tự tin,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+  </more>
+  <userapplied>
+    <total>36</total>
+    <strui>1569,425,4343,2786,4695,4724,4815,5005,5059,3509,5168,5222,5255,5356,5428,5460,5226,3123,5731,4615,6049,6243,4246,4303,6597,6638,6279,6718,4889,562,7212,7504,6272,7711,7342,739</strui>
+  </userapplied>
+</information>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5568</id>
+      <email>laneinguyen@gmail.com</email>
+      <username/>
+      <name>Nguyễn Hồng Lan</name>
+      <im>1806105422935407_lanei-nguyen.jpg</im>
+      <gender>2</gender>
+      <dob>1994-12-1</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476085859</created>
+      <day>1</day>
+      <month>12</month>
+      <year>1994</year>
+      <last_signin>1476085859</last_signin>
+      <phone>0934072734</phone>
+      <address>21/14 Đường Tân Mỹ, Q7, TPHCM</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>5568</ui>
+      <title>Nhân viên pha chế cà phê</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>4,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <about>Vui vẻ, hòa đồng, có trách nhiệm trong công việc và luôn cố gắng hoàn thành tốt mọi nhiệm vụ được giao.</about>
+      <skill>Có kỹ năng về bán hàng, thu ngân và pha chế. Biết thao tác trên máy coffee và vẽ latte art. </skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>323,126,248</strjo>
+  </appliedjob>
+</information>

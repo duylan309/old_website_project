@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>8079</id>
+      <email>nguyendinhthanhvan@gmail.com</email>
+      <username/>
+      <name>Nguyễn Đình Thanh Vân</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0919170317</phone>
+      <address>12 bis lầu 3 chung cư Bình Minh, Lương Định Của P.Bình An Q2</address>
+      <city>30</city>
+      <dob>1996-11-15</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477660831</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>15</day>
+      <month>11</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục vụ, pha chế</title>
+      <experience>1</experience>
+      <category>14,15,27,36</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en,fr</lang>
+      <skill/>
+      <ui>8079</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>348,349,509,488</strjo>
+  </appliedjob>
+  <experience>
+    <n_1568>
+      <id>1568</id>
+      <title>GSA</title>
+      <level>1</level>
+      <cmpname>BHD cineplex</cmpname>
+      <city>TH HCM</city>
+      <country>Việt Nam</country>
+      <from>2016</from>
+      <to>2016</to>
+    </n_1568>
+  </experience>
+  <education>
+    <n_1305>
+      <id>1305</id>
+      <school>Đại học Nguyễn Tất Thành</school>
+      <degrees/>
+      <fieldofstudy>Dược học</fieldofstudy>
+      <from>2014</from>
+      <to>2019</to>
+    </n_1305>
+  </education>
+</information>

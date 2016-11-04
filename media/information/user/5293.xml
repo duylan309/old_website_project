@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5293</id>
+      <email>phamxminh2611@gmail.com</email>
+      <username/>
+      <name>Phạm Xuân Minh</name>
+      <im>740036842814870_pham-xuan-minh.jpg</im>
+      <gender>2</gender>
+      <dob>1994-11-26</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475856502</created>
+      <day>26</day>
+      <month>11</month>
+      <year>1994</year>
+      <phone>0936773930</phone>
+      <address>542 Phạm Văn Đông, quận BÌnh Thạnh, Tp HCM</address>
+      <country>vn</country>
+      <city/>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên pha chế</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Team-work&#13;
+Communication&#13;
+Problem-solving</skill>
+      <ui>5293</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>323,105</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1698</id>
+      <email>phuonghong.nguyen2610@gmail.com</email>
+      <username/>
+      <name>Nguyễn Ngọc Phương Hồng</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01223398206</phone>
+      <address>20/16/21  mễ cốc phường 15 quận 8</address>
+      <city>30</city>
+      <dob>1998-6-26</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472786383</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>26</day>
+      <month>6</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7343612</lat>
+      <lng>106.6360205</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phụ bếp</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>1,4,5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>từng làm phụ bếp cho dịch dụ nấu ăn các đám tiệc tại nhà</skill>
+      <ui>1698</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>183,221,238,247,193</strjo>
+  </appliedjob>
+</information>

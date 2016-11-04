@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4497</id>
+      <email>duduny88@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Ngọc Ý</name>
+      <im>4497_img-20160811-164406.jpg</im>
+      <gender>2</gender>
+      <dob>1988-3-10</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475227517</created>
+      <day>10</day>
+      <month>3</month>
+      <year>1988</year>
+      <phone>0909738671</phone>
+      <address>606/1/10 hồ học lãm P.Binh Trị Đông B Q. Bình Tân</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7329037</lat>
+      <lng>106.6042962</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_948>
+      <id>948</id>
+      <title>nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>Đu Đủ shop</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>3/2013</from>
+      <to>hiện tại</to>
+    </n_948>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>4497</ui>
+      <title>nhân viên kinh doanh</title>
+      <experience>2</experience>
+      <category>35</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en,ja</lang>
+      <s1>7000000</s1>
+      <salary>1</salary>
+      <about>Trung thực. Siêng năng. Nhiệt tình trong công việc. Khả năng thích ứng với môi trường mới cao. Năng động. Tinh thần trách nhiệm cao. Sạch sẽ.</about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

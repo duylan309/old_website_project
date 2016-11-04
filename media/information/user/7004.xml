@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7004</id>
+      <email>thuchienmouoc@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Thu Thuỷ</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0961974819</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477006807</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>bán hàng</title>
+      <experience>7</experience>
+      <category>17</category>
+      <type>2</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill>Giọng nói rõ ràng, có khả năng tiếp phục người khác </skill>
+      <ui>7004</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>322,172,474,239</strjo>
+  </appliedjob>
+</information>

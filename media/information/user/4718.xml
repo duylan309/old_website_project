@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4718</id>
+      <email>tuonghoa2014@gmail.com</email>
+      <username/>
+      <name>Khánh Hòa</name>
+      <im>729082460579801_khanh-hoa.jpg</im>
+      <gender>2</gender>
+      <dob>1994-12-22</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475465917</created>
+      <day>22</day>
+      <month>12</month>
+      <year>1994</year>
+      <phone>0935448252</phone>
+      <address>414/9 tổ 27 khu phố 3 phường an phú quận 2</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7956243</lat>
+      <lng>106.7432357</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Word,Excel</skill>
+      <ui>4718</ui>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>Là một người có trách nhiệm và thật thà.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>262,338</strjo>
+  </appliedjob>
+</information>

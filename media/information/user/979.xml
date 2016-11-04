@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>979</id>
+      <email>nguyenkimhonggam2@gmail.com</email>
+      <username/>
+      <name>Hồng Gấm</name>
+      <im>640288746139688_hong-gam.jpg</im>
+      <gender>2</gender>
+      <dob>1997-9-6</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471527779</created>
+      <day>6</day>
+      <month>9</month>
+      <year>1997</year>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <phone>01882531383</phone>
+      <address>113/39l trần văn đang f.11 q.3</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.784849</lat>
+      <lng>106.672148</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_699>
+      <id>699</id>
+      <title>Cửa hàng trưởng</title>
+      <level>1</level>
+      <cmpname>Grammy fashion</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>07/2014</from>
+      <to>06/2016</to>
+    </n_699>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>979</ui>
+      <title>nhân viên bán hàng</title>
+      <experience>2</experience>
+      <category>35</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Học hỏi và hoàn thành tốt công việc </about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>219,64</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>365</id>
+    <ui>4419</ui>
+    <ci>368</ci>
+    <ai>0</ai>
+    <ti>Phụ Bếp Lành Nghề</ti>
+    <ta/>
+    <le>3</le>
+    <ty>4</ty>
+    <ex>2</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>4000000</s1>
+    <s2>4500000</s2>
+    <s3>181</s3>
+    <s4>204</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14,35</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description>Làm từ 3pm - 11pm mỗi ngày, tuần được nghỉ 1 ngày trừ thứ 7, CN\r\n- Chuẩn bị các nguyên liệu, các loại sốt theo công thức của bếp trưởng\r\n- Chuẩn bị các món ăn để phục vụ cho khách hàng theo sự giám sát của bếp trưởng\r\n- Khi đến giờ đóng cửa, sẽ cùng các thành viên dọn dẹp vệ sinh, thu gọn các đồ đạc ngăn nắp vào đúng vị trí để chuẩn bị cho ngày hôm sau. \r\n- Cần sự cẩn thận, vệ sinh, nhanh nhẹn và sự trung thực</description>
+    <requirement/>
+    <benefit>Sau khi thử việc 1 tháng với mức lương 4.000.000 VND, sẽ có cơ hội được tăng lương lên mức 5.000.000 VND tuỳ theo khả năng và hiệu quả công việc </benefit>
+    <keyword>bếp phó,việc làm,Trung thực,Nhiệt tình,Tập trung trong công việc,Tinh thần trách nhiệm</keyword>
+    <ad/>
+    <location_id>252</location_id>
+    <lat>10.773636</lat>
+    <lng>10.773636</lng>
+    <de>2016-10-29</de>
+    <re>0000-00-00</re>
+    <cr>1475134543</cr>
+  </db>
+  <more>
+    <requirement/>
+    <description>Làm từ 3pm - 11pm mỗi ngày, tuần được nghỉ 1 ngày trừ thứ 7, CN&#13;
+- Chuẩn bị các nguyên liệu, các loại sốt theo công thức của bếp trưởng&#13;
+- Chuẩn bị các món ăn để phục vụ cho khách hàng theo sự giám sát của bếp trưởng&#13;
+- Khi đến giờ đóng cửa, sẽ cùng các thành viên dọn dẹp vệ sinh, thu gọn các đồ đạc ngăn nắp vào đúng vị trí để chuẩn bị cho ngày hôm sau. &#13;
+- Cần sự cẩn thận, vệ sinh, nhanh nhẹn và sự trung thực</description>
+    <benefit>Sau khi thử việc 1 tháng với mức lương 4.000.000 VND, sẽ có cơ hội được tăng lương lên mức 5.000.000 VND tuỳ theo khả năng và hiệu quả công việc </benefit>
+    <keyword>bếp phó,việc làm,Trung thực,Nhiệt tình,Tập trung trong công việc,Tinh thần trách nhiệm</keyword>
+  </more>
+  <userapplied>
+    <total>8</total>
+    <strui>4848,5518,5595,5769,5844,5917,2302,6581</strui>
+  </userapplied>
+</information>

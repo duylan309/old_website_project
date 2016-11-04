@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5225</id>
+      <email>tuanphan0602@gmail.com</email>
+      <username/>
+      <name>phan thanh tuấn</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0974352400</phone>
+      <address>bình hưng hòa quận bình tân</address>
+      <city>30</city>
+      <dob>1995-5-24</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475820489</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>24</day>
+      <month>5</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8026884</lat>
+      <lng>106.6026064</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>bếp chính</title>
+      <experience>2</experience>
+      <category>14,15,20</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>đứng chảo. nhanh nhẹn trong công viêc </skill>
+      <ui>5225</ui>
+      <s1>7000000</s1>
+      <salary>1</salary>
+      <about>tốt nghiệp trường sài gòn tourist. kinh nghiem 2nam á và âu</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>321,137</strjo>
+  </appliedjob>
+</information>

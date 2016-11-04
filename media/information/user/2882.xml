@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2882</id>
+      <email>thanhdiem2711@yahoo.com</email>
+      <username/>
+      <name>Bùi Nguyễn Thanh Diễm</name>
+      <im>1474046468_bui-nguyen-thanh-diem.png</im>
+      <gender>2</gender>
+      <phone>01655521417</phone>
+      <address>307 nguyễn văn trỗi phường 1 tân bình</address>
+      <city>30</city>
+      <dob>1991-11-26</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474046468</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>26</day>
+      <month>11</month>
+      <year>1991</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.79944</lat>
+      <lng>106.668676</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên bán hàng</title>
+      <experience>2</experience>
+      <category>35</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Ăn nói lưu loát giao tiếp tốt với khách hàng. chịu được áp lực công việc.</skill>
+      <ui>2882</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>156,205,193</strjo>
+  </appliedjob>
+</information>

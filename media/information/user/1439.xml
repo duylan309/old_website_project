@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1439</id>
+      <email>thanhngocnguyen@gmail.com</email>
+      <username/>
+      <name>thanh ngoc nguyen</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0908762976</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1472316508</created>
+      <dayleft>1474908508</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1472316508</last_signin>
+      <jobleft>3</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>2</total>
+    <strji>203,204</strji>
+  </totalJob>
+</information>

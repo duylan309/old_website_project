@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>502</id>
+    <ui>7302</ui>
+    <ci>420</ci>
+    <ai>0</ai>
+    <ti>Giám sát nhà hàng</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>2</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description>- Phân chia công việc và giám sát nhân viên dưới ca\r\n- Hoàn thành công việc được giao bởi Quản lí\r\n- Hỗ trợ nhận order và phục vụ khách \r\n</description>
+    <requirement>- Giao tiếp tiếng anh LƯU LOÁT VÀ TỐT\r\n- Có kinh nghiệm ở vị trí trưởng ca ít nhất 1 năm\r\n- Có kỹ năng làm việc trên máy tính\r\n- Chịu khó, siêng năng và làm việc dưới áp lực cao\r\n- Có thể làm ca gãy</requirement>
+    <workhour/>
+    <benefit>-  Cung cấp bãi đỗ xe.\r\n-  1 bữa cơm/ 1 ca làm\r\n- Tăng ca : x1.5\r\n- Làm vào các ngày lễ: lương x2\r\n- Làm vào dịp Tết ta: lương x3</benefit>
+    <keyword>Giao tiếp hiệu quả,Kỹ năng giải quyết tình huống,Tinh thần trách nhiệm,Tập trung trong công việc,Chịu được áp lực công việc,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+    <ad/>
+    <location_id>361</location_id>
+    <lat>10.778010</lat>
+    <lng>10.778010</lng>
+    <de>2016-11-30</de>
+    <re>0000-00-00</re>
+    <cr>1477149852</cr>
+  </db>
+  <more>
+    <requirement>- Giao tiếp tiếng anh LƯU LOÁT VÀ TỐT&#13;
+- Có kinh nghiệm ở vị trí trưởng ca ít nhất 1 năm&#13;
+- Có kỹ năng làm việc trên máy tính&#13;
+- Chịu khó, siêng năng và làm việc dưới áp lực cao&#13;
+- Có thể làm ca gãy</requirement>
+    <description>- Phân chia công việc và giám sát nhân viên dưới ca&#13;
+- Hoàn thành công việc được giao bởi Quản lí&#13;
+- Hỗ trợ nhận order và phục vụ khách &#13;
+</description>
+    <workhour>- Ca gãy: 11.00-14.00 và 18.00-24.00</workhour>
+    <benefit>-  Cung cấp bãi đỗ xe.&#13;
+-  1 bữa cơm/ 1 ca làm&#13;
+- Tăng ca : x1.5&#13;
+- Làm vào các ngày lễ: lương x2&#13;
+- Làm vào dịp Tết ta: lương x3</benefit>
+    <keyword>Giao tiếp hiệu quả,Kỹ năng giải quyết tình huống,Tinh thần trách nhiệm,Tập trung trong công việc,Chịu được áp lực công việc,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+  </more>
+</information>

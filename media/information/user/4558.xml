@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4558</id>
+      <email>mhien2405@gmail.com</email>
+      <username/>
+      <name>Minh Hiền</name>
+      <im>4558_1474815337684-9551.jpg</im>
+      <gender>2</gender>
+      <phone>01696156947</phone>
+      <address>44/6 Phan Xích Long, F.3, Quận Phú Nhuận</address>
+      <city>30</city>
+      <dob>1997-5-24</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475298795</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1475298795</last_signin>
+      <day>24</day>
+      <month>5</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.803424</lat>
+      <lng>106.682199</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_968>
+      <id>968</id>
+      <title>Nhân Viên Pha Chế/ Phục Vụ</title>
+      <level>1</level>
+      <cmpname>Little India Cafe</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>10/2015</from>
+      <to>6/2016</to>
+    </n_968>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>4558</ui>
+      <title>Nhân Viên Phục Vụ</title>
+      <experience>7</experience>
+      <category>35</category>
+      <type>2,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>Dễ gần, vui vẻ, có khả năng thích nghi môi trường mới tốt.</about>
+      <skill>Làm việc nhóm, tiếng anh giao tiếp</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <education>
+    <n_754>
+      <id>754</id>
+      <school>THPT Marie Curie</school>
+      <degrees>Bằng tốt nghiệp THPT</degrees>
+      <fieldofstudy/>
+      <from>2012</from>
+      <to>2015</to>
+    </n_754>
+  </education>
+</information>

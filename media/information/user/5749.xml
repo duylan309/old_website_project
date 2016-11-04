@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5749</id>
+      <email>ntpt.1912@gmail.com</email>
+      <username/>
+      <name>Nguyễn Tường Phương Tân</name>
+      <im>1476170327_nguyen-tuong-phuong-tan.png</im>
+      <gender>0</gender>
+      <phone>0948479038</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476170326</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>belldoor</title>
+      <experience>7</experience>
+      <category>35</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>5749</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>302</strjo>
+  </appliedjob>
+</information>

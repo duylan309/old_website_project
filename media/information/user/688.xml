@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>688</id>
+      <email>thunganho96@gmail.com</email>
+      <username/>
+      <name>Hồ Thị Thu Ngân</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01267158484</phone>
+      <address>Q7</address>
+      <city>30</city>
+      <dob>1996-11-9</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470847013</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <day>9</day>
+      <month>11</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_139>
+      <id>139</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>California fitness &amp;yoga</cmpname>
+      <city>Tp.Hcm</city>
+      <country>Việt Nam</country>
+      <from>09/2015</from>
+      <to>02/2016</to>
+    </n_139>
+    <n_140>
+      <id>140</id>
+      <title>Nhân viền thu ngân ,pha chế</title>
+      <level>1</level>
+      <cmpname>Nhà hàng NYDC</cmpname>
+      <city>Tp.Hcm</city>
+      <country>Việt Nam</country>
+      <from>03/2016</from>
+      <to>07/2016</to>
+    </n_140>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>688</ui>
+      <title>Nhân viên thu ngân,pha chế</title>
+      <experience>1</experience>
+      <category>14,15,29,35</category>
+      <type>1,4,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Chịu được áp lực công việc,Tinh thần làm việc nhóm,Nhiệt tình,Trung thực</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>126</strjo>
+  </appliedjob>
+</information>

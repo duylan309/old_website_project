@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>163</id>
+    <ui>999</ui>
+    <ci>265</ci>
+    <ai>0</ai>
+    <ti>Nhân viên pha chế cà phê</ti>
+    <ta/>
+    <le>2</le>
+    <ty>4</ty>
+    <ex>1,7</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>3600000</s1>
+    <s2>4000000</s2>
+    <s3>163</s3>
+    <s4>181</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>86</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-10-26</de>
+    <re>0000-00-00</re>
+    <cr>1471572049</cr>
+  </db>
+  <more>
+    <requirement>- Có kiến thức pha chế và biết cách bảo quản, sơ chế nguyên vật liêu&#13;
+- Am hiểu các đồ dùng quầy bar chuyên dụng&#13;
+- Có sự kĩ tính, sạch sẽ, cẩn thận, trung thực, trách nhiệm</requirement>
+    <description>- Pha chế các món nước/ tráng miệng theo yêu cầu&#13;
+- Tính tiền &#13;
+- Vệ sinh khu vực quầy bar/rửa ly &#13;
+- Kiểm tra/báo cáo kết ca và Nguyên vật liệu nhập/tồn kho</description>
+    <benefit>Lương cơ bàn + phụ cấp + thưởng chuyên cần + tip&#13;
+( Bao ăn theo ca, miễn phí gửi xe)</benefit>
+    <keyword>Pha chế,barista,Giao tiếp hiệu quả,Tinh thần trách nhiệm,Chịu được áp lực công việc,Tập trung trong công việc,Trung thực,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+  </more>
+  <userapplied>
+    <total>50</total>
+    <strui>1007,312,1023,1026,971,1106,1183,1236,1259,1276,1320,1335,1348,1375,1626,1648,1703,1716,1717,1997,2194,2290,2304,292,2715,3630,3657,2262,3908,4112,3754,3652,4148,4347,2386,4785,4827,986,4833,5715,5679,3027,4099,5925,6272,4246,3268,7137,3668,7270</strui>
+  </userapplied>
+</information>

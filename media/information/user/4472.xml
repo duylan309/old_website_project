@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4472</id>
+      <email>c0_nh0c_kiu_ki@yahoo.com</email>
+      <username/>
+      <name>Nguyễn Tường Thanh Vân</name>
+      <im>945666285561191_nguyen-tuong-thanh-van.jpg</im>
+      <gender>2</gender>
+      <dob>1997-4-5</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475212490</created>
+      <day>5</day>
+      <month>4</month>
+      <year>1997</year>
+      <last_signin>1475212490</last_signin>
+      <phone>01247065167</phone>
+      <address>562 nguyễn trãi p8 q5</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>4472</ui>
+      <title>gia sư</title>
+      <experience>7</experience>
+      <category>14,15,17,27,29,31,35,36</category>
+      <type>3,4,6</type>
+      <level>1,2,3</level>
+      <lang>vi,en</lang>
+      <s1>1200000</s1>
+      <salary>1</salary>
+      <about>siêng năng, chăm chỉ, có trách nhiệm</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>9</total>
+    <strjo>301,153,358,201,294,154,202,409,419</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>301</strjo>
+  </savedjob>
+</information>

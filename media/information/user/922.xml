@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>922</id>
+      <email>tranthuhien.ftu2@gmail.com</email>
+      <username/>
+      <name>Trần Thu Hiền</name>
+      <im>922_image.jpeg</im>
+      <gender>2</gender>
+      <phone>01663713127</phone>
+      <address>168/12, Bạch Đằng, Bình Thạnh</address>
+      <city>30</city>
+      <dob>1997-4-7</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471434207</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>7</day>
+      <month>4</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8035669</lat>
+      <lng>106.7065779</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,35</category>
+      <type>2,4</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill>Giao tiếp, teamwork, design, chụp ảnh</skill>
+      <ui>922</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword>Chịu được áp lực công việc,Tinh thần làm việc nhóm,Kỹ năng giải quyết tình huống</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>100,159,156,105,124</strjo>
+  </appliedjob>
+</information>

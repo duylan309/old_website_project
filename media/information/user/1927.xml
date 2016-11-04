@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1927</id>
+      <email>lamfv1997@gmail.com</email>
+      <username/>
+      <name>Lương Lý Gia Lâm</name>
+      <im>1834357663520329_lam-gia.jpg</im>
+      <gender>1</gender>
+      <dob>1997-11-16</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473075614</created>
+      <day>16</day>
+      <month>11</month>
+      <year>1997</year>
+      <last_signin>1473075614</last_signin>
+      <phone>0906637987</phone>
+      <address>28/2 Nguyễn Văn Quá , F Đông Hưng Thuận, Q12</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8372409</lat>
+      <lng>106.6293212</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>1927</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>1</experience>
+      <category>14,15,17,27,29,31,35</category>
+      <type>2,4,5</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <skill>nhanh nhẹn , vui vẻ , hòa đồng</skill>
+      <keyword>Kỹ năng giải quyết tình huống,Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Tinh thần trách nhiệm,Tự tin,Nhiệt tình,Tập trung trong công việc</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>234,269</strjo>
+  </appliedjob>
+</information>

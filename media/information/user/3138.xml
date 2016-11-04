@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3138</id>
+      <email>kid_shuyu@yahoo.com</email>
+      <username/>
+      <name>Kiệt Chen</name>
+      <im>522332867961403_kiet-chen.jpg</im>
+      <gender>1</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474342473</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế</title>
+      <experience>1</experience>
+      <category>14,15</category>
+      <type>1,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Pha chế được các loại nước uống thông dụng </skill>
+      <ui>3138</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>240</strjo>
+  </appliedjob>
+</information>

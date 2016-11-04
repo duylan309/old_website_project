@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2023</id>
+      <email>dienmaycongluc@gmail.com</email>
+      <username/>
+      <name>Euphoria Cafeteria</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0989875555</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1473155472</created>
+      <dayleft>1478410723</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1473155472</last_signin>
+      <jobleft>4</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>1</total>
+    <strji>248</strji>
+  </totalJob>
+  <saveuser>
+    <total>14</total>
+    <strui>2059,2199,312,1383,2454,2791,1602,1781,3819,3356,4879,986,5467,5568</strui>
+  </saveuser>
+</information>

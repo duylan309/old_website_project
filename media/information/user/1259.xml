@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1259</id>
+      <email>vyvy311296@gmail.com</email>
+      <username/>
+      <name>Bùi Thảo Vy</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01264505630</phone>
+      <address>56 Phan Xích Long P3 QPN</address>
+      <city>30</city>
+      <dob>1996-12-31</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472022904</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>31</day>
+      <month>12</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.803317</lat>
+      <lng>106.681788</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên pha chế</title>
+      <experience>2</experience>
+      <category>14,15,16</category>
+      <type>1,4,5</type>
+      <level>2,3,4</level>
+      <lang>vi,en</lang>
+      <skill>Tất cả các kỹ năng về dịch vụ</skill>
+      <ui>1259</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>15</total>
+    <strjo>163,126,194,208,201,305,422,286,111,466,210,447,312,497,487</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2780</id>
+      <email>P3lokchok_iunhokshok@yahoo.com.vn</email>
+      <username/>
+      <name>Nguyễn thị mỹ quanh</name>
+      <im>1473912147_nguyen-thi-my-quanh.png</im>
+      <gender>2</gender>
+      <phone>01215662724</phone>
+      <address/>
+      <city/>
+      <dob>1995-2-19</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473912147</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>19</day>
+      <month>2</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Bán hàng</title>
+      <experience>7</experience>
+      <category>17</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Giao tiep</skill>
+      <ui>2780</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>140,252,171,287,124,202</strjo>
+  </appliedjob>
+</information>

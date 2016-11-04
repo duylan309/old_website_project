@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6186</id>
+      <email>nguyenduy123@yahoo.com</email>
+      <username/>
+      <name>Nguyễn khánh duy</name>
+      <im>1476415552_nguyen-khanh-duy.png</im>
+      <gender>1</gender>
+      <phone>0966674917</phone>
+      <address>983/10 tỈnh lộ 10,tân tạo bình tân. TPHCM</address>
+      <city>30</city>
+      <dob>1992-10-19</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476415552</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>19</day>
+      <month>10</month>
+      <year>1992</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7563694</lat>
+      <lng>106.5920116</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>phụ bếp</title>
+      <experience>1</experience>
+      <category>14,20</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>có thể chiên xào nấu nướng</skill>
+      <ui>6186</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>em đã đọc các yêu cầu trên và em có thể làm được,em có học nghề bếp ở trường hướng nghiệp á âu.</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>187</strjo>
+  </appliedjob>
+  <experience>
+    <n_1246>
+      <id>1246</id>
+      <title>PHỤBẾP</title>
+      <level>1</level>
+      <cmpname>NHÀ HÀNG ĐẠI HỶ</cmpname>
+      <city>TPHCM</city>
+      <country>VIỆT NAM</country>
+      <from>04/2016</from>
+      <to>09/2016</to>
+    </n_1246>
+  </experience>
+  <education>
+    <n_1022>
+      <id>1022</id>
+      <school>TRƯỜNG HƯỚNG NGHIỆP Á ÂU</school>
+      <degrees/>
+      <fieldofstudy>NGHIỆP VỤ BẾP TRƯỞNG</fieldofstudy>
+      <from>03/2016</from>
+      <to>12/2016</to>
+    </n_1022>
+  </education>
+</information>

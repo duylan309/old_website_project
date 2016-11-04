@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6211</id>
+      <email>phong198260@yahoo.com.vn</email>
+      <username/>
+      <name>Chiem Phong</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0949159883</phone>
+      <address>A3/26 lau 2 cc Mieu Noi</address>
+      <city>30</city>
+      <dob>1982-9-8</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476436191</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476436191</last_signin>
+      <day>8</day>
+      <month>9</month>
+      <year>1982</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7956974</lat>
+      <lng>106.6939777</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1257>
+      <id>1257</id>
+      <title>Cook</title>
+      <level>1</level>
+      <cmpname>Pendolasco</cmpname>
+      <city>TPHCM</city>
+      <country>Viet Nam</country>
+      <from>2010</from>
+      <to>2012</to>
+    </n_1257>
+    <n_1258>
+      <id>1258</id>
+      <title>Demi Chef</title>
+      <level>1</level>
+      <cmpname>Equatorial Hotel</cmpname>
+      <city>TPHCM</city>
+      <country>Viet Nam</country>
+      <from>04/2016</from>
+      <to>10/2016</to>
+    </n_1258>
+  </experience>
+  <education>
+    <n_1032>
+      <id>1032</id>
+      <school>Ton Duc Thang</school>
+      <degrees>PTTH</degrees>
+      <fieldofstudy/>
+      <from>2005</from>
+      <to>2008</to>
+    </n_1032>
+  </education>
+  <user_cv>
+    <db>
+      <ui>6211</ui>
+      <title>Commis or Cook</title>
+      <experience>3</experience>
+      <category>14,20</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>8000000</s1>
+      <salary>1</salary>
+      <about>PERSONAL INFORMATION :&#13;
+&#13;
+First name : PHONG                             Last name : CHIEM&#13;
+&#13;
+Date of birth : Septemper  08th  ,1982&#13;
+&#13;
+Place of birth : HO CHI MINH City&#13;
+&#13;
+Gender : Male&#13;
+&#13;
+Nationality : VIET NAM&#13;
+&#13;
+Regional : No&#13;
+&#13;
+Race : Kinh&#13;
+&#13;
+Marital : Married&#13;
+&#13;
+Permanent Address : A3/26 2nd floor, A3 apartment, Mieu Noi residential , Ward 03, BINH THANH District, TP.HO CHI MINH City, VIET NAM &#13;
+&#13;
+Home phone : 0835170392&#13;
+&#13;
+Mobile phone : 0949159883&#13;
+&#13;
+Emai : phong198260@yahoo.com.vn&#13;
+&#13;
+ID no : 024865273   Issued date : 17/12/2007    Issued place : Ho Chi Minh city&#13;
+&#13;
+EDUCATIONAL :&#13;
+.I just graduated high school.( Ton Duc Thang High school ) ( 2005 – 2008 )&#13;
+.Certificate of  Western and Asean Basic Cooking Course ( Viet Nam-Australia Advanced College Of  Hotel Management ) (12/2009 – 3/2010 )&#13;
+&#13;
+. Certificate of  English ( Intermediate )&#13;
+.Car Driving Licence Level B2&#13;
+</about>
+      <skill>SKILLS :&#13;
+.I can communicate with everyone in English pretty well.&#13;
+.Computer skill : Ms Word and Outlook	&#13;
+.Work controlling : good&#13;
+.Food Cost controlling : good&#13;
+.Creative food&#13;
+.In sum : I can do homemake pasta,pizza and cook Itanlian food.Can cook Western and Asean food,can make bread,cake,dessert….&#13;
+</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>78,206,200,441,321,463</strjo>
+  </appliedjob>
+</information>

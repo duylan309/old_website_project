@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5850</id>
+      <email>kimngan12121996@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Kim Ngân</name>
+      <im>591760504341259_tam-babi.jpg</im>
+      <gender>2</gender>
+      <dob>1996-12-12</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476210170</created>
+      <day>12</day>
+      <month>12</month>
+      <year>1996</year>
+      <phone>01208644309</phone>
+      <address>105/2, Phan Văn Trị, phường 10, Gò Vấp, TP. Hồ Chí Minh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8333523</lat>
+      <lng>106.6690878</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên tư vấn bán hàng</title>
+      <experience>2</experience>
+      <category>17,29,35</category>
+      <type>4</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <skill>Vi tính cơ bản, anh văn giao tiếp cơ bản, kĩ năng làm việc nhóm, kĩ năng giao tiêp và xử lí tình huống </skill>
+      <ui>5850</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Vui vẻ, hòa đồng, nhiệt tình  Yêu âm nhạc và chó mèo, ngoài ra còn thích làm hàng handmade</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>322,205,156,140</strjo>
+  </appliedjob>
+  <experience>
+    <n_1186>
+      <id>1186</id>
+      <title>Lao động phổ thông ( ngành in )</title>
+      <level>1</level>
+      <cmpname>Công ty TNHH Hạnh Đan</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>2015</to>
+    </n_1186>
+    <n_1187>
+      <id>1187</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>Công ty TNHH Một thành viên Thương mại Bách Thịnh</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_1187>
+    <n_1188>
+      <id>1188</id>
+      <title>Telesales</title>
+      <level>1</level>
+      <cmpname>Shop thời trang online: 24-02 Lô W4, Sunrise City, Nguyễn Hữu Thọ, quận 7, TPHCM</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>7/2016</from>
+      <to>9/2016</to>
+    </n_1188>
+  </experience>
+  <education>
+    <n_971>
+      <id>971</id>
+      <school>Trung tâm Giáo Dục Thường Xuyên </school>
+      <degrees>Trung học Phổ thông</degrees>
+      <fieldofstudy/>
+      <from>2011</from>
+      <to>2014</to>
+    </n_971>
+  </education>
+</information>

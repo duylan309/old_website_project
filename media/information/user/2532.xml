@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2532</id>
+      <email>minaco_1232000@yahoo.com</email>
+      <username/>
+      <name>Nguyễn Thúc Thùy Tiên</name>
+      <im>1473635430_nguyen-thuc-thuy-tien.png</im>
+      <gender>2</gender>
+      <phone>0938959850</phone>
+      <address>613/12 Ba Thang Hai, Ward 8, District 10</address>
+      <city>30</city>
+      <dob>1999-8-12</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473635430</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>12</day>
+      <month>8</month>
+      <year>1999</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Receptionist, hosstess, waitress, bartender/barista</title>
+      <experience>1</experience>
+      <category>14,16,20</category>
+      <type>1,2,6</type>
+      <level>1,2</level>
+      <lang>vi,en,kr</lang>
+      <skill/>
+      <ui>2532</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng giải quyết tình huống,Trung thực,Chịu được áp lực công việc,Tự tin</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>199,113,211,273,260</strjo>
+  </appliedjob>
+  <experience>
+    <n_563>
+      <id>563</id>
+      <title>Receptionist</title>
+      <level>1</level>
+      <cmpname>Minh Vy Hotel</cmpname>
+      <city>Ho Chi Minh City</city>
+      <country>Vietnam</country>
+      <from>June,2016</from>
+      <to>September,2016</to>
+    </n_563>
+    <n_576>
+      <id>576</id>
+      <title>Receptionist</title>
+      <level>1</level>
+      <cmpname>Saigon Heritage spa</cmpname>
+      <city>Ho Chi Minh City</city>
+      <country>Vietnam</country>
+      <from>July, 2016</from>
+      <to>The end of july, 2016</to>
+    </n_576>
+  </experience>
+  <education>
+    <n_406>
+      <id>406</id>
+      <school>Nguyen Cong Tru High School</school>
+      <degrees>Graduated</degrees>
+      <fieldofstudy/>
+      <from>2013</from>
+      <to>2016</to>
+    </n_406>
+    <n_412>
+      <id>412</id>
+      <school>University of Social Science and Humanities</school>
+      <degrees/>
+      <fieldofstudy>French</fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_412>
+  </education>
+</information>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>276</id>
+    <ui>1245</ui>
+    <name>MOF Coffee</name>
+    <url>mofcafetuyendung</url>
+    <im>_mof-coffee.jpg</im>
+    <im_banner>_mof-coffee-cover.jpg</im_banner>
+    <category>14,15</category>
+    <phone></phone>
+    <address>30 Lê Lợi, Phường Bến Nghé, Quận 1, TP.HCM</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.7743939</lat>
+    <lng>106.700588</lng>
+    <website>http://www.mof.com.vn</website>
+    <about/>
+    <facebook>https://www.facebook.com/mofcafetuyendung/</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1472010447</created>
+  </db>
+  <more>
+    <about> 1. 30 Le Loi St., Dist.1, HCMC Phone: (08)38277.898\\\\r\\\\n2. B3-17A Vincom Center, 70-72 Le Thanh Ton St., Dist.1, HCMC Phone:(08)3936.9779\\\\r\\\\n3. Kumho Asian Plaza, Crn Nguyen Du &amp; Le Van Huu Phone: (08)3521.8606\\\\r\\\\n4. Union Square - B3F -171 Dong Khoi St., Dist.1, HCMC Phone: (08)39369676\\\\r\\\\n5. Saigon Pearl, 92 Nguyen Huu Canh, Binh Thanh Dist., HCMC Phone: (08)3514.9790\\\\r\\\\n6. Parkson Hung Vuong Plaza, 126 Hung Vuong, Dist. 5, HCMC Phone: (08)22220460\\\\r\\\\n7. Crescent-Mall - 2F-101 Ton Dat Tien, Dist.7, HCMC Phone: (08)5413.7332 </about>
+    <whyworkus/>
+  </more>
+  <companybanner>_mof-coffee-cover.jpg</companybanner>
+  <totalJob>
+    <total>5</total>
+    <strji>191,228,265,266,290</strji>
+  </totalJob>
+  <pagecmpfacebookcover>276_mof.png</pagecmpfacebookcover>
+</information>

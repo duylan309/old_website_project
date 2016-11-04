@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>203</id>
+    <ui>1439</ui>
+    <ci>287</ci>
+    <ai>0</ai>
+    <ti>Quản ly cua hang</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>7</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>5500000</s1>
+    <s2>0</s2>
+    <s3>250</s3>
+    <s4>0</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>35</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>110</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-09-26</de>
+    <re>0000-00-00</re>
+    <cr>1472316889</cr>
+  </db>
+  <more>
+    <requirement>TRung thực, nhanh nhen, thích giao tiếp, có kĩ năng bán hàng</requirement>
+    <description>AN _Deli nằm trong khu vực Bến Thành Street food, chuyên bán các loại gỏi cuốn, nem nướng. Quầy hàng co diện tích 4m không quá phức tạp cho bạn quản lý.&#13;
+Chúng tôi tìm kiếm ứng viên có khả năng quản lý toàn của hàng vể thu chi, phụ trách thu mua nguyên liệu. theo dõi chế biến, doanh số bán hàng, sắp lịch nhan viên (2-3 nhan viên )&#13;
+</description>
+    <benefit>Có mức thưởng doanh thu tương ung </benefit>
+    <keyword>Giao tiếp hiệu quả,Tập trung trong công việc,Trung thực,Nhiệt tình</keyword>
+  </more>
+  <userapplied>
+    <total>4</total>
+    <strui>2025,2063,3265,5228</strui>
+  </userapplied>
+</information>

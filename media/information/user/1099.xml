@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1099</id>
+      <email>chick_cute_97@yahoo.com.vn</email>
+      <username/>
+      <name>Thư KojiYuu</name>
+      <im>638217676352622_thu-kojiyuu.jpg</im>
+      <gender>2</gender>
+      <dob>1997-5-5</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471719439</created>
+      <day>5</day>
+      <month>5</month>
+      <year>1997</year>
+      <phone>0932136625</phone>
+      <address>Trần Văn Đang F9 Q3</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7834209</lat>
+      <lng>106.6753179</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_263>
+      <id>263</id>
+      <title>Phụ Bếp</title>
+      <level>1</level>
+      <cmpname>Bingsu Tuyết Hoa</cmpname>
+      <city>Thành Phố Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>1/2016</from>
+      <to>8/2016</to>
+    </n_263>
+  </experience>
+  <education>
+    <n_174>
+      <id>174</id>
+      <school>Đại học Văn Hiến</school>
+      <degrees/>
+      <fieldofstudy>Quản trị du lịch và lữ hành</fieldofstudy>
+      <from>9/2016</from>
+      <to>2019</to>
+    </n_174>
+  </education>
+  <user_cv>
+    <db>
+      <ui>1099</ui>
+      <title>Phụ bếp</title>
+      <experience>1</experience>
+      <category>14,15,17,27,29,35,36</category>
+      <type>1,2,3,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Trung thực,Nhiệt tình</keyword>
+      <about/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>10</total>
+    <strjo>106,193,349,361,358,360,418,451,450,455</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>2</total>
+    <strjo>193,361</strjo>
+  </savedjob>
+</information>

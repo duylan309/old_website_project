@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>823</id>
+      <email>vienvinhnghi96@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Hồng Vân</name>
+      <im>823_1470798834136-14134.jpg</im>
+      <gender>2</gender>
+      <phone>0964822056</phone>
+      <address/>
+      <city/>
+      <dob>1996-1-15</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471176522</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <day>15</day>
+      <month>1</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <deactive>0</deactive>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>823</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>2,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <skill>Trung thực, tự tin, làm việc nhóm tốt</skill>
+      <keyword>Tinh thần trách nhiệm,Tập trung trong công việc,Tinh thần làm việc nhóm</keyword>
+      <deactive>0</deactive>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>14</total>
+    <strjo>159,105,172,181,202,107,222,235,64,318,199,100,267,294</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>3</total>
+    <strjo>159,105,100</strjo>
+  </savedjob>
+</information>

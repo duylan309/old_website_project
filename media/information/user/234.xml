@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>234</id>
+      <email>ryu467@yahoo.com.vn</email>
+      <username/>
+      <name>Thanh Phước</name>
+      <im>488762167987285_thanh-phuoc.jpg</im>
+      <gender>1</gender>
+      <category/>
+      <phone/>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1467342787</created>
+      <dayleft>0</dayleft>
+      <signupby>FB</signupby>
+    </db>
+  </userinfo>
+  <education>
+    <n_9>
+      <id>9</id>
+      <school>hoa sen university</school>
+      <degrees>freshman</degrees>
+      <fieldofstudy></fieldofstudy>
+      <from>2016</from>
+      <to>2016</to>
+    </n_9>
+  </education>
+</information>

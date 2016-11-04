@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>711</id>
+      <email>nhanphuc7777@gmail.com</email>
+      <username/>
+      <name>phuc Truong</name>
+      <im>527783774061005_karim-truong.jpg</im>
+      <gender>1</gender>
+      <dob>1980-4-13</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470913182</created>
+      <day>13</day>
+      <month>4</month>
+      <year>1980</year>
+      <phone>0902261650</phone>
+      <address>100 thach lam phu thanh tanphu</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.777369</lat>
+      <lng>106.629884</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>711</ui>
+      <title>dau bep che bien hai san va cac mon lau</title>
+      <experience>3</experience>
+      <category>14</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,ch</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <skill></skill>
+      <keyword>Giao tiếp hiệu quả,Nhiệt tình</keyword>
+    </db>
+  </user_cv>
+</information>

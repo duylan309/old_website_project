@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>993</id>
+      <email>thuytramflower@gmail.com</email>
+      <username/>
+      <name>Lê Nguyễn Thùy Trâm</name>
+      <im>848897248543142_le-nguyen-thuy-tram.jpg</im>
+      <gender>2</gender>
+      <dob>1987-7-24</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471546167</created>
+      <day>24</day>
+      <month>7</month>
+      <year>1987</year>
+      <phone>0933889194</phone>
+      <address>47/68 Bùi Đình Túy , Phường 24 .Bình Thạnh .HCM</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8061195</lat>
+      <lng>106.7070369</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>993</ui>
+      <title>Trợ lý quản lý cấp cao</title>
+      <experience>5</experience>
+      <category>35</category>
+      <type>1</type>
+      <level>5</level>
+      <lang>vi,en</lang>
+      <s1>7000000</s1>
+      <salary>1</salary>
+      <skill>- Sử dụng thành thạo vi tính văn phòng &#13;
+- Kỷ năng pha chế , có công thức , định lượng một số món thông dụng .&#13;
+-Thao tác , phong thái nhanh nhẹn , gọn gàng sạch đẹp .&#13;
+- Sáng tạo trong cách trình bày và ra món mới</skill>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Tinh thần trách nhiệm,Tập trung trong công việc,Chịu được áp lực công việc,Nhiệt tình,Trung thực,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+  <experience>
+    <n_225>
+      <id>225</id>
+      <title>Quản lý</title>
+      <level>1</level>
+      <cmpname>Cty TNHH MTV Cuộc Sống Của Tôi</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2008</from>
+      <to>2011</to>
+    </n_225>
+    <n_226>
+      <id>226</id>
+      <title>Quản lý điều hành</title>
+      <level>1</level>
+      <cmpname>Coffee Shop : Goffee</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2011</from>
+      <to>2013</to>
+    </n_226>
+    <n_227>
+      <id>227</id>
+      <title>Quản lý cửa hàng thời trang cao cấp</title>
+      <level>1</level>
+      <cmpname>Cty CP Dư Kim</cmpname>
+      <city>Chi nhánh Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2013</from>
+      <to>2015</to>
+    </n_227>
+    <n_228>
+      <id>228</id>
+      <title>Quản lý siêu thị bán lẻ Guardian - Quận 9</title>
+      <level>1</level>
+      <cmpname>Cty TNHH MTV Liên Á Châu</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam </country>
+      <from>Octorber -2015</from>
+      <to>July -2016</to>
+    </n_228>
+  </experience>
+  <appliedjob>
+    <total>1</total>
+    <strjo>157</strjo>
+  </appliedjob>
+</information>

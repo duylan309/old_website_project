@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>327</id>
+      <email>vothanhan068@gmail.com</email>
+      <username/>
+      <name>Võ Thanh An</name>
+      <im>1740430972890402_vo-thanh-an.jpg</im>
+      <gender>1</gender>
+      <dob>1997-8-6</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1469163825</created>
+      <day>6</day>
+      <month>8</month>
+      <year>1997</year>
+      <phone>0963183223</phone>
+      <address>19 Nguyễn Hữu Thọ, Phường Tân Phong, Quận 7</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7326801</lat>
+      <lng>106.6999022</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_24>
+      <id>24</id>
+      <school>Đại học Tôn Đức Thắng</school>
+      <degrees>Sinh viên năm 2 </degrees>
+      <fieldofstudy>Hospitality Management</fieldofstudy>
+      <from>2015</from>
+      <to>2016</to>
+    </n_24>
+  </education>
+  <experience>
+    <n_35>
+      <id>35</id>
+      <title>Waiter</title>
+      <level>1</level>
+      <cmpname>Crystal Palace</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>10/2015</from>
+      <to>2/2016</to>
+    </n_35>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>327</ui>
+      <title>Waiter</title>
+      <experience>7</experience>
+      <category>14,20</category>
+      <type>5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <skill>- khánh tiết tiếp khách &#13;
+- Set up bàn&#13;
+- Chăm chỉ, tỉ mỉ, đáng tin cậy&#13;
+-  Kỹ năng làm việc nhóm tốt&#13;
+- Giao tiếp, quan sát, tổ chức và giải quyết các tình huống&#13;
+- Tinh thần trách nhiệm và chịu được áp lực cao&#13;
+- Dễ dàng thích nghi với môi trường mới&#13;
+&#13;
+&#13;
+</skill>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Tự tin,Nhiệt tình,Tinh thần làm việc nhóm,Chăm chỉ</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>86</strjo>
+  </appliedjob>
+</information>

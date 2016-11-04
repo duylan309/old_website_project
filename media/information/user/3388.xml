@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3388</id>
+      <email>thanhphuongnguyen2806@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Phương Thanh</name>
+      <im>1474566816_nguyen-thi-phuong-thanh.png</im>
+      <gender>2</gender>
+      <phone>0989428578</phone>
+      <address>225/27 Thoại Ngọc Hầu p.Phú Thạnh q.Tân Phú</address>
+      <city>30</city>
+      <dob>1994-6-28</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474566816</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>28</day>
+      <month>6</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7782959</lat>
+      <lng>106.631541</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Barista hoặc Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15,17,27,29,35</category>
+      <type>2,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Sử dụng tiếng anh giao tiếp cơ bản&#13;
+Sử dụng word, excel</skill>
+      <ui>3388</ui>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <about>Lắng nghe tốt&#13;
+Kiên nhẫn với công việc&#13;
+Có trách nhiệm với công việc được giao</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>201,69,172</strjo>
+  </appliedjob>
+  <experience>
+    <n_750>
+      <id>750</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>Phụ kiện handmade 68</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>tháng 6/2014</from>
+      <to>tháng 4/2015</to>
+    </n_750>
+  </experience>
+  <education>
+    <n_550>
+      <id>550</id>
+      <school>Đại học Sư Phạm TP.HCM</school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy>Tâm lý học</fieldofstudy>
+      <from>2012</from>
+      <to>2017</to>
+    </n_550>
+  </education>
+  <savedjob/>
+</information>

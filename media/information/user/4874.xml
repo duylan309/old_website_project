@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4874</id>
+      <email>thaobap.37@gmail.com</email>
+      <username/>
+      <name>NGÔ PHƯƠNG THẢO</name>
+      <im>958162997623544_thao-bap.jpg</im>
+      <gender>2</gender>
+      <dob>1993-2-6</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475562572</created>
+      <day>6</day>
+      <month>2</month>
+      <year>1993</year>
+      <phone>0943700160</phone>
+      <address>QQ11 - đường Ba Vì - Phường 15 - Q10 - Tp.HCM</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7764745</lat>
+      <lng>106.7008831</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên thu ngân</title>
+      <experience>1</experience>
+      <category>14,15,17,18,20</category>
+      <type>1,2,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>- Sử dụng thành thạo các phần mềm tin học văn phòng&#13;
+- Có kinh nghiệm làm vị trí lễ tân tại công ty tư vấn kiết kế xây dựng.&#13;
+-Từng làm phục vụ ở các quán cà phê và nhà hàng.</skill>
+      <ui>4874</ui>
+      <s1>5500000</s1>
+      <salary>1</salary>
+      <about>-Giao tiếp thành thạo, thân thiện, cởi mở, ham học hỏi, hòa đồng.&#13;
+-Thích khám phá những vùng đất mới để tìm hiểu còn người và cuộc sống ở đó. &#13;
+- Luôn luôn sẵn sàng học hỏi và tiếp thu những cái mới để hoàn thiện bản thân và nâng vao kiến thức cũng như kỹ năng sống trong công việc lẫn thực tế.&#13;
+- Yêu sách, đọc sách để mở mang kiến thức và nâng cao tầm hiểu biết. luôn tìm tòi sáng tạo&#13;
+- có thể làm việc dưới áp lực cao. &#13;
+</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>259,151,247</strjo>
+  </appliedjob>
+  <experience>
+    <n_1017>
+      <id>1017</id>
+      <title>Nhân Viên Văn Phòng</title>
+      <level>1</level>
+      <cmpname>Công ty CP Tư vấn và Đầu Tư Xây dựng Kiến Hưng</cmpname>
+      <city>HO CHI MINH</city>
+      <country>Vietnam</country>
+      <from>4/2016</from>
+      <to>10/2016</to>
+    </n_1017>
+  </experience>
+</information>

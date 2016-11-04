@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2473</id>
+      <email>1553401010021@hcmulaw.edu.vn</email>
+      <username/>
+      <name>Lê Thị Quỳnh Giao</name>
+      <im>1473577967_le-thi-quynh-giao.png</im>
+      <gender>0</gender>
+      <phone>01667540320</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473577967</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>2473</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>224</strjo>
+  </appliedjob>
+</information>

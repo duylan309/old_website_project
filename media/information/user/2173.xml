@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2173</id>
+      <email>susie_baby27@yahoo.com</email>
+      <username/>
+      <name>Nie Thư</name>
+      <im>982059605238331_nie-thu.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473264869</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+      <last_signin>1473264869</last_signin>
+    </db>
+  </userinfo>
+  <education>
+    <n_339>
+      <id>339</id>
+      <school>Đại học Khoa học Tự nhiên</school>
+      <degrees/>
+      <fieldofstudy>Kinh doanh quốc tế </fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_339>
+  </education>
+  <experience>
+    <n_473>
+      <id>473</id>
+      <title>nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>nhà hàng Tokyo Yakiniku</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>việt Nam</country>
+      <from>8/2015</from>
+      <to>2015</to>
+    </n_473>
+  </experience>
+</information>

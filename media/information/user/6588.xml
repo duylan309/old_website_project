@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6588</id>
+      <email>13124109@st.hcmuaf.edu.vn</email>
+      <username/>
+      <name>Từ Thị Diệu Hiền</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0976423151</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476699890</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>phụ bếp</title>
+      <experience>7</experience>
+      <category>14</category>
+      <type>4</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill>nhanh nhẹn, chăm chỉ và chịu khó</skill>
+      <ui>6588</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>193</strjo>
+  </appliedjob>
+</information>

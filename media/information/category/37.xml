@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>37</id>
+    <uid>125</uid>
+    <im/>
+    <ti_en>Thank you</ti_en>
+    <ti_vi>Thank you</ti_vi>
+    <url>thank-you</url>
+    <link/>
+    <opp>1</opp>
+    <pa>1</pa>
+    <ism>0</ism>
+    <ct/>
+    <de_vi/>
+    <de_en/>
+    <so>0</so>
+    <nv>0</nv>
+    <st>2</st>
+  </db>
+  <more>
+    <description>
+      <vi>&lt;div class="single-page m-t-15"&gt;&#13;
+&lt;div class="row"&gt;&#13;
+&lt;div class="col-sm-3"&gt;&#13;
+&lt;div class="block cmp-more no-m-top"&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;&lt;a href="/page/about-us"&gt;Giới thiệu&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;li&gt;&lt;a class="active" href="#"&gt;Li&amp;ecirc;n hệ&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;div class="col-sm-9"&gt;&#13;
+&lt;div class="cmp-more no-m-top"&gt;&#13;
+&lt;h1 class="t-s-21 text-color1 text-bold no-margin"&gt;Gửi tin nhắn th&amp;agrave;nh c&amp;ocirc;ng&lt;/h1&gt;&#13;
+&lt;article class="m-t-15"&gt;&#13;
+&lt;p&gt;Tin nhắn của bạn đ&amp;atilde; được chuyển đi th&amp;agrave;nh c&amp;ocirc;ng.&lt;/p&gt;&#13;
+&lt;p&gt;Team Thu&amp;ecirc; sẽ sớm li&amp;ecirc;n lạc lại với bạn.&lt;/p&gt;&#13;
+&lt;a class="text-bold text-color2" href="/"&gt; Quay lại trang chủ&lt;/a&gt;&lt;/article&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;</vi>
+      <en>&lt;div class="single-page m-t-15"&gt;&#13;
+&lt;div class="row"&gt;&#13;
+&lt;div class="col-sm-3"&gt;&#13;
+&lt;div class="block cmp-more no-m-top"&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;&lt;a href="/page/about-us"&gt;About us&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;li&gt;&lt;a class="active" href="#"&gt;Contact us&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;div class="col-sm-9"&gt;&#13;
+&lt;div class="cmp-more no-m-top"&gt;&#13;
+&lt;h1 class="t-s-21 text-color1 text-bold no-margin"&gt;Message sent!&lt;/h1&gt;&#13;
+&lt;article class="m-t-15"&gt;&#13;
+&lt;p&gt;Your message is sucessfully delivered.&lt;/p&gt;&#13;
+&lt;p&gt;Team Thue will get back to you soon.&lt;/p&gt;&#13;
+&lt;a class="text-bold text-color2" href="/"&gt;Back to homepage&lt;/a&gt;&lt;/article&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;</en>
+    </description>
+  </more>
+</information>

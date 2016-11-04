@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4143</id>
+      <email>Vuthenam0308@gmail.com</email>
+      <username/>
+      <name>Vũ Thế Nam</name>
+      <im>1474985949_vu-the-nam.png</im>
+      <gender>1</gender>
+      <phone>0168622731</phone>
+      <address>150/16/17 Lý Chính Thắng, quận 3, TP Hồ Chí Minh</address>
+      <city>30</city>
+      <dob>1993-8-3</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474985949</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>3</day>
+      <month>8</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.786206</lat>
+      <lng>106.683984</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Giám sát tiệm cà phê, nhân viên phục vụ nhà hàng</title>
+      <experience>2</experience>
+      <category>14,15</category>
+      <type>1</type>
+      <level>2,4</level>
+      <lang>vi,en</lang>
+      <skill>Set up phòng tiệc, họp và hôi nghị&#13;
+Phục vụ các kiểu tiệc Chinese set, Western set, Buffet, Cocktail Reception.... </skill>
+      <ui>4143</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Khả năng nắm bắt và học hỏi công việc nhanh, chu đáo và hết mình với công viêc&#13;
+Chịu áp lực tốt, sẵn sàng làm thêm ngoài giờ khi cần thiết&#13;
+Có tinh thần làm việc nhóm, chịu trách nhiệm với việc được giao&#13;
+Vui vẻ, hòa đồng và có khả năng giao tiếp tổ&#13;
+</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>284,318</strjo>
+  </appliedjob>
+  <experience>
+    <n_879>
+      <id>879</id>
+      <title>Waiter</title>
+      <level>1</level>
+      <cmpname>Intercontinental Asiana Saigon</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>4/2014</from>
+      <to>9/2016</to>
+    </n_879>
+  </experience>
+  <education>
+    <n_664>
+      <id>664</id>
+      <school>ĐH Công nghiệp TP HCM</school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy>Quản trị Kinh doanh Du lịch</fieldofstudy>
+      <from>10/2011</from>
+      <to>6/2015</to>
+    </n_664>
+  </education>
+</information>

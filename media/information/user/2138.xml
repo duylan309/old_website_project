@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2138</id>
+      <email>recruit@kusto.com.vn</email>
+      <username/>
+      <name>Kusto.com.vn</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0975168028</phone>
+      <address>recruit@kusto.com.vn</address>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1473257961</created>
+      <dayleft>1478441961</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1473257961</last_signin>
+      <jobleft>0</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>5</total>
+    <strji>256,257,258,259,260</strji>
+  </totalJob>
+  <saveuser>
+    <total>19</total>
+    <strui>2199,2387,2417,2005,2261,2532,2726,2735,2791,1602,3260,3433,292,1014,3515,3767,3808,3957,4012</strui>
+  </saveuser>
+</information>

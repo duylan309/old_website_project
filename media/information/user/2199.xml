@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2199</id>
+      <email>nhan_225@yahoo.com</email>
+      <username/>
+      <name>Huu Nhan Huynh</name>
+      <im>1167293683327977_huu-nhan-huynh.jpg</im>
+      <gender>1</gender>
+      <dob>1993-5-8</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473302199</created>
+      <day>8</day>
+      <month>5</month>
+      <year>1993</year>
+      <phone>01203249205</phone>
+      <address>103 ấp 2, xã Phước Lộc, Nhà Bè</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.704072</lat>
+      <lng>106.686916</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, Pha chế, nhân viên spa</title>
+      <experience>2</experience>
+      <category>14,15,16,17,18,19,20,26,27,28,29,30,36</category>
+      <type>1,2,6</type>
+      <level>3,4</level>
+      <lang>vi,en</lang>
+      <skill>Xử lí tình huống trong công việc và với đồng nghiệp, sếp.&#13;
+Giao tiếp tốt.&#13;
+Chịu áp lực cao.&#13;
+Trí nhớ tốt.&#13;
+Làm việc nhóm.</skill>
+      <ui>2199</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Họ tên: Huỳnh Hữu Nhân.                                                     Giới tính: Nam.&#13;
+Dân tộc: Kinh.                                                                            Tôn Giáo: Không.&#13;
+Sinh ngày: 08/05/1993.	&#13;
+Cao: 1m8.                                                                                     Nhóm máu: B.   &#13;
+Nặng: 75kg.                                                                                 Nguyên quán: Gia Lai. &#13;
+Hiện đang sống: 103 ấp 2. xã Phước Lộc, huyện Nhà Bè, Tp.HCM.&#13;
+SĐT: 01203249205.                                                                   Email: Hulk7mauy2k@gmail.com.&#13;
+&#13;
+Tốt nghiệp cao đẳng FPT (2014)&#13;
+Vị trí giám sát ở Sozo cafe (2012 - 2014)&#13;
+Giáo viên trường chuyên biệt Bình An (2014 - 2016)&#13;
+&#13;
+Tính cách: Trung thực, hòa đồng, nhiệt tình, tinh tế, bình tĩnh, ...&#13;
+Tôi thường là người giữ không khí cho nhóm. Mỗi khi gặp khó khăn, tôi luôn mỉm cười. Chỉ cần bạn nói và từ đầu, tôi sẽ hiểu toàn bộ ý bạn. &#13;
+&#13;
+Sở thích: màu đen, nấu ăn, đi du lịch bằng xe đạp.&#13;
+Cuốn sách ưa thích: Nhà giả kim, Quẳng gánh lo đi mà sống.&#13;
+Tác giả ưa thích: Nguyễn Hiến Lê.&#13;
+Câu nói ưa thích: "Hơi thở là tất cả."&#13;
+Cảm ơn anh/chị đã đọc qua.&#13;
+&#13;
+</about>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Tinh thần trách nhiệm,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>20</total>
+    <strjo>240,248,211,257,167,93,126,250,201,151,258,176,149,213,174,157,193,187,155,247</strjo>
+  </appliedjob>
+  <experience>
+    <n_479>
+      <id>479</id>
+      <title>Tổ trưởng phục vụ</title>
+      <level>1</level>
+      <cmpname>Quán ăn kết nối - Sozo Cafe.</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2012</from>
+      <to>2014</to>
+    </n_479>
+  </experience>
+</information>

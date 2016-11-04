@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1475</id>
+      <email>hoangthimylinh236@gmail.com</email>
+      <username/>
+      <name>Hoàng Thị Mỹ Linh </name>
+      <im>878723632265273_linh-hoang.jpg</im>
+      <gender>2</gender>
+      <dob>1996-5-8</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472391214</created>
+      <day>8</day>
+      <month>5</month>
+      <year>1996</year>
+      <last_signin>1472391214</last_signin>
+      <phone>0967160336</phone>
+      <address>2294/1b, Vườn Lài, An Phú Đông, quận 12</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8487387</lat>
+      <lng>106.6929397</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_327>
+      <id>327</id>
+      <title>Sales</title>
+      <level>1</level>
+      <cmpname>DOLLEYES</cmpname>
+      <city/>
+      <country/>
+      <from>6/2016</from>
+      <to>8/2016</to>
+    </n_327>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>1475</ui>
+      <title>Trợ lý quản lý cấp cao</title>
+      <experience>7</experience>
+      <category>14</category>
+      <type>2</type>
+      <level>3</level>
+      <lang>vi,en</lang>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <skill>Nhiều lần làm leader dẫn dắt, phân chia công việc cho cả nhóm và giám sát việc thực hiện nó để đạt kết quả tốt nhất.</skill>
+      <keyword>Kỹ năng chăm sóc khách hàng,Tinh thần trách nhiệm,Chịu được áp lực công việc,Trung thực,Tự tin,Nhiệt tình,Tinh thần làm việc nhóm,Kỹ năng giải quyết tình huống,Giao tiếp hiệu quả</keyword>
+    </db>
+  </user_cv>
+  <savedjob>
+    <total>2</total>
+    <strjo>121,84</strjo>
+  </savedjob>
+</information>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4998</id>
+      <email>Thungaqtkd@gmail.com</email>
+      <username/>
+      <name>Lê Thị Thu Nga</name>
+      <im>4998_img-20160921-1.png</im>
+      <gender>2</gender>
+      <phone>0972715408</phone>
+      <address></address>
+      <city></city>
+      <dob>1991-9-4</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475639593</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>4</day>
+      <month>9</month>
+      <year>1991</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên thu ngân</title>
+      <experience>1</experience>
+      <category>14,16,19,20,26,28,30,36</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Kỹ năng làm việc đội nhóm tốt&#13;
+Thành thạo vi tính&#13;
+có thể giao tiếp tiếng anh cơ bản</skill>
+      <ui>4998</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>259</strjo>
+  </appliedjob>
+  <education>
+    <n_831>
+      <id>831</id>
+      <school>Cao đẳng Công Thương tp HCM</school>
+      <degrees>Cao đẳng</degrees>
+      <fieldofstudy>Quản trị kinh doanh</fieldofstudy>
+      <from>2010</from>
+      <to>2013</to>
+    </n_831>
+  </education>
+</information>

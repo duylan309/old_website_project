@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1470</id>
+      <email>nhox_inox21@yahoo.com</email>
+      <username/>
+      <name>Vân Trần</name>
+      <im>1418601614823828_van-tran.jpg</im>
+      <gender>2</gender>
+      <dob>1995-11-21</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472386791</created>
+      <day>21</day>
+      <month>11</month>
+      <year>1995</year>
+      <phone>0906710565</phone>
+      <address>508/39 cách mạng tháng 8 p11 quận 3 </address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.793364</lat>
+      <lng>106.652247</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>2</type>
+      <level>1,2</level>
+      <lang>en</lang>
+      <skill/>
+      <ui>1470</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>105,100,64</strjo>
+  </appliedjob>
+</information>

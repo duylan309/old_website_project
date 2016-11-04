@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5673</id>
+      <email>phamvan.ho25051993@gmail.com</email>
+      <username/>
+      <name>Phạm Văn Hồ</name>
+      <im/>
+      <gender>1</gender>
+      <phone>01655566478</phone>
+      <address>124/67/21D1 Xô Viết Nghệ Tĩnh P.21 Q. Bình Thạnh</address>
+      <city>30</city>
+      <dob>1993-5-25</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476143393</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476143393</last_signin>
+      <day>25</day>
+      <month>5</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8105831</lat>
+      <lng>106.7091422</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1160>
+      <id>1160</id>
+      <title>Phụ bếp</title>
+      <level>1</level>
+      <cmpname>TNHH MTV An Quý</cmpname>
+      <city>HCM</city>
+      <country>Việt Nam</country>
+      <from>01-01-2016</from>
+      <to>01-11-2016</to>
+    </n_1160>
+    <n_1161>
+      <id>1161</id>
+      <title>Phụ bếp</title>
+      <level>1</level>
+      <cmpname>TNHH MTV An Quý</cmpname>
+      <city>HCM</city>
+      <country>Việt Nam</country>
+      <from>01-01-2016</from>
+      <to>01-11-2016</to>
+    </n_1161>
+  </experience>
+  <education>
+    <n_936>
+      <id>936</id>
+      <school>Nghiệp Vụ Nhà Hàng TP</school>
+      <degrees>Bếp(loại Khá)</degrees>
+      <fieldofstudy>Bếp</fieldofstudy>
+      <from>01-01-2010</from>
+      <to>01-01-2011</to>
+    </n_936>
+  </education>
+  <user_cv>
+    <db>
+      <ui>5673</ui>
+      <title>Phụ bếp</title>
+      <experience>3</experience>
+      <category>14</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en,fr</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Tôi có thể nấu đc các món alacar...và các món bánh tráng miệng,Tôi đã từng làm qua nhà hàng,quán cà phê lớn,kinh nghiệm bếp là 7 năm...!!!!!!!</about>
+      <skill>Nhận hàng,kiểm hàng,sơ chế thực phẩm theo chỉ thị của bếp trưởng...!!!!</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

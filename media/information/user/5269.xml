@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5269</id>
+      <email>xclownpopperp@gmail.com</email>
+      <username/>
+      <name>Phúc Nguyễn</name>
+      <im>1597096220595138_phuc-nguyen.jpg</im>
+      <gender>1</gender>
+      <dob>1992-7-5</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475838908</created>
+      <day>5</day>
+      <month>7</month>
+      <year>1992</year>
+      <phone>01225662990</phone>
+      <address>119 Lầu 1,2,3 Đường 3/2 Phường 11 Quận 10, TP.HCM</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8279001</lat>
+      <lng>106.6695937</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân Viên Phục Vụ, Designer , Nhân Viên văn phòng</title>
+      <experience>7</experience>
+      <category>14,15,16,26,29</category>
+      <type>1</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill>Bằng Advance Diploma in Multimedia&#13;
+Bằng tốt nghiệp khóa Đào tạo về PCCC </skill>
+      <ui>5269</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Tôi là 1 người năng động, ham học hỏi, luôn muốn thử sức mình với những điều mới. Thích giao lưu kết bạn và luôn mưu cầu sự phát triển của bản thân trong công việc</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>364</strjo>
+  </appliedjob>
+  <experience>
+    <n_1089>
+      <id>1089</id>
+      <title>Thượng Sĩ</title>
+      <level>1</level>
+      <cmpname>Sở Cảnh sát PCCC TP.HCM</cmpname>
+      <city>TP.HCM</city>
+      <country>Vietnam</country>
+      <from>9/2013</from>
+      <to>9/2016</to>
+    </n_1089>
+    <n_1090>
+      <id>1090</id>
+      <title>Designer</title>
+      <level>1</level>
+      <cmpname>PQ Event</cmpname>
+      <city>TP.HCM</city>
+      <country>Vietnam</country>
+      <from>1/2013</from>
+      <to>5/2013</to>
+    </n_1090>
+    <n_1091>
+      <id>1091</id>
+      <title>Phụ Bếp</title>
+      <level>1</level>
+      <cmpname>Kichi Kichi Cao Thắng</cmpname>
+      <city>TP.HCM</city>
+      <country>Vietnam</country>
+      <from>5/2013</from>
+      <to>8/2013</to>
+    </n_1091>
+    <n_1092>
+      <id>1092</id>
+      <title>Designer</title>
+      <level>1</level>
+      <cmpname>Tổng Công ty Minh Vương</cmpname>
+      <city>TP.HCM</city>
+      <country>Vietnam</country>
+      <from>2010</from>
+      <to>2010</to>
+    </n_1092>
+    <n_1093>
+      <id>1093</id>
+      <title>Phục Vụ</title>
+      <level>1</level>
+      <cmpname>Nhà Hàng Khách Sạn 3 sao Ramana</cmpname>
+      <city>TP.HCM</city>
+      <country>Vietnam</country>
+      <from>2010</from>
+      <to>2010</to>
+    </n_1093>
+  </experience>
+  <education>
+    <n_883>
+      <id>883</id>
+      <school>FPT Arena</school>
+      <degrees>Advance Diploma in Multimedia</degrees>
+      <fieldofstudy>Truyền thông đa phương tiện</fieldofstudy>
+      <from>2008</from>
+      <to>2010</to>
+    </n_883>
+  </education>
+</information>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3900</id>
+      <email>phikhanhpdct.1997@gmail.com</email>
+      <username/>
+      <name>Lương Nguyễn Ngọc Quỳnh</name>
+      <im>745380025602932_luong-nguyen-ngoc-quynh.jpg</im>
+      <gender>2</gender>
+      <dob>1997-8-8</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474889274</created>
+      <day>8</day>
+      <month>8</month>
+      <year>1997</year>
+      <phone>01637742153</phone>
+      <address>174 Nguyễn Thiện Thuật P3 Q3</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7686061</lat>
+      <lng>106.6793445</lng>
+    </db>
+  </userinfo>
+  <appliedjob>
+    <total>2</total>
+    <strjo>262,214</strjo>
+  </appliedjob>
+  <user_cv>
+    <db>
+      <ui>3900</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>1</experience>
+      <category>15,35</category>
+      <type>5,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Em tên: Lương Nguyễn Ngọc Quỳnh&#13;
+Quê quán: Phan Thiết - Bình Thuận&#13;
+Hiện đang là sinh viên năm 2 của trường ĐH Tài Nguyên và Môi Trường TPHCM</about>
+      <skill>-  Có kinh nghiệm phục vụ trong các nhà hành tiệc cưới.&#13;
+- Có kinh nghiệm phục vụ ở quán cà phê</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+</information>

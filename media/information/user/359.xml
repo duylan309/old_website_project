@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>359</id>
+      <email>nqnhu218@gmail.com</email>
+      <username/>
+      <name>Nguyễn Quỳnh Như</name>
+      <im>864547950355472_nguyen-quynh-nhu.jpg</im>
+      <gender>2</gender>
+      <dob>1996-10-1</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1469905682</created>
+      <day>1</day>
+      <month>10</month>
+      <year>1996</year>
+      <phone>0902833715</phone>
+      <address>23C/2 Phan Đăng Lưu, phường 3, quận Bình Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.803042</lat>
+      <lng>106.691909</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>359</ui>
+      <title>Phục vụ</title>
+      <experience>7</experience>
+      <category>35</category>
+      <type>2</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <skill></skill>
+      <keyword>Kỹ năng chăm sóc khách hàng,Tinh thần trách nhiệm,Tập trung trong công việc,Chịu được áp lực công việc,Nhiệt tình,Trung thực,Tự tin,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+</information>

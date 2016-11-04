@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1861</id>
+      <email>nhoxkute_luzp3@yahoo.com</email>
+      <username/>
+      <name>Lợi Duy</name>
+      <im>1861_20160902-175009.jpg</im>
+      <gender>1</gender>
+      <dob>1998-11-7</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473011154</created>
+      <day>7</day>
+      <month>11</month>
+      <year>1998</year>
+      <phone>01229666038</phone>
+      <address>174/25/1 Nguyễn Thiện Thuật P3.Q3</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.769159</lat>
+      <lng>106.679205</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill></skill>
+      <ui>1861</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <keyword>Kỹ năng giải quyết tình huống</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>169</strjo>
+  </appliedjob>
+  <experience>
+    <n_411>
+      <id>411</id>
+      <title>Nhà hàng Tiệc cưới The Adora Granview</title>
+      <level>1</level>
+      <cmpname>THE ADORA GRANVIEW</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>Tháng 11 năm 2014</from>
+      <to>Tháng 8 năm 2016</to>
+    </n_411>
+  </experience>
+</information>

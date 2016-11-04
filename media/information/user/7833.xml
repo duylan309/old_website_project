@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7833</id>
+      <email>Mathi30081995@gmail.com</email>
+      <username/>
+      <name>Lê Thị Hạnh Quyên</name>
+      <im>1477473314_le-thi-hanh-quyen.png</im>
+      <gender>2</gender>
+      <phone>0964337763</phone>
+      <address>1015/11 Huỳnh Tấn Phát phường Tân Thuận  Quận 7 </address>
+      <city>30</city>
+      <dob>1995-8-30</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477473314</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>30</day>
+      <month>8</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7560995</lat>
+      <lng>106.74315</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục vụ, pha chế,bán hàng</title>
+      <experience>2</experience>
+      <category>14,15,17,29,31,35</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Giao tiếp tiếng anh cơ bản</skill>
+      <ui>7833</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Sinh viên năm cuối chuyên ngành ngôn ngữ Anh tại trường đại học Tôn Đức Thắng</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>234,501</strjo>
+  </appliedjob>
+  <experience>
+    <n_1527>
+      <id>1527</id>
+      <title>Hướng dẫn viên</title>
+      <level>1</level>
+      <cmpname>Vietopia</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2/9/2014</from>
+      <to>2/9/15</to>
+    </n_1527>
+    <n_1528>
+      <id>1528</id>
+      <title>Phục vụ</title>
+      <level>1</level>
+      <cmpname>Nhà bánh Pizza Inn</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>19/3/15</from>
+      <to>25/1/16</to>
+    </n_1528>
+    <n_1529>
+      <id>1529</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>TNHH Phúc Gia Thịnh - momoland</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2/4/16</from>
+      <to>31/10/16</to>
+    </n_1529>
+  </experience>
+  <education>
+    <n_1269>
+      <id>1269</id>
+      <school>Đại học Tôn Đức Thắng </school>
+      <degrees>Năm 4</degrees>
+      <fieldofstudy>Ngôn ngữ anh</fieldofstudy>
+      <from>9/2013</from>
+      <to>9/2017</to>
+    </n_1269>
+  </education>
+</information>

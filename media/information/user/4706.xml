@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4706</id>
+      <email>Leobaobinh@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Hà Linh</name>
+      <im>4706_14316807-1079654188814594-7406165437902251350-n.jpg</im>
+      <gender>2</gender>
+      <phone>01267560199</phone>
+      <address>chung cư Quốc Cường Gia Lai, 421 Trần Xuân Soạn, P.Tân Kiểng Q7, TPHCM</address>
+      <city>30</city>
+      <dob>1998-2-17</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475431940</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1475431940</last_signin>
+      <day>17</day>
+      <month>2</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7335118</lat>
+      <lng>106.6974634</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>4706</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Tôi là người vui vẻ, hòa đồng và hơi điên một tí. Điên ở đây là nói chuyện và trêu đùa. Con người tôi có những ưu điểm và khuyết điểm sau:&#13;
+* ƯU ĐIỂM:&#13;
+- Thân thiện và dễ hòa đồng&#13;
+- Linh hoạt và nhạy bén trong xử lí công việc&#13;
+- Làm việc nhóm tốt và thích lắng nghe&#13;
+* NHƯỢC ĐIỂM:&#13;
+- Hơi bao đồng chuyện người khác&#13;
+- Hay để ý những chi tiết lặt vặt, kiểu hơi kĩ tính&#13;
+- Rất dễ nóng nảy&#13;
+P.s: Tôi yêu quý người già và trẻ em, đặc biệt thích chó mèo và cực kì muốn giao tiếp với người nước ngoài &lt;3&#13;
+- </about>
+      <skill>- Làm việc tốt với MS Word&#13;
+- Biết một chút về Excel&#13;
+- Có thể làm bài trình chiếu Power Point một cách hoàn chỉnh</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <education>
+    <n_784>
+      <id>784</id>
+      <school>ĐH Khoa Học Xã Hội và Nhân Văn THCM</school>
+      <degrees/>
+      <fieldofstudy>Ngữ Văn Đức</fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_784>
+  </education>
+  <appliedjob>
+    <total>1</total>
+    <strjo>105</strjo>
+  </appliedjob>
+</information>

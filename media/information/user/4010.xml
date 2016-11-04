@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4010</id>
+      <email>Caube_rungxanh640@yahoo.com</email>
+      <username/>
+      <name>Thanh Quang</name>
+      <im/>
+      <gender>0</gender>
+      <phone/>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474948277</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1474948277</last_signin>
+    </db>
+  </userinfo>
+  <education>
+    <n_651>
+      <id>651</id>
+      <school>Trung cấp việt giao</school>
+      <degrees>Nghiệp vụ pha chế rượu</degrees>
+      <fieldofstudy>Pha chế</fieldofstudy>
+      <from>2013</from>
+      <to>2014</to>
+    </n_651>
+  </education>
+</information>

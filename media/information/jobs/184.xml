@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>184</id>
+    <ui>1217</ui>
+    <ci>273</ci>
+    <ai>0</ai>
+    <ti>Nhân viên bán hàng</ti>
+    <ta/>
+    <le>1</le>
+    <ty>2</ty>
+    <ex>7</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>2500000</s1>
+    <s2>3000000</s2>
+    <s3>113</s3>
+    <s4>136</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description>+ Chào mời khách\r\n+ Sắp xếp, trình bày món ăn\r\n+ Phụ rửa chén và dọn dẹp công việc lặt vặt trong bếp\r\n</description>
+    <requirement>+ Lanh lẹ, tháo vát\r\n+ Chiu khó, siêng năng</requirement>
+    <benefit>+ Được phát áo đồng phục khi đi làm\r\n+ Có bao cơm trưa và tối\r\n+ Tiền lương cạnh tranh.\r\n+ Có thưởng chuyên cần nếu làm việc chăm chỉ.\r\n+ Môi trường làm việc thân thiện, hợp tác.\r\n\r\n</benefit>
+    <keyword>Aeon</keyword>
+    <ad/>
+    <location_id>96</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-10-22</de>
+    <re>0000-00-00</re>
+    <cr>1472100384</cr>
+  </db>
+  <more>
+    <requirement>+ Lanh lẹ, tháo vát&#13;
++ Chiu khó, siêng năng</requirement>
+    <description>+ Chào mời khách&#13;
++ Sắp xếp, trình bày món ăn&#13;
++ Phụ rửa chén và dọn dẹp công việc lặt vặt trong bếp&#13;
+</description>
+    <benefit>+ Được phát áo đồng phục khi đi làm&#13;
++ Có bao cơm trưa và tối&#13;
++ Tiền lương cạnh tranh.&#13;
++ Có thưởng chuyên cần nếu làm việc chăm chỉ.&#13;
++ Môi trường làm việc thân thiện, hợp tác.&#13;
+&#13;
+</benefit>
+    <keyword>Aeon</keyword>
+  </more>
+  <userapplied>
+    <total>14</total>
+    <strui>661,292,2451,2699,3399,3980,4145,4408,4553,5153,5689,5741,6481,7039</strui>
+  </userapplied>
+</information>

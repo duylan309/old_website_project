@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7759</id>
+      <email>Thaihoangmy123@gmail.com</email>
+      <username/>
+      <name>Thái Thị Hoàng My</name>
+      <im>7759_img-0231.jpg</im>
+      <gender>2</gender>
+      <phone>01693458914</phone>
+      <address>143, Hương Lộ 2, Tân Thông Hội, Củ Chi, Tp.HCM</address>
+      <city>30</city>
+      <dob>1996-1-23</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477448357</created>
+      <dayleft>0</dayleft>
+      <jobleft>0</jobleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1477448357</last_signin>
+      <day>23</day>
+      <month>1</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.9846763</lat>
+      <lng>106.4992844</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_1264>
+      <id>1264</id>
+      <school>Đại học Bách Khoa Tp.HCM</school>
+      <degrees>Sinh viên năm 3</degrees>
+      <fieldofstudy>Quản lý Công nghiệp</fieldofstudy>
+      <from>2014</from>
+      <to>Nay</to>
+    </n_1264>
+  </education>
+  <user_cv>
+    <db>
+      <ui>7759</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>1</experience>
+      <category>15,17,27,29,35</category>
+      <type>1,2,3,4</type>
+      <level>1,2</level>
+      <lang>vi,en,ja</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Tôi hiện là sinh viên năm thứ 3, chuyên ngành Quản lý Công nghiệp. Trong suốt hơn 2 năm học vừa qua, tôi đã tham gia nhiều hoạt động cộng đồng, đảm nhận công việc liên quan đến con người và tiếp thị. Được mọi người đánh giá là người dễ hòa nhập, vui vẻ, thật thà và cầu tiến, tôi tin mình phù hợp với tiêu chuẩn đề ra của công việc đã chọn. &#13;
+Nếu tôi có thể cung cấp nhiều thông tin hơn, hãy liên hệ trực tiếp qua mail và số điện thoại đã đính kèm. &#13;
+Trân trọng.</about>
+      <skill>- Tiếng Anh: TOEIC 750&#13;
+- Tiếng Nhật: starter&#13;
+- Kỹ năng thuyết trình&#13;
+- Nhẫn nại và chịu được thử thách trong công việc&#13;
+- Kỹ năng đàm phán, thương lượng</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>165,105</strjo>
+  </appliedjob>
+</information>

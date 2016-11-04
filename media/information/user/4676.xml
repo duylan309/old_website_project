@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4676</id>
+      <email>nguyenvananh2194@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Vân Anh</name>
+      <im>4676_14520551-1787264558165190-619145823249007087-n.jpg</im>
+      <gender>2</gender>
+      <phone>0976793159</phone>
+      <address>Quận Bình Thạnh</address>
+      <city>30</city>
+      <dob>1995-9-1</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475411317</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1475411317</last_signin>
+      <day>1</day>
+      <month>9</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8105831</lat>
+      <lng>106.7091422</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>4676</ui>
+      <title>Nhân viên phục vụ , nhân viên văn phòng</title>
+      <experience>7</experience>
+      <category>14,15,20</category>
+      <type>3,4,5</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>1500000</s1>
+      <salary>1</salary>
+      <about>Là sinh viên mong muốn có việc làm thêm phù hợp với thời gian và trong một môi truoqfng làm việc năng động, vui vẻ. Là người nhút nhát nhưng có tinh thần học hỏi cao. Tuy có chút hậu đậu nhưng sẽ cố gắng khắc phục để làm tốt công việc được giao. </about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <education>
+    <n_777>
+      <id>777</id>
+      <school>Đại Học Công nghiệp TP Hồ Chí Minh</school>
+      <degrees>sắp tốt nghiệp đại học</degrees>
+      <fieldofstudy>kế toán</fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_777>
+  </education>
+  <savedjob>
+    <total>1</total>
+    <strjo>420</strjo>
+  </savedjob>
+</information>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3303</id>
+      <email>thuytrang1194@gmail.com</email>
+      <username/>
+      <name>lưu thị thùy trang</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01222686664</phone>
+      <address>hẻm 63 phạm văn sáng, xuân thới thượng, hóc môn</address>
+      <city>30</city>
+      <dob>1994-11-6</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474519000</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>6</day>
+      <month>11</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8433563</lat>
+      <lng>106.5819199</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ, pha chế, bếp, lãnh vực ẩm thực và dịch vụ ăn uống</title>
+      <experience>2</experience>
+      <category>14,15,27</category>
+      <type>1,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Từng làm nhân viên phục vụ tại lotteria.&#13;
+Pha chế và phục vụ tại buds ice cream.&#13;
+Thực tập sinh tại khách sạn Park Royal saigon bộ phận F&amp;B.</skill>
+      <ui>3303</ui>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <about>Đã tốt nghiệp chuyên ngành quản trị nhà hàng và dịch vụ ăn uống tại đh công nghiệp tphcm.&#13;
+Siêng năng, nhanh nhẹn, ham học hỏi.&#13;
+Vui vẻ hòa đồng với mọi người</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>194,106</strjo>
+  </appliedjob>
+</information>

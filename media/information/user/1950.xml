@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1950</id>
+      <email>Truongthitrucuyen1993@gmail.com</email>
+      <username/>
+      <name>Trương thị uyên</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0971737017</phone>
+      <address>96 lê thị hồng .p17 quận gò vấp tphcm</address>
+      <city>30</city>
+      <dob>1993-8-23</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473086756</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1473086756</last_signin>
+      <day>23</day>
+      <month>8</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_438>
+      <id>438</id>
+      <title>Nhân viên housekeeping</title>
+      <level>1</level>
+      <cmpname>Khách sạn captown</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>3/2015</from>
+      <to>9/2015</to>
+    </n_438>
+    <n_439>
+      <id>439</id>
+      <title>Nhân viên kinh doanh</title>
+      <level>1</level>
+      <cmpname>Ct TNHH Tư Vấn Nhà Đất Quân Nhân</cmpname>
+      <city>Hồ chí minh</city>
+      <country>Việt nam</country>
+      <from>9/2015</from>
+      <to>3/2016</to>
+    </n_439>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>1950</ui>
+      <title>Nhân viên phục vụ, bếp, pha chế, buồng phòng</title>
+      <experience>2</experience>
+      <category>14,18,20,29,30</category>
+      <type>1,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <skill></skill>
+      <keyword>Kỹ năng chăm sóc khách hàng,Giao tiếp hiệu quả,Kỹ năng giải quyết tình huống,Tinh thần trách nhiệm,Chịu được áp lực công việc,Tập trung trong công việc,Trung thực,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+</information>

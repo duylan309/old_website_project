@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7421</id>
+      <email>ngocgiau_tg_04_12_94@yahoo.com.vn</email>
+      <username/>
+      <name>Đoàn Giàu</name>
+      <im>700382363452884_doan-giau.jpg</im>
+      <gender>2</gender>
+      <dob>1994-12-4</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477238121</created>
+      <day>4</day>
+      <month>12</month>
+      <year>1994</year>
+      <last_signin>1477238121</last_signin>
+      <phone>01674294122</phone>
+      <address>45/76 Cao Lỗ, P4, Q8</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7365</lat>
+      <lng>106.675594</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>7421</ui>
+      <title>Nhân viên phục vụ, pha chế</title>
+      <experience>7</experience>
+      <category>14,15,17,18,29</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>1000000</s1>
+      <salary>1</salary>
+      <about>Tên: Đoàn Thị Ngọc Giàu.&#13;
+Đã có kinh nghiệm về bán hàng. Tự tin vào kỹ năng giao tiếp của mình.</about>
+      <skill>Kỹ năng giao tiếp, thân thiện.&#13;
+Thích nghi với môi trường tốt.</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>312</strjo>
+  </appliedjob>
+</information>

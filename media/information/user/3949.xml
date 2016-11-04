@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3949</id>
+      <email>info@thesociety.com.vn</email>
+      <username/>
+      <name>THE SOCIETY BAR &amp; GRILL</name>
+      <im>3949_the-society-bar-grill-logo-final-test2.png</im>
+      <gender>0</gender>
+      <phone>0839143999</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1474900387</created>
+      <dayleft>1480084387</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1474900387</last_signin>
+      <jobleft>1</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>4</total>
+    <strji>340,341,342,343</strji>
+  </totalJob>
+  <saveuser>
+    <total>9</total>
+    <strui>1569,3472,4236,4255,425,3866,3775,4343,4575</strui>
+  </saveuser>
+</information>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>192</id>
+    <ui>217</ui>
+    <name>Thue</name>
+    <url>thuetodayvn</url>
+    <im>192_tuktuk-logo.jpg</im>
+    <category>14</category>
+    <phone>01267543789</phone>
+    <address>149 Nguyễn Thị Định</address>
+    <district>769</district>
+    <district_text_vi>Quận 2</district_text_vi>
+    <district_text_en>District 2</district_text_en>
+    <city>30</city>
+    <lat>10.76373</lat>
+    <lng>106.776082</lng>
+    <website/>
+    <skype/>
+    <facebook/>
+    <size>1</size>
+    <status>0</status>
+    <dayleft>0</dayleft>
+    <jobleft>0</jobleft>
+    <signupby/>
+    <token/>
+    <fb_load_newfeed>0</fb_load_newfeed>
+    <fb_load_photo>0</fb_load_photo>
+    <created>1466534037</created>
+    <deactive>0</deactive>
+  </db>
+  <more>
+    <about/>
+    <whyworkus/>
+  </more>
+  <totalJob>
+    <total>1</total>
+    <strji>67</strji>
+  </totalJob>
+  <companybanner>192_uktuk-cover.jpg</companybanner>
+</information>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3293</id>
+      <email>kimthiennong@gmail.com</email>
+      <username/>
+      <name>Nông Thiên Kim</name>
+      <im>3293_fotor-14418904121280.jpg</im>
+      <gender>2</gender>
+      <dob>1996-8-16</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474510510</created>
+      <day>16</day>
+      <month>8</month>
+      <year>1996</year>
+      <phone>0933858367</phone>
+      <address>12 Võ Văn Kiệt p. Nguyễn Thái Bình q.1</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.768619</lat>
+      <lng>106.7028058</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>3293</ui>
+      <title>Nhân viên phục vụ, Pha chế</title>
+      <experience>7</experience>
+      <category>14,15,17,20,35</category>
+      <type>2,4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>My name is Thiên Kim. I’m now a junior of International University, major in Hospitality and I’ve never done a part time job before. Actually. I want to do jobs that give me chances to learn something new and meet a lot people. I’m an extrovert and enjoy social and communication activities so I believe that would help much in the position for which I’m applying. I don’t think I’m any more or less special than other applicants. However I do have good qualities like sincerity, loyalty and reliability which I feel are important traits for a person to possess. Besides, I can easily make good relationships with colleagues and they can always count on me in both good times and bad. A person like me will strive to do a great job, serve the best service to customers, if not an excellent one then only get satisfaction from a job well done. If you require any further information from me then please get in touch. In any event, I look forward to hearing from you as the recruitment process progresses</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>126,222,201,181,371,211</strjo>
+  </appliedjob>
+  <education>
+    <n_691>
+      <id>691</id>
+      <school>HCMC International University</school>
+      <degrees>Undergraduate </degrees>
+      <fieldofstudy>Business Administration ( Major in Hospitality)</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_691>
+  </education>
+</information>

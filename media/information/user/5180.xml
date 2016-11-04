@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5180</id>
+      <email>kieuchinh.pham7@gmail.com</email>
+      <username/>
+      <name>Phạm Đinh Kiều Chinh</name>
+      <im>5180_13775583-1103003983076787-981992386557340466-n.jpg</im>
+      <gender>2</gender>
+      <phone>01682679456</phone>
+      <address>389, Nguyễn Trãi, phường 7, quận 5</address>
+      <city>30</city>
+      <dob>1996-7-23</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475767835</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1475767835</last_signin>
+      <day>23</day>
+      <month>7</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7553227</lat>
+      <lng>106.6740325</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>5180</ui>
+      <title>Nhân viên phục vụ, nhân viên pha chế, nhân viên bán hàng, Nhân viên lễ tân</title>
+      <experience>1</experience>
+      <category>14,15,17,20,26,27,28,29,30,31,35,36</category>
+      <type>2,3,4,5,6</type>
+      <level>1,2,3</level>
+      <lang>vi,en</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>Tôi mong muốn được làm việc trong một môi trường chuyên nghiệp, năng động, được tiếp xúc với nhiều khách hàng.&#13;
+- Đầu tiên là để phát triển khả năng riêng của tôi, phát huy những ưu điểm đồng thời khắc phục những điểm còn thiếu sót nhằm mang lại hiệu quả công việc tốt nhất.&#13;
+- Thứ hai, tôi muốn thử sức bản thân với những công việc mới khác nhau để tích lũy nhiều kinh nghiệm cho sau này.&#13;
+- Thứ ba, tôi muốn có cơ hội xây dựng những mối quan hệ mới, tăng khả năng giao tiếp và xử lý tình huống.&#13;
+- Và cuối cùng, tôi mong rằng có thể được hợp tác lâu dài với Quý công ty.</about>
+      <skill>Tiếng Anh giao tiếp tốt.&#13;
+Biết word, power point,excel cơ bản.&#13;
+Làm việc nhóm tốt.&#13;
+&#13;
+Ưu điểm:&#13;
+- Có trách nhiệm với công việc được giao phó.&#13;
+- Tiếp thu nhanh chóng và luôn ý thức cố gắng hoàn thành mọi thứ thật tốt.&#13;
+- Chăm chỉ và đúng giờ, không ngại khó khăn trong công việc.&#13;
+- Cẩn thận trong vấn đề tiền bạc, sổ sách thu chi.&#13;
+- Luôn trung thực, không bao biện về lỗi sai của bản thân.&#13;
+- Biết lắng nghe, sẵn sàng nhận góp ý từ mọi người xung quanh.&#13;
+- Giữ thái độ vui vẻ, thân thiện, lịch sự với đồng nghiệp và khách hàng.&#13;
+- Mong muốn được hợp tác trong khoản thời gian dài.&#13;
+&#13;
+Khuyết điểm:&#13;
+- Đôi lúc cầu toàn một cách thái quá.&#13;
+- Dễ bị ảnh hưởng bởi cảm xúc của người khác.&#13;
+</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <experience>
+    <n_1056>
+      <id>1056</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>The Bingsu Place</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>9/2015</from>
+      <to>4/2016</to>
+    </n_1056>
+    <n_1057>
+      <id>1057</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>Bumps Shop</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>4/2016</from>
+      <to>7/2016</to>
+    </n_1057>
+  </experience>
+  <education>
+    <n_851>
+      <id>851</id>
+      <school>Đại học Luật TPHCM</school>
+      <degrees>Đại học chính quy</degrees>
+      <fieldofstudy>Luật Dân sự-Thương mại-Quốc tế</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_851>
+  </education>
+  <appliedjob>
+    <total>11</total>
+    <strjo>237,171,154,305,323,63,156,162,275,353,434</strjo>
+  </appliedjob>
+</information>

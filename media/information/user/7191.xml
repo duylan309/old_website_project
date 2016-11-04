@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7191</id>
+      <email>NguyenChiHieu159@gmail.com</email>
+      <username/>
+      <name>Nguyễn Chí Hiếu</name>
+      <im>1477112481_nguye-n-chi-hie-u.png</im>
+      <gender>1</gender>
+      <phone>0938498500</phone>
+      <address>Huỳnh Tấn Phát, Quận 7, TP.HCM</address>
+      <city>30</city>
+      <dob>1995-9-15</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477112481</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>15</day>
+      <month>9</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên Pha chế, Phục vụ.</title>
+      <experience>7</experience>
+      <category>14,15,16,18,19,20,26,27,28,29,30,31,35</category>
+      <type>2,4,5,6</type>
+      <level>1,2</level>
+      <lang>vi</lang>
+      <skill>MAKE LEADER cho The Pizza Company</skill>
+      <ui>7191</ui>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <about>Sinh viên của Trường ĐH Tài Chính - Marketing.&#13;
+Chuyên ngành Marketing.&#13;
+Lanh lẹ, chịu học hỏi, siêng năng, dễ thương.&#13;
+Chiều cao: 1m6&#13;
+Cân nặng: 50kg</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>222</strjo>
+  </appliedjob>
+</information>

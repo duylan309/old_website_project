@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>314</id>
+    <ui>2725</ui>
+    <ci>334</ci>
+    <ai>0</ai>
+    <ti>nhân viên IT</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>2</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>5000000</s1>
+    <s2>7000000</s2>
+    <s3>227</s3>
+    <s4>318</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14,15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>175</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-10-14</de>
+    <re>0000-00-00</re>
+    <cr>1474520711</cr>
+  </db>
+  <more>
+    <requirement>- có kinh nghiệm về quản lý server&#13;
+- quản lý dữ liệu chuỗi nhà hàng&#13;
+- cài đặt, lắp ráp phần mềm</requirement>
+    <description>- thực hiện công việc thiết lập mạng nội bộ&#13;
+- quản lý server: theo dõi vận hành, sao lưu dữ liệu máy chủ....&#13;
+- cài đặt và xử lý sự cố máy chủ&#13;
+- quản lý hạ tầng, thiết bị công nghệ thông tin công ty.&#13;
+- Lên kế hoạch bảo trì, nâng cấp hệ thống.&#13;
+</description>
+    <benefit>- công ty lo cơm trưa.&#13;
+- nghỉ thứ 7 - CN&#13;
+- lương Tháng 13, &#13;
+- chế độ BHXH theo đúng quy định nhà nước</benefit>
+    <keyword/>
+  </more>
+  <userapplied>
+    <total>1</total>
+    <strui>5911</strui>
+  </userapplied>
+</information>

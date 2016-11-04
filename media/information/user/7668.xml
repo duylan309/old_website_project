@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7668</id>
+      <email>voiluoi1304@gmail.com</email>
+      <username/>
+      <name>Trần Lê Thanh Phụng</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0909456793</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477394798</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>cửa hàng trưởng</title>
+      <experience>2</experience>
+      <category>15</category>
+      <type>1</type>
+      <level>5</level>
+      <lang>vi,en,ch</lang>
+      <skill/>
+      <ui>7668</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>174</strjo>
+  </appliedjob>
+</information>

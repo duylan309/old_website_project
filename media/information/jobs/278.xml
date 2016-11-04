@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>278</id>
+    <ui>1263</ui>
+    <ci>278</ci>
+    <ai>0</ai>
+    <ti>Nhân viên phục vụ</ti>
+    <ta/>
+    <le>1</le>
+    <ty>1,2</ty>
+    <ex>1,2,7</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>2000000</s1>
+    <s2>4000000</s2>
+    <s3>90</s3>
+    <s4>181</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14,15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>101</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-10-23</de>
+    <re>0000-00-00</re>
+    <cr>1473733096</cr>
+  </db>
+  <more>
+    <requirement/>
+    <description>- Giới thiệu khách hàng các món ăn và đồ uống cho khách hàng&#13;
+- Đặt món, bưng bê, tính tiền.&#13;
+- Quét lau sàn nhà, lau bàn, dọn vệ sinh, set up bàn , rửa ly.&#13;
+- Reservation customer,drink and alcohol order, drink food take order , set the table, washing dish and glass , kitchen assistant </description>
+    <benefit>Được đào tạo&#13;
+Được tăng lương theo năn&#13;
+Bao cơm theo ca&#13;
+&#13;
+Ca làm việc&#13;
+Ca gãy 10 tiếng&#13;
+Sáng - 9h - 13h00&#13;
+Chièu - 14h-20h00&#13;
+&#13;
+Ca 8 tiếng&#13;
+Sáng -9h-17h00&#13;
+Chiều-13-22h00</benefit>
+    <keyword/>
+  </more>
+  <userapplied>
+    <total>25</total>
+    <strui>2703,2758,2755,292,2972,2995,3205,3662,3739,3808,4045,4408,1742,4566,3668,4679,5205,4833,3652,5603,5858,5869,6555,7347,7649</strui>
+  </userapplied>
+</information>

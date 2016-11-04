@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6471</id>
+      <email>kurosaki309@yahoo.com.vn</email>
+      <username/>
+      <name>Nguyễn Huy Nghĩa</name>
+      <im>1054416481344260_nghia-nguyen.jpg</im>
+      <gender>1</gender>
+      <dob>1997-9-30</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476624007</created>
+      <day>30</day>
+      <month>9</month>
+      <year>1997</year>
+      <phone>0907459356</phone>
+      <address>15/12 Hoàng Hoa Thám, Phường 13, Quận Tân Bình</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.799455</lat>
+      <lng>106.646682</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>pha chế, phục vụ, phụ bếp, thu ngân</title>
+      <experience>7</experience>
+      <category>14,15,36</category>
+      <type>2</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill></skill>
+      <ui>6471</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Sinh viên năm 2 đại học Hoa Sen ngành Quản trị nhà hàng và dịch vụ ăn uống, tiếng anh cơ bản tốt, có thể giao tiếp </about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>100,427</strjo>
+  </appliedjob>
+</information>

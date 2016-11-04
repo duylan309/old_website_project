@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2382</id>
+      <email>mrtaxi1309@yahoo.com.vn</email>
+      <username/>
+      <name>Tấn Tiến </name>
+      <im>891689200963042_tien-ta.jpg</im>
+      <gender>1</gender>
+      <dob>1996-9-13</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473428694</created>
+      <day>13</day>
+      <month>9</month>
+      <year>1996</year>
+      <phone>01225830982</phone>
+      <address>66/41 Trần Văn Khánh. PTTĐông, Q7</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,17,27,29</category>
+      <type>2,4,5</type>
+      <level>2</level>
+      <lang>vi,en,ch</lang>
+      <skill/>
+      <ui>2382</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword>Kỹ năng chăm sóc khách hàng,Tinh thần trách nhiệm,Trung thực,Nhiệt tình</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>7</total>
+    <strjo>252,247,162,152,126,238,171</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>253</strjo>
+  </savedjob>
+</information>

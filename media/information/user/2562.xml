@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2562</id>
+      <email>b.tran1505@gmail.com</email>
+      <username/>
+      <name>Bảo Trân</name>
+      <im>1675404852776503_bao-tran.jpg</im>
+      <gender>2</gender>
+      <dob>1997-5-15</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473666353</created>
+      <day>15</day>
+      <month>5</month>
+      <year>1997</year>
+      <phone>01656383879</phone>
+      <address>50E Hoa Cau, phường 7, quận phú nhuận</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7992593</lat>
+      <lng>106.6889213</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>35</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill></skill>
+      <ui>2562</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>156</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>156</strjo>
+  </savedjob>
+</information>

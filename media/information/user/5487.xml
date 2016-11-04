@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5487</id>
+      <email>baolam090997@gmail.com</email>
+      <username/>
+      <name>Dương Phước Bảo Lâm</name>
+      <im>1790507487893067_duong-phuoc-bao-lam.jpg</im>
+      <gender>1</gender>
+      <dob>1997-9-9</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476014176</created>
+      <day>9</day>
+      <month>9</month>
+      <year>1997</year>
+      <last_signin>1476014176</last_signin>
+      <phone>0985408759</phone>
+      <address>F12/11 Ấp 6,Xã Vĩnh Lộc A,H.Bình Chánh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8194839</lat>
+      <lng>106.5522481</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1130>
+      <id>1130</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>KFC Nguyễn Sơn,Quận Tân Phú</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Viet Nam</country>
+      <from>Tháng 8/2015</from>
+      <to>Tháng 2/2016</to>
+    </n_1130>
+    <n_1131>
+      <id>1131</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Coffee MiMi</cmpname>
+      <city>Hồ chí Minh</city>
+      <country>Viet Nam</country>
+      <from>Tháng 5/2012</from>
+      <to>Tháng 9/2012</to>
+    </n_1131>
+    <n_1132>
+      <id>1132</id>
+      <title>Nhân viên bán thức ăn nhanh</title>
+      <level>1</level>
+      <cmpname>Bánh mì Má Hải</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Viet Nam</country>
+      <from>Tháng 4/2016</from>
+      <to>Hiện đang làm tại đây</to>
+    </n_1132>
+    <n_1133>
+      <id>1133</id>
+      <title>Nhân viên phục vụ Nhà Hàng</title>
+      <level>1</level>
+      <cmpname>Grand Palace</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Viet Nam</country>
+      <from>Tháng 10/2015</from>
+      <to>Tháng 3/2016</to>
+    </n_1133>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>5487</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>2</experience>
+      <category>15,16,17,19,29,31,35</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Tôi hiện đang là sinh viên năm 2 của trường Cao Đẳng FPT Polytechnic chuyên ngành Marketing Quản trị doanh nghiệp.&#13;
+</about>
+      <skill>Truyền thông giải trí </skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

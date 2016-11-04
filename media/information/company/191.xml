@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>191</id>
+    <ui>204</ui>
+    <name>LAN TESTING THUE FINAL</name>
+    <url>thuetodayvn</url>
+    <im>191_logo-thue.jpg</im>
+    <category>14</category>
+    <phone>01267543789</phone>
+    <address>149 Nguyen Thi Dinh</address>
+    <district>760</district>
+    <district_text_vi>Quận 1</district_text_vi>
+    <district_text_en>District 1</district_text_en>
+    <city>30</city>
+    <lat>10.7928</lat>
+    <lng>106.752078</lng>
+    <website>www.thue.today</website>
+    <skype/>
+    <facebook>www.facebook.com/thue.today</facebook>
+    <size>1</size>
+    <status>0</status>
+    <dayleft>0</dayleft>
+    <jobleft>0</jobleft>
+    <signupby/>
+    <token/>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1466254866</created>
+    <deactive>0</deactive>
+  </db>
+  <more>
+    <about/>
+    <whyworkus/>
+  </more>
+  <latlng>
+    <lat>10.78769565881839</lat>
+    <lng>106.75586365163326</lng>
+  </latlng>
+  <companybanner>191_fb-cover.jpg</companybanner>
+  <totalJob>
+    <total>2</total>
+    <strji>65,66</strji>
+  </totalJob>
+</information>

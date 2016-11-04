@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3344</id>
+      <email>thienhuong.india10@gmail.com</email>
+      <username/>
+      <name>Thiên Hương Nguyễn Bảo</name>
+      <im>1726878827575369_thien-huong-nguyen-bao.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474542640</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>chăm sóc khách hàng</title>
+      <experience>1</experience>
+      <category>29</category>
+      <type>1</type>
+      <level>3</level>
+      <lang>en</lang>
+      <skill>Nghiệp vu thư ký văn phòng, nghiệp vụ du lịch, nghiệp vụ ngoại thương, tiếng Anh giao tiếp</skill>
+      <ui>3344</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>318</strjo>
+  </appliedjob>
+</information>

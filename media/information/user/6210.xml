@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6210</id>
+      <email>nguyenphidung2004@gmail.com</email>
+      <username/>
+      <name>Nguyễn Phi Dũng</name>
+      <im>6210_c360-2015-12-10-19-55-54-952.jpg</im>
+      <gender>1</gender>
+      <phone>0901466481</phone>
+      <address>7b/105/35 Thành Thái,p14, quận 10</address>
+      <city>30</city>
+      <dob>1991-4-20</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476435382</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>20</day>
+      <month>4</month>
+      <year>1991</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7755237</lat>
+      <lng>106.6641128</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bếp</title>
+      <experience>1</experience>
+      <category>14,35</category>
+      <type>1,4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Có kĩ năng về bếp Nhật</skill>
+      <ui>6210</ui>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <about>Đam mê ẩm thực châu Á,muốn học hỏi kinh nghiệm về bếp để phát triển tay nghề.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>8</total>
+    <strjo>406,188,391,276,459,153,377,370</strjo>
+  </appliedjob>
+  <experience>
+    <n_1256>
+      <id>1256</id>
+      <title>Nhân viên bếp</title>
+      <level>1</level>
+      <cmpname>Toridoll V Lotus</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>9/2015</from>
+      <to>9/2016</to>
+    </n_1256>
+  </experience>
+  <education>
+    <n_1031>
+      <id>1031</id>
+      <school>Trung cấp du lịch và khách sạn Saigontourist</school>
+      <degrees/>
+      <fieldofstudy>Chế biến món ăn</fieldofstudy>
+      <from>6/2015</from>
+      <to>4/2017</to>
+    </n_1031>
+  </education>
+</information>

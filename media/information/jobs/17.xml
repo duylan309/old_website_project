@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>17</id>
+    <ui>27</ui>
+    <ci>27</ci>
+    <ai>0</ai>
+    <ti>Chef</ti>
+    <ta/>
+    <le>2</le>
+    <ex>1</ex>
+    <sa>1</sa>
+    <lo>30</lo>
+    <ca>14</ca>
+    <so>0</so>
+    <st>4</st>
+    <de>0000-00-00</de>
+    <re>0000-00-00</re>
+    <cr>1460957833</cr>
+    <sn>0</sn>
+    <s1>3000000</s1>
+    <s2>5000000</s2>
+    <ty>1</ty>
+    <s3>136</s3>
+    <s4>227</s4>
+    <la/>
+  </db>
+  <more>
+    <number>3</number>
+    <requirement>+ Hồ sơ bao gồm:&#13;
+Đơn xin việc.&#13;
+Sơ yếu lí lịch &#13;
+Bảng photo CMND.&#13;
+Khám sức khỏe</requirement>
+    <description>+ CV: Bán hàng, tính tiền, bưng bê, dọn dẹp, làm bếp... &#13;
++ Điều kiện :&#13;
+Tốt nghiệp PTTH. Ưu tiên Sinh viên.&#13;
+Làm việc theo ca.&#13;
+Tuổi từ 18 đến 21. &#13;
+Nhanh nhẹn, trung thực, chăm chỉ.&#13;
+Ngoại hình dễ nhìn.&#13;
+***Ưu tiên làm Lễ , Tết và các ngày thứ 7, chủ nhật ***</description>
+  </more>
+  <userapplied>
+    <total>1</total>
+    <strui>205</strui>
+  </userapplied>
+</information>

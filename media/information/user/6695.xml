@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6695</id>
+      <email>Quynhnov@gmail.com</email>
+      <username/>
+      <name>Dương Như Quỳnh</name>
+      <im>1476790740_duong-nhu-quynh.png</im>
+      <gender>2</gender>
+      <phone>01667671859</phone>
+      <address>Chung cư B1 trường sa, phường 17, quận Bình Thạnh </address>
+      <city>30</city>
+      <dob>1997-11-30</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476790739</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>30</day>
+      <month>11</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7929023</lat>
+      <lng>106.7042128</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,17,29</category>
+      <type>2</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>6695</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Nhiệt tình, năng động,  vui vẻ,  thận thiện, luôn hết mình vì công việc</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>427,275</strjo>
+  </appliedjob>
+</information>

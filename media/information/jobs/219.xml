@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>219</id>
+    <ui>1543</ui>
+    <ci>294</ci>
+    <ai>0</ai>
+    <ti>Nhân viên phục vụ</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1,2</ty>
+    <ex>7</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description>Vị trí tuyển dụng: Nhân viên phục vụ (ưu tiên nam)\r\n• Bán thời gian: 4-6 tiếng/ngày.\r\n• Toàn thời gian: 8 tiếng/ngày.\r\n2. Địa điểm làm việc:\r\n• Burger King Phạm Hồng Thái (Q. 1): toàn thời gian, bán thời gian</description>
+    <requirement>• Trình độ học vấn tốt nghiệp lớp 12, sức khỏe ổn định, ngoại hình ưa nhìn. \r\n• Khả năng giao tiếp anh văn cơ bản.\r\n• Kỹ năng giao tiếp, ứng xử tốt.\r\n• Nhanh nhẹn, hoạt bát, thân thiện, nhiệt tình.\r\n• Chăm chỉ, trung thực, có trách nhiệm trong công việc.\r\n• Làm Lễ Tết, có thể làm đêm.</requirement>
+    <benefit>. Bảo hiểm đầy đủ theo quy định NN.\r\n. Lương thưởng theo năng lực. \r\n. Được đào tạo trong môi trường chuyên nghiệp, tiêu chuẩn quốc tế.</benefit>
+    <keyword/>
+    <ad/>
+    <location_id>117</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-10-28</de>
+    <re>0000-00-00</re>
+    <cr>1472571842</cr>
+  </db>
+  <more>
+    <requirement>• Trình độ học vấn tốt nghiệp lớp 12, sức khỏe ổn định, ngoại hình ưa nhìn. &#13;
+• Khả năng giao tiếp anh văn cơ bản.&#13;
+• Kỹ năng giao tiếp, ứng xử tốt.&#13;
+• Nhanh nhẹn, hoạt bát, thân thiện, nhiệt tình.&#13;
+• Chăm chỉ, trung thực, có trách nhiệm trong công việc.&#13;
+• Làm Lễ Tết, có thể làm đêm.</requirement>
+    <description>Vị trí tuyển dụng: Nhân viên phục vụ (ưu tiên nam)&#13;
+• Bán thời gian: 4-6 tiếng/ngày.&#13;
+• Toàn thời gian: 8 tiếng/ngày.&#13;
+2. Địa điểm làm việc:&#13;
+• Burger King Phạm Hồng Thái (Q. 1): toàn thời gian, bán thời gian</description>
+    <benefit>. Bảo hiểm đầy đủ theo quy định NN.&#13;
+. Lương thưởng theo năng lực. &#13;
+. Được đào tạo trong môi trường chuyên nghiệp, tiêu chuẩn quốc tế.</benefit>
+    <keyword/>
+  </more>
+  <userapplied>
+    <total>187</total>
+    <strui>1576,1342,1134,1589,1541,1482,1625,1646,1660,1682,1693,627,1737,1750,866,1763,1814,1842,1847,1882,1900,1928,1960,425,2047,2048,2124,1546,2208,2250,2262,2274,292,2286,1280,1972,2306,2335,731,2407,2398,2415,1742,2471,2508,2510,2525,2540,2569,2733,2734,2746,2775,2789,2755,2885,2900,2946,2715,2791,2964,2965,2983,2994,2995,3011,3046,3053,3067,2786,3133,979,3173,1602,3257,3287,3314,3321,3353,3356,3389,3399,3422,3424,3494,940,3450,3120,3713,3721,3740,3850,3872,3933,3808,3967,3970,4024,4048,3772,3834,4100,4130,4133,4150,4331,4390,4408,4532,4593,4597,4608,4639,4689,4771,4805,4811,3464,4708,4203,4889,4622,4898,4858,5005,3755,4181,5089,4595,5242,1605,4766,5323,5296,5351,5356,5583,5634,5657,5728,5765,5770,5785,5786,5814,5171,5840,5811,5879,5919,5892,5978,6028,6009,6065,6214,6243,6305,6333,6319,6469,657,4981,6607,6610,6620,6623,6697,6739,6758,6753,6399,7039,7066,6778,7279,7310,7230,3652,7468,3538,2968,6188,7795,7843,7988,1365</strui>
+  </userapplied>
+</information>

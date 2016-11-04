@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5378</id>
+      <email>mthu.lnguyen@gmail.com</email>
+      <username/>
+      <name>Nguyễn Lê Minh Thư</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01249933088</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475933768</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pr - Marketing - Event</title>
+      <experience>2</experience>
+      <category>14,15,18,29</category>
+      <type>1,2,6</type>
+      <level>2,3,4,5</level>
+      <lang>vi,en</lang>
+      <skill>- Lập chiến lược truyền thông.&#13;
+- Sử dụng tốt các công cụ social media.&#13;
+- Có khả năng viết và biên tập.&#13;
+- Office thành thạo, biết Photoshop, Indesign.</skill>
+      <ui>5378</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>251</strjo>
+  </appliedjob>
+</information>

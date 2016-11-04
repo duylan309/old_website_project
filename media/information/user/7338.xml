@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7338</id>
+      <email>nguyentrongnghia2392@yahoo.com.vn</email>
+      <username/>
+      <name>Nguyễn Trọng Nghĩa</name>
+      <im>827407407400296_nghia-nguyen.jpg</im>
+      <gender>1</gender>
+      <dob>1992-3-23</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477187374</created>
+      <day>23</day>
+      <month>3</month>
+      <year>1992</year>
+      <phone>01694325613</phone>
+      <address>quận 10, thành phố Hồ Chí Minh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7745965</lat>
+      <lng>106.6679542</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên bếp</title>
+      <experience>3</experience>
+      <category>14,15,16,20,29,31,36</category>
+      <type>1,4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>nướng, nấu, sơ chế thực phẩm, làm một số loại nước chấm, làm gia vị nướng....</skill>
+      <ui>7338</ui>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <about>yêu thích công việc nấu nướng, ham học hỏi, làm việc hết lòng và trung thực, thích một môi trường làm việc hoà đồng và vui vẻ, năng động</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>7</total>
+    <strjo>406,193,451,357,128,376,143</strjo>
+  </appliedjob>
+</information>

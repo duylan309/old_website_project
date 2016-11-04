@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3018</id>
+      <email>angelanguyentran@gmail.com</email>
+      <username/>
+      <name>Trân Thị Cẩm Liên</name>
+      <im>1474188780_tran-thi-cam-lien.png</im>
+      <gender>0</gender>
+      <phone>01697637684</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474188780</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,16,29</category>
+      <type>2,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Đã từng làm phục vụ và nhân viên bán hàng hội chợ, đã và đang là nhân viên telesele</skill>
+      <ui>3018</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>238,285</strjo>
+  </appliedjob>
+</information>

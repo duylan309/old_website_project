@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4931</id>
+      <email>ngueynyennhi2710@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Yến Nhi</name>
+      <im>1475593115_nguyen-thi-yen-nhi.png</im>
+      <gender>0</gender>
+      <phone>0932629014</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475593115</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Bán hàng</title>
+      <experience>2</experience>
+      <category>29</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Giao tiếp tốt, chăm chỉ, chịu khó học hỏi và dễ thích nghi với môi trường làm việc</skill>
+      <ui>4931</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>311</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>311</strjo>
+  </savedjob>
+</information>

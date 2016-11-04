@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>190</id>
+    <ui>200</ui>
+    <name>El GauCho Argentinian Steakhouse</name>
+    <url>elgaucho</url>
+    <im/>
+    <category>14</category>
+    <phone>0909621610</phone>
+    <address>74 Hai Ba Trung,P.Ben Nghe,Q.1,TPHCM</address>
+    <district>760</district>
+    <district_text_vi>Quận 1</district_text_vi>
+    <district_text_en>District 1</district_text_en>
+    <city>30</city>
+    <lat>10.823099</lat>
+    <lng>106.629662</lng>
+    <website>elgaucho.asia</website>
+    <skype/>
+    <facebook/>
+    <size>1</size>
+    <status>0</status>
+    <dayleft>0</dayleft>
+    <jobleft>0</jobleft>
+    <signupby/>
+    <token/>
+    <fb_load_newfeed>0</fb_load_newfeed>
+    <fb_load_photo>0</fb_load_photo>
+    <created>1465961998</created>
+    <deactive>0</deactive>
+  </db>
+  <more>
+    <about>WE WELCOME YOU AT EL GAUCHO-ENJOY A TASTE OF OUR ARGENTINA.</about>
+    <whyworkus/>
+  </more>
+  <latlng>
+    <lat>10.778095584165243</lat>
+    <lng>106.70355030801147</lng>
+  </latlng>
+</information>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>100</id>
+    <ui>246</ui>
+    <ci>200</ci>
+    <ai>0</ai>
+    <ti>Waitstaff</ti>
+    <ta/>
+    <le>20</le>
+    <ty>6</ty>
+    <ex>6</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad>26, Lý Tự Trọng, Quận 1</ad>
+    <lat>10.778246</lat>
+    <lng>106.701035</lng>
+    <de>2016-11-01</de>
+    <re>0000-00-00</re>
+    <cr>1468475613</cr>
+  </db>
+  <more>
+    <requirement>Enthusiastic, friendly &amp; patience&#13;
+Effectively working under pressure and time management&#13;
+Excellent in English communication&#13;
+Sense of humor &#13;
+Customer service skills</requirement>
+    <description>Following all tasks as required: show menu to customers, serving and clean up&#13;
+Communication skills needed in order to response all inquiries&#13;
+Selling skills&#13;
+Team works &amp; support other teams if needed&#13;
+Responsibilities for close up shift and reporting to the management team for any issues &#13;
+</description>
+    <benefit/>
+    <keyword>Comprehensive Communication,Customer service,Responsibility,Team-work,Honesty,Problem-solving</keyword>
+  </more>
+  <userapplied>
+    <total>125</total>
+    <strui>322,314,292,362,361,390,404,401,408,416,433,441,482,515,537,550,576,582,593,600,606,574,622,656,458,689,727,770,801,789,558,846,853,857,859,860,870,872,879,737,922,1135,1148,867,828,1209,1240,1120,1290,1328,1341,878,1399,1340,1460,1462,1469,1470,1512,1535,1625,866,355,1842,1849,2047,2035,2097,1763,2219,1482,496,2739,2508,2715,1315,3464,3487,350,3562,3581,3422,3609,3389,3671,3690,3521,3866,3797,4032,4048,2753,4245,4408,823,3424,4746,4879,3884,4833,5059,5356,5467,3652,5570,5585,5728,5770,5829,6013,6272,6353,6362,6471,6279,7038,6966,7300,7350,7415,7422,5633,7698,7923,5107</strui>
+  </userapplied>
+</information>

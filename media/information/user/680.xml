@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>680</id>
+      <email>hoa.nguyenthanh.vh@gmail.com</email>
+      <username/>
+      <name>Nguyen Thi Thanh Hoa</name>
+      <im>680_20160324-070136.jpg</im>
+      <gender>2</gender>
+      <phone>+84 936 202 393</phone>
+      <address>Calmette str., dist. 01</address>
+      <city>30</city>
+      <dob>1993-3-5</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470814673</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <day>5</day>
+      <month>3</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_130>
+      <id>130</id>
+      <title>Manager - Quản lý</title>
+      <level>1</level>
+      <cmpname>Tieng Viet Oi Teaching Group</cmpname>
+      <city>Hà Nội</city>
+      <country>Việt Nam</country>
+      <from>January 2016</from>
+      <to>now</to>
+    </n_130>
+    <n_131>
+      <id>131</id>
+      <title>Teacher - Giáo viên</title>
+      <level>1</level>
+      <cmpname>Tieng Viet Oi Teaching Group</cmpname>
+      <city>Hà Nội</city>
+      <country>Việt Nam</country>
+      <from>June 2014</from>
+      <to>August 2016</to>
+    </n_131>
+    <n_132>
+      <id>132</id>
+      <title>Waitress/ Bồi bàn</title>
+      <level>1</level>
+      <cmpname>The Hanoi Social Club</cmpname>
+      <city>Hà Nội</city>
+      <country>Việt Nam</country>
+      <from>December 2012</from>
+      <to>August 2013</to>
+    </n_132>
+    <n_634>
+      <id>634</id>
+      <title>Co-organizer</title>
+      <level>1</level>
+      <cmpname>Hanoi in English</cmpname>
+      <city>Hanoi</city>
+      <country>Vietnam</country>
+      <from>October 2013</from>
+      <to>August 2014</to>
+    </n_634>
+    <n_635>
+      <id>635</id>
+      <title>Volunteer - Tình nguyện viên</title>
+      <level>1</level>
+      <cmpname>Lotus Community</cmpname>
+      <city>Hanoi</city>
+      <country>Vietnam</country>
+      <from>June 2016</from>
+      <to>now</to>
+    </n_635>
+  </experience>
+  <education>
+    <n_93>
+      <id>93</id>
+      <school>Hanoi University - Đại học Hà Nội</school>
+      <degrees>Bachelor - Cử nhân </degrees>
+      <fieldofstudy>Finance and Banking / Tài chính - Ngân hàng</fieldofstudy>
+      <from>2011</from>
+      <to>2015</to>
+    </n_93>
+  </education>
+  <user_cv>
+    <db>
+      <ui>680</ui>
+      <title>Restaurant manager, hotel staff ...</title>
+      <experience>2</experience>
+      <category>14,15,20</category>
+      <type>1,2,4,6</type>
+      <level>2,3,4,5</level>
+      <lang>vi,en</lang>
+      <s1>10000000</s1>
+      <salary>1</salary>
+      <skill>Communication skills, English skills, management skill, people skills, word office ...&#13;
+&#13;
+Kỹ năng giao tiếp, tiếng Anh, kỹ năng quản lý, kỹ năng làm việc với con người, sử dụng máy tính...</skill>
+      <keyword/>
+      <about>I have one year experience in Hospitality (working a Western restaurant) and two years experience in Education, Training and Management.&#13;
+I have much enthusiasm and passion for social and community events. Generally, I love working with people and delivering extraordinary service to customers.&#13;
+I speak near-fluent English with a neutral accent and my English skills are excellent.&#13;
+_________&#13;
+Tôi có một năm kinh nghiệm làm việc dịch vụ (tại một nhà hàng Âu ở Hà Nội) và hai năm kinh nghiệm trong giáo dục, đào tạo và quản lý.&#13;
+Tôi yêu thích các hoạt động xã hội/ cộng đồng. Tôi muốn làm việc với con người và trong công việc, tôi luôn luôn cố gắng mang đến dịch vụ tốt nhất cho khách hàng của mình.&#13;
+Tôi nói tiếng Anh trôi chảy và các kỹ năng tiếng Anh của tôi đều rất tốt.&#13;
+</about>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>117,122,121,99,196</strjo>
+  </appliedjob>
+</information>

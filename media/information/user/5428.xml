@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5428</id>
+      <email>Stephanieshc.0906@gmail.com</email>
+      <username/>
+      <name>SA HAO CẨM</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0987462171</phone>
+      <address>94/13 Bùi Đình Túy, P.12, Q. Bình Thạnh</address>
+      <city>30</city>
+      <dob>1993-6-9</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475978212</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1475978212</last_signin>
+      <day>9</day>
+      <month>6</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.808197</lat>
+      <lng>106.708778</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1120>
+      <id>1120</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Pizza hut</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>2015</to>
+    </n_1120>
+  </experience>
+  <education>
+    <n_903>
+      <id>903</id>
+      <school>ĐH Kinh tế - Luật</school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy>Kinh tế đối ngoại</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_903>
+  </education>
+  <user_cv>
+    <db>
+      <ui>5428</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,16,18,19,20,27,29</category>
+      <type>2,5,6</type>
+      <level>2,3</level>
+      <lang>vi,en,ja</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Tôi là Sahao Cẩm, mọi người vẫn hay gọi tôi là Sa hoặc Steph. Tôi 23 tuổi, đã tốt nghiệp Đại học. Hiện tôi đã có 1 công việc làm sales nhưng chỉ 6 tiếng/ngày, thời gian còn lại khá nhiều nên tôi muốn tìm 1 công việc phù hợp về thời gian, kiếm thêm được thu nhập và hơn nữa là làm công việc mình yêu thích. Vì vậy, tôi muốn làm nhân viên phục vụ, môi trường sử dụng nhiều tiếng anh càng tốt, đó là nguyện vọng của tôi. :)&#13;
+</about>
+      <skill>- Giao tiếp tiếng anh tốt&#13;
+- Sử dụng máy tính, phần mềm order, cashier&#13;
+- Chăm chỉ, chịu khó học hỏi&#13;
+- Nhiệt tình và yêu thích môi trường năng động, chuyên nghiệp&#13;
+- Thân thiện, hòa đồng và sẵn sàng giúp đỡ các thành viên khác khi cần thiết&#13;
+</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>201,340,222,181,338,150</strjo>
+  </appliedjob>
+  <savedjob/>
+</information>

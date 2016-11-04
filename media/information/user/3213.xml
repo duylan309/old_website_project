@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3213</id>
+      <email>thaole30111994@gmail.com</email>
+      <username/>
+      <name>Thao Phuong</name>
+      <im>3213_13882488-1559014937740002-3589346131310656634-n.jpg</im>
+      <gender>2</gender>
+      <dob>1994-11-30</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474420745</created>
+      <day>30</day>
+      <month>11</month>
+      <year>1994</year>
+      <phone>0934000207</phone>
+      <address>109 Lê Quốc Hưng, phường 12, quận 4</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7649481</lat>
+      <lng>106.7044528</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_715>
+      <id>715</id>
+      <title>Waitress</title>
+      <level>1</level>
+      <cmpname>Work Cafe</cmpname>
+      <city/>
+      <country/>
+      <from>2015</from>
+      <to>2016</to>
+    </n_715>
+    <n_716>
+      <id>716</id>
+      <title>Teacher’s assistant</title>
+      <level>1</level>
+      <cmpname>ILA Vietnam</cmpname>
+      <city/>
+      <country/>
+      <from>2014</from>
+      <to>2015</to>
+    </n_716>
+    <n_717>
+      <id>717</id>
+      <title>Sale Assistant - Digital Manager</title>
+      <level>1</level>
+      <cmpname>Dottie Store</cmpname>
+      <city/>
+      <country/>
+      <from>2012</from>
+      <to>2013</to>
+    </n_717>
+    <n_718>
+      <id>718</id>
+      <title>Sale Assistant</title>
+      <level>1</level>
+      <cmpname>Zennic Fashion Store</cmpname>
+      <city/>
+      <country/>
+      <from>2012</from>
+      <to>2013</to>
+    </n_718>
+  </experience>
+  <education>
+    <n_529>
+      <id>529</id>
+      <school>RMIT University Vietnam</school>
+      <degrees>Bachelor </degrees>
+      <fieldofstudy>Commerce</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_529>
+    <n_530>
+      <id>530</id>
+      <school>FPT University of Greenwich</school>
+      <degrees>Bachelor</degrees>
+      <fieldofstudy>Marketing</fieldofstudy>
+      <from>2016</from>
+      <to>2019</to>
+    </n_530>
+  </education>
+  <user_cv>
+    <db>
+      <ui>3213</ui>
+      <title>Sale Staff</title>
+      <experience>1</experience>
+      <category>14,18,20,28,30,35</category>
+      <type>2,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>I am an adaptable, considerate, empathetic and enthusiastic girl that would be satisfied with your job’s requirement.</about>
+      <skill>PERSONAL&#13;
+•	Friendly and happy mind facing negative situations&#13;
+•	Effectively work in team&#13;
+•	Able to think and work independently&#13;
+•	Able to work under pressure&#13;
+•	Good communication/ negotiation skills&#13;
+•	Able to interact with children&#13;
+&#13;
+ENGLISH PROGRAM&#13;
+Achieve the Level 7 – Advanced Plus program in RMIT English Course, equivalently Ielts 6.5&#13;
+&#13;
+SOFTWARE&#13;
+•	Confident in Microsoft Word package&#13;
+•	Experienced in social media and company’s website</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>7</total>
+    <strjo>211,240,156,285,202,199,142</strjo>
+  </appliedjob>
+</information>

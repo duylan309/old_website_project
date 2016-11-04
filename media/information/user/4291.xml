@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4291</id>
+      <email>trangdo128@gmail.com</email>
+      <username/>
+      <name>Đỗ Thị Trang</name>
+      <im>1475058703_do-thi-trang.png</im>
+      <gender>0</gender>
+      <phone>097038972</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475058703</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>phuc vụ, bán hàng..</title>
+      <experience>2</experience>
+      <category>14,15,17,31,35</category>
+      <type>2,5,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Giao tiếp, thuyết phục</skill>
+      <ui>4291</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>9</total>
+    <strjo>344,64,202,105,240,355,334,124,221</strjo>
+  </appliedjob>
+</information>

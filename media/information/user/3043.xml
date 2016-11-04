@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3043</id>
+      <email>congchanh7996@gmail.com</email>
+      <username/>
+      <name>Võ Công Chánh</name>
+      <im>1474205844_vo-cong-chanh.png</im>
+      <gender>0</gender>
+      <phone>0931334985</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474205844</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Bếp chính</title>
+      <experience>2</experience>
+      <category>14,18,20,29</category>
+      <type>4,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Sử dụng tốt word, excel, pp,...</skill>
+      <ui>3043</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>200,206</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>200</strjo>
+  </savedjob>
+</information>

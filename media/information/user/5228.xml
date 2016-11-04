@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5228</id>
+      <email>hoangthuan1906@gmail.com</email>
+      <username/>
+      <name>Trương Hoàng Phương Thuận</name>
+      <im>1475821587_truong-hoang-phuong-thuan.png</im>
+      <gender>1</gender>
+      <phone>0905759957</phone>
+      <address>Đường Lâm Văn Bền. Phường Tân Thuận Tây. Quận 7.</address>
+      <city>30</city>
+      <dob>1976-6-19</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475821587</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>19</day>
+      <month>6</month>
+      <year>1976</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7486729</lat>
+      <lng>106.7158482</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Quản lý</title>
+      <experience>5</experience>
+      <category>14,15,17,18,20,35</category>
+      <type>1,6</type>
+      <level>5</level>
+      <lang>vi,en</lang>
+      <skill>Nhanh nhẹn. Siêng năng. Sức khoẻ tốt. Thật thà. Vui vẻ. Thân thiện.&#13;
+Giao tiếp tốt. Xử lý tình huống mau lẹ.&#13;
+Tạo được ấn tượng với gười đối diện.&#13;
+Đàm phán tốt.&#13;
+Có thể MC, trang trí nội thất....</skill>
+      <ui>5228</ui>
+      <s1>10000000</s1>
+      <salary>1</salary>
+      <about>CĐ ngành Toán Tin.&#13;
+Cử nhân ngành QTKD.&#13;
+Sức khoẻ tốt, cao 1m78, nặng 70kg.&#13;
+Còn độc thân nên có thể đi công tác xa nhà. Chấp nhận mọi thử thách và giải quyết mọi vấn đề trong thời gian sớm nhất.&#13;
+Làm việc theo nhóm hoặc chịu áp lực công việc tốt. Dám  đương đầu với mọi công việc mới.&#13;
+Từng làm nhân viên thị trường, phục vụ nên kinh nghiệm trong lĩnh vực kinh doanh và phục vụ rất tốt.&#13;
+Biết sử dụng các phần mềm vi tính văn phòng căn bản, Internet, Email, Web....&#13;
+Tiếng Anh giao tiếp căn bản, đọc hiểu khá, đủ đáp ứng được đòi hỏi của công việc.&#13;
+Muốn tìm một công việc ổn định lâu dài, phát triển được năng lực bản thân. Môi trường làm việc thân thiện và công bằng. Không sợ áp lực trong công việc.</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>196,203,166</strjo>
+  </appliedjob>
+  <experience>
+    <n_1066>
+      <id>1066</id>
+      <title>Đại Diện Thương Mại</title>
+      <level>1</level>
+      <cmpname>Công ty TNHH TM Thy Long</cmpname>
+      <city>HCM</city>
+      <country>Việt Nam</country>
+      <from>04/2006</from>
+      <to>10/2011</to>
+    </n_1066>
+    <n_1067>
+      <id>1067</id>
+      <title>Tổng Quản Lý</title>
+      <level>1</level>
+      <cmpname>DHC Group</cmpname>
+      <city>Đà Nẵng</city>
+      <country>Việt Nam</country>
+      <from>12/2012</from>
+      <to>12/2015</to>
+    </n_1067>
+  </experience>
+  <education>
+    <n_862>
+      <id>862</id>
+      <school>ĐH Dân Lập Duy Tân</school>
+      <degrees>Cao Đẳng</degrees>
+      <fieldofstudy>Toán Tin</fieldofstudy>
+      <from>09/1996</from>
+      <to>06/1999</to>
+    </n_862>
+    <n_863>
+      <id>863</id>
+      <school>ĐH Kinh Tế </school>
+      <degrees>Cử Nhân </degrees>
+      <fieldofstudy>Quản Trị Kinh Doanh</fieldofstudy>
+      <from>09/2000</from>
+      <to>6/2005</to>
+    </n_863>
+  </education>
+</information>

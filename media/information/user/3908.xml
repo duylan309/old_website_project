@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3908</id>
+      <email>thuynho1904@gmail.com</email>
+      <username/>
+      <name>Thúy Nhõ</name>
+      <im>681228765368666_thuy-nho.jpg</im>
+      <gender>2</gender>
+      <dob>1995-7-13</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474889933</created>
+      <day>13</day>
+      <month>7</month>
+      <year>1995</year>
+      <phone>0936969443</phone>
+      <address>18 Đường Tân Trang quận Tân bình</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7786481</lat>
+      <lng>106.6544815</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, thu ngân</title>
+      <experience>1</experience>
+      <category>14,15,16,17,27,35</category>
+      <type>4,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>KỸ NĂNG&#13;
+•Biết sắp xếp công việc hợp lý&#13;
+•Làm việc độc lập cao hoặc theo nhóm tốt,sáng tạo , cẩn thận&#13;
+•Kỹ năng giao tiếp tốt&#13;
+•Kỹ năng bán hàng</skill>
+      <ui>3908</ui>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <about>Sinh viên năm 3 Trường Ngoại ngữ -tin học tphcm&#13;
+Kinh nghiệm 01 năm làm part time phục vụ-thu ngân</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>11</total>
+    <strjo>181,208,287,163,301,240,222,294,130,323,64</strjo>
+  </appliedjob>
+  <education>
+    <n_637>
+      <id>637</id>
+      <school>Đại học Ngoại ngữ-tin học Tphcm</school>
+      <degrees>Sinh viên năm 3</degrees>
+      <fieldofstudy>Quản trị du lịch khách sạn</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_637>
+  </education>
+</information>

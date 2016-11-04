@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5278</id>
+      <email>vanguyen1010@gmail.com</email>
+      <username/>
+      <name>Nguyễn Hoàng  Nhật Thảo </name>
+      <im>5278_14124497-1141059825959043-8612019860226839981-o.jpg</im>
+      <gender>2</gender>
+      <dob>1996-10-10</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475848538</created>
+      <day>10</day>
+      <month>10</month>
+      <year>1996</year>
+      <last_signin>1475848538</last_signin>
+      <phone>0934044593</phone>
+      <address>149/21 Đất Thánh,Quận Tân Bình,HCMC</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7836372</lat>
+      <lng>106.6596493</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1082>
+      <id>1082</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>The Chai coffee</cmpname>
+      <city>Hồ Chí Minh </city>
+      <country>Việt Nam</country>
+      <from>tháng 3/2015</from>
+      <to>tháng 6/2015</to>
+    </n_1082>
+    <n_1083>
+      <id>1083</id>
+      <title>Nhân viên pha chế</title>
+      <level>1</level>
+      <cmpname>Itune cafe</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>tháng 4/2016</from>
+      <to>tháng 6/2016</to>
+    </n_1083>
+  </experience>
+  <education>
+    <n_876>
+      <id>876</id>
+      <school>đại học kinh tế tài chính ( UEF)</school>
+      <degrees>đã bảo lưu</degrees>
+      <fieldofstudy>QUản trị kinh doanh</fieldofstudy>
+      <from>tháng 10/2015</from>
+      <to>tháng 2/2016</to>
+    </n_876>
+  </education>
+  <user_cv>
+    <db>
+      <ui>5278</ui>
+      <title>Nhân viên phục vụ,nhân viên pha chế,nhân viên bán hàng</title>
+      <experience>2</experience>
+      <category>15,17,27</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>2800000</s1>
+      <salary>1</salary>
+      <about>Hiện tôi đã bảo lưu việc học để đi làm và học hỏi thêm kinh nghiệm. Tôi là một người thích mạo hiểm và học hỏi những điều mới,muốn dựa trên khả năng của mình để thành công,tìm ra thế mạnh để phát triển bản thân đúng hướng. Tôi là người có tinh thần trách nhiệm cao và chịu được áp lực công việc.</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>201</strjo>
+  </appliedjob>
+</information>

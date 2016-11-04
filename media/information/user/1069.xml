@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1069</id>
+      <email>lanlinh1120@gmail.com</email>
+      <username/>
+      <name>Bùi Ngọc Lan Linh</name>
+      <im>1069_t1doryhyexslfsogubnn-cvtpl.jpg</im>
+      <gender>2</gender>
+      <phone>0905948696</phone>
+      <address>326/1 Ung Văn Khiêm, p25, q Bình Thạnh</address>
+      <city>30</city>
+      <dob>1996-5-11</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471674559</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>11</day>
+      <month>5</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7995286</lat>
+      <lng>106.7233115</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, Pha chế</title>
+      <experience>7</experience>
+      <category>15,17,26,27,29</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Có kinh nghiệm bán hàng, thu ngân</skill>
+      <ui>1069</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>106,160,69,172</strjo>
+  </appliedjob>
+</information>

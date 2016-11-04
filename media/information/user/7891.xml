@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7891</id>
+      <email>e_thangkia_dunglai_kaoiumay@yahoo.com</email>
+      <username/>
+      <name>Phương Thảo</name>
+      <im>978413932304228_phuong-thao.jpg</im>
+      <gender>2</gender>
+      <dob>1997-10-11</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477525287</created>
+      <day>11</day>
+      <month>10</month>
+      <year>1997</year>
+      <phone>01213909372</phone>
+      <address>67/10, Xô Viết Nghệ Tĩnh, phường 17, quận Bình Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.793745</lat>
+      <lng>106.7077259</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>35</category>
+      <type>2</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill>Giao tiếp tốt, chịu khó học hỏi, tìm tòi</skill>
+      <ui>7891</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>9</total>
+    <strjo>518,427,467,301,452,514,496,517,470</strjo>
+  </appliedjob>
+</information>

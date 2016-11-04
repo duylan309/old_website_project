@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6946</id>
+      <email>duy.rua.luxury@gmail.com</email>
+      <username/>
+      <name>Nguyễn Hoàng Bảo Duy</name>
+      <im>6946_image.jpeg</im>
+      <gender>1</gender>
+      <phone>01225797088</phone>
+      <address>160/72a Phan Huy Ích - Gò Vấp</address>
+      <city>30</city>
+      <dob>1997-11-22</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476958516</created>
+      <dayleft>0</dayleft>
+      <jobleft>0</jobleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476958516</last_signin>
+      <day>22</day>
+      <month>11</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8333323</lat>
+      <lng>106.6344305</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6946</ui>
+      <title>Nhân viên phục vụ, pha chế và bán hàng</title>
+      <experience>1</experience>
+      <category>14,15,17,19,27,29</category>
+      <type>1,2,4</type>
+      <level>1,2</level>
+      <lang>vi</lang>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <about>Nói tóm gọn ba từ về bản thân&#13;
+-Năng động&#13;
+-Trách nhiệm&#13;
+-Vui vẻ&#13;
+Là một người năng động thích tham gia các hoạt động xã hội và các hoạt động tập thể bên đoàn thanh niên. Yêu thích môi trường được tiếp xúc với nhiều người để từ đó có thể học hỏi được nhiều điều mới mẽ từ những người bạn mới. Kèm theo đó là một tinh thần trách nhiệm cao, luôn đúng giờ và nghiêm túc với các quy tắc đó chính là chia khoá thành công khi làm bất cứ một việc gì. Và cuối cùng là tính cách vui vẻ luôn hoà đồng dễ bắt chuyện được với tất cả mọi người đó lợi thế của việc giao tiếp với người ban mới và rất thích đem lại tiếng cười cho những người xung quanh. </about>
+      <skill>Kỹ năng giao tiếp và đàm phán.&#13;
+Kỹ năng làm việc nhóm.&#13;
+Kỹ năng làm việc độc lập, lập kế hoạch cong việc.&#13;
+Sáng tạo trang trí vào các mùa lễ hội&#13;
+Có khả năng hoạt náo và văn hoa văn nghệ.</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <experience>
+    <n_1373>
+      <id>1373</id>
+      <title>Nhan viên bán hàng</title>
+      <level>1</level>
+      <cmpname>Tại gia đình</cmpname>
+      <city>Nha Trang</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>2015</to>
+    </n_1373>
+  </experience>
+  <education>
+    <n_1142>
+      <id>1142</id>
+      <school>Cao đẳng văn hoa nghệ thuật và du lịch Sàu Gòn</school>
+      <degrees>Cao Đẳng</degrees>
+      <fieldofstudy>Diễn viên kịch và điện ảnh</fieldofstudy>
+      <from>2015</from>
+      <to>2018</to>
+    </n_1142>
+  </education>
+  <appliedjob>
+    <total>3</total>
+    <strjo>215,408,459</strjo>
+  </appliedjob>
+</information>

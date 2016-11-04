@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>425</id>
+      <email>Phant.ngocduyen.96@gmail.com</email>
+      <username/>
+      <name>Phan Thị Ngọc Duyên</name>
+      <im>425_img-20160930-232452.jpg</im>
+      <gender>2</gender>
+      <phone>0969450164</phone>
+      <address>650 Điện Biên Phủ , Q10 , TP HCM</address>
+      <city>30</city>
+      <dob>1996-11-19</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470075709</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>19</day>
+      <month>11</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>425</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,17</category>
+      <type>2,6</type>
+      <level>2</level>
+      <lang>vi,en,sp</lang>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <skill>- giao tiếp tiếng Anh và tiếng Tây Ban Nha&#13;
+- đã từng làm việc ở một nhà hàng phục vụ món Tây Ban Nha</skill>
+      <keyword>Tinh thần trách nhiệm,Chịu được áp lực công việc,Giao tiếp hiệu quả,Trung thực</keyword>
+      <about>- Có tính thần học hỏi , chăm chỉ , lể phép&#13;
+- Có tính kiên nhẫn cao&#13;
+- Trung thực &#13;
+- Năng động , trẻ trung</about>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>17</total>
+    <strjo>79,105,219,224,211,298,350,354,340,130,162,371,262,222,181,252,409</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>79</strjo>
+  </savedjob>
+</information>

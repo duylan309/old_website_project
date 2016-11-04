@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>377</id>
+      <email>hokhanhquan@gmail.com</email>
+      <username/>
+      <name>HỒ KHÁNH QUÂN</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01229662926</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1469974494</created>
+      <dayleft>1475158494</dayleft>
+      <is_received_email>1</is_received_email>
+      <page>1</page>
+      <jobleft>2</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>3</total>
+    <strji>119,120,151</strji>
+  </totalJob>
+  <saveuser>
+    <total>29</total>
+    <strui>387,395,410,453,519,529,532,536,546,304,564,581,588,589,613,565,638,656,662,669,670,674,676,698,713,726,728,798,796</strui>
+  </saveuser>
+</information>

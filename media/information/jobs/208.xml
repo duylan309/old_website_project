@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>208</id>
+    <ui>1532</ui>
+    <ci>291</ci>
+    <ai>0</ai>
+    <ti>nhân viên pha chế cà phê</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>3000000</s1>
+    <s2>0</s2>
+    <s3>136</s3>
+    <s4>0</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description>pha chế các loại thức uống cà phê Ý, latte art, các món đá xay, nước ép, sinh tố...</description>
+    <requirement>có kinh nghiệm pha chế cà phê máy, barista.</requirement>
+    <benefit/>
+    <keyword>Tập trung trong công việc,Trung thực,Tinh thần trách nhiệm,Nhiệt tình</keyword>
+    <ad/>
+    <location_id>114</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-10-28</de>
+    <re>0000-00-00</re>
+    <cr>1475481020</cr>
+  </db>
+  <more>
+    <requirement>có kinh nghiệm pha chế cà phê máy, barista.</requirement>
+    <description>pha chế các loại thức uống cà phê Ý, latte art, các món đá xay, nước ép, sinh tố...</description>
+    <benefit/>
+    <keyword>Tập trung trong công việc,Trung thực,Tinh thần trách nhiệm,Nhiệt tình</keyword>
+  </more>
+  <userapplied>
+    <total>34</total>
+    <strui>866,1591,1802,1029,1889,2454,2855,1259,2715,3067,3206,3148,3532,2577,3794,3819,292,2386,3918,3908,2224,3027,4347,2472,4610,4833,5998,6328,6734,5467,6945,7483,7596,8124</strui>
+  </userapplied>
+</information>

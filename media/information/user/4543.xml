@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4543</id>
+      <email>thunt1096@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thanh Thư</name>
+      <im>1475289568_nguyen-thanh-thu.png</im>
+      <gender>2</gender>
+      <phone>01214989473</phone>
+      <address></address>
+      <city>30</city>
+      <dob>1996-2-10</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475289568</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>10</day>
+      <month>2</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, pha chế...</title>
+      <experience>1</experience>
+      <category>15,18,20,29</category>
+      <type>2</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill>Kỹ năng làm việc nhóm, quản lý thời gian, đối phó với các tìmh huống rất linh hoạt, kỹ năng giao tiếp với mọi người...</skill>
+      <ui>4543</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>279</strjo>
+  </appliedjob>
+  <experience>
+    <n_964>
+      <id>964</id>
+      <title>Receptionist</title>
+      <level>1</level>
+      <cmpname>California Fitness and Yoga Center</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>27 Tháng 4 năm 2015</from>
+      <to>31 Tháng 10 năm 2015</to>
+    </n_964>
+    <n_965>
+      <id>965</id>
+      <title>Guest Service</title>
+      <level>1</level>
+      <cmpname>Galaxy Cinema Nguyễn Du</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>30 tháng 01 năm 2016</from>
+      <to>Nay</to>
+    </n_965>
+  </experience>
+  <education>
+    <n_751>
+      <id>751</id>
+      <school>Đại Học Kinh Tế - Luật</school>
+      <degrees>Đại Học</degrees>
+      <fieldofstudy>Tài Chính - Ngân Hàng</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_751>
+  </education>
+</information>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4894</id>
+      <email>anhtuyet0807.tp@gmail.com</email>
+      <username/>
+      <name>Phan Thị Ánh Tuyết</name>
+      <im>1475575089_phan-thi-anh-tuyet.png</im>
+      <gender>0</gender>
+      <phone>0938652030</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475575089</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng</title>
+      <experience>2</experience>
+      <category>29,35</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Giao tiếp tôt, ham học hỏi, cố gắng vươn lên...</skill>
+      <ui>4894</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>156</strjo>
+  </appliedjob>
+</information>

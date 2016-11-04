@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7270</id>
+      <email>Baotran240694@gmail.com</email>
+      <username/>
+      <name>Phạm thị bảo trân</name>
+      <im>7270_img-0454.JPG</im>
+      <gender>2</gender>
+      <phone>01884470677</phone>
+      <address>C7d phạm hùng bình hưng bình chánh</address>
+      <city>30</city>
+      <dob>1994-6-24</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477138425</created>
+      <dayleft>0</dayleft>
+      <jobleft>0</jobleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1477138425</last_signin>
+      <day>24</day>
+      <month>6</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7249671</lat>
+      <lng>106.6797911</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1422>
+      <id>1422</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Pomade</cmpname>
+      <city>Hồ chí minh</city>
+      <country>Việt nam</country>
+      <from>6/2015</from>
+      <to>7/2016</to>
+    </n_1422>
+  </experience>
+  <education>
+    <n_1181>
+      <id>1181</id>
+      <school>Đại học văn lang</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Công nghệ sinh học</fieldofstudy>
+      <from>9/2012</from>
+      <to>9/2017</to>
+    </n_1181>
+  </education>
+  <user_cv>
+    <db>
+      <ui>7270</ui>
+      <title>Nhân viên đón khách, nhân viên phục vụ, phụ bếp, thực tập</title>
+      <experience>1</experience>
+      <category>14,15,19,29,36</category>
+      <type>2,3,4</type>
+      <level>1,2</level>
+      <lang>vi,en,kr</lang>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <about>Năng động, linh hoạt, có đầu óc sáng tạo, thật thà. Rất vui tính</about>
+      <skill>Tiếng anh giao tiếp. Tin học</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>7</total>
+    <strjo>251,252,163,460,394,250,371</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6065</id>
+      <email>nguyenduylam0898@gmail.com</email>
+      <username/>
+      <name>Nguyễn Duy Lâm</name>
+      <im>648059308695566_nguyen-duy-lam.jpg</im>
+      <gender>1</gender>
+      <dob>1998-8-13</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476363299</created>
+      <day>13</day>
+      <month>8</month>
+      <year>1998</year>
+      <phone>01676007261</phone>
+      <address>Số 168 Đường Số 1, phường 16, Gò Vấp</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8454667</lat>
+      <lng>106.6624141</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>4,5</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>6065</ui>
+      <s1>2700000</s1>
+      <salary>1</salary>
+      <about>Hòa đồng, năng động</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>7</total>
+    <strjo>64,165,435,355,219,158,348</strjo>
+  </appliedjob>
+  <education>
+    <n_1007>
+      <id>1007</id>
+      <school>Đại học Hutech</school>
+      <degrees>Sinh viên</degrees>
+      <fieldofstudy>Marketing</fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_1007>
+  </education>
+</information>

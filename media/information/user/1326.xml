@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1326</id>
+      <email>rubimicky12@gmail.com</email>
+      <username/>
+      <name>Hương Võ</name>
+      <im>658622574293524_huong-vo.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472114298</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên</title>
+      <experience>1</experience>
+      <category>14,18,20,29,36</category>
+      <type>4,5</type>
+      <level>2,3,4</level>
+      <lang>vi,en</lang>
+      <skill>đứng thớt, chảo , salad, &#13;
+kiểm tra thuc phẩm, quản lý &#13;
+chịu đựng được áp lực,</skill>
+      <ui>1326</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>187,153,170</strjo>
+  </appliedjob>
+  <experience>
+    <n_298>
+      <id>298</id>
+      <title>nhân viên bếp</title>
+      <level>1</level>
+      <cmpname>The Phoenix, cảng Hàng Không Miền Nam</cmpname>
+      <city>Hồ Chí minh</city>
+      <country>Việt Nam</country>
+      <from>12/2015</from>
+      <to>7/2016</to>
+    </n_298>
+    <n_299>
+      <id>299</id>
+      <title>Nhân viên bếp</title>
+      <level>1</level>
+      <cmpname>Dargon HotPot</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>7/2015</from>
+      <to>12/2016</to>
+    </n_299>
+  </experience>
+  <education>
+    <n_212>
+      <id>212</id>
+      <school>Hướng Nghiệp Á Âu</school>
+      <degrees>chứng chi </degrees>
+      <fieldofstudy>Bếp Trưởng Điều Hành</fieldofstudy>
+      <from>7/2015</from>
+      <to>1/2016</to>
+    </n_212>
+  </education>
+</information>

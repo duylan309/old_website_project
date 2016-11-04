@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>503</id>
+      <email>hooliganism@gmail.com</email>
+      <username/>
+      <name>Trần Lê Huyền Trân</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0907619663</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470292598</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chê´ - Barista - trợ ly´ quản ly´</title>
+      <experience>2</experience>
+      <category>15,29</category>
+      <type>1,2</type>
+      <level>3</level>
+      <lang>vi,en</lang>
+      <skill>Co´ 2 năm kinh nghiệm làm Barista ở Urban Station Cofffee&#13;
+Co´ 6 tháng kinh nghiệm quản ly´ cửa hàng ở Urban Station Coffee</skill>
+      <ui>503</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>93</strjo>
+  </appliedjob>
+</information>

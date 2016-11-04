@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1251</id>
+      <email>anhdao.1001.93@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Anh Đào</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0933929932</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1472008930</created>
+      <dayleft>1474600930</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <jobleft>4</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>1</total>
+    <strji>186</strji>
+  </totalJob>
+</information>

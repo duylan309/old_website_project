@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5148</id>
+      <email>babin1991@gmail.com</email>
+      <username/>
+      <name>huỳnh lâm quốc vinh</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0933856589</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475757763</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>bếp</title>
+      <experience>2</experience>
+      <category>14</category>
+      <type>1,6</type>
+      <level>2</level>
+      <lang>en</lang>
+      <skill>có kỹ năng dùng dao,chảo! có kiến thức về các loại gia vị,!</skill>
+      <ui>5148</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>360</strjo>
+  </appliedjob>
+</information>

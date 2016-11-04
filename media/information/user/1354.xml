@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1354</id>
+      <email>goddess_aquarius@yahoo.com</email>
+      <username/>
+      <name>Nguyễn Trâm Trâm</name>
+      <im>1354_image.jpeg</im>
+      <gender>2</gender>
+      <dob>1990-2-13</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472150787</created>
+      <day>13</day>
+      <month>2</month>
+      <year>1990</year>
+      <phone>01212626244</phone>
+      <address>88/38/5/4 Nguyen Khoai </address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.756159</lat>
+      <lng>106.694817</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Store manager</title>
+      <experience>3</experience>
+      <category>14,15,17,19,29,31,35</category>
+      <type>4,6</type>
+      <level>3,4</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>1354</ui>
+      <s1>8000000</s1>
+      <salary>1</salary>
+      <keyword>Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Tinh thần trách nhiệm,Tập trung trong công việc,Chịu được áp lực công việc,Tinh thần làm việc nhóm,Tự tin</keyword>
+      <about/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>157,196,229,175,174,141</strjo>
+  </appliedjob>
+  <savedjob/>
+</information>

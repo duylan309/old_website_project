@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>517</id>
+    <ui>7633</ui>
+    <ci>427</ci>
+    <ai>0</ai>
+    <ti>Nhân viên phục vụ</ti>
+    <ta/>
+    <le>2</le>
+    <ty>2,5</ty>
+    <ex>1,2</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>2000000</s1>
+    <s2>3000000</s2>
+    <s3>90</s3>
+    <s4>136</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description/>
+    <requirement/>
+    <workhour/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>375</location_id>
+    <lat>10.769852</lat>
+    <lng>10.769852</lng>
+    <de>2016-11-09</de>
+    <re>0000-00-00</re>
+    <cr>1477366621</cr>
+  </db>
+  <more>
+    <requirement>Tinh thần phục vụ khách hàng vô điều kiện&#13;
+Ưu tiên các bạn học những trường liên quan đến kinh doanh, quản lý khách sạn&#13;
+Tinh thần học hỏi cao.&#13;
+</requirement>
+    <description>- Phục vụ cơm cho khách tại quán&#13;
+- Đóng gói, xắp xếp sản phẩm cho khách hàng&#13;
+- Báo cáo tình hình hằng ngày cho quản lý.&#13;
+</description>
+    <workhour>Thời gian làm việc: sáng 9h-14h. làm việc 3-5 buổi/tuần (thứ 2-thứ 6)&#13;
+</workhour>
+    <benefit>- Lương từ: 14-18k/giờ, lương tăng theo năng lực làm việc.&#13;
+- Có thưởng nếu đạt chỉ tiêu chăm sóc khách hàng tốt.&#13;
+- Có phụ cấp xăng xe&#13;
+- Bao cơm trưa.&#13;
+- Được đào tạo về các kỹ năng bán hàng và chăm sóc khách hàng&#13;
+- Được đào tạo sử dụng những phần mềm công nghệ quản lý ở trong và ngoài nước.&#13;
+Được học về kinh doanh thực tế.&#13;
+Có thể lên các vị  trí quản lý nếu có năng lực.&#13;
+</benefit>
+    <keyword>Kỹ năng chăm sóc khách hàng,Giao tiếp hiệu quả,Chịu được áp lực công việc,Trung thực,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+  </more>
+  <userapplied>
+    <total>5</total>
+    <strui>940,7485,4833,7891,7805</strui>
+  </userapplied>
+</information>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5695</id>
+      <email>hoanganh.nguyenngo88@gmail.com</email>
+      <username/>
+      <name>Hoang Anh</name>
+      <im>10209049469406677_hoang-anh.jpg</im>
+      <gender>2</gender>
+      <dob>1988-11-25</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476158610</created>
+      <day>25</day>
+      <month>11</month>
+      <year>1988</year>
+      <phone>0935005115</phone>
+      <address>51/6 Trường Chinh, Q Tân Bình, TPHCM</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7764745</lat>
+      <lng>106.7008831</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng</title>
+      <experience>7</experience>
+      <category>29,35</category>
+      <type>2,4,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Nhanh nhẹn, siêng năng, giao tiếp tốt, có tinh thần học hỏi và cầu tiến, trung thực và có trách nhiệm với công việc.&#13;
+Tiếng Anh giao tiếp tốt.</skill>
+      <ui>5695</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Là một người yêu thích thời trang và có con mắt thẩm mĩ khá tốt, tôi luôn mong muốn được thử sức trong lính vực này dù không có kinh nghiệm làm việc gì nhiều nhưng tôi tin mình vẫn có thể làm tốt công việc được giao vì tôi yêu thích tất cả những gì liên quan đến thời trang. </about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>322</strjo>
+  </appliedjob>
+  <education>
+    <n_945>
+      <id>945</id>
+      <school>Đại Học Kinh Tế Luật TPHCM</school>
+      <degrees>Đại Học</degrees>
+      <fieldofstudy>Kinh Tế Đối Ngoại</fieldofstudy>
+      <from>2006</from>
+      <to>2010</to>
+    </n_945>
+  </education>
+</information>

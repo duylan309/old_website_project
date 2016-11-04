@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2583</id>
+      <email>nguyendangquangph@gmail.com</email>
+      <username/>
+      <name>Nguyễn Đăng Quang</name>
+      <im>692759110880154_nguyen-dang-quang.jpg</im>
+      <gender>1</gender>
+      <dob>1997-1-8</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473689237</created>
+      <day>8</day>
+      <month>1</month>
+      <year>1997</year>
+      <last_signin>1473689237</last_signin>
+      <phone>01229541501</phone>
+      <address>411/67/27 Lê Đức Thọ F17 Gò Vấp</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8428948</lat>
+      <lng>106.67524</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_585>
+      <id>585</id>
+      <title>Phục vụ</title>
+      <level>1</level>
+      <cmpname>Gyukaku (Vincom)</cmpname>
+      <city>ho chi minh</city>
+      <country>Việt Nam</country>
+      <from>19/2/2015</from>
+      <to>15/9/2016</to>
+    </n_585>
+    <n_586>
+      <id>586</id>
+      <title>Volunteer</title>
+      <level>1</level>
+      <cmpname>Vietabroader Conference career 2016</cmpname>
+      <city>ho chi minh</city>
+      <country>Việt Nam</country>
+      <from>1/7/2016</from>
+      <to>1/8/2016</to>
+    </n_586>
+    <n_587>
+      <id>587</id>
+      <title>Marketing offline</title>
+      <level>1</level>
+      <cmpname>Young Hotelier Award</cmpname>
+      <city>ho chi minh</city>
+      <country>Việt Nam</country>
+      <from>25/8/2016</from>
+      <to>14/11/2017</to>
+    </n_587>
+    <n_588>
+      <id>588</id>
+      <title>Nhân viên</title>
+      <level>1</level>
+      <cmpname>CGV cinema</cmpname>
+      <city>ho chi minh</city>
+      <country>Việt Nam</country>
+      <from>1/2/2016</from>
+      <to>1/5/2016</to>
+    </n_588>
+    <n_589>
+      <id>589</id>
+      <title>Brand Ambassador</title>
+      <level>1</level>
+      <cmpname>Uber</cmpname>
+      <city>ho chi minh</city>
+      <country>Việt Nam</country>
+      <from>1.5.2016</from>
+      <to>12/8/2016</to>
+    </n_589>
+  </experience>
+  <education>
+    <n_417>
+      <id>417</id>
+      <school>Đại Học Tài Chính Marketing </school>
+      <degrees>SInh viên năm 2</degrees>
+      <fieldofstudy>Marketing</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_417>
+  </education>
+  <user_cv>
+    <db>
+      <ui>2583</ui>
+      <title>Phục vụ nam, Marketing,các ngành dịch vụ</title>
+      <experience>2</experience>
+      <category>14,15</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>Thích đi phượt cùng bạn bè, đá banh, xem film hay đi uống cà phê .Tính tình trung thực,hòa đồng, vui tính, hài hước, thích nghi tốt, làm việc dưới áp lực cao, giữ bình tĩnh trước mọi tình huống, làm việc có trách nhiệm, giải quyết tình huống tốt</about>
+      <skill>Từng làm B.A của Uber nên có thể giao tiếp tốt với khách hàng, hiểu được tâm lý của khách hàng, ăn nói lưu loát,  cũng đã từng làm bán vé và soát vé tại CGV cinema nên cũng hiểu rõ tính chất quan trọng của công việc, luôn thân thiện với khách hàng, luôn đặt yêu cầu của khách hàng lên trên. Từng làm các hoạt động ngoại khoá như Volunteer của VietAbroader tại các hội thảo. tham gia các Outdoor Act</skill>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Chịu được áp lực công việc,Tinh thần làm việc nhóm,Nhiệt tình,Tự tin,Tinh thần trách nhiệm,Trung thực</keyword>
+    </db>
+  </user_cv>
+</information>

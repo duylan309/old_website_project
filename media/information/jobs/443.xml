@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>443</id>
+    <ui>5752</ui>
+    <ci>393</ci>
+    <ai>0</ai>
+    <ti>Phụ bếp</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>4000000</s1>
+    <s2>4500000</s2>
+    <s3>181</s3>
+    <s4>204</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description>-	Làm sạch các loại nguyên liệu.\r\n-	Sơ chế các loại thịt, hải sản cho bếp\r\n-	Nhận các yêu cầu từ đầu bếp và thớt chính và thực hiện theo trong quá trình chuẩn bị hay làm món.\r\n-	Rửa các dụng cụ sau khi thực hiện xong.\r\n-	Vệ sinh tất cả các khu vực bếp (trừ sàn, tường_.</description>
+    <requirement>-	Kỹ năng sắp xếp, lập kế hoạch\r\n-	Sức khoẻ tốt\r\n-	Nhanh nhẹn, hoạt bát, trung thực, hòa đồng\r\n-	Không mắc các bệnh truyền nhiễm, bệnh da liễu hay dị ứng khi tiếp xúc với thực phẩm\r\n</requirement>
+    <benefit>- Lương + tip/charge + Thường doanh thu\r\n- Chế độ phúc lợi theo luật lao động (BHXH, BHYT)\r\n- Du lịch nghỉ dưỡng hằng năm\r\n- 1 năm tăng lương 1 lần\r\n- Lương tháng 134\r\n- Thường tết\r\n</benefit>
+    <keyword/>
+    <ad/>
+    <location_id>305</location_id>
+    <lat>10.771801</lat>
+    <lng>10.771801</lng>
+    <de>2016-11-10</de>
+    <re>0000-00-00</re>
+    <cr>1476260503</cr>
+  </db>
+  <more>
+    <requirement>-	Kỹ năng sắp xếp, lập kế hoạch&#13;
+-	Sức khoẻ tốt&#13;
+-	Nhanh nhẹn, hoạt bát, trung thực, hòa đồng&#13;
+-	Không mắc các bệnh truyền nhiễm, bệnh da liễu hay dị ứng khi tiếp xúc với thực phẩm&#13;
+</requirement>
+    <description>-	Làm sạch các loại nguyên liệu.&#13;
+-	Sơ chế các loại thịt, hải sản cho bếp&#13;
+-	Nhận các yêu cầu từ đầu bếp và thớt chính và thực hiện theo trong quá trình chuẩn bị hay làm món.&#13;
+-	Rửa các dụng cụ sau khi thực hiện xong.&#13;
+-	Vệ sinh tất cả các khu vực bếp (trừ sàn, tường_.</description>
+    <benefit>- Lương + tip/charge + Thường doanh thu&#13;
+- Chế độ phúc lợi theo luật lao động (BHXH, BHYT)&#13;
+- Du lịch nghỉ dưỡng hằng năm&#13;
+- 1 năm tăng lương 1 lần&#13;
+- Lương tháng 134&#13;
+- Thường tết&#13;
+</benefit>
+    <keyword/>
+  </more>
+  <userapplied>
+    <total>18</total>
+    <strui>5968,6053,6060,5058,6297,6320,6336,6569,6581,3798,2823,6865,4833,7599,7749,8005,8077,8093</strui>
+  </userapplied>
+</information>

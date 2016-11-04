@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3323</id>
+      <email>the_magicians_of_love_520@yahoo.com.vn</email>
+      <username/>
+      <name>Phuong Diem Vu</name>
+      <im>1190158931042691_phuong-diem-vu.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474531097</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Supervisor</title>
+      <experience>2</experience>
+      <category>14,15,19,20</category>
+      <type>4,6</type>
+      <level>4</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>3323</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>284</strjo>
+  </appliedjob>
+</information>

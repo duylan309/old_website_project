@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>112</id>
+    <ui>200</ui>
+    <ci>228</ci>
+    <ai>0</ai>
+    <ti>Food Runner</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>7</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14,16</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description>- Delivering food to guest quickly and efficiently\r\n- Communicating clearly with the kitchen and front of house staff</description>
+    <requirement>Ability to work well under pressure, be professional, efficient, detail-oriented, and courteous. </requirement>
+    <benefit>- Minimum 8 hours per day (more if needed)\r\n- 1 day off per week</benefit>
+    <keyword/>
+    <ad/>
+    <location_id>37</location_id>
+    <lat>10.862620</lat>
+    <lng>10.862620</lng>
+    <de>2016-10-19</de>
+    <re>0000-00-00</re>
+    <cr>1469858900</cr>
+  </db>
+  <more>
+    <requirement>Ability to work well under pressure, be professional, efficient, detail-oriented, and courteous. </requirement>
+    <description>- Delivering food to guest quickly and efficiently&#13;
+- Communicating clearly with the kitchen and front of house staff</description>
+    <benefit>- Minimum 8 hours per day (more if needed)&#13;
+- 1 day off per week</benefit>
+    <keyword/>
+  </more>
+  <userapplied>
+    <total>12</total>
+    <strui>453,516,656,662,722,779,498,941,878,1625,2990,2047</strui>
+  </userapplied>
+</information>

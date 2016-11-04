@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3218</id>
+      <email>Ngothanhxuan88@gmail.com</email>
+      <username/>
+      <name>Ngô Thị Thanh Xuân</name>
+      <im>1474425907_ngo-thi-thanh-xuan.png</im>
+      <gender>0</gender>
+      <phone>01203203322</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474425907</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,16,20</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>en</lang>
+      <skill/>
+      <ui>3218</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>240,301,287</strjo>
+  </appliedjob>
+</information>

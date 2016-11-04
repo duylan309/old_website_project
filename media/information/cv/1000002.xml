@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>1000002</id>
+    <ui>3</ui>
+    <ai>3</ai>
+    <ti>Senior Php Mysql developer</ti>
+    <ta></ta>
+    <le>3</le>
+    <ex>5</ex>
+    <sa>1000 USD</sa>
+    <lo>30</lo>
+    <ca>12</ca>
+    <so>0</so>
+    <st>3</st>
+    <re>0000-00-00</re>
+    <cr>1457153383</cr>
+  </db>
+  <more>
+    <introduceYourself>Tot nghiep cu nhanh chuyen nganh ky su khoa hoc may tinh.&#13;
+7 Nam kinh nghiem lam website, he thong website cong dong.&#13;
+Thanh thao REST API,&#13;
+Hieu biet nhieu ve Frontend (HTML CSS JQUERY ANGULAR JS)</introduceYourself>
+    <keySkills>Co kha nang lam viec doc lam,&#13;
+Am hieu ve Frontend</keySkills>
+  </more>
+</information>

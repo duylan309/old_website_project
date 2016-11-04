@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5516</id>
+      <email>huynh.huynh0311@gmail.com</email>
+      <username/>
+      <name>Nguyễn Tuấn Phong</name>
+      <im>1476036245_nguyen-tuan-phong.png</im>
+      <gender>1</gender>
+      <phone>0939548000</phone>
+      <address>501/6 xô viết nghệ tĩnh p26</address>
+      <city>30</city>
+      <dob>1991-7-15</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476036245</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>15</day>
+      <month>7</month>
+      <year>1991</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.807991</lat>
+      <lng>106.711164</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phụ bếp</title>
+      <experience>7</experience>
+      <category>14,15,17,35</category>
+      <type>6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>5516</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Em tên Tuấn Phong 25 tuổi Em từng làm ở công ty bảo vệ thực vật về bên sắp xếp hành hoá và e từng làm giao nhận sim , Buôn bán với gia đình. Em học hỏi rất nhanh và làm việc nhanh nhẹn</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>193,191</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>2</total>
+    <strjo>193,191</strjo>
+  </savedjob>
+</information>

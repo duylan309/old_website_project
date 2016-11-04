@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3413</id>
+      <email>sugugu203@gmail.com</email>
+      <username/>
+      <name>Hà Thụy Việt Hồng</name>
+      <im>195420844196825_su-gugu.jpg</im>
+      <gender>2</gender>
+      <dob>1997-3-20</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474608293</created>
+      <day>20</day>
+      <month>3</month>
+      <year>1997</year>
+      <phone>01208193835</phone>
+      <address>529/60 Huỳnh Văn Bánh , phường 14 , quận Phú Nhuận</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.791126</lat>
+      <lng>106.668217</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên bán hàng , nhân viên phục vụ , pha chế</title>
+      <experience>1</experience>
+      <category>15,17,35,36</category>
+      <type>2,5</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <skill>kĩ năng làm việc nhóm , kĩ năng giao tiêp</skill>
+      <ui>3413</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>205,222,294</strjo>
+  </appliedjob>
+  <education>
+    <n_557>
+      <id>557</id>
+      <school>Đại học Công Nghiệp TP.HCM</school>
+      <degrees/>
+      <fieldofstudy>Tài Chính Ngân Hàng</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_557>
+  </education>
+  <savedjob>
+    <total>1</total>
+    <strjo>294</strjo>
+  </savedjob>
+</information>

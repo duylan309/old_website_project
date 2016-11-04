@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>113</id>
+    <ui>200</ui>
+    <ci>228</ci>
+    <ai>0</ai>
+    <ti>Waiter/ Waitress</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14,16</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>37</location_id>
+    <lat>10.862620</lat>
+    <lng>10.862620</lng>
+    <de>2016-10-19</de>
+    <re>0000-00-00</re>
+    <cr>1469076274</cr>
+  </db>
+  <more>
+    <requirement>- Good English communication skills&#13;
+- Customer service skills&#13;
+- Detailed oriented&#13;
+- Physical stamina&#13;
+- Work well under pressure</requirement>
+    <description>- Greet customers, present menus&#13;
+-  Answer questions related to menu items&#13;
+- Take food and beverage orders from customers&#13;
+- Relay food and beverage orders to the kitchen staff&#13;
+- Carry trays of food or drinks from the kitchen to the dining tables&#13;
+- Remove dirty dishes and glasses, and clean tables after customers finish meals&#13;
+- Prepare itemized checks and take payments from customers&#13;
+- Clean and set up dining areas, refill condiments, roll silverware into napkins, and stock service areas</description>
+    <benefit>- Minimum 8 hours per day (more if needed)&#13;
+- 1 day off per week</benefit>
+    <keyword/>
+  </more>
+  <userapplied>
+    <total>32</total>
+    <strui>306,428,591,626,716,722,941,998,1067,1068,1220,1240,292,1274,878,1134,1905,1972,1986,1584,2157,2532,2546,3240,2786,4833,4770,3210,5197,5226,5603,5882</strui>
+  </userapplied>
+</information>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2392</id>
+      <email>Nhiha1995@gmail.com</email>
+      <username/>
+      <name>Hà Tuyết Nhi</name>
+      <im>2392_img-20160910-1.png</im>
+      <gender>2</gender>
+      <phone>01265499403</phone>
+      <address>41 Bùi Viện</address>
+      <city>30</city>
+      <dob>1995-3-23</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473449171</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1473449171</last_signin>
+      <day>23</day>
+      <month>3</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.767066</lat>
+      <lng>106.693571</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>2392</ui>
+      <title>Bartender</title>
+      <experience>2</experience>
+      <category>14,16,19,20</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>en</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Đã làm qua môi trường Bar,nhà hàng .</about>
+      <skill/>
+      <keyword>Giao tiếp hiệu quả,Tinh thần làm việc nhóm,Kỹ năng chăm sóc khách hàng,Nhiệt tình</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>119</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>4</total>
+    <strjo>119,202,199,250</strjo>
+  </savedjob>
+</information>

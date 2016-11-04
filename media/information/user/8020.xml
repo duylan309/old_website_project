@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>8020</id>
+      <email>caulacuato232@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Hằng Nga</name>
+      <im>1477594964_nguyen-thi-hang-nga.png</im>
+      <gender>2</gender>
+      <phone>01289829099</phone>
+      <address></address>
+      <city></city>
+      <dob>1995-12-9</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477594964</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>9</day>
+      <month>12</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ, pha chế</title>
+      <experience>1</experience>
+      <category>14,15,16</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>vui vẻ, hòa đồng</skill>
+      <ui>8020</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>đang là sinh viên năm 4, tại trường STU&#13;
+Theo học ngành công nghệ thực phẩm&#13;
+</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>504</strjo>
+  </appliedjob>
+</information>

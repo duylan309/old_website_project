@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>782</id>
+      <email>Htminhthu2508@gmail.com</email>
+      <username/>
+      <name>Hoàng Thị Minh Thu</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01268650928</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471049718</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên thu ngân</title>
+      <experience>7</experience>
+      <category>14</category>
+      <type>5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Kỹ năng bán hàng&#13;
+Kỹ năng giao tiếp&#13;
+Kỹ năng làm việc nhóm </skill>
+      <ui>782</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>107</strjo>
+  </appliedjob>
+</information>

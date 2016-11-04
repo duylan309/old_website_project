@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3957</id>
+      <email>nguyentoquyen102@gmail.com</email>
+      <username/>
+      <name>Nguyễn Tố Quyên</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01688154071</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474903026</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Kỹ năng giao tiếp, quản lý thời gian</skill>
+      <ui>3957</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>151,267,240,259,172</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6978</id>
+      <email>Hiberry2311@gmail.com</email>
+      <username/>
+      <name>Phạm Thị Hoàng Trang </name>
+      <im>6978_fb-img-1476465499037.jpg</im>
+      <gender>2</gender>
+      <dob>1996-11-23</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476978363</created>
+      <day>23</day>
+      <month>11</month>
+      <year>1996</year>
+      <phone>01268023317</phone>
+      <address>165/8 đường số 28 phường 6 quận Gò Vấp</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.843665</lat>
+      <lng>106.681327</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>2</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill>Giao tiếp tốt, siêng năng chăm chỉ, nói năng lưu loát, nhanh nhẹn </skill>
+      <ui>6978</ui>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <about>Em tên Trang, đến từ tỉnh Tiền Giang, hiện là sinh viên năm 2 của trường đại học công nghệ thành phố, tính tình hòa đồng, vui vẻ, chăm chỉ,  nói năng lưu loát, giao tiếp thông thạo, lịch sự,  lễ phép.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>158,474,172,478,285</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>158</strjo>
+  </savedjob>
+  <education>
+    <n_1149>
+      <id>1149</id>
+      <school>Đại học công nghệ thành phố</school>
+      <degrees>Tiếng Anh A1, tốt nghiêp cấp 3</degrees>
+      <fieldofstudy>Quản trị kinh doanh </fieldofstudy>
+      <from>2015</from>
+      <to>2018</to>
+    </n_1149>
+  </education>
+  <experience>
+    <n_1380>
+      <id>1380</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Quán Hẽm</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>Tháng 8 năm 2015</from>
+      <to>Tháng 9 năm 2016</to>
+    </n_1380>
+  </experience>
+</information>

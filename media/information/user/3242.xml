@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3242</id>
+      <email>mayanha97@gmail.com</email>
+      <username/>
+      <name>Hong Pham</name>
+      <im>688025164697486_hong-pham.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474450113</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Bán hàng phục vụ</title>
+      <experience>1</experience>
+      <category>35</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Giao tiếp tốt và hoà đồng</skill>
+      <ui>3242</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>214</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1882</id>
+      <email>phuongnguyen20011997@gmail.com</email>
+      <username/>
+      <name>NGUYỄN TRẦN DIỄM PHƯƠNG</name>
+      <im>1473044570_nguyen-tran-diem-phuong.jpg</im>
+      <gender>2</gender>
+      <phone>01668677898</phone>
+      <address>182/59 đường Bạch Đằng.quận Bình Thạnh,tp Hồ Chí Minh</address>
+      <city>30</city>
+      <dob>1997-1-20</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473044570</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>20</day>
+      <month>1</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8039729</lat>
+      <lng>106.706743</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ,pha chế</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>2,4,5</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill>Tôi đã có thời gian làm nhân viên phục vụ và nhân viên pha chế được 1 năm.Tôi tự tin về kĩ năng giao tiếp cũng như kĩ năng làm việc theo nhóm của mình</skill>
+      <ui>1882</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>130,172,195,106,64,219</strjo>
+  </appliedjob>
+  <experience>
+    <n_417>
+      <id>417</id>
+      <title>nhân viên phục vụ,nhân viên pha chế</title>
+      <level>1</level>
+      <cmpname>Hội quán sinh viên đại học Giao thông Vận Tải</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>7/2015</from>
+      <to>8/2016</to>
+    </n_417>
+  </experience>
+  <education>
+    <n_302>
+      <id>302</id>
+      <school>Đại Học Tôn Đức Thắng</school>
+      <degrees/>
+      <fieldofstudy>Luật</fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_302>
+  </education>
+</information>

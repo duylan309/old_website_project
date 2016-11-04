@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6682</id>
+      <email>ngoquangphong.ayp@gmail.com</email>
+      <username/>
+      <name>Quang Phong Ngô</name>
+      <im>951285758316369_quang-phong-ngo.jpg</im>
+      <gender>1</gender>
+      <dob>1993-11-20</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476779133</created>
+      <day>20</day>
+      <month>11</month>
+      <year>1993</year>
+      <phone>0976639985</phone>
+      <address>495 lê văn lương, quận 7</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7137211</lat>
+      <lng>106.7010501</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, Phụ bếp, Giao Hàng.</title>
+      <experience>7</experience>
+      <category>15,17,27,36</category>
+      <type>2,4,5,6</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill></skill>
+      <ui>6682</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>356</strjo>
+  </appliedjob>
+</information>

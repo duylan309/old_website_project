@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>237</id>
+    <ui>297</ui>
+    <ci>223</ci>
+    <ai>0</ai>
+    <ti>Waiter/ Waitress</ti>
+    <ta/>
+    <le>2</le>
+    <ty>4</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>3000000</s1>
+    <s2>5000000</s2>
+    <s3>136</s3>
+    <s4>227</s4>
+    <lo></lo>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>1</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description>- Phục vụ món ăn, hướng dẫn khách vào bàn\r\n- Làm các công việc khác theo yêu cầu của quản lý</description>
+    <requirement>- Giao tiếp tốt bằng tiếng anh\r\n- Làm việc theo ca xoay ( 8AM - 4PM hoặc 3PM - 11PM)\r\n- Kinh nghiệm ít nhất 1 năm\r\n- Vui vẻ, nhanh nhẹn, hòa đồng</requirement>
+    <benefit>- Môi trường làm việc quốc tế, chuyên nghiệp\r\n- Có cơ hội thăng tiến\r\n- Đóng BHXH, BHYT, BHTN theo đúng luật lao động\r\n- Chế độ nghỉ phép hàng năm\r\n- Nhà hàng bao cơm cho nhân viên\r\n- Hưởng lương + service charge hàng tháng.</benefit>
+    <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Nhiệt tình,Tự tin,Tinh thần làm việc nhóm</keyword>
+    <ad/>
+    <location_id>24</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-10</de>
+    <re>0000-00-00</re>
+    <cr>1477376451</cr>
+  </db>
+  <more>
+    <requirement>- Giao tiếp tốt bằng tiếng anh&#13;
+- Làm việc theo ca xoay ( 8AM - 4PM hoặc 3PM - 11PM)&#13;
+- Kinh nghiệm ít nhất 1 năm&#13;
+- Vui vẻ, nhanh nhẹn, hòa đồng</requirement>
+    <description>- Phục vụ món ăn, hướng dẫn khách vào bàn&#13;
+- Làm các công việc khác theo yêu cầu của quản lý</description>
+    <workhour></workhour>
+    <benefit>- Môi trường làm việc quốc tế, chuyên nghiệp&#13;
+- Có cơ hội thăng tiến&#13;
+- Đóng BHXH, BHYT, BHTN theo đúng luật lao động&#13;
+- Chế độ nghỉ phép hàng năm&#13;
+- Nhà hàng bao cơm cho nhân viên&#13;
+- Hưởng lương + service charge hàng tháng.</benefit>
+    <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Nhiệt tình,Tự tin,Tinh thần làm việc nhóm</keyword>
+  </more>
+  <userapplied>
+    <total>2</total>
+    <strui>5180,7411</strui>
+  </userapplied>
+</information>

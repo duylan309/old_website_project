@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>97</id>
+    <ui>297</ui>
+    <ci>223</ci>
+    <ai>0</ai>
+    <ti>Cashier</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1,4</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>3800000</s1>
+    <s2>5000000</s2>
+    <s3>172</s3>
+    <s4>227</s4>
+    <lo>23</lo>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description>- Làm công việc thu ngân tại nhà hàng 1911\r\n- Làm công việc theo sự sắp xếp của quản lý\r\n- Làm ca xoay: 8h-16h và 15h-23h</description>
+    <requirement>- Có kinh nghiệm làm thu ngân nhà hàng\r\n- Giao tiếp tiếng anh tốt\r\n- Nhiệt tình, chăm chỉ\r\n- Vui vẻ, nhanh nhẹn</requirement>
+    <benefit>- Môi trường làm việc chuyên nghiệp\r\n- Có cơ hội thăng tiến \r\n- Đóng BHXH, BHYT, BHTN theo luật lao động\r\n- Lương+service charge\r\n- Nhà hàng bao cơm cho nhân viên</benefit>
+    <keyword>Honesty,Problem-solving,Responsibility</keyword>
+    <ad>1, Tràng Tiền, Hoàn Kiếm</ad>
+    <lat>21.023905</lat>
+    <lng>105.858276</lng>
+    <de>2016-11-10</de>
+    <re>0000-00-00</re>
+    <cr>1474525485</cr>
+    <location_id>24</location_id>
+  </db>
+  <more>
+    <requirement>- Có kinh nghiệm làm thu ngân nhà hàng&#13;
+- Giao tiếp tiếng anh tốt&#13;
+- Nhiệt tình, chăm chỉ&#13;
+- Vui vẻ, nhanh nhẹn</requirement>
+    <description>- Làm công việc thu ngân tại nhà hàng 1911&#13;
+- Làm công việc theo sự sắp xếp của quản lý&#13;
+- Làm ca xoay: 8h-16h và 15h-23h</description>
+    <benefit>- Môi trường làm việc chuyên nghiệp&#13;
+- Có cơ hội thăng tiến &#13;
+- Đóng BHXH, BHYT, BHTN theo luật lao động&#13;
+- Lương+service charge&#13;
+- Nhà hàng bao cơm cho nhân viên</benefit>
+    <keyword>Honesty,Problem-solving,Responsibility</keyword>
+  </more>
+</information>

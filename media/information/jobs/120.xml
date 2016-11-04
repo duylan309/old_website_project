@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>120</id>
+    <ui>377</ui>
+    <ci>236</ci>
+    <ai>0</ai>
+    <ti>Food Runner</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>7</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>4000000</s1>
+    <s2>5000000</s2>
+    <s3>181</s3>
+    <s4>227</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>1</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description>- Ca làm: 7.00-15.00\r\n- Bưng thức ăn ra từ bếp cho khách\r\n- hoàn thành các công việc được giao trong ngày</description>
+    <requirement>- YÊU CẦU: NAM\r\n- Nhanh nhẹn, khoẻ, chịu học hỏi và làm việc dưới áp lực khá tốt.\r\n- Siêng năng</requirement>
+    <benefit>- 1 ngày nghỉ/ tuần\r\n- Tăng ca x1.5\r\n- Đi làm ngày lễ, lương x2\r\n- 1 bữa cơm/ ca làm\r\n- Có bãi giữ xe miễn phí cho nhân viên</benefit>
+    <keyword/>
+    <ad/>
+    <location_id>46</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-09-29</de>
+    <re>0000-00-00</re>
+    <cr>1471696578</cr>
+  </db>
+  <more>
+    <requirement>- YÊU CẦU: NAM&#13;
+- Nhanh nhẹn, khoẻ, chịu học hỏi và làm việc dưới áp lực khá tốt.&#13;
+- Siêng năng</requirement>
+    <description>- Ca làm: 7.00-15.00&#13;
+- Bưng thức ăn ra từ bếp cho khách&#13;
+- hoàn thành các công việc được giao trong ngày</description>
+    <benefit>- 1 ngày nghỉ/ tuần&#13;
+- Tăng ca x1.5&#13;
+- Đi làm ngày lễ, lương x2&#13;
+- 1 bữa cơm/ ca làm&#13;
+- Có bãi giữ xe miễn phí cho nhân viên</benefit>
+    <keyword/>
+  </more>
+  <userapplied>
+    <total>19</total>
+    <strui>395,410,453,519,529,532,536,546,304,564,581,589,638,656,662,728,796,976,1063</strui>
+  </userapplied>
+</information>

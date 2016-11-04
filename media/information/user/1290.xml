@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1290</id>
+      <email>haydennghi1990@gmail.com</email>
+      <username/>
+      <name>Vu Nghi Vinh</name>
+      <im>10206119212812440_vu-nghi-vinh.jpg</im>
+      <gender>1</gender>
+      <dob>1994-7-21</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472067492</created>
+      <day>21</day>
+      <month>7</month>
+      <year>1994</year>
+      <phone>0987786544</phone>
+      <address>811 Đoàn Văn Bơ Phường 18 Quận 4</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7638738</lat>
+      <lng>106.7033948</lng>
+    </db>
+  </userinfo>
+  <savedjob>
+    <total>1</total>
+    <strjo>84</strjo>
+  </savedjob>
+  <education>
+    <n_204>
+      <id>204</id>
+      <school>PSB College</school>
+      <degrees>Diploma </degrees>
+      <fieldofstudy>Human Resource</fieldofstudy>
+      <from>2013</from>
+      <to>2014</to>
+    </n_204>
+  </education>
+  <user_cv>
+    <db>
+      <ui>1290</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>7</experience>
+      <category>14</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <skill>I can speak English fluently, ability to solve problems with critical thinking, calmness, and fully respect others with my kindness. Open minding to others who struggles, kindly listening and observe information. I am currently a last year Finance student at ERC Institution and I desire to be a financial analysts or either to be a restaurant owner depends on what opportunities lead me the way!</skill>
+      <keyword>Giao tiếp hiệu quả,Tinh thần trách nhiệm,Nhiệt tình,Trung thực,Tự tin,Tinh thần làm việc nhóm,Kỹ năng giải quyết tình huống</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>84,100</strjo>
+  </appliedjob>
+</information>

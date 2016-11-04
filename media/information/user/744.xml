@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>744</id>
+      <email>minhphan.140285@gmail.com</email>
+      <username/>
+      <name>Phan Trường Minh</name>
+      <im>744_beautyplus-20160617202135-fast.jpg</im>
+      <gender>1</gender>
+      <phone>0918299340</phone>
+      <address>16/62 ĐƯỜNG SỐ 6, KP ÍCH THẠNH, P TRƯỜNG THẠNH, QUẬN 9</address>
+      <city>30</city>
+      <dob>1985-2-14</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470983604</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>14</day>
+      <month>2</month>
+      <year>1985</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8117526</lat>
+      <lng>106.8325872</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>2</experience>
+      <category>14,20,28,29</category>
+      <type>2,4</type>
+      <level>4</level>
+      <lang>vi</lang>
+      <skill>CÓ KHẢ NĂNG GIAO TIẾP TỐT.</skill>
+      <ui>744</ui>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <keyword>Giao tiếp hiệu quả,Chịu được áp lực công việc,Trung thực,Nhiệt tình,Tự tin</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>85,104</strjo>
+  </appliedjob>
+  <experience>
+    <n_160>
+      <id>160</id>
+      <title>NHÂN VIÊN</title>
+      <level>1</level>
+      <cmpname>KAYO BAR &amp; RESTAURANT</cmpname>
+      <city>HCM</city>
+      <country/>
+      <from>1 NĂM</from>
+      <to>2 NĂM</to>
+    </n_160>
+  </experience>
+  <education>
+    <n_106>
+      <id>106</id>
+      <school>THPT ĐẦM DƠI</school>
+      <degrees>CẤP 3</degrees>
+      <fieldofstudy>NHÀ HÀNG</fieldofstudy>
+      <from>1</from>
+      <to>2</to>
+    </n_106>
+  </education>
+</information>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6074</id>
+      <email>tobichngan283@gmail.com</email>
+      <username/>
+      <name>Tô Thị Bích Ngân</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0961127702</phone>
+      <address>40/31 Bàu Cát 2, P 14, Q Tân Bình</address>
+      <city>30</city>
+      <dob>1995-3-28</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476365205</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476365205</last_signin>
+      <day>28</day>
+      <month>3</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.789269</lat>
+      <lng>106.6424569</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6074</ui>
+      <title>Phục vụ nữ</title>
+      <experience>1</experience>
+      <category>14,15,20</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <experience>
+    <n_1235>
+      <id>1235</id>
+      <title>Phục vụ</title>
+      <level>1</level>
+      <cmpname>Fungi Chingu Restaurant</cmpname>
+      <city>Tp Đà Lạt</city>
+      <country>Việt Nam</country>
+      <from>6 - 2015</from>
+      <to>4 - 2016</to>
+    </n_1235>
+  </experience>
+  <education>
+    <n_1010>
+      <id>1010</id>
+      <school>Cao đẳng Nghề Đà Lạt</school>
+      <degrees>Giỏi</degrees>
+      <fieldofstudy>Chế biến món ăn</fieldofstudy>
+      <from>2013</from>
+      <to>2016</to>
+    </n_1010>
+  </education>
+  <appliedjob>
+    <total>2</total>
+    <strjo>360,418</strjo>
+  </appliedjob>
+</information>

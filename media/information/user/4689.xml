@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4689</id>
+      <email>phuocthinh.action@gmail.com</email>
+      <username/>
+      <name>Nguyễn Phước Thịnh</name>
+      <im>1475420058_nguyen-phuoc-thinh.png</im>
+      <gender>1</gender>
+      <phone>01208570462</phone>
+      <address>655/3,Xô VIết Nghệ TỈnh,P.21,Bình Thạnh</address>
+      <city>30</city>
+      <dob>1995-2-18</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475420057</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>18</day>
+      <month>2</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8162093</lat>
+      <lng>106.7193049</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ,nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>14,15,17,29</category>
+      <type>2,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Có kỹ năng giao tiếp ,biết sáng tạo trong công viêc,có khả năng điều chỉnh thể gian lam việc</skill>
+      <ui>4689</ui>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <about>Tình cách:Hòa đồng,nhiệt tình,luôn chủ động trong mọi công việc&#13;
+Kinh nghiệm làm việc:Từng làm việc ở cửa hàng tiện lơi Circle K nên có khả năng thích ứng nhanh vào một môi trường chuyên nghiệp&#13;
+Đang la sinh viên tại trường ĐH CÔng nghệ TP Hồ Chí Minh</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>219</strjo>
+  </appliedjob>
+  <experience>
+    <n_987>
+      <id>987</id>
+      <title>Nhân viên bán hang</title>
+      <level>1</level>
+      <cmpname>CT Vòng Tròn Đỏ</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2/2016</from>
+      <to>5/2016</to>
+    </n_987>
+  </experience>
+  <education>
+    <n_779>
+      <id>779</id>
+      <school>ĐH Công Nghệ TP Hồ Chí Minh</school>
+      <degrees/>
+      <fieldofstudy>Quản trị kinh doanh</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_779>
+  </education>
+</information>

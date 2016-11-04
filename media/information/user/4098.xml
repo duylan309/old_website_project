@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4098</id>
+      <email>truongjonhny@gmail.com</email>
+      <username/>
+      <name>VÕ TẤN TRƯỜNG QUANG</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0967533429</phone>
+      <address>2/14 Tăng Bạt Hổ, phường 11, quận Bình Thạnh</address>
+      <city>30</city>
+      <dob>1997-1-9</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474967641</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>9</day>
+      <month>1</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.81059</lat>
+      <lng>106.6927016</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,20</category>
+      <type>2,4,5,6</type>
+      <level>4</level>
+      <lang>vi,en</lang>
+      <skill></skill>
+      <ui>4098</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Giới tính : Nam                    Cao: 1m77&#13;
+Ưu điểm: Hoạt bát năng động, luôn học hỏi và lắng nghe, vui tính thân thiện. Làm việc có trách nhiệm, tự tin, khả năng làm việc nhóm cao.&#13;
+&#13;
+Nhược điểm: Chưa lên được kế hoạch về thời gian, kĩ năng chuyên môn chưa chuyên sâu. đôi khi bất đồng suy nghĩ.&#13;
+&#13;
+</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>279</strjo>
+  </appliedjob>
+  <experience>
+    <n_876>
+      <id>876</id>
+      <title>CL</title>
+      <level>1</level>
+      <cmpname>Hotel Des Art Saigon</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>12/2015</from>
+      <to>3/2016</to>
+    </n_876>
+  </experience>
+</information>

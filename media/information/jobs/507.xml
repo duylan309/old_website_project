@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>507</id>
+    <ui>7487</ui>
+    <ci>424</ci>
+    <ai>0</ai>
+    <ti>Nhân viên bếp (Bếp chính/ bếp phụ)</ti>
+    <ta/>
+    <le>2,5</le>
+    <ty>1,6</ty>
+    <ex>3</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>3500000</s1>
+    <s2>7000000</s2>
+    <s3>159</s3>
+    <s4>318</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14,15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description>- Đảm bảo chất lượng sản phẩm của mình cũng như tôn trọng chiến lược hợp tác với các bộ phận khác \r\n- Quản lí &amp; điều hành khu vực bếp theo yêu cầu an toàn thực phẩm \r\n- Hợp tác &amp; chia sẻ kiến thức thực phẩm với các bộ phận cần thiết để đảm bảo chất lượng dịch vụ được đánh giá cao \r\n- Bảo quản và giữ gìn các thiết bị được sạch sẽ, bền \r\n- Sáng tạo món ăn &amp; theo dõi, update cost các sản phẩm \r\n- Kiểm kho và update hàng chợ mỗi ngày \r\n- Đảm bảo chất lượng năng suất của các nhân viên bếp \r\n- Hỗ trợ &amp; hướng dẫn các nhân viên cấp dưới. </description>
+    <requirement>- Kinh nghiệm ít nhất 2 -3 năm trong cùng vị trí \r\n- Kiến thức cơ bản về món Âu/ nguyên vật liệu  \r\n- Kỹ năng lãnh đạo cũng như tinh thần teamwork cao \r\n- Khả năng làm việc dưới hoàn cảnh áp lực tốt \r\n</requirement>
+    <workhour/>
+    <benefit/>
+    <keyword>Giao tiếp hiệu quả,Tinh thần trách nhiệm,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+    <ad/>
+    <location_id>368</location_id>
+    <lat>10.772547</lat>
+    <lng>10.772547</lng>
+    <de>2016-11-30</de>
+    <re>0000-00-00</re>
+    <cr>1477291053</cr>
+  </db>
+  <more>
+    <requirement>- Kinh nghiệm ít nhất 2 -3 năm trong cùng vị trí &#13;
+- Kiến thức cơ bản về món Âu/ nguyên vật liệu  &#13;
+- Kỹ năng lãnh đạo cũng như tinh thần teamwork cao &#13;
+- Khả năng làm việc dưới hoàn cảnh áp lực tốt &#13;
+</requirement>
+    <description>- Đảm bảo chất lượng sản phẩm của mình cũng như tôn trọng chiến lược hợp tác với các bộ phận khác &#13;
+- Quản lí &amp; điều hành khu vực bếp theo yêu cầu an toàn thực phẩm &#13;
+- Hợp tác &amp; chia sẻ kiến thức thực phẩm với các bộ phận cần thiết để đảm bảo chất lượng dịch vụ được đánh giá cao &#13;
+- Bảo quản và giữ gìn các thiết bị được sạch sẽ, bền &#13;
+- Sáng tạo món ăn &amp; theo dõi, update cost các sản phẩm &#13;
+- Kiểm kho và update hàng chợ mỗi ngày &#13;
+- Đảm bảo chất lượng năng suất của các nhân viên bếp &#13;
+- Hỗ trợ &amp; hướng dẫn các nhân viên cấp dưới. </description>
+    <workhour/>
+    <benefit/>
+    <keyword>Giao tiếp hiệu quả,Tinh thần trách nhiệm,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+  </more>
+  <userapplied>
+    <total>1</total>
+    <strui>7835</strui>
+  </userapplied>
+</information>

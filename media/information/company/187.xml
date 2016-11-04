@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>187</id>
+    <ui>193</ui>
+    <name>Guanabana</name>
+    <url>guanabana</url>
+    <im>439826112763696_guanabana-smoothies.png</im>
+    <category>15</category>
+    <phone>0907841947</phone>
+    <address>23 Ly Tu Trong, Q1</address>
+    <district>760</district>
+    <district_text_vi>Quận 1</district_text_vi>
+    <district_text_en>District 1</district_text_en>
+    <city>30</city>
+    <website>www.guanabanasmoothies.com</website>
+    <skype/>
+    <facebook>https://www.facebook.com/guanabanasmoothies/?fref=ts</facebook>
+    <size>1</size>
+    <status>0</status>
+    <dayleft>0</dayleft>
+    <jobleft>0</jobleft>
+    <signupby/>
+    <token/>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1465211774</created>
+    <deactive>0</deactive>
+    <lat>10.780424</lat>
+    <lng>106.703551</lng>
+    <im_banner>439826112763696_guanabana-smoothies-cover.jpg</im_banner>
+  </db>
+  <more>
+    <about>At Guanabana, we are all about spreading goodness through healthy smoothies and juices. Our smoothies and cold pressed juices are made from whole fruits and vegetables, with no sugar or condensed milk added.</about>
+    <whyworkus/>
+  </more>
+  <companybanner>439826112763696_guanabana-smoothies-cover.jpg</companybanner>
+  <latlng>
+    <lat>10.780424819389001</lat>
+    <lng>106.70353532535955</lng>
+  </latlng>
+  <totalJob>
+    <total>5</total>
+    <strji>61,63,68,69,182</strji>
+  </totalJob>
+</information>

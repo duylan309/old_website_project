@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>276</id>
+      <email>bapngo_96@yahoo.com.vn</email>
+      <username/>
+      <name>Mien Ha Nguyen</name>
+      <im>745637678911286_mien-ha-nguyen.jpg</im>
+      <gender>2</gender>
+      <dob>1996-2-6</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1468057646</created>
+      <day>6</day>
+      <month>2</month>
+      <year>1996</year>
+      <phone>0933196883</phone>
+      <address>số 8 Nguyễn Duy, phường 3, quận Bình Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8011989</lat>
+      <lng>106.6944071</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>276</ui>
+      <title>Waiter</title>
+      <category>15</category>
+      <location>30</location>
+      <type>2</type>
+      <level>3</level>
+      <experience>7</experience>
+      <lang>vi</lang>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <skill>I am Industrious, honest and responsible person. I always have an inquiring mind in my job.</skill>
+    </db>
+  </user_cv>
+</information>

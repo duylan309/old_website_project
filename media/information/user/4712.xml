@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4712</id>
+      <email>hhllaa.0601@gmail.com</email>
+      <username/>
+      <name>Lan Anh</name>
+      <im>700332356783260_lan-anh.jpg</im>
+      <gender>2</gender>
+      <dob>1998-8-6</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475458364</created>
+      <day>6</day>
+      <month>8</month>
+      <year>1998</year>
+      <phone>01206666440</phone>
+      <address>Chung cư Hưng Phát, 928 Lê Văn Lương, Phước Kiển, quận 7, TP.HCM</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7335118</lat>
+      <lng>106.6974634</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, Pha chế, Bán hàng tại các cửa hàng quần áo</title>
+      <experience>7</experience>
+      <category>15,36</category>
+      <type>3,4,5</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill>Có kĩ năng giao tiếp, nhanh nhẹn</skill>
+      <ui>4712</ui>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>Sinh viên năm 1 trường ĐH Tôn Đức Thắng&#13;
+Yêu cái đẹp và cũng rất thích làm đẹp cho bản thân &#13;
+Nghiện coffee&#13;
+Rất thích và biết làm một số loại bánh như: cookie, bánh gato, tart, bánh mì,...... &#13;
+Đam mê thời trang </about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>312,253,322</strjo>
+  </appliedjob>
+</information>

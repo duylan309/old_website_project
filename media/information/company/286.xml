@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>286</id>
+    <ui>1432</ui>
+    <name>Pat’aChou Bakery</name>
+    <url>patachou</url>
+    <im>286_logoforweb.png</im>
+    <im_banner/>
+    <category>14,15,35</category>
+    <phone/>
+    <address>135, Hai Bà Trưng, Quận 1</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.7823263</lat>
+    <lng>106.6984426</lng>
+    <website/>
+    <about/>
+    <facebook>https://www.facebook.com/Pat-a-Chou-475883382591721</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1472303582</created>
+  </db>
+  <more>
+    <about>                Bánh kem, bánh mì, bánh ngọt\r\n            </about>
+    <whyworkus/>
+  </more>
+  <companybanner>286_picsart-08-10-07.32</companybanner>
+  <totalJob>
+    <total>3</total>
+    <strji>201,202,526</strji>
+  </totalJob>
+</information>

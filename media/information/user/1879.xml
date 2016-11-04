@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1879</id>
+      <email>pebong_dethuong97@yahoo.com</email>
+      <username/>
+      <name>Mỹ Hoa</name>
+      <im>1142313955843970_my-hoa.jpg</im>
+      <gender>2</gender>
+      <dob>1997-9-23</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473043031</created>
+      <day>23</day>
+      <month>9</month>
+      <year>1997</year>
+      <last_signin>1473043031</last_signin>
+      <phone>0969446304</phone>
+      <address></address>
+      <country>vn</country>
+      <city></city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <experience>
+    <n_416>
+      <id>416</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Savoure Bakery</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>Tháng 3/2016</from>
+      <to>Tháng 8/2016</to>
+    </n_416>
+  </experience>
+  <education>
+    <n_301>
+      <id>301</id>
+      <school>Đại Học Công Nghệ TP.HCM</school>
+      <degrees/>
+      <fieldofstudy>Quản Trị Nhà Hàng và Dịch Vụ Ăn Uống</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_301>
+  </education>
+  <user_cv>
+    <db>
+      <ui>1879</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>17,27,29,31,36</category>
+      <type>2,4,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>17000</s1>
+      <salary>1</salary>
+      <skill></skill>
+      <keyword>Giao tiếp hiệu quả,Nhiệt tình</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>124</strjo>
+  </appliedjob>
+</information>

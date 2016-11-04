@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2756</id>
+      <email>riolongnguyen05@gmail.com</email>
+      <username/>
+      <name>Nguyễn Phi Long</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0966605801</phone>
+      <address>20/16 Cây Trâm P.9 Gò Vấp tphcm</address>
+      <city></city>
+      <dob>1993-2-5</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473865246</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>5</day>
+      <month>2</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên Bếp</title>
+      <experience>2</experience>
+      <category>14</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill></skill>
+      <ui>2756</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Hòa đồng , vui vẻ.</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>277,190,200</strjo>
+  </appliedjob>
+  <experience>
+    <n_617>
+      <id>617</id>
+      <title>Bếp chính</title>
+      <level>1</level>
+      <cmpname>Stoker</cmpname>
+      <city>HCM</city>
+      <country>Việt Nam</country>
+      <from>7-2015</from>
+      <to>nay</to>
+    </n_617>
+  </experience>
+</information>

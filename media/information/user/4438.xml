@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4438</id>
+      <email>khoanam3005@gmail.com</email>
+      <username/>
+      <name>Trần Khoa Nam</name>
+      <im/>
+      <gender>1</gender>
+      <phone>01652523535</phone>
+      <address>52/6A ,Yên Đỗ , Phường 1, Quận Bình Thạnh</address>
+      <city>30</city>
+      <dob>1998-5-30</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475154890</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1475154890</last_signin>
+      <day>30</day>
+      <month>5</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.798639</lat>
+      <lng>106.69783</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_733>
+      <id>733</id>
+      <school>Đại Học Công Nghệ Thành Phố Hồ Chí Minh</school>
+      <degrees/>
+      <fieldofstudy>Quản Trị Dịch Vụ Lữ Hành</fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_733>
+  </education>
+  <user_cv>
+    <db>
+      <ui>4438</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>7</experience>
+      <category>16</category>
+      <type>2</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Chiều Cao 1m75 , Căn Nặng 65kg , Tính Tình Hòa Đồng Dễ Dàng Kết Bạn Và Làm Quen Với Bạn Mới...</about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

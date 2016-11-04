@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5264</id>
+      <email>silverwings1808@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Bích Xuân</name>
+      <im>690002757832626_prince-sun.jpg</im>
+      <gender>2</gender>
+      <dob>1998-8-18</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475837074</created>
+      <day>18</day>
+      <month>8</month>
+      <year>1998</year>
+      <last_signin>1475837074</last_signin>
+      <phone>01648419474</phone>
+      <address>56 Hoàng diệu 2, phường Linh chiểu, quận Thủ đức</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8575878</lat>
+      <lng>106.7635501</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>5264</ui>
+      <title>Nhân viên phục vụ, Phụ Bếp,</title>
+      <experience>7</experience>
+      <category>14,15,20,29</category>
+      <type>5,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Là sinh viên. Tìm việc vì muốn thử thách bản thân, kiếm thêm thu nhập.</about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

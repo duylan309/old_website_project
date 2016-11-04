@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>294</id>
+    <ui>1543</ui>
+    <name>BurgerKing Phú Mỹ Hưng</name>
+    <url>burgerking-phu-my-hung</url>
+    <im>_burgerking-pham-hong-thai.png</im>
+    <im_banner>_burgerking-pham-hong-thai-cover.jpg</im_banner>
+    <category>14</category>
+    <phone>54124521</phone>
+    <address>39 Nguyễn Văn Linh, Hồ Chí Minh, Việt Nam</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.7714662</lat>
+    <lng>106.6940816</lng>
+    <website>http://burgerking.vn/</website>
+    <about/>
+    <facebook>https://www.facebook.com/BurgerKingVN.FP/</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1472477911</created>
+  </db>
+  <more>
+    <about></about>
+    <whyworkus/>
+  </more>
+  <companybanner>294_image-0-02-06-817e4f7e5517c9412cebfc1fdfeff5a434625111b84be6a9d9cf106eed2a3c40-v.jpg</companybanner>
+  <totalJob>
+    <total>1</total>
+    <strji>219</strji>
+  </totalJob>
+  <pagecmpfacebookcover>294_burger-king-facebook-final.jpg</pagecmpfacebookcover>
+</information>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6597</id>
+      <email>nguyenmartin.nm@gmail.com</email>
+      <username/>
+      <name>Hoàng Thị Thảo Nguyên</name>
+      <im>1476706383_hoang-thi-thao-nguyen.png</im>
+      <gender>2</gender>
+      <phone>01218277020</phone>
+      <address>8 Phan Văn Sửu Phường 13 Quận Tân Bình</address>
+      <city>30</city>
+      <dob>1997-4-19</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476706383</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>19</day>
+      <month>4</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.805517</lat>
+      <lng>106.637659</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,16,20,35</category>
+      <type>2,4,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Communication skills, service skills and teamwork skills.</skill>
+      <ui>6597</ui>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <about>I am open-armed, active and sociable. I have a good memory and i can stand pressures.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>8</total>
+    <strjo>279,420,202,253,79,340,387,432</strjo>
+  </appliedjob>
+  <experience>
+    <n_1321>
+      <id>1321</id>
+      <title>Nhân Viên Bán Hàng</title>
+      <level>1</level>
+      <cmpname>Vòng Tròn Đỏ ( Circle K)</cmpname>
+      <city>TPHCM</city>
+      <country>Việt Nam</country>
+      <from>Tháng 3 2016</from>
+      <to>Tháng 7 2016</to>
+    </n_1321>
+  </experience>
+  <education>
+    <n_1081>
+      <id>1081</id>
+      <school>Đại Học Mở</school>
+      <degrees>Tốt Nghiệp THPT</degrees>
+      <fieldofstudy>Ngôn Ngữ Anh</fieldofstudy>
+      <from>2015</from>
+      <to>Nay</to>
+    </n_1081>
+  </education>
+  <savedjob>
+    <total>5</total>
+    <strjo>279,420,202,253,340</strjo>
+  </savedjob>
+</information>

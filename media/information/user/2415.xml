@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2415</id>
+      <email>thaonguyen10it@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Thảo Nguyên</name>
+      <im>1153941081388158_nguyen-thi-thao-nguyen.jpg</im>
+      <gender>2</gender>
+      <dob>1996-8-30</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473483778</created>
+      <day>30</day>
+      <month>8</month>
+      <year>1996</year>
+      <phone>01683200745</phone>
+      <address>Tân Hội, Đức Trọng</address>
+      <country>vn</country>
+      <city>36</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Lâm Đồng</city_text_vi>
+      <city_text_en>Lam Dong</city_text_en>
+      <lat>11.7239436</lat>
+      <lng>108.291137</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục vụ, Pha chế,...</title>
+      <experience>1</experience>
+      <category>14,15</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Nhanh nhẹn, có kinh nghiệm phục vụ thu ngân, nhiệt tình....</skill>
+      <ui>2415</ui>
+      <s1>1500000</s1>
+      <salary>1</salary>
+      <about>Nữ, cao 154cm, nặng 45kg, đang là sinh viên. Nhanh nhẹn, nhiệt tình, trung thực.</about>
+      <keyword>Trung thực,Nhiệt tình,Tinh thần làm việc nhóm,Giao tiếp hiệu quả,Chịu được áp lực công việc,Tập trung trong công việc</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>219,130,64</strjo>
+  </appliedjob>
+  <experience>
+    <n_531>
+      <id>531</id>
+      <title>thu ngân, phục vụ</title>
+      <level>1</level>
+      <cmpname>lotteria</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_531>
+  </experience>
+  <education>
+    <n_380>
+      <id>380</id>
+      <school>đại học Nguyễn Tất Thành</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Dược</fieldofstudy>
+      <from>2014</from>
+      <to>nay</to>
+    </n_380>
+  </education>
+</information>

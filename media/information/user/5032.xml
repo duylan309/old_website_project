@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5032</id>
+      <email>tienwontgiveup@gmail.com</email>
+      <username/>
+      <name>Phạm Mỹ Tiên</name>
+      <im>1475667362_pham-my-tien.png</im>
+      <gender>0</gender>
+      <phone>0938872522</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475667361</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Sales</title>
+      <experience>7</experience>
+      <category>14,15,17,35</category>
+      <type>1,2,3,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Trung thực, hoà đồng.&#13;
+Yêu thích cái đẹp.&#13;
+Khả năng ăn nói lưu loát, thuyết phục.</skill>
+      <ui>5032</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>124</strjo>
+  </appliedjob>
+</information>

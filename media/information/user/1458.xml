@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1458</id>
+      <email>kellytang_no1@yahoo.com</email>
+      <username/>
+      <name>Miz Seven</name>
+      <im>1272255919465559_miz-seven.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472375670</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Bartender, barista</title>
+      <experience>3</experience>
+      <category>14,15,16,18,20</category>
+      <type>2,6</type>
+      <level>4,5</level>
+      <lang>vi,en</lang>
+      <skill>Leading skill. Setting up skill. Paperwork skill</skill>
+      <ui>1458</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>111</strjo>
+  </appliedjob>
+</information>

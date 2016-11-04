@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>248</id>
+    <ui>2023</ui>
+    <ci>314</ci>
+    <ai>0</ai>
+    <ti>Nhân viên pha chế cà phê</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>2</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>3500000</s1>
+    <s2>4000000</s2>
+    <s3>159</s3>
+    <s4>181</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>en</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>149</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-06</de>
+    <re>0000-00-00</re>
+    <cr>1473190576</cr>
+  </db>
+  <more>
+    <requirement>- Pha chế thuần thục các loại cà phê máy.&#13;
+- Pha chế thuần thục các loại đồ giải khát đơn giản theo công thức.&#13;
+- Có thể chế biến đồ ăn nhanh theo công thức.&#13;
+- Có ngoại hình, tự tin, trung thực, xử lý tình huống hiệu quả, có tinh thần làm việc nhóm.&#13;
+- Tiếng Anh giao tiếp.&#13;
+- Đã từng có kinh nghiệm làm việc ở chuỗi cửa hàng, chuỗi đồ ăn nhanh là một lợi thế.&#13;
+- Sắp xếp công việc khoa học, đảm nhận được nhiều vị trí khác nhau.</requirement>
+    <description>- Dọn vệ sinh quán và khu vực làm việc khi vào ca.&#13;
+- Kiểm tra trang thiết bị, hàng hóa khi vào ca, bàn giao khi hết ca.&#13;
+- Pha chế đồ uống tại quầy bar, tính tiền tại quầy bar.&#13;
+- Giữ vệ sinh và trật tự của quán trong tình trạng yêu cầu. &#13;
+- Báo cáo và bàn giao với Quản Lý.</description>
+    <benefit/>
+    <keyword>Giao tiếp hiệu quả,Kỹ năng giải quyết tình huống,Tinh thần trách nhiệm,Tập trung trong công việc,Trung thực,Tự tin,Nhiệt tình</keyword>
+  </more>
+  <userapplied>
+    <total>17</total>
+    <strui>2059,2199,312,1383,2454,2791,1602,1781,3819,3356,4879,986,5467,5568,3027,7075,3332</strui>
+  </userapplied>
+</information>

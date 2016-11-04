@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7357</id>
+      <email>lephat20166@yahoo.com</email>
+      <username/>
+      <name>lê đại phát</name>
+      <im>7357_11391411-1442050132782139-1068043431729929518-n.jpg</im>
+      <gender>1</gender>
+      <phone>0938836672</phone>
+      <address>601/7 CMT8 P15 Q10</address>
+      <city>30</city>
+      <dob>1997-3-1</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477201428</created>
+      <dayleft>0</dayleft>
+      <jobleft>0</jobleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1477201428</last_signin>
+      <day>1</day>
+      <month>3</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7840209</lat>
+      <lng>106.66879</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>7357</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>15,17,35</category>
+      <type>2,4,5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Vui vẻ hòa đồng</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>478</strjo>
+  </appliedjob>
+</information>

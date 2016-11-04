@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1768</id>
+      <email>linhhphuongg96@gmail.com</email>
+      <username/>
+      <name>Linh Phương</name>
+      <im>892761247496856_linh-phuong.jpg</im>
+      <gender>2</gender>
+      <dob>1996-8-10</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472900676</created>
+      <day>10</day>
+      <month>8</month>
+      <year>1996</year>
+      <phone>0975851996</phone>
+      <address>451/15 Nguyễn Trãi.Quận 5</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.758949</lat>
+      <lng>106.6832658</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>cửa hàng trưởng</title>
+      <experience>2</experience>
+      <category>35</category>
+      <type>4</type>
+      <level>2,5</level>
+      <lang>vi,en</lang>
+      <skill></skill>
+      <ui>1768</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>157</strjo>
+  </appliedjob>
+  <experience>
+    <n_388>
+      <id>388</id>
+      <title>Quản lý cửa hàng</title>
+      <level>1</level>
+      <cmpname>Doll Eyes</cmpname>
+      <city>ho chi minh</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>2016</to>
+    </n_388>
+  </experience>
+</information>

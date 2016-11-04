@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7257</id>
+      <email>Uyenphuong702@gmail.com</email>
+      <username/>
+      <name>Phương Uyên Mai</name>
+      <im>1170473496351982_phuong-uyen-mai.jpg</im>
+      <gender>2</gender>
+      <dob>1995-2-7</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477135098</created>
+      <day>7</day>
+      <month>2</month>
+      <year>1995</year>
+      <phone>0976937207</phone>
+      <address>293/19 Bạch Đằng,  P15,  quận Bình Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.802747</lat>
+      <lng>106.705496</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>7257</ui>
+      <title>Nhân viên phục vụ,  Phụ Bếp, Nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>14,15,16,19,29,35</category>
+      <type>1,2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <about>Luôn đúng giờ và chăm chỉ. Biết lắng nghe,  nhìn nhận khuyết điểm để cả thiện bản thân.  Chịu khó học hỏi.  </about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>9</total>
+    <strjo>79,460,252,465,375,176,280,501,235</strjo>
+  </appliedjob>
+</information>

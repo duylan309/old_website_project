@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4286</id>
+      <email>hoangtanqui@gmail.com</email>
+      <username/>
+      <name>Đặng Trung Hoàng</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0961967892</phone>
+      <address>10/3 ,đường 379,Tăng Nhơn Phú A,Q9</address>
+      <city>30</city>
+      <dob>1997-11-4</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475057053</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>4</day>
+      <month>11</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8468783</lat>
+      <lng>106.788828</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên đón khách</title>
+      <experience>7</experience>
+      <category>14,15,16,19,35</category>
+      <type>2</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <skill>giao tiếp </skill>
+      <ui>4286</ui>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>Mình tên Hoàng,19t và hiện là sinh viên năm hai ,sở thích của mình là nghe nhạc ,xem phim ,ăn những món lạ ,học hỏi kinh nghiệm sống từ người khác .Đặc biệt mình rất siêng năng ,kiên trì trong công việc ,nhanh nhẹn và giúp đỡ người khác </about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>93,338,328,326,181</strjo>
+  </appliedjob>
+  <experience>
+    <n_911>
+      <id>911</id>
+      <title>nhân viên</title>
+      <level>1</level>
+      <cmpname>KFC Việt Nam</cmpname>
+      <city>hồ chí minh</city>
+      <country>việt nam</country>
+      <from>1/7/2015</from>
+      <to>1/8/2015</to>
+    </n_911>
+  </experience>
+  <education>
+    <n_698>
+      <id>698</id>
+      <school>Cao đẳng Tài Chính Hải Quan </school>
+      <degrees/>
+      <fieldofstudy>kinh doanh xuất nhập khẩu </fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_698>
+  </education>
+</information>

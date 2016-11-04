@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>992</id>
+      <email>nguyennhi110993@gmail.com</email>
+      <username/>
+      <name>Nguyễn Diễm Uyên Nhi</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01223299600</phone>
+      <address>95/38 Lê Văn Sỹ p13 q Phú Nhuận</address>
+      <city>30</city>
+      <dob>1993-9-11</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471544293</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>11</day>
+      <month>9</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.790365</lat>
+      <lng>106.671918</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>pha chế, phục vụ</title>
+      <experience>1</experience>
+      <category>15,27</category>
+      <type>1,4,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Thân thiện, ham học hỏi, nhiệt tình , chịu được áp lực công việc cao, trung thực</skill>
+      <ui>992</ui>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <keyword>Tinh thần trách nhiệm,Chịu được áp lực công việc,Tập trung trong công việc,Nhiệt tình</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>64,201,194,172</strjo>
+  </appliedjob>
+  <education>
+    <n_156>
+      <id>156</id>
+      <school>THPT Lê Thị Hồng Gấm</school>
+      <degrees/>
+      <fieldofstudy/>
+      <from>2008</from>
+      <to>2011</to>
+    </n_156>
+  </education>
+  <experience>
+    <n_224>
+      <id>224</id>
+      <title>thu ngân - pha chế</title>
+      <level>1</level>
+      <cmpname>Alice Maid Coffee</cmpname>
+      <city>HCM</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>2015</to>
+    </n_224>
+  </experience>
+</information>

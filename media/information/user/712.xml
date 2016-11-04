@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>712</id>
+      <email>nhieunhung@gmail.com</email>
+      <username/>
+      <name>Nhiêu Thị Tuyết Nhung</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0908444003</phone>
+      <address>17/5/4 Tam Binh</address>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1470914689</created>
+      <dayleft>1476098689</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <jobleft>4</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>1</total>
+    <strji>150</strji>
+  </totalJob>
+  <saveuser>
+    <total>25</total>
+    <strui>733,656,687,789,612,814,816,558,689,828,867,877,918,940,292,421,1279,1280,1120,1302,878,1342,1411,1480,1482</strui>
+  </saveuser>
+</information>

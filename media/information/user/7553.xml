@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7553</id>
+      <email>Thanhtri.amidaphat@gmail.com</email>
+      <username/>
+      <name>Nguyễn huỳnh Thuỵ Vy</name>
+      <im>1477307404_nguyen-huynh-thuy-vy.png</im>
+      <gender>0</gender>
+      <phone>0909144173</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477307403</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế</title>
+      <experience>2</experience>
+      <category>15</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Pha chế,bếp,phục vụ</skill>
+      <ui>7553</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>215</strjo>
+  </appliedjob>
+</information>

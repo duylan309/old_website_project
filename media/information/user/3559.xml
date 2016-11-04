@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3559</id>
+      <email>Kienthuanmth@gmail.com</email>
+      <username/>
+      <name>Đặng Bảo Thuận</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0922148748</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474693006</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phụ bếp</title>
+      <experience>2</experience>
+      <category>14</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Bếp nóng,salad</skill>
+      <ui>3559</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>191,139</strjo>
+  </appliedjob>
+</information>

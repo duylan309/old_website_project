@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2461</id>
+      <email>tranthihoaitram102@gmail.com</email>
+      <username/>
+      <name>Trần Thị Hoài Trâm</name>
+      <im>2461_received-1815182905380007.jpeg</im>
+      <gender>0</gender>
+      <phone/>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473529508</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1473529508</last_signin>
+    </db>
+  </userinfo>
+  <experience>
+    <n_546>
+      <id>546</id>
+      <title>Nhân viên</title>
+      <level>1</level>
+      <cmpname>Công ty TNHH Pizza Việt Nam</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>19/04/2014</from>
+      <to>Nay</to>
+    </n_546>
+  </experience>
+</information>

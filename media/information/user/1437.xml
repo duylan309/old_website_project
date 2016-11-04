@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1437</id>
+      <email>quynhnhuu105@gmail.com</email>
+      <username/>
+      <name>Nguyễn Đào Quỳnh Như</name>
+      <im>1532064530152760_quynh-nhu.jpg</im>
+      <gender>2</gender>
+      <dob>1997-5-10</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472312410</created>
+      <day>10</day>
+      <month>5</month>
+      <year>1997</year>
+      <last_signin>1472312410</last_signin>
+      <phone>01226609970</phone>
+      <address>62/283 Lý Chính Thắng, p8, q3</address>
+      <country>vn</country>
+      <city/>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <experience>
+    <n_321>
+      <id>321</id>
+      <title>Lễ Tân</title>
+      <level>1</level>
+      <cmpname>Platinum Fitness and Kinesis</cmpname>
+      <city>TPHCM</city>
+      <country>VietNam</country>
+      <from>02/2016</from>
+      <to>08/2016</to>
+    </n_321>
+    <n_322>
+      <id>322</id>
+      <title>Phục vụ</title>
+      <level>1</level>
+      <cmpname>Trà sữa GoGo</cmpname>
+      <city>TPHCM</city>
+      <country>VietNam</country>
+      <from>11/2015</from>
+      <to>01/2016</to>
+    </n_322>
+  </experience>
+  <education>
+    <n_230>
+      <id>230</id>
+      <school>Cao đẳng Kinh tế Đối ngoại</school>
+      <degrees/>
+      <fieldofstudy>Xuất Nhập Khẩu</fieldofstudy>
+      <from>2015</from>
+      <to>2018</to>
+    </n_230>
+  </education>
+  <user_cv>
+    <db>
+      <ui>1437</ui>
+      <title>Nhân viên phục vụ, Lễ tân</title>
+      <experience>7</experience>
+      <category>15,26,27,29</category>
+      <type>1,2</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Giao tiếp hiệu quả,Tinh thần trách nhiệm,Tập trung trong công việc,Trung thực,Chịu được áp lực công việc,Tự tin,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>202</strjo>
+  </appliedjob>
+</information>

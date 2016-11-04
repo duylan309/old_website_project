@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7876</id>
+      <email>Linhngms@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Mỹ Linh</name>
+      <im>1477502364_nguyen-thi-my-linh.png</im>
+      <gender>0</gender>
+      <phone>01268176861</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477502364</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ bán thời gian</title>
+      <experience>1</experience>
+      <category>14,15,29</category>
+      <type>2,5,6</type>
+      <level>2</level>
+      <lang>vi,en,ja</lang>
+      <skill>Nhanh nhẹn, chăm chỉ, giao tiếp Tiếng Nhật và Anh cơ bản</skill>
+      <ui>7876</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>521</strjo>
+  </appliedjob>
+</information>

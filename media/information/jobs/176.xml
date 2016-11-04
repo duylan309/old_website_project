@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>176</id>
+    <ui>1138</ui>
+    <ci>271</ci>
+    <ai>0</ai>
+    <ti>Nhân viên phục vụ </ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>7</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>3000000</s1>
+    <s2>5000000</s2>
+    <s3>136</s3>
+    <s4>227</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description/>
+    <requirement>- Số lượng 20 người\r\n- Chỉ cần tốt nghiệp THPT\r\n- Ngoại ngữ Anh Hàn (biết càng tốt ko biết cũng ko sao)\r\n- Làm việc từ 9h-21h ( hoặc theo ca) \r\n- Địa chỉ: 14A5 Thảo Điền Q2\r\n- Lương thưởng hấp dẫn</requirement>
+    <benefit/>
+    <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Tập trung trong công việc,Tinh thần làm việc nhóm</keyword>
+    <ad/>
+    <location_id>93</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-10-21</de>
+    <re>0000-00-00</re>
+    <cr>1471864208</cr>
+  </db>
+  <more>
+    <requirement>- Số lượng 20 người&#13;
+- Chỉ cần tốt nghiệp THPT&#13;
+- Ngoại ngữ Anh Hàn (biết càng tốt ko biết cũng ko sao)&#13;
+- Làm việc từ 9h-21h ( hoặc theo ca) &#13;
+- Địa chỉ: 14A5 Thảo Điền Q2&#13;
+- Lương thưởng hấp dẫn</requirement>
+    <description/>
+    <benefit/>
+    <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Tập trung trong công việc,Tinh thần làm việc nhóm</keyword>
+  </more>
+  <userapplied>
+    <total>21</total>
+    <strui>1435,2048,2199,1733,2772,292,1602,3079,2476,4135,4150,4299,4597,1605,5641,4833,6667,6551,1963,7372,7257</strui>
+  </userapplied>
+</information>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6037</id>
+      <email>Channhucongian26@gmail.com</email>
+      <username/>
+      <name>Phạm Quang Dương</name>
+      <im>1476341172_pham-quang-duong.png</im>
+      <gender>0</gender>
+      <phone>01689076894</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476341172</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Bếp chính</title>
+      <experience>5</experience>
+      <category>14</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Cẩn thẩn, có trách nhiệm</skill>
+      <ui>6037</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>321</strjo>
+  </appliedjob>
+</information>

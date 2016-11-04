@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>238</id>
+    <ui>432</ui>
+    <name>La Belgique Restaurant</name>
+    <url>LaBelgiqueRestaurant</url>
+    <im>238_img-9136.PNG</im>
+    <im_banner/>
+    <category>14</category>
+    <phone/>
+    <address>17, Trần Quốc Toản, Quận 3</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.789254</lat>
+    <lng>106.689377</lng>
+    <website/>
+    <about/>
+    <facebook>https://www.facebook.com/La-Belgique-1780739248811829/</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1470101250</created>
+  </db>
+  <more>
+    <about/>
+    <whyworkus/>
+  </more>
+  <companybanner/>
+</information>

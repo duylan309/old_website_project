@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>194</id>
+    <ui>1336</ui>
+    <ci>281</ci>
+    <ai>0</ai>
+    <ti>Barista/ Phục Vụ</ti>
+    <ta/>
+    <le>2</le>
+    <ty>4</ty>
+    <ex>7</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>104</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-09-24</de>
+    <re>0000-00-00</re>
+    <cr>1472129057</cr>
+  </db>
+  <more>
+    <requirement>- Biết sử dụng máy cafe&#13;
+- Trung thực&#13;
+- Vui vẻ, hòa đồng&#13;
+- Ưu tiên có kinh nghiệm làm barista &#13;
+- Giao tiếp tốt là lợi thế.&#13;
+</requirement>
+    <description/>
+    <benefit>🔸 Barista: Fulltime / ca / 8 tiếng&#13;
+🔸 Phục vụ: Fulltime / ca / 8 tiếng&#13;
+Ca sáng: 6h30 - 14h30&#13;
+Ca tối: 14h30 - 22h30&#13;
+01 tháng off 2 ngày. ( Thông báo trước )&#13;
+Bao ăn 01 bữa /ca</benefit>
+    <keyword/>
+  </more>
+  <userapplied>
+    <total>19</total>
+    <strui>878,1391,867,1602,1686,1943,2040,2059,992,2432,2052,1259,2899,3303,3292,3141,3532,4987,4511</strui>
+  </userapplied>
+</information>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>8108</id>
+      <email>miuconhieudong23@gmail.com</email>
+      <username/>
+      <name>trần ngọc hà</name>
+      <im>8108_beautyplus-20160926220054-save.jpg</im>
+      <gender>2</gender>
+      <dob>01996-10-5</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477713841</created>
+      <day>5</day>
+      <month>10</month>
+      <year>01996</year>
+      <phone>0908286780</phone>
+      <address>197 Lạc Long Quân. Phường 3. Quận 11</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.763218</lat>
+      <lng>106.642048</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>8108</ui>
+      <title>Nhân viên pha chế cà phê</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <about>Tôi tên Trần Ngọc Hà đã tốt nghiệp nghề pha chế chuyên ngành Barista tại trường Hướng Nghiệp Á Âu</about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>456,466</strjo>
+  </appliedjob>
+  <education>
+    <n_1309>
+      <id>1309</id>
+      <school>Hướng nghiệp Á Âu</school>
+      <degrees>Chứng chỉ nghề do trường Hướng Nghiệp Á Â cấp</degrees>
+      <fieldofstudy>Barista</fieldofstudy>
+      <from>8-2016</from>
+      <to>10-2016</to>
+    </n_1309>
+  </education>
+</information>

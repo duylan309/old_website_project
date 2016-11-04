@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1460</id>
+      <email>hamac98@gmail.com</email>
+      <username/>
+      <name>Bùi Thị Hồng Ngọc</name>
+      <im>975221252589956_bui-thi-hong-ngoc.jpg</im>
+      <gender>2</gender>
+      <dob>1998-4-10</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472376680</created>
+      <day>10</day>
+      <month>4</month>
+      <year>1998</year>
+      <phone>0938023315</phone>
+      <address>Gò Vấp</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8386779</lat>
+      <lng>106.6652904</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Partime job</title>
+      <experience>7</experience>
+      <category>14,15,17,18,19,20,26,27,28,29,30,31,35,36</category>
+      <type>2</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>1460</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Chịu được áp lực công việc,Tự tin,Nhiệt tình</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>107,64,79,100</strjo>
+  </appliedjob>
+</information>

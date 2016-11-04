@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3819</id>
+      <email>phuong15111996@gmail.com</email>
+      <username/>
+      <name>Võ Trần Mỹ Phương</name>
+      <im>3819_14518237-1051119518341887-1618060915-n.jpg</im>
+      <gender>2</gender>
+      <phone>01626420591</phone>
+      <address>quận 5</address>
+      <city>30</city>
+      <dob>1996-11-15</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474865921</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>15</day>
+      <month>11</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7540279</lat>
+      <lng>106.6633746</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>barista, pha chế</title>
+      <experience>1</experience>
+      <category>15,29,35</category>
+      <type>2,4</type>
+      <level>1,3</level>
+      <lang>vi</lang>
+      <skill>Có kinh nghiệm làm urban Station 8 tháng&#13;
+</skill>
+      <ui>3819</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>16</total>
+    <strjo>332,126,208,323,294,293,201,130,161,252,275,312,195,248,169,268</strjo>
+  </appliedjob>
+  <experience>
+    <n_951>
+      <id>951</id>
+      <title>barista</title>
+      <level>1</level>
+      <cmpname>Urban Station</cmpname>
+      <city>TPHCM</city>
+      <country>Việt Nam</country>
+      <from>11/2015</from>
+      <to>8/2016</to>
+    </n_951>
+  </experience>
+  <education>
+    <n_742>
+      <id>742</id>
+      <school>Đại Học Công Nghiệp TPHCM</school>
+      <degrees>Đại Học</degrees>
+      <fieldofstudy>Công nghệ thực phẩm</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_742>
+  </education>
+</information>

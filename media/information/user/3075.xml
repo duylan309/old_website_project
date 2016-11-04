@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3075</id>
+      <email>nguyenbadung94@gmail.com</email>
+      <username/>
+      <name>Nguyễn Bá Dũng</name>
+      <im>799894953486049_nguyen-ba-dung.jpg</im>
+      <gender>1</gender>
+      <dob>1994-2-20</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474250817</created>
+      <day>20</day>
+      <month>2</month>
+      <year>1994</year>
+      <phone>01627135204</phone>
+      <address>23/70 đuờng số 9, phuờng trường thọ, quận thủ đức</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8635839</lat>
+      <lng>106.7546143</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>3075</ui>
+      <title>Phục vụ, quản lý....</title>
+      <experience>2</experience>
+      <category>14,15,16,35</category>
+      <type>1,2,6</type>
+      <level>2,3,4</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>&#13;
+Nhiệt tình, nguyên tắc, cẩn thận, có trách nhiệm cao</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>11</total>
+    <strjo>240,79,211,181,182,151,126,213,255,279,409</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>3</total>
+    <strjo>79,63,151</strjo>
+  </savedjob>
+</information>

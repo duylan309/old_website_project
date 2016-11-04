@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2775</id>
+      <email>nguyenanhvy120648@gmail.com</email>
+      <username/>
+      <name>Nguyễn Ánh Vy</name>
+      <im>1473907580_nguyen-anh-vy.png</im>
+      <gender>2</gender>
+      <phone>01226478088</phone>
+      <address>449 Nguyễn Trọng Tuyển , p2 , quận Tân Bình </address>
+      <city>30</city>
+      <dob>1996-6-12</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473907579</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>12</day>
+      <month>6</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7984738</lat>
+      <lng>106.6608701</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ, pha chế</title>
+      <experience>1</experience>
+      <category>15,26,29</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill></skill>
+      <ui>2775</ui>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>luôn luôn quan tâm , nhiệt tình , vui vẻ với mọi người&#13;
+có khả năng làm việc nhóm &#13;
+tinh thần học hỏi cao </about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>219</strjo>
+  </appliedjob>
+</information>

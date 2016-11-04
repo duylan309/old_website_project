@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1697</id>
+      <email>hanhhuynh2709.hh@gmail.com</email>
+      <username/>
+      <name>Huỳnh Thị Hồng Hạnh</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01674170185</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472784166</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế</title>
+      <experience>2</experience>
+      <category>14,15,20</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Biết pha chế càphe máy và các loại nước uống , hòa đồng vui vẻ tiếp thu công việc Nhanh</skill>
+      <ui>1697</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>201,166</strjo>
+  </appliedjob>
+</information>

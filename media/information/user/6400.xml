@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6400</id>
+      <email>buipham.qtkdtdt@gmail.com</email>
+      <username/>
+      <name>Phạm Văn Bùi</name>
+      <im>6400_img-0653.JPG</im>
+      <gender>1</gender>
+      <phone>01699881153</phone>
+      <address>Lê Văn Lương, Quận 7</address>
+      <city>30</city>
+      <dob>1995-1-1</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476539350</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>1</day>
+      <month>1</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7385076</lat>
+      <lng>106.70241</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, bán hàng, chăm sóc khách hàng</title>
+      <experience>1</experience>
+      <category>14,15,18,20,28,29,31</category>
+      <type>2,4,5,6</type>
+      <level>2,5</level>
+      <lang>vi,en</lang>
+      <skill>Kỹ năng thuyết phục, thuyết trình, MC</skill>
+      <ui>6400</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Nói lưu loát, giao tiếp tốt, hoà đồng, tinh thần làm việc nhóm.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>323,172,422,273</strjo>
+  </appliedjob>
+  <education>
+    <n_1059>
+      <id>1059</id>
+      <school>DH TÔN ĐỨC THẮNG</school>
+      <degrees/>
+      <fieldofstudy>Quản trị marketing</fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_1059>
+  </education>
+  <experience>
+    <n_1289>
+      <id>1289</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Nhà Hàng TOKYO DELI</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>5/2016</from>
+      <to>10/2016</to>
+    </n_1289>
+  </experience>
+</information>

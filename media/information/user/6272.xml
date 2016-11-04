@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6272</id>
+      <email>ngoanhthien1997@gmail.com</email>
+      <username/>
+      <name>NGÔ ÁNH THIỆN</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01644207029</phone>
+      <address>QUẬN TÂN PHÚ</address>
+      <city>30</city>
+      <dob>1997-9-1</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476457653</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>1</day>
+      <month>9</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7900517</lat>
+      <lng>106.6281901</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>NHÂN VIÊN PHỤC VỤ, PHA CHẾ</title>
+      <experience>1</experience>
+      <category>14,15,16,18,19,20,27,29,35</category>
+      <type>2,4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>6272</ui>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <about>Là một người ham học hỏi, luôn hết mình với công việc.&#13;
+Có trách nhiệm và luôn đúng giờ.&#13;
+Luôn muốn bản thân tiến bộ hơn&#13;
+Kĩ tính, chăm chỉ</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>29</total>
+    <strjo>279,273,294,106,69,201,312,323,222,163,387,100,199,466,341,286,305,488,64,84,378,426,162,478,92,161,340,354,298</strjo>
+  </appliedjob>
+  <experience>
+    <n_1270>
+      <id>1270</id>
+      <title>NHÂN VIÊN PHỤC VỤ, BARISTA</title>
+      <level>1</level>
+      <cmpname>TÂN’S COFFEE</cmpname>
+      <city>HỒ CHÍ MINH</city>
+      <country>VIỆT NAM</country>
+      <from>2/10/2016</from>
+      <to>HIỆN TẠI</to>
+    </n_1270>
+  </experience>
+  <education>
+    <n_1040>
+      <id>1040</id>
+      <school>HUFLIT</school>
+      <degrees>ĐẠI HỌC</degrees>
+      <fieldofstudy>QUẢN TRỊ KHÁCH SẠN</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_1040>
+  </education>
+</information>

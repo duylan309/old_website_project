@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>334</id>
+    <ui>3534</ui>
+    <ci>355</ci>
+    <ai>0</ai>
+    <ti>Nhân viên thu ngân</ti>
+    <ta/>
+    <le>1</le>
+    <ty>1,2</ty>
+    <ex>7</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>3500000</s1>
+    <s2>3500000</s2>
+    <s3>159</s3>
+    <s4>159</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>16,19,27</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>1</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description>-Hướng dẫn trong buổi phỏng vấn </description>
+    <requirement>-TRUNG THỰC, khả năng giao tiếp tốt, chữ viết rõ ràng \r\n-Không cần trình độ, kinh nghiệm \r\n-Thời gian làm việc có 2 CA: 13H - 19H , 19H - 0H hoặc  Part time 13h30 -18h30 (Chỉ làm T7 và CN)\r\n</requirement>
+    <benefit></benefit>
+    <keyword>Kỹ năng giải quyết tình huống,Tinh thần trách nhiệm,Trung thực,Tập trung trong công việc,Chịu được áp lực công việc</keyword>
+    <ad/>
+    <location_id>225</location_id>
+    <lat>10.778011</lat>
+    <lng>10.778011</lng>
+    <de>2016-10-24</de>
+    <re>0000-00-00</re>
+    <cr>1476066802</cr>
+  </db>
+  <more>
+    <requirement>-TRUNG THỰC, khả năng giao tiếp tốt, chữ viết rõ ràng &#13;
+-Không cần trình độ, kinh nghiệm &#13;
+-Thời gian làm việc có 2 CA: 13H - 19H , 19H - 0H hoặc  Part time 13h30 -18h30 (Chỉ làm T7 và CN)&#13;
+</requirement>
+    <description>-Hướng dẫn trong buổi phỏng vấn </description>
+    <benefit></benefit>
+    <keyword>Kỹ năng giải quyết tình huống,Tinh thần trách nhiệm,Trung thực,Tập trung trong công việc,Chịu được áp lực công việc</keyword>
+  </more>
+  <userapplied>
+    <total>22</total>
+    <strui>3657,3758,3879,844,4012,4407,3315,4298,4538,4597,4787,4708,4879,4329,4291,4957,4833,4607,5405,5412,3120,5491</strui>
+  </userapplied>
+</information>

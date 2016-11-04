@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6216</id>
+      <email>phamthilehongufm@gmail.com</email>
+      <username/>
+      <name>Phạm Thị Lệ Hồng</name>
+      <im>442754039228387_co.jpg</im>
+      <gender>2</gender>
+      <dob>1996-10-2</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476438992</created>
+      <day>2</day>
+      <month>10</month>
+      <year>1996</year>
+      <last_signin>1476438992</last_signin>
+      <phone>01643126924</phone>
+      <address>176/2 Nguyễn Thị Thập, phường Bình Thuận,quận 7</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7378959</lat>
+      <lng>106.727616</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6216</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>7</experience>
+      <category>14,15,16,20</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>HỌC VẪN: &#13;
+Sinh viên năm 3 Trường Đại học Tài chính – Marketing&#13;
+HOẠT ĐỘNG NGOẠI KHÓA: &#13;
+- Tham gia Chương trình "Mùa hè xanh" năm 2014 và 2015&#13;
+- Thành viên Câu lạc bộ Cánh chim xanh của trường &#13;
+</about>
+      <skill>- Sử dụng thành thạo Microsoft Word, Excel, Power Point &#13;
+- Có kỹ năng giao tiếp, trình bày tốt &#13;
+- Chăm chỉ, biết tổ chức sắp xếp công việc và có tinh thần trách nhiệm &#13;
+- Dễ dàng thích nghi với môi trường mới &#13;
+</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>262,487</strjo>
+  </appliedjob>
+</information>

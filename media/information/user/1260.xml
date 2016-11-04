@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1260</id>
+      <email>phuochieu.ngo@gmail.com</email>
+      <username/>
+      <name>Phước Hiếu Ngô</name>
+      <im>1154674781222213_phuoc-hieu-ngo.jpg</im>
+      <gender>1</gender>
+      <dob>1992-5-6</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472023819</created>
+      <day>6</day>
+      <month>5</month>
+      <year>1992</year>
+      <phone>0938607617</phone>
+      <address>254/17/1A Lê Văn Thọ P.11 Q.GV</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Chef</title>
+      <experience>2</experience>
+      <category>14</category>
+      <type>1,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>1260</ui>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>78,137</strjo>
+  </appliedjob>
+  <education>
+    <n_200>
+      <id>200</id>
+      <school>Hướng Nghiệp Á Âu</school>
+      <degrees>Chứng chỉ</degrees>
+      <fieldofstudy>Bếp trưởng điều hành</fieldofstudy>
+      <from>2014</from>
+      <to>2015</to>
+    </n_200>
+  </education>
+</information>

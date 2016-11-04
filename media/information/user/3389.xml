@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3389</id>
+      <email>py.nhambang@gmail.com</email>
+      <username/>
+      <name>Nguyễn Hoàng Phi Yến</name>
+      <im>346436379029585_nguyen-hoang-phi-yen.jpg</im>
+      <gender>2</gender>
+      <dob>1998-2-7</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474567598</created>
+      <day>7</day>
+      <month>2</month>
+      <year>1998</year>
+      <phone>0901238839</phone>
+      <address>549/14/5 Xô Viết Nghệ Tĩnh, Phườg 21, Quận Bình Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.795246</lat>
+      <lng>106.710492</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>2</experience>
+      <category>15</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>en</lang>
+      <skill/>
+      <ui>3389</ui>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <about>Xin chào, mình là 1 người khá năng động và cá tính, nhanh nhẹn và có kinh nghiệm phục vụ.&#13;
+Rất mong được nhận vào làm tại quán và mình cam đoan sẽ thật siêng năng và hoàn thành tốt công việc. Xin cám ơn.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>87,172,219,100</strjo>
+  </appliedjob>
+  <education>
+    <n_549>
+      <id>549</id>
+      <school>Đại học Kinh tế - Tài chính Tp Hồ Chí Minh</school>
+      <degrees/>
+      <fieldofstudy>Ngôn ngữ Anh</fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_549>
+  </education>
+</information>

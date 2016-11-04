@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>379</id>
+      <email>thuychino@gmail.com</email>
+      <username/>
+      <name>nguyễn thị thủy</name>
+      <im>1747392708864631_thuy-chino.jpg</im>
+      <gender>2</gender>
+      <dob>1994-11-1</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1469977435</created>
+      <day>1</day>
+      <month>11</month>
+      <year>1994</year>
+      <phone>0973491499</phone>
+      <address>156 ngô gia tự p9 q10</address>
+      <country>vn</country>
+      <city/>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>379</ui>
+      <title>nhân viên phuch vụ pha chế bán hàng và bếp</title>
+      <category>14,15,35</category>
+      <type>6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Kỹ năng chăm sóc khách hàng,Tập trung trong công việc,Chịu được áp lực công việc,Nhiệt tình,Trung thực</keyword>
+    </db>
+  </user_cv>
+</information>

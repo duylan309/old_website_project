@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6208</id>
+      <email>vuongtranacc@gmail.com</email>
+      <username/>
+      <name>Vương Trần</name>
+      <im>1070787893037081_vuong-tran.jpg</im>
+      <gender>1</gender>
+      <dob>1991-5-23</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476433464</created>
+      <day>23</day>
+      <month>5</month>
+      <year>1991</year>
+      <phone>01637729891</phone>
+      <address>duong so 1 phuong hiep binh quan thu duc</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8454029</lat>
+      <lng>106.7261562</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6208</ui>
+      <title>uny</title>
+      <experience>1</experience>
+      <category>14,15,17,28,35</category>
+      <type>2,4,5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

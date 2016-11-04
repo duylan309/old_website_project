@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>404</id>
+    <ui>911</ui>
+    <ci>262</ci>
+    <ai>0</ai>
+    <ti>Sous Chef</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1,4</ty>
+    <ex>2</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>9000000</s1>
+    <s2>12000000</s2>
+    <s3>409</s3>
+    <s4>545</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description>- Làm việc từ 14:30 - 22:30</description>
+    <requirement>- Có kinh nghiệm làm việc vị trí Sous Chef (Bếp phó) ít nhất 2-3 năm tại steakhouse kiểu Âu Mỹ. \r\n- Có khả năng điều phối nhân viên nấu theo order\r\n- Chịu được áp lực cao, trung thực, chăm chỉ.\r\n</requirement>
+    <benefit>Lương + tips + cơm + gửi xe</benefit>
+    <keyword>sous chef,steakhouse,bếp phó</keyword>
+    <ad/>
+    <location_id>83</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-10-16</de>
+    <re>0000-00-00</re>
+    <cr>1477367818</cr>
+  </db>
+  <more>
+    <requirement>- Có kinh nghiệm làm việc vị trí Sous Chef (Bếp phó) ít nhất 2-3 năm tại steakhouse kiểu Âu Mỹ. &#13;
+- Có khả năng điều phối nhân viên nấu theo order&#13;
+- Chịu được áp lực cao, trung thực, chăm chỉ.&#13;
+</requirement>
+    <description>- Làm việc từ 14:30 - 22:30</description>
+    <workhour></workhour>
+    <benefit>Lương + tips + cơm + gửi xe</benefit>
+    <keyword>sous chef,steakhouse,bếp phó</keyword>
+  </more>
+  <userapplied>
+    <total>3</total>
+    <strui>5870,7104,6968</strui>
+  </userapplied>
+</information>

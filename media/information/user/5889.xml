@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5889</id>
+      <email>tieudu168@gmail.com</email>
+      <username/>
+      <name>Lâm Kim Phát</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0938171694</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476253204</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Bếp nóng</title>
+      <experience>3</experience>
+      <category>14,15,19,20</category>
+      <type>4</type>
+      <level>4</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>5889</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>191,139,459,200</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2540</id>
+      <email>nganha0797@gmail.com</email>
+      <username/>
+      <name>Trương Trần Ngân Hà</name>
+      <im>1473651188_truong-tran-ngan-ha.png</im>
+      <gender>0</gender>
+      <phone>01255280797</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473651188</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ parttime</title>
+      <experience>7</experience>
+      <category>14,15</category>
+      <type>2</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>2540</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>219,202</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1864</id>
+      <email>bo.superstars@yahoo.com</email>
+      <username/>
+      <name>Nguyễn Minh Trí</name>
+      <im>919055528199121_nguyen-minh-tri.jpg</im>
+      <gender>1</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473012037</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+      <last_signin>1473012037</last_signin>
+    </db>
+  </userinfo>
+  <education>
+    <n_298>
+      <id>298</id>
+      <school>ĐH Hoa Sen </school>
+      <degrees>Đại học năm 3</degrees>
+      <fieldofstudy>Quản lí nhà hàng- dịch vụ ẩm thực</fieldofstudy>
+      <from>2013</from>
+      <to>2016</to>
+    </n_298>
+  </education>
+  <experience>
+    <n_413>
+      <id>413</id>
+      <title>Nhà hàng Gogi House</title>
+      <level>1</level>
+      <cmpname>Công ty CPTM- DV Cổng Vàng</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_413>
+  </experience>
+</information>

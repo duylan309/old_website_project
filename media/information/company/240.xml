@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>240</id>
+    <ui>499</ui>
+    <name>Elpis Clothing</name>
+    <url>elpisclothing</url>
+    <im>_elpis-clothing.jpg</im>
+    <im_banner>_elpis-clothing-cover.jpg</im_banner>
+    <category>17</category>
+    <phone>01203683699</phone>
+    <address>270 Võ Văn Tần, Quận 3</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.7720825</lat>
+    <lng>106.68600409999999</lng>
+    <website>https://www.facebook.com/elpisclothing</website>
+    <about/>
+    <facebook>https://www.facebook.com/elpisclothing/</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1470283425</created>
+  </db>
+  <more>
+    <about>Hello everybody ! \r\n+cách mua hàng tại Elpis\r\n\r\n- Mua trực tiếp tại 270 Võ Văn tần P5 Q3\r\n- Inbox vào facebook https://www.facebook.com/elpisclothing\r\n\r\nThông tin liên hệ :\r\nM :elpis.clothing@gmail.com</about>
+    <whyworkus/>
+  </more>
+  <companybanner>_elpis-clothing-cover.jpg</companybanner>
+  <totalJob>
+    <total>1</total>
+    <strji>124</strji>
+  </totalJob>
+</information>

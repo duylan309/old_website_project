@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>181</id>
+    <ui>1177</ui>
+    <ci>272</ci>
+    <ai>0</ai>
+    <ti>Waiter/ Waitress / Cashier</ti>
+    <ta/>
+    <le>2</le>
+    <ty>4,5</ty>
+    <ex>7</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>3300</s1>
+    <s2>4500</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo/>
+    <co>vn,for</co>
+    <ca>14,15,16,27</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>en</la>
+    <description>phuc vu do an &amp; thuc uong cho khach hang</description>
+    <requirement>thich hoc hoi , sieng nang va co tinh than trach nhiem </requirement>
+    <benefit>duoc nhan Tips / service charge hang thang </benefit>
+    <keyword>Tự tin,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+    <ad/>
+    <location_id>95</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-10-22</de>
+    <re>0000-00-00</re>
+    <cr>1471925437</cr>
+  </db>
+  <more>
+    <requirement>thich hoc hoi , sieng nang va co tinh than trach nhiem </requirement>
+    <description>phuc vu do an &amp; thuc uong cho khach hang</description>
+    <benefit>duoc nhan Tips / service charge hang thang </benefit>
+    <keyword>Tự tin,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+  </more>
+  <userapplied>
+    <total>47</total>
+    <strui>471,1393,1409,1446,1448,1482,292,823,401,1743,1749,451,2708,2712,2475,2732,2670,2528,2777,2863,3022,3075,3315,3884,3908,3994,4286,4560,4615,4838,4833,4935,5428,1605,425,5781,5945,6103,6214,6353,6638,6778,2510,7156,3293,7872,8052</strui>
+  </userapplied>
+</information>

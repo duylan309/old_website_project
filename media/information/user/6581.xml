@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6581</id>
+      <email>Quanghuyvtvcab@gmail.com</email>
+      <username/>
+      <name>Nguyễn Quang Huy</name>
+      <im>1140362806016781_nguyen-quang-huy.jpg</im>
+      <gender>1</gender>
+      <dob>1993-12-8</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476693908</created>
+      <day>8</day>
+      <month>12</month>
+      <year>1993</year>
+      <last_signin>1476693908</last_signin>
+      <phone>0888077760</phone>
+      <address>324 nguyễn kim p7 q10</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.759194</lat>
+      <lng>106.662641</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_1076>
+      <id>1076</id>
+      <school>Cao đẳng công nghệ thông tin</school>
+      <degrees>Cử nhân kinh tế</degrees>
+      <fieldofstudy>Quản trị xuất nhập khẩu</fieldofstudy>
+      <from>2012</from>
+      <to>2014</to>
+    </n_1076>
+  </education>
+  <experience>
+    <n_1316>
+      <id>1316</id>
+      <title>Seller team captain</title>
+      <level>1</level>
+      <cmpname>Truyền hình cáp việt nam vtv</cmpname>
+      <city>Hồ chí minh</city>
+      <country>Việt Nam</country>
+      <from>8/2015</from>
+      <to>4/2016</to>
+    </n_1316>
+    <n_1320>
+      <id>1320</id>
+      <title>Bếp Phó</title>
+      <level>1</level>
+      <cmpname>Công ty chế biến thực phẩm HuyVietNam</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>6/2014</from>
+      <to>7/2015</to>
+    </n_1320>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>6581</ui>
+      <title>Phụ Bếp</title>
+      <experience>2</experience>
+      <category>14</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Tôi từng đảm nhiệm chức danh Bếp Phó ở nhà hàng Món Huế số 11 lê thánh tôn q1 hơn một năm.Nay tôi hy vọng sẽ tim được công việc tương ứng với mong muốn và kinh nghiệm của mình.</about>
+      <skill>Hoạt bát&#13;
+Nhiệt tình&#13;
+Có tinh thần trách nhiệm</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>9</total>
+    <strjo>365,421,193,358,391,460,139,188,443</strjo>
+  </appliedjob>
+</information>

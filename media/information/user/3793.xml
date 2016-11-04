@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3793</id>
+      <email>ngocdo150194@gmail.com</email>
+      <username/>
+      <name>Đỗ Hoàng Bích Ngọc</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0919365457</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474859087</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Bán hàng</title>
+      <experience>1</experience>
+      <category>17,26,28,29,30,35</category>
+      <type>1,4</type>
+      <level>2</level>
+      <lang>en</lang>
+      <skill>Tư vấn tốt.</skill>
+      <ui>3793</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>124</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1435</id>
+      <email>hanguyen3105@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Ngọc Hà</name>
+      <im>1435_img-20160509-203010.jpg</im>
+      <gender>2</gender>
+      <phone>01216890615</phone>
+      <address>361/19/6 bến bình đông, phường 15, quận 8</address>
+      <city>30</city>
+      <dob>1996-5-31</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472310594</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>31</day>
+      <month>5</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.73428</lat>
+      <lng>106.637246</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,19</category>
+      <type>4,5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>1435</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <keyword>Tinh thần trách nhiệm,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>165,176,64,130,86,105</strjo>
+  </appliedjob>
+  <experience>
+    <n_319>
+      <id>319</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Newwave hotel</cmpname>
+      <city>Vũng tàu </city>
+      <country>Việt nam</country>
+      <from>07/07</from>
+      <to>15/08</to>
+    </n_319>
+  </experience>
+  <savedjob>
+    <total>2</total>
+    <strjo>202,199</strjo>
+  </savedjob>
+</information>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2864</id>
+      <email>em_languoidensau9@yahoo.com</email>
+      <username/>
+      <name>Trịnh thị thu trang</name>
+      <im>881325825334819_trang-trinh.jpg</im>
+      <gender>2</gender>
+      <dob>1995-3-20</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474037394</created>
+      <day>20</day>
+      <month>3</month>
+      <year>1995</year>
+      <phone>01285106893</phone>
+      <address>264/29 đường lê văn lương phường tân hưng quận7</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7386631</lat>
+      <lng>106.702445</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_641>
+      <id>641</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>Rockport</cmpname>
+      <city>Hồ chí minh</city>
+      <country>Việt nam</country>
+      <from>Tháng 11</from>
+      <to>Tháng 2</to>
+    </n_641>
+  </experience>
+  <education>
+    <n_468>
+      <id>468</id>
+      <school>Đại học công nghệ tphcm</school>
+      <degrees>Đại học chính quy</degrees>
+      <fieldofstudy>Kế toán </fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_468>
+  </education>
+  <user_cv>
+    <db>
+      <ui>2864</ui>
+      <title>Nhân viên phục vụ, bán hàng</title>
+      <experience>1</experience>
+      <category>15,29</category>
+      <type>2,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>E tên trang hiện tại e đang là sinh viên năm cuối trườnh hutech chuyên ngành kế toán. E đã từng làm nhân viên bán hàng ờ cresent mall. Ưu điểm của e là hoạt bát, nhanh nhẹn, tiếp thu công việc tốt.</about>
+      <skill>E có thể làm việc nhóm, cá nhân có kinh nghiệm bán hàng</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

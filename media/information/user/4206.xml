@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4206</id>
+      <email>giaanhnguyen96@yahoo.com</email>
+      <username/>
+      <name>Nguyễn Ngọc Gia Anh</name>
+      <im>1156811067696159_giaa-anhh-nguyen.jpg</im>
+      <gender>2</gender>
+      <dob>1996-2-15</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475033911</created>
+      <day>15</day>
+      <month>2</month>
+      <year>1996</year>
+      <last_signin>1475033911</last_signin>
+      <phone>01283666291</phone>
+      <address>49/38 đường số 4. P Bình Hưng Hòa A. Bình Tân</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.777887</lat>
+      <lng>106.619242</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>4206</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>2</experience>
+      <category>14,15,17,27,28,29,35,36</category>
+      <type>2,4,5,6</type>
+      <level>1,2,3</level>
+      <lang>vi,en,ch</lang>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <about></about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>202,364,435,262,427,434</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>2</total>
+    <strjo>202,364</strjo>
+  </savedjob>
+  <education>
+    <n_832>
+      <id>832</id>
+      <school>cao đẳng Tài Chính Hải Quan</school>
+      <degrees/>
+      <fieldofstudy>LOGISTIC </fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_832>
+  </education>
+</information>

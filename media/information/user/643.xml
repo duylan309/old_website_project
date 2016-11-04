@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>643</id>
+      <email>oanh.work@gmail.com</email>
+      <username/>
+      <name>Oanh Pham</name>
+      <im>1831935003692888_oanh-pham.jpg</im>
+      <gender>2</gender>
+      <dob>1995-11-15</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470725583</created>
+      <day>15</day>
+      <month>11</month>
+      <year>1995</year>
+      <phone>01223620161</phone>
+      <address>43A Quách Văn Tuấn, phường 12, quận Tân Bình</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7997081</lat>
+      <lng>106.6524722</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>643</ui>
+      <title>Nhân viên bán hàng</title>
+      <experience>7</experience>
+      <category>35</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <skill>Nhiệt tình, trung thực và tự tin&#13;
+Tập trung trong công việc&#13;
+Chịu được áp lực trong công việc&#13;
+</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

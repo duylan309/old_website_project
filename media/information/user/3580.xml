@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3580</id>
+      <email>cachua_meo46@yahoo.com</email>
+      <username/>
+      <name>Lương Dung</name>
+      <im>649288825234451_luong-dung.jpg</im>
+      <gender>2</gender>
+      <dob>1996-10-6</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474700762</created>
+      <day>6</day>
+      <month>10</month>
+      <year>1996</year>
+      <phone>0908554217</phone>
+      <address>62/34 trần thánh tông, p15 tân bình</address>
+      <country>vn</country>
+      <city/>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>3580</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,17,29,31</category>
+      <type>4</type>
+      <level>1</level>
+      <lang>en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Đại học kinh tế, chuyên ngành quản trị kinh doanh, sinh viên năm3</about>
+      <skill>Giao tiếp tốt, hoà đồng, chịu được áp lực</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>214,124</strjo>
+  </appliedjob>
+</information>

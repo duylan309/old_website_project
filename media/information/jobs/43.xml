@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>43</id>
+    <ui>7</ui>
+    <ci>7</ci>
+    <ai>0</ai>
+    <ti>Bartender</ti>
+    <ta/>
+    <le>3</le>
+    <ty>1</ty>
+    <ex>2</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>3000000</s1>
+    <s2>5000000</s2>
+    <s3>136</s3>
+    <s4>227</s4>
+    <lo>30</lo>
+    <ca>15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>1</st>
+    <pi>0</pi>
+    <la>en</la>
+    <de>0000-00-00</de>
+    <re>0000-00-00</re>
+    <cr>1462780834</cr>
+  </db>
+  <more>
+    <number>20</number>
+    <description>- Lấy order từ khách hàng.&#13;
+&#13;
+- Giới thiệu khách hàng các món ăn và đồ uống cho khách hàng.&#13;
+&#13;
+- Phục vụ thức ăn, nước uống cho khách theo qui trình chuẩn, bảo đảm chất lượng, vệ sinh sạch sẽ đúng tiêu chuẩn, quan sát khách và kịp thời phục vụ các yêu cầu của khách.&#13;
+&#13;
+- Kiểm tra các món ăn trước khi phục vụ khách&#13;
+&#13;
+- Dọn dẹp bàn ăn và thay đồ mới cho khách.&#13;
+&#13;
+- Sẵn sàng trả lời và giải đáp mọi thắc mắc của khách hàng&#13;
+&#13;
+- Tuân thủ kỷ luật và thực hiện tốt các biện pháp an toàn lao động trong quá trình phục vụ, làm hài lòng khách, hỗ trợ đồng nghiệp với tinh thần đồng đội.</description>
+    <requirement>- Tốt nghiệp 9/12, ngoại hình ưa nhìn, có khả năng giao tiếp tốt.&#13;
+&#13;
+- Cao 1m55 trở lên, không mắc các bệnh về da và đường hô hấp, không có hình xăm.&#13;
+&#13;
+- Yêu thích ngành dịch vụ nhà hàng.</requirement>
+  </more>
+  <userapplied>
+    <total>1</total>
+    <strui>160</strui>
+  </userapplied>
+</information>

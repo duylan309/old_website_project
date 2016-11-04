@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1065</id>
+      <email>myluatran@gmail.com</email>
+      <username/>
+      <name>Trần Thị Mỹ Lụa</name>
+      <im>1065_13920983-319071278428568-650296519469960459-n.jpg</im>
+      <gender>0</gender>
+      <phone/>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471671894</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+    </db>
+  </userinfo>
+  <education>
+    <n_167>
+      <id>167</id>
+      <school>ĐH Tôn Đức Thắng</school>
+      <degrees>Sinh viên</degrees>
+      <fieldofstudy>Quản tri Marketeing</fieldofstudy>
+      <from>2015</from>
+      <to>nay</to>
+    </n_167>
+  </education>
+</information>

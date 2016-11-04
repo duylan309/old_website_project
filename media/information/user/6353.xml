@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6353</id>
+      <email>pham.quynh0512@gmail.com</email>
+      <username/>
+      <name>Phạm Thị Mộng Quỳnh</name>
+      <im>6353_hinh-the-quynh.jpg</im>
+      <gender>2</gender>
+      <phone>0983990962</phone>
+      <address>5/6A, Đường số 5, p. Bình Trưng Đông, q.2, TPHCM</address>
+      <city>30</city>
+      <dob>1985-12-5</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476520340</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>5</day>
+      <month>12</month>
+      <year>1985</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân Viên Nhà Hàng</title>
+      <experience>5</experience>
+      <category>14,16,19,20</category>
+      <type>1,4,6</type>
+      <level>2,3,4</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>6353</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>7</total>
+    <strjo>432,293,100,330,161,181,387</strjo>
+  </appliedjob>
+  <experience>
+    <n_1285>
+      <id>1285</id>
+      <title>Captain</title>
+      <level>1</level>
+      <cmpname>Cafe Restaurant Ho Chi Minh City</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>10/ 2015</from>
+      <to>Nay</to>
+    </n_1285>
+  </experience>
+</information>

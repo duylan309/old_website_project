@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2741</id>
+      <email>hghanh98@gmail.com</email>
+      <username/>
+      <name>Lê Thị Hồng Hạnh</name>
+      <im>1473839813_le-thi-hong-hanh.png</im>
+      <gender>2</gender>
+      <phone>0124714010</phone>
+      <address>009 Lô C, C/C Trần Quốc Thảo, P.9, Q.3, TPHCM</address>
+      <city>30</city>
+      <dob>1998-7-11</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473839813</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>11</day>
+      <month>7</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7764745</lat>
+      <lng>106.7008831</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên pha chế</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill></skill>
+      <ui>2741</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Là một người năng động, có thể làm việc trong các môi trường khác nhau và phù hợp với sức lực của bản thân. Yêu thích công việc pha chế và sẽ cố gắng làm tốt những gì được yêu cầu.</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>172</strjo>
+  </appliedjob>
+  <education>
+    <n_441>
+      <id>441</id>
+      <school>Đại học Văn Hiến</school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy>Kinh doanh quốc tế</fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_441>
+  </education>
+</information>

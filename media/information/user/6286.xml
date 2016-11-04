@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6286</id>
+      <email>Thebox.cafedeli@gmail.com</email>
+      <username/>
+      <name>The BOX Cafe</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0902992228</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1476464797</created>
+      <dayleft>1479056797</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1476464797</last_signin>
+      <jobleft>3</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>3</total>
+    <strji>466,465,514</strji>
+  </totalJob>
+  <saveuser>
+    <total>22</total>
+    <strui>4833,6328,6214,6358,1259,6475,4981,3268,6648,6912,6915,6875,6272,7039,5985,3668,562,2159,942,5907,3022,7257</strui>
+  </saveuser>
+</information>

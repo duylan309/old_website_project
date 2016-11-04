@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1220</id>
+      <email>chuthien30@gmail.com</email>
+      <username/>
+      <name>chu vi thiên</name>
+      <im>1220_img-2754.JPG</im>
+      <gender>2</gender>
+      <dob>1994-7-30</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471948894</created>
+      <day>30</day>
+      <month>7</month>
+      <year>1994</year>
+      <phone>096 293 8782</phone>
+      <address>369 Lê Đại Hành p.11 Q.11 Tp.HCM</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7764745</lat>
+      <lng>106.7008831</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_194>
+      <id>194</id>
+      <school>Đại Học Văn Lang</school>
+      <degrees>cử nhân ngành quản trị khách sạn nhà hàng</degrees>
+      <fieldofstudy>quản trị khách sạn nhà hàng</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_194>
+  </education>
+  <user_cv>
+    <db>
+      <ui>1220</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>7</experience>
+      <category>14,15</category>
+      <type>1,2</type>
+      <level>2</level>
+      <lang>vi,en,ch</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Nhiệt tình,Trung thực,Tinh thần trách nhiệm,Tập trung trong công việc,Chịu được áp lực công việc</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>151,113</strjo>
+  </appliedjob>
+</information>

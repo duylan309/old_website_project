@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>872</id>
+      <email>toquyeen184@gmail.com</email>
+      <username/>
+      <name>Lê Trần Tố Quyên</name>
+      <im>152991851804399_le-tran-to-quyen.jpg</im>
+      <gender>2</gender>
+      <dob>1998-4-18</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471349266</created>
+      <day>18</day>
+      <month>4</month>
+      <year>1998</year>
+      <phone>0932601858</phone>
+      <address>118/90/65 phan huy ích phường 15 quận Tân Bình</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.829476</lat>
+      <lng>106.635028</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_140>
+      <id>140</id>
+      <school>Đại học khoa học xã hội và nhân văn tpHCM</school>
+      <degrees/>
+      <fieldofstudy>Ngôn ngữ pháp</fieldofstudy>
+      <from>2016</from>
+      <to>Chưa xác định</to>
+    </n_140>
+  </education>
+  <user_cv>
+    <db>
+      <ui>872</ui>
+      <title>Nhân viên phục vụ, bán hàng</title>
+      <experience>7</experience>
+      <category>14,15,27,29</category>
+      <type>2,6</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <skill>_Có khả năng giao tiếp tốt.&#13;
+_ Chịu được áp lực công việc.&#13;
+_ Cần cù nhẫn nại có tinh thần đoàn kết và trách nhiệm cao&#13;
+_ Học hỏi nhanh</skill>
+      <keyword>Giao tiếp hiệu quả,Tinh thần trách nhiệm,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Tự tin,Nhiệt tình,Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>7</total>
+    <strjo>158,140,93,105,64,100,107</strjo>
+  </appliedjob>
+</information>

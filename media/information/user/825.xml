@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>825</id>
+      <email>mrdinhlong98@gmail.com</email>
+      <username/>
+      <name>nguyễn đình long</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0969977318</phone>
+      <address>ấp hậu lân,xã bà điểm,huyện hóc môn,tp.hcm</address>
+      <city>30</city>
+      <dob>1998-10-12</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471180539</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>12</day>
+      <month>10</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Lao động phổ thông</title>
+      <experience>7</experience>
+      <category>14,15,16,17,29,31,35</category>
+      <type>1,4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>-Khả năng giao tiếp,nói nghe khá tốt&#13;
+-Sự nhiệt tình,năng động và trung thực&#13;
+-Ham học hỏi</skill>
+      <ui>825</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <keyword>Giao tiếp hiệu quả,Chịu được áp lực công việc,Trung thực,Nhiệt tình,Tự tin,Tinh thần trách nhiệm,Tập trung trong công việc</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>82,85</strjo>
+  </appliedjob>
+  <education>
+    <n_124>
+      <id>124</id>
+      <school>Trường THPT Vinh Lộc</school>
+      <degrees>Trung học</degrees>
+      <fieldofstudy>không</fieldofstudy>
+      <from>2013</from>
+      <to>2016</to>
+    </n_124>
+  </education>
+  <experience>
+    <n_186>
+      <id>186</id>
+      <title>nhân viên phục vụ nhà hàng</title>
+      <level>1</level>
+      <cmpname>Roial Palace,Đông Phương,Him Lam Palace</cmpname>
+      <city>tp.hcm</city>
+      <country>vietnammese</country>
+      <from>26/07/106</from>
+      <to>nay</to>
+    </n_186>
+  </experience>
+</information>

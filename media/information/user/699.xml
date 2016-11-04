@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>699</id>
+      <email>halocninh10@gmail.com</email>
+      <username/>
+      <name>Hà Thị Lộc Ninh</name>
+      <im>500355480168658_loc-ninh.jpg</im>
+      <gender>2</gender>
+      <dob>1998-4-10</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470893875</created>
+      <day>10</day>
+      <month>4</month>
+      <year>1998</year>
+      <phone>0966913885</phone>
+      <address>Chung cư Belleza đường Phạm Hữu Lầu p.Phú Mỹ Q7 HCMc</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên</title>
+      <experience>7</experience>
+      <category>15,17,29,35</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill></skill>
+      <ui>699</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>82</strjo>
+  </appliedjob>
+</information>

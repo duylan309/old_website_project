@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5031</id>
+      <email>tnl.hf248@yahoo.com</email>
+      <username/>
+      <name>Trần Ngọc Linh</name>
+      <im>1475666346_tran-ngoc-linh.png</im>
+      <gender>2</gender>
+      <phone>0938419422</phone>
+      <address>132/6 doan van bo</address>
+      <city>30</city>
+      <dob>1996-8-24</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475666346</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>24</day>
+      <month>8</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.759704</lat>
+      <lng>106.709173</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục vụ</title>
+      <experience>1</experience>
+      <category>15,20,30,31</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>5031</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Yêu thiên nhiên , thích đi du lịch với mong ước có thật nhiều tiền để đưa ba mẹ cùng theo </about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>371,377,364,152</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>152</strjo>
+  </savedjob>
+</information>

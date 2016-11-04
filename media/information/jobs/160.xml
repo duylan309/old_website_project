@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>160</id>
+    <ui>333</ui>
+    <ci>234</ci>
+    <ai>0</ai>
+    <ti>Nhân viên phục vụ/ pha chế</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>2500000</s1>
+    <s2>3000000</s2>
+    <s3>113</s3>
+    <s4>136</s4>
+    <lo/>
+    <co>vn,for</co>
+    <ca>14,15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>9</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description>- Pha chế (cà phê, nước ép theo công thức, các món uống khác...)\r\n- Phục vụ và lấy order (tiếng Việt, Anh)\r\n- Thực hiện quy trình mở và đóng quán\r\n- Thực hiện quy trình giao ca (nếu là ca giữa)\r\n</description>
+    <requirement>- Nhanh nhẹn và kỹ lưỡng khi pha chế\r\n- Có mắt quan sát và nhanh nhạy trong khi phục vụ/ coi quán\r\n- Phong cách nhẹ nhàng, từ tốn nhưng tác phong dứt khoác, làm việc mau lẹ.\r\n</requirement>
+    <benefit>- Nhận % thưởng theo doanh thu\r\n- Hỗ trợ tiền xăng</benefit>
+    <keyword>Kỹ năng chăm sóc khách hàng,Tinh thần làm việc nhóm,Nhiệt tình</keyword>
+    <ad/>
+    <location_id>44</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-10-22</de>
+    <re>0000-00-00</re>
+    <cr>1473665037</cr>
+  </db>
+  <more>
+    <requirement>- Nhanh nhẹn và kỹ lưỡng khi pha chế&#13;
+- Có mắt quan sát và nhanh nhạy trong khi phục vụ/ coi quán&#13;
+- Phong cách nhẹ nhàng, từ tốn nhưng tác phong dứt khoác, làm việc mau lẹ.&#13;
+</requirement>
+    <description>- Pha chế (cà phê, nước ép theo công thức, các món uống khác...)&#13;
+- Phục vụ và lấy order (tiếng Việt, Anh)&#13;
+- Thực hiện quy trình mở và đóng quán&#13;
+- Thực hiện quy trình giao ca (nếu là ca giữa)&#13;
+</description>
+    <benefit>- Nhận % thưởng theo doanh thu&#13;
+- Hỗ trợ tiền xăng</benefit>
+    <keyword>Kỹ năng chăm sóc khách hàng,Tinh thần làm việc nhóm,Nhiệt tình</keyword>
+  </more>
+  <userapplied>
+    <total>5</total>
+    <strui>918,1069,381,1929,2048</strui>
+  </userapplied>
+</information>

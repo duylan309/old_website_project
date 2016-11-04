@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4597</id>
+      <email>ducthanh1202@gmail.com</email>
+      <username/>
+      <name>Trần Đức Thanh</name>
+      <im>4597_13567484-857253671074381-8047024875167959399-n.jpg</im>
+      <gender>1</gender>
+      <phone>01672511539</phone>
+      <address>16/34 đường D1, P.25, Q.Bình Thạnh, Tp.HCM</address>
+      <city>30</city>
+      <dob>1996-2-12</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475336655</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1475336655</last_signin>
+      <day>12</day>
+      <month>2</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7764745</lat>
+      <lng>106.7008831</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_976>
+      <id>976</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>I.am Shop</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>10/2015</from>
+      <to>4/2016</to>
+    </n_976>
+    <n_977>
+      <id>977</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Thủy Mộc Coffee</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>8/2015</from>
+      <to>10/2016</to>
+    </n_977>
+  </experience>
+  <education>
+    <n_765>
+      <id>765</id>
+      <school>Đại học Ngân hàng Tp.HCM </school>
+      <degrees>Cử nhân </degrees>
+      <fieldofstudy>Tài chính ngân hàng</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_765>
+  </education>
+  <user_cv>
+    <db>
+      <ui>4597</ui>
+      <title>Nhân viên bán hàng, phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,16,19,29,35</category>
+      <type>1,2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Tôi là một người ham học hỏi, có tính cẩn thận, trung thực,  luôn năng nổ và năng động trong công việc. Ngoài ra còn có khả năng làm việc độc lập cũng như làm việc nhóm, luôn mong muốn đạt được hiệu suất và kết quả tốt nhất trong công việc.</about>
+      <skill>Có kỹ năng vi tính và kỹ năng ngoại ngữ ở mức đáp ứng được yêu cầu của công việc.&#13;
+Ngoài ra còn có một số kỹ năng mềm như giao tiếp, xử lý tình huống.</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>10</total>
+    <strjo>172,105,106,107,275,334,130,219,176,364</strjo>
+  </appliedjob>
+</information>

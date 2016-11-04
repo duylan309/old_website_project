@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2553</id>
+      <email>vuminhtienbuh@gmail.com</email>
+      <username/>
+      <name>Vũ Minh Tiến</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0901204240</phone>
+      <address>56, Hoàng Diệu 2, phường Linh Chiểu, Quận Thủ Đức</address>
+      <city>30</city>
+      <dob>1997-8-27</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473657516</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1473657516</last_signin>
+      <day>27</day>
+      <month>8</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8575878</lat>
+      <lng>106.7635501</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>2553</ui>
+      <title>bán thời gian</title>
+      <experience>1</experience>
+      <category>14,15,16,17,19,20,26,27,28,29,30,31,35,36</category>
+      <type>2,4,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <skill></skill>
+      <keyword>Giao tiếp hiệu quả,Tinh thần trách nhiệm,Nhiệt tình,Tự tin,Trung thực,Tinh thần làm việc nhóm,Kỹ năng giải quyết tình huống,Kỹ năng chăm sóc khách hàng</keyword>
+    </db>
+  </user_cv>
+</information>

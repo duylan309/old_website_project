@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5153</id>
+      <email>bichphuong0795@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Bích Phượng</name>
+      <im>5153_fb-img-1470581100563.jpg</im>
+      <gender>0</gender>
+      <phone>01229062239</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475760872</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>28,31,35</category>
+      <type>2,3</type>
+      <level>1</level>
+      <lang>vi,en,rs</lang>
+      <skill/>
+      <ui>5153</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>378,158,202,184</strjo>
+  </appliedjob>
+</information>

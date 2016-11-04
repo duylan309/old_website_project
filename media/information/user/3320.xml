@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3320</id>
+      <email>dailylynx@gmail.com</email>
+      <username/>
+      <name>Thư Vũ</name>
+      <im>1201084763297370_thu-vu.jpg</im>
+      <gender>2</gender>
+      <dob>1994-6-14</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474528397</created>
+      <day>14</day>
+      <month>6</month>
+      <year>1994</year>
+      <last_signin>1474528397</last_signin>
+      <phone>0904476900</phone>
+      <address>Khu dân cư Phước Kiển A, Nhà Bè</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7206383</lat>
+      <lng>106.6961914</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>3320</ui>
+      <title>sales, receptionist, tourguide... nhân viên phục vụ,</title>
+      <experience>1</experience>
+      <category>14,15,20,27</category>
+      <type>2,3,4,5,6</type>
+      <level>1,2,3</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>TÔi đang là sinh viên năm cuối ngành Du Lịch. Được trang bị đầy đủ kiến thức và kỹ năng của một tourguide ; nhanh nhẹn, năng động, thích nghi với nhiều hoàn cảnh công việc khác nhau và chịu được áp lực công việc.</about>
+      <skill>làm việc nhóm, tổ chức sự kiện, giao tiếp tốt, có khả năng làm team building...&#13;
+Giao tiếp bằng tiếng Anh</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <experience>
+    <n_798>
+      <id>798</id>
+      <title>Tourguide, sales</title>
+      <level>1</level>
+      <cmpname>Asiana link travel</cmpname>
+      <city/>
+      <country/>
+      <from>8-2015</from>
+      <to>8-2016</to>
+    </n_798>
+    <n_799>
+      <id>799</id>
+      <title>nhân viên sales - audit</title>
+      <level>1</level>
+      <cmpname>Cocacola</cmpname>
+      <city/>
+      <country/>
+      <from>4-2014</from>
+      <to>6-2014</to>
+    </n_799>
+    <n_800>
+      <id>800</id>
+      <title>nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>NHà hàng cung đình</cmpname>
+      <city/>
+      <country/>
+      <from>9-2013</from>
+      <to>3-2014</to>
+    </n_800>
+  </experience>
+  <education>
+    <n_586>
+      <id>586</id>
+      <school>Đại học Tôn Đức Thắng</school>
+      <degrees>THPT</degrees>
+      <fieldofstudy>Du Lịch</fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_586>
+  </education>
+  <appliedjob>
+    <total>1</total>
+    <strjo>262</strjo>
+  </appliedjob>
+</information>

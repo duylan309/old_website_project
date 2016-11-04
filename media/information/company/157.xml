@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>157</id>
+    <ui>157</ui>
+    <name>Fake Company</name>
+    <url></url>
+    <im></im>
+    <category>16</category>
+    <phone>08483333333</phone>
+    <address>1</address>
+    <city>30</city>
+    <website></website>
+    <skype></skype>
+    <facebook></facebook>
+    <size>0</size>
+    <status>1</status>
+    <dayleft>0</dayleft>
+    <jobleft>0</jobleft>
+    <fb_load_newfeed>0</fb_load_newfeed>
+    <fb_load_photo>0</fb_load_photo>
+    <created>1463146355</created>
+    <deactive>0</deactive>
+  </db>
+</information>

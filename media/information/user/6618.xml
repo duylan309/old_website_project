@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6618</id>
+      <email>foreverandthings@yahoo.com</email>
+      <username/>
+      <name>Jacky Anh Nguyễn</name>
+      <im>1025609844203579_jacky-anh-nguyen.jpg</im>
+      <gender>1</gender>
+      <dob>1995-8-22</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476726741</created>
+      <day>22</day>
+      <month>8</month>
+      <year>1995</year>
+      <phone>01206181217</phone>
+      <address>43/1 Thành Thái, Phường 14, Quận 10</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7713735</lat>
+      <lng>106.664873</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_1087>
+      <id>1087</id>
+      <school>Đại học công nghệ thành phố hồ chí minh ( Hutech)</school>
+      <degrees/>
+      <fieldofstudy>Quản trị nhà hàng - khách sạn</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_1087>
+  </education>
+  <experience>
+    <n_1324>
+      <id>1324</id>
+      <title>Member service</title>
+      <level>1</level>
+      <cmpname>California fitness and Yoga center</cmpname>
+      <city>Hồ chí minh</city>
+      <country>Việt nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_1324>
+    <n_1325>
+      <id>1325</id>
+      <title>Waiter,waitress</title>
+      <level>1</level>
+      <cmpname>Renaissance riverside Hotel Saigon</cmpname>
+      <city>Hcm</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>2015</to>
+    </n_1325>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>6618</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>2</experience>
+      <category>14,15,16,19,20</category>
+      <type>1,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Là một con người hiền lành, hay cười nhưng luôn kèm theo sự năng nổ, linh hoạt và thích học hỏi nhiều điều mới lạ chưa được biết đến.</about>
+      <skill>Có tinh thần trách nhiệm cao, có thể hoạt động đội nhóm &#13;
+Chịu được áp lực của công việc, chịu khó và luôn mong muốn sự cầu tiến trong công việc để lấy đó làm mục tiêu phấn đầu tốt hơn trong công việc.&#13;
+&#13;
+</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>387,238,432,279,260</strjo>
+  </appliedjob>
+</information>

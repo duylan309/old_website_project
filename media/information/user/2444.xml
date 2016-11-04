@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2444</id>
+      <email>duongtran.3003@yahoo.com.vn</email>
+      <username/>
+      <name>Hải Dương</name>
+      <im>1788789588071381_hai-duong.jpg</im>
+      <gender>1</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473511971</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế bartender</title>
+      <experience>1</experience>
+      <category>14,16,19,20</category>
+      <type>4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Năng động, giao tiếp tốt</skill>
+      <ui>2444</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>250</strjo>
+  </appliedjob>
+</information>

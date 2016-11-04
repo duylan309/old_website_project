@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3444</id>
+      <email>tuongvynguyen230598@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Tường Vy</name>
+      <im>3444_13245446-816218121843916-8125201476607448218-n.jpg</im>
+      <gender>2</gender>
+      <phone>0966419265</phone>
+      <address>100, đường Hùng Vương, phường 9, quận 5</address>
+      <city>30</city>
+      <dob>1998-5-23</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474632320</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1474632320</last_signin>
+      <day>23</day>
+      <month>5</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7589438</lat>
+      <lng>106.6704046</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>3444</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>15,17,27,28,29,30,31,35</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <about>Tôi tên Nguyễn  Thị Tường Vy, 18 tuổi, hiện đang là sinh viên năm 1 trường Đại học Kinh tế tài chính (UEF), học ngành Kinh doanh quốc tế. Hiện tôi đang ở 100 đường Hùng Vương, phường 9, quận 5, TPHCM.  Tôi đã có kinh nghiệm 1 năm trong việc bán quần áo thời trang tại cửa hàng Boutique (Đồng Nai). Mức lương là 3.200.000 VNĐ. Tôi nghỉ việc vì lý do ôn thi đại học.  Cửa hàng có thể liên lạc với tôi qua số điện thoại 0966419265. Tôi mong cửa hàng xem xét và cho tôi được ứng tuyển. Xin cảm ơn.</about>
+      <skill>Kỹ năng giao tiếp. </skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <experience>
+    <n_761>
+      <id>761</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>Bouutique</cmpname>
+      <city>Đồng Nai</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>2015</to>
+    </n_761>
+  </experience>
+  <education>
+    <n_560>
+      <id>560</id>
+      <school>Đại học Kinh tế tài chính (UEF)</school>
+      <degrees/>
+      <fieldofstudy>Kinh doanh quốc tế</fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_560>
+  </education>
+  <appliedjob>
+    <total>1</total>
+    <strjo>262</strjo>
+  </appliedjob>
+</information>

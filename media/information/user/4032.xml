@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4032</id>
+      <email>phamnguyentoanthang@gmail.com</email>
+      <username/>
+      <name>Phạm Nguyễn Toàn Thắng</name>
+      <im>1474955805_pham-nguyen-toan-thang.png</im>
+      <gender>1</gender>
+      <phone>0906324441</phone>
+      <address>62/85A Lâm Văn Bền, phường Tân Kiểng, quận 7</address>
+      <city>30</city>
+      <dob>1997-3-28</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474955805</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>28</day>
+      <month>3</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7463061</lat>
+      <lng>106.715843</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, Nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>14,15,17,20,29,31,35</category>
+      <type>2,4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Sử dụng thành thạo MS Word, Power Point, Corel Draw</skill>
+      <ui>4032</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>130,100</strjo>
+  </appliedjob>
+</information>

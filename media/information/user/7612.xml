@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7612</id>
+      <email>nguyenthanhluan020596@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thành Luân</name>
+      <im>1477329624_nguyen-thanh-luan.png</im>
+      <gender>1</gender>
+      <phone>01287971547</phone>
+      <address>423/15C/36A lê đức thọ, f16, Q.Gò Vấp</address>
+      <city>30</city>
+      <dob>1996-5-2</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477329624</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>2</day>
+      <month>5</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8428952</lat>
+      <lng>106.6752393</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>7612</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>người ham mê học hỏi, siêng năng, tích cực rèn luyện bản thân, hòa đồng, thân thiện.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>7</total>
+    <strjo>161,435,427,448,449,349,202</strjo>
+  </appliedjob>
+  <experience>
+    <n_1488>
+      <id>1488</id>
+      <title>Phục vụ</title>
+      <level>1</level>
+      <cmpname>Gogi house Emart</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>3/2016</from>
+      <to>8/2016</to>
+    </n_1488>
+  </experience>
+  <education>
+    <n_1237>
+      <id>1237</id>
+      <school>Đại học Công Nghiệp Thực Phẩm TPHCM</school>
+      <degrees>12/12</degrees>
+      <fieldofstudy>công nghệ hóa học</fieldofstudy>
+      <from>2014</from>
+      <to>2016</to>
+    </n_1237>
+  </education>
+</information>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3598</id>
+      <email>kieutrinhtruongst@gmail.com</email>
+      <username/>
+      <name>Kieu Trinh Truong</name>
+      <im>3598_img-2868.JPG</im>
+      <gender>2</gender>
+      <dob>1994-1-1</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474703683</created>
+      <day>1</day>
+      <month>1</month>
+      <year>1994</year>
+      <phone>01693159917</phone>
+      <address>436/12 Đường 3/2 P12 Q10 </address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.773531</lat>
+      <lng>106.6560574</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_585>
+      <id>585</id>
+      <school>Đại Học Công Nghệ TP.HCM</school>
+      <degrees>Cử Nhân</degrees>
+      <fieldofstudy>Quản Trị Doanh Nghiệp</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_585>
+  </education>
+  <experience>
+    <n_797>
+      <id>797</id>
+      <title>Bán Hàng online</title>
+      <level>1</level>
+      <cmpname>Facebook, Instagram</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>2016</to>
+    </n_797>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>3598</ui>
+      <title>Chăm sóc khách hàng, Guest Service</title>
+      <experience>7</experience>
+      <category>14,15,20,28,29</category>
+      <type>1,3,6</type>
+      <level>1,2</level>
+      <lang>en</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Là sinh viên mới tốt nghiệp ngành Quản trị Kinh doanh tại Trường Đại học Công nghệ TPHCM (HUTECH). Bản thân là người cẩn thận, có tinh thần trách nhiệm cao trong công việc. Mặc dù không có nhiều kinh nghiệm nhưng tôi luôn cố gắng học hỏi, hoàn thiện bản thân để phục vụ tốt cho công việc cũng như mang lại sự hài lòng cho khách hàng khi sử dụng dịch vụ.</about>
+      <skill>- Giao tiếp tốt với mọi người.&#13;
+- Thành thạo tin  học văn phòng.&#13;
+- Chịu được áp lực công việc.&#13;
+- Luôn mỉm cười với khách hàng.&#13;
+</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>318</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>220</strjo>
+  </savedjob>
+</information>

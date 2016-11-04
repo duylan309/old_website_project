@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5988</id>
+      <email>huki260992@shms-mail.ch</email>
+      <username/>
+      <name>Kim Huynh</name>
+      <im>1449888775027693_kim-huynh.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476319918</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+      <last_signin>1476319918</last_signin>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <savedjob/>
+  <user_cv>
+    <db>
+      <ui>5988</ui>
+      <deactive>0</deactive>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>206</strjo>
+  </appliedjob>
+</information>

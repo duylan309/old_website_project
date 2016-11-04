@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4150</id>
+      <email>Thanhlinh300@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Thanh Linh</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01203650966</phone>
+      <address>564/34 Hưng Phú phường 9 quận 8</address>
+      <city>30</city>
+      <dob>1998-10-11</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474988290</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>11</day>
+      <month>10</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.747264</lat>
+      <lng>106.670562</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,17,27,29</category>
+      <type>2,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>4150</ui>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>Em đang là sinh viên năm nhất tại trường Đại Học Công Nghệ Sài Gòn khoa quản trị kinh doanh ạ</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>23</total>
+    <strjo>353,252,219,235,176,262,162,356,211,130,154,222,348,247,171,371,349,351,354,193,364,459,107</strjo>
+  </appliedjob>
+  <savedjob/>
+</information>

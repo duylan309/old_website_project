@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4512</id>
+      <email>nguyenthinhuy1208@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Như Ý</name>
+      <im>1475243064_nguyen-thi-nhu-y.png</im>
+      <gender>2</gender>
+      <phone>0926656874</phone>
+      <address>96 Nguyễn Ngọc Nhựt, P. Tân Quý, Q. Tân Phú</address>
+      <city>30</city>
+      <dob>1995-8-12</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475243064</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>12</day>
+      <month>8</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7922696</lat>
+      <lng>106.625305</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Kế toán hoặc thu ngân</title>
+      <experience>1</experience>
+      <category>29</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Sử dụng vi tính văn phòng.&#13;
+Phần mềm kế toán MISA&#13;
+Tiếng anh cơ bản</skill>
+      <ui>4512</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Chịu khó. Năng động. Nhanh nhẹn và có quyết tâm với việc mình làm.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>231,170,392</strjo>
+  </appliedjob>
+  <experience>
+    <n_954>
+      <id>954</id>
+      <title>Nhân viên</title>
+      <level>1</level>
+      <cmpname>Pizza hut Việt Nam</cmpname>
+      <city>Tp. HCM</city>
+      <country>Việt Nam</country>
+      <from>9-2015</from>
+      <to>10-2016</to>
+    </n_954>
+    <n_955>
+      <id>955</id>
+      <title>Cộng tác viên thu hồi nợ qua điện thoại</title>
+      <level>1</level>
+      <cmpname>Công ty tài chính TNHH MTV Ngân hàng Việt Nam Thịnh Vượng</cmpname>
+      <city>Tp. HCM</city>
+      <country>Việt Nam</country>
+      <from>9-2016</from>
+      <to>Hiện tại</to>
+    </n_955>
+  </experience>
+  <education>
+    <n_744>
+      <id>744</id>
+      <school>Cao đẳng kinh tế TP. HCM</school>
+      <degrees>Cử nhân cao đẳng</degrees>
+      <fieldofstudy>Kế toán doanh nghiệp</fieldofstudy>
+      <from>2013</from>
+      <to>2016</to>
+    </n_744>
+  </education>
+</information>

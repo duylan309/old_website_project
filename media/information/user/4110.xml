@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4110</id>
+      <email>phuonglinh8793@gmail.com</email>
+      <username/>
+      <name>Lê Thị Phương Linh</name>
+      <im>740571389428632_linh-linh.jpg</im>
+      <gender>2</gender>
+      <dob>1993-7-8</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474972565</created>
+      <day>8</day>
+      <month>7</month>
+      <year>1993</year>
+      <phone>0908381087</phone>
+      <address>7/11, Miếu Gò Xoài, P.Bình Hưng Hòa A, Quận Bình Tân</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.780604</lat>
+      <lng>106.60794</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>2</experience>
+      <category>14,29</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>en</lang>
+      <skill>TIn học bằng A, Toiec 450. &#13;
+Tốt nghiệp loại giỏi các khóa : marketing, nghiên cứu hành vi khách hàng, kỹ năng giao tiếp.</skill>
+      <ui>4110</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Tôi là một người nhanh nhẹn, yêu thích công việc có áp lực cao. Luôn thích ứng được với môi trường mới. Tôi có 3 năm kinh nghiệm trong các lĩnh vực : marketing, phục vụ, bán hàng,...</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>292</strjo>
+  </appliedjob>
+  <education>
+    <n_658>
+      <id>658</id>
+      <school>Đại học Tài chính - Marketing</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Marketing</fieldofstudy>
+      <from>2011</from>
+      <to>2015</to>
+    </n_658>
+  </education>
+</information>

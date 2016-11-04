@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2588</id>
+      <email>duynguyen1996@gmail.com</email>
+      <username/>
+      <name>Nguyễn Đức Duy</name>
+      <im>1473694507_nguyen-duc-duy.png</im>
+      <gender>1</gender>
+      <phone>01672789989</phone>
+      <address>151/1 trương đăng quế,Q.Gò Vấp-TP.HCM</address>
+      <city>30</city>
+      <dob>1996-10-16</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473694507</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>16</day>
+      <month>10</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên pha chế/Bartender</title>
+      <experience>1</experience>
+      <category>16,18,19,20</category>
+      <type>1,2,4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Có thể làm được nhiều vị trí chuyên về lĩnh vực Nhà hàng/Khách sạn/Bar-Pub</skill>
+      <ui>2588</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>...........................................................................................................................................&#13;
+Tôi tên là: Nguyễn Đức Duy. Ngày Sinh: 16-10-1996.&#13;
+Địa chỉ thường trú: Phước An - Tuy Phước - Bình Định.&#13;
+Chỗ ở hiện nay: 15/1 Phạm Văn Đồng, P3, Q. Gò Vấp, TP.HCM.&#13;
+SĐT: 01672789989.&#13;
+Qua thông tin trên báo/website..............tôi được biết quý công ty đang có nhu cầu tuyển dụng Nhân viên pha chế. Tôi thấy mình có đủ trình độ, kỹ năng phù hợp với vị trí Nhân viên pha chế nên tôi viết đơn này xin được đội ngũ nhân viên năng động, chuyên nghiệp của quý công ty.&#13;
+Tôi tin rằng với trình độ, kiến thức và kỹ năng sau đây tôi hoàn toàn phù hợp với yêu cầu công việc và văn hóa của công ty............................................................................................:&#13;
+1-	Tốt nghiệp Bartender Trường Hướng nghiệp Á ÂU tháng 10 - 2015.&#13;
+2-	Có vốn kỹ năng đầy đủ về Bartender.&#13;
+3-	Thành thạo và thông thuộc cách làm các loại đồ uống có cồn cũng như không cồn. &#13;
+Tôi xin cam đoan những gì nêu trên là đúng sự thật, nếu sai tôi xin chịu hoàn toàn trách nhiệm trước pháp luật.&#13;
+Tôi xin chân thành cảm ơn!&#13;
+</about>
+      <keyword>Trung thực,Giao tiếp hiệu quả,Chịu được áp lực công việc,Tập trung trong công việc,Kỹ năng chăm sóc khách hàng,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>243,210,189,111</strjo>
+  </appliedjob>
+  <experience>
+    <n_591>
+      <id>591</id>
+      <title>NHÂN VIÊN PHA CHẾ</title>
+      <level>1</level>
+      <cmpname>trách nhiện hữu hạn goden gate</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>12-2015</from>
+      <to>06-2016</to>
+    </n_591>
+  </experience>
+  <education>
+    <n_419>
+      <id>419</id>
+      <school>Hướng Nghiệp Á ÂU</school>
+      <degrees>Chứng Chỉ Đào Tạo</degrees>
+      <fieldofstudy>Nghiệp Vụ Pha Chế Thức Uống-Bartender</fieldofstudy>
+      <from>28/08/2015</from>
+      <to>14/10/2015</to>
+    </n_419>
+  </education>
+</information>

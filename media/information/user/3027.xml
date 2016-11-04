@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3027</id>
+      <email>lang_tu_co_don197@yahoo.com</email>
+      <username/>
+      <name>Phạm Minh Thuận</name>
+      <im>1043018669144902_pham-minh-thuan.jpg</im>
+      <gender>1</gender>
+      <dob>1997-12-21</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474195416</created>
+      <day>21</day>
+      <month>12</month>
+      <year>1997</year>
+      <last_signin>1474195416</last_signin>
+      <phone>0902472635</phone>
+      <address>c7/2a phạm hùng p4 q8</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7205745</lat>
+      <lng>106.6828539</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_915>
+      <id>915</id>
+      <title>barista</title>
+      <level>1</level>
+      <cmpname>studio 77</cmpname>
+      <city>HỒ CHÍ MINH</city>
+      <country>Việt Nam</country>
+      <from>30/07/2016</from>
+      <to>20/09/2016</to>
+    </n_915>
+    <n_1199>
+      <id>1199</id>
+      <title>Nhân viên pha chê</title>
+      <level>1</level>
+      <cmpname>Công ty VTTH Hưng Nguyên</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>11/2015</from>
+      <to>06/2016</to>
+    </n_1199>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>3027</ui>
+      <title>barista</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>2,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Học tại HUTECH&#13;
+Chuyên ngành: Dược&#13;
+Sinh viên năm 2&#13;
+sở thích: ca hát&#13;
+</about>
+      <skill>art latte,capu</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>11</total>
+    <strjo>222,201,208,106,163,248,293,257,93,274,312</strjo>
+  </appliedjob>
+  <savedjob/>
+</information>

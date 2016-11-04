@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>50</id>
+    <ui>137</ui>
+    <ci>137</ci>
+    <ai>0</ai>
+    <ti>Sale Manager</ti>
+    <ta></ta>
+    <le>4</le>
+    <ty>1</ty>
+    <ex>5</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>10000000</s1>
+    <s2>15000000</s2>
+    <s3>454</s3>
+    <s4>681</s4>
+    <lo>23,30</lo>
+    <ca>17</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>0</st>
+    <pi>0</pi>
+    <la></la>
+    <de>0000-00-00</de>
+    <re>0000-00-00</re>
+    <cr>1461567936</cr>
+  </db>
+  <more>
+    <number>1</number>
+    <requirement>At least 4 years experience.</requirement>
+    <description>Managing our chic boutique from monday to saturday</description>
+  </more>
+</information>

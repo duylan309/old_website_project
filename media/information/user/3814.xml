@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3814</id>
+      <email>nguyenthinhung21081998@gmail.com</email>
+      <username/>
+      <name>NGUYỄN THỊ ÁI NHI</name>
+      <im>1474864500_nguyen-thi-ai-nhi.png</im>
+      <gender>0</gender>
+      <phone>0901416569</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474864500</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>6</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>3814</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>293</strjo>
+  </appliedjob>
+</information>

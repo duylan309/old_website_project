@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>280</id>
+    <ui>1318</ui>
+    <name>Indika Saigon</name>
+    <url>IndikaSaigon</url>
+    <im>129709204106559_indika-saigon.png</im>
+    <im_banner>129709204106559_indika-saigon-cover.jpg</im_banner>
+    <category>15</category>
+    <phone>01223994260</phone>
+    <address>43 Nguyễn Văn Giai, phường Đakao, Quận 1</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.791810</lat>
+    <lng>106.697289</lng>
+    <website/>
+    <about/>
+    <facebook>https://www.facebook.com/IndikaSaigon/</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1472110054</created>
+  </db>
+  <more>
+    <about>Welcome to Indika - House of Curiosity\r\n\r\nA great place to chill with great atmosphere, food and drinks !</about>
+    <whyworkus/>
+  </more>
+  <companybanner>129709204106559_indika-saigon-cover.jpg</companybanner>
+  <totalJob>
+    <total>4</total>
+    <strji>189,190,286,287</strji>
+  </totalJob>
+</information>

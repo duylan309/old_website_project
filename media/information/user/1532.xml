@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1532</id>
+      <email>daotuyetngoc@gmail.com</email>
+      <username/>
+      <name>Dao Tuyet Ngoc</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0917192222</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1472457027</created>
+      <dayleft>1480248328</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1472457027</last_signin>
+      <jobleft>1</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>4</total>
+    <strji>208,231,251,376</strji>
+  </totalJob>
+  <saveuser>
+    <total>9</total>
+    <strui>866,1591,1802,1029,1889,2025,2060,2127,848</strui>
+  </saveuser>
+</information>

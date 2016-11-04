@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4041</id>
+      <email>recruit_hcm@pizza4ps.com</email>
+      <username/>
+      <name>Pizza 4Ps</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0933412928</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>3</status>
+      <created>1474962742</created>
+      <dayleft>1480146742</dayleft>
+      <page>5</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1474962742</last_signin>
+      <jobleft>0</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>6</total>
+    <strji>377,351,348,349,363,462</strji>
+  </totalJob>
+  <saveuser>
+    <total>4</total>
+    <strui>3723,4119,940,4190</strui>
+  </saveuser>
+</information>

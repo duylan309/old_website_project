@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>690</id>
+      <email>linhmynguyen07@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Mỹ Linh</name>
+      <im>690_image.png</im>
+      <gender>2</gender>
+      <phone>0938291677</phone>
+      <address>1 Nguyễn Duy Dương, P8,Quận 5</address>
+      <city>30</city>
+      <dob>1995-7-23</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470852135</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>23</day>
+      <month>7</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7555441</lat>
+      <lng>106.6718746</lng>
+      <deactive>1</deactive>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,29,35</category>
+      <type>6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>690</ui>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <keyword>Tinh thần trách nhiệm</keyword>
+      <deactive>1</deactive>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>105,64,130</strjo>
+  </appliedjob>
+  <experience>
+    <n_141>
+      <id>141</id>
+      <title>nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Eastin Grand hotel</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_141>
+  </experience>
+  <education>
+    <n_95>
+      <id>95</id>
+      <school>Đại học Công nghệ Tp HCM</school>
+      <degrees/>
+      <fieldofstudy>quản trị khách sạn</fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_95>
+  </education>
+</information>

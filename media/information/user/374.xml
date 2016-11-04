@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>374</id>
+      <email>hemia_kiepmi@yahoo.com</email>
+      <username/>
+      <name>Võ thị hồng nhung</name>
+      <im>910998232378919_kenny-vo.jpg</im>
+      <gender>2</gender>
+      <dob>1994-4-7</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1469964320</created>
+      <day>7</day>
+      <month>4</month>
+      <year>1994</year>
+      <phone>0938767325</phone>
+      <address>Số9 lâu1 đào tần5q5</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_45>
+      <id>45</id>
+      <title>Thu ngân</title>
+      <level>1</level>
+      <cmpname>Công ty TNHH LEO</cmpname>
+      <city>Hcm </city>
+      <country>Việt nam</country>
+      <from>Tháng 10/2015</from>
+      <to>Tháng 1/2016</to>
+    </n_45>
+  </experience>
+  <education>
+    <n_32>
+      <id>32</id>
+      <school>tHCS Hoà Bình</school>
+      <degrees>Tốt nghiệp cấp THCS</degrees>
+      <fieldofstudy/>
+      <from>Năm 2009</from>
+      <to>Năm 2012</to>
+    </n_32>
+  </education>
+  <user_cv>
+    <db>
+      <ui>374</ui>
+      <title>Nhân vien bán hàng</title>
+      <experience>2</experience>
+      <category>17</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Tinh thần trách nhiệm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>107,124</strjo>
+  </appliedjob>
+</information>

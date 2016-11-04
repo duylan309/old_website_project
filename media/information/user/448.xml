@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>448</id>
+      <email>nevergiveup_iam@yahoo.com</email>
+      <username/>
+      <name>Hạnh Hồng</name>
+      <im>1020754984711722_hanh-hong.jpg</im>
+      <gender>2</gender>
+      <dob>1997-2-21</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470133909</created>
+      <day>21</day>
+      <month>2</month>
+      <year>1997</year>
+      <phone>01693339541</phone>
+      <address>156/72/7 nguyễn văn công, gò vấp</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8247653</lat>
+      <lng>106.6786321</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>448</ui>
+      <title>Part time</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>2,6</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <skill>Đã có kinh nghiệm làm việc nhiều nơi</skill>
+      <keyword>Tự tin,Tinh thần trách nhiệm,Trung thực</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>105,63,64,82</strjo>
+  </appliedjob>
+</information>

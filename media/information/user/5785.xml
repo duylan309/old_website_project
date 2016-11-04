@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5785</id>
+      <email>hiendinh1998@gmail.com</email>
+      <username/>
+      <name>Đinh thị ngọc hiền</name>
+      <im>1476187308_dinh-thi-ngo-c-hie-n.png</im>
+      <gender>2</gender>
+      <phone>0985726749</phone>
+      <address>04 tôn đức thắng quận 1</address>
+      <city>30</city>
+      <dob>1998-3-1</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476187308</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>1</day>
+      <month>3</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.784223</lat>
+      <lng>106.70573</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ,thu ngân</title>
+      <experience>7</experience>
+      <category>14,15,29,31,35</category>
+      <type>2,6</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <skill>Giao tiếp tốt,cở i  mở,chăm chỉ,hoạt ngôn,goại hình ưa nhìn</skill>
+      <ui>5785</ui>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <about>Tôi là sinh viên trường đại học luật tphcm,học ngành ngôn ngữ anh.tôi có thể đáp ứng câc yêu cầu mà nhà hàng đưa ra và tin là sẽ hoàn thành tốt công việc được giao</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>219,221,262,162</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>221</strjo>
+  </savedjob>
+</information>

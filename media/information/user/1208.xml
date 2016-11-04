@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1208</id>
+      <email>huynhvanphu.ru@gmail.com</email>
+      <username/>
+      <name>Huỳnh Văn Phú</name>
+      <im>1009697259145528_phu-phu-phang.jpg</im>
+      <gender>1</gender>
+      <dob>1993-8-3</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471926210</created>
+      <day>3</day>
+      <month>8</month>
+      <year>1993</year>
+      <phone>01647651959</phone>
+      <address>Hẻm 108, nhà E5 Cộng Hòa Phường 4 Quận Tân Bình</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.806272</lat>
+      <lng>106.637795</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>1208</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>7</experience>
+      <category>15,35,36</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>vi,en,rs</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

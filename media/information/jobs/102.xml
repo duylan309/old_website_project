@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>102</id>
+    <ui>240</ui>
+    <ci>215</ci>
+    <ai>0</ai>
+    <ti>hello</ti>
+    <ta/>
+    <le>2</le>
+    <ty>2</ty>
+    <ex>7</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14,15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>9</st>
+    <pi>0</pi>
+    <la>en</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Tập trung trong công việc</keyword>
+    <ad/>
+    <location_id>16</location_id>
+    <lat>10.767517</lat>
+    <lng>10.767517</lng>
+    <de>2016-11-04</de>
+    <re>0000-00-00</re>
+    <cr>1469955999</cr>
+  </db>
+  <more>
+    <requirement/>
+    <description/>
+    <benefit/>
+    <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Tập trung trong công việc</keyword>
+  </more>
+  <userapplied>
+    <total>1</total>
+    <strui>125</strui>
+  </userapplied>
+</information>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>94</id>
+    <ui>240</ui>
+    <ci>215</ci>
+    <ai>0</ai>
+    <ti>demo</ti>
+    <ta/>
+    <le>5</le>
+    <ty>1</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>4000000</s1>
+    <s2>5000000</s2>
+    <s3>181</s3>
+    <s4>227</s4>
+    <lo>23</lo>
+    <co>for</co>
+    <ca>14,15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>9</st>
+    <pi>0</pi>
+    <la>ja</la>
+    <description>description 2</description>
+    <requirement>skill 1</requirement>
+    <benefit/>
+    <keyword>Honesty,Customer service,Problem-solving,Responsibility</keyword>
+    <ad>1, Tràng Tiền, Hoàn Kiếm</ad>
+    <lat>21.02390399999999</lat>
+    <lng>105.85827900000004</lng>
+    <de>2016-11-04</de>
+    <re>0000-00-00</re>
+    <cr>1469956012</cr>
+    <location_id>33</location_id>
+  </db>
+  <more>
+    <requirement>skill 1</requirement>
+    <description>description 2</description>
+    <benefit/>
+    <keyword>Honesty,Customer service,Problem-solving,Responsibility</keyword>
+  </more>
+  <userapplied>
+    <total>4</total>
+    <strui>125,259,299,303</strui>
+  </userapplied>
+</information>

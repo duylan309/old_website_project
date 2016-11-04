@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>621</id>
+      <email>nguyenvinh147852@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thành Vinh</name>
+      <im>528071057363161_vinh-nguyen.jpg</im>
+      <gender>1</gender>
+      <dob>1996-11-23</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470663624</created>
+      <day>23</day>
+      <month>11</month>
+      <year>1996</year>
+      <phone>0927523105</phone>
+      <address>Quận Gò Vấp</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8386779</lat>
+      <lng>106.6652904</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>621</ui>
+      <title>nhân viên phục vụ,pha chế</title>
+      <experience>7</experience>
+      <category>15,17</category>
+      <type>4,6</type>
+      <level>2</level>
+      <lang>en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>105</strjo>
+  </appliedjob>
+</information>

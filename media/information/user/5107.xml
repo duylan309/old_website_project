@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5107</id>
+      <email>nguyenhomaitram1997@gmail.com</email>
+      <username/>
+      <name>Nguyễn Hồ Mai Trâm</name>
+      <im>1075756069159418_nguyen-ho-mai-tram.jpg</im>
+      <gender>2</gender>
+      <dob>1997-11-21</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475736330</created>
+      <day>21</day>
+      <month>11</month>
+      <year>1997</year>
+      <last_signin>1475736330</last_signin>
+      <phone>01225036524</phone>
+      <address>101 Tôn Thất Đạm, Phường Bến Nghé</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.771919</lat>
+      <lng>106.702802</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1049>
+      <id>1049</id>
+      <title>Admin Intern</title>
+      <level>1</level>
+      <cmpname>CBRE</cmpname>
+      <city>HCM</city>
+      <country>Vietnam</country>
+      <from>6/2016</from>
+      <to>11/2016</to>
+    </n_1049>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>5107</ui>
+      <title>nhân viên phục vụ, pha chế, tiếp tân, cashier</title>
+      <experience>7</experience>
+      <category>14,15,17,29</category>
+      <type>2</type>
+      <level>1</level>
+      <lang>en</lang>
+      <s1>16000</s1>
+      <salary>1</salary>
+      <about>Dynamic, easy-going, friendly, good adaptation, can work under pressure.</about>
+      <skill>English communication, MS Office.</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <education>
+    <n_846>
+      <id>846</id>
+      <school>Pensacola State College</school>
+      <degrees>Associate</degrees>
+      <fieldofstudy>Computer Information System</fieldofstudy>
+      <from>2015</from>
+      <to>2020</to>
+    </n_846>
+  </education>
+  <appliedjob>
+    <total>25</total>
+    <strjo>201,172,162,211,252,409,294,364,353,247,459,427,349,371,268,275,222,63,519,100,518,482,529,64,410</strjo>
+  </appliedjob>
+</information>

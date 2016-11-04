@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>322</id>
+    <ui>2315</ui>
+    <name>Coffee Bike</name>
+    <url>coffeebike.vn</url>
+    <im>1024165570965299_coffee-bike.jpg</im>
+    <im_banner>1024165570965299_coffee-bike-cover.jpg</im_banner>
+    <category>15,17,35</category>
+    <phone>0838999710</phone>
+    <address>400, Ung Văn Khiêm, Bình Thạnh</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.8095465</lat>
+    <lng>106.71296810000001</lng>
+    <website>http://www.coffeebike.vn/</website>
+    <about/>
+    <facebook>https://www.facebook.com/coffeebike.vn/</facebook>
+    <facebook_cover/>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1473395066</created>
+  </db>
+  <more>
+    <about></about>
+    <whyworkus/>
+  </more>
+  <companybanner>322_untitled-1.png</companybanner>
+  <totalJob>
+    <total>1</total>
+    <strji>267</strji>
+  </totalJob>
+</information>

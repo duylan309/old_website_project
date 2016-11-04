@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1766</id>
+      <email>chauai.saigonese@gmail.com</email>
+      <username/>
+      <name>Huỳnh Ngọc Châu Ái</name>
+      <im>1766_img-0040.JPG</im>
+      <gender>2</gender>
+      <dob>1996-6-18</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472897934</created>
+      <day>18</day>
+      <month>6</month>
+      <year>1996</year>
+      <last_signin>1472897934</last_signin>
+      <phone>01265702889</phone>
+      <address>Trần Khắc Chân, Quận 1.</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7935108</lat>
+      <lng>106.6914966</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_280>
+      <id>280</id>
+      <school>Đại học Luật TP. HCM</school>
+      <degrees/>
+      <fieldofstudy>Thương mại - Dân sự - Quốc tế</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_280>
+  </education>
+  <experience>
+    <n_385>
+      <id>385</id>
+      <title>Nhân viên Part-time</title>
+      <level>1</level>
+      <cmpname>Vietopia</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>02/2015</from>
+      <to>06/2015</to>
+    </n_385>
+    <n_386>
+      <id>386</id>
+      <title>Nhân viên Part-time</title>
+      <level>1</level>
+      <cmpname>Nhà bánh 5 sao</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>07/2015</from>
+      <to>10/2015</to>
+    </n_386>
+    <n_387>
+      <id>387</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Nhà hàng tiệc cưới Minh Tâm</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>06/2015</from>
+      <to>05/2016</to>
+    </n_387>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>1766</ui>
+      <title>Tour guide, Trợ giảng tiếng Anh, Trợ giúp pháp lý, Waitress, Nhân viên bán hàng, Nhân viên pha chế,...</title>
+      <experience>7</experience>
+      <category>14,15,16,17,18,19,20,26,27,28,29,30,31,35,36</category>
+      <type>2,3,4,5,6</type>
+      <level>1,2,3</level>
+      <lang>vi,en,ja</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <skill>Tin học văn phòng, Anh ngữ</skill>
+      <keyword>Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Tinh thần làm việc nhóm,Tinh thần trách nhiệm</keyword>
+    </db>
+  </user_cv>
+</information>

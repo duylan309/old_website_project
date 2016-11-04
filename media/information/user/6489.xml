@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6489</id>
+      <email>phanbaotram1995@gmail.com</email>
+      <username/>
+      <name>Phan Thị BẢo Trâm</name>
+      <im>1476631531_phan-thi-bao-tram.png</im>
+      <gender>2</gender>
+      <phone>0908924389</phone>
+      <address>35 đường 6d, P. Phước Bình, Q9, TP.HCM</address>
+      <city>30</city>
+      <dob>1995-11-1</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476631531</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>1</day>
+      <month>11</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7764745</lat>
+      <lng>106.7008831</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>bán hàng, tiếp tân, kho,</title>
+      <experience>7</experience>
+      <category>14,15,16,17,20,29,31,35</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Tôi từng phụ việc tại các quán nước. Tôi có thể nói trước đám đông và tìm hiểu nhu cầu của khách hàng. </skill>
+      <ui>6489</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Tôi là người rất thích học hỏi và chăm chỉ. Hiện tại tôi là sinh viên của trường đại học kinh tế và tài chính TP.HCM. chuyên ngành Marketing khoa Quản trị kinh doanh năm 3. </about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>338,252,172,350,328</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>3</total>
+    <strjo>252,172,350</strjo>
+  </savedjob>
+</information>

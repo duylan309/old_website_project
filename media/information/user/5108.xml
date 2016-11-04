@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5108</id>
+      <email>davidthanghoang@gmail.com</email>
+      <username/>
+      <name>Hoàng Đức Thắng</name>
+      <im>5108_img-8632.JPG</im>
+      <gender>1</gender>
+      <phone>01223741048</phone>
+      <address>22A Đông Hưng Thuận, Nguyễn Văn Quá, Q.12, HCM</address>
+      <city>30</city>
+      <dob>1989-1-2</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475736515</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>2</day>
+      <month>1</month>
+      <year>1989</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.83818</lat>
+      <lng>106.6295756</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Đầu bếp chinh</title>
+      <experience>5</experience>
+      <category>14,20</category>
+      <type>1,4</type>
+      <level>4</level>
+      <lang>vi,en</lang>
+      <skill>-	Khả năng giao tiếp Tiếng Anh&#13;
+-	Cầu tiến và có tinh thần học hỏi&#13;
+-	Cẩn thận, trách nhiệm và nhạy bén với công việc&#13;
+-	Có khả năng làm việc trong môi trường có áp lực cao &#13;
+-	Có khả năng tổ chức và sắp xếp thời gian hiệu quả&#13;
+</skill>
+      <ui>5108</ui>
+      <s1>10000000</s1>
+      <salary>1</salary>
+      <about>Có 6 năm kinh nghiệm làm việc tại các nhà hàng , khách sạn, trung tâm hội nghị lớn của Hồ Chí Minh. Chuyên thực hiện các món Á ngoài ra cũng am hiểu và thực hiện những món Âu được học hỏi và tích luỹ trong khi làm việc với các đầu bếp người Sin, Pháp...Biết sắp xếp và tổ chức công việc. Ngoài ra luôn quan tâm đến yếu tố sạch sẽ và an toàn thực phẩm.</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>321</strjo>
+  </appliedjob>
+  <experience>
+    <n_1050>
+      <id>1050</id>
+      <title>Đầu bếp chính</title>
+      <level>1</level>
+      <cmpname>Công ty TNHH Khách Sạn Bến Thành Norfolk</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Vietnam</country>
+      <from>03/2014</from>
+      <to>Nay</to>
+    </n_1050>
+    <n_1051>
+      <id>1051</id>
+      <title>Đầu bếp</title>
+      <level>1</level>
+      <cmpname>Nhà hàng Khu Du Lịch Sinh Thái Mỹ Khánh</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Vietnam</country>
+      <from>10/2011</from>
+      <to>02/2013</to>
+    </n_1051>
+    <n_1052>
+      <id>1052</id>
+      <title>Nhân viên Bếp</title>
+      <level>1</level>
+      <cmpname>Trung tâm hội nghị White Palace</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Vietnam</country>
+      <from>10/2010</from>
+      <to>09/2011</to>
+    </n_1052>
+  </experience>
+  <education>
+    <n_845>
+      <id>845</id>
+      <school>Trung cấp nghề Sài Gòn Tourist</school>
+      <degrees>Nghề</degrees>
+      <fieldofstudy>Khá</fieldofstudy>
+      <from>03/2010</from>
+      <to>10/2010</to>
+    </n_845>
+  </education>
+</information>

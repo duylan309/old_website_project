@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4183</id>
+      <email>haonguyen0327@gmail.com</email>
+      <username/>
+      <name>Minh Đông</name>
+      <im>342583252742045_minh-dong.jpg</im>
+      <gender>2</gender>
+      <dob>02000-3-27</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475006640</created>
+      <day>27</day>
+      <month>3</month>
+      <year>02000</year>
+      <last_signin>1475006640</last_signin>
+      <phone>01262286845</phone>
+      <address>Lê lợi quận 1</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.773845</lat>
+      <lng>106.700372</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>4183</ui>
+      <title>Pha chế rượu</title>
+      <experience>1</experience>
+      <category>16</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Em đã làm pha chế tại nhà hàng đc 3 tháng</about>
+      <skill>Giao tiếp tốt</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>286,210</strjo>
+  </appliedjob>
+</information>

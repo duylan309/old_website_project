@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>49</id>
+    <ui>80</ui>
+    <ci>80</ci>
+    <ai>0</ai>
+    <ti>Assistant Chef</ti>
+    <ta/>
+    <le>3</le>
+    <ty>1</ty>
+    <ex>3</ex>
+    <sa>2</sa>
+    <sn>0</sn>
+    <s1>600</s1>
+    <s2>1000</s2>
+    <s3>13200000</s3>
+    <s4>22000000</s4>
+    <lo>30</lo>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>1</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <de>0000-00-00</de>
+    <re>0000-00-00</re>
+    <cr>1462780958</cr>
+  </db>
+  <more>
+    <number>5</number>
+    <description>1. Set and maintain par levels on all beverages.&#13;
+2. Daily stock orders/requisitions.&#13;
+3. Maintain equipment par level. Purchase equipment when required, with management authorization.&#13;
+4. Fill out all stock transfers.&#13;
+5. Fill out all spillage reports.&#13;
+6. Responsible for daily cleaning of the bar.&#13;
+7. Control all glassware, maintaining breakage reports, and liaise with the Stewarding Dept. to order more stock.&#13;
+8. Ensure a thorough knowledge of the workings of your Department.&#13;
+9. To understand and act on the duties pertaining to the opening of the bar.&#13;
+10. To understand the correct method of taking an order and dispensing in the correct manner.&#13;
+11. To implement correct portion control of beverage.&#13;
+12. To have a practical working knowledge of all equipment within the bar.&#13;
+13. To understand fundamental mixed drinks, cocktails and wines.&#13;
+14. Conduct the correct procedures to secure the bar.&#13;
+15. Monitor and understand production controls.&#13;
+16. To follow the correct method of handling returned drinks.&#13;
+17. Perform other duties as assigned by Supervisor / Manager.</description>
+    <requirement>Cheerful and friendly looking / Ngọai hình ưa nhìn và thân thiện.&#13;
+2. 1 year experience in similar position in restaurant or hotel, bar is an advantage / Kinh nghiệm 1&#13;
+năm làm việc ở vị trí tương đương tại nhà hàng hoặc khách sạn, bar.&#13;
+3. Able to communicate in English / Giao tiếp tiếng Anh cơ bản.&#13;
+4. Positive attitude and team working spirit / Có thái độ tích cực và tinh thần tập thể.&#13;
+5. Able to work night shift until 1am / Có thể làm đến 1 giờ khuya.</requirement>
+  </more>
+  <userapplied>
+    <total>2</total>
+    <strui>205,79</strui>
+  </userapplied>
+</information>

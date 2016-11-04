@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>22</id>
+      <email>bean@gmaill.com</email>
+      <username>thuetoday</username>
+      <name>The Coffee Bean</name>
+      <image/>
+      <gender>1</gender>
+      <dob>30-09-1990</dob>
+      <is_newletter>0</is_newletter>
+      <type>1</type>
+      <status>1</status>
+      <created>1455801413</created>
+      <im>22_bean-avatar.png</im>
+      <category>14,15</category>
+      <size>1</size>
+      <phone>098352564</phone>
+      <address>2-6 Bis Điện Biên Phủ, P.Đa Kao, Q1</address>
+      <city>30</city>
+      <website>http://www.coffeebean.com</website>
+      <facebook>https://www.facebook.com/CoffeeBeanVN/?fref=ts</facebook>
+      <fb_load_newfeed>2</fb_load_newfeed>
+      <fb_load_photo>2</fb_load_photo>
+    </db>
+  </userinfo>
+  <totalJob>10</totalJob>
+  <saveuser>
+    <total>2</total>
+    <strui>3,79</strui>
+  </saveuser>
+  <userbanner>22_bean-cover.png</userbanner>
+</information>

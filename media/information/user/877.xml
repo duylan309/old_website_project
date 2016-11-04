@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>877</id>
+      <email>hoaan4396@gmail.com</email>
+      <username/>
+      <name>Bùi An Hòa</name>
+      <im>877_img-4065.JPG</im>
+      <gender>2</gender>
+      <phone>0935982933</phone>
+      <address>29/6 đường số 6 quốc lộ 13 phường hiệp bình chánh, quận thủ đức</address>
+      <city>30</city>
+      <dob>1996-3-4</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471358461</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>4</day>
+      <month>3</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8332914</lat>
+      <lng>106.7140922</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,17</category>
+      <type>4,5,6</type>
+      <level>1,2</level>
+      <lang>en,ja</lang>
+      <skill/>
+      <ui>877</ui>
+      <s1>1500000</s1>
+      <salary>1</salary>
+      <keyword>Nhiệt tình,Tinh thần làm việc nhóm,Trung thực</keyword>
+      <about/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>7</total>
+    <strjo>150,82,371,323,312,504,162</strjo>
+  </appliedjob>
+  <education>
+    <n_142>
+      <id>142</id>
+      <school>Đại học Luật TP. Hồ Chí Minh</school>
+      <degrees/>
+      <fieldofstudy>Luật Quốc tế</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_142>
+  </education>
+</information>

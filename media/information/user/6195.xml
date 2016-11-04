@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6195</id>
+      <email>duchung611@gmail.com</email>
+      <username/>
+      <name>Kun Zakvan</name>
+      <im>916913445108381_kun-zakvan.jpg</im>
+      <gender>1</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476421918</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1254>
+      <id>1254</id>
+      <title>Nhân viên</title>
+      <level>1</level>
+      <cmpname>Trung nguyên</cmpname>
+      <city>Hồ chí minh</city>
+      <country>Việt nam</country>
+      <from>5/2014</from>
+      <to>12/2015</to>
+    </n_1254>
+  </experience>
+</information>

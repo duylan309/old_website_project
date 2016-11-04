@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>224</id>
+    <ui>1609</ui>
+    <ci>300</ci>
+    <ai>0</ai>
+    <ti>Nhân viên phục vụ</ti>
+    <ta/>
+    <le>2</le>
+    <ty>6</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>2500000</s1>
+    <s2>3000000</s2>
+    <s3>113</s3>
+    <s4>136</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>1</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description>• Bán thời gian: 4-6 tiếng/ngày.\r\n• Toàn thời gian: 8 tiếng/ngày.\r\nNhận order từ khách\r\nKiểm tra món ăn trước khi phục vụ \r\nSẵn sàng trả lời mọi thắc mắc từ khách hàng \r\nThay dọn bàn mới \r\nLuôn giữ vệ sinh \r\nBảo quản tài sản chung </description>
+    <requirement>Biết tiếng anh là 1 lợi thế \r\nTrung thực - nhanh nhẹn - sạch sẽ \r\nKỹ năng giao tiếp,  ứng xử tốt,</requirement>
+    <benefit>Mức lương : 12k-15k/1h. Có trợ cấp cơm \r\nTip chia đều cho nhân viên \r\nLàm việc linh động thời gian \r\nNghỉ 1 ngày trong tuần \r\nĐược nghỉ ngơi lúc vắng khách \r\nLàm tốt sẽ có thưởng </benefit>
+    <keyword>Trung thực,Tự tin,Nhiệt tình,Kỹ năng giải quyết tình huống</keyword>
+    <ad/>
+    <location_id>127</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-09-30</de>
+    <re>0000-00-00</re>
+    <cr>1474642867</cr>
+  </db>
+  <more>
+    <requirement>Biết tiếng anh là 1 lợi thế &#13;
+Trung thực - nhanh nhẹn - sạch sẽ &#13;
+Kỹ năng giao tiếp,  ứng xử tốt,</requirement>
+    <description>• Bán thời gian: 4-6 tiếng/ngày.&#13;
+• Toàn thời gian: 8 tiếng/ngày.&#13;
+Nhận order từ khách&#13;
+Kiểm tra món ăn trước khi phục vụ &#13;
+Sẵn sàng trả lời mọi thắc mắc từ khách hàng &#13;
+Thay dọn bàn mới &#13;
+Luôn giữ vệ sinh &#13;
+Bảo quản tài sản chung </description>
+    <benefit>Mức lương : 12k-15k/1h. Có trợ cấp cơm &#13;
+Tip chia đều cho nhân viên &#13;
+Làm việc linh động thời gian &#13;
+Nghỉ 1 ngày trong tuần &#13;
+Được nghỉ ngơi lúc vắng khách &#13;
+Làm tốt sẽ có thưởng </benefit>
+    <keyword>Trung thực,Tự tin,Nhiệt tình,Kỹ năng giải quyết tình huống</keyword>
+  </more>
+  <userapplied>
+    <total>11</total>
+    <strui>355,1842,1880,1886,1480,2332,2473,2510,3201,292,425</strui>
+  </userapplied>
+</information>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1795</id>
+      <email>phuongphuong5915@gmail.com</email>
+      <username/>
+      <name>Tran Hue Phuong</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01225654556</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472924961</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>pha che</title>
+      <experience>1</experience>
+      <category>14,15,20,26,27</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>en</lang>
+      <skill/>
+      <ui>1795</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>202</strjo>
+  </appliedjob>
+</information>

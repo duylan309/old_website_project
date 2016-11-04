@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6665</id>
+      <email>thaonth07@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Hồng Thảo</name>
+      <im>1476770246_nguyen-thi-hong-thao.png</im>
+      <gender>2</gender>
+      <phone>01203907753</phone>
+      <address>25/28 Thành Mỹ, F.6, Q. Tân bình</address>
+      <city>30</city>
+      <dob>1993-4-7</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476770246</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>7</day>
+      <month>4</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7817086</lat>
+      <lng>106.6534758</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>phụ bếp Á</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>- Kỹ năng dao thớt.&#13;
+- Kỹ năng nhận biết và bảo quản các nguyên vật liệu trong bếp.&#13;
+- Kỹ năng đọc hiểu captain.&#13;
+- Kỹ năng làm việc nhóm.</skill>
+      <ui>6665</ui>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <about>Tốt nghiệp loại khá, chuyên ngành Kỹ thuật Nữ công, trường ĐH Sư Phạm Kỹ Thuật TP.HCM.&#13;
+Bản thân là "người có tính cầu tiến, ham học hỏi và chịu khó" theo nhận xét của cấp trên và đồng nghiệp làm chung.&#13;
+Là một người có sự đam mê và thích thú khi làm việc trong môi trường nhà hàng, khách sạn.&#13;
+</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>277,256,400</strjo>
+  </appliedjob>
+  <experience>
+    <n_1336>
+      <id>1336</id>
+      <title>Thực tập sinh bếp, Barista, phụ bếp.</title>
+      <level>1</level>
+      <cmpname>Pandanus Resort Mũi Né, Công ty TNHH The Kafe CN Miền Nam, Công ty cổ phần WRAP&amp; ROLL.</cmpname>
+      <city>HCM</city>
+      <country>VIỆT NAM</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_1336>
+  </experience>
+  <education>
+    <n_1097>
+      <id>1097</id>
+      <school>ĐH Sư Phạm Kỹ Thuật TP.HCM</school>
+      <degrees>Đại học </degrees>
+      <fieldofstudy>Kỹ Thuật Nữ Công</fieldofstudy>
+      <from>2011</from>
+      <to>2015</to>
+    </n_1097>
+  </education>
+</information>

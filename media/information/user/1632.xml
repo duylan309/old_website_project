@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1632</id>
+      <email>vipmocayvn192@gmail.com</email>
+      <username/>
+      <name>Olivia Lauren</name>
+      <im>687153774772568_olivia-lauren.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472693729</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+      <last_signin>1472693729</last_signin>
+    </db>
+  </userinfo>
+  <experience>
+    <n_354>
+      <id>354</id>
+      <title>lễ tân</title>
+      <level>1</level>
+      <cmpname>vista an phú</cmpname>
+      <city>ho chi minh</city>
+      <country>viet nam</country>
+      <from>4/2016</from>
+      <to>7/2016</to>
+    </n_354>
+  </experience>
+</information>

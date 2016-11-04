@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7306</id>
+      <email>minh.nguyen0693@gmail.com</email>
+      <username/>
+      <name>Nguyễn Nhật Minh</name>
+      <im>1477149444_nguyen-nhat-minh.png</im>
+      <gender>1</gender>
+      <phone>0902904252</phone>
+      <address>108 Phan Văn Trị Phường 12 Quận Bình Thạnh</address>
+      <city>30</city>
+      <dob>1993-6-20</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477149444</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>20</day>
+      <month>6</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.808858</lat>
+      <lng>106.696783</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân Viên Bếp</title>
+      <experience>2</experience>
+      <category>14,15,20</category>
+      <type>1,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>trang trí điêu khắc rau củ quả</skill>
+      <ui>7306</ui>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <about>2013 đến 2015 làm việc tại khách sạn New Saigon Hotle&#13;
+2015 đến 2016 nhân viên bếp chính tại Mường Thanh Sài Gòn Center&#13;
+2016 đến nay bếp chình tại Bay Ho Chi Minh Hotel</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>136,200</strjo>
+  </appliedjob>
+  <education>
+    <n_1188>
+      <id>1188</id>
+      <school>Cao Đẳng Nghề Việt Úc</school>
+      <degrees>Tín Chỉ Nghề</degrees>
+      <fieldofstudy>Bếp</fieldofstudy>
+      <from>2013</from>
+      <to>2014</to>
+    </n_1188>
+  </education>
+  <experience>
+    <n_1436>
+      <id>1436</id>
+      <title>Cook</title>
+      <level>1</level>
+      <cmpname>Bay Ho Chi Minh Hotel</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Singapo</country>
+      <from>2016</from>
+      <to>hiện tại</to>
+    </n_1436>
+  </experience>
+</information>

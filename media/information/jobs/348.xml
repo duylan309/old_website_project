@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>348</id>
+    <ui>4041</ui>
+    <ci>360</ci>
+    <ai>0</ai>
+    <ti>Nhân viên phục vụ Quận 1</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1,4</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>4000000</s1>
+    <s2>5000000</s2>
+    <s3>181</s3>
+    <s4>227</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description>- Chuẩn bị bàn, đảm bảo bàn ăn sạch sẽ và thoải mái\r\n- Đón tiếp khách hàng\r\n- Nhận order\r\n- Làm đồ uống\r\n- Phục vụ thức ăn, đồ uống, tráng miệng một cách nhanh chóng\r\n- Giao tiếp với khách hàng trong suốt bữa ăn để đảm bảo khách hàng được phục vụ tốt nhất\r\n- Mang hóa đơn và nhận thanh toán nhanh chóng\r\n- Hướng dẫn nhân viên mới\r\n- Giữ vệ sinh khu vực được phân công\r\nCa làm việc: \r\n- Ca 1: 08:00 - 16:30\r\n- Ca 2: 14:30 - 23:00\r\n</description>
+    <requirement>- Có khả năng giao tiếp bằng tiếng Anh, làm việc trong môi trường nhiều khách nước ngoài (điều kiện cần thiết)\r\n- Thái độ làm việc chuyên nghiệp, có trách nhiệm\r\n- Chăm chỉ, trung thực, nhanh nhẹn\r\n- Làm việc nhóm tốt</requirement>
+    <benefit>Phúc lợi:\r\n- Tiền Tip hàng tháng\r\n- Thưởng doanh số hàng tháng, thưởng chuyên cần, thưởng Tết\r\n- Phụ cấp giữ xe, làm thêm giờ, 1 bữa ăn/ngày\r\n- Cơ hội học hỏi và phát triển sự nghiệp trong ngành dịch vụ nhà hàng</benefit>
+    <keyword>Tinh thần trách nhiệm,Chịu được áp lực công việc,Tinh thần làm việc nhóm</keyword>
+    <ad/>
+    <location_id>232</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-12-31</de>
+    <re>0000-00-00</re>
+    <cr>1477280228</cr>
+  </db>
+  <more>
+    <requirement>- Có khả năng giao tiếp bằng tiếng Anh, làm việc trong môi trường nhiều khách nước ngoài (điều kiện cần thiết)&#13;
+- Thái độ làm việc chuyên nghiệp, có trách nhiệm&#13;
+- Chăm chỉ, trung thực, nhanh nhẹn&#13;
+- Làm việc nhóm tốt</requirement>
+    <description>- Chuẩn bị bàn, đảm bảo bàn ăn sạch sẽ và thoải mái&#13;
+- Đón tiếp khách hàng&#13;
+- Nhận order&#13;
+- Làm đồ uống&#13;
+- Phục vụ thức ăn, đồ uống, tráng miệng một cách nhanh chóng&#13;
+- Giao tiếp với khách hàng trong suốt bữa ăn để đảm bảo khách hàng được phục vụ tốt nhất&#13;
+- Mang hóa đơn và nhận thanh toán nhanh chóng&#13;
+- Hướng dẫn nhân viên mới&#13;
+- Giữ vệ sinh khu vực được phân công&#13;
+Ca làm việc: &#13;
+- Ca 1: 08:00 - 16:30&#13;
+- Ca 2: 14:30 - 23:00&#13;
+</description>
+    <workhour/>
+    <benefit>Phúc lợi:&#13;
+- Tiền Tip hàng tháng&#13;
+- Thưởng doanh số hàng tháng, thưởng chuyên cần, thưởng Tết&#13;
+- Phụ cấp giữ xe, làm thêm giờ, 1 bữa ăn/ngày&#13;
+- Cơ hội học hỏi và phát triển sự nghiệp trong ngành dịch vụ nhà hàng</benefit>
+    <keyword>Tinh thần trách nhiệm,Chịu được áp lực công việc,Tinh thần làm việc nhóm</keyword>
+  </more>
+  <userapplied>
+    <total>51</total>
+    <strui>3723,4207,292,4609,2786,4133,4566,4690,4865,4150,4724,5111,5222,5232,3120,5526,4601,3756,5847,5879,5954,6003,6065,6243,6527,4833,3268,6623,6500,6824,6915,7039,7066,562,7451,7468,7038,7649,3334,6279,7792,7795,7857,7866,7868,7879,7887,7990,7805,8079,8083</strui>
+  </userapplied>
+</information>

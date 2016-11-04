@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6777</id>
+      <email>nguyenngocthaonguyen420@gmail.com</email>
+      <username/>
+      <name>Nguyễn Đức Phú</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01668025108</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476857396</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, pha chế</title>
+      <experience>7</experience>
+      <category>14,15,17,18,27,29,31,35</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>6777</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>202,105,304</strjo>
+  </appliedjob>
+</information>

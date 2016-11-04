@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>8003</id>
+      <email>ngoisaoxinh_kape@yahoo.com</email>
+      <username/>
+      <name>Bảo Khuê</name>
+      <im>1108092309311908_bao-khue.jpg</im>
+      <gender>2</gender>
+      <dob>1996-7-27</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477583408</created>
+      <day>27</day>
+      <month>7</month>
+      <year>1996</year>
+      <last_signin>1477583408</last_signin>
+      <phone>0909536010</phone>
+      <address>78/33A, Cống Lỡ, P15, Tân Bình</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8271531</lat>
+      <lng>106.6394698</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1559>
+      <id>1559</id>
+      <title>Tân Bình</title>
+      <level>1</level>
+      <cmpname>Biznet Cafe &amp; Shop</cmpname>
+      <city>TP.HCM</city>
+      <country>Việt Nam</country>
+      <from>tháng 6</from>
+      <to>tháng 9/201678</to>
+    </n_1559>
+  </experience>
+  <education>
+    <n_1297>
+      <id>1297</id>
+      <school>Đại học văn hóa nghệ thuật quân đội</school>
+      <degrees>sinh viên</degrees>
+      <fieldofstudy>báo chí</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_1297>
+  </education>
+  <user_cv>
+    <db>
+      <ui>8003</ui>
+      <title>Nhân viên phục vụ , thu ngân</title>
+      <experience>1</experience>
+      <category>15,29</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>sinh viên năm 3 Khóa Báo chí, mong muốn kiếm việc làm ngoài giờ có thêm thu nhập</about>
+      <skill>nhanh nhẹn. chịu khó học hỏi</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

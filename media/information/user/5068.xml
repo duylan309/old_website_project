@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5068</id>
+      <email>yen81498@gmail.com</email>
+      <username/>
+      <name>Nguyễn Hoàng Yến</name>
+      <im>1475690208_nguyen-hoang-yen.png</im>
+      <gender>0</gender>
+      <phone>0916153123</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475690208</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>29</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>5068</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>291</strjo>
+  </appliedjob>
+</information>

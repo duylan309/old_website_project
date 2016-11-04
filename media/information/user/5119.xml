@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5119</id>
+      <email>nelly0ver@yahoo.com</email>
+      <username/>
+      <name>Tran Van Duy Phuc</name>
+      <im>5119_14523135-985548568257954-8036744533632719983-n.jpg</im>
+      <gender>1</gender>
+      <phone>01264369123</phone>
+      <address>143/14/20D khu pho 4 P.tan thuan tay Q7</address>
+      <city>30</city>
+      <dob>1996-1-10</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475741624</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1475741624</last_signin>
+      <day>10</day>
+      <month>1</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7471491</lat>
+      <lng>106.7186598</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>5119</ui>
+      <title>bep chinh</title>
+      <experience>2</experience>
+      <category>14</category>
+      <type>4,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <about/>
+      <skill>bep a va bep hoa</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>276,272,137,125,153,191</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>4</total>
+    <strjo>272,137,125,191</strjo>
+  </savedjob>
+</information>

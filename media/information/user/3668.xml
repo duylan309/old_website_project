@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3668</id>
+      <email>jaydenphanhoang@gmail.com</email>
+      <username/>
+      <name>Huỳnh Thanh Vy</name>
+      <im>3668_img-6388.JPG</im>
+      <gender>2</gender>
+      <dob>1995-10-5</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474747415</created>
+      <day>5</day>
+      <month>10</month>
+      <year>1995</year>
+      <last_signin>1474747415</last_signin>
+      <phone>0938002063</phone>
+      <address>406 Võ Văn Kiệt, Phường Cô Giang, Quận 1</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7554833</lat>
+      <lng>106.6882745</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_818>
+      <id>818</id>
+      <title>Freelance Designer</title>
+      <level>1</level>
+      <cmpname>iWi Shirt</cmpname>
+      <city/>
+      <country/>
+      <from>01/2014</from>
+      <to>09/2016</to>
+    </n_818>
+    <n_1440>
+      <id>1440</id>
+      <title>Phụ bếp</title>
+      <level>1</level>
+      <cmpname>Sheraton Saigon Hotel</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>07/2015</from>
+      <to>09/2015</to>
+    </n_1440>
+    <n_1441>
+      <id>1441</id>
+      <title>Freelance Tour Guide</title>
+      <level>1</level>
+      <cmpname>Private Vietnam Tour Guide</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>11/2014</from>
+      <to>Recent</to>
+    </n_1441>
+  </experience>
+  <education>
+    <n_600>
+      <id>600</id>
+      <school>ĐH KHXH&amp;NV</school>
+      <degrees>Đại Học</degrees>
+      <fieldofstudy>Ngôn ngữ Anh</fieldofstudy>
+      <from>04/2016</from>
+      <to>04/2020</to>
+    </n_600>
+    <n_601>
+      <id>601</id>
+      <school>ĐH Tôn Đức Thắng</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Ngôn ngữ Trung Quốc</fieldofstudy>
+      <from>11/2013</from>
+      <to>11/2017</to>
+    </n_601>
+  </education>
+  <user_cv>
+    <db>
+      <ui>3668</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,16,18,19,20,26,27,28,29,35,36</category>
+      <type>2,4,5,6</type>
+      <level>1,2</level>
+      <lang>vi,en,ch</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>21</total>
+    <strjo>132,278,301,252,296,202,222,105,459,465,405,275,130,387,238,294,473,199,455,163,247</strjo>
+  </appliedjob>
+  <savedjob/>
+</information>

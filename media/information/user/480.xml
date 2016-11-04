@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>480</id>
+      <email>chiptersngocquyen167@gmail.com</email>
+      <username/>
+      <name>Lê đào ngọc quyên</name>
+      <im>971979139597496_chipters-le-dao.jpg</im>
+      <gender>2</gender>
+      <dob>1996-7-16</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470223643</created>
+      <day>16</day>
+      <month>7</month>
+      <year>1996</year>
+      <phone>0934094237</phone>
+      <address>3153/32 phạM thế hiển phường 7 quận 8</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.712613</lat>
+      <lng>106.6298429</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_95>
+      <id>95</id>
+      <title>Làm bếp</title>
+      <level>1</level>
+      <cmpname>Wakadaishyo</cmpname>
+      <city>Ho chi minh</city>
+      <country>Viet nam</country>
+      <from>Tháng 3 2015</from>
+      <to>Tháng 9 2015</to>
+    </n_95>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>480</ui>
+      <title>Làm bếp</title>
+      <experience>1</experience>
+      <category>14,15,20</category>
+      <type>2,5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng giải quyết tình huống,Tinh thần trách nhiệm,Tập trung trong công việc,Kỹ năng chăm sóc khách hàng,Chịu được áp lực công việc,Tự tin,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>104,191,114</strjo>
+  </appliedjob>
+</information>

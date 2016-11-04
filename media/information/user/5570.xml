@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5570</id>
+      <email>angel_of_me_td@yahoo.com.vn</email>
+      <username/>
+      <name>Thúy Diễm</name>
+      <im>687974258025279_thuy-diem.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476086951</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>BÁN THỜI GIAN</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>5570</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>100,408</strjo>
+  </appliedjob>
+</information>

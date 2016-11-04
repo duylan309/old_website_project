@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>614</id>
+      <email>dtpuyenkt@gmail.com</email>
+      <username/>
+      <name>Đặng Thị Phương Uyên</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0942990894</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470643499</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,16,29</category>
+      <type>1,2</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill>Giao tiếp, làm việc nhóm, </skill>
+      <ui>614</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>105</strjo>
+  </appliedjob>
+</information>

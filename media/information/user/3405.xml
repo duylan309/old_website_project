@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3405</id>
+      <email>nguyendangnhuquynh.h@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Như Quỳnh</name>
+      <im>1761305284136760_nguyen-dang-nhu-quynh.jpg</im>
+      <gender>2</gender>
+      <dob>1996-7-28</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474604952</created>
+      <day>28</day>
+      <month>7</month>
+      <year>1996</year>
+      <phone>098 987 19 03</phone>
+      <address>35/18 Đường số 12 - P.Hiệp Bình Chánh - Q.Thủ Đức</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8335249</lat>
+      <lng>106.7157397</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill></skill>
+      <ui>3405</ui>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>Tôi lớn lên ở Cần Thơ. Gia đình tôi kinh doanh quán ăn đã lâu đời, vì thế tôi đã được trải qua công việc vất vả từ nhỏ. Nó rèn cho tôi sự chịu khó và kiên trì bền bỉ. Cám ơn gia đình tôi. Tôi thích được học hỏi những cái mới, được trải nghiệm những điều tôi thích và được kiếm tiền.</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>199,301</strjo>
+  </appliedjob>
+  <experience>
+    <n_757>
+      <id>757</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Nhà hàng Glorious</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_757>
+  </experience>
+  <education>
+    <n_555>
+      <id>555</id>
+      <school>Đại Học Công Nghệ TPHCM</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Quản Trị Khách Sạn</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_555>
+  </education>
+</information>

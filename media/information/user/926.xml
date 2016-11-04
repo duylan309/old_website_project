@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>926</id>
+      <email>nguyenhuyhieu38@yahoo.com.vn</email>
+      <username/>
+      <name>Hiệu Nguyễn</name>
+      <im>628717677309084_hieu-nguyen.jpg</im>
+      <gender>1</gender>
+      <dob>1998-12-12</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471438097</created>
+      <day>12</day>
+      <month>12</month>
+      <year>1998</year>
+      <phone>01662177851</phone>
+      <address>66M, đường HT12, phường Hiệp Thành, quận 12</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8825023</lat>
+      <lng>106.6379724</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15</category>
+      <type>2,5,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill></skill>
+      <ui>926</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>158</strjo>
+  </appliedjob>
+</information>

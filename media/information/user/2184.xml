@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2184</id>
+      <email>caohoangminh95@gmail.com</email>
+      <username/>
+      <name>CAO HOÀNG MINH</name>
+      <im>1473274689_cao-hoa-ng-minh.jpg</im>
+      <gender>0</gender>
+      <phone>0938962750</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473274689</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Muốn học hỏi, trau dồi kinh nghiệm về lĩnh vực coffee từ những đàn Anh/Chị đi trước từ đó ta rút ra kinh nghiệm thực tiễn</skill>
+      <ui>2184</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>172,249</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>249</strjo>
+  </savedjob>
+</information>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4544</id>
+      <email>thaonguyenvo.sp@gmail.com</email>
+      <username/>
+      <name>Nguyễn Võ Hồng Thảo</name>
+      <im>1475290428_nguyen-vo-hong-thao.png</im>
+      <gender>2</gender>
+      <phone>0937120720</phone>
+      <address>418/2 Phan Xích Long, p2, q.Phú Nhuận</address>
+      <city>30</city>
+      <dob>1993-2-26</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475290427</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>26</day>
+      <month>2</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.799022</lat>
+      <lng>106.685139</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Bartender</title>
+      <experience>1</experience>
+      <category>16</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>en</lang>
+      <skill></skill>
+      <ui>4544</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Xin chào anh/chị,&#13;
+Em tên là Thảo, năm nay 23 tuổi.&#13;
+Thông qua mạng Internet em được biết thông tin bên anh chị đang cần tuyển nữ pha chế. &#13;
+ Em xin gửi anh chị CV của em. Hy vọng anh chị bỏ chút thời gian xem qua. &#13;
+Em xin cám ơn </about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>210</strjo>
+  </appliedjob>
+  <experience>
+    <n_966>
+      <id>966</id>
+      <title>Bartender</title>
+      <level>1</level>
+      <cmpname>Wild Horses, The Society</cmpname>
+      <city/>
+      <country>Hồ Chí Minh</country>
+      <from>02/2016</from>
+      <to>09/2016</to>
+    </n_966>
+  </experience>
+</information>

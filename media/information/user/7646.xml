@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7646</id>
+      <email>nhanso4011@gmail.com</email>
+      <username/>
+      <name>SÔ THANH NHÀN</name>
+      <im>1477373946_so-thanh-nha-n.png</im>
+      <gender>1</gender>
+      <phone>01664451050</phone>
+      <address>56 nguyễn công trứ p.19,D.Bình Thạnh</address>
+      <city>30</city>
+      <dob>1994-3-19</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477373946</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>19</day>
+      <month>3</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.791342</lat>
+      <lng>106.71005</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên pha chế</title>
+      <experience>3</experience>
+      <category>14,15,20</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>pha chế cá c loại thứ c uống hiện đại:&#13;
+ Ice blended (thứ c uống đá xay)&#13;
+ Shake (thứ c uống lắc)&#13;
+ Smoothies (sinh tố hiêṇ đaị )&#13;
+ Italia Soda (soda Ý)&#13;
+ Espresso (cà phê má y)&#13;
+pha chế cá c loại thứ c uống truyền thống:&#13;
+ Traditional Vietnamese coffee (Cà phê truyền thống)&#13;
+ Traditional Vietnamese tea (Trà truyền thống)&#13;
+ Vietnamese smoothies (Sinh tố)&#13;
+ Juice (Nướ c ép trái cây)&#13;
+ Fruit(Trá i cây dầm)&#13;
+Tiếng Anh - Khả năng giao tiếp Tiếng Anh&#13;
+Xử lý tiǹ h huố ng -Ky ̃ năng giao tiế p và thương lượng</skill>
+      <ui>7646</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Tên tôi là Nhàn năm nay tôi 22 tuổi,đang theo học tại đại học công nghiệp thực phẩm tp.hcm.&#13;
+Theo cảm nhận từ phía bạn bè thì tôi là một người có thể để người khác đặt sự tin tưởng. Tôi là một người chăm chỉ và quyết liệt.Rất thích được tiếp xúc với những người thành công để hoàn thiện bản thân mình.Qua nhiều năm làm thêm trong nghành pha chế tôi đã tích lũy được nhiều kinh nghiệm cũng như kỹ năng ngày càng chuyên nghiệp hơn.Hơn thế tôi cũng rất thích học hỏi những điều mới lạ và hay để ngày càng hoàn thiện kỹ năng và phát triển được đam mê của mình.</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>466</strjo>
+  </appliedjob>
+  <education>
+    <n_1245>
+      <id>1245</id>
+      <school>ĐẠI HỌC CÔNG NGHIỆP THỰC PHẨM TP.HCM</school>
+      <degrees/>
+      <fieldofstudy>QUẢN TRỊ NHÀ HÀNG-KHÁCH SẠN</fieldofstudy>
+      <from>2014</from>
+      <to>2017</to>
+    </n_1245>
+  </education>
+  <experience>
+    <n_1494>
+      <id>1494</id>
+      <title>180a pasteur,D.1 hcmc</title>
+      <level>1</level>
+      <cmpname>Thức coffee and bazaar lounge</cmpname>
+      <city>HỒ CHÍ MINH</city>
+      <country>VIỆT NAM</country>
+      <from>2012</from>
+      <to>2014</to>
+    </n_1494>
+    <n_1495>
+      <id>1495</id>
+      <title>257 TRẦN HƯNG ĐẠO,D1,HCMC</title>
+      <level>1</level>
+      <cmpname>MYLIFE COFFEE</cmpname>
+      <city>HỒ CHÍ MINH</city>
+      <country>VIỆT NAM</country>
+      <from>2014</from>
+      <to>2015</to>
+    </n_1495>
+    <n_1496>
+      <id>1496</id>
+      <title>235 ĐỒNG KHỞI,D1,HCMC</title>
+      <level>1</level>
+      <cmpname>NEWYORK AND DESSERT CAFE</cmpname>
+      <city>HỒ CHÍ MINH</city>
+      <country>VIỆT NAM</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_1496>
+    <n_1497>
+      <id>1497</id>
+      <title>170A TRƯƠNG ĐỊNH,D.3,HCMC</title>
+      <level>1</level>
+      <cmpname>THE FACTORY COFFEE</cmpname>
+      <city>HỒ CHÍ MINH</city>
+      <country>VIỆT NAM</country>
+      <from>04/2016</from>
+      <to>11/2016</to>
+    </n_1497>
+  </experience>
+</information>

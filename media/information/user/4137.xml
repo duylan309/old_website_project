@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4137</id>
+      <email>thanhsangvo2310@gmail.com</email>
+      <username/>
+      <name>Sang Võ Thanh</name>
+      <im>314096318955553_sang-vo-thanh.jpg</im>
+      <gender>1</gender>
+      <dob>1996-10-23</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474984016</created>
+      <day>23</day>
+      <month>10</month>
+      <year>1996</year>
+      <phone>01627711799</phone>
+      <address>125/181/16 f2 quận 8, Nguyễn thị tần</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.745361</lat>
+      <lng>106.68714</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng onl</title>
+      <experience>1</experience>
+      <category>17,26,29,35</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill></skill>
+      <ui>4137</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>124</strjo>
+  </appliedjob>
+</information>

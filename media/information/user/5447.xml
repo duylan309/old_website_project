@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5447</id>
+      <email>jancyvo.1113@gmail.com</email>
+      <username/>
+      <name>Nguyễn Phan Ngọc Hân</name>
+      <im>1690321981285641_nguyen-phan-ngoc-han.jpg</im>
+      <gender>2</gender>
+      <dob>1998-1-12</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475987909</created>
+      <day>12</day>
+      <month>1</month>
+      <year>1998</year>
+      <phone>0971629881</phone>
+      <address>Số 129, đường Tôn Đản, phường 12, quận 4. Thành phố Hồ Chí Minh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.758898</lat>
+      <lng>106.706921</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, cashier</title>
+      <experience>7</experience>
+      <category>14,15</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>giao tiếp, bán hàng, phục vụ </skill>
+      <ui>5447</ui>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <about>Tôi hiện là sinh viên năm nhất khóa k41 luật Quốc Tế trường Đại học Luật thành phố Hồ Chí Minh. Mặc dù chưa có nhiều kinh nghiệm việc làm nhưng tôi muốn thử sức ngay khi còn là sinh viên năm nhất để trang bị cho bản thân sau này. Tôi là người vui tính, thân thiện, chịu khó học hỏi nhưng bên cạnh đó tôi vẫn còn tồn tại nhiều khuyết điểm nên tôi muốn cải thiện bằng cách đi làm thêm để trau dồi vốn sống cho mình. </about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>162,202,371</strjo>
+  </appliedjob>
+  <education>
+    <n_905>
+      <id>905</id>
+      <school>Đại học Luật thành phố Hồ Chí Minh </school>
+      <degrees>chưa tốt nghiệp </degrees>
+      <fieldofstudy>Luật Quốc Tế</fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_905>
+  </education>
+</information>

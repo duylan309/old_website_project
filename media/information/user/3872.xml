@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3872</id>
+      <email>Hoangphucle2310@gmail.com</email>
+      <username/>
+      <name>Lê hoàng phúc</name>
+      <im/>
+      <gender>1</gender>
+      <phone>01269783597</phone>
+      <address>186 pham huu lau </address>
+      <city>30</city>
+      <dob>1997-10-23</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474880819</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>23</day>
+      <month>10</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7043587</lat>
+      <lng>106.7310187</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,35</category>
+      <type>2</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>3872</ui>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>219,293</strjo>
+  </appliedjob>
+</information>

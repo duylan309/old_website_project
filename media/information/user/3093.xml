@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3093</id>
+      <email>Tranthibichngoc1411@gmail.com</email>
+      <username/>
+      <name>Tii Ngoann</name>
+      <im>622748154599235_tii-ngoann.jpg</im>
+      <gender>2</gender>
+      <dob>1996-11-14</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474272085</created>
+      <day>14</day>
+      <month>11</month>
+      <year>1996</year>
+      <phone>01634447886</phone>
+      <address>102 Thích Quảng Đức, Phường 5, Quận Phú Nhuận</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.80465</lat>
+      <lng>106.6831826</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15</category>
+      <type>4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Kỹ năng giao tiếp ửng xử với khách hàng, kỹ năng phục vụ...</skill>
+      <ui>3093</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>238</strjo>
+  </appliedjob>
+</information>

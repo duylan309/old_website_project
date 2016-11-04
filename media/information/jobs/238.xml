@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>238</id>
+    <ui>297</ui>
+    <ci>221</ci>
+    <ai>0</ai>
+    <ti>Food Runner</ti>
+    <ta/>
+    <le>2</le>
+    <ty>4</ty>
+    <ex>1,7</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>4000000</s1>
+    <s2>4500000</s2>
+    <s3>181</s3>
+    <s4>204</s4>
+    <lo></lo>
+    <co>vn</co>
+    <ca>14,16</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>1</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description>- Dọn dẹp bàn ghế, phụ bưng bê món ăn cho khách\r\n- Làm việc tại quận 1\r\n- Thời gian làm việc: ca xoay, ca 1: 9h-17h, ca gãy: 10h-14h và 18h-22h, ca 3: 16h-24h (xoay 3 ca)</description>
+    <requirement>- Có khả năng chịu được áp lực công việc\r\n- Linh động, nhanh nhẹn, vui vẻ.\r\n- có thể giao tiếp cơ bản tiếng anh</requirement>
+    <benefit>- Môi trường làm việc chuyên nghiệp, thăng tiến\r\n- Đóng BHXH, BHTN, BHYT theo qui định luật lao động</benefit>
+    <keyword>Tinh thần trách nhiệm,Tập trung trong công việc,Chịu được áp lực công việc,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+    <ad/>
+    <location_id>22</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-10</de>
+    <re>0000-00-00</re>
+    <cr>1477376393</cr>
+  </db>
+  <more>
+    <requirement>- Có khả năng chịu được áp lực công việc&#13;
+- Linh động, nhanh nhẹn, vui vẻ.&#13;
+- có thể giao tiếp cơ bản tiếng anh</requirement>
+    <description>- Dọn dẹp bàn ghế, phụ bưng bê món ăn cho khách&#13;
+- Làm việc tại quận 1&#13;
+- Thời gian làm việc: ca xoay, ca 1: 9h-17h, ca gãy: 10h-14h và 18h-22h, ca 3: 16h-24h (xoay 3 ca)</description>
+    <workhour></workhour>
+    <benefit>- Môi trường làm việc chuyên nghiệp, thăng tiến&#13;
+- Đóng BHXH, BHTN, BHYT theo qui định luật lao động</benefit>
+    <keyword>Tinh thần trách nhiệm,Tập trung trong công việc,Chịu được áp lực công việc,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+  </more>
+  <userapplied>
+    <total>32</total>
+    <strui>1561,1905,1698,350,1540,2179,1708,2382,2498,2525,2515,2550,2024,2785,2883,2990,3018,3093,3103,3177,3207,6618,2510,7042,7156,7168,7305,3668,7342,7098,7424,7542</strui>
+  </userapplied>
+</information>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7377</id>
+      <email>dinhphustartup@gmail.com</email>
+      <username/>
+      <name>Đình Phú</name>
+      <im>695394663951912_dinh-phu.jpg</im>
+      <gender>1</gender>
+      <dob>1996-4-30</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477212693</created>
+      <day>30</day>
+      <month>4</month>
+      <year>1996</year>
+      <last_signin>1477212693</last_signin>
+      <phone>0167 4711 418</phone>
+      <address>C11/21 A ấp 3 xã Vĩnh Lộc B huyện Bình Chánh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.820093</lat>
+      <lng>106.5522599</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>7377</ui>
+      <title>Thực tập sinh, việc làm bán thời gian, Pháp lý,...</title>
+      <experience>2</experience>
+      <category>14,29,35</category>
+      <type>2,3,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <about>Là một sinh viên ngành luật tôi mong muốn có thể đượclàm việc đúng&#13;
+&#13;
+chuyên ngành, vận dụng được các kiến thức và kỹ năng mà mình đã trau dồi&#13;
+&#13;
+- Học tập trau dồi thêm kinh nghiệm và kiến thức của bảnthân, tìm được một&#13;
+&#13;
+việc làm phù hợp để có thể vừa học vừa làm&#13;
+&#13;
+- Tìm được vị trí đầy cơ hội và thách thức, đang được tuyển dụng trong&#13;
+&#13;
+Công ty năng động và chuyên nghiệp - Bằng kinh nghiệm có được trong quá trình&#13;
+&#13;
+học tập, cùng kỹ năng giao tiếp và niềm đam mê sẵn có, đóng góp hết khả năng&#13;
+&#13;
+của mình để góp phần giúp Công ty thành công và không ngừng phát triển</about>
+      <skill>Tiếng Anh&#13;
+Tin học văn phòng&#13;
+Kỹ năng thu thập,tổng hợp thông tin và đánh giá vấn đề&#13;
+Chăm chỉ cẩn thận,biết tổ chức sắp xếp công việc và có tinh thần trách nhiệm.&#13;
+Dễ dàng thích nghi với môi trường mới.&#13;
+Chịu áp lực</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <experience>
+    <n_1448>
+      <id>1448</id>
+      <title>Cửa hàng thức ăn nhanh</title>
+      <level>1</level>
+      <cmpname>Không có</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>05/2014</from>
+      <to>11/2014</to>
+    </n_1448>
+    <n_1449>
+      <id>1449</id>
+      <title>Học tập Nhân viên khảo sát thị trường</title>
+      <level>1</level>
+      <cmpname>Đại học Công Nghệ</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>11/2015</from>
+      <to>01/2016</to>
+    </n_1449>
+    <n_1450>
+      <id>1450</id>
+      <title>Nhân viên thời vụ</title>
+      <level>1</level>
+      <cmpname>Tafaco Tân Phú</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>02/2016</from>
+      <to>04/2016</to>
+    </n_1450>
+    <n_1451>
+      <id>1451</id>
+      <title>Tình nguyện viên</title>
+      <level>1</level>
+      <cmpname>Đội Công tác xã hội</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>10/2014</from>
+      <to>Hiện nay</to>
+    </n_1451>
+  </experience>
+  <education>
+    <n_1197>
+      <id>1197</id>
+      <school>Đại học Công Nghệ</school>
+      <degrees>sinh viên năm 3</degrees>
+      <fieldofstudy>Luật Kinh Doanh</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_1197>
+  </education>
+</information>

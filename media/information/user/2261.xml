@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2261</id>
+      <email>mp18011995@gmail.com</email>
+      <username/>
+      <name>Nguyễn Ngọc Mai Phương</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01212216018</phone>
+      <address>1/4 Dương Quảng Hàm , f5 quận Goˋ vấp</address>
+      <city>30</city>
+      <dob>1995-1-18</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473335542</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>18</day>
+      <month>1</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.836304</lat>
+      <lng>106.688135</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>thu ngân</title>
+      <experience>3</experience>
+      <category>14,15,20,29,31,35</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Giao tiê´p , Đánh máy , Tính tiền , phục vụ , </skill>
+      <ui>2261</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Trách nhiệm , vui vẻ ,.hòa đồng ,nhiệt tình năng động , siêng năng , chịu  học hỏi , trung thực , co´ khả năng giao tiê´p , chịu được áp lực công việc , co´ khả năng giải quyết tình huống , co´ nhiệt huyết trong công việc , co´ khả năng làm việc nhóm </about>
+      <keyword>Tinh thần trách nhiệm,Chịu được áp lực công việc,Trung thực,Tự tin,Nhiệt tình,Tinh thần làm việc nhóm,Kỹ năng giải quyết tình huống</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>142,240,259,227,202</strjo>
+  </appliedjob>
+  <experience>
+    <n_506>
+      <id>506</id>
+      <title>Cashier</title>
+      <level>1</level>
+      <cmpname>Fanny ice-cream</cmpname>
+      <city>Hồ Chi´ Minh</city>
+      <country>Việt Nam</country>
+      <from>9/2014</from>
+      <to>nay</to>
+    </n_506>
+    <n_507>
+      <id>507</id>
+      <title>Phục Vụ</title>
+      <level>1</level>
+      <cmpname>Quán ăn vặt Tị Quỳnh</cmpname>
+      <city>Hôˋ Chi´ Minh</city>
+      <country>Việt Nam</country>
+      <from>09/2013</from>
+      <to>07/2014</to>
+    </n_507>
+    <n_574>
+      <id>574</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>Mobiphone - Beeline</cmpname>
+      <city>TP HCM</city>
+      <country>Việt Nam</country>
+      <from>2011</from>
+      <to>2012</to>
+    </n_574>
+  </experience>
+  <education>
+    <n_356>
+      <id>356</id>
+      <school>Đại Học Ngoại Ngư˜ Tin Học Tp HCM</school>
+      <degrees/>
+      <fieldofstudy>Nhaˋ Hàng - Khách Sạn</fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_356>
+  </education>
+  <savedjob/>
+</information>

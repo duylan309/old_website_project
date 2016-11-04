@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4625</id>
+      <email>annieduong2202@gmail.com</email>
+      <username/>
+      <name>Dương Trịnh Hạo Uyên</name>
+      <im>4625_image.jpg</im>
+      <gender>2</gender>
+      <phone>0909050298</phone>
+      <address>113/4 Võ duy ninh,F.22 , Q. bình thạnh</address>
+      <city>30</city>
+      <dob>1998-2-22</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475377485</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>22</day>
+      <month>2</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7917169</lat>
+      <lng>106.7144187</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ,pha chế</title>
+      <experience>1</experience>
+      <category>15,27,35</category>
+      <type>2,4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Khả năng giao tiếp tốt&#13;
+Lịch sử với mọi người&#13;
+Học việc nhanh và chủ động trong  công viêch &#13;
+</skill>
+      <ui>4625</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Hoà đồng ,thân thiện với mọi người&#13;
+Hay tươi cười, có tính cầu tiến,ham học hỏi &#13;
+</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>211,84,172</strjo>
+  </appliedjob>
+  <experience>
+    <n_1098>
+      <id>1098</id>
+      <title>Nhân viên</title>
+      <level>1</level>
+      <cmpname>Tini world</cmpname>
+      <city>Tp. Hồ chí minh</city>
+      <country>Việt Nam</country>
+      <from>28/7</from>
+      <to>10/9</to>
+    </n_1098>
+  </experience>
+</information>

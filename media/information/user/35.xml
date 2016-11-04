@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>35</id>
+      <email>huyen.vo@gmail.com</email>
+      <username/>
+      <name>Võ Huyền</name>
+      <im>35_huyen.jpg</im>
+      <gender>1</gender>
+      <dob>1990-03-15</dob>
+      <is_newletter>0</is_newletter>
+      <type>2</type>
+      <status>1</status>
+      <created>1458057198</created>
+      <phone>096543754</phone>
+      <address>98 Trần Quang Khải, Quận 3</address>
+      <city>0</city>
+      <facebook>https://www.facebook.com/huyenvo0407</facebook>
+      <country>ph</country>
+      <skype></skype>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>35</ui>
+      <category>16</category>
+      <title>Coffee Tasting Room Assistant</title>
+      <level>3</level>
+      <experience>1</experience>
+      <location>30</location>
+      <salary>8,000,000 VND</salary>
+      <skill>-	Tốt nghiệp Cao đẳng trở lên trong lĩnh vực nhà hàng khách sạn&#13;
+-	Kinh nghiệm liên quan tới vị trí: Tối thiểu 03 kinh nghiệm tại vị trí tương đương&#13;
+-	Năng động, sáng tạo, nhiệt tình, tự tin, quyết đoán, có trách nhiệm với công việc&#13;
+-	Kỹ năng thuyết trình, làm việc theo nhóm, làm việc độc lập, lãnh đạo, chịu được áp lực công việc;&#13;
+-	Kỹ năng giao tiếp tốt &#13;
+-	Sử dụng máy tính và tin học văn phòng&#13;
+-	Giao tiếp Tiếng Anh tốt</skill>
+      <type>1</type>
+      <s1>0</s1>
+    </db>
+  </user_cv>
+</information>

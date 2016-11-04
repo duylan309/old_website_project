@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1833</id>
+      <email>Cafemomokorea@gmail.com</email>
+      <username/>
+      <name>Nhà hàng cafe MOMO</name>
+      <im/>
+      <gender>0</gender>
+      <phone>5413 8867</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1472984423</created>
+      <dayleft>1480760423</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1472984423</last_signin>
+      <jobleft>3</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>2</total>
+    <strji>233,234</strji>
+  </totalJob>
+  <saveuser>
+    <total>27</total>
+    <strui>661,1315,2208,2269,2332,2670,1742,292,2745,3129,3222,3472,1927,4451,4879,4833,4943,5085,5497,5868,5945,1546,6966,6875,7098,7833,7792</strui>
+  </saveuser>
+</information>

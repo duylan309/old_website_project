@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>403</id>
+    <ui>6039</ui>
+    <name>Nhà Hàng Món Huế</name>
+    <url>monhuetuyendung</url>
+    <im>403_hqdefault.jpg</im>
+    <im_banner>_nha-hang-mon-hue-cover.jpg</im_banner>
+    <category>14</category>
+    <phone>0901 399 457</phone>
+    <address>Tầng 7, 302-304 Võ Văn Kiệt, Phường Cô Giang, Quận 1</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.741092</lat>
+    <lng>106.645515</lng>
+    <website>http://www.nhahangmonhue.vn</website>
+    <about/>
+    <facebook>https://www.facebook.com/monhuetuyendung/</facebook>
+    <facebook_cover/>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1476343469</created>
+  </db>
+  <more>
+    <about>Nhà hàng Món Huế tuyển nhân sự cho khối nhà hàng tại khu vực TP. Hồ Chí Mình</about>
+    <whyworkus/>
+  </more>
+  <companybanner>403_nhan-vien-khoi-nha-hang-lan-1-nam-2016-0.jpg</companybanner>
+  <totalJob>
+    <total>3</total>
+    <strji>459,470,515</strji>
+  </totalJob>
+</information>

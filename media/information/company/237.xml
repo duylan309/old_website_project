@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>237</id>
+    <ui>344</ui>
+    <name>Cookpad - Nơi lý tưởng nhất để chia sẻ cách nấu ăn tại nhà</name>
+    <url>Cookpadvn</url>
+    <im>1584138008531144_cookpad-noi-ly-tuong-nhat-de-chia-se-cach-nau-an-tai-nha.jpg</im>
+    <im_banner>1584138008531144_cookpad-noi-ly-tuong-nhat-de-chia-se-cach-nau-an-tai-nha-cover.jpg</im_banner>
+    <category>36</category>
+    <phone/>
+    <address>Ebisu Garden Place, Shibuya, Tokyo, Japan</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>35.645981</lat>
+    <lng>139.718475</lng>
+    <website>https://cookpad.com/vn</website>
+    <about/>
+    <facebook>https://www.facebook.com/Cookpadvn/</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1470020040</created>
+  </db>
+  <more>
+    <about/>
+    <whyworkus/>
+  </more>
+  <companybanner>1584138008531144_cookpad-noi-ly-tuong-nhat-de-chia-se-cach-nau-an-tai-nha-cover.jpg</companybanner>
+  <totalJob>
+    <total>1</total>
+    <strji>121</strji>
+  </totalJob>
+</information>

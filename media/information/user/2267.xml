@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2267</id>
+      <email>nguyenthinhvan@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thịnh Văn</name>
+      <im>2267_dsc-2334.jpg</im>
+      <gender>1</gender>
+      <phone>0963207465</phone>
+      <address>76/14 Lê Lợi, Q.Gò Vấp</address>
+      <city>30</city>
+      <dob>1993-3-28</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473341775</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1473341775</last_signin>
+      <day>28</day>
+      <month>3</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.820525</lat>
+      <lng>106.686166</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_360>
+      <id>360</id>
+      <school>Đại học Nông Lâm Tp.HCM</school>
+      <degrees>Kỹ sư </degrees>
+      <fieldofstudy>Quản Lý Môi Trường Và Du Lịch Sinh Thái</fieldofstudy>
+      <from>2011</from>
+      <to>2016</to>
+    </n_360>
+  </education>
+  <user_cv>
+    <db>
+      <ui>2267</ui>
+      <title>Nhân Viên</title>
+      <experience>1</experience>
+      <category>15,35</category>
+      <type>1,2,4,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Tuy không giỏi nhưng cần cù.&#13;
+Vui vẻ, hòa đồng.&#13;
+Địa chỉ fb: https://www.facebook.com/van.van0393</about>
+      <skill>Kỹ năng làm việc nhóm.&#13;
+Kỹ năng giao tiếp.</skill>
+      <keyword>Tinh thần trách nhiệm,Tự tin,Nhiệt tình,Tinh thần làm việc nhóm,Trung thực</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>124</strjo>
+  </appliedjob>
+</information>

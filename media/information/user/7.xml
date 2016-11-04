@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7</id>
+      <email>125phn@gmail.com</email>
+      <username>the-coffee-house</username>
+      <name>The Coffee House</name>
+      <image/>
+      <gender>0</gender>
+      <dob>0000-00-00</dob>
+      <is_newletter>0</is_newletter>
+      <type>1</type>
+      <status>1</status>
+      <created>1454116940</created>
+      <category>14,15</category>
+      <size>1</size>
+      <phone>083826 5777</phone>
+      <address>2-6 Bis Điện Biên Phủ, P.Đa Kao, Q1</address>
+      <city>30</city>
+      <website>http://thecoffeehouse.vn/</website>
+      <facebook>https://www.facebook.com/thecoffeehouse.469dienbienphu/?fref=ts</facebook>
+      <im>7_coffee-house.png</im>
+      <fb_load_newfeed>2</fb_load_newfeed>
+      <fb_load_photo>2</fb_load_photo>
+    </db>
+  </userinfo>
+  <userbanner>7_coffee-house-cover.jpg</userbanner>
+  <more>
+    <about>”Đi cà phê” từ lâu không đơn thuần chỉ là uống một tách cà phê mà còn là dịp gặp mặt và trò chuyện cùng bạn bè. Tại The Coffee House, chúng tôi trân trọng và đề cao giá trị kết nối giữa con người và trải nghiệm của khách hàng.&#13;
+&#13;
+Chúng tôi được truyền cảm hứng từ những tách cà phê và thức uống mình tạo ra. Chúng tôi tin tưởng mạnh mẽ rằng thức uống với chất lượng tốt nhất được phục vụ trong không gian thân thiện.</about>
+    <whyworkus>Tại The Coffee House, nguyên liệu làm ra cà phê và tất cả các loại thức uống đều được chọn lọc từ những nguồn cung ứng được kiểm định gắt gao, đáp ứng tiêu chuẩn chất lượng cao nhất. Và một “nguyên liệu” quan trọng hơn hết chúng tôi đưa vào từng sản phẩm là sự tâm huyết của cả đội ngũ nhân viên The Coffee House. &#13;
+Niềm đam mê với hương vị, sự nhiệt thành khi phục vụ, kĩ năng pha chế được đào tạo chuyên sâu là tất cả những gì The Coffee House cam kết khi phục vụ bất kì sản phẩm nào cho khách hàng nhằm tạo ra trải nghiệm “đi cà phê” tốt nhất cho bạn.</whyworkus>
+  </more>
+  <totalJob>
+    <total>2</total>
+    <strji>42,43</strji>
+  </totalJob>
+  <latlng>
+    <lat>7.28255708664144</lat>
+    <lng>38.48144888877869</lng>
+  </latlng>
+</information>

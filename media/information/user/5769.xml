@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5769</id>
+      <email>vuongtai1996@gmail.com</email>
+      <username/>
+      <name>Vương kim tài</name>
+      <im>1107997185975100_tai-kim-vuong.jpg</im>
+      <gender>1</gender>
+      <dob>1996-12-9</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476178348</created>
+      <day>9</day>
+      <month>12</month>
+      <year>1996</year>
+      <last_signin>1476178348</last_signin>
+      <phone>0938167517</phone>
+      <address>379/3/21 . Đường Tân Hòa Đông Quận Bình Tân</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7658692</lat>
+      <lng>106.6174687</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>5769</ui>
+      <title>Đứng thớt</title>
+      <experience>5</experience>
+      <category>14</category>
+      <type>1,4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Trung thành với nơi làm việc vì kô muốn nhiều thứ phiền phức về xin việc làm </about>
+      <skill>Chuyên phụ trách về hàng nhập hàng phân chia và chuẩn bị nguyên liệu cho các món ăn</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>9</total>
+    <strjo>365,183,193,137,187,153,200,276,406</strjo>
+  </appliedjob>
+</information>

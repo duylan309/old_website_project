@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4488</id>
+      <email>ducthien797@gmail.com</email>
+      <username/>
+      <name>Nguyễn Đức Thiện</name>
+      <im>625331580972704_nguyen-duc-thien.jpg</im>
+      <gender>1</gender>
+      <dob>1998-2-4</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475221655</created>
+      <day>4</day>
+      <month>2</month>
+      <year>1998</year>
+      <phone>0918045639</phone>
+      <address>363/91, đinh bộ lĩnh, phường 26, quận bình thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.812295</lat>
+      <lng>106.7091213</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>4</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill></skill>
+      <ui>4488</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>172</strjo>
+  </appliedjob>
+</information>

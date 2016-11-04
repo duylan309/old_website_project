@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6004</id>
+      <email>truongthuytien1511@gmail.com</email>
+      <username/>
+      <name>Trương Hoàng Thủy Tiên</name>
+      <im>1476328639_truong-hoang-thuy-tien.png</im>
+      <gender>0</gender>
+      <phone>01672406958</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476328639</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bếp</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>-	Yêu thích nấu ăn, làm bánh.&#13;
+-	Thích làm các món ăn thuần việt và pasta.&#13;
+-	Làm được các loại bánh đơn giản.&#13;
+-	Pha chế cà phê và các loại nước trái cây.&#13;
+-	Có khả năng giao tiếp tốt&#13;
+-	Trung thực, siêng năng, có trách nhiệm, ham học hỏi.&#13;
+-	Có khả năng tự tìm hiểu&#13;
+-	Nhiệt tình và hòa đồng.&#13;
+-	Có khả năng làm việc nhóm.&#13;
+&#13;
+</skill>
+      <ui>6004</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>377</strjo>
+  </appliedjob>
+  <education>
+    <n_996>
+      <id>996</id>
+      <school>Đại Học Công Nghệ TP.HCM</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Công Nghệ Sinh Học</fieldofstudy>
+      <from>2011</from>
+      <to>2015</to>
+    </n_996>
+  </education>
+</information>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4751</id>
+      <email>levungochaiyen@gmail.com</email>
+      <username/>
+      <name>LÊ VŨ NGỌC HẢI YẾN</name>
+      <im>4751_12936648-616569028490271-7223337160502021785-n.jpg</im>
+      <gender>2</gender>
+      <phone>01267415673</phone>
+      <address>11/A2, Đức Long 1, Gia Tân 2, Thống Nhất, Đồng Nai</address>
+      <city>19</city>
+      <dob>1993-4-3</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475479309</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1475479309</last_signin>
+      <day>3</day>
+      <month>4</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Đồng Nai</city_text_vi>
+      <city_text_en>Dong Nai</city_text_en>
+      <lat>10.9331253</lat>
+      <lng>107.1369389</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1000>
+      <id>1000</id>
+      <title>Phụ bếp</title>
+      <level>1</level>
+      <cmpname>Nhà hàng Ngon Như Bún</cmpname>
+      <city>Hố chí Minh</city>
+      <country>Việt Nam</country>
+      <from>11-2014</from>
+      <to>08-2016</to>
+    </n_1000>
+    <n_1001>
+      <id>1001</id>
+      <title>Thực tập sinh</title>
+      <level>1</level>
+      <cmpname>InterContinental Asiana Saigon</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>01-2015</from>
+      <to>03-2015</to>
+    </n_1001>
+    <n_1002>
+      <id>1002</id>
+      <title>Phục Vụ</title>
+      <level>1</level>
+      <cmpname>Nhà hàng Topokki</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>10-2013</from>
+      <to>12-2013</to>
+    </n_1002>
+  </experience>
+  <education>
+    <n_793>
+      <id>793</id>
+      <school>Đại học Công Nghiệp TPHCM</school>
+      <degrees>Cao đẳng</degrees>
+      <fieldofstudy>Quản trị nhà hàng và dịch vụ ăn uống</fieldofstudy>
+      <from>09-2012</from>
+      <to>03-2016</to>
+    </n_793>
+  </education>
+  <user_cv>
+    <db>
+      <ui>4751</ui>
+      <title>Phụ bếp</title>
+      <experience>2</experience>
+      <category>14,15,20,29</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Là người năng động, nhiệt tình, có tinh thần trách nhiệm cao trong công việc. Biết chủ động sắp xếp công việc. Biết lắng nghe và tinh thần học hỏi tiếp thu cao. Có kinh nghiệm 3 năm trong nghề bếp và có sức khỏe tốt. Chịu được áp lực công việc cao.</about>
+      <skill>Được đào tạo căn bản qua bếp bánh, bếp Việt, bếp Á, bếp Âu. </skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>276,138,114,406</strjo>
+  </appliedjob>
+</information>

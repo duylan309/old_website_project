@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1776</id>
+      <email>thanhngoc3105@gmail.com</email>
+      <username/>
+      <name>Thanh Ngọc</name>
+      <im>945833678877667_thanh-ngoc.jpg</im>
+      <gender>2</gender>
+      <dob>1996-5-31</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472911680</created>
+      <day>31</day>
+      <month>5</month>
+      <year>1996</year>
+      <last_signin>1472911680</last_signin>
+      <phone>01266898304</phone>
+      <address>7/8a nguyễn sĩ cố p15 q8</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7284204</lat>
+      <lng>106.6363854</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>1776</ui>
+      <title>Pha chế</title>
+      <experience>1</experience>
+      <category>14,15,16,19</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en,kr</lang>
+      <s1>6500000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Chịu được áp lực công việc,Tinh thần trách nhiệm,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>119</strjo>
+  </appliedjob>
+</information>

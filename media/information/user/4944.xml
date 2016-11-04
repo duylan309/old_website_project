@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4944</id>
+      <email>minhtuanbds90@gmail.com</email>
+      <username/>
+      <name>Nguyễn minh Tuấn</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0938149580</phone>
+      <address/>
+      <city>30</city>
+      <dob>1992-9-18</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475597409</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>18</day>
+      <month>9</month>
+      <year>1992</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Thu Ngân</title>
+      <experience>2</experience>
+      <category>14,16,19,20,30</category>
+      <type>2,4,6</type>
+      <level>2,3,4,5</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>4944</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>16</total>
+    <strjo>259,341,369,275,174,231,95,220,251,107,147,368,382,396,386,129</strjo>
+  </appliedjob>
+  <education>
+    <n_826>
+      <id>826</id>
+      <school>ĐH Gia Định </school>
+      <degrees>Đại Học </degrees>
+      <fieldofstudy>Tài Chính </fieldofstudy>
+      <from>2010</from>
+      <to>2014</to>
+    </n_826>
+  </education>
+</information>

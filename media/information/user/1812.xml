@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1812</id>
+      <email>Phonghemchua@gmail.com</email>
+      <username/>
+      <name>Lê Thanh Phong</name>
+      <im/>
+      <gender>1</gender>
+      <phone>01863229294</phone>
+      <address>84/31 Bạch Đằng Khóm 5 Phường 4 Tp Trà Vinh</address>
+      <city>58</city>
+      <dob>1999-7-26</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472964725</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>26</day>
+      <month>7</month>
+      <year>1999</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Trà Vinh</city_text_vi>
+      <city_text_en>Tra Vinh</city_text_en>
+      <lat>9.9399618</lat>
+      <lng>106.343911</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>2</experience>
+      <category>15</category>
+      <type>5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Biết ít tiếng anh</skill>
+      <ui>1812</ui>
+      <s1>3200000</s1>
+      <salary>1</salary>
+      <keyword>Kỹ năng giải quyết tình huống,Tập trung trong công việc,Kỹ năng chăm sóc khách hàng,Tinh thần trách nhiệm,Chịu được áp lực công việc,Trung thực,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>130</strjo>
+  </appliedjob>
+  <experience>
+    <n_397>
+      <id>397</id>
+      <title>Trà Vinh</title>
+      <level>1</level>
+      <cmpname>Quán Kem Mikha</cmpname>
+      <city>Trà vinh</city>
+      <country>Việt nam</country>
+      <from>Nhân viên</from>
+      <to>Pha chế</to>
+    </n_397>
+  </experience>
+  <savedjob>
+    <total>1</total>
+    <strjo>130</strjo>
+  </savedjob>
+</information>

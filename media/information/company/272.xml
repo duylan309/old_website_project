@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>272</id>
+    <ui>1177</ui>
+    <name>Boathouse Restaurant</name>
+    <url>boathousesaigon</url>
+    <im>272_boathouse-logo-new-2-jpg.jpg</im>
+    <im_banner/>
+    <category>14,15,16,27</category>
+    <phone>+84837446790</phone>
+    <address>40 Lily Road, APSC, 36 Thao Dien, Q. 2</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.808835999999992</lat>
+    <lng>106.73848999999996</lng>
+    <website>www.boathousesaigon.com </website>
+    <about/>
+    <facebook>https://www.facebook.com/boathousevietnam</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1471882554</created>
+  </db>
+  <more>
+    <about>Offering absolute Saigon riverfront al fresco dining. New American, Mexican, Seafood, International Grill menu with a large kids selection! Extensive Cocktail and Wine List with reasonable pricing. Weekday Happy Hour from 4:30pm - 6:30pm with LIVE Music Tuesday - Sunday! A perfect getaway from the Saigon hustle.</about>
+    <whyworkus/>
+  </more>
+  <companybanner>272_bh-photo.jpg</companybanner>
+  <totalJob>
+    <total>2</total>
+    <strji>180,181</strji>
+  </totalJob>
+</information>

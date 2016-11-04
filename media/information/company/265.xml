@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>265</id>
+    <ui>999</ui>
+    <name>Dear Joe</name>
+    <url>dearjoecoffee</url>
+    <im>265_image.jpeg</im>
+    <im_banner/>
+    <category>15</category>
+    <phone>+84 908653939</phone>
+    <address>9B Phạm Đình Toái F6 Q3</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.775862</lat>
+    <lng>106.686035</lng>
+    <website>https://www.instagram.com/dearjoecoffee</website>
+    <about/>
+    <facebook>https://m.facebook.com/story.php?story_fbid=707153586158842&amp;substory_index=0&amp;id=267728500101355&amp;__tn__=%2As</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1471571182</created>
+  </db>
+  <more>
+    <about>A mordern urban coffeeshop with fresh food, drinks and special dessert from Japan &amp; Korea and our signature dessert POT ICE-CREAM  </about>
+    <whyworkus/>
+  </more>
+  <companybanner/>
+  <totalJob>
+    <total>4</total>
+    <strji>163,164,165,230</strji>
+  </totalJob>
+</information>

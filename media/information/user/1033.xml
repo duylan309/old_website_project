@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1033</id>
+      <email>phuonglam.work@gmail.com</email>
+      <username/>
+      <name>Hanh Phuc</name>
+      <im>1435513209798808_hanh-phuc.jpg</im>
+      <gender>2</gender>
+      <dob>1994-7-14</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471620775</created>
+      <day>14</day>
+      <month>7</month>
+      <year>1994</year>
+      <phone>0909140794</phone>
+      <address>579 BA ĐÌNH, P9, Q8</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.748889</lat>
+      <lng>106.671417</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>1033</ui>
+      <title>NHÂN VIÊN</title>
+      <experience>1</experience>
+      <category>14,28,29</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en,ja</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

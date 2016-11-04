@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5984</id>
+      <email>antruong1806@yahoo.com</email>
+      <username/>
+      <name>TRẦN NGUYỄN TRƯỜNG AN</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0987279975</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1476296326</created>
+      <dayleft>1478888326</dayleft>
+      <page>1</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476296326</last_signin>
+      <jobleft>1</jobleft>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+    <password>
+      <lastupdate>1477381984</lastupdate>
+    </password>
+  </userinfo>
+  <totalJob>
+    <total>4</total>
+    <strji>450,449,448,451</strji>
+  </totalJob>
+  <saveuser>
+    <total>31</total>
+    <strui>5968,1099,6043,5870,6189,4946,5058,6297,6320,6394,6429,2470,6499,6501,6584,6428,6625,6641,6673,6831,4833,6994,5616,7226,7310,7338,3652,7038,7560,520,7612</strui>
+  </saveuser>
+</information>

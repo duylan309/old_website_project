@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>288</id>
+    <ui>1450</ui>
+    <name>La bodega</name>
+    <url>Odaybar</url>
+    <im></im>
+    <im_banner></im_banner>
+    <category>16</category>
+    <phone>0939725281</phone>
+    <address>11a Xuân Thuỷ , thảo điền ,q2</address>
+    <district>0</district>
+    <district_text_vi></district_text_vi>
+    <district_text_en></district_text_en>
+    <city>30</city>
+    <lat>10.802927</lat>
+    <lng>106.728844</lng>
+    <website></website>
+    <about></about>
+    <facebook></facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>0</fb_load_newfeed>
+    <fb_load_photo>0</fb_load_photo>
+    <created>1472369253</created>
+  </db>
+  <more>
+    <about></about>
+    <whyworkus></whyworkus>
+  </more>
+  <companybanner></companybanner>
+</information>

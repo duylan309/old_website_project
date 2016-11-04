@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4253</id>
+      <email>grassnguyen0107@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Thanh Thảo</name>
+      <im>1475048139_nguyen-thi-thanh-thao.png</im>
+      <gender>2</gender>
+      <phone>0932010793</phone>
+      <address>803/38a Huỳnh Tấn Phát phường Phú Thuận quận 7 </address>
+      <city>30</city>
+      <dob>1993-7-1</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475048139</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>1</day>
+      <month>7</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.726083</lat>
+      <lng>106.7337991</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>trưởng nhóm pha chế</title>
+      <experience>2</experience>
+      <category>14,28,29</category>
+      <type>1</type>
+      <level>4</level>
+      <lang>vi,en</lang>
+      <skill>có kỹ năng làm việc nhóm , lên kế hoạch làm việc , quản lí cửa hàng , quản lí hàng hóa, báo cáo doanh thu hàng ngày . pha chế , thu ngân . &#13;
+Tiếp nhận ý kiến khách hàng.</skill>
+      <ui>4253</ui>
+      <s1>5500000</s1>
+      <salary>1</salary>
+      <about>Vui vẻ , hòa đồng.&#13;
+nghiêm túc trong công việc.&#13;
+có trách nhiệm và chịu được áp lực của công việc cao.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>240,201</strjo>
+  </appliedjob>
+  <experience>
+    <n_899>
+      <id>899</id>
+      <title>team leader</title>
+      <level>1</level>
+      <cmpname>DUNKIN’S DONUT</cmpname>
+      <city>HỒ CHÍ MINH</city>
+      <country>VIỆT NAM</country>
+      <from>8/2014</from>
+      <to>12/2015</to>
+    </n_899>
+    <n_900>
+      <id>900</id>
+      <title>QUẢN LÝ CỬA HÀNG</title>
+      <level>1</level>
+      <cmpname>GrassTea</cmpname>
+      <city>HỒ CHÍ MINH</city>
+      <country>VIỆT NAM</country>
+      <from>12/2015</from>
+      <to>5/2016</to>
+    </n_900>
+  </experience>
+  <education>
+    <n_689>
+      <id>689</id>
+      <school>Cao Đẳng Kinh Tế Đối Ngoại TP Hồ Chí Minh</school>
+      <degrees>Trung Cấp Chuyên Nghiệp</degrees>
+      <fieldofstudy>quản trị kinh doanh</fieldofstudy>
+      <from>2013</from>
+      <to>2015</to>
+    </n_689>
+  </education>
+</information>

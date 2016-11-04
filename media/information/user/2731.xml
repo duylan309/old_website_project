@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2731</id>
+      <email>minhthuc.1294@gmail.com</email>
+      <username/>
+      <name>Nguyễn Minh Thực</name>
+      <im>2731_cv-hinhanh-1.png</im>
+      <gender>1</gender>
+      <phone>0948550612</phone>
+      <address>C27-04, chung cư Hoàng Anh Thanh Bình, phường Tân Hưng, quận 7</address>
+      <city>30</city>
+      <dob>1994-12-6</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473828459</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1473828459</last_signin>
+      <day>6</day>
+      <month>12</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7443766</lat>
+      <lng>106.6981243</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>2731</ui>
+      <title>Marketing</title>
+      <experience>7</experience>
+      <category>14,15,18,20,35</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <about>Tốt nghiệp ngành Marketing, chuyên ngành Quản trị thương hiệu, đại học Tài chính - Marketing.&#13;
+Đam mê lĩnh vực F&amp;B.&#13;
+Nhanh nhẹn, tiếp thu nhanh, cẩn thận, sáng tạo.</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <experience>
+    <n_604>
+      <id>604</id>
+      <title>Barista</title>
+      <level>1</level>
+      <cmpname>Urban Station Coffee</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>VN</country>
+      <from>1/2014</from>
+      <to>12/2015</to>
+    </n_604>
+    <n_673>
+      <id>673</id>
+      <title>Marketing Intern</title>
+      <level>1</level>
+      <cmpname>Công ty Cổ phần Urban Station</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>VN</country>
+      <from>01/2016</from>
+      <to>04/2016</to>
+    </n_673>
+  </experience>
+  <education>
+    <n_439>
+      <id>439</id>
+      <school>Đại học Tài chính - Marketing</school>
+      <degrees>Cử nhân Marketing</degrees>
+      <fieldofstudy>Quản trị Thương hiệu</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_439>
+  </education>
+  <appliedjob>
+    <total>2</total>
+    <strjo>167,220</strjo>
+  </appliedjob>
+</information>

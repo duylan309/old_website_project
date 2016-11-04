@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>701</id>
+      <email>truonglap235@gmail.com</email>
+      <username/>
+      <name>Trương Diệp Lập</name>
+      <im/>
+      <gender>1</gender>
+      <phone>01202299967</phone>
+      <address/>
+      <city/>
+      <dob>1997-5-23</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470903121</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>23</day>
+      <month>5</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>phục vụ,pha chế</title>
+      <experience>7</experience>
+      <category>16,19,20</category>
+      <type>4</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <skill>Nghiệp vụ nhà hàng,khách sạn...pha chế rượu</skill>
+      <ui>701</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>86,111,132</strjo>
+  </appliedjob>
+  <experience>
+    <n_142>
+      <id>142</id>
+      <title>39 bà huyện thanh quan Q.3</title>
+      <level>1</level>
+      <cmpname>woodstock bar</cmpname>
+      <city>HCM</city>
+      <country>VN</country>
+      <from>7PM</from>
+      <to>0AM</to>
+    </n_142>
+    <n_143>
+      <id>143</id>
+      <title>thanh đa,Bình Thạnh</title>
+      <level>1</level>
+      <cmpname>mimi palace</cmpname>
+      <city>HCM</city>
+      <country>VN</country>
+      <from>8AM</from>
+      <to>9PM</to>
+    </n_143>
+    <n_144>
+      <id>144</id>
+      <title>Ung văn khiêm Bình Thạnh</title>
+      <level>1</level>
+      <cmpname>Cybercore</cmpname>
+      <city>HCM</city>
+      <country>VN</country>
+      <from>1PM</from>
+      <to>8PM</to>
+    </n_144>
+  </experience>
+  <education>
+    <n_96>
+      <id>96</id>
+      <school>Saigontourist</school>
+      <degrees>chứng chỉ </degrees>
+      <fieldofstudy>nhà hàng-khách sạn,pha chế rượu</fieldofstudy>
+      <from>3 tháng</from>
+      <to>6 tháng</to>
+    </n_96>
+  </education>
+  <savedjob>
+    <total>2</total>
+    <strjo>111,132</strjo>
+  </savedjob>
+</information>

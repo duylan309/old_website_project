@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6465</id>
+      <email>wind21101996@gmail.com</email>
+      <username/>
+      <name>Yuki Lê</name>
+      <im>310710009307697_yuki-le.jpg</im>
+      <gender>2</gender>
+      <dob>1996-10-21</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476618778</created>
+      <day>21</day>
+      <month>10</month>
+      <year>1996</year>
+      <last_signin>1476618778</last_signin>
+      <phone>0974588590</phone>
+      <address>81/6/8 Huỳnh Văn Nghệ phường 12 Gò Vấp</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8299498</lat>
+      <lng>106.6382146</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6465</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>7</experience>
+      <category>15,17,31</category>
+      <type>4,5,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>Sinh viên năm 2&#13;
+Dễ nhìn</about>
+      <skill>Có khả năng phản xạ và giải quyết tốt&#13;
+Có thể giao tiếp bằng tiếng anh&#13;
+Thể thao giỏi</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

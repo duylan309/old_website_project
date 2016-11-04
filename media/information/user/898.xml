@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>898</id>
+      <email>trunghieupham1502@gmail.com</email>
+      <username/>
+      <name>PT Hayden</name>
+      <im>626558214187071_pt-hayden.jpg</im>
+      <gender>1</gender>
+      <dob>1993-2-15</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471373545</created>
+      <day>15</day>
+      <month>2</month>
+      <year>1993</year>
+      <phone>01288 575 137</phone>
+      <address>108/5 đường số 1b, phường Bình Hưng Hòa A, quận Bình Tân</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.778198</lat>
+      <lng>106.618018</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_205>
+      <id>205</id>
+      <title>Nhân viên toàn thời gian</title>
+      <level>1</level>
+      <cmpname>The coffee house</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>02/2016</from>
+      <to>07/2016</to>
+    </n_205>
+    <n_206>
+      <id>206</id>
+      <title>Nhân viên toàn thời gian</title>
+      <level>1</level>
+      <cmpname>Lumos Coffee and Cake</cmpname>
+      <city>Cần Thơ</city>
+      <country>Việt Nam</country>
+      <from>02/2015</from>
+      <to>01/2016</to>
+    </n_206>
+    <n_207>
+      <id>207</id>
+      <title>Nhân viên toàn thời gian</title>
+      <level>1</level>
+      <cmpname>Passio coffee to go</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>04/2014</from>
+      <to>10/2014</to>
+    </n_207>
+  </experience>
+  <education>
+    <n_145>
+      <id>145</id>
+      <school>Đại học dân lập Văn Lang</school>
+      <degrees>đại học chính quy</degrees>
+      <fieldofstudy>Quan hệ công chúng và Truyền thông</fieldofstudy>
+      <from>09/2011</from>
+      <to>07/2015</to>
+    </n_145>
+  </education>
+  <user_cv>
+    <db>
+      <ui>898</ui>
+      <title>Nhân viên pha chế (Barista)</title>
+      <experience>2</experience>
+      <category>15</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en,kr</lang>
+      <s1>3700000</s1>
+      <salary>1</salary>
+      <skill>Kĩ năng sử dụng máy espresso, kĩ năng pha chế thức uống liên quan đến máy espresso, smoothies,  soda,...; Kĩ năng Cashier, kĩ năng bán hàng; Kĩ năng phục vụ.</skill>
+      <keyword>Tinh thần trách nhiệm,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Nhiệt tình</keyword>
+      <about/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>126,201,195</strjo>
+  </appliedjob>
+</information>

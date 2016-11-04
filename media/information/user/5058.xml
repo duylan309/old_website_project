@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5058</id>
+      <email>thien.tran.35513@gmail.com</email>
+      <username/>
+      <name>Trần Thiện</name>
+      <im>930631773707295_tran-thien.jpg</im>
+      <gender>1</gender>
+      <dob>1995-6-12</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475680944</created>
+      <day>12</day>
+      <month>6</month>
+      <year>1995</year>
+      <phone>01226646794</phone>
+      <address>137 nghĩa phát p6 quận tân bình</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7863577</lat>
+      <lng>106.6584302</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_841>
+      <id>841</id>
+      <school>Saigontourist</school>
+      <degrees>Trung cấp</degrees>
+      <fieldofstudy>Bếp âu</fieldofstudy>
+      <from>2014</from>
+      <to>2016</to>
+    </n_841>
+  </education>
+  <user_cv>
+    <db>
+      <ui>5058</ui>
+      <title>Phụ bếp</title>
+      <experience>7</experience>
+      <category>14,15,16,20</category>
+      <type>1,4,5,6</type>
+      <level>2</level>
+      <lang>en</lang>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <about>Đã học qua lớp bếp âu trung cấp của trường saigontourist&#13;
+Đã từng làm phụ bếp ban thời gian ở nhiều nơi &#13;
+Hiện tại chưa có việc làm và mong muốn tìm được một công việc ổn định</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>9</total>
+    <strjo>277,343,206,256,377,78,450,443,191</strjo>
+  </appliedjob>
+</information>

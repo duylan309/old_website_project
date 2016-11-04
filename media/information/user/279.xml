@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>279</id>
+      <email>phamngan100996@gmail.com</email>
+      <username/>
+      <name>Phạm Nguyễn Hoàng Kim Ngân</name>
+      <im>1201277379967857_ngan-ngheu.jpg</im>
+      <gender>2</gender>
+      <dob>0909771187-9-10</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1468063498</created>
+      <day>10</day>
+      <month>9</month>
+      <year>0909771187</year>
+      <phone>0909771187</phone>
+      <address>68/15, Nguyễn Bá Tòng, P11, Q Tân Bình</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.792844</lat>
+      <lng>106.6507029</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_15>
+      <id>15</id>
+      <school>Tài chính - Marketing University</school>
+      <degrees/>
+      <fieldofstudy>Hospitality</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_15>
+  </education>
+  <user_cv>
+    <db>
+      <ui>279</ui>
+      <title>Waitress</title>
+      <category>20</category>
+      <location>30</location>
+      <type>2</type>
+      <level>1</level>
+      <experience>7</experience>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <skill>Communicate, Clever, Passion</skill>
+    </db>
+  </user_cv>
+</information>

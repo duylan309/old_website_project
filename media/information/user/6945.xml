@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6945</id>
+      <email>hangthaomy97@gmail.com</email>
+      <username/>
+      <name>Hàng Thảo My</name>
+      <im>702026146616173_thao-my.jpg</im>
+      <gender>2</gender>
+      <dob>1997-11-26</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476957862</created>
+      <day>26</day>
+      <month>11</month>
+      <year>1997</year>
+      <last_signin>1476957862</last_signin>
+      <phone>01673391585</phone>
+      <address>Chung cư Conic, đường Nguyễn Văn Linh, quận Bình Chánh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7090718</lat>
+      <lng>106.6418752</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1372>
+      <id>1372</id>
+      <title>Nhân viên/ Thu ngân</title>
+      <level>1</level>
+      <cmpname>Ombre Hàng hiệu xuất khẩu</cmpname>
+      <city>Hồ chí minh</city>
+      <country>Việt Nam</country>
+      <from>20/03/2015</from>
+      <to>30/9/2016</to>
+    </n_1372>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>6945</ui>
+      <title>Thực tập pha chế</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>2,5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Là sinh viên năm hai trường ĐH Hutech. Có kinh nghiệm bán hàng, chịu khó học hỏi, biết lắng nghe.</about>
+      <skill>Bán hàng</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>222,371,208</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>208</strjo>
+  </savedjob>
+</information>

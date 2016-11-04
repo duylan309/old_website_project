@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7657</id>
+      <email>khanh.vo.np.2014@caodangvietmy.edu.vn</email>
+      <username/>
+      <name>Võ Nguyễn Phương Khanh</name>
+      <im>1477381106_vo-nguyen-phuong-khanh.png</im>
+      <gender>0</gender>
+      <phone>0903036547</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477381106</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên</title>
+      <experience>1</experience>
+      <category>14,20</category>
+      <type>3</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill>Thân thiện, giao tiếp tốt với mọi người&#13;
+Khả năng xử dụng tiếng Anh</skill>
+      <ui>7657</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>161</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1886</id>
+      <email>buitiendat1412@gmail.com</email>
+      <username/>
+      <name>Bùi Tiến Đạt</name>
+      <im>1886_1470377670786.jpg</im>
+      <gender>1</gender>
+      <dob>1994-12-14</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473046624</created>
+      <day>14</day>
+      <month>12</month>
+      <year>1994</year>
+      <phone>01223964593</phone>
+      <address>Chung cư 41bis Điện Biên Phủ</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.801993</lat>
+      <lng>106.721358</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_304>
+      <id>304</id>
+      <school>Đại học Bách Khoa</school>
+      <degrees/>
+      <fieldofstudy>điện điện tử</fieldofstudy>
+      <from>2012</from>
+      <to>2017</to>
+    </n_304>
+  </education>
+  <user_cv>
+    <db>
+      <ui>1886</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>1</experience>
+      <category>14,15,17,18,20,26,27,28,30,31,36</category>
+      <type>2,5</type>
+      <level>1,4</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <skill>Giao tiếp tốt bằng tiếng anh&#13;
+</skill>
+      <keyword>Chịu được áp lực công việc,Giao tiếp hiệu quả,Kỹ năng giải quyết tình huống,Trung thực,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>224,150,201,235,222</strjo>
+  </appliedjob>
+</information>

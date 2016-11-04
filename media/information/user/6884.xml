@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6884</id>
+      <email>Bencurry47@gmail.com</email>
+      <username/>
+      <name>Lý Vỹ Diệu</name>
+      <im>6884_image.jpg</im>
+      <gender>1</gender>
+      <phone>01264079708</phone>
+      <address>92 ChuVanAn p1 q6</address>
+      <city>30</city>
+      <dob>1998-9-2</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476900532</created>
+      <dayleft>0</dayleft>
+      <jobleft>0</jobleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476900532</last_signin>
+      <day>2</day>
+      <month>9</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.790466</lat>
+      <lng>106.63421</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6884</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>15,16,17,19,31,35</category>
+      <type>4,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Năm nay 18 tuổi muốn đọc lập về tài chính và học hỏi thêm kinh nghiệm hiện dang học ngành quản trị khách sạn tại truong fpt poly rất muốn đuợc làm việc </about>
+      <skill>Nói tiếng quãng thành thạo , tiếng anh giao tiếp ổn , trung thực chịu khó làm </skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <experience>
+    <n_1363>
+      <id>1363</id>
+      <title>Phục vụ</title>
+      <level>1</level>
+      <cmpname>Cafe trung nguyên</cmpname>
+      <city>Hồ chí Minh</city>
+      <country>Việt nam</country>
+      <from>1</from>
+      <to>6 tháng</to>
+    </n_1363>
+  </experience>
+  <education>
+    <n_1131>
+      <id>1131</id>
+      <school>Fpt polytechic</school>
+      <degrees>Thpt</degrees>
+      <fieldofstudy>Quản trị khách sạn </fieldofstudy>
+      <from>1</from>
+      <to>2 năm</to>
+    </n_1131>
+  </education>
+  <appliedjob>
+    <total>2</total>
+    <strjo>202,478</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>2</total>
+    <strjo>202,478</strjo>
+  </savedjob>
+</information>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>793</id>
+      <email>Tonythuan.ceo@gmail.com</email>
+      <username/>
+      <name>TẠ NGUYỄN THANH THUẬN</name>
+      <im>793_img-0005.jpg</im>
+      <gender>1</gender>
+      <phone>0919598191</phone>
+      <address>Lê Văn Lương Quận 7</address>
+      <city>30</city>
+      <dob>1988-1-7</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471083342</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <day>7</day>
+      <month>1</month>
+      <year>1988</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7385076</lat>
+      <lng>106.70241</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_170>
+      <id>170</id>
+      <title>TRƯỞNG BỘ PHẬN THU NGÂN SIÊU THỊ VINMART QUẬN 2</title>
+      <level>1</level>
+      <cmpname>CÔNG TY CP TM DV TH VINCOMMERCE</cmpname>
+      <city>HCM</city>
+      <country>VN</country>
+      <from>10/2015</from>
+      <to>08/2016</to>
+    </n_170>
+    <n_171>
+      <id>171</id>
+      <title>CỬA HÀNG PHÓ CỬA HÀNG MỸ PHẨM &amp; CHĂM SÓC SẮC ĐẸP GUARDIAN</title>
+      <level>1</level>
+      <cmpname>CÔNG TY TNHH MTV TM LIÊN Á CHÂU (DIARY FARM GROUP)</cmpname>
+      <city>HCM</city>
+      <country>VN</country>
+      <from>03/2015</from>
+      <to>09/2015</to>
+    </n_171>
+    <n_172>
+      <id>172</id>
+      <title>GIÁM SÁT THU NGÂN SIÊU THỊ GIANT QUẬN 7</title>
+      <level>1</level>
+      <cmpname>CÔNG TY TNHH ĐẦU TƯ &amp; KINH DOANH SIÊU THỊ Á CHÂU (DIARY FARM GROUP)</cmpname>
+      <city>HCM</city>
+      <country>VN</country>
+      <from>2013</from>
+      <to>03/2015</to>
+    </n_172>
+    <n_173>
+      <id>173</id>
+      <title>GIÁM SÁT KINH DOANH</title>
+      <level>1</level>
+      <cmpname>CÔNG TY TNHH CCC</cmpname>
+      <city>HCM</city>
+      <country>VN</country>
+      <from>2011</from>
+      <to>2013</to>
+    </n_173>
+  </experience>
+  <education>
+    <n_112>
+      <id>112</id>
+      <school>ĐẠI HỌC HUTECH</school>
+      <degrees>THẠC SĨ</degrees>
+      <fieldofstudy>QUẢN TRỊ KINH DOANH</fieldofstudy>
+      <from>2013</from>
+      <to>2015</to>
+    </n_112>
+    <n_113>
+      <id>113</id>
+      <school>ĐẠI HỌC HÙNG VƯƠNG TP.HCM</school>
+      <degrees>CỬ NHÂN KINH TẾ</degrees>
+      <fieldofstudy>QUẢN TRỊ KINH DOANH</fieldofstudy>
+      <from>2009</from>
+      <to>2011</to>
+    </n_113>
+    <n_114>
+      <id>114</id>
+      <school>CAO ĐẲNG KINH TẾ TP.HCM</school>
+      <degrees>CỬ NHÂN CAO ĐẲNG</degrees>
+      <fieldofstudy>QUẢN TRỊ KINH DOANH XUẤT NHẬP KHẨU</fieldofstudy>
+      <from>2006</from>
+      <to>2009</to>
+    </n_114>
+  </education>
+  <user_cv>
+    <db>
+      <ui>793</ui>
+      <title>QUẢN LÝ</title>
+      <experience>4</experience>
+      <category>17,29,31</category>
+      <type>1,2,4,5</type>
+      <level>3,4,5</level>
+      <lang>en</lang>
+      <s1>9000000</s1>
+      <salary>1</salary>
+      <skill></skill>
+      <keyword>Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Tinh thần trách nhiệm,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Tự tin,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+</information>

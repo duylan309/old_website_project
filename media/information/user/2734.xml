@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2734</id>
+      <email>Ntthanhthao3196@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Thanh Thảo</name>
+      <im>1473833158_nguyen-thi-thanh-thao.png</im>
+      <gender>0</gender>
+      <phone>01665066871</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473833157</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>17,35</category>
+      <type>2,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>2734</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>219</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>219</strjo>
+  </savedjob>
+</information>

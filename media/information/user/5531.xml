@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5531</id>
+      <email>dungkabii2812@gmail.com</email>
+      <username/>
+      <name>Nguyễn thị hạnh dung</name>
+      <im>543554779175970_dung-kabii.jpg</im>
+      <gender>2</gender>
+      <dob>1997-1-28</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476067196</created>
+      <day>28</day>
+      <month>1</month>
+      <year>1997</year>
+      <phone>01637989788</phone>
+      <address>59/48 đinh bộ lĩnh p26 q bình thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.807978</lat>
+      <lng>106.709417</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_920>
+      <id>920</id>
+      <school>Cao đẳng kinh tế tp hcm</school>
+      <degrees>Chưa</degrees>
+      <fieldofstudy>Quản trị kinh doanh xuất nhập khẩu</fieldofstudy>
+      <from>2016</from>
+      <to>2019</to>
+    </n_920>
+  </education>
+  <user_cv>
+    <db>
+      <ui>5531</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>1</experience>
+      <category>14,28,29,31</category>
+      <type>2,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>15000</s1>
+      <salary>1</salary>
+      <about>Thích thử thách bản thân và học hỏi nhiều kinh nghiệm... Rèn luyện kỹ năng chuyên nghiệp.. Là sinh viên năm nhất. </about>
+      <skill>Kỹ năng làm việc nhóm và tiếng anh giao tiếp</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>267,172</strjo>
+  </appliedjob>
+</information>

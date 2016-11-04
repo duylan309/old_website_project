@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6864</id>
+      <email>phamtrungtruc@outlook.com</email>
+      <username/>
+      <name>Phạm Trung Trực</name>
+      <im>857381511064949_pham-trung-truc.jpg</im>
+      <gender>1</gender>
+      <dob>1996-10-20</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476893401</created>
+      <day>20</day>
+      <month>10</month>
+      <year>1996</year>
+      <phone>01665560565</phone>
+      <address>168/50 Nguyễn Cư Trinh, Quận 1</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.764071</lat>
+      <lng>106.688423</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục vụ, Pha chế</title>
+      <experience>1</experience>
+      <category>14,15,29,31</category>
+      <type>2,4,6</type>
+      <level>2</level>
+      <lang>en</lang>
+      <skill>biết sử dụng máy pha cà phê</skill>
+      <ui>6864</ui>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>Cao 173cm, ngoại hình ưa nhìn, sức khỏe tốt, siêng năng, chịu được áp lực công việc</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>312,252</strjo>
+  </appliedjob>
+  <experience>
+    <n_1362>
+      <id>1362</id>
+      <title>Phục vụ</title>
+      <level>1</level>
+      <cmpname>Trà Sữa Hot&amp;Cold</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>03-2016</from>
+      <to>09-2016</to>
+    </n_1362>
+  </experience>
+  <education>
+    <n_1129>
+      <id>1129</id>
+      <school>Đại Học Công Nghệ Sài Gòn</school>
+      <degrees>Kĩ Sư</degrees>
+      <fieldofstudy>Công nghệ thực phẩm</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_1129>
+  </education>
+</information>

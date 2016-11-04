@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4211</id>
+      <email>irisnguyen@shinecapitalinvest.com</email>
+      <username/>
+      <name>Nguyễn Lê Quỳnh Như</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0906961261</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1475036158</created>
+      <dayleft>1477628158</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1475036158</last_signin>
+      <jobleft>0</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>5</total>
+    <strji>357,358,359,360,361</strji>
+  </totalJob>
+  <saveuser>
+    <total>21</total>
+    <strui>2005,4407,1063,342,1099,4472,4192,3798,292,4733,4051,4879,4884,4848,1282,4353,4853,5116,5138,5148,5214</strui>
+  </saveuser>
+</information>

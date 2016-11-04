@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4795</id>
+      <email>phamthanhkhue0510@gmail.com</email>
+      <username/>
+      <name>Phạm Thanh Khuê</name>
+      <im/>
+      <gender>1</gender>
+      <phone>01216978955</phone>
+      <address>12 Nguyễn Văn Bảo, phường 4, quận Gò Vấp</address>
+      <city>30</city>
+      <dob>1998-7-6</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475500952</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1475500952</last_signin>
+      <day>6</day>
+      <month>7</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8217818</lat>
+      <lng>106.6870713</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_803>
+      <id>803</id>
+      <school>Đại học Công Nghiệp thành phố Hồ Chí Minh</school>
+      <degrees>Sinh viên năm 1</degrees>
+      <fieldofstudy>Kế toán</fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_803>
+  </education>
+  <user_cv>
+    <db>
+      <ui>4795</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,16,17,29,31,35</category>
+      <type>2,3,4,5,6</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Nơi sinh: Nam Định. Hiện đang là sinh viên năm nhất khoa Kế toán tại Đại học Công Nghiệp tp Hồ Chí Minh.</about>
+      <skill>Có sự nhiệt tình, năng nổ, ham học hỏi</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>275,206,212,398,222</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>212</strjo>
+  </savedjob>
+</information>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5685</id>
+      <email>honghanh311296@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Hồng Hạnh</name>
+      <im>1476152587_nguyen-thi-hong-hanh.png</im>
+      <gender>2</gender>
+      <phone>0945783216</phone>
+      <address>341/26B Lạc Long Quân, phường 5, Quận 11</address>
+      <city>30</city>
+      <dob>1996-12-31</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476152587</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>31</day>
+      <month>12</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.768005</lat>
+      <lng>106.642331</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>27</category>
+      <type>5</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill>Có phẩm chất tốt, sự kiên nhẫn và khả năng học hỏi không ngừng. &#13;
+</skill>
+      <ui>5685</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Xin chào,&#13;
+Sau đây tôi xin giới thiệu về bản thân mình.&#13;
+Tôi hiện đang là sinh viên năm thứ ba ngành Quản trị lữ hành. Tôi rất yêu thích và đam mê công việc liên quan đến ngành du lịch và dịch vụ lữ hành. Về tính cách tôi là người cầu tiến, rất giỏi lắng nghe và có khả năng kiềm chế cảm xúc. Tính cách thân thiện luôn tươi cười. Nhược điểm của tôi là khá trầm tính và chưa có kinh nghiệm làm việc ở những khách sạn lớn và sang trọng, nhưng nếu có điều kiện được đào tạo kỹ năng cơ bản tôi sẽ cố gắng tiếp thu tốt những gì đã được học. &#13;
+</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>279</strjo>
+  </appliedjob>
+  <experience>
+    <n_1168>
+      <id>1168</id>
+      <title>Tạp vụ, phục vụ và pha chế</title>
+      <level>1</level>
+      <cmpname>Doanh nghiệp tư nhân- Trà sữa Hoa Hướng Dương</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>Tháng 6</from>
+      <to>Tháng 8</to>
+    </n_1168>
+  </experience>
+  <education>
+    <n_940>
+      <id>940</id>
+      <school>Đại học Kinh tế TP.HCM</school>
+      <degrees>Sinh viên năm ba</degrees>
+      <fieldofstudy>Quản trị lữ hành</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_940>
+  </education>
+</information>

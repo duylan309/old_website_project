@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3624</id>
+      <email>minhtu.kenji@gmail.com</email>
+      <username/>
+      <name>Tu Tran</name>
+      <im>723109244524960_tu-tran.jpg</im>
+      <gender>2</gender>
+      <dob>1996-10-7</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474721069</created>
+      <day>7</day>
+      <month>10</month>
+      <year>1996</year>
+      <phone>01264429704</phone>
+      <address>05 sao mai p7 q.Tân Bình </address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.789362</lat>
+      <lng>106.659471</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân biên bán hàng</title>
+      <experience>1</experience>
+      <category>17,29,35</category>
+      <type>2,3,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>thân thiện , đã có kinh nghiệm đi làm , ca linh hoạt </skill>
+      <ui>3624</ui>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>đang là sinh viên năm ba , có kinh nghiệm làm phục vụ 1 năm , đã từng làm trong môi trường bán hàng , và làm việc trong môi trường tư vấn , mong muốn kiếm công việc ổn định để cải thiện tài chính </about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>156,268</strjo>
+  </appliedjob>
+</information>

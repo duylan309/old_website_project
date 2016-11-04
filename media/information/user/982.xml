@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>982</id>
+      <email>trung.dv223@gmail.com</email>
+      <username/>
+      <name>Đoàn Văn Trung</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0902536352</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471529564</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Bán Hàng</title>
+      <experience>1</experience>
+      <category>14,17,35</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>en</lang>
+      <skill>Giao tiếp linh hoạt, làm việc nhóm đạt hiệu quả cao.</skill>
+      <ui>982</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>140,124,154,79</strjo>
+  </appliedjob>
+</information>

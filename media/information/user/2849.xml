@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2849</id>
+      <email>Anhptv.hallo@gmail.com</email>
+      <username/>
+      <name>Phan Thị Vân Anh </name>
+      <im>1254038551294369_anh-phan.jpg</im>
+      <gender>2</gender>
+      <dob>01995-4-30</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474024212</created>
+      <day>30</day>
+      <month>4</month>
+      <year>01995</year>
+      <last_signin>1474024212</last_signin>
+      <phone>01686902301</phone>
+      <address>Phan Xích Long phường 2 quận Phú Nhuận </address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7987042</lat>
+      <lng>106.6876137</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>2849</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,27</category>
+      <type>1,2,4,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Em là sinh viên năm cuối, hiện tại không vướng bận việc học, muốn kiếm thêm công việc để tích lũy kinh nghiệm cho bản thân trước khi ra trường. Là một người yêu thích sự năng động, thích làm việc trong môi trường tập thể, thích giao lưu, kết bạn. Luôn muốn mang đến niềm vui cho mọi người xung quanh. Sở thích của em là nấu nướng, làm bánh, thích ăn trái cây và đi chơi cùng gia đình, bạn bè. </about>
+      <skill>Em có kinh nghiệm bán hàng,  quản lý công việc và thời gian. Kinh nghiệm làm việc nhóm. </skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>105</strjo>
+  </appliedjob>
+</information>

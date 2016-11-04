@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4946</id>
+      <email>btf.btf22@gmail.com</email>
+      <username/>
+      <name>Nguyễn Huỳnh Nguyên Thuận</name>
+      <im>1475598338_nguyen-huynh-nguyen-thuan.png</im>
+      <gender>1</gender>
+      <phone>0987174845</phone>
+      <address>235/4B Ấp 1 xã Nhị Bình Huyện Hóc Môn</address>
+      <city>30</city>
+      <dob>1996-2-22</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475598338</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>22</day>
+      <month>2</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.908125</lat>
+      <lng>106.665964</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên Bếp</title>
+      <experience>2</experience>
+      <category>14,18,20,29</category>
+      <type>1,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Đam mê nghề Bếp!</skill>
+      <ui>4946</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about> Chăm chỉ,  cần cù,  ham học hỏi,   năng động nhiệt tình có trách nhiệm trong công việc.&#13;
+ Đã làm trong môi trường nhà hàng!</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>276,188,464,450</strjo>
+  </appliedjob>
+  <education>
+    <n_827>
+      <id>827</id>
+      <school>THPT Lý Thường Kiệt </school>
+      <degrees>12/12</degrees>
+      <fieldofstudy/>
+      <from>2010</from>
+      <to>2014</to>
+    </n_827>
+  </education>
+</information>

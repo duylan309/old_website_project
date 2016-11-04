@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6982</id>
+      <email>Ngantran8783@yahoo.com</email>
+      <username/>
+      <name>Trần thị Thuý ngân</name>
+      <im>1476979157_tran-thi-thuy-ngan.png</im>
+      <gender>0</gender>
+      <phone>0938695344</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476979156</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Bán hàng thời trang</title>
+      <experience>2</experience>
+      <category>35</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Đã có 2 năm kinh nghiêm bán hàng thời trang cho cong ty TNHH-SXTM NÉT VIỆT</skill>
+      <ui>6982</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>322</strjo>
+  </appliedjob>
+</information>

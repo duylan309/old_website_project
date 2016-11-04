@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6524</id>
+      <email>xuandaolovely@gmail.com</email>
+      <username/>
+      <name>Đào Nguyễn</name>
+      <im>541813336017241_dao-nguyen.jpg</im>
+      <gender>2</gender>
+      <dob>1994-5-12</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476676734</created>
+      <day>12</day>
+      <month>5</month>
+      <year>1994</year>
+      <last_signin>1476676734</last_signin>
+      <phone>0987840358</phone>
+      <address>76/24/25 Lê Trọng Tấn, P Tây Thạnh, Q Tân Phú</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.806894</lat>
+      <lng>106.630189</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1309>
+      <id>1309</id>
+      <title>Quản lý cửa hàng</title>
+      <level>1</level>
+      <cmpname>Trà sữa  và xiên que Hot&amp;Cold</cmpname>
+      <city>TPHCM</city>
+      <country>Việt Nam</country>
+      <from>5/2014</from>
+      <to>9/2015</to>
+    </n_1309>
+  </experience>
+  <education>
+    <n_1072>
+      <id>1072</id>
+      <school>Đại học Công Nghệ TPHCM</school>
+      <degrees/>
+      <fieldofstudy>Tiếng Anh thương mại</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_1072>
+  </education>
+  <user_cv>
+    <db>
+      <ui>6524</ui>
+      <title>Nhân viên/Trợ Lý/Quản Lý cửa hàng</title>
+      <experience>1</experience>
+      <category>35</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <about>Tôi là người thẳng thắn, trung thực và rất nghiêm túc.&#13;
+Luôn cẩn thẩn, tỉ mỉ và thích sự chỉnh chu.&#13;
+Nhanh nhẹn và ham học hỏi, luôn đặt hết tâm vào công việc.&#13;
+Nguyên tắc quan trọng của bản thân là không bao giờ được phép trễ giờ và thất hứa.</about>
+      <skill>Sử dụng thành thạo tin học văn phòng.&#13;
+Có khả năng giao tiếp tiếng anh và tiếng nhật.&#13;
+</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>166,157,349</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6002</id>
+      <email>sagittarius.po143@gmail.com</email>
+      <username/>
+      <name>Phạm Nguyễn Hoài My</name>
+      <im>6002_c360-2016-10-12-16-45-36-337.jpg</im>
+      <gender>2</gender>
+      <dob>1995-11-24</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476327377</created>
+      <day>24</day>
+      <month>11</month>
+      <year>1995</year>
+      <phone>0935560624</phone>
+      <address>162/8 Nguyễn Thượng Hiền, p1, Gò Vấp</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7759521</lat>
+      <lng>106.6828613</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6002</ui>
+      <title>Nhân viên pha chế cà phê, phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,35</category>
+      <type>2,4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>172,105,435,201,64</strjo>
+  </appliedjob>
+</information>

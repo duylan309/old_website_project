@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>161</id>
+      <email>ben@jerrys.com</email>
+      <username></username>
+      <name>Ben &amp; Jerrys</name>
+      <im></im>
+      <gender>0</gender>
+      <category>15</category>
+      <phone>0909090909</phone>
+      <address>d.k</address>
+      <city>30</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>1</status>
+      <created>1463338026</created>
+      <is_received_email>1</is_received_email>
+      <dayleft>0</dayleft>
+    </db>
+  </userinfo>
+</information>

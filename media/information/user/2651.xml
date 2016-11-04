@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2651</id>
+      <email>14124158@st.hcmuaf.edu.vn</email>
+      <username/>
+      <name>Trần Thị Hoài My</name>
+      <im>1473742786_tran-thi-hoai-my.png</im>
+      <gender>2</gender>
+      <phone>01626224606</phone>
+      <address>KTX đại học Nông Lâm , khu phố 6, phường Linh Trung, quận Thủ Đức</address>
+      <city>30</city>
+      <dob>1996-11-6</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473742785</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>6</day>
+      <month>11</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8590189</lat>
+      <lng>106.765954</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên pha chế , phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,27</category>
+      <type>2,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Tôi có kinh nghiệm làm pha chế 1 năm với các loại thức uống: cà phê truyền thống ,soda, smoothie, milk tea , milk shake, coffee ice blended</skill>
+      <ui>2651</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Tôi hiện là sinh viên năm 3 từ TP. Bà Rịa - Vũng Tàu lên TP.HCM học tập và làm việc, ngoài thời gian học ở trường tôi tham gia lớp học giao tiếp tiếng anh, clup guitar và đi làm thêm.</about>
+      <keyword>Tinh thần trách nhiệm,Tập trung trong công việc,Chịu được áp lực công việc,Nhiệt tình,Tinh thần làm việc nhóm,Trung thực,Tự tin,Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống</keyword>
+    </db>
+  </user_cv>
+  <education>
+    <n_429>
+      <id>429</id>
+      <school>đại học Nông Lâm TP.HCM</school>
+      <degrees/>
+      <fieldofstudy>quản lí thị trưởng bất động sản</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_429>
+  </education>
+</information>

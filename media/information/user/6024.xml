@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6024</id>
+      <email>trung.pd4506@gmail.com</email>
+      <username/>
+      <name>Đức Trung Phạm</name>
+      <im>355480781456702_duc-trung-pham.jpg</im>
+      <gender>1</gender>
+      <dob>1995-6-28</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476337474</created>
+      <day>28</day>
+      <month>6</month>
+      <year>1995</year>
+      <phone>0932083059</phone>
+      <address>624, Quang Trung , Go Vap , p11</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.839103</lat>
+      <lng>106.65899</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6024</ui>
+      <title>Phụ bếp</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>4</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <s1>3200000</s1>
+      <salary>1</salary>
+      <about>Chào anh/chị em hiện tại đang là sinh viên cao đẳng ngành nhà hàng ở ĐH Hoa Sen, em là một người chưa có nhiều kinh nghiệm đứng bếp. Mong anh chị giúp đỡ .</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>191,391</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>398</strjo>
+  </savedjob>
+</information>

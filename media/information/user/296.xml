@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>296</id>
+      <email>laothithanhan@gmail.com</email>
+      <username/>
+      <name>Lao Thi Thanh An</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01662294496</phone>
+      <address>269/1 Nguyễn Trãi Q.1</address>
+      <city>30</city>
+      <dob>1994-7-17</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1468392445</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>17</day>
+      <month>7</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.76401</lat>
+      <lng>106.687682</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_29>
+      <id>29</id>
+      <title>Waitress</title>
+      <level>1</level>
+      <cmpname>Trung Nguyen Cafe</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Viet Nam</country>
+      <from>2014</from>
+      <to>2015</to>
+    </n_29>
+    <n_30>
+      <id>30</id>
+      <title>Barista, Waitress</title>
+      <level>1</level>
+      <cmpname>Pigasus Cafe and Boardgame</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Viet Nam</country>
+      <from>2016</from>
+      <to>Now</to>
+    </n_30>
+  </experience>
+  <education>
+    <n_21>
+      <id>21</id>
+      <school>Saigon Technology University</school>
+      <degrees>Undergraduate</degrees>
+      <fieldofstudy>Bachelor of Interiour Design - University</fieldofstudy>
+      <from>2012</from>
+      <to>2017</to>
+    </n_21>
+  </education>
+  <user_cv>
+    <db>
+      <ui>296</ui>
+      <title>Barista, Waitress</title>
+      <experience>2</experience>
+      <category>14,15,27,35</category>
+      <type>1,2</type>
+      <level>3,4</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <skill>Customer service,Problem-solving,Responsibility,Work well under pressure,Honesty,Confidence,Team-work,Enthusiasm</skill>
+    </db>
+  </user_cv>
+</information>

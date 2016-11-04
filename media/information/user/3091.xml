@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3091</id>
+      <email>honghanh.5695@gmail.com</email>
+      <username/>
+      <name>Đặng Ngọc Hồng Hạnh</name>
+      <im>1474267950_dang-ngoc-hong-hanh.png</im>
+      <gender>2</gender>
+      <phone>01643889583</phone>
+      <address>619/6 Hương Lộ 2,P.Bình Trị Đông, Q.Bình Tân</address>
+      <city>30</city>
+      <dob>1995-6-5</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474267950</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>5</day>
+      <month>6</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7724137</lat>
+      <lng>106.6166848</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>giao tiếp tốt&#13;
+làm việc được dưới áp lực cao&#13;
+có tinh thần làm việc nhóm tốt</skill>
+      <ui>3091</ui>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>151</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4762</id>
+      <email>demythanhthanh@gmail.com</email>
+      <username/>
+      <name>Khưu Hoàng Phương Thanh</name>
+      <im>4762_img-20160516-2.png</im>
+      <gender>2</gender>
+      <phone>0938991180</phone>
+      <address>12/16 nguyễn văn cừ, phường cầu kho, quận 1</address>
+      <city>30</city>
+      <dob>1995-5-25</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475483387</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>25</day>
+      <month>5</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7553876</lat>
+      <lng>106.6863955</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nha hang khach san</title>
+      <experience>1</experience>
+      <category>14,15,17,18</category>
+      <type>1</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill>Nhà hàng khách sạn </skill>
+      <ui>4762</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>193,85</strjo>
+  </appliedjob>
+</information>

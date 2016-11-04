@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>332</id>
+    <ui>3529</ui>
+    <ci>354</ci>
+    <ai>0</ai>
+    <ti>Bartender</ti>
+    <ta/>
+    <le>2</le>
+    <ty>2,5</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>4</s1>
+    <s2>7</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>26</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description>Pha chế các món nước căn bản: cafe, sinh tố, nước ép...\r\nQuản lý khu vực hồ nước và Sauna.\r\nQuản lý vệ sinh khu quầy bar.</description>
+    <requirement>Có kỹ năng giao tiếp tốt.\r\nYêu thích pha chế.\r\n(Ưu tiên người có kinh nghiệm pha chế)\r\n👉 Thời gian làm việc:\r\n3pm - 8pm.</requirement>
+    <benefit>Được tập luyện miễn phí tại CLB</benefit>
+    <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Nhiệt tình,Tự tin,Trung thực,Chịu được áp lực công việc,Tập trung trong công việc</keyword>
+    <ad/>
+    <location_id>224</location_id>
+    <lat>10.740234</lat>
+    <lng>10.740234</lng>
+    <de>2016-10-24</de>
+    <re>0000-00-00</re>
+    <cr>1474695306</cr>
+  </db>
+  <more>
+    <requirement>Có kỹ năng giao tiếp tốt.&#13;
+Yêu thích pha chế.&#13;
+(Ưu tiên người có kinh nghiệm pha chế)&#13;
+👉 Thời gian làm việc:&#13;
+3pm - 8pm.</requirement>
+    <description>Pha chế các món nước căn bản: cafe, sinh tố, nước ép...&#13;
+Quản lý khu vực hồ nước và Sauna.&#13;
+Quản lý vệ sinh khu quầy bar.</description>
+    <benefit>Được tập luyện miễn phí tại CLB</benefit>
+    <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Nhiệt tình,Tự tin,Trung thực,Chịu được áp lực công việc,Tập trung trong công việc</keyword>
+  </more>
+  <userapplied>
+    <total>20</total>
+    <strui>3575,2577,3677,3819,4036,2224,4336,4414,2472,4875,5002,5066,5398,5375,4511,5891,3756,6612,6825,4833</strui>
+  </userapplied>
+</information>

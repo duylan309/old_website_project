@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1763</id>
+      <email>voyentho2602@gmail.com</email>
+      <username/>
+      <name>Võ Yến Thơ</name>
+      <im>876774269120994_vo-yen-tho.jpg</im>
+      <gender>2</gender>
+      <dob>1996-2-26</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472896987</created>
+      <day>26</day>
+      <month>2</month>
+      <year>1996</year>
+      <phone>01694437688</phone>
+      <address>1134/11 Trường Sa, Phường 13, quận Phú Nhuận</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.792159</lat>
+      <lng>106.6822028</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, lễ tân</title>
+      <experience>1</experience>
+      <category>15,29,35</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>en,ch</lang>
+      <skill/>
+      <ui>1763</ui>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <keyword>Trung thực,nhiệt tình,Giao tiếp hiệu quả,Tinh thần trách nhiệm,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>13</total>
+    <strjo>211,219,161,172,205,92,199,222,202,105,100,107,201</strjo>
+  </appliedjob>
+  <experience>
+    <n_384>
+      <id>384</id>
+      <title>Sandwich artist</title>
+      <level>1</level>
+      <cmpname>Subway</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>1/3/2016</from>
+      <to>30/6/2016</to>
+    </n_384>
+  </experience>
+  <education>
+    <n_279>
+      <id>279</id>
+      <school>Đại học Ngoại ngữ-tin học tp HCM</school>
+      <degrees/>
+      <fieldofstudy>Tiếng anh thương mại</fieldofstudy>
+      <from>8/2014</from>
+      <to>8/2018</to>
+    </n_279>
+  </education>
+  <savedjob>
+    <total>1</total>
+    <strjo>161</strjo>
+  </savedjob>
+</information>

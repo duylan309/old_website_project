@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5384</id>
+      <email>unguyen2407@gmail.com</email>
+      <username/>
+      <name>Nguyễn Huỳn Phương Uyên</name>
+      <im>1475937081_nguyen-huyn-phuong-uyen.png</im>
+      <gender>0</gender>
+      <phone>01202451780</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475937081</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>phục vụ, thu ngân</title>
+      <experience>1</experience>
+      <category>14,27,29,30,31,35</category>
+      <type>2,5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>5384</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>371,64</strjo>
+  </appliedjob>
+</information>

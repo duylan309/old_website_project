@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4419</id>
+      <email>danhphan0118@gmail.com</email>
+      <username/>
+      <name>Phan Thanh Danh</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01228649404</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1475132949</created>
+      <dayleft>1480316949</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1475132949</last_signin>
+      <jobleft>4</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>1</total>
+    <strji>365</strji>
+  </totalJob>
+  <saveuser>
+    <total>8</total>
+    <strui>4848,5518,5595,5769,5844,5917,2302,6581</strui>
+  </saveuser>
+</information>

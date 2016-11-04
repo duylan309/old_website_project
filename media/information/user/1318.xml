@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1318</id>
+      <email>Nelpi91@gmail.com</email>
+      <username/>
+      <name>Trần Thị Ngọc Trân</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0909515791</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1472109064</created>
+      <dayleft>1479899817</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <jobleft>1</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>4</total>
+    <strji>189,190,286,287</strji>
+  </totalJob>
+  <saveuser>
+    <total>65</total>
+    <strui>971,1342,292,1378,1413,1113,1610,1686,1786,1802,1898,2224,2230,2588,2332,2756,2780,2858,3067,3120,3127,3148,3218,2866,3530,3532,3569,2577,3690,3718,3156,3808,3908,3976,4038,4042,4125,4183,4252,4255,4409,1274,3864,4785,4714,4833,5033,5163,5085,5511,5818,5911,6012,6360,6359,1259,6475,6877,6926,5977,6272,6279,7147,7161,7226</strui>
+  </saveuser>
+</information>

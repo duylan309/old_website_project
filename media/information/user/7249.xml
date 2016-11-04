@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7249</id>
+      <email>nguyenphuongly171198@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Phương Ly</name>
+      <im>533320696860524_ly-phuong.jpg</im>
+      <gender>2</gender>
+      <dob>1998-11-17</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477132282</created>
+      <day>17</day>
+      <month>11</month>
+      <year>1998</year>
+      <last_signin>1477132282</last_signin>
+      <phone>01655164567</phone>
+      <address>148 ung văn khiêm , phường 25 , quận bình thạnh, thành phố hồ chí minh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8059581</lat>
+      <lng>106.7205241</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_1178>
+      <id>1178</id>
+      <school>Đại học Sài Gòn</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Quản trị kinh doanh</fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_1178>
+  </education>
+  <user_cv>
+    <db>
+      <ui>7249</ui>
+      <title>Nhân viên phục vụ , thu ngân , nhân viên order</title>
+      <experience>1</experience>
+      <category>14,17,27,29,31,35</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>Hiện đang là sinh viên năm 1 của trường đại học sài gòn khoa quản trị kinh doanh . Đã từng bán hàng , thu ngân , order , phục vụ ở các quán , nhà hàng . </about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

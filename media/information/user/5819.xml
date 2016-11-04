@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5819</id>
+      <email>phatnguyen130716@gmail.com</email>
+      <username/>
+      <name>Nguyễn Tấn Phát</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01658685081</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476198064</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên</title>
+      <experience>1</experience>
+      <category>14,15,16,17,18,19,20,28,29,31</category>
+      <type>1,2</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>5819</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>324</strjo>
+  </appliedjob>
+</information>

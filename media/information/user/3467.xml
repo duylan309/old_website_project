@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3467</id>
+      <email>vymytran93@gmail.com</email>
+      <username/>
+      <name>Tran My Vy</name>
+      <im>1474640264_tran-my-vy.png</im>
+      <gender>0</gender>
+      <phone>01666263671</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474640263</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Waitress/ Bartender/ Hostess/ etc.</title>
+      <experience>2</experience>
+      <category>14,15,16,18,20</category>
+      <type>1,2,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Highlights from my experience includes:&#13;
+-	English fluency (Listening, Speaking, Reading and Writing)&#13;
+-      Working in a high responsibility environment &#13;
+-	Problem – solving skill&#13;
+-	Team working, customer service, goals oriented&#13;
+-	Negotiating – Communicating skill &#13;
+-	Hungry – to – study new things&#13;
+-	Customer-relationship building&#13;
+-	Working under high-pressure environment&#13;
+</skill>
+      <ui>3467</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>318</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2202</id>
+      <email>dangvanxanh1976@gmail.com</email>
+      <username/>
+      <name>dangvanxanh</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0965546535</phone>
+      <address/>
+      <city/>
+      <dob>1976-4-22</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473304158</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>22</day>
+      <month>4</month>
+      <year>1976</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>western sous chef</title>
+      <experience>5</experience>
+      <category>20</category>
+      <type>6</type>
+      <level>4</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>2202</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>225</strjo>
+  </appliedjob>
+  <experience>
+    <n_476>
+      <id>476</id>
+      <title>16 working western kit</title>
+      <level>1</level>
+      <cmpname>movenpich saigon</cmpname>
+      <city>ho chi minh</city>
+      <country>vietnam</country>
+      <from>2000</from>
+      <to>now</to>
+    </n_476>
+  </experience>
+  <education>
+    <n_342>
+      <id>342</id>
+      <school>ly thương kiệt hoc mon thanh phô ho chi minh</school>
+      <degrees>high shool</degrees>
+      <fieldofstudy> kitchen</fieldofstudy>
+      <from>2000</from>
+      <to>now</to>
+    </n_342>
+  </education>
+</information>

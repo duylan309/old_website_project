@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4377</id>
+      <email>qhqt1012120@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Hồng Phượng</name>
+      <im>1475118626_nguyen-thi-hong-phuong.png</im>
+      <gender>2</gender>
+      <phone>0907470094</phone>
+      <address>38B1, đ. Cây Keo, p. Tam Phú, q. Thủ Đức</address>
+      <city>30</city>
+      <dob>1994-12-14</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475118626</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>14</day>
+      <month>12</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8551341</lat>
+      <lng>106.7382072</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>5,6</type>
+      <level>2,3,4</level>
+      <lang>vi,en,fr</lang>
+      <skill>Giao tiếp với người nước ngoài, nắm bắt tâm lý khách hàng, tiếp thu nhanh, xử lý tình huống tốt, làm việc trong môi trường áp lực cao, tinh thần trách nhiệm</skill>
+      <ui>4377</ui>
+      <s1>0</s1>
+      <salary>2</salary>
+      <about></about>
+      <keyword></keyword>
+      <s2>0</s2>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>211</strjo>
+  </appliedjob>
+  <experience>
+    <n_927>
+      <id>927</id>
+      <title>Country Consultant</title>
+      <level>1</level>
+      <cmpname>XploreAsia</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Vietnam</country>
+      <from>Sep 2016</from>
+      <to>present</to>
+    </n_927>
+    <n_928>
+      <id>928</id>
+      <title>Telemarketer</title>
+      <level>1</level>
+      <cmpname>Mekong Coconut Oil Company</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Vietnam</country>
+      <from>Oct 2015</from>
+      <to>Nov 2015</to>
+    </n_928>
+    <n_929>
+      <id>929</id>
+      <title>Teaching Assistant</title>
+      <level>1</level>
+      <cmpname>ILA</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Vietnam</country>
+      <from>May 2014</from>
+      <to>Aug 2015</to>
+    </n_929>
+  </experience>
+  <education>
+    <n_721>
+      <id>721</id>
+      <school>University of Social Sciences and Humanities</school>
+      <degrees>Bachelor</degrees>
+      <fieldofstudy>International Relations</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_721>
+  </education>
+</information>

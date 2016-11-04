@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4277</id>
+      <email>thaonguyen9056@yahoo.com</email>
+      <username/>
+      <name>Nguyễn Thị Phương Thảo</name>
+      <im>1103408273107064_nguyen-thi-phuong-thao.jpg</im>
+      <gender>2</gender>
+      <dob>1994-6-4</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475054525</created>
+      <day>4</day>
+      <month>6</month>
+      <year>1994</year>
+      <last_signin>1475054525</last_signin>
+      <phone>0938215878</phone>
+      <address>581-583 Lũy Bán Bích,  Quận Tân Phú</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.778404</lat>
+      <lng>106.634806</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_907>
+      <id>907</id>
+      <title>Nhân viên phục vụ,  nhân viên bếp</title>
+      <level>1</level>
+      <cmpname>Pizza Hut Việt Nam</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>Tháng 4/2014</from>
+      <to>Tháng 6/2015</to>
+    </n_907>
+  </experience>
+  <education>
+    <n_695>
+      <id>695</id>
+      <school>Đại học Ngoại Ngữ - Tin Học Tp Hồ Chí Minh</school>
+      <degrees>Cao đẳng</degrees>
+      <fieldofstudy>CNTT</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_695>
+  </education>
+  <user_cv>
+    <db>
+      <ui>4277</ui>
+      <title>Nhân viên phục vụ,  nhân viên bếp,...</title>
+      <experience>2</experience>
+      <category>14,15,17,20,27,29,31,35,36</category>
+      <type>5,6</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <about>- Kinh nghiệm hơn 1 năm bán và phục vụ tại quán trà chanh,  thức ăn nhanh. &#13;
+- Kinh nghiệm hơn 1 năm làm tại nhà hàng Pizza Hut VN tại vị trí phục vụ và vị trí bếp. </about>
+      <skill>- Phục vụ tốt trong giờ cao điểm. &#13;
+- Chăm chỉ,  chịu khó học hỏi,  trau dồi kinh nghiệm trong công việc. &#13;
+- Có trách nhiệm cao trong  công việc. &#13;
+- Hoạt bát,  nhanh nhẹn. &#13;
+- Chịu được áp lực công việc. </skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4851</id>
+      <email>bichthao2519@gmail.com</email>
+      <username/>
+      <name>Lê Bích Thảo</name>
+      <im>493822940787999_le-bich-thao.jpg</im>
+      <gender>2</gender>
+      <dob>1997-9-1</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475552436</created>
+      <day>1</day>
+      <month>9</month>
+      <year>1997</year>
+      <phone>0942972519</phone>
+      <address>316 phạm văn đồng,  hiệp bình chánh,  thủ đức,  hcm</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8330083</lat>
+      <lng>106.7274973</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15,17</category>
+      <type>4,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Giao tiếp tốt,  năng động </skill>
+      <ui>4851</ui>
+      <s1>2000</s1>
+      <salary>1</salary>
+      <about>Là sv năm 2 khoa QHCC -TT của trường đh Văn Lang. Đến từ tỉnh Ninh Thuận </about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>267</strjo>
+  </appliedjob>
+  <experience>
+    <n_1014>
+      <id>1014</id>
+      <title>nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>lycheevn</cmpname>
+      <city>hồ chí minh</city>
+      <country>việt nam </country>
+      <from>1/2016</from>
+      <to>9/2016</to>
+    </n_1014>
+  </experience>
+  <education>
+    <n_813>
+      <id>813</id>
+      <school>đh văn lang </school>
+      <degrees/>
+      <fieldofstudy>qhcc-tt</fieldofstudy>
+      <from>2015</from>
+      <to>nay</to>
+    </n_813>
+  </education>
+</information>

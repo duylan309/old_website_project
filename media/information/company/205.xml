@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>205</id>
+    <ui>240</ui>
+    <name>ANH TUK’s ho chi minh</name>
+    <url>anhtuk</url>
+    <im>971656009593923_anh-tukk.jpg</im>
+    <im_banner>971656009593923_anh-tukk-cover.jpg</im_banner>
+    <category>14</category>
+    <phone>+84838282288</phone>
+    <address>23 Đồng Khởi Street, District 1</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.773390</lat>
+    <lng>106.705933</lng>
+    <website>http://www.anhtuk.com</website>
+    <about/>
+    <facebook>https://www.facebook.com/anhtukmodernthai/</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1467862748</created>
+  </db>
+  <more>
+    <about>Anh Tuk kitchen presents the Modern Thai concept with a collection of Thai-inspired recipe with a modern twist. </about>
+    <whyworkus/>
+  </more>
+  <companybanner>971656009593923_anh-tukk-cover.jpg</companybanner>
+  <totalJob>
+    <total>1</total>
+    <strji>81</strji>
+  </totalJob>
+</information>

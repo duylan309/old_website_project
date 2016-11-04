@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1739</id>
+      <email>nguyenthanhbinh230294@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thanh Bình</name>
+      <im>1739_nguyen-thanh-binh-024893195.jpg</im>
+      <gender>1</gender>
+      <phone>01626620639</phone>
+      <address>84/1 Trần Hữu Trang, P 10, Q Phú Nhuận, TPHCM</address>
+      <city>30</city>
+      <dob>1994-2-23</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472847342</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1472847342</last_signin>
+      <day>23</day>
+      <month>2</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7764745</lat>
+      <lng>106.7008831</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_274>
+      <id>274</id>
+      <school>Đại học Hoa Sen</school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy>Quản trị kinh doanh</fieldofstudy>
+      <from>2012</from>
+      <to>2017</to>
+    </n_274>
+  </education>
+  <experience>
+    <n_375>
+      <id>375</id>
+      <title>Thực tập sinh</title>
+      <level>1</level>
+      <cmpname>Công ty TNHH Việt CAD</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>4/2016</from>
+      <to>7/2016</to>
+    </n_375>
+    <n_376>
+      <id>376</id>
+      <title>Thực tập sinhn</title>
+      <level>1</level>
+      <cmpname>Tập đoàn Thái Tuấn</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>6/2014</from>
+      <to>7/2014</to>
+    </n_376>
+    <n_786>
+      <id>786</id>
+      <title>Part-time</title>
+      <level>1</level>
+      <cmpname>Pizza Hut</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>7/2013</from>
+      <to>3/2014</to>
+    </n_786>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>1739</ui>
+      <title>Nhân viên Marketing, Bán hàng, Nhân viên nhà hàng,...</title>
+      <experience>1</experience>
+      <category>14,17,18,20,28,29,31,35,36</category>
+      <type>1,2,3,4,5,6</type>
+      <level>1,2,3</level>
+      <lang>vi,en</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <skill>Sử dụng Microsoft Word, Excel, PowerPoint tốt.&#13;
+</skill>
+      <keyword>Chịu được áp lực công việc,Nhiệt tình,Trung thực,Tinh thần trách nhiệm</keyword>
+      <about>Là một người sống khá nội tâm.&#13;
+Bản tính thật thà, có sao nói vậy.&#13;
+Khi đã rõ mục tiêu, sẽ cố gắng theo đuổi đến khi hoàn thành.</about>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>220</strjo>
+  </appliedjob>
+</information>

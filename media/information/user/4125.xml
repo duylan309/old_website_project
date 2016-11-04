@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4125</id>
+      <email>xuanthao2371995@gmail.com</email>
+      <username/>
+      <name>Tống Thị Xuân Thảo</name>
+      <im>1192974114081892_tong-xuan-thao.jpg</im>
+      <gender>2</gender>
+      <dob>1995-7-23</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474978008</created>
+      <day>23</day>
+      <month>7</month>
+      <year>1995</year>
+      <phone>0938742230</phone>
+      <address>173 Quốc Lộ 13, P.26, Q.Bình Thạnh, Tp. Hcm</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8713496</lat>
+      <lng>106.7891787</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>4125</ui>
+      <title>Nhân viên phục vụ, nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>14,15,17,27,29,30,31,35</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en,rs</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>8</total>
+    <strjo>287,267,371,150,262,222,320,364</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>287</strjo>
+  </savedjob>
+  <education>
+    <n_781>
+      <id>781</id>
+      <school>Đại học sư phạm tp.Hcm</school>
+      <degrees/>
+      <fieldofstudy>Ngôn ngữ nga anh</fieldofstudy>
+      <from>2014</from>
+      <to>2019</to>
+    </n_781>
+  </education>
+</information>

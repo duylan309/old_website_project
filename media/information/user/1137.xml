@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1137</id>
+      <email>phanvannhien@gmail.com</email>
+      <username/>
+      <name>Nhiên Phan</name>
+      <im>1059089837478929_nhien-phan.jpg</im>
+      <gender>1</gender>
+      <dob>01988-3-12</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471839271</created>
+      <day>12</day>
+      <month>3</month>
+      <year>01988</year>
+      <phone>0902181852</phone>
+      <address></address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>1137</ui>
+      <title>Manager, Research and Development</title>
+      <experience>5</experience>
+      <category>29</category>
+      <type>1</type>
+      <level>5</level>
+      <lang>en</lang>
+      <s1>1000000000</s1>
+      <salary>1</salary>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

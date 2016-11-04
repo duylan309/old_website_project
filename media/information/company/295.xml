@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>295</id>
+    <ui>1554</ui>
+    <name>Pasteur Street Brewing Company</name>
+    <url>PasteurStreetBrewing</url>
+    <im>_pasteur-street-brewing-company.jpg</im>
+    <im_banner>_pasteur-street-brewing-company-cover.jpg</im_banner>
+    <category>14,16</category>
+    <phone></phone>
+    <address>144, Pasteur, Quận 1</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.7748203</lat>
+    <lng>106.7008862</lng>
+    <website>http://www.pasteurstreet.com</website>
+    <about/>
+    <facebook>https://www.facebook.com/PasteurStreetBrewing/</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1472526389</created>
+  </db>
+  <more>
+    <about>  American craft brewery located in Saigon, Vietnam. We produce exotic styles of beer in small batches for the global market.\\r\\n  </about>
+    <whyworkus/>
+  </more>
+  <companybanner>_pasteur-street-brewing-company-cover.jpg</companybanner>
+  <totalJob>
+    <total>2</total>
+    <strji>210,211</strji>
+  </totalJob>
+  <pagecmpfacebookcover>295_pasteur-beer.png</pagecmpfacebookcover>
+</information>

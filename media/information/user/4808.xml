@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4808</id>
+      <email>phuongtran.shark@gmail.com</email>
+      <username/>
+      <name>Trần Thị Hoàng Phương</name>
+      <im>1475506323_tran-thi-hoang-phuong.png</im>
+      <gender>0</gender>
+      <phone>01203535997</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475506323</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên</title>
+      <experience>1</experience>
+      <category>14,15,17</category>
+      <type>2,6</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>4808</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>156,322,64</strjo>
+  </appliedjob>
+</information>

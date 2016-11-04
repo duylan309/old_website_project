@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5093</id>
+      <email>tranngocliensic@gmail.com</email>
+      <username/>
+      <name>Trần Ngọc Liên</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0939672799</phone>
+      <address/>
+      <city/>
+      <dob>1994-12-23</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475726098</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>23</day>
+      <month>12</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>2</experience>
+      <category>14</category>
+      <type>5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>từng làm việc tại nhà hàng khách sạn</skill>
+      <ui>5093</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>284,476</strjo>
+  </appliedjob>
+  <education>
+    <n_1299>
+      <id>1299</id>
+      <school>Vatel International Business Tourism and hotel management</school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy>Quản lí nhà hàng khách sạn</fieldofstudy>
+      <from>2013</from>
+      <to>2016</to>
+    </n_1299>
+  </education>
+</information>

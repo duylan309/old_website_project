@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4922</id>
+      <email>thanhngannh15@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Thanh Ngân</name>
+      <im>853174958151673_nguyen-thi-thanh-ngan.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475587101</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Việc làm parttime</title>
+      <experience>7</experience>
+      <category>14,15,29,35,36</category>
+      <type>6</type>
+      <level>1,2,4</level>
+      <lang>vi,en</lang>
+      <skill>Giao tiếp tốt, có khả năng phân chia công việc, trách nhiệm, tinh thần làm việc tốt</skill>
+      <ui>4922</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>285</strjo>
+  </appliedjob>
+</information>

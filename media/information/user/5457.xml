@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5457</id>
+      <email>minhmy013@yahoo.com.vn</email>
+      <username/>
+      <name>Phan Thị Minh Mỹ</name>
+      <im>1475991170_phan-thi-minh-my.png</im>
+      <gender>2</gender>
+      <phone>0938622298</phone>
+      <address>39/7/22 Phú Thọ p1 q11</address>
+      <city>30</city>
+      <dob>1998-3-1</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475991170</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>1</day>
+      <month>3</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.757311</lat>
+      <lng>106.641345</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,17,31,35</category>
+      <type>2,4,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill></skill>
+      <ui>5457</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Dọn dẹp gọn gàng, mau tiếp thu và chịu khó</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>161</strjo>
+  </appliedjob>
+  <experience>
+    <n_1124>
+      <id>1124</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Popeyes</cmpname>
+      <city>Tphcm</city>
+      <country>VN</country>
+      <from>30/8</from>
+      <to>5/10</to>
+    </n_1124>
+  </experience>
+</information>

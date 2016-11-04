@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1047</id>
+      <email>ngocthien826@gmail.com</email>
+      <username/>
+      <name>Phạm Gia</name>
+      <im>337108333345338_pham-gia.jpg</im>
+      <gender>1</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471659144</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <experience>
+    <n_250>
+      <id>250</id>
+      <title>Bartender</title>
+      <level>1</level>
+      <cmpname>Nhà hàng Hương Việt 2 37 Bùi Viện q1</cmpname>
+      <city>tp Hồ Chí MInh</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_250>
+    <n_251>
+      <id>251</id>
+      <title>Nhân viên pha chế</title>
+      <level>1</level>
+      <cmpname>Nhà hàng Việt cuisine 59-61 Bùi Viện</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>2015</to>
+    </n_251>
+  </experience>
+  <education>
+    <n_163>
+      <id>163</id>
+      <school>Trung cấp nghề KHÔI VIỆT</school>
+      <degrees>giỏi</degrees>
+      <fieldofstudy>Pha chế rượu</fieldofstudy>
+      <from>9/2014</from>
+      <to>11/2014</to>
+    </n_163>
+    <n_164>
+      <id>164</id>
+      <school>Cao đẳng nghề NGUYỄN TRƯỜNG TỘ</school>
+      <degrees>khá</degrees>
+      <fieldofstudy>Pha chế rượu</fieldofstudy>
+      <from>10/2016</from>
+      <to>12/2016</to>
+    </n_164>
+  </education>
+</information>

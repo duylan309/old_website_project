@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2542</id>
+      <email>cuocsongvovichiviyeu@gmail.com</email>
+      <username/>
+      <name>nguyễn tấn toàn</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0967432046</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473652089</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>phụ bếp</title>
+      <experience>2</experience>
+      <category>20</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>học bếp tại nha trang. và làm bếp gần 2 năm</skill>
+      <ui>2542</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>191</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>191</strjo>
+  </savedjob>
+</information>

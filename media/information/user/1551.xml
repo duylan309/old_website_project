@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1551</id>
+      <email>thaikimngan92@gmail.com</email>
+      <username/>
+      <name>Thái Kim Ngân</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0943828249</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472524742</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>pha chế</title>
+      <experience>2</experience>
+      <category>14,15</category>
+      <type>1</type>
+      <level>2,4</level>
+      <lang>vi,en</lang>
+      <skill>giao tiếp tốt .nhanh nhẹn và trung thực</skill>
+      <ui>1551</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>119</strjo>
+  </appliedjob>
+</information>

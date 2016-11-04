@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3017</id>
+      <email>lucyphantomhive1988@gmail.com</email>
+      <username/>
+      <name>NGUYỄN HỒ TUYẾT NHI</name>
+      <im>1474184882_nguyen-ho-tuyet-nhi.png</im>
+      <gender>2</gender>
+      <phone>0909862553</phone>
+      <address>437/32 HOÀNG VĂN THỤ, PHƯỜNG 04, QUẬN TÂN BÌNH, TP.HCM</address>
+      <city>30</city>
+      <dob>1997-7-13</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474184882</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>13</day>
+      <month>7</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế/ Phục vụ/ Bán hàng</title>
+      <experience>1</experience>
+      <category>15,17,35</category>
+      <type>2,4,6</type>
+      <level>1,2</level>
+      <lang>en</lang>
+      <skill>Nhanh nhẹn - Làm việc tốt dưới áp lực cao - Cẩn trọng - Dễ chịu - Chịu khó</skill>
+      <ui>3017</ui>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>7</total>
+    <strjo>205,252,140,222,107,124,294</strjo>
+  </appliedjob>
+  <experience>
+    <n_667>
+      <id>667</id>
+      <title>CASHIER</title>
+      <level>1</level>
+      <cmpname>THE LOFT CAFE</cmpname>
+      <city>TP Hồ Chí Minh</city>
+      <country>VIỆT NAM</country>
+      <from>10/2015</from>
+      <to>03/2016</to>
+    </n_667>
+    <n_668>
+      <id>668</id>
+      <title>SALE ASSISTANT (làm việc tại nhà +bán hội chợ)</title>
+      <level>1</level>
+      <cmpname>Princess Cosmetics</cmpname>
+      <city>TP Hồ Chí Minh</city>
+      <country>VIỆT NAM</country>
+      <from>03/2015</from>
+      <to>03/2016</to>
+    </n_668>
+  </experience>
+  <education>
+    <n_494>
+      <id>494</id>
+      <school>ĐẠI HỌC CÔNG NGHỆ HUTECH</school>
+      <degrees/>
+      <fieldofstudy>NGÔN NGỮ ANH</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_494>
+  </education>
+</information>

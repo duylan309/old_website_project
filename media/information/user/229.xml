@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>229</id>
+      <email>neville@afg.vn</email>
+      <username/>
+      <name>Neville Pearsall</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0909587774</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>3</status>
+      <created>1467254675</created>
+      <dayleft>1480248247</dayleft>
+      <page>5</page>
+      <is_newletter>0</is_newletter>
+      <is_received_email>1</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <jobleft>0</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>5</total>
+    <strji>84,92,206,207,381</strji>
+  </totalJob>
+</information>

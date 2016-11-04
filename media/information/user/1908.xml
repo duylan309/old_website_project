@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1908</id>
+      <email>huuhau.le113@gmail.com</email>
+      <username/>
+      <name>Lê Hữu Hậu</name>
+      <im>1908_img-4208-1-.JPG</im>
+      <gender>1</gender>
+      <phone>01269 767 321</phone>
+      <address>8A đường 52 phường Hiệp Bình Chánh quận Thủ Đức</address>
+      <city>30</city>
+      <dob>1998-3-11</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473060119</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1473060119</last_signin>
+      <day>11</day>
+      <month>3</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.839974</lat>
+      <lng>106.7361817</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>1908</ui>
+      <title>Barista</title>
+      <experience>7</experience>
+      <category>14,15,17,29,31,36</category>
+      <type>2,4,5</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Trung thực,Nhiệt tình,Chịu được áp lực công việc,Tinh thần trách nhiệm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>93</strjo>
+  </appliedjob>
+</information>

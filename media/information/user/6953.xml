@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6953</id>
+      <email>roseosaka@gmail.com</email>
+      <username/>
+      <name>Huỳnh Thanh Thương</name>
+      <im>6953_14796133-951789924965642-1445803229-o.jpg</im>
+      <gender>1</gender>
+      <phone>01673175632</phone>
+      <address>119B/19/32 Nguyễn Thị Tần, quận 8</address>
+      <city>30</city>
+      <dob>1994-6-17</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476966535</created>
+      <dayleft>0</dayleft>
+      <jobleft>0</jobleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476966535</last_signin>
+      <day>17</day>
+      <month>6</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.748341</lat>
+      <lng>106.68523</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6953</ui>
+      <title>Nhân viên</title>
+      <experience>1</experience>
+      <category>14,15,16,17,19,20,26,27,28,29,31,35</category>
+      <type>2,4,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <savedjob>
+    <total>1</total>
+    <strjo>386</strjo>
+  </savedjob>
+  <appliedjob>
+    <total>3</total>
+    <strjo>262,354,267</strjo>
+  </appliedjob>
+</information>

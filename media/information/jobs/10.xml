@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>10</id>
+    <ui>22</ui>
+    <ci>22</ci>
+    <ai>0</ai>
+    <ti>Reservation Manager</ti>
+    <ta/>
+    <le>4</le>
+    <ex>4</ex>
+    <sa>1</sa>
+    <lo>30</lo>
+    <ca>14,15,17</ca>
+    <so>0</so>
+    <st></st>
+    <de>0000-00-00</de>
+    <re>0000-00-00</re>
+    <cr>1460957186</cr>
+    <ty>1</ty>
+    <s1>0</s1>
+    <s2>0</s2>
+    <sn>1</sn>
+    <s3>0</s3>
+    <s4>0</s4>
+    <la></la>
+  </db>
+  <more>
+    <number>2</number>
+    <requirement>c.	Kỹ năng và kinh nghiệm : &#13;
+o	Tốt nghiệp Đại học/Cao đẳng chuyên ngành Công nghệ thông tin&#13;
+o	Kinh nghiệm từ 2 năm trở lên trong lập trình hướng đối tượng, PHP-framework : Zend, Codeigniter, nắm vững mô hình MVC, ứng dụng các Javascript framework: jQuery, Closure…&#13;
+o	Có kinh nghiệm xử lý dữ liệu lớn với MySQL &#13;
+o	Thành thạo kỹ năng lập trình Web/wap: HTML&amp; CSS, Javascript &amp; Ajax…&#13;
+o	Am hiểu về HTML5, CSS3. &#13;
+o	Từng xây dựng các web site cho phép Responsive hỗ trợ mobile &#13;
+o	Nắm vững các kỹ thuật Caching, Performance Tuning, Database Tuning, Nosql, SOAP, REST. &#13;
+o	Hiểu biết về web 2.0 hoặc đã từng tham gia xây dựng sản phẩm/ dịch vụ có thương hiệu. &#13;
+o	Khả năng tư duy, học hỏi nhanh, đưa ra các ý tưởng để phát triển dự án. &#13;
+o	Dễ thích nghi, kiên nhẫn. &#13;
+o	Có tinh thần trách nhiệm cao. &#13;
+o	Kỹ năng làm việc dưới áp lực. &#13;
+o	Hòa đồng và tham gia vào các phong trào của tập thể.</requirement>
+    <description>a.	Số lượng : 02&#13;
+b.	Mô tả công việc : &#13;
+o	Triển khai,thực hiện các công việc của cấp trên giao phó theo kế hoạch đã đề ra. &#13;
+o	Cùng Cấp trên và các thành viên trong team phân tích, thiết kế các tính năng sản phẩm. &#13;
+o	Xây dựng,kiểm tra và hoàn thành dự án phần mềm theo tiến độ sản phẩm đề ra. &#13;
+o	Tìm và Nghiên cứu các công nghệ mới, đưa ra hướng áp dụng vào sản phẩm của công ty. &#13;
+o	Chủ động đề xuất cập nhật, xây dựng các tính năng cho sản phẩm. &#13;
+o	Chủ động liên hệ,phối hợp với các thành viên trong nhóm để hoàn thành sản phẩm. &#13;
+o	Thực hiện các công việc khác theo phân công của cấp trên. &#13;
+o	Giao lưu, hòa đồng với các thành viên khác để xây dựng các phong trào tập thể</description>
+  </more>
+  <totalApplied>1</totalApplied>
+  <userapplied>
+    <total>1</total>
+    <strui>79</strui>
+  </userapplied>
+</information>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>978</id>
+      <email>j3lazerio@gmail.com</email>
+      <username/>
+      <name>Đồng Trần Hoàng Hiếu</name>
+      <im>930586580403732_hoang-hieu.jpg</im>
+      <gender>1</gender>
+      <dob>1996-10-21</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471525649</created>
+      <day>21</day>
+      <month>10</month>
+      <year>1996</year>
+      <phone>0975501260</phone>
+      <address>153 Lý Thường Kiệt P.7 Q.11</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7917807</lat>
+      <lng>106.6527294</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>978</ui>
+      <title>Nhân viên phục vụ , pha chế</title>
+      <experience>7</experience>
+      <category>14,15</category>
+      <type>1,2,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Giao tiếp hiệu quả</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>64</strjo>
+  </appliedjob>
+</information>

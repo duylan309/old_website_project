@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>641</id>
+      <email>lemoneymac@yahoo.com</email>
+      <username/>
+      <name>Nguyễn Minh Trực</name>
+      <im>641_truc-07-b.jpg</im>
+      <gender>1</gender>
+      <dob>1992-2-21</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470725242</created>
+      <day>21</day>
+      <month>2</month>
+      <year>1992</year>
+      <phone>0977473032</phone>
+      <address>42/41/3 Hoàng Hoa Thám q Bình Thạnh.</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.803838</lat>
+      <lng>106.691912</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>kế toán kho</title>
+      <experience>1</experience>
+      <category>14,15,16,20,26,31,35,36</category>
+      <type>1,3</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill>-toeic 795, vi tính văn phòng,...</skill>
+      <ui>641</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Ít nói, hiền, cần cù.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>78,149</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>149</strjo>
+  </savedjob>
+  <experience>
+    <n_1226>
+      <id>1226</id>
+      <title>nhân viên kho</title>
+      <level>1</level>
+      <cmpname>Cùng mua</cmpname>
+      <city>hcm</city>
+      <country>vietnam</country>
+      <from>1/2016</from>
+      <to>8/2016</to>
+    </n_1226>
+  </experience>
+  <education>
+    <n_997>
+      <id>997</id>
+      <school>Đại học HoaSen</school>
+      <degrees>Cao Đẳng</degrees>
+      <fieldofstudy>Kế toán</fieldofstudy>
+      <from>2010</from>
+      <to>2014</to>
+    </n_997>
+  </education>
+</information>

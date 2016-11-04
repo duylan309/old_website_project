@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2927</id>
+      <email>tthhanh1602@gmail.com</email>
+      <username/>
+      <name>Trần Thị Hồng Hạnh</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0934873438</phone>
+      <address>90/19 Đường 10, kp.1, P.Cát Lái, Quận 2</address>
+      <city>30</city>
+      <dob>1996-2-16</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474088153</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1474088153</last_signin>
+      <day>16</day>
+      <month>2</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7708268</lat>
+      <lng>106.7853922</lng>
+      <deactive>0</deactive>
+    </db>
+  </userinfo>
+  <experience>
+    <n_647>
+      <id>647</id>
+      <title>Cashier</title>
+      <level>1</level>
+      <cmpname>KFC Việt Nam</cmpname>
+      <city>HCM</city>
+      <country>Việt Nam</country>
+      <from>12/2014</from>
+      <to>1/2016</to>
+    </n_647>
+    <n_648>
+      <id>648</id>
+      <title>CTV</title>
+      <level>1</level>
+      <cmpname>CT CP DV Tức Thồi</cmpname>
+      <city>HCM</city>
+      <country>Việt Nam</country>
+      <from>25/04/2016</from>
+      <to>2016</to>
+    </n_648>
+  </experience>
+  <education>
+    <n_479>
+      <id>479</id>
+      <school>ĐH Văn Hiến</school>
+      <degrees/>
+      <fieldofstudy>QT Nhà Hàng - Khách Sạn</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_479>
+  </education>
+  <user_cv>
+    <db>
+      <ui>2927</ui>
+      <title>Nhân viên phục vụ, Cashier</title>
+      <experience>1</experience>
+      <category>14,15,17,18,27,28,29,35</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+      <deactive>0</deactive>
+    </db>
+  </user_cv>
+</information>

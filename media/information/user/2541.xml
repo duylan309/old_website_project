@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2541</id>
+      <email>huynhkhanhlinh16@gmail.com</email>
+      <username/>
+      <name>Huỳnh Thị Khánh Linh</name>
+      <im>1473651388_huynh-thi-khanh-linh.png</im>
+      <gender>2</gender>
+      <phone>01237227229</phone>
+      <address>277/4B Tôn Thất Thuyết, Phường 3, Quận 4</address>
+      <city>11</city>
+      <dob>1997-7-16</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473651388</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>16</day>
+      <month>7</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Bình Dương</city_text_vi>
+      <city_text_en>Binh Duong</city_text_en>
+      <lat>10.753291</lat>
+      <lng>106.695649</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>6</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill>Hoà đồng, có khả năng giao tiếp với mọi người</skill>
+      <ui>2541</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Người không cao lắm, hơi ốm, hay cười, nhiệt tình, mặt không khó nhìn lắm =))</about>
+      <keyword>Tinh thần trách nhiệm,Tập trung trong công việc,Trung thực,Nhiệt tình,Tự tin</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>222</strjo>
+  </appliedjob>
+</information>

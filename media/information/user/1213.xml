@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1213</id>
+      <email>ltrtruc144@gmail.com</email>
+      <username/>
+      <name>Lê Trung Trực</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0937280282</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471937390</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15</category>
+      <type>6</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>1213</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>84,69</strjo>
+  </appliedjob>
+</information>

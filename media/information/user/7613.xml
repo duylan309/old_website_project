@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7613</id>
+      <email>he0_nik_poly13@yahoo.com.vn</email>
+      <username/>
+      <name>Đặng Ngọc Minh</name>
+      <im>1017593431695936_ngoc-mint.jpg</im>
+      <gender>2</gender>
+      <dob>1996-2-14</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477331261</created>
+      <day>14</day>
+      <month>2</month>
+      <year>1996</year>
+      <phone>0918065825</phone>
+      <address>150 quốc lộ 13 phường 25 quận Bình Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8063335</lat>
+      <lng>106.7115577</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_1238>
+      <id>1238</id>
+      <school>Đại học Hutech</school>
+      <degrees/>
+      <fieldofstudy>Công nghệ sinh học</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_1238>
+  </education>
+  <user_cv>
+    <db>
+      <ui>7613</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>Sinh viên năm 3 đại học Hutech</about>
+      <skill>Đã từng làm phục vụ tại quán cafe</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>172</strjo>
+  </appliedjob>
+</information>

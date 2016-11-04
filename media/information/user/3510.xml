@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3510</id>
+      <email>songnhi14998@gmail.com</email>
+      <username/>
+      <name>Song Nhi</name>
+      <im>3510_image.jpg</im>
+      <gender>2</gender>
+      <phone>0934302192</phone>
+      <address>74/42 đường số 14 phường bình hưng hoà quận bình tân</address>
+      <city>30</city>
+      <dob>1998-9-14</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474654991</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1474654991</last_signin>
+      <day>14</day>
+      <month>9</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.779921</lat>
+      <lng>106.613086</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>3510</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,17,31</category>
+      <type>1,4</type>
+      <level>1,2</level>
+      <lang>vi</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about></about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>330</strjo>
+  </appliedjob>
+</information>

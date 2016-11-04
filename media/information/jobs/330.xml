@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>330</id>
+    <ui>3527</ui>
+    <ci>353</ci>
+    <ai>0</ai>
+    <ti>Nhân viên Phục Vụ, Pha chế, Thu ngân, Bếp, Tạp vụ.</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14,15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>219</location_id>
+    <lat>10.763916</lat>
+    <lng>10.763916</lng>
+    <de>2016-10-24</de>
+    <re>0000-00-00</re>
+    <cr>1474684050</cr>
+  </db>
+  <more>
+    <requirement>	Nơi làm việc: tất cả nhánh nhà hàng quận 1,3,7,11, gò vấp..(ưu tiên gần nhà).&#13;
+	Không  yêu cầu giới tính.&#13;
+	Thời gian: làm theo ca(bắt đầu lúc 9h tới 23h).&#13;
+	Tuổi:1830.&#13;
+	Tốt nghiệp THPT trở lên.&#13;
+	Có phương tiện đi lại.&#13;
+	Tự tin, kỹ năng giao tiếp tốt.&#13;
+Trung thực,nhanh nhẹn, siêng năng là chìa khóa thành công.&#13;
+Chịu áp lực cao trong công việc.&#13;
+</requirement>
+    <description>	Chào đón khách, phục vụ chăm sóc khách hàng.&#13;
+	Vệ sinh, làm theo phân công của quản lý.&#13;
+</description>
+    <benefit>	Thu nhập:  &#13;
+	Ca: 9h16h(3,5trieu).&#13;
+	Ca 15h23h(4trieu).&#13;
+	Ca 9h21h(5,5trieu).&#13;
+	Ngoài ra được 1 cử ăn, phí gửi xe,...&#13;
+	Cơ hội thăng tiến, môi trường năng động, thoải mái. Lương thưởng hấp dẫn&#13;
+</benefit>
+    <keyword/>
+  </more>
+  <userapplied>
+    <total>15</total>
+    <strui>775,3510,4171,3744,1151,475,2786,6202,6353,2302,6664,6865,6429,3652,7490</strui>
+  </userapplied>
+</information>

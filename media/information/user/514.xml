@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>514</id>
+      <email>duyhan119@gmail.com</email>
+      <username/>
+      <name>Han Nguyen</name>
+      <im>10201777198947501_han-nguyen.jpg</im>
+      <gender>1</gender>
+      <dob>1986-11-9</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470320884</created>
+      <day>9</day>
+      <month>11</month>
+      <year>1986</year>
+      <phone>+84983911863</phone>
+      <address>262/31 Nguyễn Tiểu La, Phường 8, Quận 10</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7639946</lat>
+      <lng>106.6662816</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_72>
+      <id>72</id>
+      <school>Đại Học Quốc Tế - Đại Học Quốc Gia TP. Hồ Chí MInh</school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy>Công nghệ Sinh Học</fieldofstudy>
+      <from>2008</from>
+      <to>2012</to>
+    </n_72>
+    <n_73>
+      <id>73</id>
+      <school>The University of Nottingham, Malaysia Campus</school>
+      <degrees>Bachelor (HONS) of Plant Biotechnology</degrees>
+      <fieldofstudy>Plant Biotechnology</fieldofstudy>
+      <from>2012</from>
+      <to>2014</to>
+    </n_73>
+  </education>
+  <user_cv>
+    <db>
+      <ui>514</ui>
+      <title>Nhân viên bếp</title>
+      <experience>1</experience>
+      <category>14,15</category>
+      <type>1,2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Tự tin,Nhiệt tình,Tinh thần trách nhiệm,Tập trung trong công việc</keyword>
+    </db>
+  </user_cv>
+  <experience>
+    <n_100>
+      <id>100</id>
+      <title>Baker</title>
+      <level>1</level>
+      <cmpname>Tous les Jours</cmpname>
+      <city>Hồ Chi Minh</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_100>
+    <n_101>
+      <id>101</id>
+      <title>Barista</title>
+      <level>1</level>
+      <cmpname>The Coffee Bean and Tea Leaf</cmpname>
+      <city>Hồ Chi Minh</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>2015</to>
+    </n_101>
+  </experience>
+  <appliedjob>
+    <total>1</total>
+    <strjo>78</strjo>
+  </appliedjob>
+</information>

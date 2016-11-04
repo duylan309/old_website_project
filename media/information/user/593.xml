@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>593</id>
+      <email>linhpham2795@gmail.com</email>
+      <username/>
+      <name>Linh Pham</name>
+      <im>2087158468175320_linh-pham.jpg</im>
+      <gender>1</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470597935</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên pha chế</title>
+      <experience>7</experience>
+      <category>15,16</category>
+      <type>2,4,6</type>
+      <level>1,2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>593</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>100,130</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>2</total>
+    <strjo>100,64</strjo>
+  </savedjob>
+</information>

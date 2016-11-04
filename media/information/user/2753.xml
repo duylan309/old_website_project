@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2753</id>
+      <email>swi15697@gmail.com</email>
+      <username/>
+      <name>Vương Hoàng Minh Nhật</name>
+      <im>1473862461_vuong-hoang-minh-nhat.png</im>
+      <gender>2</gender>
+      <phone>0939097839</phone>
+      <address>28/34 lô L Phạm Văn Chí F7 Q6</address>
+      <city>30</city>
+      <dob>1997-6-15</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473862461</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>15</day>
+      <month>6</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,17,27,35,36</category>
+      <type>2,4,5,6</type>
+      <level>1</level>
+      <lang>vi,en,ch,kr</lang>
+      <skill/>
+      <ui>2753</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Hiện đang là sinh viên ngành Hàn Quốc học trường Đại học Khoa học Xã hội và Nhân văn Đại học Quốc gia thành phố Hồ Chí Minh. Tự cảm thấy bản thân cần nhiều hơn những kinh nghiệm thực tiễn ngoài giảng đường nên có mong muốn được làm những công việc làm thêm để trau dồi kĩ năng, kinh nghiệm bản thân. </about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>7</total>
+    <strjo>165,100,150,222,476,267,428</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>150</strjo>
+  </savedjob>
+  <education>
+    <n_682>
+      <id>682</id>
+      <school>Đại học Khoa học Xã hội và Nhân văn ĐHQG TPHCM</school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy>Hàn Quốc học</fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_682>
+  </education>
+</information>

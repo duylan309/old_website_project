@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3340</id>
+      <email>luminus102@gmail.com</email>
+      <username/>
+      <name>Luminus Smoothies</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0888168008</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1474537331</created>
+      <dayleft>1479721331</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1474537331</last_signin>
+      <jobleft>3</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>2</total>
+    <strji>320,344</strji>
+  </totalJob>
+  <saveuser>
+    <total>16</total>
+    <strui>3355,3424,1706,3451,3268,3751,3821,3797,3940,4009,4119,4291,3214,2472,4511,4540</strui>
+  </saveuser>
+</information>

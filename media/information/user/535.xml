@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>535</id>
+      <email>maithanh230897@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Mai Thanh</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01642574698</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470426129</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,17,31,35</category>
+      <type>1,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>535</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>105,85,82</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>401</id>
+      <email>ntphuc186@gmail.com</email>
+      <username/>
+      <name>Phúc Nguyễn</name>
+      <im>841185876014867_phuc-nguyen.jpg</im>
+      <gender>2</gender>
+      <dob>1995-6-18</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470051229</created>
+      <day>18</day>
+      <month>6</month>
+      <year>1995</year>
+      <phone>01633027670</phone>
+      <address>115/2 Phan Đăng Lưu, p.7, Phú Nhuận, tp. Hồ Chí Minh</address>
+      <country>vn</country>
+      <city/>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>401</ui>
+      <title>Quận 1</title>
+      <experience>7</experience>
+      <category>14,15,16,19,20</category>
+      <type>2,4,5</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <skill>Communicate in English basic. &#13;
+Used to work as waitress for the cafe. &#13;
+Used to sale online for my own shop. &#13;
+</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>84,105,100,92,181</strjo>
+  </appliedjob>
+</information>

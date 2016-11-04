@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4953</id>
+      <email>Phuisien.dao@gmail.com</email>
+      <username/>
+      <name>Đào phui siên</name>
+      <im>1475601114_dao-phui-sien.png</im>
+      <gender>0</gender>
+      <phone>0906938934</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475601113</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Trưởng ca</title>
+      <experience>5</experience>
+      <category>15,29</category>
+      <type>1</type>
+      <level>4</level>
+      <lang>vi,en,ch</lang>
+      <skill/>
+      <ui>4953</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>240</strjo>
+  </appliedjob>
+</information>

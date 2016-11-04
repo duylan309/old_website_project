@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7213</id>
+      <email>kaimy1908@gmail.com</email>
+      <username/>
+      <name>Trần Thị Ngọc Huyền</name>
+      <im>1477118566_tran-thi-ngoc-huyen.png</im>
+      <gender>0</gender>
+      <phone>0917665550</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477118565</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ, pha chế</title>
+      <experience>7</experience>
+      <category>14,15</category>
+      <type>1,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>phục vụ quán ăn </skill>
+      <ui>7213</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>483</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>483</strjo>
+  </savedjob>
+</information>

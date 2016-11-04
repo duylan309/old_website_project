@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1878</id>
+      <email>huyennguyen.tdt0204@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Huyền</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01225999861</phone>
+      <address>Nguyễn Thị Thập, Quận 7</address>
+      <city>30</city>
+      <dob>1991-12-20</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473039865</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>20</day>
+      <month>12</month>
+      <year>1991</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7385372</lat>
+      <lng>106.7124248</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân Viên Pha Chế</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Kỹ năng giao tiếp, chăm sóc khách hàng thông qua những dịch vụ liên quan của cửa hàng.</skill>
+      <ui>1878</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>201</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>543</id>
+      <email>ptt971111@gmail.com</email>
+      <username/>
+      <name>Thùy Trang Phan</name>
+      <im>732548116892968_thuy-trang-phan.jpg</im>
+      <gender>2</gender>
+      <dob>1997-11-11</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470450771</created>
+      <day>11</day>
+      <month>11</month>
+      <year>1997</year>
+      <phone>0969937351</phone>
+      <address>129/18 Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, TP.HCM</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.829883</lat>
+      <lng>106.6146985</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_78>
+      <id>78</id>
+      <school>ĐH Bách Khoa </school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy>Quản lí công nghiệp</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_78>
+  </education>
+  <user_cv>
+    <db>
+      <ui>543</ui>
+      <title>Nhân viên phục vụ, Pha chế, Bán hàng.</title>
+      <experience>7</experience>
+      <category>15,17,27,29</category>
+      <type>2,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <skill>Kĩ năng giữ bình tĩnh và xử lí tình huống. Kĩ năng làm việc nhóm và làm việc dưới áp lực cao. Kĩ năng giao tiếp tốt.</skill>
+      <keyword>Trách nhiệm. Trung thực. Hòa đồng.</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>82,105</strjo>
+  </appliedjob>
+</information>

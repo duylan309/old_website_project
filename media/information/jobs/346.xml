@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>346</id>
+    <ui>240</ui>
+    <ci>359</ci>
+    <ai>0</ai>
+    <ti>Waiter</ti>
+    <ta/>
+    <le>2</le>
+    <ty>2</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>1</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description></description>
+    <requirement></requirement>
+    <benefit></benefit>
+    <keyword></keyword>
+    <ad/>
+    <location_id>230</location_id>
+    <lat>10.781980</lat>
+    <lng>10.781980</lng>
+    <de>2016-09-27</de>
+    <re>0000-00-00</re>
+    <cr>1474960862</cr>
+  </db>
+  <more>
+    <requirement></requirement>
+    <description></description>
+    <benefit></benefit>
+    <keyword></keyword>
+  </more>
+</information>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3290</id>
+      <email>lamquoctan@gmail.com</email>
+      <username/>
+      <name>Lâm Quốc Tấn</name>
+      <im>3290_lamquoctan.jpg</im>
+      <gender>0</gender>
+      <phone/>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474506961</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1474506961</last_signin>
+    </db>
+  </userinfo>
+  <experience>
+    <n_733>
+      <id>733</id>
+      <title>nhân viên KCS</title>
+      <level>1</level>
+      <cmpname>công ty tnhh công nghệ thực phẩm Miền Đông</cmpname>
+      <city>Tây Ninh</city>
+      <country>Việt Nam</country>
+      <from>8/2015</from>
+      <to>đến nay</to>
+    </n_733>
+  </experience>
+  <education>
+    <n_540>
+      <id>540</id>
+      <school>ĐẠI HỌC CÔNG NGHIỆP TP HCM</school>
+      <degrees>Cao Đẳng</degrees>
+      <fieldofstudy>công nghệ thực phẩm</fieldofstudy>
+      <from>9/2011</from>
+      <to>9/2014</to>
+    </n_540>
+  </education>
+</information>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1335</id>
+      <email>vnmt180594@gmail.com</email>
+      <username/>
+      <name>tiêu vĩnh phi</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01227772934</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472126617</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên pha chế</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>1,4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>1335</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>163,126,169</strjo>
+  </appliedjob>
+  <experience>
+    <n_302>
+      <id>302</id>
+      <title>nhân viên pha chế</title>
+      <level>1</level>
+      <cmpname>pizza hut</cmpname>
+      <city>hồ chí minh </city>
+      <country>việt nam</country>
+      <from>22/1/2016</from>
+      <to>nay</to>
+    </n_302>
+  </experience>
+</information>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4121</id>
+      <email>xiuiu.2101@gmail.com</email>
+      <username/>
+      <name>Vương Khả Tú</name>
+      <im>1779374675655198_liz-wang.jpg</im>
+      <gender>2</gender>
+      <dob>1994-3-2</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474976233</created>
+      <day>2</day>
+      <month>3</month>
+      <year>1994</year>
+      <last_signin>1474976233</last_signin>
+      <phone>0902799450</phone>
+      <address>247/19 lạc long quân , p3, q11</address>
+      <country>vn</country>
+      <city/>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>4121</ui>
+      <title>nhân viên</title>
+      <experience>1</experience>
+      <category>14,17,20,36</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en,ja,ch</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <education>
+    <n_659>
+      <id>659</id>
+      <school>Đại học Mở TPHCN</school>
+      <degrees>cử nhân</degrees>
+      <fieldofstudy>tiếng Nhật </fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_659>
+  </education>
+  <appliedjob>
+    <total>3</total>
+    <strjo>311,318,279</strjo>
+  </appliedjob>
+</information>

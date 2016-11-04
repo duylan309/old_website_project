@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>7</id>
+    <ui>24</ui>
+    <ci>24</ci>
+    <ai>0</ai>
+    <ti>Shipper - fulltimee</ti>
+    <ta/>
+    <le>2</le>
+    <ex>3</ex>
+    <sa>2</sa>
+    <lo>23,30</lo>
+    <ca>14,15,17</ca>
+    <so>0</so>
+    <st></st>
+    <de>0000-00-00</de>
+    <re>0000-00-00</re>
+    <cr>1460957951</cr>
+    <sn>0</sn>
+    <ty>1</ty>
+    <s1>1000</s1>
+    <s2>1200</s2>
+    <s3>22000000</s3>
+    <s4>26400000</s4>
+    <la></la>
+  </db>
+  <more>
+    <number>10</number>
+    <requirement>- Tốt nghiệp chuyên ngành IT từ năm 2014 đến năm 2016 sắp tới.&#13;
+- Biết ít nhất một ngôn ngữ lập trình trở lên: Ví dụ như : C++, Java, PHP,....&#13;
+- Không đòi hỏi kinh nghiệm phát triển game.</requirement>
+    <description>* Số lượng: khoảng 20 người&#13;
+- Phát triển Game Online (Windows, iOS, Android,…)</description>
+  </more>
+  <totalApplied>1</totalApplied>
+</information>

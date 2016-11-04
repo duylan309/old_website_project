@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4265</id>
+      <email>ltthuong13cmt@gmail.com</email>
+      <username/>
+      <name>Lê Thị Thanh Hương</name>
+      <im>1475049107_le-thi-thanh-huong.png</im>
+      <gender>2</gender>
+      <phone>0958847965</phone>
+      <address>11/33 Nguyễn Đức Thuận, Tân Bình</address>
+      <city></city>
+      <dob>1995-11-24</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475049107</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>24</day>
+      <month>11</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên Pha chế, Thu ngân, Phục vụ cafe part time</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>2,4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Kỹ năng giao tiếp, quan sát, quản lý, trainning tốt. Tự tin với khả năng xử lý tình huống của bản thân. </skill>
+      <ui>4265</ui>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <about>Tôi là một cô gái năm nay 21 tuổi, bén duyên với ngành dịch vụ từ khá sớm và nhận thấy rằng đây là công việc tôi yêu thích hơn cả. Việc được gặp gỡ với những vị khách của mình có lẽ là niềm vui và động lực làm việc lớn nhất của bản thân. Theo sự nhìn nhận của bản thân, tôi là một người khá cầu toàn, theo chủ nghĩa hoàn hảo. Tôi ghét sự chậm trễ và chờ đợi, tôi ghét sự cẩu thả và bừa bộn. Tôi khá kỹ lưỡng, từ việc xếp một chiếc khăn cũng cần 4 góc phải bằng nhau. Còn theo đánh giá của đồng nghiệp trước, tôi là một người có trách nhiệm, nghiêm khắc và có khả năng quản lý khá tốt. Cùng với đó, tôi cũng là một người hòa đồng, biết quan tâm tới đồng nghiệp, hoạt bát và hay cười. :))</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>305</strjo>
+  </appliedjob>
+  <education>
+    <n_687>
+      <id>687</id>
+      <school>ĐH Khoa học Tự nhiên - ĐHQG tp Hồ Chí Minh</school>
+      <degrees>Đại Học</degrees>
+      <fieldofstudy>Công nghệ kĩ thuật môi trườn</fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_687>
+  </education>
+</information>

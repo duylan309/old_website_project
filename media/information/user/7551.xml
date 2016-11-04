@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7551</id>
+      <email>thanhhangle180@gmail.com</email>
+      <username/>
+      <name>Lê Thanh Hằng</name>
+      <im/>
+      <gender>0</gender>
+      <phone/>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477306786</created>
+      <dayleft>0</dayleft>
+      <jobleft>0</jobleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1477306786</last_signin>
+    </db>
+  </userinfo>
+  <savedjob>
+    <total>1</total>
+    <strjo>435</strjo>
+  </savedjob>
+  <education>
+    <n_1228>
+      <id>1228</id>
+      <school>Trung cấp Du lịch và Khách sạn Saigontourist</school>
+      <degrees></degrees>
+      <fieldofstudy>Quản trị khách sạn</fieldofstudy>
+      <from>2014</from>
+      <to>2016</to>
+    </n_1228>
+  </education>
+</information>

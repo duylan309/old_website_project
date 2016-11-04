@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>8078</id>
+      <email>Halei3h@gmail.com</email>
+      <username/>
+      <name>Hồ Thị Hồng Hà</name>
+      <im>8078_14440914-536675393185046-993825174755930696-n.jpg</im>
+      <gender>2</gender>
+      <phone>01679881602</phone>
+      <address>25/5 Lê Duy Nhuận, P12 ,quận Tân Bình</address>
+      <city>30</city>
+      <dob>1998-1-24</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477660025</created>
+      <dayleft>0</dayleft>
+      <jobleft>0</jobleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1477660025</last_signin>
+      <day>24</day>
+      <month>1</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7968634</lat>
+      <lng>106.6487152</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_1304>
+      <id>1304</id>
+      <school>Đại Học Sài Gòn</school>
+      <degrees>bằng THPT</degrees>
+      <fieldofstudy>Tài Chính-Kế Toán</fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_1304>
+  </education>
+  <user_cv>
+    <db>
+      <ui>8078</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>7</experience>
+      <category>14,15</category>
+      <type>4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <about>Tính cách: Vui vẻ ,có trách nhiệm, nhiệt tình trong công việc</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>478,518</strjo>
+  </appliedjob>
+</information>

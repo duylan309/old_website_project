@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>8113</id>
+      <email>thainguyen0592@gmail.com</email>
+      <username/>
+      <name>Ngô Thái Nguyên</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0937086377</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477718151</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>2</experience>
+      <category>14</category>
+      <type>1,4</type>
+      <level>4</level>
+      <lang>vi,en</lang>
+      <skill>Sắp xếp, điều phối công việc.&#13;
+Giám sát quá trình thực hiên công việc&#13;
+Làm việc với khách hàng&#13;
+Chịu trách nhiệm hoạt động diễn ra tiệc, giải quyết vấn đề&#13;
+Tiếng anh giao tiếp cơ bản</skill>
+      <ui>8113</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>324</strjo>
+  </appliedjob>
+</information>

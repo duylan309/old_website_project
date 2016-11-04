@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6214</id>
+      <email>blackjack_vt96@yahoo.com.vn</email>
+      <username/>
+      <name>Nguyễn Phương Nam</name>
+      <im>6214_image-temp.jpg</im>
+      <gender>1</gender>
+      <phone>0971664698</phone>
+      <address>89 D2 Quận Bình Thạnh</address>
+      <city>30</city>
+      <dob>1996-9-25</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476438040</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476438040</last_signin>
+      <day>25</day>
+      <month>9</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.804414</lat>
+      <lng>106.716053</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_1033>
+      <id>1033</id>
+      <school>Đại học Công Nghệ TP Hồ Chí Minh</school>
+      <degrees>Sinh viên</degrees>
+      <fieldofstudy>Ngôn ngữ anh</fieldofstudy>
+      <from>1</from>
+      <to>2</to>
+    </n_1033>
+  </education>
+  <user_cv>
+    <db>
+      <ui>6214</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,20,31,35</category>
+      <type>2,4,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>sinh viên năm 2 ngành ngôn ngữ anh,chưa có kinh nghiệm làm việc,mong muốn học hỏi kinh nghiệm thực tế</about>
+      <skill>khả năng giao tiếp khá,kĩ năng nghe nói đọc viết tiếng Anh khá</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>9</total>
+    <strjo>301,219,426,162,412,181,131,465,378</strjo>
+  </appliedjob>
+</information>

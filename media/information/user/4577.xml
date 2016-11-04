@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4577</id>
+      <email>ericlee2305@gmail.com</email>
+      <username/>
+      <name>Lê Kim Nguyên Đạt</name>
+      <im>1165035233569280_le-kim-nguyen-dat.jpg</im>
+      <gender>1</gender>
+      <dob>1995-5-23</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475316733</created>
+      <day>23</day>
+      <month>5</month>
+      <year>1995</year>
+      <phone>0947645505</phone>
+      <address>125/16/9C Bùi Đình Túy, p24, Bình thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.808424</lat>
+      <lng>106.708678</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>phục vụ, pha chế</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>en</lang>
+      <skill></skill>
+      <ui>4577</ui>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>105</strjo>
+  </appliedjob>
+  <experience>
+    <n_971>
+      <id>971</id>
+      <title>Phục vụ</title>
+      <level>1</level>
+      <cmpname>Kem Swensen</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Vietnam</country>
+      <from>6/2015</from>
+      <to>1/2016</to>
+    </n_971>
+    <n_972>
+      <id>972</id>
+      <title>Phục vụ</title>
+      <level>1</level>
+      <cmpname>Vuvuzela</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Vietnam</country>
+      <from>6/2016</from>
+      <to>8/2016</to>
+    </n_972>
+  </experience>
+  <education>
+    <n_757>
+      <id>757</id>
+      <school>Đại học Công nghiệp Tp Hồ Chí Minh</school>
+      <degrees/>
+      <fieldofstudy>Thương mại điện tử</fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_757>
+  </education>
+</information>

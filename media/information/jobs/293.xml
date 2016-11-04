@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>293</id>
+    <ui>2915</ui>
+    <ci>337</ci>
+    <ai>0</ai>
+    <ti>Barista</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1,2</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description>- Nhận order\r\n- Pha chế\r\n- Lau dọn, vệ sinh cửa hàng\r\n- Kiểm soát kho\r\n- Báo cáo cho quản lý cửa hàng\r\n xin gửi hồ sơ vào email: baolinh.tiff2912@gmail.com (Mr.Linh-01214757123)</description>
+    <requirement>- Kiến thức cơ bản về cà phê Ý: espresso, latte, cappuccino, ... biết thao tác cơ bản trên máy espresso.\r\n- Tiếng Anh giao tiếp cơ bản\r\n- Hòa đồng, thân thiện, giao tiếp tốt\r\n- Có trách nhiệm và gắn bó lâu dài\r\n xin gửi hồ sơ vào email: phongnhansujs@gmail.com (Ms.Xuân-0932388155 hoặc Mr.Linh-01214757123)</requirement>
+    <benefit>Lương cơ bản + Bảo hiểm</benefit>
+    <keyword>barista,cafe,coffee,pha chế,nhân viên pha chế,Giao tiếp hiệu quả,Tự tin,Nhiệt tình</keyword>
+    <ad/>
+    <location_id>180</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-10-17</de>
+    <re>0000-00-00</re>
+    <cr>1474605909</cr>
+  </db>
+  <more>
+    <requirement>- Kiến thức cơ bản về cà phê Ý: espresso, latte, cappuccino, ... biết thao tác cơ bản trên máy espresso.&#13;
+- Tiếng Anh giao tiếp cơ bản&#13;
+- Hòa đồng, thân thiện, giao tiếp tốt&#13;
+- Có trách nhiệm và gắn bó lâu dài&#13;
+ xin gửi hồ sơ vào email: phongnhansujs@gmail.com (Ms.Xuân-0932388155 hoặc Mr.Linh-01214757123)</requirement>
+    <description>- Nhận order&#13;
+- Pha chế&#13;
+- Lau dọn, vệ sinh cửa hàng&#13;
+- Kiểm soát kho&#13;
+- Báo cáo cho quản lý cửa hàng&#13;
+ xin gửi hồ sơ vào email: baolinh.tiff2912@gmail.com (Mr.Linh-01214757123)</description>
+    <benefit>Lương cơ bản + Bảo hiểm</benefit>
+    <keyword>barista,cafe,coffee,pha chế,nhân viên pha chế,Giao tiếp hiệu quả,Tự tin,Nhiệt tình</keyword>
+  </more>
+  <userapplied>
+    <total>36</total>
+    <strui>2715,292,1029,3033,3067,1602,3179,3294,3342,3652,3814,3872,3819,2386,1802,4465,4511,2841,4879,3332,5303,5435,5770,3027,6266,4507,6295,6353,6360,6367,6437,7099,4833,7468,7564,8247</strui>
+  </userapplied>
+</information>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5334</id>
+      <email>Irisduong0602@gmail.com</email>
+      <username/>
+      <name>Dương Hà Bảo Ngọc</name>
+      <im>1475911125_duong-ha-bao-ngoc.png</im>
+      <gender>2</gender>
+      <phone>01223337113</phone>
+      <address>Q2 TPHCM</address>
+      <city>30</city>
+      <dob>1996-2-6</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475911124</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>6</day>
+      <month>2</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7335118</lat>
+      <lng>106.6974634</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ,  pha chế</title>
+      <experience>2</experience>
+      <category>15,16,17,19,20,27,29,31</category>
+      <type>2,4,6</type>
+      <level>2,4</level>
+      <lang>vi,en</lang>
+      <skill>Xử lý tình huống,  nhanh nhẹn và linh hoạg.  Có kinh nghiệm 2 năm làm tại CGV</skill>
+      <ui>5334</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Nhanh nhẹn,  chăm chỉ, kĩ năng mềm tốt, có thể giao tiếp tiếng anh cơ bản, linh hoạt và vui tính</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>371</strjo>
+  </appliedjob>
+  <experience>
+    <n_1095>
+      <id>1095</id>
+      <title>Cashier</title>
+      <level>1</level>
+      <cmpname>CGV Cinema</cmpname>
+      <city>Tphcm</city>
+      <country>Việt nam</country>
+      <from>2014</from>
+      <to>2016</to>
+    </n_1095>
+  </experience>
+  <education>
+    <n_887>
+      <id>887</id>
+      <school>ĐH Ngoại Ngữ-Tin Học/ĐH Mở</school>
+      <degrees/>
+      <fieldofstudy>QTKDQT/IT</fieldofstudy>
+      <from>2014</from>
+      <to>2020</to>
+    </n_887>
+  </education>
+</information>

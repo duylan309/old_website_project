@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>519</id>
+      <email>giangnganpham2512@gmail.com</email>
+      <username/>
+      <name>Phạm Ngân Giang</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0938 825 807</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470375322</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Đang là sinh viên</title>
+      <experience>7</experience>
+      <category>14,18,20,28</category>
+      <type>6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Có khả năng thích nghi tốt trong môi trường mới&#13;
+Chịu được áp lực cao&#13;
+Thích tìm tòi học hỏi&#13;
+Chú ý tiểu tiết</skill>
+      <ui>519</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>120</strjo>
+  </appliedjob>
+</information>

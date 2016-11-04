@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2750</id>
+      <email>tenchinilynl@gmail.com</email>
+      <username/>
+      <name>Lê Hùynh Thiên Hương</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01228626874</phone>
+      <address>251/37 Lê quang định, f7, q.bình thanh</address>
+      <city>30</city>
+      <dob>1995-11-11</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473855218</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>11</day>
+      <month>11</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.809405</lat>
+      <lng>106.692231</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Thu ngân, nhân viên bán hàng,  nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,17,27,31,35</category>
+      <type>2,4,5,6</type>
+      <level>2,3,4</level>
+      <lang>vi,en</lang>
+      <skill>-Chịu được áp lực công việc cao.&#13;
+- Kỷ năng giao tiếp ứng xử.&#13;
+- Kỷ năng tư duy sáng tạo.&#13;
+- Kỷ năng quản lý thời gian.&#13;
+-Cẩn thận, trung thực.</skill>
+      <ui>2750</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>107</strjo>
+  </appliedjob>
+  <education>
+    <n_443>
+      <id>443</id>
+      <school>Đh Nguyễn Tất Thành </school>
+      <degrees>Cao đẳng</degrees>
+      <fieldofstudy>Công nghệ thực phẩm</fieldofstudy>
+      <from>2003</from>
+      <to>2017</to>
+    </n_443>
+  </education>
+</information>

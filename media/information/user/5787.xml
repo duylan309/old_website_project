@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5787</id>
+      <email>Luongiakhanh@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Thanh Mai</name>
+      <im>5787_received-703489056493288.jpeg</im>
+      <gender>2</gender>
+      <phone>01283499166</phone>
+      <address>23/25 đường số 16 p4 q8 </address>
+      <city>30</city>
+      <dob>1998-3-26</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476187496</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>26</day>
+      <month>3</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.781256</lat>
+      <lng>106.604202</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>5787</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Thân thiện , siêng năng , năng động , chịu khó </about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>323,371,64,435,294</strjo>
+  </appliedjob>
+  <education>
+    <n_965>
+      <id>965</id>
+      <school>Thpt Marie curie</school>
+      <degrees>Tốt nghiệp trung học phổ thông </degrees>
+      <fieldofstudy/>
+      <from>2013</from>
+      <to>2016</to>
+    </n_965>
+  </education>
+</information>

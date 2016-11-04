@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3925</id>
+      <email>Nguyenthuykha87@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thuỵ Kha</name>
+      <im>10154142166249011_kha-nguyen.jpg</im>
+      <gender>1</gender>
+      <dob>1987-10-26</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474891650</created>
+      <day>26</day>
+      <month>10</month>
+      <year>1987</year>
+      <last_signin>1474891650</last_signin>
+      <phone>0938167388</phone>
+      <address>150 Lương Nhữ Học p11 q5</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7528861</lat>
+      <lng>106.6600939</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>3925</ui>
+      <title>Quản lý đào tạo</title>
+      <experience>4</experience>
+      <category>20,28,29,35</category>
+      <type>1</type>
+      <level>4,5</level>
+      <lang>vi,en,ch</lang>
+      <s1>10000000</s1>
+      <salary>1</salary>
+      <about></about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <education>
+    <n_639>
+      <id>639</id>
+      <school>Đại Học Quốc Tế Hồng Bàng</school>
+      <degrees>Cử Nhân</degrees>
+      <fieldofstudy>Quản Trị Kinh Doanh</fieldofstudy>
+      <from>2006</from>
+      <to>2013</to>
+    </n_639>
+  </education>
+  <experience>
+    <n_860>
+      <id>860</id>
+      <title>Quản lý</title>
+      <level>1</level>
+      <cmpname>Vingroup</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_860>
+    <n_861>
+      <id>861</id>
+      <title>Trưởng Nhóm Chăm Sóc Khách Hàng</title>
+      <level>1</level>
+      <cmpname>Apax English</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_861>
+    <n_862>
+      <id>862</id>
+      <title>Nhân Viên Đón Tiễn Khách</title>
+      <level>1</level>
+      <cmpname>Nikko Saigon</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>2015</to>
+    </n_862>
+  </experience>
+</information>

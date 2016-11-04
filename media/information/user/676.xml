@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>676</id>
+      <email>Koolq10@gmail.com</email>
+      <username/>
+      <name>Đại Hàn</name>
+      <im>1258059364205743_dai-han.jpg</im>
+      <gender>1</gender>
+      <dob>1992-9-20</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470807132</created>
+      <day>20</day>
+      <month>9</month>
+      <year>1992</year>
+      <phone>01216837415</phone>
+      <address>77/9 ngô gia tự f2 q10</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.767041</lat>
+      <lng>106.674331</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phụ bếp. Pha chế</title>
+      <experience>1</experience>
+      <category>14,15,19,20</category>
+      <type>1,4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill></skill>
+      <ui>676</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>139,119</strjo>
+  </appliedjob>
+</information>

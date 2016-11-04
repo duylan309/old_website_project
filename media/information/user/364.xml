@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>364</id>
+      <email>phanxuan0895@gmail.com</email>
+      <username/>
+      <name>Phan Thị Hồng Xuân</name>
+      <im>364_phan-thi-hong-xuan-3-.jpg</im>
+      <gender>2</gender>
+      <phone>0905321695</phone>
+      <address>482/50 Nơ Trang Long, P.13, Q. Bình Thạnh, TPHCM</address>
+      <city>30</city>
+      <dob>1995-8-11</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1469934415</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>11</day>
+      <month>8</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7764745</lat>
+      <lng>106.7008831</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_42>
+      <id>42</id>
+      <title>Nhân viên phục vụ thời vụ</title>
+      <level>1</level>
+      <cmpname>GEM CENTER &amp; WHITE PALACE</cmpname>
+      <city>TPHCM</city>
+      <country>VIỆT NAM</country>
+      <from>12/2015</from>
+      <to>5/2016</to>
+    </n_42>
+    <n_43>
+      <id>43</id>
+      <title>Nhân viên hỗ trợ văn phòng part-time</title>
+      <level>1</level>
+      <cmpname>CT TNHH MTV Tín Nha</cmpname>
+      <city>TPHCM</city>
+      <country>VIỆT NAM</country>
+      <from>7/2016</from>
+      <to>8/2016</to>
+    </n_43>
+    <n_44>
+      <id>44</id>
+      <title>Nhân viên telesales part-time</title>
+      <level>1</level>
+      <cmpname>CT Taske.me</cmpname>
+      <city>TPHCM</city>
+      <country>VIỆT NAM</country>
+      <from>5/2015</from>
+      <to>6/2015</to>
+    </n_44>
+  </experience>
+  <education>
+    <n_30>
+      <id>30</id>
+      <school>ĐH Văn Lang</school>
+      <degrees>Đại Học</degrees>
+      <fieldofstudy>Thương mại quốc tế</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_30>
+  </education>
+  <user_cv>
+    <db>
+      <ui>364</ui>
+      <title>Nhân viên phục vụ, nhân viên bán hàng...</title>
+      <experience>2</experience>
+      <category>14,15,17,20,27,29,31,35</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Kỹ năng giải quyết tình huống,Tinh thần trách nhiệm,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Tự tin,Nhiệt tình,Tinh thần làm việc nhóm,Giao tiếp hiệu quả</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>87,82</strjo>
+  </appliedjob>
+</information>

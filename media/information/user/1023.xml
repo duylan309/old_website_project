@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1023</id>
+      <email>nghito0609@gmail.com</email>
+      <username/>
+      <name>Tô Linh Nghi </name>
+      <im>2095678883991627_hoa-tu-dan.jpg</im>
+      <gender>2</gender>
+      <dob>1995-6-24</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471600934</created>
+      <day>24</day>
+      <month>6</month>
+      <year>1995</year>
+      <phone>0933412298</phone>
+      <address>C9/19 Phạm Hùng Q8</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7205745</lat>
+      <lng>106.6828539</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_239>
+      <id>239</id>
+      <title>Nhân viên pha chế</title>
+      <level>1</level>
+      <cmpname>Khanh casa Garden</cmpname>
+      <city>Hồ chí minh</city>
+      <country>Việt Nam </country>
+      <from>2013</from>
+      <to>2014</to>
+    </n_239>
+    <n_240>
+      <id>240</id>
+      <title>Waitress</title>
+      <level>1</level>
+      <cmpname>Poc Poc Beer Garden</cmpname>
+      <city>Hồ chí minh</city>
+      <country>Việt Nam </country>
+      <from>2014</from>
+      <to>2015</to>
+    </n_240>
+    <n_241>
+      <id>241</id>
+      <title>Nhân viên pha chế</title>
+      <level>1</level>
+      <cmpname>Mylife coffee</cmpname>
+      <city>Hồ chí minh </city>
+      <country>Việt Nam </country>
+      <from>2012</from>
+      <to>2013</to>
+    </n_241>
+    <n_242>
+      <id>242</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>kido’s</cmpname>
+      <city>Hồ chí minh </city>
+      <country>Việt Nam </country>
+      <from>2/2016</from>
+      <to>7/2016</to>
+    </n_242>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>1023</ui>
+      <title>Nhân viên pha chế cà phê, nhân viên phục vụ, nhân viên bán hàng</title>
+      <experience>3</experience>
+      <category>14,15,30,31,35</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <skill>Kinh nghiệm pha chế các loại thức uống &#13;
+Biết chế biến một số thức ăn nhanh&#13;
+&#13;
+Kinh nghiệm bán hàng 1 năm </skill>
+      <keyword>Trung thực,Kỹ năng chăm sóc khách hàng,Tinh thần làm việc nhóm,Tinh thần trách nhiệm,Nhiệt tình</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>8</total>
+    <strjo>159,163,294,262,202,63,250,247</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>742</id>
+      <email>Meophuthuygmhs13@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Như Quỳnh</name>
+      <im>742_image.jpg</im>
+      <gender>2</gender>
+      <phone>01648554860</phone>
+      <address>374/13 Lê Hồng Phong, q10</address>
+      <city>30</city>
+      <dob>1995-3-29</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470981774</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <day>29</day>
+      <month>3</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7577048</lat>
+      <lng>106.6776484</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>742</ui>
+      <title>Nhân viên bán hàng, nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15,17,27,31,35</category>
+      <type>2,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <skill>Không có</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <education>
+    <n_105>
+      <id>105</id>
+      <school>Đại học Y Dược TpHCM</school>
+      <degrees/>
+      <fieldofstudy>Gây mê hồi sức</fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_105>
+  </education>
+  <appliedjob>
+    <total>3</total>
+    <strjo>124,130,64</strjo>
+  </appliedjob>
+</information>

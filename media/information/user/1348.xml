@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1348</id>
+      <email>quynhtrang030696@gmail.com</email>
+      <username/>
+      <name>Hồ Thị Quỳnh Trang</name>
+      <im>1348_imgp3171.jpg</im>
+      <gender>2</gender>
+      <phone>0987252238</phone>
+      <address>55/6 Bùi Thị Xuân, phường 5, Tân Bình, TPHCM</address>
+      <city>30</city>
+      <dob>1996-6-3</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472144985</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>3</day>
+      <month>6</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.790612</lat>
+      <lng>106.66445</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên pha chế, nhân viên thu ngân, phục vụ, bán hàng</title>
+      <experience>7</experience>
+      <category>14,15,29</category>
+      <type>2,4,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>pha chế các loại sinh tố cho cửa hàng của gia đình, từng làm nhân viên bán hàng</skill>
+      <ui>1348</ui>
+      <s1>2800000</s1>
+      <salary>1</salary>
+      <keyword>Tinh thần trách nhiệm,Tập trung trong công việc,Trung thực,Nhiệt tình</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>64,106,130,156,163</strjo>
+  </appliedjob>
+  <experience>
+    <n_303>
+      <id>303</id>
+      <title>nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>mochi nhật bản</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>3/2015</from>
+      <to>7/2015</to>
+    </n_303>
+    <n_304>
+      <id>304</id>
+      <title>pha chế</title>
+      <level>1</level>
+      <cmpname>quán cafe gia đình ở Vũng Tàu</cmpname>
+      <city>Vũng Tàu</city>
+      <country/>
+      <from>2012</from>
+      <to>2014</to>
+    </n_304>
+  </experience>
+  <education>
+    <n_218>
+      <id>218</id>
+      <school>ĐHDL Văn Lang</school>
+      <degrees/>
+      <fieldofstudy>Kinh doanh thương mại</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_218>
+  </education>
+</information>

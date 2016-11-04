@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>277</id>
+      <email>haphuongle72@gmail.com</email>
+      <username/>
+      <name>Hà Phương</name>
+      <im>743687552440427_ha-phuong.jpg</im>
+      <gender>2</gender>
+      <dob>1996-6-29</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1468060843</created>
+      <day>29</day>
+      <month>6</month>
+      <year>1996</year>
+      <phone>0908679925</phone>
+      <address> Thủ Đức District</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8494094</lat>
+      <lng>106.7537055</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_14>
+      <id>14</id>
+      <school>University of Finance - Marketing</school>
+      <degrees>Not yet</degrees>
+      <fieldofstudy>Hospitality</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_14>
+  </education>
+  <user_cv>
+    <db>
+      <ui>277</ui>
+      <title>Waiter/ Waitress</title>
+      <category>14,15,20</category>
+      <location>30</location>
+      <type>2,3,5</type>
+      <level>1,2,3</level>
+      <experience>7</experience>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <skill>Good at teamwork, computer skills (Word, Excel, PowerPoint, ..)&#13;
+Quite fluent in English. &#13;
+</skill>
+    </db>
+  </user_cv>
+</information>

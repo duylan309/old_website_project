@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5142</id>
+      <email>thtngaan@gmail.com</email>
+      <username/>
+      <name>Thái Hồ Thiên Ngân</name>
+      <im>1134679266629347_thien-ngan.jpg</im>
+      <gender>2</gender>
+      <dob>1997-11-13</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475753739</created>
+      <day>13</day>
+      <month>11</month>
+      <year>1997</year>
+      <phone>0933330497</phone>
+      <address>36 Hùng Vương phường 1 quận 10</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.761999</lat>
+      <lng>106.6757049</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>5142</ui>
+      <title>Barista, Sale assistant</title>
+      <experience>2</experience>
+      <category>15,35</category>
+      <type>4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>1500000</s1>
+      <salary>1</salary>
+      <about>Tình thần làm việc nhóm tốt, có kinh nghiệm pha chế tại Red Code Cafe</about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>162,312,165,371</strjo>
+  </appliedjob>
+</information>

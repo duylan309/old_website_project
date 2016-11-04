@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3041</id>
+      <email>hoangtnha87@gmail.com</email>
+      <username/>
+      <name>Hoàng Thanh Nhã</name>
+      <im>3041_857587-530304310348251-176238504-o.png</im>
+      <gender>1</gender>
+      <phone>0902409689</phone>
+      <address>657 nguyễn thị định, quận 2</address>
+      <city>30</city>
+      <dob>1987-12-9</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474205000</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1474205000</last_signin>
+      <day>9</day>
+      <month>12</month>
+      <year>1987</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7868771</lat>
+      <lng>106.7559294</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_499>
+      <id>499</id>
+      <school>Đại học kinh tế HCM - Ngoại Thương</school>
+      <degrees>Khá</degrees>
+      <fieldofstudy>Ngoại thương, xuất nhập khẩu</fieldofstudy>
+      <from>2007</from>
+      <to>2011</to>
+    </n_499>
+  </education>
+  <user_cv>
+    <db>
+      <ui>3041</ui>
+      <title>Sale, xuất nhập khẩu, bếp</title>
+      <experience>2</experience>
+      <category>14,15,16,17,19,20,26,29,35</category>
+      <type>1</type>
+      <level>2,3,4,5</level>
+      <lang>vi,en</lang>
+      <s1>7000000</s1>
+      <salary>1</salary>
+      <about>Hello, I’m Hoang Nha.&#13;
+First of all i want to say thank you that give me this &#13;
+oppoturnity . I love to be here to work here and&#13;
+become ur employee. &#13;
+I love to work and work under pressure . The most important thing for me in any career is improving myseft to high level and get high reputation  that is the reason why i always put myself in focus and high responsibility . &#13;
+To bring the best services to customer .&#13;
+Thank you</about>
+      <skill>Cook, Sale, Marketing, Quản lí</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <experience>
+    <n_674>
+      <id>674</id>
+      <title>Sale, Customs Services</title>
+      <level>1</level>
+      <cmpname>Inkess - ThamiCO</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>2016</to>
+    </n_674>
+  </experience>
+  <appliedjob>
+    <total>9</total>
+    <strjo>173,151,253,302,125,78,206,137,401</strjo>
+  </appliedjob>
+</information>

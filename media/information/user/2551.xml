@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2551</id>
+      <email>tranthinhan291195@gmail.com</email>
+      <username/>
+      <name>Trần Thị Nhàn</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0962543981</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473656789</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng</title>
+      <experience>7</experience>
+      <category>15,18,31</category>
+      <type>2,4</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill>biết sử dụng máy vi tính work,excel&#13;
+tiếng anh giao tiếp cơ bản</skill>
+      <ui>2551</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>267</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>298</id>
+    <ui>1568</ui>
+    <name>Uhouse Hồ Con Rùa</name>
+    <url>UhouseBeerandBarbecue</url>
+    <im>_uhouse-ho-con-rua.png</im>
+    <im_banner>_uhouse-ho-con-rua-cover.png</im_banner>
+    <category>14,15,20</category>
+    <phone></phone>
+    <address>Sô 1 Công Trường Quốc Tế (Hồ Con Rùa), quận 3, thành phố Hồ Chí Minh</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.782180</lat>
+    <lng>106.695961</lng>
+    <website>http://www.uhouse.vn</website>
+    <about/>
+    <facebook>https://www.facebook.com/UhouseBeerandBarbecue/</facebook>
+    <facebook_cover/>
+    <size>1</size>
+    <status>1</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1472550548</created>
+  </db>
+  <more>
+    <about>                                &lt;p&gt;Tại U-House, chúng tôi tin rằng cách thư giãn lý tưởng nhất được tạo nên bởi những ly bia mát lạnh, những món nướng trên than hồng nóng hổi và không khí quay quần bên người thân và bạn bè. Hãy đến với U-House Beer &amp; Barbecue để thưởng thức những loại bia danh tiếng từ khắp thế giới kết hợp với những món nướng hấp dẫn phục vụ trực tiếp từ những bếp than ngoài trời trong không khí vui tươi, náo nhiệt và tràn đầy những điều thú vị.&lt;/p&gt;\r\n&lt;p&gt;Ngoài ra, quý khách còn có thể thưởng thức cà phê, điểm tâm sáng và cơm trưa văn phòng trong không gian nhẹ nhàng, thoáng đãng tại U-House vòng xoay hồ Con Rùa”&lt;/p&gt;\r\n&lt;p&gt;At U-House, we believe that the best way to relax is made up of cold fresh beer mugs, some grills and the joys of gathering with your friends and relatives. Just come to U-House Beer &amp; Barbecue to refresh with the famous beer brand accompany by fascinating grill serve directly from our BBQ oven in the atmosphere of fun, pleasant and full of interesting moments.&lt;/p&gt;\r\n&lt;p&gt;Beside, you can also enjoy morning coffee, breakfast and office lunch in a gentle and spacious place of U-House Turtle lake.&lt;/p&gt;\r\n            \r\n            </about>
+    <whyworkus/>
+  </more>
+  <companybanner>_uhouse-ho-con-rua-cover.png</companybanner>
+  <totalJob>
+    <total>2</total>
+    <strji>220,221</strji>
+  </totalJob>
+</information>

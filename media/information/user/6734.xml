@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6734</id>
+      <email>trinhvo1226@gmail.com</email>
+      <username/>
+      <name>Trinh Võ</name>
+      <im>870050693130979_trinh-vo.jpg</im>
+      <gender>2</gender>
+      <dob>1994-12-26</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476813470</created>
+      <day>26</day>
+      <month>12</month>
+      <year>1994</year>
+      <phone>0974277571</phone>
+      <address>143 phường 5 q BT</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8061195</lat>
+      <lng>106.7070369</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_1113>
+      <id>1113</id>
+      <school>Đại học Hutech</school>
+      <degrees>cao đẳng</degrees>
+      <fieldofstudy>quản trị nhà hàng</fieldofstudy>
+      <from>2012</from>
+      <to>2015</to>
+    </n_1113>
+  </education>
+  <experience>
+    <n_1351>
+      <id>1351</id>
+      <title>Phục vụ</title>
+      <level>1</level>
+      <cmpname>Sài gòn tourist</cmpname>
+      <city>HCM</city>
+      <country>Việt Nam </country>
+      <from>11/2015</from>
+      <to>3/2016</to>
+    </n_1351>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>6734</ui>
+      <title>barista</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Năng động , thân thiện vui vẻ  và có trách nhiệm trong công việc </about>
+      <skill>Phục vụ và chăm sóc khách hàng </skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>7</total>
+    <strjo>208,201,222,126,305,483,508</strjo>
+  </appliedjob>
+</information>

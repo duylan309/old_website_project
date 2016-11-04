@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>143</id>
+    <ui>649</ui>
+    <ci>252</ci>
+    <ai>0</ai>
+    <ti>Bếp trưởng điều hành</ti>
+    <ta/>
+    <le>2,3,4,5</le>
+    <ty>1</ty>
+    <ex>2</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>7000000</s1>
+    <s2>13000000</s2>
+    <s3>318</s3>
+    <s4>590</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14,15,31,35</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description>Phụ trách các hoạt động liên quan đến khu vực Bếp nhà hàng: thực phẩm, chế biến, nhân công, vệ sinh an toàn thực phẩm, trang thiết bị nấu bếp….\r\nĐề xuất và thực hiện các sản phẩm mới và chương trình kinh doanh mới.\r\nGiám sát, phân công và sắp xếp hợp lý công việc cho phụ bếp.\r\nChịu trách nhiệm về tất cả các quy trình, quy định cũng như chất lượng món ăn.\r\nLập công thức về thành phần thực phẩm, định lượng và giá gốc cho tất cả các món ăn.\r\nGiám sát mọi hoạt động trong ca của nhân viên bếp, đào tạo nhân sự bếp.</description>
+    <requirement>Tốt nghiệp cao đẳng hoặc Chứng chỉ, bằng nghề Bếp trưởng.\r\nCó kinh nghiệm lên thực đơn, định lượng, chế biến món ăn và quản lý bếp ăn.\r\nKinh nghiệm làm R &amp; D, nghiên cứu phát triển món mới.\r\nNhanh nhẹn, sức khỏe tốt, có tinh thần trách nhiệm, giao tiếp tốt, có kỹ năng quản lý nhân viên.\r\nTrung thực, chăm chỉ và hòa đồng.\r\nThực hiện tốt việc VS ATTP.\r\nTác phong chuyên nghiệp.</requirement>
+    <benefit>- Môi trường làm việc ổn định, tôn trọng, tôn trọng người lao động\r\n- Cơ hội thăng tiến rộng mở\r\n- Thu nhập cạnh tranh, tăng theo năng lực.\r\n- Chính sách đào tạo tăng theo năng lực\r\n- Chính sách đào tạo và phát triển chuyên môn theo định ký cho NLĐ\r\n- Tham gia các hoạt động nhân việc</benefit>
+    <keyword>Giao tiếp hiệu quả,Kỹ năng giải quyết tình huống</keyword>
+    <ad/>
+    <location_id>73</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-08</de>
+    <re>0000-00-00</re>
+    <cr>1471242917</cr>
+  </db>
+  <more>
+    <requirement>Tốt nghiệp cao đẳng hoặc Chứng chỉ, bằng nghề Bếp trưởng.&#13;
+Có kinh nghiệm lên thực đơn, định lượng, chế biến món ăn và quản lý bếp ăn.&#13;
+Kinh nghiệm làm R &amp; D, nghiên cứu phát triển món mới.&#13;
+Nhanh nhẹn, sức khỏe tốt, có tinh thần trách nhiệm, giao tiếp tốt, có kỹ năng quản lý nhân viên.&#13;
+Trung thực, chăm chỉ và hòa đồng.&#13;
+Thực hiện tốt việc VS ATTP.&#13;
+Tác phong chuyên nghiệp.</requirement>
+    <description>Phụ trách các hoạt động liên quan đến khu vực Bếp nhà hàng: thực phẩm, chế biến, nhân công, vệ sinh an toàn thực phẩm, trang thiết bị nấu bếp….&#13;
+Đề xuất và thực hiện các sản phẩm mới và chương trình kinh doanh mới.&#13;
+Giám sát, phân công và sắp xếp hợp lý công việc cho phụ bếp.&#13;
+Chịu trách nhiệm về tất cả các quy trình, quy định cũng như chất lượng món ăn.&#13;
+Lập công thức về thành phần thực phẩm, định lượng và giá gốc cho tất cả các món ăn.&#13;
+Giám sát mọi hoạt động trong ca của nhân viên bếp, đào tạo nhân sự bếp.</description>
+    <benefit>- Môi trường làm việc ổn định, tôn trọng, tôn trọng người lao động&#13;
+- Cơ hội thăng tiến rộng mở&#13;
+- Thu nhập cạnh tranh, tăng theo năng lực.&#13;
+- Chính sách đào tạo tăng theo năng lực&#13;
+- Chính sách đào tạo và phát triển chuyên môn theo định ký cho NLĐ&#13;
+- Tham gia các hoạt động nhân việc</benefit>
+    <keyword>Giao tiếp hiệu quả,Kỹ năng giải quyết tình huống</keyword>
+  </more>
+  <userapplied>
+    <total>10</total>
+    <strui>947,984,1113,3702,5196,5870,6582,7104,6968,7338</strui>
+  </userapplied>
+</information>

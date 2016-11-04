@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>344</id>
+      <email>info-vn@cookpad.com</email>
+      <username/>
+      <name>Cookpad International Ltd.</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0909783480</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1469781509</created>
+      <dayleft>1474965509</dayleft>
+      <is_received_email>1</is_received_email>
+      <page>1</page>
+      <jobleft>4</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>1</total>
+    <strji>121</strji>
+  </totalJob>
+  <saveuser>
+    <total>6</total>
+    <strui>292,680,689,458,1060,1075</strui>
+  </saveuser>
+</information>

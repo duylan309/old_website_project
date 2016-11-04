@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3737</id>
+      <email>ninhvy3108@gmail.com</email>
+      <username/>
+      <name>NInh Hoàng Khánh Vy</name>
+      <im>3737_hinh-cv.png</im>
+      <gender>2</gender>
+      <phone>0903390565</phone>
+      <address>13 Vụ Trọng Phụng, Tân Thành, Tân Phú</address>
+      <city>30</city>
+      <dob>1989-8-31</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474801483</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>31</day>
+      <month>8</month>
+      <year>1989</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7926333</lat>
+      <lng>106.633553</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>phụ bếp</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>sử dụng thuần thục cái thiết bị trong bếp, có khả năng học hỏi nhanh cai công đoạn set up chuẩn bị,...</skill>
+      <ui>3737</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>là một tay ngang trong ngành bếp nhưng tôi có niềm đam mê lớn với nghề, có khả năng học hỏi nhanh, có khả năng giao tiếp bằng tiếng Anh, co 2 năm kinh nghiệm trong bếp Nhật và bếp Việt</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>200,321,193</strjo>
+  </appliedjob>
+  <experience>
+    <n_829>
+      <id>829</id>
+      <title>trợ lý bếp trưởng</title>
+      <level>1</level>
+      <cmpname>nhà hàng hana sushi</cmpname>
+      <city>ho chi minh</city>
+      <country>viet nam</country>
+      <from>2011</from>
+      <to>2012</to>
+    </n_829>
+    <n_830>
+      <id>830</id>
+      <title>bếp chính</title>
+      <level>1</level>
+      <cmpname>nhà hàng Món Huế</cmpname>
+      <city>ho chí minh</city>
+      <country>viet nam</country>
+      <from>2015</from>
+      <to>nay</to>
+    </n_830>
+  </experience>
+</information>

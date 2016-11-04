@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5344</id>
+      <email>danthanh612@gmail.com</email>
+      <username/>
+      <name>Phùng Ngọc Đan Thanh</name>
+      <im>1086099888178042_dan-thanh.jpg</im>
+      <gender>2</gender>
+      <dob>1994-12-6</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475919817</created>
+      <day>6</day>
+      <month>12</month>
+      <year>1994</year>
+      <phone>01634323942</phone>
+      <address>51/1A, Kp1, P. tân thuận tây, đường Trần Xuân Soạn, quận 7</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.750819</lat>
+      <lng>106.714484</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng</title>
+      <experience>7</experience>
+      <category>15,17,27,29,31,35</category>
+      <type>2,4,5,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>5344</ui>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>172,247,364,268,205,262</strjo>
+  </appliedjob>
+</information>

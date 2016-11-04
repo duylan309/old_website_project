@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>256</id>
+    <ui>855</ui>
+    <name>Vera Vietnam</name>
+    <url>VeraVietnam</url>
+    <im>_vera-vietnam.png</im>
+    <im_banner>_vera-vietnam-cover.png</im_banner>
+    <category>17,35</category>
+    <phone>0839303969</phone>
+    <address>24/2, Trương Định, Quận 3</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.778769</lat>
+    <lng>106.688972</lng>
+    <website>http://vera.com.vn</website>
+    <about/>
+    <facebook>https://www.facebook.com/VeraVietnam/</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1471314872</created>
+  </db>
+  <more>
+    <about>VERA A sense of style - Cảm nhận một phong cách.</about>
+    <whyworkus/>
+  </more>
+  <companybanner>_vera-vietnam-cover.png</companybanner>
+  <totalJob>
+    <total>2</total>
+    <strji>156,157</strji>
+  </totalJob>
+  <pagecmpfacebookcover>256_vera-post-3.png</pagecmpfacebookcover>
+</information>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7660</id>
+      <email>dinh97tien@gmail.com</email>
+      <username/>
+      <name>Đặng Đình Tiến</name>
+      <im>1477387718_dang-dinh-tien.png</im>
+      <gender>0</gender>
+      <phone>0961213464</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477387717</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế</title>
+      <experience>1</experience>
+      <category>15,17</category>
+      <type>4,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Đã biết cách pha chế cafe, trà sữa, trà đào, trà chanh và 1 số loại đồ uống. </skill>
+      <ui>7660</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>165</strjo>
+  </appliedjob>
+</information>

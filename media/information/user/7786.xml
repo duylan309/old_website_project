@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7786</id>
+      <email>phangia668@gmail.com</email>
+      <username/>
+      <name>phan thị hồng loan</name>
+      <im>7786_g.jpg</im>
+      <gender>2</gender>
+      <phone>01886811087</phone>
+      <address>58/82 Phan Chu Trinh p.24 q.Bình Thạnh </address>
+      <city>30</city>
+      <dob>1998-6-6</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477455794</created>
+      <dayleft>0</dayleft>
+      <jobleft>0</jobleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1477455794</last_signin>
+      <day>6</day>
+      <month>6</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8034338</lat>
+      <lng>106.7016088</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>7786</ui>
+      <title>pha chế, phục vụ.</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>5</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>294,434,130,435</strjo>
+  </appliedjob>
+</information>

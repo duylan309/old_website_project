@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1696</id>
+      <email>btran5796@gmail.com</email>
+      <username/>
+      <name>Trần Bảo Trân</name>
+      <im>1696_13103281-782176025245880-5551417741814775723-n.jpg</im>
+      <gender>2</gender>
+      <phone>01645991885</phone>
+      <address>69/1, đường D2, phường 25, quận Bình Thạnh, thành phố Hồ Chí Minh</address>
+      <city>30</city>
+      <dob>1996-7-5</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472780099</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>5</day>
+      <month>7</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.80324</lat>
+      <lng>106.71562</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên part time</title>
+      <experience>7</experience>
+      <category>14,15</category>
+      <type>2</type>
+      <level>2,5</level>
+      <lang>vi,en</lang>
+      <skill>giao tiếp. &#13;
+bán hàng &#13;
+pha chế</skill>
+      <ui>1696</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <keyword>Tập trung trong công việc,Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Chịu được áp lực công việc,Trung thực,Nhiệt tình,Tinh thần làm việc nhóm,Tự tin</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>172</strjo>
+  </appliedjob>
+  <education>
+    <n_267>
+      <id>267</id>
+      <school>Trung cấp Du Lich Khách Sạn Saigontourist</school>
+      <degrees>Trung cấp </degrees>
+      <fieldofstudy>Quản Lí nhà hàng</fieldofstudy>
+      <from>2014</from>
+      <to>2016</to>
+    </n_267>
+  </education>
+  <experience>
+    <n_370>
+      <id>370</id>
+      <title>nhan viên part time</title>
+      <level>1</level>
+      <cmpname>The Pizza Company</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_370>
+  </experience>
+</information>

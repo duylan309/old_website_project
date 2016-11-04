@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4917</id>
+      <email>nguyenducde250395@gmail.com</email>
+      <username/>
+      <name>NGUYỄN ĐỨC ĐỆ</name>
+      <im>1475586266_nguyen-duc-de.png</im>
+      <gender>1</gender>
+      <phone>0904260301</phone>
+      <address>35a phạm viết chánh phường 19</address>
+      <city>30</city>
+      <dob>1995-3-25</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475586266</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>25</day>
+      <month>3</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.791071</lat>
+      <lng>106.713012</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên</title>
+      <experience>7</experience>
+      <category>35</category>
+      <type>4</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>4917</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Nhanh nhẹn, hài hước, hòa đồng, luôn biết lắng nghe, cầu tiến trong công việc và học tập.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>302</strjo>
+  </appliedjob>
+  <education>
+    <n_823>
+      <id>823</id>
+      <school>Trường đại học khoa học tự nhiên</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Địa chất học</fieldofstudy>
+      <from>2015</from>
+      <to>2018</to>
+    </n_823>
+  </education>
+  <savedjob>
+    <total>1</total>
+    <strjo>302</strjo>
+  </savedjob>
+</information>

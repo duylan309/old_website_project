@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>512</id>
+      <email>jnunhansu.dasis@gmail.com</email>
+      <username/>
+      <name>DASIS TEA &amp; COFFEE HOUSE</name>
+      <im>512_logo-dasis-tron.jpg</im>
+      <gender>0</gender>
+      <phone>01693828635</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1470308538</created>
+      <dayleft>1480689264</dayleft>
+      <is_received_email>0</is_received_email>
+      <page>1</page>
+      <jobleft>1</jobleft>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>4</total>
+    <strji>126,127,147,215</strji>
+  </totalJob>
+  <saveuser>
+    <total>60</total>
+    <strui>518,558,566,571,505,579,648,653,657,672,688,719,778,781,827,588,851,853,898,292,923,312,986,816,971,1106,867,1171,421,1264,1297,1335,878,1342,1383,1394,1412,1158,1478,1546,1605,1625,654,626,2199,2224,940,2337,2382,2454,2525,1749,2755,1742,919,1259,2921,2791,3067,3116</strui>
+  </saveuser>
+</information>

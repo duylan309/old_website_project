@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>179</id>
+    <ui>1138</ui>
+    <ci>271</ci>
+    <ai>0</ai>
+    <ti>Nhân viên tạp vụ</ti>
+    <ta/>
+    <le>2</le>
+    <ty>4</ty>
+    <ex>7</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>4000000</s1>
+    <s2>4500000</s2>
+    <s3>181</s3>
+    <s4>204</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>93</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-10-21</de>
+    <re>0000-00-00</re>
+    <cr>1471864691</cr>
+  </db>
+  <more>
+    <requirement>++Số lượng: 02 người&#13;
+++Làm ca: 8h-17h&#13;
+                      14h-21h&#13;
+++ Sẽ được tranning</requirement>
+    <description/>
+    <benefit/>
+    <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Tập trung trong công việc,Chịu được áp lực công việc</keyword>
+  </more>
+  <userapplied>
+    <total>4</total>
+    <strui>1546,3744,3688,6798</strui>
+  </userapplied>
+</information>

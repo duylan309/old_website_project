@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2106</id>
+      <email>hung.le32@yahoo.com.vn</email>
+      <username/>
+      <name>Lê Phúc Hưng</name>
+      <im>2106_received-1376843478996877.jpeg</im>
+      <gender>1</gender>
+      <dob>1996-4-17</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473243997</created>
+      <day>17</day>
+      <month>4</month>
+      <year>1996</year>
+      <phone>01249170496</phone>
+      <address>371A, Đường Phan Văn Trị, Quận Bình Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7553402</lat>
+      <lng>106.6772334</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>2106</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>2</experience>
+      <category>14,15</category>
+      <type>2,4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>- Dễ hòa đồng&#13;
+- Ham học hỏi&#13;
+</about>
+      <skill>- Biết Microsoft Word, Excel, Adobe Illustrator.&#13;
+- Biết sử dụng máy pha cafe&#13;
+- Có ý thức giữ gìn vệ sinh cao</skill>
+      <keyword>Giao tiếp hiệu quả,Tinh thần trách nhiệm,Nhiệt tình,Tự tin</keyword>
+    </db>
+  </user_cv>
+  <experience>
+    <n_466>
+      <id>466</id>
+      <title>36 Trần Quý Cáp, Quận Bình Thạnh</title>
+      <level>1</level>
+      <cmpname>Nhà Hàng Chay Thiền Ý</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>Tháng 6, 2015</from>
+      <to>Nay</to>
+    </n_466>
+    <n_467>
+      <id>467</id>
+      <title>NEX @ SERANGOON CENTRAL  23 Serangoon Central Singapore 556083</title>
+      <level>1</level>
+      <cmpname>Jack’s Place</cmpname>
+      <city>Singapore</city>
+      <country>Singapore</country>
+      <from>Tháng 4, 2014</from>
+      <to>Tháng 9, 2014</to>
+    </n_467>
+  </experience>
+  <appliedjob>
+    <total>4</total>
+    <strjo>84,92,202,211</strjo>
+  </appliedjob>
+</information>

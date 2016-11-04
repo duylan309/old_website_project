@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1310</id>
+      <email>thangld93@gmail.com</email>
+      <username/>
+      <name>Lê Đại Thắng</name>
+      <im/>
+      <gender>1</gender>
+      <phone>01239370570</phone>
+      <address>37/21 đường C1, phường 13, quận Tân Bình, Hồ Chí Minh</address>
+      <city>30</city>
+      <dob>1993-3-22</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472106472</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>22</day>
+      <month>3</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8043102</lat>
+      <lng>106.6440671</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, Phụ bếp</title>
+      <experience>7</experience>
+      <category>14,15,17</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill></skill>
+      <ui>1310</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword>Chịu được áp lực công việc,Trung thực,Nhiệt tình,Tinh thần làm việc nhóm,Tinh thần trách nhiệm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>161</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>161</strjo>
+  </savedjob>
+  <education>
+    <n_209>
+      <id>209</id>
+      <school>Đại Học Văn Hiến</school>
+      <degrees>Cử Nhân</degrees>
+      <fieldofstudy>Quản trị công nghệ và truyền thông</fieldofstudy>
+      <from>2010</from>
+      <to>2015</to>
+    </n_209>
+  </education>
+</information>

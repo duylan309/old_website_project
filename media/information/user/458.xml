@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>458</id>
+      <email>pylinh174@gmail.com</email>
+      <username/>
+      <name>Đinh Thị Khánh Linh</name>
+      <im>899355270168616_py-linh.jpg</im>
+      <gender>2</gender>
+      <dob>1995-4-17</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470153881</created>
+      <day>17</day>
+      <month>4</month>
+      <year>1995</year>
+      <phone>01286558872</phone>
+      <address>590/C1 CMT8 P11 Q3</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7815572</lat>
+      <lng>106.6731992</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_84>
+      <id>84</id>
+      <title>nhâ viên tư vấn tuyển sinh,</title>
+      <level>1</level>
+      <cmpname>FPT Aptech Academy</cmpname>
+      <city>Ho Chi minh</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>2015</to>
+    </n_84>
+    <n_85>
+      <id>85</id>
+      <title>Giảng viên Anh Văn thiếu nhi</title>
+      <level>1</level>
+      <cmpname>Trung cấp nghề Đường Sắt Việt Nam</cmpname>
+      <city>Dĩ An - Bình Dương</city>
+      <country>Việt Nam</country>
+      <from>2013</from>
+      <to>2014</to>
+    </n_85>
+  </experience>
+  <education>
+    <n_60>
+      <id>60</id>
+      <school>Đại học Tôn Đức Thắng</school>
+      <degrees>cử nhân</degrees>
+      <fieldofstudy>Ngoại ngữ Trung - Anh</fieldofstudy>
+      <from>2013</from>
+      <to>2018</to>
+    </n_60>
+  </education>
+  <user_cv>
+    <db>
+      <ui>458</ui>
+      <title>Nhân viên đón khách, nhân viên phục vụ, nhân viên chăm sóc khách hàng</title>
+      <experience>1</experience>
+      <category>14,15,18,20,26,28,29</category>
+      <type>2,5,6</type>
+      <level>2</level>
+      <lang>vi,en,ch</lang>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <skill>giao tiếp hiệu quả, kỹ năng truyền đạt, kỹ năng giải quyết tình huống, kỹ năng chăm sóc khách hàng, khả năng ngoại ngữ, ưa nhìn, nhanh nhẹn, tự tin, cởi mở, trung thực, nhiệt tình,  trách nhiệm cao, chịu áp lực công việc cao.</skill>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng giải quyết tình huống,Tinh thần trách nhiệm,Kỹ năng chăm sóc khách hàng,Tập trung trong công việc,Chịu được áp lực công việc,Tinh thần làm việc nhóm,Nhiệt tình,Tự tin,Trung thực</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>64,82,100,121</strjo>
+  </appliedjob>
+</information>

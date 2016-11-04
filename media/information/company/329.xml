@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>329</id>
+    <ui>240</ui>
+    <name>20.28 Saigon</name>
+    <url>2028saigon</url>
+    <im>298245823852232_20-28-saigon.png</im>
+    <im_banner>298245823852232_20-28-saigon-cover.png</im_banner>
+    <category>17,35</category>
+    <phone>+84 93 44 28 7</phone>
+    <address>149, Nguyễn Cư Trinh, Quận 1</address>
+    <district>0</district>
+    <district_text_vi></district_text_vi>
+    <district_text_en></district_text_en>
+    <city>30</city>
+    <lat>10.841660</lat>
+    <lng>106.783623</lng>
+    <website></website>
+    <about></about>
+    <facebook>https://www.facebook.com/2028saigon/</facebook>
+    <facebook_cover></facebook_cover>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1473668017</created>
+  </db>
+  <more>
+    <about></about>
+    <whyworkus></whyworkus>
+  </more>
+  <companybanner>298245823852232_20-28-saigon-cover.png</companybanner>
+</information>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>626</id>
+      <email>Minhhong020589@gmail.com</email>
+      <username/>
+      <name>Trần Thị Minh Hồng</name>
+      <im>626_image.jpeg</im>
+      <gender>2</gender>
+      <phone>0984873436</phone>
+      <address>63 Điện Biên Phủ, Quận 3, Hồ Chí Minh</address>
+      <city>30</city>
+      <dob>1990-12-20</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470703437</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>20</day>
+      <month>12</month>
+      <year>1990</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7755853</lat>
+      <lng>106.6824473</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục vụ nhà hàng</title>
+      <experience>2</experience>
+      <category>14,18,20</category>
+      <type>1,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Có kinh nghiệm làm việc tại La Hostaria 17B Lê Thánh Tôn, Papagayo 18 Trần Ngọc Diện, The Refinery 74/4D Hai Bà Trưng . Ngoài ra có thể chào hỏi bằng tiếng Ý, Nhật. </skill>
+      <ui>626</ui>
+      <s1>5500000</s1>
+      <salary>1</salary>
+      <keyword>Kỹ năng chăm sóc khách hàng,Nhiệt tình,Tinh thần làm việc nhóm,Tự tin,Trung thực</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>16</total>
+    <strjo>92,113,151,142,79,63,64,86,172,140,202,147,215,107,105,222</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>2</total>
+    <strjo>113,151</strjo>
+  </savedjob>
+  <education>
+    <n_91>
+      <id>91</id>
+      <school>Cao Đẳng Công Thương Hồ Chí Minh</school>
+      <degrees>Cao Đẳng</degrees>
+      <fieldofstudy>Kế toán</fieldofstudy>
+      <from>2009</from>
+      <to>2011</to>
+    </n_91>
+  </education>
+  <experience>
+    <n_133>
+      <id>133</id>
+      <title>Learder</title>
+      <level>1</level>
+      <cmpname>Miss Nhi shop</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam </country>
+      <from>2012</from>
+      <to>2013</to>
+    </n_133>
+    <n_134>
+      <id>134</id>
+      <title>Nhân viên Văn Phòng</title>
+      <level>1</level>
+      <cmpname>Công ty ACS Việt Nam</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2013</from>
+      <to>2014</to>
+    </n_134>
+    <n_135>
+      <id>135</id>
+      <title>Phục vụ</title>
+      <level>1</level>
+      <cmpname>The Refinery</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2013</from>
+      <to>2015</to>
+    </n_135>
+    <n_136>
+      <id>136</id>
+      <title>La Hostaria</title>
+      <level>1</level>
+      <cmpname>Hồ Chí Minh</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2013</from>
+      <to>2014</to>
+    </n_136>
+    <n_137>
+      <id>137</id>
+      <title>Phục vụ</title>
+      <level>1</level>
+      <cmpname>Papagayo</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2/2016</from>
+      <to>7/2016</to>
+    </n_137>
+  </experience>
+</information>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>30</id>
+      <email>lan@gmail.com</email>
+      <username/>
+      <name>Lê Duy Lân</name>
+      <im>30_leduylan.jpg</im>
+      <gender>1</gender>
+      <dob>1990-09-30</dob>
+      <is_newletter>0</is_newletter>
+      <type>2</type>
+      <status>1</status>
+      <created>1457587456</created>
+      <phone>01267543789</phone>
+      <address>149 Nguyễn Thị Định, quận 2</address>
+      <city>30</city>
+      <facebook></facebook>
+      <country>vn</country>
+      <skype></skype>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text>Hồ Chí Minh</city_text>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>30</ui>
+      <title>Bar Manager</title>
+      <category>16,19,20</category>
+      <location>30</location>
+      <type>1</type>
+      <level>2</level>
+      <experience>3</experience>
+      <s1>0</s1>
+      <salary>1</salary>
+      <skill>Chưa có</skill>
+    </db>
+  </user_cv>
+  <totalApplied>3</totalApplied>
+  <totalSaved>3</totalSaved>
+  <savedjob>
+    <total>2</total>
+    <strjo>1,3</strjo>
+  </savedjob>
+  <appliedjob>
+    <total>1</total>
+    <strjo>6</strjo>
+  </appliedjob>
+</information>

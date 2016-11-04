@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>93</id>
+    <ui>273</ui>
+    <ci>214</ci>
+    <ai>0</ai>
+    <ti>Barista</ti>
+    <ta/>
+    <le>3</le>
+    <ty>1,2,4</ty>
+    <ex>6</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14,15,16,17,19</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <ad>28 Thao Dien, D2</ad>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-12-06</de>
+    <re>0000-00-00</re>
+    <cr>1467972323</cr>
+  </db>
+  <more>
+    <requirement>Customer service,Team-work,Problem-solving,Attentiveness,Work well under pressure</requirement>
+    <description/>
+    <benefit/>
+  </more>
+  <userapplied>
+    <total>39</total>
+    <strui>282,381,450,478,503,292,516,518,412,471,569,686,737,689,451,872,942,986,971,1088,1235,1663,1735,1908,2199,2829,4196,4252,3744,4286,4465,4560,4875,5253,5398,6780,6913,3027,7056</strui>
+  </userapplied>
+</information>

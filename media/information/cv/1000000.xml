@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>1000000</id>
+    <ui>3</ui>
+    <ti>Senior Frontend</ti>
+    <le>2</le>
+    <ex>5</ex>
+    <sa>1200 USD</sa>
+    <lo>30,32</lo>
+    <ca>9,11,12</ca>
+    <so>0</so>
+    <st>2</st>
+    <re>0000-00-00</re>
+    <cr>1457153170</cr>
+    <ai>1</ai>
+    <ta/>
+  </db>
+  <more>
+    <introduceYourself>Với 5 năm kinh nghiệm làm việc với website thương mại, bán hàng và dịch vụ SEO. &#13;
+Tôi muốn đem sử hiểu biết đó để phát triển cùng với công ty. &#13;
+Mục tiêu để chia sẻ và học hỏi kinh nghiệm từ công ty. tìm kiếm được môi trường làm việc tốt nhất, nơi để khả năng chuyên môn được phát triển nhất.</introduceYourself>
+    <keySkills>5 năm kinh nghiệm làm việc với website thương mại, bán hàng và dịch vụ. Ngôn ngữ lập trình PHP MYSQL&#13;
+&#13;
+2 năm kinh nghiệm làm Frontend&#13;
+- HTML + Jade&#13;
+- CSS + LESS + BOOTSTRAP&#13;
+- Javascript: Handlebars, Angular, Backbone, ReactJS, jQuery.&#13;
+Có nhiều kinh nghiệm nhiều về làm SEO, Adswords, quảng cáo trực tuyến.Đọc hiểu tiếng anh chuyên ngành tốt.Khả năng tư duy và tìm hiều cập nhập kiến thức tốt.</keySkills>
+  </more>
+</information>

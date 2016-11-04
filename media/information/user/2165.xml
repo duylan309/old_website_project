@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2165</id>
+      <email>andiezdo@gmail.com</email>
+      <username/>
+      <name>Đỗ Đăng Trường</name>
+      <im>1206676106019365_do-truong.jpg</im>
+      <gender>1</gender>
+      <dob>1990-11-10</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473262392</created>
+      <day>10</day>
+      <month>11</month>
+      <year>1990</year>
+      <phone>0946645719</phone>
+      <address>57/505 Trần Nhân Tôn p9 q5</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7599993</lat>
+      <lng>106.6745451</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Đầu bếp</title>
+      <experience>7</experience>
+      <category>14,15,20,29</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Nấu ăn</skill>
+      <ui>2165</ui>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <about>Tôi tên Trường, năm nay 26 tuổi. Định hướng nghề nghiệp của tôi là đầu bếp. Tôi yêu thích nấu ăn từ nhỏ. Tôi tự nấu cơm cho gia đình từ năm 10 tuổi. Tôi hoà đồng và có khiếu hài hước. Tôi có khả năng chịu được áp lực công việc cao. Tôi là bộ đội vừa mới xuất ngũ, với mong muốn tìm được việc làm ổn định đúng với niềm đam mê để tôi có thể cảm thấy mỗi ngày đi làm là một niềm hạnh phúc.</about>
+      <keyword>Trung thực,Tinh thần trách nhiệm,Nhiệt tình</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>104</strjo>
+  </appliedjob>
+</information>

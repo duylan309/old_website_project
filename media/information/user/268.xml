@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>268</id>
+      <email>evie.the.label@gmail.com</email>
+      <username/>
+      <name>Ngoc Thuan</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0906820670</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1467864181</created>
+      <is_received_email>1</is_received_email>
+      <dayleft>1478747340</dayleft>
+      <page>1</page>
+      <jobleft>3</jobleft>
+    </db>
+    <password>
+      <lastupdate>1476155560</lastupdate>
+    </password>
+  </userinfo>
+  <totalJob>
+    <total>2</total>
+    <strji>82,429</strji>
+  </totalJob>
+</information>

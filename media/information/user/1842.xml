@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1842</id>
+      <email>vietvanhuynh19091996@gmail.com</email>
+      <username/>
+      <name>Huỳnh Thị Việt Văn</name>
+      <im>1842_13886897-1722901337970752-3962112935608456116-n.jpg</im>
+      <gender>2</gender>
+      <dob>1996-9-19</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472998313</created>
+      <day>19</day>
+      <month>9</month>
+      <year>1996</year>
+      <phone>01646960611</phone>
+      <address>86/115 Âu Cơ,p9,Tân Bình</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.796108</lat>
+      <lng>106.638507</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_408>
+      <id>408</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Nhà hàng Pháp L’essential</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>10/2015</from>
+      <to>12/2015</to>
+    </n_408>
+  </experience>
+  <education>
+    <n_293>
+      <id>293</id>
+      <school>THPTDL Thanh Bình</school>
+      <degrees>Tốt nghịêp loại khá</degrees>
+      <fieldofstudy/>
+      <from>2011</from>
+      <to>2014</to>
+    </n_293>
+  </education>
+  <user_cv>
+    <db>
+      <ui>1842</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>1</experience>
+      <category>14,15,17,29,35</category>
+      <type>5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>18000</s1>
+      <salary>1</salary>
+      <skill>Biết cách phục vụ,có khả năng giao tiếp tiếng Anh</skill>
+      <keyword>Nhiệt tình,Tập trung trong công việc,Tinh thần trách nhiệm,Chịu được áp lực công việc,Trung thực</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>130,100,219,224</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>852</id>
+      <email>neveralone713@gmail.com</email>
+      <username/>
+      <name>Đặng Ánh Tú</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0166 3430 517</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471279018</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên ba´n hàng</title>
+      <experience>1</experience>
+      <category>35</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,ch</lang>
+      <skill>Biết ca´ch ư´ng xử với kha´ch hàng</skill>
+      <ui>852</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>124</strjo>
+  </appliedjob>
+</information>

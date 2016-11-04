@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7280</id>
+      <email>blackwarhorse90@gmail.com</email>
+      <username/>
+      <name>Võ Tá Hiệp</name>
+      <im>1477139594_vo-ta-hiep.png</im>
+      <gender>1</gender>
+      <phone>01208987095</phone>
+      <address/>
+      <city>30</city>
+      <dob>1990-10-5</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477139594</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>5</day>
+      <month>10</month>
+      <year>1990</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>demi chef, chef de partie</title>
+      <experience>2</experience>
+      <category>14,20</category>
+      <type>1,4</type>
+      <level>2,4</level>
+      <lang>vi,en</lang>
+      <skill>• Nấu và chuẩn bị stock, demi, gravy, sauce, mash, salad, dressing, bread,...&#13;
+• Làm Pizza, mì ý, sandwich, kem,...&#13;
+• Kiểm tra, bảo đảm nguyên liệu tươi, sạch&#13;
+• làm việc gọn gàng, sạch sẽ&#13;
+• Hỗ trợ cho Bếp Phó và Bếp Trưởng khi cần&#13;
+•  Thân thiện, biết cách làm việc nhóm&#13;
+&#13;
+&#13;
+•	Check quality and qantity of food&#13;
+•	Cook and prepare stock, demi, gravy, sauce, mash, salad, dressing, bread...&#13;
+•	Making pizza, spaghetti, sandwich, ice cream…	&#13;
+•	Maintain the kitchen area, fridge, freezer are clean&#13;
+•	Follow the rule of fresh, health and safety&#13;
+•       Back-up for Sous Chef and Chef&#13;
+•       Friendly, know how to teamwork</skill>
+      <ui>7280</ui>
+      <s1>7000000</s1>
+      <salary>1</salary>
+      <about>đang theo học tại trường quản lý khách sạn Việt Úc</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>441,137,206,454,78</strjo>
+  </appliedjob>
+  <experience>
+    <n_1423>
+      <id>1423</id>
+      <title>Food runner</title>
+      <level>1</level>
+      <cmpname>Le Bouchon De Saigon</cmpname>
+      <city>Hcm</city>
+      <country>Viet Nam</country>
+      <from>10/2013</from>
+      <to>08/2014</to>
+    </n_1423>
+    <n_1424>
+      <id>1424</id>
+      <title>Commis chef</title>
+      <level>1</level>
+      <cmpname>Mary Jane The Bar</cmpname>
+      <city>hcm</city>
+      <country>Viet Nam</country>
+      <from>11/2014</from>
+      <to>11/2015</to>
+    </n_1424>
+    <n_1427>
+      <id>1427</id>
+      <title>Demi Chef</title>
+      <level>1</level>
+      <cmpname>Lucy Bistro</cmpname>
+      <city>hcm</city>
+      <country>Viet Nam</country>
+      <from>12/2015</from>
+      <to>04/2016</to>
+    </n_1427>
+    <n_1428>
+      <id>1428</id>
+      <title>Demi Chef/ Chef De Partie</title>
+      <level>1</level>
+      <cmpname>Le Cafe De Coba</cmpname>
+      <city>Hcm</city>
+      <country>Viet Nam</country>
+      <from>4/2016</from>
+      <to>8/2016</to>
+    </n_1428>
+  </experience>
+</information>

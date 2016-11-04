@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4966</id>
+      <email>diboo0403@gmail.com</email>
+      <username/>
+      <name>Phạm Thành Long</name>
+      <im>1475607762_pham-thanh-long.png</im>
+      <gender>1</gender>
+      <phone>01259991519</phone>
+      <address>200 Cao Xuân Dục P12 Q8</address>
+      <city>30</city>
+      <dob>1996-2-1</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475607762</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>1</day>
+      <month>2</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.743453</lat>
+      <lng>106.657048</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng</title>
+      <experience>2</experience>
+      <category>29,35</category>
+      <type>4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Giao tiếp, tổ chức</skill>
+      <ui>4966</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>302</strjo>
+  </appliedjob>
+  <experience>
+    <n_1037>
+      <id>1037</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Nhà hàng Gala Royal</cmpname>
+      <city>HCM</city>
+      <country>Việt Nam</country>
+      <from>8/2015</from>
+      <to>11/2015</to>
+    </n_1037>
+    <n_1038>
+      <id>1038</id>
+      <title>Barista</title>
+      <level>1</level>
+      <cmpname>Highlands Coffee</cmpname>
+      <city>HCM</city>
+      <country>Việt Nam</country>
+      <from>4/2016</from>
+      <to>8/2016</to>
+    </n_1038>
+  </experience>
+</information>

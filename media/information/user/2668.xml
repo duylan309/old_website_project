@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2668</id>
+      <email>ngoc.love2112@gmail.com</email>
+      <username/>
+      <name>Trần Phan Thuỳ Ngọc</name>
+      <im>1473745668_tran-phan-thuy-ngoc.png</im>
+      <gender>0</gender>
+      <phone>01223754245</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473745668</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, phụ bếp</title>
+      <experience>7</experience>
+      <category>14,15,35</category>
+      <type>2</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>2668</ui>
+    </db>
+  </user_cv>
+  <education>
+    <n_430>
+      <id>430</id>
+      <school>Đại học công nghệ TpHCM</school>
+      <degrees>Đại học </degrees>
+      <fieldofstudy>Quản trị kinh doanh </fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_430>
+  </education>
+</information>

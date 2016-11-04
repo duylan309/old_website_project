@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2448</id>
+      <email>Kaylyn.hallen@gmail.com</email>
+      <username/>
+      <name>Kaylyn Allen</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01222220494</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1473513603</created>
+      <dayleft>1478697603</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1473513603</last_signin>
+      <jobleft>3</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>3</total>
+    <strji>388,493,268</strji>
+  </totalJob>
+  <saveuser>
+    <total>26</total>
+    <strui>1342,3146,3260,3624,3705,3974,844,4138,1279,1379,4575,4695,3332,3819,5344,4474,6021,6078,6437,6603,6625,6643,6782,6783,6808,6900</strui>
+  </saveuser>
+</information>

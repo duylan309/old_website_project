@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1646</id>
+      <email>phuonglethuc@yahoo.com.vn</email>
+      <username/>
+      <name>Lê Thục Phương</name>
+      <im>553388921528568_le-thuc-phuong.jpg</im>
+      <gender>2</gender>
+      <dob>1997-9-5</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472709141</created>
+      <day>5</day>
+      <month>9</month>
+      <year>1997</year>
+      <phone>01203214222</phone>
+      <address>84, Năm Châu p11 Q. Tân Bình </address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.791814</lat>
+      <lng>106.649799</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>1646</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <keyword>Giao tiếp hiệu quả</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>219,64</strjo>
+  </appliedjob>
+  <education>
+    <n_254>
+      <id>254</id>
+      <school>THPT Marie Curie</school>
+      <degrees>Trung học</degrees>
+      <fieldofstudy/>
+      <from>2012</from>
+      <to>2015</to>
+    </n_254>
+  </education>
+</information>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>824</id>
+      <email>nguyenhoaithuong6415@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Hoài Thương</name>
+      <im>824_image.jpeg</im>
+      <gender>0</gender>
+      <phone>01652077979</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471179018</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Thu ngân</title>
+      <experience>7</experience>
+      <category>27</category>
+      <type>4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Sale, mảketing...</skill>
+      <ui>824</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>107</strjo>
+  </appliedjob>
+  <education>
+    <n_123>
+      <id>123</id>
+      <school>Đại học quốc tế Sài Gòn</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Quản trị kinh doanh</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_123>
+  </education>
+  <experience>
+    <n_185>
+      <id>185</id>
+      <title>Thun ngân</title>
+      <level>1</level>
+      <cmpname>Công ty cổ phần thực phẩm Kfood</cmpname>
+      <city>Hồ chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>2015</to>
+    </n_185>
+  </experience>
+</information>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1594</id>
+      <email>hokhanhanhthu@gmail.com</email>
+      <username/>
+      <name>Hồ Khánh Anh Thư</name>
+      <im>1594_image.jpg</im>
+      <gender>0</gender>
+      <phone>01202360789</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472620531</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>17,29,31,35</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Kỹ năng máy tính </skill>
+      <ui>1594</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>140</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>202</strjo>
+  </savedjob>
+</information>

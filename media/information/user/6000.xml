@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6000</id>
+      <email>shidori633@gmail.com</email>
+      <username/>
+      <name>Hưng Nguyễn</name>
+      <im>1310204835659047_hung-nguyen.jpg</im>
+      <gender>1</gender>
+      <dob>1994-3-7</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476326738</created>
+      <day>7</day>
+      <month>3</month>
+      <year>1994</year>
+      <phone>0939390703</phone>
+      <address>70 bis tran dinh xu</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.761015</lat>
+      <lng>106.691477</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Beverage specialist</title>
+      <experience>1</experience>
+      <category>14,15</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill></skill>
+      <ui>6000</ui>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <about>Hard skills:&#13;
+Use english (ielts 5.5)&#13;
+Able to use computer&#13;
+Diploma of hospitality &#13;
+Soft skills:&#13;
+Work well alone and group&#13;
+Good time control&#13;
+Friendly&#13;
+&#13;
+</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>439</strjo>
+  </appliedjob>
+  <experience>
+    <n_1223>
+      <id>1223</id>
+      <title>Barista</title>
+      <level>1</level>
+      <cmpname>Highland coffee</cmpname>
+      <city>Hồ chí minh</city>
+      <country>Vn</country>
+      <from>2015</from>
+      <to>2015</to>
+    </n_1223>
+  </experience>
+  <education>
+    <n_995>
+      <id>995</id>
+      <school>Psb college</school>
+      <degrees>Diploma of Hospitality management</degrees>
+      <fieldofstudy>Hospitality Management</fieldofstudy>
+      <from>2014</from>
+      <to>2016</to>
+    </n_995>
+  </education>
+</information>

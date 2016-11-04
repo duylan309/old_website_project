@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>420</id>
+      <email>uyen.nnp4348@sinhvien.hoasen.edu.vn</email>
+      <username/>
+      <name>Nguyễn Ngọc Phương Uyên</name>
+      <im>420_c360-2015-09-25-20-58-58-038.jpg</im>
+      <gender>2</gender>
+      <phone>0908762495</phone>
+      <address>Tk26/38 Trần Hưng Đạo , quận 1 </address>
+      <city>30</city>
+      <dob>1995-10-7</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470069155</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>7</day>
+      <month>10</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7592451</lat>
+      <lng>106.6883909</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>420</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,17,29,35</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <skill>Đã có kinh nghiệm phục vụ ở các quán coffee gần phố đi bộ và một số nơi khác . Luôn học hỏi, nhiệt tình với công việc,  nhanh nhẹn và năng động </skill>
+      <keyword>Nhiệt tình,Trung thực,Tinh thần trách nhiệm,Chịu được áp lực công việc</keyword>
+    </db>
+  </user_cv>
+  <education>
+    <n_48>
+      <id>48</id>
+      <school>Đại học Hoa Sen</school>
+      <degrees>Tốt nghiệp phổ thông trung học </degrees>
+      <fieldofstudy>Kế toán </fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_48>
+  </education>
+  <experience>
+    <n_71>
+      <id>71</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Ben coffee</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>3/2016</from>
+      <to>6/2016</to>
+    </n_71>
+  </experience>
+  <appliedjob>
+    <total>2</total>
+    <strjo>64,82</strjo>
+  </appliedjob>
+</information>

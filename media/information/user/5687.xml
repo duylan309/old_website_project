@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5687</id>
+      <email>recruitment@qsrvietnam.com</email>
+      <username/>
+      <name>The Pizza Company</name>
+      <im/>
+      <gender>0</gender>
+      <phone>84 (8) 3820-65</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>3</status>
+      <created>1476154828</created>
+      <dayleft>1478746828</dayleft>
+      <page>5</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1476154828</last_signin>
+      <jobleft>0</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>12</total>
+    <strji>479,436,427,476,521,482,480,434,481,435,437,440</strji>
+  </totalJob>
+  <saveuser>
+    <total>89</total>
+    <strui>5728,5742,5740,5770,5323,5807,5809,5827,5830,5836,5847,2470,5879,5884,5318,5919,5787,2786,5939,5583,5954,5956,5972,5976,4340,5991,5811,4615,5197,6002,6056,4364,6065,5998,3141,6106,6112,6162,6187,6215,6221,1433,6254,4206,6264,6280,5616,1546,6359,3652,6377,6388,6319,6399,3424,6407,6416,6061,4833,6451,6469,6473,6495,2863,6500,6501,657,6533,6598,6620,6638,5296,6695,6700,6471,6699,6712,6721,5526,6732,6739,6753,6757,6761,3120,6778,6691,6808,6806</strui>
+  </saveuser>
+</information>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7097</id>
+      <email>lathikimngan3@gmail.com</email>
+      <username/>
+      <name>La Thị Kim Ngân</name>
+      <im>7097_vjv.jpg</im>
+      <gender>2</gender>
+      <phone>0939277098</phone>
+      <address>165/8 đường 28 phường 6 quận Gò Vấp </address>
+      <city>30</city>
+      <dob>1997-11-17</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477058787</created>
+      <dayleft>0</dayleft>
+      <jobleft>0</jobleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1477058787</last_signin>
+      <day>17</day>
+      <month>11</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8439692</lat>
+      <lng>106.6807518</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>7097</ui>
+      <title>Nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>14,15,29,31,35</category>
+      <type>2,4,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <about>Em tên là La Thị Kim Ngân, em đến từ tỉnh Tiền Giang, hiện tại em là sinh viên năm hai trường Cao  đẳng Bách Việt, em là một người hòa đồng, vui vẻ, có khả năng giao tiếp tốt, nhanh nhẹn. Sở thích của em là du lịch, nghe nhạc, ăn uống. Ưu điểm về bản thân : Ham học hỏi, cẩn thận, có trách nhiệm cao. Nhược điểm : tính tình thẳng thắng dễ mích lòng người khác.</about>
+      <skill>giao tiếp tốt, Word, makeup , kĩ năng thuyết phục người khác</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <experience>
+    <n_1393>
+      <id>1393</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>BOPAPOP</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_1393>
+  </experience>
+  <education>
+    <n_1161>
+      <id>1161</id>
+      <school>Cao đẳng Bách Việt</school>
+      <degrees>tốt nghiệp THPT, bằng tiếng anh A1</degrees>
+      <fieldofstudy>Quản trị khách sạn</fieldofstudy>
+      <from>2015</from>
+      <to>2018</to>
+    </n_1161>
+  </education>
+  <appliedjob>
+    <total>1</total>
+    <strjo>322</strjo>
+  </appliedjob>
+</information>

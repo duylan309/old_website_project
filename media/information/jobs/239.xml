@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>239</id>
+    <ui>297</ui>
+    <ci>224</ci>
+    <ai>0</ai>
+    <ti>Thu ngân</ti>
+    <ta/>
+    <le>2</le>
+    <ty>4</ty>
+    <ex>1,7</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>3000000</s1>
+    <s2>4500000</s2>
+    <s3>136</s3>
+    <s4>204</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14,15,16</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description>- Phục vụ món ăn cho khách, tính tiền, báo cáo cuối ngày\r\n- Hỗ trợ sắp xếp bàn ghế\r\n- Các công việc khác theo sự phân công của Quản Lý\r\n- Ca làm việc (ca xoay): ca 1: 6h - 14h30 ca 2: 13h30 - 22h, ca 3: 21h30 - 6h sáng hôm sau.</description>
+    <requirement>- Làm việc tại khu công nghệ cao Quận 9\r\n- Chịu khó, nhiệt tình, chăm chỉ, chịu được áp lực trong công việc.\r\n- Có thể làm được những ngày lễ, tết</requirement>
+    <benefit>Phúc lợi:\r\n- Lương và phụ cấp.(trao đổi trong quá trình phỏng vấn)\r\n- Được tham gia BHXH, BHYT, nghỉ phép, nghỉ lễ tết theo đúng Luật Lao động VN  quy định .</benefit>
+    <keyword>Tinh thần trách nhiệm,Trung thực,Nhiệt tình,Chịu được áp lực công việc,Tinh thần làm việc nhóm,Tập trung trong công việc</keyword>
+    <ad/>
+    <location_id>25</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-10</de>
+    <re>0000-00-00</re>
+    <cr>1475825504</cr>
+  </db>
+  <more>
+    <requirement>- Làm việc tại khu công nghệ cao Quận 9&#13;
+- Chịu khó, nhiệt tình, chăm chỉ, chịu được áp lực trong công việc.&#13;
+- Có thể làm được những ngày lễ, tết</requirement>
+    <description>- Phục vụ món ăn cho khách, tính tiền, báo cáo cuối ngày&#13;
+- Hỗ trợ sắp xếp bàn ghế&#13;
+- Các công việc khác theo sự phân công của Quản Lý&#13;
+- Ca làm việc (ca xoay): ca 1: 6h - 14h30 ca 2: 13h30 - 22h, ca 3: 21h30 - 6h sáng hôm sau.</description>
+    <benefit>Phúc lợi:&#13;
+- Lương và phụ cấp.(trao đổi trong quá trình phỏng vấn)&#13;
+- Được tham gia BHXH, BHYT, nghỉ phép, nghỉ lễ tết theo đúng Luật Lao động VN  quy định .</benefit>
+    <keyword>Tinh thần trách nhiệm,Trung thực,Nhiệt tình,Chịu được áp lực công việc,Tinh thần làm việc nhóm,Tập trung trong công việc</keyword>
+  </more>
+  <userapplied>
+    <total>4</total>
+    <strui>2463,1602,6243,7004</strui>
+  </userapplied>
+</information>

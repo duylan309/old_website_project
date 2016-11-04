@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6086</id>
+      <email>huynhmai.le201@gmail.com</email>
+      <username/>
+      <name>Lê Thị Minh Huỳnh Mai</name>
+      <im>1090247857748816_mai-mai.jpg</im>
+      <gender>2</gender>
+      <dob>1995-1-20</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476371794</created>
+      <day>20</day>
+      <month>1</month>
+      <year>1995</year>
+      <phone>01222775957</phone>
+      <address>806/8 Quang Trung, Phường 8, Gò Vấp</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8388835</lat>
+      <lng>106.6488544</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên part time</title>
+      <experience>7</experience>
+      <category>14,15,27,29,35,36</category>
+      <type>2,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill></skill>
+      <ui>6086</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Tôi là một người có tính kiên nhẫn, tinh thần học hỏi cao, tôi có thể hòa nhập nhanh chóng với môi trường làm việc mới. Ngoài ra trong công việc tôi luôn cố gắng hoàn thành việc được giao đúng thời gian và tốt nhất có thể, tôi cũng không ngại việc phải làm thêm giờ hoặc làm vào những buổi khác nếu công việc yêu cầu.</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>215</strjo>
+  </appliedjob>
+  <education>
+    <n_1011>
+      <id>1011</id>
+      <school>ĐH Ngoại ngữ Tin học TPHCM</school>
+      <degrees/>
+      <fieldofstudy>Quản trị kinh doanh quốc tế</fieldofstudy>
+      <from>2013</from>
+      <to>Nay</to>
+    </n_1011>
+  </education>
+</information>

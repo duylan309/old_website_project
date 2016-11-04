@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>331</id>
+      <email>thaigviet@gmail.com</email>
+      <username/>
+      <name>Thai Gviet</name>
+      <im>866283640182762_thai-gviet.jpg</im>
+      <gender>1</gender>
+      <dob>1980-2-14</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1469255758</created>
+      <day>14</day>
+      <month>2</month>
+      <year>1980</year>
+      <phone>09</phone>
+      <address/>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>331</ui>
+      <title>ntesst</title>
+      <category>14,20</category>
+      <type>6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <savedjob/>
+</information>

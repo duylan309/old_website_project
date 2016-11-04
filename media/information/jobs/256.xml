@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>256</id>
+    <ui>2138</ui>
+    <ci>319</ci>
+    <ai>0</ai>
+    <ti>Phụ Bếp / Aid Chef</ti>
+    <ta/>
+    <le>2</le>
+    <ty>4</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>3500000</s1>
+    <s2>5000000</s2>
+    <s3>159</s3>
+    <s4>227</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14,15,16,18,20,26,27,28,31</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description>Thực hiện chuẩn bị &amp; sơ chế các món ăn Âu Á\r\nSắp xếp gọn gàng các trang thiết bị trong bếp\r\nLên kế hoạch và chuẩn bị thực phẩm cần thiết\r\nThực hiện các yêu cầu khác của quản lý\r\n</description>
+    <requirement>Nhiệt tình, chăm chỉ, và trung thực\r\nCó tinh thần trách nhiệm\r\nGiao tiếp được tiếng Anh\r\nƯu tiên sinh viên trường bếp \r\nLàm việc theo ca: Ca 1 (7h sáng – 3h chiều), Ca 2 (2h30 chiều – 10h30 tối), 1 ngày off/tuần\r\nNơi làm việc: Diamond Café, Đảo Kim Cương, Đường số 104-BTT, Phường Bình Trưng Tây, Quận 2, HCM (Gần Ủy Ban Nhân Dân Quận 2)\r\n</requirement>
+    <benefit>Lương, tăng ca + thưởng\r\nYêu cầu hồ sơ\r\n- Đơn xin việc, Sơ yếu lý lịch.\r\n- Chứng minh nhân dân\r\n- Các bằng cấp có liên quan.\r\n</benefit>
+    <keyword/>
+    <ad/>
+    <location_id>154</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-06</de>
+    <re>0000-00-00</re>
+    <cr>1473577062</cr>
+  </db>
+  <more>
+    <description>Thực hiện chuẩn bị &amp; sơ chế các món ăn Âu Á&#13;
+Sắp xếp gọn gàng các trang thiết bị trong bếp&#13;
+Lên kế hoạch và chuẩn bị thực phẩm cần thiết&#13;
+Thực hiện các yêu cầu khác của quản lý&#13;
+</description>
+    <requirement>Nhiệt tình, chăm chỉ, và trung thực&#13;
+Có tinh thần trách nhiệm&#13;
+Giao tiếp được tiếng Anh&#13;
+Ưu tiên sinh viên trường bếp &#13;
+Làm việc theo ca: Ca 1 (7h sáng – 3h chiều), Ca 2 (2h30 chiều – 10h30 tối), 1 ngày off/tuần&#13;
+Nơi làm việc: Diamond Café, Đảo Kim Cương, Đường số 104-BTT, Phường Bình Trưng Tây, Quận 2, HCM (Gần Ủy Ban Nhân Dân Quận 2)&#13;
+</requirement>
+    <benefit>Lương, tăng ca + thưởng&#13;
+Yêu cầu hồ sơ&#13;
+- Đơn xin việc, Sơ yếu lý lịch.&#13;
+- Chứng minh nhân dân&#13;
+- Các bằng cấp có liên quan.&#13;
+</benefit>
+  </more>
+  <userapplied>
+    <total>11</total>
+    <strui>2005,292,3744,4353,5058,4907,2302,6297,6665,7103,7909</strui>
+  </userapplied>
+</information>

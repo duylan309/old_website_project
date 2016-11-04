@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6776</id>
+      <email>TIEN.CQ0788@sinhvien.hoasen.edu.vn</email>
+      <username/>
+      <name>Chu Quỳnh Tiên</name>
+      <im>1476857363_chu-quynh-tien.png</im>
+      <gender>0</gender>
+      <phone>01695976421</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476857363</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>35</category>
+      <type>5</type>
+      <level>2</level>
+      <lang>en</lang>
+      <skill>tôi đã có kinh nghiệm bán hàng 2 năm tại hội chợ và cửa hàng </skill>
+      <ui>6776</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>402</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>402</strjo>
+  </savedjob>
+</information>

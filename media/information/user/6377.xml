@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6377</id>
+      <email>phuongthanh97@gmail.com</email>
+      <username/>
+      <name>đoàn nguyễn phương thanh</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01227881273</phone>
+      <address>853/4 kinh dương vương phường an lạc quận bình tân </address>
+      <city>30</city>
+      <dob>1997-7-26</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476528121</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476528121</last_signin>
+      <day>26</day>
+      <month>7</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7244536</lat>
+      <lng>106.6022408</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6377</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>7</experience>
+      <category>14,15,35</category>
+      <type>2,4</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>9</total>
+    <strjo>301,435,427,296,349,476,294,247,470</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>3</total>
+    <strjo>435,427,247</strjo>
+  </savedjob>
+</information>

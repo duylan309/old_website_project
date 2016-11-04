@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>91</id>
+    <ui>271</ui>
+    <ci>213</ci>
+    <ai>0</ai>
+    <ti>Nhân viên bảo vệ</ti>
+    <ta/>
+    <le>3</le>
+    <ty>1,2</ty>
+    <ex>7</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>1</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description/>
+    <requirement/>
+    <benefit>Lương: thỏa thuân\r\nMôi trường làm việc thân thiện, chuyên nghiệp.\r\nVới nhiều cơ hội thăng tiến trong nghề barista\r\nĐược hưởng các chế độ lương thương, BHXH va BHYT nếu bạn nào muốn gắng bó lâu dài với quán.</benefit>
+    <ad>11, Lê Quý Đôn, Quận 3</ad>
+    <lat>10.792131</lat>
+    <lng>106.679832</lng>
+    <de>2016-09-27</de>
+    <re>0000-00-00</re>
+    <cr>1470115661</cr>
+    <location_id>14</location_id>
+    <keyword/>
+  </db>
+  <more>
+    <requirement/>
+    <description/>
+    <benefit>Lương: thỏa thuân&#13;
+Môi trường làm việc thân thiện, chuyên nghiệp.&#13;
+Với nhiều cơ hội thăng tiến trong nghề barista&#13;
+Được hưởng các chế độ lương thương, BHXH va BHYT nếu bạn nào muốn gắng bó lâu dài với quán.</benefit>
+    <keyword/>
+  </more>
+  <userapplied>
+    <total>2</total>
+    <strui>365,404</strui>
+  </userapplied>
+</information>

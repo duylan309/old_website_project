@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>189</id>
+    <ui>199</ui>
+    <name>Ci5 Coffee</name>
+    <url>ci5coffee</url>
+    <im>189_logo-ci5-black.png</im>
+    <category>15</category>
+    <phone>0862907990</phone>
+    <address>243 Lê Văn Sỹ, P13, Q3</address>
+    <district>770</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <website/>
+    <skype/>
+    <facebook>http://facebook.com/CI5.coffee.tea.house</facebook>
+    <size>1</size>
+    <status>0</status>
+    <dayleft>0</dayleft>
+    <jobleft>0</jobleft>
+    <signupby/>
+    <token/>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1465461659</created>
+    <deactive>0</deactive>
+  </db>
+  <more>
+    <about>Ci5 Coffee &amp; Tea House&#13;
+243 Lê Văn Sỹ, P13, Q3, Tp. HCM&#13;
+We are open 24/24</about>
+    <whyworkus/>
+  </more>
+  <latlng>
+    <lat>10.787405829843658</lat>
+    <lng>106.6784898005426</lng>
+  </latlng>
+  <totalJob>
+    <total>3</total>
+    <strji>64,382,383</strji>
+  </totalJob>
+</information>

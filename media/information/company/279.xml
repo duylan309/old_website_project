@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>279</id>
+    <ui>1278</ui>
+    <name>Sài Gòn Vặt</name>
+    <url>saigonvat</url>
+    <im>_sai-gon-vat.png</im>
+    <im_banner>_sai-gon-vat-cover.jpg</im_banner>
+    <category>14,15</category>
+    <phone>01245844448</phone>
+    <address>339D Nguyễn Cảnh Chân, Phường Cầu Kho, Quận 1</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.756956</lat>
+    <lng>106.689507</lng>
+    <website>http://www.saigonvat.com</website>
+    <about/>
+    <facebook>https://www.facebook.com/saigonvat/</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1472100007</created>
+  </db>
+  <more>
+    <about>Nhà hàng ẩm thực đường phố đa quốc gia</about>
+    <whyworkus/>
+  </more>
+  <companybanner>_sai-gon-vat-cover.jpg</companybanner>
+  <totalJob>
+    <total>1</total>
+    <strji>193</strji>
+  </totalJob>
+</information>

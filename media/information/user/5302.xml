@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5302</id>
+      <email>hanyoung.0303@yahoo.com</email>
+      <username/>
+      <name>Hân Nguyễn</name>
+      <im>2128766414014722_han-nguyen.jpg</im>
+      <gender>2</gender>
+      <dob>1997-3-3</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475862263</created>
+      <day>3</day>
+      <month>3</month>
+      <year>1997</year>
+      <phone>01678384229</phone>
+      <address>19B Hồ Hảo Hớn Phường Cô Giang Quận 1</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.760404</lat>
+      <lng>106.69313</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, Pha chế, Cashier</title>
+      <experience>1</experience>
+      <category>14,15,19,20</category>
+      <type>2,4,5</type>
+      <level>2</level>
+      <lang>vi,en,fr</lang>
+      <skill/>
+      <ui>5302</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Có kinh nghiệm về cashier và phục vụ. Mong muốn tìm được công việc phù hợp và không ảnh hưởng thời gian học tập.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>9</total>
+    <strjo>387,371,222,383,165,107,130,323,202</strjo>
+  </appliedjob>
+  <experience>
+    <n_1086>
+      <id>1086</id>
+      <title>Phục vụ, Cashier</title>
+      <level>1</level>
+      <cmpname>SNOB Coffee</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>Tháng 4/2016</from>
+      <to>Tháng 7/2016</to>
+    </n_1086>
+    <n_1087>
+      <id>1087</id>
+      <title>Phục vụ</title>
+      <level>1</level>
+      <cmpname>GOGI HOUSE</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>Tháng 2/2016</from>
+      <to>Tháng 4/2016</to>
+    </n_1087>
+  </experience>
+  <education>
+    <n_880>
+      <id>880</id>
+      <school>Đại Học Văn Lang</school>
+      <degrees/>
+      <fieldofstudy>Ngôn Ngữ Anh</fieldofstudy>
+      <from>Tháng 9/2015</from>
+      <to>Đến nay</to>
+    </n_880>
+  </education>
+</information>

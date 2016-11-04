@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7989</id>
+      <email>hadreana.nguyen@gmail.com</email>
+      <username/>
+      <name>Nguyen Thi Hai Ha</name>
+      <im>896182250517124_nguyen-thi-hai-ha.jpg</im>
+      <gender>2</gender>
+      <dob>0909170238-10-8</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477569615</created>
+      <day>8</day>
+      <month>10</month>
+      <year>0909170238</year>
+      <last_signin>1477569615</last_signin>
+      <phone>0909170238</phone>
+      <address>86/4 Thống Nhất, phường 10, quận Gò Vấp</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.832265</lat>
+      <lng>106.6639206</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_1292>
+      <id>1292</id>
+      <school>Đại học sư phạm TPHCM</school>
+      <degrees>Sinh viên năm 1</degrees>
+      <fieldofstudy>Giáo dục Tiểu học</fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_1292>
+  </education>
+  <user_cv>
+    <db>
+      <ui>7989</ui>
+      <title>Nhân viên phục vụ, thu ngân</title>
+      <experience>7</experience>
+      <category>14,15,17,29,31,35</category>
+      <type>2,5</type>
+      <level>1,2,3</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>435</strjo>
+  </appliedjob>
+</information>

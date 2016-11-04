@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6007</id>
+      <email>taquyen20894@gmail.com</email>
+      <username/>
+      <name>ta van quyen</name>
+      <im>1476329203_ta-van-quyen.png</im>
+      <gender>1</gender>
+      <phone>01634148345</phone>
+      <address>quan 2 tphcm</address>
+      <city></city>
+      <dob>1994-10-1</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476329203</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>1</day>
+      <month>10</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhan vien phuc vu</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill></skill>
+      <ui>6007</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>363,415</strjo>
+  </appliedjob>
+  <savedjob/>
+</information>

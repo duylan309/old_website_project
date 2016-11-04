@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4892</id>
+      <email>tieuuhuyen@gmail.com</email>
+      <username/>
+      <name>Hồ Huyền</name>
+      <im>4892_14433112-1782771378667266-230969508292947970-n.jpg</im>
+      <gender>2</gender>
+      <dob>01995-6-19</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475574446</created>
+      <day>19</day>
+      <month>6</month>
+      <year>01995</year>
+      <last_signin>1475574446</last_signin>
+      <phone>01652211221</phone>
+      <address>Đường D2, Bình Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8058358</lat>
+      <lng>106.7159504</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>4892</ui>
+      <title>Pha chế, thu ngân, phục vụ</title>
+      <experience>2</experience>
+      <category>14,15,16,17,18,26,27,29,30,31,35,36</category>
+      <type>1,2,4,6</type>
+      <level>2,3,4</level>
+      <lang>vi,en</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Em có 2 năm kinh nghiệm phục vụ và pha chế nhà hàng, quán cà phê. Có thể học việc nhanh và nghiêm túc. Em rất mong tìm được công việc tốt để làm lâu dài ạ. </about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>240,364,150,151,140</strjo>
+  </appliedjob>
+  <experience>
+    <n_1024>
+      <id>1024</id>
+      <title>Pha chế, thu ngân</title>
+      <level>1</level>
+      <cmpname>Sorrento restaurant</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Viet Nam</country>
+      <from>01/2016</from>
+      <to>09/2016</to>
+    </n_1024>
+  </experience>
+  <education>
+    <n_820>
+      <id>820</id>
+      <school>Đại học Công nghệ</school>
+      <degrees/>
+      <fieldofstudy>Ngôn ngữ Anh</fieldofstudy>
+      <from>2014</from>
+      <to>2016</to>
+    </n_820>
+  </education>
+</information>

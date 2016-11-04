@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>357</id>
+      <email>nguyenvonhaty@gmail.com</email>
+      <username/>
+      <name>Nguyễn Võ Nhật Ý</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01686733122</phone>
+      <address>31 Huỳnh Thiện Lộc, quận Tân Phú</address>
+      <city>30</city>
+      <dob>1994-12-20</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1469892287</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>20</day>
+      <month>12</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.78025</lat>
+      <lng>106.637289</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_29>
+      <id>29</id>
+      <school>Đại hoc Sư phạm TPHCM</school>
+      <degrees>Cử nhân hệ Đại học</degrees>
+      <fieldofstudy>Việt Nam Học</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_29>
+  </education>
+  <experience>
+    <n_39>
+      <id>39</id>
+      <title>Thực tập sinh</title>
+      <level>1</level>
+      <cmpname>Công ty Du lịch CANA</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>10/2015</from>
+      <to>12/2015</to>
+    </n_39>
+    <n_40>
+      <id>40</id>
+      <title>Promotion girl</title>
+      <level>1</level>
+      <cmpname>Công ty xúc xích Soyumm</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_40>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>357</ui>
+      <title>Lễ tân, thu ngân, chăm sóc khách hàng, nhà hàng khách sạn</title>
+      <experience>6</experience>
+      <category>14,18,27,35,36</category>
+      <type>6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <skill>- Sử dụng tốt tin học văn phòng: Microsoft Office, Internet và các trang mạng xã hội (Facebook, Gmail, Youtube...)&#13;
+- Ngoại ngữ: Giao tiếp Anh ngữ cơ bản (Nghe, nói, đọc, viết)&#13;
+- Kỹ năng giao tiếp: Ngoại hình khá, có khả năng giao tiếp tốt, biết lắng nghe và đóng góp ý kiến đúng lúc.&#13;
+- Kỹ năng làm việc: Tổ chức, sắp xếp công việc có khoa học, có kỹ năng làm việc nhóm hoặc độc lập.&#13;
+- Tinh thần làm việc: nhiệt tình, có trách nhiệm, chịu được áp lực công việc, siêng năng và hòa đồng với mọi người. Bên cạnh đó, có tinh thần cầu tiến, ham học hỏi.</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>107</strjo>
+  </appliedjob>
+</information>

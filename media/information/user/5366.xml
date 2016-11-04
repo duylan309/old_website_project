@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5366</id>
+      <email>anhphuc786@gmail.com</email>
+      <username/>
+      <name>mao anh p húc</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0904145880</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475930208</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên pha chế</title>
+      <experience>3</experience>
+      <category>14,15,16</category>
+      <type>1</type>
+      <level>3</level>
+      <lang>vi,en</lang>
+      <skill>quản lý nhân viên&#13;
+kiểm soát thất thoát hàng hóa&#13;
+giờ giắc nhân viên&#13;
+hình ảnh thức uống đến thực khách&#13;
+giải quyết phàn nàn&#13;
+hổ trợ các bộ phận&#13;
+lập biểu mẫu&#13;
+tranining nv&#13;
+...</skill>
+      <ui>5366</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>106</strjo>
+  </appliedjob>
+</information>

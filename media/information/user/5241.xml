@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5241</id>
+      <email>quyenhv90@gmail.com</email>
+      <username/>
+      <name>Hoàng Vương Quyền</name>
+      <im>5241_333.jpg</im>
+      <gender>1</gender>
+      <dob>1990-11-17</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475823479</created>
+      <day>17</day>
+      <month>11</month>
+      <year>1990</year>
+      <last_signin>1475823479</last_signin>
+      <phone>01675002102</phone>
+      <address>HCMC</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8061939</lat>
+      <lng>106.7073598</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1072>
+      <id>1072</id>
+      <title>quận 2</title>
+      <level>1</level>
+      <cmpname>Thao Dien</cmpname>
+      <city>HCMC</city>
+      <country>Viet Nam</country>
+      <from>Mar 2015</from>
+      <to>Sep 2015</to>
+    </n_1072>
+    <n_1073>
+      <id>1073</id>
+      <title>Gò Vấp</title>
+      <level>1</level>
+      <cmpname>Vinmart</cmpname>
+      <city>HCMC</city>
+      <country>Viet Nam</country>
+      <from>Oct 2015</from>
+      <to>Mar 2016</to>
+    </n_1073>
+  </experience>
+  <education>
+    <n_866>
+      <id>866</id>
+      <school>Nhất Hương</school>
+      <degrees>Certificate III in Patisserie</degrees>
+      <fieldofstudy>Bánh</fieldofstudy>
+      <from>2015</from>
+      <to>2016</to>
+    </n_866>
+  </education>
+  <user_cv>
+    <db>
+      <ui>5241</ui>
+      <title>Đầu Bếp Bánh</title>
+      <experience>1</experience>
+      <category>14,15,17,18,20</category>
+      <type>1</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <about>tôi tin rằng Chứng chỉ III Patisserie cung cấp lý thuyết và kỹ năng thực tế đạt được bằng cách thực hành, tham gia và sản xuất quy mô. Ngoài ra, khóa học do bao gồm các lớp học về kỹ năng máy tính, vệ sinh, du toaán chi phi thực phẩm, kiểm soát chất lượng và thông tin liên lạc.&#13;
+&#13;
+"I believe that Certificate III in Patisserie provides theory and practical skills attained by demonstration, participation and full-scale production. In addition, patisserie courses include classes in computer skills, hygiene, food costings, quality control and communications."</about>
+      <skill>Làm Các loại bánh Âu, bánh mì việt, desert,..</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <savedjob>
+    <total>2</total>
+    <strjo>174,144</strjo>
+  </savedjob>
+  <appliedjob>
+    <total>2</total>
+    <strjo>174,144</strjo>
+  </appliedjob>
+</information>

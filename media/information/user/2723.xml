@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2723</id>
+      <email>3lan@thue.today</email>
+      <username/>
+      <name>lan</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0126754378</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476993747</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>lan</title>
+      <experience>1</experience>
+      <category>15,30</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>ja</lang>
+      <skill/>
+      <ui>2723</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>280</strjo>
+  </appliedjob>
+</information>

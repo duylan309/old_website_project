@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4425</id>
+      <email>trinh.nhn0764@sinhvien.hoasen.edu.vn</email>
+      <username/>
+      <name>Ngọc Trinh Nguyễn Huỳnh</name>
+      <im>4425_13938504-1003943316389544-8178352995957103318-n.jpg</im>
+      <gender>2</gender>
+      <dob>1997-5-28</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475137785</created>
+      <day>28</day>
+      <month>5</month>
+      <year>1997</year>
+      <phone>0909632071</phone>
+      <address>2384/42/2A Quốc Lộ 1A, P.Trung Mỹ Tây, Q.12</address>
+      <country>vn</country>
+      <city/>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <experience>
+    <n_934>
+      <id>934</id>
+      <title>Pha Chế</title>
+      <level>1</level>
+      <cmpname>Trà sữa Gong Cha</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>9 -2015</from>
+      <to>7-2016</to>
+    </n_934>
+  </experience>
+  <education>
+    <n_729>
+      <id>729</id>
+      <school>Đại học Hoa Sen</school>
+      <degrees/>
+      <fieldofstudy>Quản Trị Kinh Doanh</fieldofstudy>
+      <from>2015</from>
+      <to>2021</to>
+    </n_729>
+  </education>
+  <user_cv>
+    <db>
+      <ui>4425</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <about>Hiện tại đang học năm 2 ngành Quản trị kinh doanh của trường Đại học Hoa sen</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>105,106,158</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>158</strjo>
+  </savedjob>
+</information>

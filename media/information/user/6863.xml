@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6863</id>
+      <email>tuyendung.uber@gmail.com</email>
+      <username/>
+      <name>Uber HCMC</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0978878122</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1476892825</created>
+      <dayleft>1479484825</dayleft>
+      <jobleft>5</jobleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1476892825</last_signin>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>1</total>
+    <strji>487</strji>
+  </totalJob>
+</information>

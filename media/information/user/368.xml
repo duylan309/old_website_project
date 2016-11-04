@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>368</id>
+      <email>lethitrang265@gmail.com</email>
+      <username/>
+      <name>Lê Trang</name>
+      <im>666113776870547_le-trang.jpg</im>
+      <gender>2</gender>
+      <dob>1996-5-26</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1469948478</created>
+      <day>26</day>
+      <month>5</month>
+      <year>1996</year>
+      <phone>01679128901</phone>
+      <address>643XVNT P.26 Quận Bình Thạnh</address>
+      <country>vn</country>
+      <city/>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>368</ui>
+      <title>Nhân việc phục vụ, nhân viên bán hàng</title>
+      <experience>2</experience>
+      <category>14,15,17,18,20,27,28,29,31,35</category>
+      <type>2,3,5</type>
+      <level>1,2</level>
+      <lang>vi</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>87</strjo>
+  </appliedjob>
+</information>

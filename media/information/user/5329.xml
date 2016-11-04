@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5329</id>
+      <email>web.freelance19911@gmail.com</email>
+      <username/>
+      <name>Nguyễn Sơn Tùng</name>
+      <im>5329_nguyen-som-tung.jpg</im>
+      <gender>1</gender>
+      <phone>01267543789</phone>
+      <address>23 Võ Thị Sáu, Bình Thạnh </address>
+      <city>30</city>
+      <dob>1992-6-12</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475907584</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>12</day>
+      <month>6</month>
+      <year>1992</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.790972</lat>
+      <lng>106.695227</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân Viên pha</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>en</lang>
+      <skill>- Khả năng trình bày ý tưởng tốt&#13;
+- Tinh thần teamwork cao, thíchlàm việc giữa người với người&#13;
+- Quản lý thời gian, có trách nhiệm và tôn trọng deadline.</skill>
+      <ui>5329</ui>
+      <s1>400</s1>
+      <salary>2</salary>
+      <about>Một sinh viên năm Ba đầy nhiệt - năng lượng với khát khao được mở rộng kiến thức&#13;
+của mình trong lĩnh vực Marketing, đặc biệt là Digital Marketing bằng những trải&#13;
+nghiệm thực tế và hiệu quả tại công ty . Sau thời gian “thực tập bao lâu tuỳ&#13;
+thích”, mong muốn bản thân sẽ hoàn thiện hơn để có thể gắn bó với công ty lâu dài.</about>
+      <keyword></keyword>
+      <s2>8800000</s2>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>407</strjo>
+  </appliedjob>
+  <experience>
+    <n_1514>
+      <id>1514</id>
+      <title>Nhân Viên Pha Chế</title>
+      <level>1</level>
+      <cmpname>CI5 Coffee &amp; Tea</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Viet Nam</country>
+      <from>6.2015</from>
+      <to>10.2016</to>
+    </n_1514>
+  </experience>
+  <education>
+    <n_1259>
+      <id>1259</id>
+      <school>Trường Á Âu</school>
+      <degrees>Cao Đẳng</degrees>
+      <fieldofstudy>Pha Chế</fieldofstudy>
+      <from>2010</from>
+      <to>2013</to>
+    </n_1259>
+  </education>
+</information>

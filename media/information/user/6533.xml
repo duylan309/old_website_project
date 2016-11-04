@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6533</id>
+      <email>npthiennga@gmail.com</email>
+      <username/>
+      <name>Nguyễn Phạm Thiên Nga</name>
+      <im>1476683979_nguyen-pham-thien-nga.png</im>
+      <gender>2</gender>
+      <phone>01283614118</phone>
+      <address>107/1 phường đông hưng thuận quận 12 </address>
+      <city>30</city>
+      <dob>1994-9-3</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476683978</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>3</day>
+      <month>9</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.833432</lat>
+      <lng>106.6159867</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ , bán hàng part-time , nhân viên tư vấn</title>
+      <experience>1</experience>
+      <category>14,15,17,26</category>
+      <type>2,4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>vi tính văn phòng .</skill>
+      <ui>6533</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>hòa đồng , thân thiện , chịu cực , siêng năng , giao tiếp tốt </about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>434,435</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>5</total>
+    <strjo>434,285,222,435,428</strjo>
+  </savedjob>
+  <education>
+    <n_1102>
+      <id>1102</id>
+      <school>ĐH sư phạm TP.HCM</school>
+      <degrees>chưa tốt nghiệp</degrees>
+      <fieldofstudy>giáo dục tiểu học</fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_1102>
+  </education>
+  <experience>
+    <n_1343>
+      <id>1343</id>
+      <title>nhân viên</title>
+      <level>1</level>
+      <cmpname>các nhà hàng tiệc cưới</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2012</from>
+      <to>2015</to>
+    </n_1343>
+  </experience>
+</information>

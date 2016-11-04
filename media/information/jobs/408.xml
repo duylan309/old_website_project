@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>408</id>
+    <ui>5280</ui>
+    <ci>383</ci>
+    <ai>0</ai>
+    <ti>Nhân viên bán hàng</ti>
+    <ta/>
+    <le>1,2</le>
+    <ty>2,4,5,6</ty>
+    <ex>1,7</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>30,35</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>282</location_id>
+    <lat>10.795922</lat>
+    <lng>10.795922</lng>
+    <de>2016-11-06</de>
+    <re>0000-00-00</re>
+    <cr>1475920792</cr>
+  </db>
+  <more>
+    <requirement>Chỉ cần bạn trong độ tuổi 18 - 25 tuổi, đã tốt nghiệp THPT và có tình yêu sâu sắc với mỹ phẩm, chăm sóc da &amp; sắc đẹp, Green Beauty mở rộng cửa để đón chào các bạn. </requirement>
+    <description>- Nhân viên bán hàng theo ca.&#13;
+- Thời gian làm việc:&#13;
+ca 1: 9h15 - 1h30&#13;
+ca 2: 1h15 - 5h30&#13;
+ca 3: 5h15 - 9h30 (ưu tiên)</description>
+    <benefit>- Ngoài ca 4 tiếng rưỡi, có thể tăng lên 6 hoặc 8 tiếng nếu rảnh.&#13;
+- Training các kiến thức cơ bản về skincare.&#13;
+- trải nghiệm kỹ năng giao tiếp - quản lý khách hàng.&#13;
+- sử dụng dịch vụ SPA MIỄN PHÍ tại cửa hàng.&#13;
+- được hoạt động trong môi trường thân thiện, không ganh đua.&#13;
+- có cơ hội tham gia các hoạt động sinh hoạt ngoài giờ làm như từ thiện, tham quan, du lịch, tiệc tùng, ăn uống mỗi tháng.&#13;
+- 1 tháng được off 2 ngày để tung tăng đến nơi ta muốn&#13;
+- mua hàng với mức chiết khấu cao</benefit>
+    <keyword>Kỹ năng giải quyết tình huống,Giao tiếp hiệu quả,Tập trung trong công việc,Nhiệt tình,Kỹ năng chăm sóc khách hàng,Trung thực,Tự tin</keyword>
+  </more>
+  <userapplied>
+    <total>40</total>
+    <strui>5426,5449,5459,4213,5570,4957,5407,5849,5741,5925,5778,6082,6187,6229,6254,6321,6358,6437,6502,6584,3798,6622,6632,2026,6946,4130,7039,7049,7108,4833,7069,7038,7109,7516,7586,7627,7698,7845,8024,8100</strui>
+  </userapplied>
+</information>

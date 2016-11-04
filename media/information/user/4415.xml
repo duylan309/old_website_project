@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4415</id>
+      <email>mythuan.hutech@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Mỹ Thuận</name>
+      <im>774128892725642_my-thuan.jpg</im>
+      <gender>2</gender>
+      <dob>1995-12-25</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475132310</created>
+      <day>25</day>
+      <month>12</month>
+      <year>1995</year>
+      <phone>01682903004</phone>
+      <address>275/36 Bạch Đằng, phường 15 quận Bình Thạnh Tp HCM</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.802348</lat>
+      <lng>106.705915</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>20</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>kỹ năng máy tính, kỹ năng làm việc nhóm.</skill>
+      <ui>4415</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Vui tính, cẩn thận, thật thà, chịu được áp lực công việc cao. </about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>240,324</strjo>
+  </appliedjob>
+  <experience>
+    <n_931>
+      <id>931</id>
+      <title>nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>InterContinental Asiana Saigon</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Vietnam</country>
+      <from>8/ 2014</from>
+      <to>3/ 2015</to>
+    </n_931>
+  </experience>
+  <education>
+    <n_726>
+      <id>726</id>
+      <school>Đại học Công nghệ Tp Hồ Chí Minh</school>
+      <degrees>Khá</degrees>
+      <fieldofstudy>Quản trị khách sạn</fieldofstudy>
+      <from>2013</from>
+      <to>2016</to>
+    </n_726>
+  </education>
+</information>

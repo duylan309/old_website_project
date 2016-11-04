@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1207</id>
+      <email>trucnguyen26290@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Thanh Trúc</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0933658249</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471925737</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên</title>
+      <experience>4</experience>
+      <category>17,28,29,35</category>
+      <type>2,5,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Kế toán, Giao tiếp</skill>
+      <ui>1207</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>156</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>523</id>
+    <ui>7765</ui>
+    <ci>429</ci>
+    <ai>0</ai>
+    <ti>[HCM] NHÂN VIÊN TỔNG VỤ NHÀ HÀNG</ti>
+    <ta/>
+    <le>2</le>
+    <ty>4</ty>
+    <ex>7</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>7000000</s1>
+    <s2>10000000</s2>
+    <s3>318</s3>
+    <s4>454</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>9</st>
+    <pi>0</pi>
+    <la>ja</la>
+    <description>- Nơi làm việc: Nhà hàng Nhật Bản \r\n\r\n- Ngày nghỉ: 6 ngày/tháng (không phải thứ 7, Chủ Nhật).\r\n- Nhân viên phục vụ nhà hàng.\r\n- Một số nghiệp vụ như: thu ngân, kiểm kê, liên lạc với công ty mẹ. \r\n- Chi tiết trao đổi khi phỏng vấn.</description>
+    <requirement>- Nữ, tuổi từ 22-40.\r\n- Ưu tiên ứng viên đã từng đi Thực tập sinh Nhật Bản về.\r\n- Tiếng Nhật: tương đương N4/N3. \r\n- Có kỹ năng vi tính văn phòng cơ bản (Word, Excel).\r\n- Tính tình: chăm chỉ, cẩn thận.\r\n- Không yêu cầu kinh nghiệm.\r\n- Cần người có tính ổn định, gắn bó dài lâu.</requirement>
+    <workhour/>
+    <benefit>- Lương: 10,000,000vnd (tham gia BH đầy đủ theo Luật định).\r\n- Có phụ cấp ăn.</benefit>
+    <keyword></keyword>
+    <ad/>
+    <location_id>378</location_id>
+    <lat>10.781980</lat>
+    <lng>10.781980</lng>
+    <de>1969-12-31</de>
+    <re>0000-00-00</re>
+    <cr>1477455304</cr>
+  </db>
+  <more>
+    <description>- Nơi làm việc: Nhà hàng Nhật Bản &#13;
+&#13;
+- Ngày nghỉ: 6 ngày/tháng (không phải thứ 7, Chủ Nhật).&#13;
+- Nhân viên phục vụ nhà hàng.&#13;
+- Một số nghiệp vụ như: thu ngân, kiểm kê, liên lạc với công ty mẹ. &#13;
+- Chi tiết trao đổi khi phỏng vấn.</description>
+    <requirement>- Nữ, tuổi từ 22-40.&#13;
+- Ưu tiên ứng viên đã từng đi Thực tập sinh Nhật Bản về.&#13;
+- Tiếng Nhật: tương đương N4/N3. &#13;
+- Có kỹ năng vi tính văn phòng cơ bản (Word, Excel).&#13;
+- Tính tình: chăm chỉ, cẩn thận.&#13;
+- Không yêu cầu kinh nghiệm.&#13;
+- Cần người có tính ổn định, gắn bó dài lâu.</requirement>
+    <benefit>- Lương: 10,000,000vnd (tham gia BH đầy đủ theo Luật định).&#13;
+- Có phụ cấp ăn.</benefit>
+  </more>
+</information>

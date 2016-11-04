@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6638</id>
+      <email>thanhdieu905@gmail.com</email>
+      <username/>
+      <name>Trần Thị Thanh Diệu</name>
+      <im>1790788944505551_tran-thi-thanh-dieu.jpg</im>
+      <gender>2</gender>
+      <dob>1995-10-29</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476759752</created>
+      <day>29</day>
+      <month>10</month>
+      <year>1995</year>
+      <last_signin>1476759752</last_signin>
+      <phone>01654514503</phone>
+      <address>Quận Thủ Đức</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8494094</lat>
+      <lng>106.7537055</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_1091>
+      <id>1091</id>
+      <school>ĐH Sư phạm và Kỹ thuật Tp.HCM</school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy>Sư phạm Anh</fieldofstudy>
+      <from>09.2013</from>
+      <to>nay</to>
+    </n_1091>
+  </education>
+  <user_cv>
+    <db>
+      <ui>6638</ui>
+      <title>Nhân viên phục vụ, Lễ tân</title>
+      <experience>2</experience>
+      <category>14,15,20,28,29,30,31,35</category>
+      <type>2,4,5,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>I am greatly interested in applying for the position. Along with my major in English and a year of experience as an English teacher and receptionist also a telesale consultant, I have great ability to become a good assistant of your company. It would be my pleasure to work for you.&#13;
+I look forward to have an opportunity to meet with you and further discuss my qualifications.&#13;
+Thank you for your time and consideration.</about>
+      <skill>I feel confident and qualified to take on the challenges that position offers because I have more than a year of extensive experience of teaching and group working. I am a student of studying a Bachelor of English from University of Technology Education Ho Chi Minh City with quite excellent grades. Besides, with strong background in psychology I can work well with customers and other colleagues. I am very patient and I can also deal with kind of different of situations. Moreover, I also have good organizing abilities, enthusiastic and high responsibilities.</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>18</total>
+    <strjo>130,279,202,353,301,247,368,252,420,354,427,435,474,468,453,181,154,340</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>6</total>
+    <strjo>279,353,354,427,435,474</strjo>
+  </savedjob>
+</information>

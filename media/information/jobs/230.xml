@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>230</id>
+    <ui>999</ui>
+    <ci>265</ci>
+    <ai>0</ai>
+    <ti>Đầu Bếp Á</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>2,3</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>8000000</s1>
+    <s2>8500000</s2>
+    <s3>363</s3>
+    <s4>386</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description>- Lên menu cơm trưa văn phòng cho dân công sở ( thay đổi mỗi ngày). Tính toán chi phí \r\n- Nấu ăn theo yêu cầu của khách , menu của quán \r\n- Bảo quản thực phẩm\r\n- Chuẩn bị nguyên vật liêu, thực phẩm, cùng phụ bếp sơ chế món ăn\r\n- Làm việc từ 07:00 -&gt; 13:00 và 17:00 -&gt; 21:30 ( nghỉ trưa 4 tiếng) \r\n</description>
+    <requirement>- Biết nấu các món ăn gia đình Việt Nam, khẩu vị miền Nam \r\n- Có kiến thức, kinh nghiệm sơ chế &amp; bảo quản thực phẩm\r\n- Có kĩ năng phân chia và nấu ăn cho số lượng đông khách \r\n- Có khả năng nấu được món Á và Âu kiểu Việt ( như bò lúc lắc, nui xào bò, bít tết,...) \r\n- Trung thực, kĩ tính, cẩn thận, sạch sẽ, yêu nghề, trách nhiệm cao, nghiêm túc\r\n- Do làm việc trong môi trường hiện đại nên phong cách và cách làm việc cũng phải tuân theo, không thể rườm rà, bình dân, ăn to nói lớn, chợ búa,...</requirement>
+    <benefit>- Lương cứng + Thưởng chuyên cần + Phụ cấp + Thưởng tip + Bao ăn và miễn phí gửi xe \r\n- Lương hưởng x3 cho ngày lễ nhà nước \r\n- Nghỉ hưởng lương 1 ngày/tháng \r\n- Tặng thường sinh nhật</benefit>
+    <keyword>Tập trung trong công việc,Tinh thần trách nhiệm,Nhiệt tình,Chịu được áp lực công việc</keyword>
+    <ad/>
+    <location_id>86</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-10-26</de>
+    <re>0000-00-00</re>
+    <cr>1472796872</cr>
+  </db>
+  <more>
+    <requirement>- Biết nấu các món ăn gia đình Việt Nam, khẩu vị miền Nam &#13;
+- Có kiến thức, kinh nghiệm sơ chế &amp; bảo quản thực phẩm&#13;
+- Có kĩ năng phân chia và nấu ăn cho số lượng đông khách &#13;
+- Có khả năng nấu được món Á và Âu kiểu Việt ( như bò lúc lắc, nui xào bò, bít tết,...) &#13;
+- Trung thực, kĩ tính, cẩn thận, sạch sẽ, yêu nghề, trách nhiệm cao, nghiêm túc&#13;
+- Do làm việc trong môi trường hiện đại nên phong cách và cách làm việc cũng phải tuân theo, không thể rườm rà, bình dân, ăn to nói lớn, chợ búa,...</requirement>
+    <description>- Lên menu cơm trưa văn phòng cho dân công sở ( thay đổi mỗi ngày). Tính toán chi phí &#13;
+- Nấu ăn theo yêu cầu của khách , menu của quán &#13;
+- Bảo quản thực phẩm&#13;
+- Chuẩn bị nguyên vật liêu, thực phẩm, cùng phụ bếp sơ chế món ăn&#13;
+- Làm việc từ 07:00 -&gt; 13:00 và 17:00 -&gt; 21:30 ( nghỉ trưa 4 tiếng) &#13;
+</description>
+    <benefit>- Lương cứng + Thưởng chuyên cần + Phụ cấp + Thưởng tip + Bao ăn và miễn phí gửi xe &#13;
+- Lương hưởng x3 cho ngày lễ nhà nước &#13;
+- Nghỉ hưởng lương 1 ngày/tháng &#13;
+- Tặng thường sinh nhật</benefit>
+    <keyword>Tập trung trong công việc,Tinh thần trách nhiệm,Nhiệt tình,Chịu được áp lực công việc</keyword>
+  </more>
+  <userapplied>
+    <total>12</total>
+    <strui>1856,2086,292,2945,2961,3279,3702,4113,5196,4833,5935,6176</strui>
+  </userapplied>
+</information>

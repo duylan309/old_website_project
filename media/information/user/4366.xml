@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4366</id>
+      <email>Nguyenhangte@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Hằng</name>
+      <im>1475110998_nguyen-thi-hang.png</im>
+      <gender>2</gender>
+      <phone>0985061779</phone>
+      <address>42c, phú mỹ, p.22, q.bình thạnh</address>
+      <city>30</city>
+      <dob>1994-6-9</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475110998</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>9</day>
+      <month>6</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.788871</lat>
+      <lng>106.713919</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng, thu ngân,...</title>
+      <experience>1</experience>
+      <category>35</category>
+      <type>4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Bán hàng online, bán hàng trên mạng xã hội, telesale</skill>
+      <ui>4366</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Em là sinh viên mới học xong, yêu thích ngành dịch vụ, công việc bán hàng, có kinh nghiệm trong lĩnh vực bán hàng thời trang, điện thoại, telesale mong muốn tìm được một công việc linh động về thời gian, được off từ 2-4 ngày một tháng. Rất mong nhận được sự quan tâm của cửa hàng. </about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>322</strjo>
+  </appliedjob>
+  <education>
+    <n_719>
+      <id>719</id>
+      <school>Đại học công nghệ tp.HCM</school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy>Quản trị marketing</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_719>
+  </education>
+</information>

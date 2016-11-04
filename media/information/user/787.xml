@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>787</id>
+      <email>phamthanhphuong07@gmail.com</email>
+      <username/>
+      <name>Phạm Thị Thanh Phương</name>
+      <im>495000680710104_thanh-phuong.jpg</im>
+      <gender>2</gender>
+      <dob>1996-9-15</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471071294</created>
+      <day>15</day>
+      <month>9</month>
+      <year>1996</year>
+      <phone>0898317404</phone>
+      <address>78/6A Lâm Văn Bền, Tân Thuận Tây, Quận 7</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.748102</lat>
+      <lng>106.716029</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_111>
+      <id>111</id>
+      <school>Đại học Mở Tp HCM</school>
+      <degrees>Sinh viên</degrees>
+      <fieldofstudy>Quản trị kinh doanh quốc tế</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_111>
+  </education>
+  <experience>
+    <n_169>
+      <id>169</id>
+      <title>Bán hàng</title>
+      <level>1</level>
+      <cmpname>Fu Shop</cmpname>
+      <city>Tp HCM</city>
+      <country>Việt Nam</country>
+      <from>5/2016</from>
+      <to>Nay</to>
+    </n_169>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>787</ui>
+      <title>Nhân viên bán hàng</title>
+      <experience>2</experience>
+      <category>17,29,35</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <skill>Giao tiếp tốt, khả năng thuyết phục, làm việc nhóm hiệu quả. Tinh thần trách nhiệm cao và nghiêm túc trong công việc</skill>
+      <keyword>Giao tiếp hiệu quả,Tập trung trong công việc,Trung thực,Tự tin,Tinh thần trách nhiệm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>82</strjo>
+  </appliedjob>
+</information>

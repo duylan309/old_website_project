@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3816</id>
+      <email>heoconheocon94@gmail.com</email>
+      <username/>
+      <name>Lý Thị Ngọc Huyền</name>
+      <im>2116388265253626_ly-thi-ngoc-huyen.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474864749</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên bán thời gian</title>
+      <experience>7</experience>
+      <category>17,27,31,35</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>3816</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>292</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3938</id>
+      <email>ngocpham202@gmail.com</email>
+      <username/>
+      <name>Phạm Thị Khánh Ngọc</name>
+      <im>3938_13230199-1215396285146266-2718144023708365677-n.jpg</im>
+      <gender>2</gender>
+      <phone>0931908210</phone>
+      <address>132/15 Tân Mỹ, Phường Tân Thuận Tây, Quận 7</address>
+      <city>30</city>
+      <dob>1993-10-21</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474895613</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>21</day>
+      <month>10</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7495767</lat>
+      <lng>106.7196435</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>HR, Sales, Freelancer,...</title>
+      <experience>1</experience>
+      <category>18,28,29</category>
+      <type>1,2,3,4,5,6</type>
+      <level>1,2,3</level>
+      <lang>vi</lang>
+      <skill>Vi tính văn phòng: MS word, excel, power point&#13;
+Toeic: 600+&#13;
+</skill>
+      <ui>3938</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Hòa đồng và thân thiện - đam mê và học hỏi - năng động và sáng tạo!</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>220</strjo>
+  </appliedjob>
+  <experience>
+    <n_866>
+      <id>866</id>
+      <title>Server- Waitress - Hottest</title>
+      <level>1</level>
+      <cmpname>Cổ Phần Đầu Tư Quốc Tế Tinh Hoa</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>6/2016</from>
+      <to>Nay</to>
+    </n_866>
+  </experience>
+  <education>
+    <n_644>
+      <id>644</id>
+      <school>ĐH Tôn Đức Thắng</school>
+      <degrees>Kỹ sư </degrees>
+      <fieldofstudy>Kỹ thuật hóa học</fieldofstudy>
+      <from>2012</from>
+      <to>2017</to>
+    </n_644>
+  </education>
+</information>

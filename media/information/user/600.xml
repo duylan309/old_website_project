@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>600</id>
+      <email>khauchanh@gmail.com</email>
+      <username/>
+      <name>Khau Minh Chanh</name>
+      <im>1773351109544983_khau-minh-chanh.jpg</im>
+      <gender>1</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470628288</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Wait Staff</title>
+      <experience>7</experience>
+      <category>17,29</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Không Có</skill>
+      <ui>600</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>100</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>100</strjo>
+  </savedjob>
+</information>

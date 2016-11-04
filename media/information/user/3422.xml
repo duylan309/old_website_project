@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3422</id>
+      <email>nganhkhoi97@gmail.com</email>
+      <username/>
+      <name>Nguyễn Anh Khôi</name>
+      <im>1080780665290899_nguyen-anh-khoi.jpg</im>
+      <gender>1</gender>
+      <dob>1997-11-7</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474615925</created>
+      <day>7</day>
+      <month>11</month>
+      <year>1997</year>
+      <last_signin>1474615925</last_signin>
+      <phone>01226611922</phone>
+      <address>012 lô C3 chung cư 212 Nguyễn Trãi, Phường Nguyễn Cư Trinh, Quận 1</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7669326</lat>
+      <lng>106.6881147</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_760>
+      <id>760</id>
+      <title>Customer Service</title>
+      <level>1</level>
+      <cmpname>Sức Khỏe Vàng</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>tháng 1/2016</from>
+      <to>tháng 7 /2016</to>
+    </n_760>
+  </experience>
+  <education>
+    <n_556>
+      <id>556</id>
+      <school>Đại Học Tôn Đức Thắng</school>
+      <degrees/>
+      <fieldofstudy>Ngôn Ngữ Anh</fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_556>
+  </education>
+  <user_cv>
+    <db>
+      <ui>3422</ui>
+      <title>Bán thời gian</title>
+      <experience>7</experience>
+      <category>15,16,17,18,27,28,31,36</category>
+      <type>2,3,5</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>15000</s1>
+      <salary>1</salary>
+      <about>Self-initiative,Flexible,Responsible,Adaptable and Friendly</about>
+      <skill>thông thạo Tiếng Anh</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>219,211,100,162,312</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>858</id>
+      <email>ThaoShyn79@gmail.com</email>
+      <username/>
+      <name>Dương Thị Minh Thảo</name>
+      <im>858_img-20151224-202428.jpg</im>
+      <gender>2</gender>
+      <phone>0977576067</phone>
+      <address>246 Hòa Hưng , quận 10</address>
+      <city>30</city>
+      <dob>1995-8-9</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471318777</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>9</day>
+      <month>8</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.779796</lat>
+      <lng>106.671667</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Barista and service.</title>
+      <experience>7</experience>
+      <category>14,15,16,17,18,19,20,27,28,29,30,31,35,36</category>
+      <type>1,3,4,5,6</type>
+      <level>1,2,3,4,5</level>
+      <lang>vi,en</lang>
+      <skill>Team work , office computer , gmail , email, outlook , English-language  .....</skill>
+      <ui>858</ui>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>106</strjo>
+  </appliedjob>
+  <experience>
+    <n_197>
+      <id>197</id>
+      <title>Bán hàng</title>
+      <level>1</level>
+      <cmpname>Princess house</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Viet Nam</country>
+      <from>0</from>
+      <to>4</to>
+    </n_197>
+    <n_198>
+      <id>198</id>
+      <title>Sale</title>
+      <level>1</level>
+      <cmpname>Sacojet</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Vietnamese</country>
+      <from>0</from>
+      <to>2</to>
+    </n_198>
+    <n_199>
+      <id>199</id>
+      <title>Sale</title>
+      <level>1</level>
+      <cmpname>Happy medical</cmpname>
+      <city>Hồ Chí Minh </city>
+      <country>Vietnamese</country>
+      <from>0</from>
+      <to>12</to>
+    </n_199>
+    <n_200>
+      <id>200</id>
+      <title>Barista</title>
+      <level>1</level>
+      <cmpname>Nubie</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Vietnamese</country>
+      <from>0</from>
+      <to>2</to>
+    </n_200>
+  </experience>
+  <education>
+    <n_134>
+      <id>134</id>
+      <school>Đại Học Văn Hiến</school>
+      <degrees>Cao Đẳng</degrees>
+      <fieldofstudy>Quản trị nhà hàng - khách sạn </fieldofstudy>
+      <from>2014</from>
+      <to>2017</to>
+    </n_134>
+  </education>
+</information>

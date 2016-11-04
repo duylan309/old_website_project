@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>508</id>
+    <ui>7487</ui>
+    <ci>424</ci>
+    <ai>0</ai>
+    <ti>BARISTA</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>2</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>4000000</s1>
+    <s2>5000000</s2>
+    <s3>181</s3>
+    <s4>227</s4>
+    <lo>30</lo>
+    <co>vn,for</co>
+    <ca>14,15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description/>
+    <requirement/>
+    <workhour/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>368</location_id>
+    <lat>10.772547</lat>
+    <lng>10.772547</lng>
+    <de>2016-11-30</de>
+    <re>0000-00-00</re>
+    <cr>1477290290</cr>
+  </db>
+  <more>
+    <requirement>- Khả năng vẻ Latte art cơ bản &#13;
+- Tinh thần teamwork cao&#13;
+- Tôn trọng tất cả các nhân viên khác &#13;
+- Lắng nghe &amp; học hỏi &#13;
+- Kỹ năng tự chủ dưới áp lực công việc &#13;
+- Kỹ năng sáng tạo &#13;
+- Kỹ năng giải quyết tình huống </requirement>
+    <description>- Thực hiện qui trình Opening/ Closing &#13;
+- Chuẩn bị nguyên liệu/ dụng cụ &#13;
+- Lau dọn sạch sẽ nơi làm việc &#13;
+- Rửa ly tách/ vật dụng quầy bar&#13;
+- Giữ gìn các thiết bị &#13;
+- Truyền tải kiến thức sản phẩm đến các bạn nhân viên bộ phận khác, thúc đẩy chất lượng dịch vụ &#13;
+- Tôn trọng &amp; hợp tác với các nhân viên bộ phận khác &#13;
+- Quan sát &amp; hỗ trợ các bạn cùng làm việc &#13;
+- Kiểm tra kho &amp; update liệt kê hàng &#13;
+- Tuân thủ chỉ định, hướng dẫn &amp; qui định nơi làm việc &#13;
+- Đóng góp ý tưởng &amp; sáng tạo cá nhân &#13;
+&#13;
+</description>
+    <workhour/>
+    <benefit/>
+    <keyword>Giao tiếp hiệu quả,Tinh thần làm việc nhóm,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Tự tin,Nhiệt tình,Kỹ năng giải quyết tình huống</keyword>
+  </more>
+  <userapplied>
+    <total>3</total>
+    <strui>6734,7634,7649</strui>
+  </userapplied>
+</information>

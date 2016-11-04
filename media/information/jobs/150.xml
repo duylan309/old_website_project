@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>150</id>
+    <ui>712</ui>
+    <ci>253</ci>
+    <ai>0</ai>
+    <ti>Nhân viên phục vụ</ti>
+    <ta/>
+    <le>2</le>
+    <ty>4,5,6</ty>
+    <ex>7</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>10000</s1>
+    <s2>12000</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>en</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>74</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-10-10</de>
+    <re>0000-00-00</re>
+    <cr>1470915371</cr>
+  </db>
+  <more>
+    <requirement>-Giao tiếp tiếng anh cơ bản &#13;
+- Nhiệt tình , vui vẻ , không ngại khó khăn&#13;
+- Chịu được áp lực công việc &#13;
+- Hỗ trợ tốt và tinh thần làm việc nhóm cao </requirement>
+    <description/>
+    <benefit/>
+    <keyword/>
+  </more>
+  <userapplied>
+    <total>68</total>
+    <strui>733,656,687,789,612,814,816,558,689,828,867,877,918,940,292,421,1279,1280,1120,1302,878,1342,1411,1480,1482,1625,1648,1783,1850,1886,1965,2163,2197,2404,1667,2159,2952,2208,2745,2964,3355,3424,3609,3645,3642,2753,4243,4266,3884,4275,4303,4394,4408,4125,4825,4892,4565,4951,4981,4708,5205,4679,5356,5428,5453,1605,5724,5813</strui>
+  </userapplied>
+</information>

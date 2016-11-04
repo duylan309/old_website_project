@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5318</id>
+      <email>lyvayphan@gmail.com</email>
+      <username/>
+      <name>Lỷ Vày Phắn</name>
+      <im>1475901028_ly-vay-phan.png</im>
+      <gender>2</gender>
+      <phone>0988908276</phone>
+      <address>28, Trần Thị Nghỉ, P7, Gò Vấp, Tp.HCM </address>
+      <city>30</city>
+      <dob>1994-10-9</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475901028</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>9</day>
+      <month>10</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7764745</lat>
+      <lng>106.7008831</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân Viên Pha Chế</title>
+      <experience>1</experience>
+      <category>14,15,27</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en,ch</lang>
+      <skill>Tôi có khả năng học hỏi nhanh, làm việc chăm chỉ.</skill>
+      <ui>5318</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Tôi là người yêu thích khám phá, trải nghiệm, và học hỏi. &#13;
+Là người trung thực, trách nhiệm. </about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>172,364,253,111,434</strjo>
+  </appliedjob>
+  <education>
+    <n_884>
+      <id>884</id>
+      <school>Trường đại học Công Nghiệp Tp.HCM </school>
+      <degrees/>
+      <fieldofstudy> Quản trị du lịch &amp; lữ hành </fieldofstudy>
+      <from>2012</from>
+      <to>2017</to>
+    </n_884>
+  </education>
+</information>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2549</id>
+      <email>Tai08789@gmail.com</email>
+      <username/>
+      <name>Mai chí tài</name>
+      <im>2549_1473655181904-670117550.jpg</im>
+      <gender>1</gender>
+      <phone>0964681173</phone>
+      <address>85, hồ tùng mậu quận 1</address>
+      <city>23</city>
+      <dob>1998-8-31</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473655133</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>31</day>
+      <month>8</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hà Nội</city_text_vi>
+      <city_text_en>Ha Noi</city_text_en>
+      <lat>21.0277644</lat>
+      <lng>105.8341598</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15,17,28,35</category>
+      <type>1,4,6</type>
+      <level>2,3</level>
+      <lang>vi</lang>
+      <skill>Ứng xử với khách hang tương đối tốt</skill>
+      <ui>2549</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Vui tinh, hòa đông, có trách nhiệm</about>
+      <keyword>Kỹ năng chăm sóc khách hàng,Tập trung trong công việc,Nhiệt tình</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>222</strjo>
+  </appliedjob>
+</information>

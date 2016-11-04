@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>862</id>
+      <email>tuyendung@ofood.vn</email>
+      <username/>
+      <name>HOÀNG THỊ THẮM</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0906 998 004</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1471331553</created>
+      <dayleft>1479115263</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <jobleft>4</jobleft>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+    <password>
+      <lastupdate>1476250808</lastupdate>
+    </password>
+  </userinfo>
+  <totalJob>
+    <total>1</total>
+    <strji>158</strji>
+  </totalJob>
+</information>

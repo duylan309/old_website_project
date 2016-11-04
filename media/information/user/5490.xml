@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5490</id>
+      <email>Ngocha170196@gmail.com</email>
+      <username/>
+      <name>Hà thuỵ bích ngọc</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0905043913</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476014618</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế. Thu ngân</title>
+      <experience>1</experience>
+      <category>14,15,20</category>
+      <type>2,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>5490</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>368</strjo>
+  </appliedjob>
+</information>

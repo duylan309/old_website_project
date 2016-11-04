@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1301</id>
+      <email>huyenlinhjr21495@gmail.com</email>
+      <username/>
+      <name>Huyền Su Jr.</name>
+      <im>1114898405245115_huyen-su-jr-.jpg</im>
+      <gender>2</gender>
+      <dob>1995-4-21</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472097285</created>
+      <day>21</day>
+      <month>4</month>
+      <year>1995</year>
+      <phone>0973907403</phone>
+      <address>239 lê thị hoa, bình chiểu, thủ đức, tp hcm</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8759356</lat>
+      <lng>106.7458044</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_206>
+      <id>206</id>
+      <school>dh sài gòn</school>
+      <degrees>cao đẳng</degrees>
+      <fieldofstudy>sư phạm</fieldofstudy>
+      <from>2013</from>
+      <to>2016</to>
+    </n_206>
+  </education>
+  <user_cv>
+    <db>
+      <ui>1301</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Nhiệt tình,Trung thực</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>165,124</strjo>
+  </appliedjob>
+</information>

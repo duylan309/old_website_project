@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7245</id>
+      <email>ngo.thinh012@gmail.com</email>
+      <username/>
+      <name>Ngô Tử Quốc Thịnh</name>
+      <im>7245_1455044-378872272280461-6378914057749975843-n.jpg</im>
+      <gender>1</gender>
+      <phone>01299993599</phone>
+      <address>167 Nghĩa Phát, phường 6 , quận Tân Bình</address>
+      <city>30</city>
+      <dob>1996-3-26</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477129485</created>
+      <dayleft>0</dayleft>
+      <jobleft>0</jobleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1477129485</last_signin>
+      <day>26</day>
+      <month>3</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7859045</lat>
+      <lng>106.6580738</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>7245</ui>
+      <title>Nhân viên phục vụ , Bán hàng</title>
+      <experience>7</experience>
+      <category>14,17,20,31,35</category>
+      <type>5,6</type>
+      <level>1</level>
+      <lang>en</lang>
+      <s1>15000</s1>
+      <salary>1</salary>
+      <about>Đang học ngành Quản trị nhà hàng-khách sạn tại Đại học HUFLIT , vì thế có nguyện vọng được làm thêm những ngành nghề có thể tự chọn thời gian do lịch học không được đồng bộ</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>154</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>100</strjo>
+  </savedjob>
+</information>

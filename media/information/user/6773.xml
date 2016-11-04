@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6773</id>
+      <email>Huynhthucly@gmail.com</email>
+      <username/>
+      <name>Huỳnh Thục Ly</name>
+      <im>1476854494_huynh-thuc-ly.png</im>
+      <gender>2</gender>
+      <phone>01636249225</phone>
+      <address>56 Hoàng Diệu 2, Thủ Đức </address>
+      <city>30</city>
+      <dob>1996-6-9</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476854494</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>9</day>
+      <month>6</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8575878</lat>
+      <lng>106.7635501</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>14,15,16,18,19,20,26,28,29,30,31,35,36</category>
+      <type>2,3,4,5,6</type>
+      <level>1,2,3</level>
+      <lang>vi,en,kr</lang>
+      <skill>- Kỹ năng giao tiếp&#13;
+- Kỹ năng làm việc nhóm&#13;
+- Kỹ năng giải quyết vấn đề&#13;
+- Kỹ năng bán hàng </skill>
+      <ui>6773</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>258</strjo>
+  </appliedjob>
+  <experience>
+    <n_1352>
+      <id>1352</id>
+      <title>Part time sales staff</title>
+      <level>1</level>
+      <cmpname>KINH DO</cmpname>
+      <city>Ho Chi Minh City</city>
+      <country>Vietnam </country>
+      <from>AUG 2016</from>
+      <to>SEP 2016</to>
+    </n_1352>
+    <n_1353>
+      <id>1353</id>
+      <title>Part time sales staff</title>
+      <level>1</level>
+      <cmpname>Weekend market</cmpname>
+      <city>Ho Chi Minh City</city>
+      <country>Vietnam </country>
+      <from>SEP 2016</from>
+      <to>OCT 2016</to>
+    </n_1353>
+  </experience>
+  <education>
+    <n_1115>
+      <id>1115</id>
+      <school>Banking University of Ho Chi Minh City</school>
+      <degrees/>
+      <fieldofstudy>Economic Law</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_1115>
+  </education>
+</information>

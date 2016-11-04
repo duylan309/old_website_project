@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4462</id>
+      <email>vophuocloc98@gmail.com</email>
+      <username/>
+      <name>Võ Phước Lộc</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0936879262</phone>
+      <address>C3/27f Phạm Hùng, Quận 8</address>
+      <city>30</city>
+      <dob>1998-5-9</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475204594</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1475204594</last_signin>
+      <day>9</day>
+      <month>5</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7303711</lat>
+      <lng>106.6737918</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>4462</ui>
+      <title>Nhân viên phục vụ, thiết kế,</title>
+      <experience>7</experience>
+      <category>14,15</category>
+      <type>1</type>
+      <level>1,2</level>
+      <lang>vi</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Trung thực, đúng giờ, siêng năng.</about>
+      <skill>Giao tiếp, làm việc nhóm.</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <education>
+    <n_746>
+      <id>746</id>
+      <school>Trung cấp nghề Hùng Vương</school>
+      <degrees>Trung Cấp Nghề</degrees>
+      <fieldofstudy>Thiết Kế Đồ Họa</fieldofstudy>
+      <from>2013</from>
+      <to>2016</to>
+    </n_746>
+  </education>
+  <experience>
+    <n_956>
+      <id>956</id>
+      <title>Thực Tập Sinh</title>
+      <level>1</level>
+      <cmpname>Allpya - PyraTech</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2016</from>
+      <to>2016</to>
+    </n_956>
+  </experience>
+  <appliedjob>
+    <total>2</total>
+    <strjo>294,165</strjo>
+  </appliedjob>
+</information>

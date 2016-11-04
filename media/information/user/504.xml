@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>504</id>
+      <email>thaoly201095@gmail.com</email>
+      <username/>
+      <name>Lâm Hoàng Thảo Ly</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0938006366</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470293312</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bếp</title>
+      <experience>2</experience>
+      <category>14</category>
+      <type>6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>- Nhân viên bếp 2 năm kinh nghiệm ở Pizza Hut&#13;
+- Nhân viên bếp chiên-nướng ở Wrap &amp; Roll</skill>
+      <ui>504</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>104</strjo>
+  </appliedjob>
+</information>

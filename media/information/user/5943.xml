@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5943</id>
+      <email>lethu13021998@gmail.com</email>
+      <username/>
+      <name>Lê Thư</name>
+      <im>1059453270841589_le-thu.jpg</im>
+      <gender>2</gender>
+      <dob>1998-2-13</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476277945</created>
+      <day>13</day>
+      <month>2</month>
+      <year>1998</year>
+      <phone>01863659078</phone>
+      <address>79/13 quốc lộ 13 p26 q. Bình thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.812508</lat>
+      <lng>106.71212</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>5943</ui>
+      <title>Nhân viên bán hàng</title>
+      <experience>7</experience>
+      <category>17</category>
+      <type>2,4</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>Hoạt bát, nhanh nhẹn, biết lắng nghe, học hỏi, thân thiện, hòa đồng</about>
+      <skill>Biết tiếng anh</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>205</strjo>
+  </appliedjob>
+</information>

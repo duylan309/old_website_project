@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1743</id>
+      <email>luzrapper.2109@gmail.com</email>
+      <username/>
+      <name>Đỗ Lệnh Đức</name>
+      <im>1360579293959973_do-lenh-duc.jpg</im>
+      <gender>1</gender>
+      <dob>1993-9-21</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472868850</created>
+      <day>21</day>
+      <month>9</month>
+      <year>1993</year>
+      <last_signin>1472868850</last_signin>
+      <phone>0938274842</phone>
+      <address>35 Hàn Thuyên, P.Bình Thọ, Q.Thủ Đức</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.846424</lat>
+      <lng>106.769376</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_380>
+      <id>380</id>
+      <title>Nhân viên thiết kế</title>
+      <level>1</level>
+      <cmpname>Cổ phần Mắt Bão</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>tháng 3 năm 2015</from>
+      <to>tháng 3 năm 2016</to>
+    </n_380>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>1743</ui>
+      <title>thợ photoshop, thiết kế, nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>15,19,35</category>
+      <type>2,5,6</type>
+      <level>1,2,3</level>
+      <lang>vi,en</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <skill>Photoshop, Illustrator, Microsoft Office</skill>
+      <keyword>Chịu được áp lực công việc,Trung thực,Tinh thần làm việc nhóm,Nhiệt tình,Giao tiếp hiệu quả,Tinh thần trách nhiệm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>181</strjo>
+  </appliedjob>
+</information>

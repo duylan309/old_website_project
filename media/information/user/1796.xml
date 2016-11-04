@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1796</id>
+      <email>nhoklokchok96@yahoo.com</email>
+      <username/>
+      <name>Huỳnh Nhật</name>
+      <im>1785109215059296_huynh-nhat.jpg</im>
+      <gender>1</gender>
+      <dob>1996-10-4</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472925968</created>
+      <day>4</day>
+      <month>10</month>
+      <year>1996</year>
+      <last_signin>1472925968</last_signin>
+      <phone>0902337371</phone>
+      <address>242 đoàn văn bơ p10 q4 </address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7587949</lat>
+      <lng>106.710962</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_290>
+      <id>290</id>
+      <school>trung học phổ thông nguyễn trãi </school>
+      <degrees>tốt nghiệp trung học phổ thông</degrees>
+      <fieldofstudy/>
+      <from>2014</from>
+      <to>2016</to>
+    </n_290>
+  </education>
+  <user_cv>
+    <db>
+      <ui>1796</ui>
+      <title>phụ bếp pha chế</title>
+      <experience>1</experience>
+      <category>14,15,16</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword/>
+      <about/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>191,276</strjo>
+  </appliedjob>
+  <experience>
+    <n_734>
+      <id>734</id>
+      <title>phục vụ</title>
+      <level>1</level>
+      <cmpname>nhà hàng tiệc cưới riverside</cmpname>
+      <city>hồ chí minh</city>
+      <country>việt nam</country>
+      <from>2014</from>
+      <to>2015</to>
+    </n_734>
+  </experience>
+</information>

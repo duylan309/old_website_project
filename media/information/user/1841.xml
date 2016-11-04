@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1841</id>
+      <email>minhvt15@yahoo.com</email>
+      <username/>
+      <name>Cao Văn Minh</name>
+      <im>837875052978894_cao-van-minh.jpg</im>
+      <gender>1</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472997955</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+      <last_signin>1472997955</last_signin>
+    </db>
+  </userinfo>
+  <experience>
+    <n_406>
+      <id>406</id>
+      <title>Phụ bếp</title>
+      <level>1</level>
+      <cmpname>Nhà hàng buffet Isushi tại Superbowl Trường Sơn</cmpname>
+      <city>TP.HCM</city>
+      <country>Việt Nam</country>
+      <from>29/2/2016</from>
+      <to>5/8/2016</to>
+    </n_406>
+    <n_407>
+      <id>407</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Cafe Galaxy Vũng Tàu</cmpname>
+      <city>TP Vũng Tàu</city>
+      <country>Việt Nam</country>
+      <from>1/3/2015</from>
+      <to>1/5/2015</to>
+    </n_407>
+  </experience>
+  <education>
+    <n_292>
+      <id>292</id>
+      <school>Đại học Giao Thông Vận Tải TPHCM</school>
+      <degrees>Sinh Viên Khóa 14</degrees>
+      <fieldofstudy>Điện Công Nghiệp</fieldofstudy>
+      <from>15/9/2104</from>
+      <to>....</to>
+    </n_292>
+  </education>
+</information>

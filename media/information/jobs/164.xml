@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>164</id>
+    <ui>999</ui>
+    <ci>265</ci>
+    <ai>0</ai>
+    <ti>Nhân viên tạp vụ bếp</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>3100000</s1>
+    <s2>3600000</s2>
+    <s3>140</s3>
+    <s4>163</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>86</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-10-26</de>
+    <re>0000-00-00</re>
+    <cr>1471572433</cr>
+  </db>
+  <more>
+    <requirement>- Có kĩ năng dọn dẹp, sắp xếp đồ dủng cẩn thận&#13;
+- Biết sơ chế, chế biến, bảo quản  thực phẩm&#13;
+- Kĩ tính, sạch sẽ, trung thực, cẩn thận&#13;
+- Biết nấu ăn cơm gia đình việt càng tốt</requirement>
+    <description>- Sơ chế thực phẩm&#13;
+- Phụ bếp, múc đồ ăn cho khách&#13;
+- Dọn dẹp khu vực bếp, kho ( theo yêu cầu) &#13;
+- Hỗ trợ bếp chính công việc bếp&#13;
+</description>
+    <benefit>Lương cứng + phụ cấp + thưởng chuyên cần + tip&#13;
+( bao ăn + miễn phí gửi xe)</benefit>
+    <keyword>Tinh thần trách nhiệm,Nhiệt tình,Trung thực,Chịu được áp lực công việc</keyword>
+  </more>
+  <userapplied>
+    <total>9</total>
+    <strui>1319,2755,4134,3744,5696,5858,6033,6603,8093</strui>
+  </userapplied>
+</information>

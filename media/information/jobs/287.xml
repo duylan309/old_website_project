@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>287</id>
+    <ui>1318</ui>
+    <ci>280</ci>
+    <ai>0</ai>
+    <ti>Phục vụ nữ</ti>
+    <ta/>
+    <le>2</le>
+    <ty>4</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>4000000</s1>
+    <s2>5000000</s2>
+    <s3>181</s3>
+    <s4>227</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>103</location_id>
+    <lat>10.791810</lat>
+    <lng>10.791810</lng>
+    <de>2016-10-24</de>
+    <re>0000-00-00</re>
+    <cr>1473867278</cr>
+  </db>
+  <more>
+    <requirement>Có thể giao tiếp bằng tiếng Anh</requirement>
+    <description>Ca 1: 9am-5pm. Lương 4tr&#13;
+Ca 2: 4pm-12am. Lương 5tr</description>
+    <benefit>Off thứ Hai hằng tuần</benefit>
+    <keyword>Nhiệt tình,Tự tin,Tinh thần làm việc nhóm,Trung thực,Cafe,Phục vụ</keyword>
+  </more>
+  <userapplied>
+    <total>29</total>
+    <strui>2780,292,3067,3120,3218,3690,3808,3908,3976,4038,4042,4125,4255,3864,4714,5163,5085,5511,5818,6360,6359,6877,6926,6279,7147,7161,4833,7806,7917</strui>
+  </userapplied>
+</information>

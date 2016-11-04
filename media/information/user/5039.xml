@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5039</id>
+      <email>anhvii2205@gmail.com</email>
+      <username/>
+      <name>Lưu Thị Anh Vy</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01225974019</phone>
+      <address>Nguyễn Đình Chiễu Quận 3</address>
+      <city>30</city>
+      <dob>2002-5-22</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475670554</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>22</day>
+      <month>5</month>
+      <year>2002</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7750088</lat>
+      <lng>106.6868243</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục vụ</title>
+      <experience>7</experience>
+      <category>35</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>5039</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>269,371</strjo>
+  </appliedjob>
+  <education/>
+</information>

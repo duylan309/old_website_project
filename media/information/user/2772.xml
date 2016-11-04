@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2772</id>
+      <email>Khanhlynguyennapa@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Khánh Ly</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01638108304</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473901223</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân vuên phục vụ</title>
+      <experience>1</experience>
+      <category>14,18,20,29,31</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,ja</lang>
+      <skill/>
+      <ui>2772</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>176,275,240,151</strjo>
+  </appliedjob>
+</information>

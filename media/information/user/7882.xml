@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7882</id>
+      <email>lehuynh190598@gmail.com</email>
+      <username/>
+      <name>Cam Huỳnh Thuý Lê</name>
+      <im>1477505488_cam-huynh-thuy-le.png</im>
+      <gender>2</gender>
+      <phone>0938740198</phone>
+      <address>532/3/97, Kinh Dương Vương, Phường An Lạc , Quận Bình Tân</address>
+      <city>30</city>
+      <dob>1998-5-19</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477505488</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>19</day>
+      <month>5</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7317136</lat>
+      <lng>106.6084068</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phụ bếp</title>
+      <experience>1</experience>
+      <category>29</category>
+      <type>2</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill>Em đã từng phụ bếp ở nhà hàng ẩm thực Singapo </skill>
+      <ui>7882</ui>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <about>Em đã tốt nghiệp lớp 12 và hiện tại đang là tân sinh viên của trường Đại học Văn Hiến </about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>187</strjo>
+  </appliedjob>
+  <experience>
+    <n_1538>
+      <id>1538</id>
+      <title>Phụ bếp</title>
+      <level>1</level>
+      <cmpname>Nhà hàng ẩm thực Singapo</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>Tháng 9</from>
+      <to>Tháng 10</to>
+    </n_1538>
+  </experience>
+</information>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3635</id>
+      <email>kusua.97@gmail.com</email>
+      <username/>
+      <name>Ku Sữa</name>
+      <im>696816843802210_ku-sua.jpg</im>
+      <gender>1</gender>
+      <dob>1997-3-4</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474727596</created>
+      <day>4</day>
+      <month>3</month>
+      <year>1997</year>
+      <phone>0909512977</phone>
+      <address>402/40 xô viết nghệ tĩnh phường 25 quận bình thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.805004</lat>
+      <lng>106.7125159</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>phụ bếp - phục vụ theo ca tối</title>
+      <experience>7</experience>
+      <category>14,16,29</category>
+      <type>5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>nhanh nhẹn</skill>
+      <ui>3635</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>301,114</strjo>
+  </appliedjob>
+</information>

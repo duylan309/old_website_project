@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4893</id>
+      <email>dhngoc3896@gmail.com</email>
+      <username/>
+      <name>Đào Hồng Ngọc</name>
+      <im>534946996693922_hong-ngoc.jpg</im>
+      <gender>2</gender>
+      <dob>1996-8-3</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475574786</created>
+      <day>3</day>
+      <month>8</month>
+      <year>1996</year>
+      <last_signin>1475574786</last_signin>
+      <phone>01265239404</phone>
+      <address>C100bis Nguyễn Văn Quá, Quận 12</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8420757</lat>
+      <lng>106.6306488</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>4893</ui>
+      <title>Parttime</title>
+      <experience>1</experience>
+      <category>14,15,17,20,26,29,35,36</category>
+      <type>2</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Nhanh nhẹn, nhiệt tình, ham học hỏi&#13;
+Thật thà, cầu tiến trong công việc&#13;
+Tham gia các hoạt động ở trường Đại Học</about>
+      <skill>Kỹ năng làm việc nhóm tốt&#13;
+Kỹ năng tin học: MS Work, Excel, PowerPoint&#13;
+Khả năng tiếng Anh tốt&#13;
+Kỹ năng giao tiếp và trình bày tốt&#13;
+</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>156,105,322</strjo>
+  </appliedjob>
+</information>

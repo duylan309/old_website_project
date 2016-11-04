@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1737</id>
+      <email>huyenonie.2708@gmail.com</email>
+      <username/>
+      <name>Trần Thị Ngọc Huyền</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0917037854</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472842067</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhan viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,16,17,18,19,20,26,27,28,29,30,31,35</category>
+      <type>1,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>1737</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>219</strjo>
+  </appliedjob>
+</information>

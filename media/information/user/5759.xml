@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5759</id>
+      <email>dannguyen1724@gmail.com</email>
+      <username/>
+      <name>Nguyen Huyen</name>
+      <im>1476172872_nguyen-huyen.png</im>
+      <gender>2</gender>
+      <phone>01698848091</phone>
+      <address>Huynh Tan Phat, Tan Phu Dong Quan 7</address>
+      <city>30</city>
+      <dob>1994-6-14</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476172872</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>14</day>
+      <month>6</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.754272</lat>
+      <lng>106.729095</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhan vien phu bep</title>
+      <experience>7</experience>
+      <category>14,17,20,29,31,35</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Trung thực, chăm chỉ, siêng học hỏi, có trách nhiệm, có khả năng làm việc nhóm cũng như làm việc độc lập.</skill>
+      <ui>5759</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Tội tên Huyễn, 22t, thích nấu ăn, quê Tiền Giang, mong muốn có công việc ổn định và yêu thích</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>406</strjo>
+  </appliedjob>
+</information>

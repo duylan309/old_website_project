@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5971</id>
+      <email>mrhoangphuong02@gmail.com</email>
+      <username/>
+      <name>Ba Gà Chọi</name>
+      <im>1089095757806107_ba-ga-choi.jpg</im>
+      <gender>1</gender>
+      <dob>1993-2-2</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476288167</created>
+      <day>2</day>
+      <month>2</month>
+      <year>1993</year>
+      <phone>0906650705</phone>
+      <address>79 Trần Văn Đang, Quận 3, TP Hồ Chí Minh</address>
+      <country>vn</country>
+      <city></city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục vụ</title>
+      <experience>7</experience>
+      <category>14,15</category>
+      <type>2,4,6</type>
+      <level>2</level>
+      <lang>vi,ja</lang>
+      <skill></skill>
+      <ui>5971</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Có tinh thần trách nhiệm trong công việc, chịu khó học hỏi, không ngại khó khăn</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>391,395,364</strjo>
+  </appliedjob>
+</information>

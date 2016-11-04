@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4300</id>
+      <email>tuquyen.nguyen.2210@gmail.com</email>
+      <username/>
+      <name>Nguyễn Tú Quyên</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0938909273</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475060735</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Chuyên viên marketing, Nhân viên, Trợ lý</title>
+      <experience>1</experience>
+      <category>14,15,18,20,27,28,35,36</category>
+      <type>2,4</type>
+      <level>1,2,3</level>
+      <lang>vi,en</lang>
+      <skill>Sinh viên ngành Tổ chức sự kiện tại Viện đào tạo quốc tế FPT&#13;
+Có kinh nghiệm viết bài PR, thông cáo báo chí, lên kế hoạch marketing, và hỗ trợ truyền thông&#13;
+Tham gia nhiều chương trình tỉnh nguyện và tổ chức các sự kiện cỡ vừa và nhỏ&#13;
+Từng làm việc ở nhiều vị trí khác nhau, có khả năng thích nghi tốt với môi trường làm việc&#13;
+Có khả năng làm việc độc lập cũng như hợp tác tốt trong việc làm nhóm&#13;
+Có tinh thần trách nhiệm, cố gắng hoàn thành tốt công việc, và hỗ trợ các thành viên khác để thực hiện nhiệm vụ</skill>
+      <ui>4300</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>99</strjo>
+  </appliedjob>
+  <education>
+    <n_701>
+      <id>701</id>
+      <school>Viện đào tạo quôc tế FPT</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Quản trị sự kiện</fieldofstudy>
+      <from>2014</from>
+      <to>2017</to>
+    </n_701>
+  </education>
+</information>

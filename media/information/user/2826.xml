@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2826</id>
+      <email>pollchibi2804@gmail.com</email>
+      <username/>
+      <name>Nguyễn Huỳnh Như Thủy</name>
+      <im>1474002963_nguyen-huynh-nhu-thuy.png</im>
+      <gender>2</gender>
+      <phone>0938612930</phone>
+      <address>645/46 Điện Biên Phủ p1 q3</address>
+      <city>30</city>
+      <dob>1996-12-20</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474002963</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>20</day>
+      <month>12</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7684591</lat>
+      <lng>106.6756807</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>14,17,29,30,35</category>
+      <type>1,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>2826</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>205,124</strjo>
+  </appliedjob>
+  <experience>
+    <n_636>
+      <id>636</id>
+      <title>Shop Labella</title>
+      <level>1</level>
+      <cmpname>Labella</cmpname>
+      <city>HCM</city>
+      <country>Việt Nam</country>
+      <from>Tháng 4</from>
+      <to>Tháng 7</to>
+    </n_636>
+  </experience>
+  <education>
+    <n_459>
+      <id>459</id>
+      <school>THPT Trần Hữu Trang</school>
+      <degrees>Tốt nghiệp THPT</degrees>
+      <fieldofstudy/>
+      <from>Năm 2012</from>
+      <to>Năm 2014</to>
+    </n_459>
+  </education>
+</information>

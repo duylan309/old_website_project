@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4059</id>
+      <email>luyenphamhr@yaoo.com.vn</email>
+      <username/>
+      <name>CÔNG TY TNHH MTV AN QUÝ</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0862524545</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1474965340</created>
+      <dayleft>1477557340</dayleft>
+      <page>1</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1474965340</last_signin>
+      <deactive>1</deactive>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+    <password>
+      <lastupdate>1474965863</lastupdate>
+    </password>
+  </userinfo>
+</information>

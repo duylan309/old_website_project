@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1280</id>
+      <email>thuyntb1996@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Bích Thùy</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01216575067</phone>
+      <address>4.6 lô A khu phố 1 phường An Phú quận 2</address>
+      <city>30</city>
+      <dob>1996-8-10</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472047583</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>10</day>
+      <month>8</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.80163</lat>
+      <lng>106.744472</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, pha chế</title>
+      <experience>7</experience>
+      <category>14,15</category>
+      <type>2,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Năng động, nhiệt tình và chăm chỉ trong công việc </skill>
+      <ui>1280</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword>Giao tiếp hiệu quả,Tập trung trong công việc,Nhiệt tình,Trung thực</keyword>
+      <about>Tôi là sinh viên trường đại học Ngân Hàng, đã có 3 tháng kinh nghiệm phục vụ quán ăn và quán caffee. Bên cạnh đó tôi cũng mong muốn được làm một pha chế  vì niềm đam mê bản thân. Tôi có thể giao tiếp tiếng  anh khá, làm việc chăm chỉ, cần cù và ưa thích sạch sẽ. Tôi mong muốn được làm việc tại một môi trường chuyên nghiệp và năng động. </about>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>150,165,219,240,202,222</strjo>
+  </appliedjob>
+</information>

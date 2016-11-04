@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1468</id>
+      <email>jobs@chip.vn</email>
+      <username/>
+      <name>CHIP.VN</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0923665586</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1472384811</created>
+      <dayleft>1477568811</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1472384811</last_signin>
+      <jobleft>4</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>1</total>
+    <strji>205</strji>
+  </totalJob>
+  <saveuser>
+    <total>44</total>
+    <strui>1561,292,1763,1785,1793,1803,1629,2026,2467,2471,2480,2476,2591,2525,2826,2831,2882,2899,2995,3017,3050,3067,3253,3257,3264,3307,3319,3372,3413,3474,3603,3609,3649,3665,3689,1794,2787,3356,4009,4351,3864,4593,4608,4130</strui>
+  </saveuser>
+</information>

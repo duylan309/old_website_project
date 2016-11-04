@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5720</id>
+      <email>ngdtien.ndt@gmail.com</email>
+      <username/>
+      <name>Dinh Tien Ngo</name>
+      <im>993679070758085_dinh-tien-ngo.jpg</im>
+      <gender>1</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476162375</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Chef de partie</title>
+      <experience>5</experience>
+      <category>14,20,29</category>
+      <type>1</type>
+      <level>4</level>
+      <lang>vi,en</lang>
+      <skill>Có kĩ năng về bánh âu,món pháp và ý,có thời gian dài làm trong khách sạn Sofitel,được đào tạo kĩ về các kĩ năng,kiến thức VSATTP.&#13;
+Có khả năng quản lý nhóm,trainning nhân viên mới.</skill>
+      <ui>5720</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>321</strjo>
+  </appliedjob>
+  <experience>
+    <n_1348>
+      <id>1348</id>
+      <title>Commics</title>
+      <level>1</level>
+      <cmpname>Bernie bar&amp;grill</cmpname>
+      <city>Hồ chí minh</city>
+      <country>Việt Nam</country>
+      <from>02/2008</from>
+      <to>4</to>
+    </n_1348>
+  </experience>
+</information>

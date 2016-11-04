@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>284</id>
+    <ui>240</ui>
+    <ci>335</ci>
+    <ai></ai>
+    <ti>tuyen dung</ti>
+    <ta></ta>
+    <le>2</le>
+    <ty>2</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14,15</ca>
+    <vi></vi>
+    <so></so>
+    <st>2</st>
+    <pi></pi>
+    <la>ja</la>
+    <description></description>
+    <requirement></requirement>
+    <workhour></workhour>
+    <benefit></benefit>
+    <keyword></keyword>
+    <ad></ad>
+    <location_id>176</location_id>
+    <lat>10.767517</lat>
+    <lng>10.767517</lng>
+    <de>2016-11-03</de>
+    <re></re>
+    <cr>1477714210</cr>
+  </db>
+  <more>
+    <requirement></requirement>
+    <description></description>
+    <workhour></workhour>
+    <benefit></benefit>
+    <keyword></keyword>
+  </more>
+</information>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5885</id>
+      <email>tathanhnhi06051997@gmail.com</email>
+      <username/>
+      <name>Thanh Nhi</name>
+      <im>1059598304159864_thanh-nhi.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476251915</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, nhân viên bán hàng, thu ngân,</title>
+      <experience>7</experience>
+      <category>14,15,20,26,27,28,29,30,31,35</category>
+      <type>2,4,5,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill>Tiếng giao tiếp cơ bản.&#13;
+Thao tác được trên Word, Excel</skill>
+      <ui>5885</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>262</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5724</id>
+      <email>ysserious.9z@gmail.com</email>
+      <username/>
+      <name>Mai Lâm Phương Quỳnh</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01268825708</phone>
+      <address>440/31 Thống Nhất, phường 16, Gò Vấp</address>
+      <city>30</city>
+      <dob>1997-3-10</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476163079</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>10</day>
+      <month>3</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8451659</lat>
+      <lng>106.6648227</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,20,29</category>
+      <type>2,5,6</type>
+      <level>2</level>
+      <lang>vi,en,sp</lang>
+      <skill>Vi tính: MS word, excel, power point</skill>
+      <ui>5724</ui>
+      <s1>1300000</s1>
+      <salary>1</salary>
+      <about>- Siêng năng, chăm chỉ, ham học hỏi&#13;
+- Ngôn ngữ: tiếng Việt, tiếng Anh, tiếng Tây Ban  Nha</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>412,247,150,280</strjo>
+  </appliedjob>
+  <experience>
+    <n_1179>
+      <id>1179</id>
+      <title>Nhân viên phục vụ và pha chế</title>
+      <level>1</level>
+      <cmpname>La Pâtisserie</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>6/2016</from>
+      <to>10/2016</to>
+    </n_1179>
+  </experience>
+  <education>
+    <n_960>
+      <id>960</id>
+      <school>Đại Học Công Nghiệp Tp. HCM</school>
+      <degrees/>
+      <fieldofstudy>Quản trị nhà hàng</fieldofstudy>
+      <from>8/2015</from>
+      <to>hiện tại</to>
+    </n_960>
+  </education>
+</information>

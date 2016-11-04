@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7887</id>
+      <email>armynguyen26@gmail.com</email>
+      <username/>
+      <name>Nguyễn Trần Minh Quân</name>
+      <im>719167148237575_nguyen-tran-minh-quan.jpg</im>
+      <gender>1</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477510682</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,16,19,29,35</category>
+      <type>1,4</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>7887</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>348</strjo>
+  </appliedjob>
+</information>

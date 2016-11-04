@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3942</id>
+      <email>ivy1790@yahoo.com.vn</email>
+      <username/>
+      <name>Vong Ưu Thảo</name>
+      <im>1782758125325439_vong-uu-thao.jpg</im>
+      <gender>2</gender>
+      <dob>1997-5-17</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474897313</created>
+      <day>17</day>
+      <month>5</month>
+      <year>1997</year>
+      <phone>01665715797</phone>
+      <address>132/21/9 Mã lò phừờng bình trị đông a quận bình tân </address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7766017</lat>
+      <lng>106.6008261</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>bán thời gian</title>
+      <experience>1</experience>
+      <category>31</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill></skill>
+      <ui>3942</ui>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>292</strjo>
+  </appliedjob>
+</information>

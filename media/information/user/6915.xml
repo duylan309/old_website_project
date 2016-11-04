@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6915</id>
+      <email>phuongngoc8194@gmail.com</email>
+      <username/>
+      <name>Nguyễn Ngọc Minh Phương</name>
+      <im>6915_13710424-1702521736677588-1520284720649843782-o.jpg</im>
+      <gender>2</gender>
+      <phone>01226726581</phone>
+      <address>141/4 Trần Nhân Tôn, P2, Q10</address>
+      <city>30</city>
+      <dob>1994-1-8</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476943131</created>
+      <dayleft>0</dayleft>
+      <jobleft>0</jobleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476943131</last_signin>
+      <day>8</day>
+      <month>1</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.762465</lat>
+      <lng>106.674656</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6915</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>2</experience>
+      <category>14,15,16,20</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>en</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Tôi mong muốn được làm việc trong ngành nhà hàng. Được học tập và hoàn thiện bản thân. Từ đó hoàn thành những mục tiêu lớn hơn và cống hiến hết mình cho công việc công ty.</about>
+      <skill>Chứng chỉ Tin học A</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>11</total>
+    <strjo>92,202,444,477,460,465,364,273,335,348,482</strjo>
+  </appliedjob>
+  <experience>
+    <n_1365>
+      <id>1365</id>
+      <title>Nhân viên Phục vụ thực tập</title>
+      <level>1</level>
+      <cmpname>Nhà hàng Hoa Ngân Đình ( Windsor Plaza hotel)</cmpname>
+      <city>HCM</city>
+      <country>Việt Nam</country>
+      <from>8/2015</from>
+      <to>11/2015</to>
+    </n_1365>
+    <n_1366>
+      <id>1366</id>
+      <title>Nhân viên Phục vụ - Thu Ngân (Part time)</title>
+      <level>1</level>
+      <cmpname>Hello 5  Coffe</cmpname>
+      <city>HCM</city>
+      <country>VN</country>
+      <from>3/2016</from>
+      <to>6/2016</to>
+    </n_1366>
+    <n_1367>
+      <id>1367</id>
+      <title>Nhân viên phục vụ Part time</title>
+      <level>1</level>
+      <cmpname>Nhà hàng lẩu Nhật Choice Hotpot ( VinCom )</cmpname>
+      <city>HCM</city>
+      <country>VN</country>
+      <from>5/1015</from>
+      <to>7/2015</to>
+    </n_1367>
+    <n_1368>
+      <id>1368</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Thực tập nhà hàng lẩu nấm Nhật Bản Ashima Nguyễn Đình Chiểu</cmpname>
+      <city>HCM</city>
+      <country>VN</country>
+      <from>6/2014</from>
+      <to>10/2104</to>
+    </n_1368>
+    <n_1369>
+      <id>1369</id>
+      <title>Nhân viên phục vụ nhà hàng part time</title>
+      <level>1</level>
+      <cmpname>Nhà hàng Adora</cmpname>
+      <city>HCM</city>
+      <country>VN</country>
+      <from>2/2014</from>
+      <to>3/2014</to>
+    </n_1369>
+  </experience>
+  <education>
+    <n_1137>
+      <id>1137</id>
+      <school>Đại học Văn Lang</school>
+      <degrees>Cử nhân (đã tốt nghiệp)</degrees>
+      <fieldofstudy>Quản trị Nhà hàng - Khách sạn</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_1137>
+  </education>
+</information>

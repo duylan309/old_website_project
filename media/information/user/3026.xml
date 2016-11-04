@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3026</id>
+      <email>Ngothanhxuan@gmail.com</email>
+      <username/>
+      <name>Ngô Thị Thanh Xuân</name>
+      <im>3026_image.jpeg</im>
+      <gender>0</gender>
+      <phone>01203203322</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474194978</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>16</category>
+      <type>4</type>
+      <level>1,2</level>
+      <lang>en</lang>
+      <skill>Pha chế đồ uống</skill>
+      <ui>3026</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>211,156,221</strjo>
+  </appliedjob>
+</information>

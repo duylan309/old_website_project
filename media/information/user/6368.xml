@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6368</id>
+      <email>nhivuong5595@gmail.com</email>
+      <username/>
+      <name>Vương Kim Nhi</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0908625068</phone>
+      <address>177 Văn Thân P.8 Q.6</address>
+      <city>30</city>
+      <dob>1995-5-5</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476527371</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476527371</last_signin>
+      <day>5</day>
+      <month>5</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.741259</lat>
+      <lng>106.6364849</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_1060>
+      <id>1060</id>
+      <school>Trường ĐH Ngoại ngữ - Tin học TP. HCM (HUFLIT)  </school>
+      <degrees>Chưa tốt nghiệp </degrees>
+      <fieldofstudy>Tiếng Anh Thương mại</fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_1060>
+  </education>
+  <user_cv>
+    <db>
+      <ui>6368</ui>
+      <title>Nhân viên phục vụ/ Nhân viên bán hàng/ Biên dịch viên</title>
+      <experience>7</experience>
+      <category>14,15,17,20,29,31,35</category>
+      <type>2,3,4,5,6</type>
+      <level>1,2,3</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Tôi tên Vương Kim Nhi, 21 tuổi, đang là sinh viên năm 3 hệ Cao đẳng chuyên ngành Tiếng Anh Thương mại trường ĐH Ngoại ngữ - Tin học TP. HCM (HUFLIT)</about>
+      <skill>Kĩ năng làm việc nhóm&#13;
+Kĩ năng giao tiếp tiếng Anh khá tốt&#13;
+Kĩ năng sử dụng Word, Excel </skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <savedjob>
+    <total>14</total>
+    <strjo>427,262,168,156,187,184,304,279,423,291,292,301,435,273</strjo>
+  </savedjob>
+</information>

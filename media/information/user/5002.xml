@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5002</id>
+      <email>phamtuyen181096@gmail.com</email>
+      <username/>
+      <name>Phạm Kim Tuyền</name>
+      <im>1475642561_pham-kim-tuyen.png</im>
+      <gender>2</gender>
+      <phone>0978285560</phone>
+      <address>123/17 Nguyễn xí, phường 13</address>
+      <city>30</city>
+      <dob>1996-10-18</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475642561</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>18</day>
+      <month>10</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8128542</lat>
+      <lng>106.7099055</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,17,27,28,29,31,35</category>
+      <type>4,5,6</type>
+      <level>1,2</level>
+      <lang>vi,en,ch</lang>
+      <skill/>
+      <ui>5002</ui>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>Sinh viên năm 3 trường Đại học Tôn Đức Thắng</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>267,332</strjo>
+  </appliedjob>
+  <education>
+    <n_834>
+      <id>834</id>
+      <school>đại học tôn đức thắng</school>
+      <degrees>đại học</degrees>
+      <fieldofstudy>quản trị kinh doanh</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_834>
+  </education>
+</information>

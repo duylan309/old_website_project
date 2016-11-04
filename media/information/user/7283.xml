@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7283</id>
+      <email>Nguyenthingoctram272@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Ngọc Trâm</name>
+      <im>1477141529_nguyen-thi-ngoc-tram.png</im>
+      <gender>0</gender>
+      <phone>01667598272</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477141528</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>20</category>
+      <type>5</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill>Là sinh viên nên em đang muốn trau dồi kỹ năng của mình nên em chưa có kỹ năng nào liên quan ạ!</skill>
+      <ui>7283</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>301</strjo>
+  </appliedjob>
+</information>

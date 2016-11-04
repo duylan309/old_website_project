@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>984</id>
+      <email>Anle.130193@gmail.com</email>
+      <username/>
+      <name>Lê xuân an</name>
+      <im/>
+      <gender>1</gender>
+      <phone>01220978786</phone>
+      <address>97 pham van dông go vap</address>
+      <city></city>
+      <dob>1993-1-13</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471531724</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>13</day>
+      <month>1</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Bep truong dieu hanh</title>
+      <experience>3</experience>
+      <category>15</category>
+      <type>6</type>
+      <level>4</level>
+      <lang>vi</lang>
+      <skill>Co the diêu hanh nhom bep tinh cos . Lam viec tinh than trach nhiêm ca va nhiet tinh vui ve</skill>
+      <ui>984</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>143</strjo>
+  </appliedjob>
+</information>

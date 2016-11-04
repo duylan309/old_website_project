@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7502</id>
+      <email>bynham98@gmail.com</email>
+      <username/>
+      <name>Lê Dung Tường Lam</name>
+      <im>7502_image-0-02-06-b5a014e164ea6dff619f9f9244d87a9ab20d858c82b6ad826ded9fdaa6bf6df3-v.jpg</im>
+      <gender>2</gender>
+      <phone>0972994987</phone>
+      <address>89-91 Nguyễn Du P.Bến Nghé q.1</address>
+      <city>30</city>
+      <dob>1998-1-12</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477288859</created>
+      <dayleft>0</dayleft>
+      <jobleft>0</jobleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1477288859</last_signin>
+      <day>12</day>
+      <month>1</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.777175</lat>
+      <lng>106.69864</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>7502</ui>
+      <title>Server</title>
+      <experience>1</experience>
+      <category>14,15,29,35</category>
+      <type>2,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Hoà đồng, vui vẻ, nhiệt tình, chịu khó học hỏi. </about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>499,483</strjo>
+  </appliedjob>
+</information>

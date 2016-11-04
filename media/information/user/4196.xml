@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4196</id>
+      <email>Nguyenthitruclam0311@gmail.com.vn</email>
+      <username/>
+      <name>Nguyễn thị trúc lâm</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01655255917</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475028155</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Barista</title>
+      <experience>2</experience>
+      <category>15</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Biết làm cafe máy art</skill>
+      <ui>4196</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>126,93,172</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3400</id>
+      <email>sinfashionista@gmail.com</email>
+      <username/>
+      <name>Sin</name>
+      <im>3400_fb-img-1460563582699.jpg</im>
+      <gender>1</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474600813</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+      <last_signin>1474600813</last_signin>
+    </db>
+  </userinfo>
+  <education>
+    <n_553>
+      <id>553</id>
+      <school>Trường trung cấp Đại Việt</school>
+      <degrees>Trung cấp - loại giỏi</degrees>
+      <fieldofstudy>Nhà hàng khách sạn</fieldofstudy>
+      <from>2013</from>
+      <to>2015</to>
+    </n_553>
+  </education>
+</information>

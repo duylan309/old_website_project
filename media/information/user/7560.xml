@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7560</id>
+      <email>maichithohn@gmail.com</email>
+      <username/>
+      <name>MAI CHÍ THỌ</name>
+      <im>1477310940_mai-chi-tho.png</im>
+      <gender>0</gender>
+      <phone>01284999961</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477310940</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>bếp chính, quản lí bếp</title>
+      <experience>5</experience>
+      <category>14,15,16,19,20</category>
+      <type>1</type>
+      <level>4,5</level>
+      <lang>vi,en</lang>
+      <skill>đã có 7 năm kinh nghiệm quản lý nhà hàng, quán cafe, quản lí bếp, bếp chính....!</skill>
+      <ui>7560</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>137,451</strjo>
+  </appliedjob>
+</information>

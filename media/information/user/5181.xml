@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5181</id>
+      <email>phantranvu2410@gmail.com</email>
+      <username/>
+      <name>Phan Trần Vũ</name>
+      <im/>
+      <gender>1</gender>
+      <phone>01267167366</phone>
+      <address>69/1 đường số 7 khu 2 tổ 20 thạnh mỹ lợi quận 2</address>
+      <city>30</city>
+      <dob>1984-10-24</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475768613</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>24</day>
+      <month>10</month>
+      <year>1984</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.758809</lat>
+      <lng>106.78785</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phụ bếp</title>
+      <experience>7</experience>
+      <category>14</category>
+      <type>1,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill></skill>
+      <ui>5181</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Có khả năng thích nghi cao, chịu khó học hỏi, cần cù và luôn có trách nghiệm trong công việc.</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>352</strjo>
+  </appliedjob>
+</information>

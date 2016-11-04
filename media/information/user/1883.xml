@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1883</id>
+      <email>Nguyen741988@gmail.com</email>
+      <username/>
+      <name>Nguyenlong</name>
+      <im>1883_image.jpeg</im>
+      <gender>0</gender>
+      <phone/>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473046146</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1473046146</last_signin>
+    </db>
+  </userinfo>
+  <experience>
+    <n_419>
+      <id>419</id>
+      <title>Nhân viên</title>
+      <level>1</level>
+      <cmpname>Don’s chef’s Bistro</cmpname>
+      <city>Hà nội</city>
+      <country>Việt nam</country>
+      <from>2012</from>
+      <to>2015</to>
+    </n_419>
+  </experience>
+</information>

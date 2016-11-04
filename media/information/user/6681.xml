@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6681</id>
+      <email>cloudysadly@gmail.com</email>
+      <username/>
+      <name>Nguyễn Huỳnh Như An</name>
+      <im>6681_image.jpeg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476778059</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+      <last_signin>1476778059</last_signin>
+    </db>
+  </userinfo>
+  <education>
+    <n_1101>
+      <id>1101</id>
+      <school>Đại học VĂN LANG</school>
+      <degrees></degrees>
+      <fieldofstudy></fieldofstudy>
+      <from>Mỹ thuật công nghiệp</from>
+      <to>Nay</to>
+    </n_1101>
+  </education>
+</information>

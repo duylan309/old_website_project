@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5078</id>
+      <email>trangntt@revmax.vn</email>
+      <username/>
+      <name>Công ty TNHH Tư vấn và Dịch vụ RevMax</name>
+      <im/>
+      <gender>0</gender>
+      <phone>(08) 3514 0585</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1475719455</created>
+      <dayleft>1478311455</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1475719455</last_signin>
+      <jobleft>4</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>1</total>
+    <strji>401</strji>
+  </totalJob>
+</information>

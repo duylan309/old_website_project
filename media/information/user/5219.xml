@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5219</id>
+      <email>kienphan.nt@gmail.com</email>
+      <username/>
+      <name>Phan Nguyễn TRung Kiên ( Nữ)</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01688401967</phone>
+      <address>1/1 Cù Chính Lan, phường 13, quận Tân Bình</address>
+      <city>30</city>
+      <dob>1993-8-20</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475816493</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>20</day>
+      <month>8</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8052726</lat>
+      <lng>106.6456359</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>35</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Kỹ năng máy tính văn phòng&#13;
+Thân thiện và  khả năng làm việc nhóm &#13;
+Đáp ứng được áp lực công việc&#13;
+Giao tiếp khách hàng tốt.</skill>
+      <ui>5219</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Ngoại hình:  cao 1m69 và nặng 55kg&#13;
+Từng có kinh nghiệm làm trong mảng Nhà hàng - Coffee ở các vị trí (  Service- Cash - Bar - Superviser), muốn phát triển bản thân trong một môi trường mới, để có kinh nghiệm giao tiếp và kinh doanh.&#13;
+Hiện đang học liên thông tại trường Đại học Kinh tế vào tối thứ 2 tới thứ 7, thời gian 17h45 tới 21h30.&#13;
+Mục tiêu: Trở thành người sáng lập và Giám đốc điều hành của một doanh nghiệp mà sẽ có nhiều chi nhánh ở Việt Nam.&#13;
+</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>156</strjo>
+  </appliedjob>
+  <experience>
+    <n_1063>
+      <id>1063</id>
+      <title>Supervisor tại cửa hàng The Kafe</title>
+      <level>1</level>
+      <cmpname>Công ty TNHH Ẩm Thực The Kafe</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>10/09/2015</from>
+      <to>05/05/2016</to>
+    </n_1063>
+    <n_1064>
+      <id>1064</id>
+      <title>Service - Bar</title>
+      <level>1</level>
+      <cmpname>Công ty Cổ phần Cafe RuNam</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>20/08/2014</from>
+      <to>30/05/2015</to>
+    </n_1064>
+  </experience>
+  <education>
+    <n_858>
+      <id>858</id>
+      <school>Đại học Kinh Tế - TP.Hồ Chí Minh</school>
+      <degrees>Liên thông Đại học</degrees>
+      <fieldofstudy>Quản trị Nguồn Nhân lực</fieldofstudy>
+      <from>10/10/2016</from>
+      <to>2018</to>
+    </n_858>
+  </education>
+</information>

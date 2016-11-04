@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>241</id>
+      <email>ngocgiao1996@gmail.com</email>
+      <username/>
+      <name>Ngọc Giao</name>
+      <im>491016777754190_ngoc-giao.jpg</im>
+      <gender>2</gender>
+      <category/>
+      <phone>01227984897</phone>
+      <address>339/37 Lê Văn Sỹ P.13, Q.3</address>
+      <city>30</city>
+      <dob>1996-1-31</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1467553957</created>
+      <dayleft>0</dayleft>
+      <signupby>FB</signupby>
+      <day>31</day>
+      <month>1</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.786542</lat>
+      <lng>106.677329</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_7>
+      <id>7</id>
+      <title>runner</title>
+      <level>1</level>
+      <cmpname>THE KAFE LÝ TỰ TRỌNG</cmpname>
+      <city/>
+      <country/>
+      <from>2016</from>
+      <to>2016</to>
+    </n_7>
+  </experience>
+  <education>
+    <n_10>
+      <id>10</id>
+      <school>Đại học Hoa Sen</school>
+      <degrees/>
+      <fieldofstudy>Quản trị nhà hàng và dịch vụ ăn uống</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_10>
+  </education>
+  <user_cv>
+    <db>
+      <ui>241</ui>
+      <title>Bartender</title>
+      <category>15</category>
+      <location>30</location>
+      <type>1</type>
+      <level>3</level>
+      <experience>1</experience>
+      <lang>vi,en</lang>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <skill/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>69,63</strjo>
+  </appliedjob>
+</information>

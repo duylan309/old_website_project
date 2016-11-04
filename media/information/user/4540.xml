@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4540</id>
+      <email>khanhphat.tran@gmail.com</email>
+      <username/>
+      <name>Trần Khánh Phát</name>
+      <im>1475288290_tran-khanh-phat.png</im>
+      <gender>0</gender>
+      <phone>01659534583</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475288290</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Shipper</title>
+      <experience>1</experience>
+      <category>14,15,16,17,19,27,35</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Có kinh nghiệm chụp ảnh , thiết kế , đã từng làm cho nhiều studio ảnh cưới chuyên nghiệp . </skill>
+      <ui>4540</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>344</strjo>
+  </appliedjob>
+</information>

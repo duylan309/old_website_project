@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7468</id>
+      <email>huenguyenn160998@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Huệ</name>
+      <im>7468_received-355474881458678.jpeg</im>
+      <gender>2</gender>
+      <phone>01655326509</phone>
+      <address>754/23/70 tân kì tân quý phường bình hưng hòa quận bình tân</address>
+      <city>30</city>
+      <dob>1998-9-16</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477279106</created>
+      <dayleft>0</dayleft>
+      <jobleft>0</jobleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1477279106</last_signin>
+      <day>16</day>
+      <month>9</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.789646</lat>
+      <lng>106.601978</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>7468</ui>
+      <title>nhân viên phục vụ pha chế bán thời gian</title>
+      <experience>7</experience>
+      <category>14,15,19,29</category>
+      <type>2,5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>11</total>
+    <strjo>434,172,202,302,348,371,293,262,460,219,312</strjo>
+  </appliedjob>
+</information>

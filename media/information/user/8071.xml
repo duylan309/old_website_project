@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>8071</id>
+      <email>boylangthangtimgirl96@gmail.com</email>
+      <username/>
+      <name>Công Lý</name>
+      <im>570326516501102_cong-ly.jpg</im>
+      <gender>1</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477655030</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,16,17,19,26,29,31,35</category>
+      <type>2,4,6</type>
+      <level>1</level>
+      <lang>vi,en,ja</lang>
+      <skill/>
+      <ui>8071</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>462</strjo>
+  </appliedjob>
+</information>

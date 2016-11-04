@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3980</id>
+      <email>nguyenthikimly999@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Kim Ly</name>
+      <im>1474935680_nguyen-thi-kim-ly.png</im>
+      <gender>0</gender>
+      <phone>01653931208</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474935680</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ, nhân viên bán hàng</title>
+      <experience>7</experience>
+      <category>14,17,29,31,35</category>
+      <type>2,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>3980</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>184</strjo>
+  </appliedjob>
+</information>

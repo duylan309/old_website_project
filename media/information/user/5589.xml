@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5589</id>
+      <email>lesang1809@yahoo.com</email>
+      <username/>
+      <name>Tuấn Sang</name>
+      <im>1101333519962562_tuan-sang.jpg</im>
+      <gender>1</gender>
+      <dob>1996-9-18</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476103773</created>
+      <day>18</day>
+      <month>9</month>
+      <year>1996</year>
+      <phone>0946031745</phone>
+      <address>178/2A Trần Hưng đạo P.Nguyễn Cư Trinh Q.1</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7525016</lat>
+      <lng>106.6669284</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>5589</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15</category>
+      <type>2,4,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>+Thông Tin&#13;
+Lê Tuấn Sang &#13;
+Tuổi : 20 &#13;
+Tạm Trú : 178/2A Trần Hưng đạo ,Phường Nguyễn Cư Trinh, Quận 1 , Hồ Chí Minh&#13;
+Số điện thoại : 0946031745&#13;
++Học Vấn &#13;
+Tốt Nghiệp THPT &#13;
+đại học Sài Gòn . Khoa Quản Trị Kinh Doanh Chuyên Nghành Quản Trị Kinh Doanh 2014-2018&#13;
++Kế hoạch tương lai&#13;
+Ngắn hạn : Tìm được việc tốt . có thêm kinh nghiệm về giao tiếp tiếng anh&#13;
+Dài hạn : Có công việc ổn định ......</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>453</strjo>
+  </appliedjob>
+</information>

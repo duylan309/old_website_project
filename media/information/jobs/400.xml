@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>400</id>
+    <ui>5021</ui>
+    <ci>380</ci>
+    <ai>0</ai>
+    <ti>Nhân viên Pha chế Bookcoffee</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>3000000</s1>
+    <s2>5000000</s2>
+    <s3>136</s3>
+    <s4>227</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>278</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-04</de>
+    <re>0000-00-00</re>
+    <cr>1475660512</cr>
+  </db>
+  <more>
+    <requirement>-	Kỹ năng giao tiếp tốt.&#13;
+-	Nhanh nhẹn, hoạt bát.&#13;
+-	Trung thực , thật thà&#13;
+-	Làm việc theo ca (Ca1: Từ 7h30 đến 15h, Ca 2: Từ 15h đến 22h)&#13;
+-	Ưu tiên: Có kiên thức, kinh nghiệm pha chế tại các quán café.&#13;
+</requirement>
+    <description>-	Phục vụ pha chế đồ uống theo yêu cầu.&#13;
+-	Trang trí và phục vụ đồ uống đảm bảo mĩ quan và vệ sinh an toàn thực phẩm.&#13;
+-	Theo dõi, kiểm tra và thanh toán cho khách hàng.&#13;
+-	Thực hiện các công việc khác theo yêu cầu của cấp trên.&#13;
+</description>
+    <benefit>-	Quyền lợi chung:&#13;
++ Cơ hội:&#13;
+•	Được làm việc trong môi trường than thiện, năng động, chuyên nghiệp, cởi mở và sáng tạo.&#13;
+•	Thu nhập tương xứng với năng lực.&#13;
+•	Có cơ hội thăng tiến.&#13;
+•	Được hưởng đầy đủ chế độ phúc lợi của người lao động.&#13;
+                + Quyền lợi:&#13;
+•	Lương căn bản theo năng lực.&#13;
+•	Có phụ cấp trách nhiệm.&#13;
+•	Hưởng chế dộ BHXH, BHYT, BHTN đầy đủ theo quy định.&#13;
+•	Có chế độ thưởng doanh thu cho nhân viên.&#13;
+</benefit>
+    <keyword>Pha Chế,Nhiệt tình,Tinh thần trách nhiệm,Giao tiếp hiệu quả</keyword>
+  </more>
+  <userapplied>
+    <total>16</total>
+    <strui>5361,1175,940,4099,3798,6018,5925,6501,6544,6691,6735,6846,4833,7596,6665,8094</strui>
+  </userapplied>
+</information>

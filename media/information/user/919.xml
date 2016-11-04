@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>919</id>
+      <email>nguyenchauu167@gmail.com</email>
+      <username/>
+      <name>NGUYỄN NGỌC BẢO CHÂU</name>
+      <im>919_10354244-770182556371405-5545915302571542438-n.jpg</im>
+      <gender>2</gender>
+      <phone>0906860793</phone>
+      <address>517 Phạm Thế Hiển phường 4 quận 8</address>
+      <city/>
+      <dob>1993-7-16</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471429464</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>16</day>
+      <month>7</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Thu Ngân</title>
+      <experience>7</experience>
+      <category>15,17,35,36</category>
+      <type>1,4</type>
+      <level>2</level>
+      <lang>kr</lang>
+      <skill/>
+      <ui>919</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>107,147,221</strjo>
+  </appliedjob>
+  <experience>
+    <n_213>
+      <id>213</id>
+      <title>Thu ngân</title>
+      <level>1</level>
+      <cmpname>MONICA</cmpname>
+      <city>HỒ CHÍ MINH</city>
+      <country>VIỆT NAM</country>
+      <from>9/2015</from>
+      <to>10/2015</to>
+    </n_213>
+    <n_214>
+      <id>214</id>
+      <title>HỖ TRỢ TÍN DỤNG</title>
+      <level>1</level>
+      <cmpname>NGÂN HÀNG TIÊN PHONG</cmpname>
+      <city>HỒ CHÍ MINH</city>
+      <country>VIỆT NAM</country>
+      <from>6/2016</from>
+      <to>7/2016</to>
+    </n_214>
+  </experience>
+  <education>
+    <n_149>
+      <id>149</id>
+      <school>ĐẠI HỌC NGUYỄN TẤT THÀNH</school>
+      <degrees>BẰNG TỐT NGHIỆP</degrees>
+      <fieldofstudy>TÀI CHÍNH NGÂN HÀNG</fieldofstudy>
+      <from>11/2011</from>
+      <to>6/2015</to>
+    </n_149>
+  </education>
+  <savedjob>
+    <total>1</total>
+    <strjo>85</strjo>
+  </savedjob>
+</information>

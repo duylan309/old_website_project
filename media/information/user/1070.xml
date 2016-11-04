@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1070</id>
+      <email>vyzhang.focope@gmail.com</email>
+      <username/>
+      <name>Trương Nguyễn Ngân Vy</name>
+      <im>1070_ma-sin-1527.JPG</im>
+      <gender>2</gender>
+      <dob>1991-12-26</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471674590</created>
+      <day>26</day>
+      <month>12</month>
+      <year>1991</year>
+      <phone>0932603393</phone>
+      <address>281 Lê Văn Sỹ, P.1, Q.Tân Bình</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7944766</lat>
+      <lng>106.6680126</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Marketing</title>
+      <experience>2</experience>
+      <category>15,18,20</category>
+      <type>1,6</type>
+      <level>2,4</level>
+      <lang>vi,en</lang>
+      <skill>Kỹ năng giao tiếp, kỹ năng quản lý thời gian, kỹ năng lãnh đạo, kỹ năng viết bài, kỹ năng thích nghi</skill>
+      <ui>1070</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword>Tinh thần trách nhiệm,Chịu được áp lực công việc,Tập trung trong công việc,Trung thực,Nhiệt tình,Tinh thần làm việc nhóm,Kỹ năng giải quyết tình huống</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>99</strjo>
+  </appliedjob>
+  <education>
+    <n_170>
+      <id>170</id>
+      <school>Đại học Hoa Sen</school>
+      <degrees>Bachelor </degrees>
+      <fieldofstudy>Marketing </fieldofstudy>
+      <from>2009</from>
+      <to>2013</to>
+    </n_170>
+  </education>
+  <experience>
+    <n_256>
+      <id>256</id>
+      <title>Marketing Executive</title>
+      <level>1</level>
+      <cmpname>Manulife</cmpname>
+      <city>HCMC</city>
+      <country>VN</country>
+      <from>2014</from>
+      <to>2016</to>
+    </n_256>
+    <n_257>
+      <id>257</id>
+      <title>Social Media Executive</title>
+      <level>1</level>
+      <cmpname>Sofresh</cmpname>
+      <city>HCMC</city>
+      <country>VN</country>
+      <from>2014</from>
+      <to>2014</to>
+    </n_257>
+    <n_258>
+      <id>258</id>
+      <title>Assistant to Marketing Manager</title>
+      <level>1</level>
+      <cmpname>ACFC</cmpname>
+      <city>HCMC</city>
+      <country>VN</country>
+      <from>2013</from>
+      <to>2014</to>
+    </n_258>
+  </experience>
+</information>

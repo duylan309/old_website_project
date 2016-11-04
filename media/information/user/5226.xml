@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5226</id>
+      <email>homauloc@gmail.com</email>
+      <username/>
+      <name>Hồ Nguyễn Tấn Lộc</name>
+      <im>5226_img-0294.JPG</im>
+      <gender>1</gender>
+      <dob>1996-12-30</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475821062</created>
+      <day>30</day>
+      <month>12</month>
+      <year>1996</year>
+      <last_signin>1475821062</last_signin>
+      <phone>01636373650</phone>
+      <address>248/40 nguyễn thái bình, quận tân bình, thành phố hồ chí minh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.797572</lat>
+      <lng>106.65035</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1065>
+      <id>1065</id>
+      <title>tiếp thực</title>
+      <level>1</level>
+      <cmpname>Nhà hàng dòng thời gian</cmpname>
+      <city>hồ chí minh</city>
+      <country>việt nam</country>
+      <from>3/2016</from>
+      <to>8/2016</to>
+    </n_1065>
+  </experience>
+  <education>
+    <n_861>
+      <id>861</id>
+      <school>Đh GTVT TP HCM</school>
+      <degrees>chưa </degrees>
+      <fieldofstudy>công nghệ thông tin</fieldofstudy>
+      <from>2014</from>
+      <to>2019</to>
+    </n_861>
+  </education>
+  <user_cv>
+    <db>
+      <ui>5226</ui>
+      <title>nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,16,19,26,35</category>
+      <type>1,2</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Rất dễ hoà đồng, tích cực, ham học hỏi.</about>
+      <skill>làm việc nhóm và một số kỷ năng chuyên ngành riêng</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>12</total>
+    <strjo>402,273,211,113,340,130,161,247,412,419,105,497</strjo>
+  </appliedjob>
+</information>

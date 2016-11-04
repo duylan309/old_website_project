@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6926</id>
+      <email>Hoangkim121511@yahoo.com</email>
+      <username/>
+      <name>Hoàng Mỹ Kim</name>
+      <im>1476951855_hoang-my-kim.png</im>
+      <gender>0</gender>
+      <phone>01685160798</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476951855</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân việc phục vụ</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>6926</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>287</strjo>
+  </appliedjob>
+</information>

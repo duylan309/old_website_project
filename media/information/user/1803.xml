@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1803</id>
+      <email>mtbu13@gmail.com</email>
+      <username/>
+      <name>Bubu Trang</name>
+      <im>1803_anh-3x4.jpg</im>
+      <gender>2</gender>
+      <dob>1996-11-22</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472959751</created>
+      <day>22</day>
+      <month>11</month>
+      <year>1996</year>
+      <last_signin>1472959751</last_signin>
+      <phone>01277</phone>
+      <address>575/28 CMT8 P.15, Q.10</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7740307</lat>
+      <lng>106.6890475</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>1803</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>15,17,29,35</category>
+      <type>2,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>162,84,211,124,205</strjo>
+  </appliedjob>
+</information>

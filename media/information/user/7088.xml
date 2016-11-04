@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7088</id>
+      <email>nhungnguyen21640@gmail.com</email>
+      <username/>
+      <name>Nhúng Junee</name>
+      <im>1199748410099764_nhung-junee.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477058464</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>NHÂN VIÊN PHỤC VỤ , PHA CHẾ</title>
+      <experience>2</experience>
+      <category>15,16,17,19,35</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>7088</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>455,498</strjo>
+  </appliedjob>
+</information>

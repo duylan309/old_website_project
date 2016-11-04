@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>247</id>
+    <ui>1732</ui>
+    <ci>313</ci>
+    <ai>0</ai>
+    <ti>Nhân viên phục vụ</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1,2</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>3750000</s1>
+    <s2>4500000</s2>
+    <s3>170</s3>
+    <s4>204</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description>- Chuẩn bị khu vực làm việc trước giờ phục vụ\r\n- Thực hiện hướng dẫn khách đến với Foodcourt\r\n- Phục vụ khách \r\n- Vệ sinh, giữ gìn sạch sẽ khu vực làm việc được phân công</description>
+    <requirement>- Trung thực, chăm chỉ, siêng năng, chịu khó\r\n- Không cần kinh nghiệm\r\n- Có định hướng lâu dài với ngành dịch vụ F&amp;B\r\n</requirement>
+    <benefit>- Một tuần off một ngày.\r\n- Lương cạnh tranh\r\n- 12 ngày nghỉ phép một năm, chế độ BHYT, BHXH, BHTN theo quy định của Nhà nước\r\n- Chế độ làm việc ngày lễ tết theo quy định của Nhà nước\r\n- Lương tháng 13, thưởng theo chế độ công ty vào các dịp lễ tết\r\n- Xem xét tăng lương 6 tháng hoặc 12 tháng.</benefit>
+    <keyword>Tinh thần trách nhiệm,Trung thực,Kỹ năng chăm sóc khách hàng,Nhiệt tình,Giao tiếp hiệu quả,quận 1</keyword>
+    <ad/>
+    <location_id>148</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-01</de>
+    <re>0000-00-00</re>
+    <cr>1473220838</cr>
+  </db>
+  <more>
+    <requirement>- Trung thực, chăm chỉ, siêng năng, chịu khó&#13;
+- Không cần kinh nghiệm&#13;
+- Có định hướng lâu dài với ngành dịch vụ F&amp;B&#13;
+</requirement>
+    <description>- Chuẩn bị khu vực làm việc trước giờ phục vụ&#13;
+- Thực hiện hướng dẫn khách đến với Foodcourt&#13;
+- Phục vụ khách &#13;
+- Vệ sinh, giữ gìn sạch sẽ khu vực làm việc được phân công</description>
+    <benefit>- Một tuần off một ngày.&#13;
+- Lương cạnh tranh&#13;
+- 12 ngày nghỉ phép một năm, chế độ BHYT, BHXH, BHTN theo quy định của Nhà nước&#13;
+- Chế độ làm việc ngày lễ tết theo quy định của Nhà nước&#13;
+- Lương tháng 13, thưởng theo chế độ công ty vào các dịp lễ tết&#13;
+- Xem xét tăng lương 6 tháng hoặc 12 tháng.</benefit>
+    <keyword>Tinh thần trách nhiệm,Trung thực,Kỹ năng chăm sóc khách hàng,Nhiệt tình,Giao tiếp hiệu quả,quận 1</keyword>
+  </more>
+  <userapplied>
+    <total>110</total>
+    <strui>1773,1698,2047,940,1584,2148,2179,2199,1540,1667,1383,2264,1480,2382,2407,2439,2432,2464,2481,2525,292,2569,2507,2691,496,1751,2625,2733,2508,2755,2789,2793,2967,2995,2476,3090,3172,3314,3356,3432,1706,3442,3471,550,3494,3507,3645,2963,3771,1315,3834,3869,3924,3775,4207,4135,4408,2337,4476,4541,4593,4724,3315,4879,4874,4150,5005,4613,5074,5150,4639,5344,5356,4833,5361,4679,5567,5724,5858,3022,5778,6167,6319,3652,6362,6416,2510,5932,6584,6638,1023,6778,5226,6837,5500,6966,6377,5107,3668,7098,7156,7334,7555,7649,7342,7795,7868,7917,7805,6273</strui>
+  </userapplied>
+</information>

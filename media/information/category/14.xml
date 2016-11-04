@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>14</id>
+    <uid>125</uid>
+    <im/>
+    <ti>Restaurants</ti>
+    <ti1/>
+    <url>restaurants</url>
+    <link></link>
+    <opp>3</opp>
+    <pa>0</pa>
+    <ism>0</ism>
+    <ct></ct>
+    <so>0</so>
+    <nv>0</nv>
+    <st>2</st>
+    <ti_vi>Nhà Hàng</ti_vi>
+    <ti_en>Restaurant</ti_en>
+  </db>
+  <jobSuggest>
+    <n_2>
+      <id>2</id>
+      <db>
+        <id>2</id>
+        <ti>RESTAURANTS 1 s</ti>
+        <ty>1</ty>
+        <le>1</le>
+        <ex>2</ex>
+        <ca>14</ca>
+        <lo>30</lo>
+        <s1>4.000.000</s1>
+        <s2>5.500.000</s2>
+        <sa>1</sa>
+      </db>
+      <more>
+        <number>20</number>
+        <description>Job description</description>
+        <requirement>Job requirements</requirement>
+      </more>
+    </n_2>
+  </jobSuggest>
+  <detail/>
+</information>

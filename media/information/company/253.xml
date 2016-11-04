@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>253</id>
+    <ui>712</ui>
+    <name>1st Garden Cafe</name>
+    <url>1st.gardenvn</url>
+    <im>_1st-garden-cafe.jpg</im>
+    <im_banner>_1st-garden-cafe-cover.png</im_banner>
+    <category>15</category>
+    <phone>0908444003</phone>
+    <address>3rd Floor - No.26 Ly Tu Trong Street, Ben Nghe Ward, District 1, HCMC</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat/>
+    <lng/>
+    <website/>
+    <about/>
+    <facebook>https://www.facebook.com/1st.gardenvn/</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1470915103</created>
+  </db>
+  <more>
+    <about/>
+    <whyworkus/>
+  </more>
+  <companybanner>_1st-garden-cafe-cover.png</companybanner>
+  <totalJob>
+    <total>1</total>
+    <strji>150</strji>
+  </totalJob>
+</information>

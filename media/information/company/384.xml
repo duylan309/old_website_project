@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>384</id>
+    <ui>5343</ui>
+    <name>Camellia Salon Spa Boutique</name>
+    <url>camelliasalonspa</url>
+    <im>1510508835922584_camellia-salon-spa-boutique.jpg</im>
+    <im_banner>1510508835922584_camellia-salon-spa-boutique-cover.jpg</im_banner>
+    <category>30</category>
+    <phone>0835149696</phone>
+    <address>92 Nguyen Huu Canh, Saigon Pearl, Villa A03-D5</address>
+    <district>0</district>
+    <district_text_vi></district_text_vi>
+    <district_text_en></district_text_en>
+    <city>30</city>
+    <lat>10.790979</lat>
+    <lng>106.718399</lng>
+    <website></website>
+    <about></about>
+    <facebook>https://www.facebook.com/camelliasalonspa/</facebook>
+    <facebook_cover></facebook_cover>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1475917004</created>
+  </db>
+  <more>
+    <about>Spa, beauty and hair salon for both women and men</about>
+    <whyworkus></whyworkus>
+  </more>
+  <companybanner>1510508835922584_camellia-salon-spa-boutique-cover.jpg</companybanner>
+</information>

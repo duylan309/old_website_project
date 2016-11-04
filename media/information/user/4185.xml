@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4185</id>
+      <email>Light_dark961996@yahoo.com</email>
+      <username/>
+      <name>Nguyễn dương</name>
+      <im>1475008227_nguyen-duong.png</im>
+      <gender>0</gender>
+      <phone>0909805577</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475008227</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phụ bếp</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>4,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Đã được học chuyên bếp á 2 năm và biết làm 1 số món âu</skill>
+      <ui>4185</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>276</strjo>
+  </appliedjob>
+  <education>
+    <n_673>
+      <id>673</id>
+      <school>Saigontourist</school>
+      <degrees>Trung cấp</degrees>
+      <fieldofstudy>Bếp chuyên á </fieldofstudy>
+      <from>2014</from>
+      <to>2016</to>
+    </n_673>
+  </education>
+</information>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6331</id>
+      <email>k.ngan012@gmal.com</email>
+      <username/>
+      <name>Vũ Kim Ngân</name>
+      <im/>
+      <gender>0</gender>
+      <phone/>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476508563</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476508563</last_signin>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1279>
+      <id>1279</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Trà đào Momo</cmpname>
+      <city>TPHCM</city>
+      <country>Việt Nam</country>
+      <from>5/7/2016</from>
+      <to>5/8/2016</to>
+    </n_1279>
+  </experience>
+  <education>
+    <n_1049>
+      <id>1049</id>
+      <school>Đại học Khoa học Xã hội và Nhân văn TPHCM - ĐHQG TPHCM</school>
+      <degrees/>
+      <fieldofstudy>Lưu trữ học - Quản trị văn phòng</fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_1049>
+  </education>
+</information>

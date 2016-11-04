@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>33</id>
+      <email>khoa@gmail.com</email>
+      <username/>
+      <name>Lê Khoa</name>
+      <im>33_khoa.jpg</im>
+      <gender>1</gender>
+      <dob>1985-03-15</dob>
+      <is_newletter>0</is_newletter>
+      <type>2</type>
+      <status>1</status>
+      <created>1458056638</created>
+      <phone>01234654635</phone>
+      <address>54 Phan Đình Nhiệm, Quận 6</address>
+      <city>1</city>
+      <facebook>https://www.facebook.com/le.khoa.750</facebook>
+      <skype></skype>
+      <country>mm</country>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text>Yangon</city_text>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>33</ui>
+      <category>18</category>
+      <title>Nhân viên</title>
+      <type>1</type>
+      <level>2</level>
+      <experience>3</experience>
+      <location>30</location>
+      <s1>5000000</s1>
+      <salary>2</salary>
+      <skill>-	Tốt nghiệp Cao đẳng trở lên trong lĩnh vực nhà hàng khách sạn&#13;
+-	Kinh nghiệm liên quan tới vị trí: Tối thiểu 03 kinh nghiệm tại vị trí tương đương&#13;
+-	Năng động, sáng tạo, nhiệt tình, tự tin, quyết đoán, có trách nhiệm với công việc&#13;
+-	Kỹ năng thuyết trình, làm việc theo nhóm, làm việc độc lập, lãnh đạo, chịu được áp lực công việc;&#13;
+-	Kỹ năng giao tiếp tốt &#13;
+-	Sử dụng máy tính và tin học văn phòng&#13;
+-	Giao tiếp Tiếng Anh tốt</skill>
+      <s2>110000000000</s2>
+    </db>
+  </user_cv>
+</information>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>530</id>
+    <ui>333</ui>
+    <ci>234</ci>
+    <ai>0</ai>
+    <ti>Nhân viên pha chế &amp; phục vụ</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>2500000</s1>
+    <s2>3500000</s2>
+    <s3>113</s3>
+    <s4>159</s4>
+    <lo></lo>
+    <co>vn,for</co>
+    <ca>14,15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description>- Pha chế (cà phê, nước ép theo công thức, các món uống khác...)\r\n- Phục vụ và lấy order (tiếng Việt, Anh)\r\n- Thực hiện quy trình mở và đóng quán\r\n- Thực hiện quy trình giao ca (nếu là ca giữa)\r\n</description>
+    <requirement>- Nhanh nhẹn và kỹ lưỡng khi pha chế\r\n- Có nấu ăn ở nhà hoặc kinh nghiệm chăm sóc người khác hằng ngày, \r\n- Có mắt quan sát và nhanh nhạy trong khi phục vụ/ coi quán, \r\n- Phong cách nhẹ nhàng,  từ tốn nhưng tác phong dứt khoác,  làm việc mau lẹ, \r\n\r\n\r\n</requirement>
+    <workhour/>
+    <benefit>- Nhận % thưởng theo doanh thu\r\n- Hỗ trợ tiền xăng\r\n</benefit>
+    <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Chịu được áp lực công việc,Tập trung trong công việc</keyword>
+    <ad/>
+    <location_id>386</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-30</de>
+    <re>0000-00-00</re>
+    <cr>1477484054</cr>
+  </db>
+  <more>
+    <requirement>- Nhanh nhẹn và kỹ lưỡng khi pha chế&#13;
+- Có nấu ăn ở nhà hoặc kinh nghiệm chăm sóc người khác hằng ngày, &#13;
+- Có mắt quan sát và nhanh nhạy trong khi phục vụ/ coi quán, &#13;
+- Phong cách nhẹ nhàng,  từ tốn nhưng tác phong dứt khoác,  làm việc mau lẹ, &#13;
+&#13;
+&#13;
+</requirement>
+    <description>- Pha chế (cà phê, nước ép theo công thức, các món uống khác...)&#13;
+- Phục vụ và lấy order (tiếng Việt, Anh)&#13;
+- Thực hiện quy trình mở và đóng quán&#13;
+- Thực hiện quy trình giao ca (nếu là ca giữa)&#13;
+</description>
+    <workhour></workhour>
+    <benefit>- Nhận % thưởng theo doanh thu&#13;
+- Hỗ trợ tiền xăng&#13;
+</benefit>
+    <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Chịu được áp lực công việc,Tập trung trong công việc</keyword>
+  </more>
+</information>

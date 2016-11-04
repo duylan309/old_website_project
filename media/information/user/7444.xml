@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7444</id>
+      <email>minionshoes@gmail.com</email>
+      <username/>
+      <name>Dương Minh</name>
+      <im>1697132430604458_duong-minh.jpg</im>
+      <gender>1</gender>
+      <dob>1993-10-1</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477248158</created>
+      <day>1</day>
+      <month>10</month>
+      <year>1993</year>
+      <last_signin>1477248158</last_signin>
+      <phone>0968819203</phone>
+      <address>23, Đường số 6, Bình Trưng Tây, Quận 2, HCM</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7841967</lat>
+      <lng>106.7598833</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_1210>
+      <id>1210</id>
+      <school>THPT</school>
+      <degrees/>
+      <fieldofstudy/>
+      <from>2008</from>
+      <to>2011</to>
+    </n_1210>
+  </education>
+  <user_cv>
+    <db>
+      <ui>7444</ui>
+      <title>Nhân viên phục vụ,</title>
+      <experience>2</experience>
+      <category>14,15,20,27,29,31,35</category>
+      <type>2,4,5,6</type>
+      <level>1,2</level>
+      <lang>vi,en,ja</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Đức, 23 tuổi.&#13;
+Học Nhật ngữ tại trường CĐ Hàng Hải, Quận 2, TP.HCM.&#13;
+Giao tiếp: Tiếng Anh, Tiếng Nhật (cơ bản).&#13;
+</about>
+      <skill>Có kinh nghiệm về:&#13;
+Lễ tân khách sạn.&#13;
+Nhân viên pha chế.&#13;
+Nhân viên phục vụ.</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>465</strjo>
+  </appliedjob>
+</information>

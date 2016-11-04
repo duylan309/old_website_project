@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4197</id>
+      <email>nnoname08@yahoo.com.vn</email>
+      <username/>
+      <name>Nam Tran</name>
+      <im>1783785158500755_nam-tran.jpg</im>
+      <gender>1</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475029095</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ,người chạy chương trình,writter,dịch thuật</title>
+      <experience>7</experience>
+      <category>14,17,18,20,26,27,28,29,31,35</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Kĩ năng làm việc nhóm&#13;
+IELTS 6.5&#13;
+Kỹ năng giao tiếp&#13;
+Kỹ năng học tập&#13;
+Khả năng tập trung giải quyết từng việc</skill>
+      <ui>4197</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>240</strjo>
+  </appliedjob>
+</information>

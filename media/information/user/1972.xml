@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1972</id>
+      <email>peotipeo@gmail.com</email>
+      <username/>
+      <name>Phúc Đỗ</name>
+      <im>1972_5beddbc9-c847-4813-bf72-405a9469d8b5.jpg</im>
+      <gender>1</gender>
+      <dob>1993-3-4</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473116371</created>
+      <day>4</day>
+      <month>3</month>
+      <year>1993</year>
+      <last_signin>1473116371</last_signin>
+      <phone>0938846680</phone>
+      <address>21/16/3b đường 45 quận thủ đức</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8521345</lat>
+      <lng>106.7541354</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_442>
+      <id>442</id>
+      <title>Waiter</title>
+      <level>1</level>
+      <cmpname>Swiss House Sai Gon</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Vietnam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_442>
+    <n_443>
+      <id>443</id>
+      <title>Waiter</title>
+      <level>1</level>
+      <cmpname>Ciao Cafe</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Vietnam</country>
+      <from>2013</from>
+      <to>2014</to>
+    </n_443>
+    <n_444>
+      <id>444</id>
+      <title>Apprentice Chef</title>
+      <level>1</level>
+      <cmpname>Swiss House Sai Gon</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Vietnam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_444>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>1972</ui>
+      <title>Apprentice chef, waiter</title>
+      <experience>2</experience>
+      <category>14,20</category>
+      <type>1,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <skill>Đam mê nghề bếp đã có kinh nghiệm làm ở bếp âu,  Tính tình thân thiện hòa đồng, chịu học hỏi, chịu được áp lực công việc, không sợ khổ.&#13;
+Salad, Basic kichen skill&#13;
+Kĩ năng phục vụ 5 sao, quản lý nhân sự</skill>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Tinh thần trách nhiệm,Kỹ năng giải quyết tình huống,Chịu được áp lực công việc,Tập trung trong công việc,Trung thực,Tự tin,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>11</total>
+    <strjo>78,79,200,206,137,113,170,182,114,151,219</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>3</total>
+    <strjo>113,79,78</strjo>
+  </savedjob>
+</information>

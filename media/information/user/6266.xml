@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6266</id>
+      <email>nguyennuthaomy@gmail.com</email>
+      <username/>
+      <name>Nguyễn Nữ Thảo My</name>
+      <im>707742832712576_nguyen-nu-thao-my.jpg</im>
+      <gender>2</gender>
+      <dob>1996-6-11</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476456952</created>
+      <day>11</day>
+      <month>6</month>
+      <year>1996</year>
+      <last_signin>1476456952</last_signin>
+      <phone>0935418282</phone>
+      <address>212B/D50 Nguyễn Trãi, p Nguyễn Cư Trinh, q1</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.76542</lat>
+      <lng>106.684697</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6266</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>4,5,6</type>
+      <level>2</level>
+      <lang>en</lang>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>293</strjo>
+  </appliedjob>
+</information>

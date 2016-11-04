@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>246</id>
+      <email>hoathanhngo40@gmail.com</email>
+      <username/>
+      <name>Ngô Thanh Hoà</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0938214958</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1467619410</created>
+      <dayleft>1478000901</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <jobleft>3</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>2</total>
+    <strji>99,100</strji>
+  </totalJob>
+  <saveuser>
+    <total>81</total>
+    <strui>322,314,292,362,361,390,404,401,408,412,416,419,433,435,441,482,508,515,537,550,471,576,582,593,600,606,574,622,656,458,689,727,770,801,680,789,558,846,848,853,857,859,860,870,872,879,737,922,1035,1070,1135,1148,867,828,1187,1209,1240,1120,1179,1290,1316,1328,1341,878,1365,1389,1399,1340,1460,1462,1469,1470,1512,1535,1623,1625,866,355,1842,1849,1885</strui>
+  </saveuser>
+</information>

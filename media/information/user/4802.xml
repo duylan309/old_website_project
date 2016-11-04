@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4802</id>
+      <email>tuenghi2104@gmail.com</email>
+      <username/>
+      <name>Tuệ Nghi</name>
+      <im>310457089309689_tue-nghi.jpg</im>
+      <gender>2</gender>
+      <dob>1999-7-30</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475503925</created>
+      <day>30</day>
+      <month>7</month>
+      <year>1999</year>
+      <phone>0933555867</phone>
+      <address>103K3/18C Hoài Thanh P.14 Quận 8</address>
+      <country>vn</country>
+      <city></city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục vụ</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>2</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill>Nhanh nhẹn, chịu học hỏi, chăm chỉ, Niềm nở với khách hàng</skill>
+      <ui>4802</ui>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>279,124</strjo>
+  </appliedjob>
+  <experience>
+    <n_1005>
+      <id>1005</id>
+      <title>Phục Vụ</title>
+      <level>1</level>
+      <cmpname>Tokyo Deli</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>7</from>
+      <to>10</to>
+    </n_1005>
+  </experience>
+  <education>
+    <n_804>
+      <id>804</id>
+      <school>Trung Cấp Nam Sài Gòn</school>
+      <degrees>Đang học</degrees>
+      <fieldofstudy>Nhà Hàng - Khách Sạn</fieldofstudy>
+      <from>2016</from>
+      <to>2016</to>
+    </n_804>
+  </education>
+  <savedjob>
+    <total>1</total>
+    <strjo>279</strjo>
+  </savedjob>
+</information>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>923</id>
+      <email>s4d_kid@yahoo.com</email>
+      <username/>
+      <name>Phạm Thanh Liêm</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0943333081</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471436832</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>pha chế</title>
+      <experience>3</experience>
+      <category>14,16</category>
+      <type>4</type>
+      <level>2,4</level>
+      <lang>en</lang>
+      <skill>Tôi tin rằng với trình độ, kiến thức và kỹ năng , tôi hoàn toàn phù hợp với yêu cầu công việc và văn hoá của quý công ty.&#13;
+Đã có 3 năm kinh nghiệm về lĩnh vực pha chế tại chuỗi cà phê thuộc tập đoàn Ciao Group (cafe Terrace, Ciao, Paris Deli, Fly cupcake,...)&#13;
+Đã tham một số khoá học chuyên nghành  do công ty tổ chức.&#13;
+&#13;
+Khả năng làm việc nhóm và theo tập thể tốt, tiếp nhận và hoàn thành được nhiệm vụ do cấp trên giao.</skill>
+      <ui>923</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>126,106,119,111</strjo>
+  </appliedjob>
+</information>

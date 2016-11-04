@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3567</id>
+      <email>tien.nguyenns1608@gmail.com</email>
+      <username/>
+      <name>Nguyễn Ngọc Suối Tiên (Sutj)</name>
+      <im>1474695920_nguyen-ngoc-suoi-tien-sutj-.png</im>
+      <gender>2</gender>
+      <phone>0902036394</phone>
+      <address>106 Lương Ngọc Quyến, phường 5 quận Gò Vấp</address>
+      <city>30</city>
+      <dob>1994-8-14</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474695920</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>14</day>
+      <month>8</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8212244</lat>
+      <lng>106.6894504</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên bán hàng, lễ tân</title>
+      <experience>1</experience>
+      <category>17,18,20,29,35</category>
+      <type>1,4</type>
+      <level>2</level>
+      <lang>en</lang>
+      <skill>-Nghiệp vụ thư ký văn phòng&#13;
+-Kỷ năng mềm&#13;
+-Kỷ năng bán hàng &#13;
+-Học hỏi nhanh, chăm chỉ và linh hoạt</skill>
+      <ui>3567</ui>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <about>•	Thân thiện, sáng tạo và hài hước, yêu thích tham gia các hoạt đông xã hội và cộng đồng. &#13;
+•	Dù học về thương mại nhưng yêu thời trang kinh khủng khiếp, mê đồ ngọt dữ dội&#13;
+•	Sống theo chủ nghĩa duy mỹ-yêu cái đẹp, có tính thẩm mỹ tốt.&#13;
+•	Năng động, nhiệt tình, có tinh thần trách nhiệm và khả năng làm việc theo nhóm&#13;
+•	Ưu điểm: Tiếp thu nhanh, ham học hỏi, chăm chỉ, năng động, khả năng tiếp thu và tập trung cao.&#13;
+•	Khuyết điểm: thiếu kiên nhẫn, nóng tính, không linh hoạt trong giải quyết các tình huống.&#13;
+</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>253,322,124,156</strjo>
+  </appliedjob>
+  <experience>
+    <n_790>
+      <id>790</id>
+      <title>nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>The Open Space</cmpname>
+      <city>hồ chí minh </city>
+      <country>việt nam</country>
+      <from>06/2016</from>
+      <to>09/2016</to>
+    </n_790>
+    <n_791>
+      <id>791</id>
+      <title>nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>shop Sò Vintage</cmpname>
+      <city>hồ chí minh </city>
+      <country>việt nam</country>
+      <from>Tháng 03/2015</from>
+      <to>Tháng 12/2015</to>
+    </n_791>
+    <n_792>
+      <id>792</id>
+      <title>nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Milky Rooftop Bar and Coffee</cmpname>
+      <city>hồ chí minh </city>
+      <country>việt nam</country>
+      <from>Tháng 06/2014</from>
+      <to>Tháng 10/2014</to>
+    </n_792>
+  </experience>
+  <education>
+    <n_579>
+      <id>579</id>
+      <school>Đại Học Công Nghệ Hồ Chí MInh (HUTECH)</school>
+      <degrees>Đại học </degrees>
+      <fieldofstudy>Tiếng Anh Thương Mại </fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_579>
+  </education>
+</information>

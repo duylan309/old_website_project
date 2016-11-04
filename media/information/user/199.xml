@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>199</id>
+      <email>tuyetchau.le27@gmail.com</email>
+      <username/>
+      <name>Ci5 Coffee</name>
+      <im>199_image1.PNG</im>
+      <gender>0</gender>
+      <phone>0932076268</phone>
+      <address>243 Le Van Sy, Ward 13, District 3, HCMC</address>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1465461538</created>
+      <dayleft>1478427391</dayleft>
+      <page>1</page>
+      <is_received_email>0</is_received_email>
+      <jobleft>2</jobleft>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+    <password>
+      <lastupdate>1470842483</lastupdate>
+    </password>
+  </userinfo>
+  <totalJob>
+    <total>3</total>
+    <strji>64,382,383</strji>
+  </totalJob>
+  <saveuser>
+    <total>112</total>
+    <strui>202,280,314,306,372,361,413,420,363,448,453,458,421,508,515,529,537,471,292,577,606,687,690,695,729,731,742,773,789,872,897,927,978,992,1013,971,1077,1090,1108,1148,1210,1214,1236,1240,1314,1339,626,1348,1365,1342,1435,1444,1158,1460,1469,1470,1472,1483,1625,1646,1686,1700,1591,1729,1813,1882,1889,1977,1561,2037,2059,1958,2186,1802,1480,2425,2468,2476,2467,2332,2757,1742,2831,2899,2902,823,3067,979,3172,1602,3201,3206,2451,3313,3352,3532,3268,2577,3715,3042,3739,3754,3853,3901,2262,3908,4142,4148,4234,4332,3455,4408</strui>
+  </saveuser>
+</information>

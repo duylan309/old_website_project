@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>217</id>
+      <email>team@thue.today</email>
+      <username/>
+      <name>Thue today</name>
+      <im>217_profile.jpg</im>
+      <gender>0</gender>
+      <phone>01267543789</phone>
+      <address/>
+      <city>0</city>
+      <dob>--</dob>
+      <type>1</type>
+      <status>3</status>
+      <created>1466532286</created>
+      <dayleft>1469124286</dayleft>
+      <page>5</page>
+      <deactive>1</deactive>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>1</total>
+    <strji>67</strji>
+  </totalJob>
+</information>

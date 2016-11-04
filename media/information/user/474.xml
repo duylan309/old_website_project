@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>474</id>
+      <email>dudu.tramho@gmail.com</email>
+      <username/>
+      <name>Hồ Thị Bích Trâm </name>
+      <im>10206640970519468_tram-ho.jpg</im>
+      <gender>2</gender>
+      <dob>1995-12-11</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470210182</created>
+      <day>11</day>
+      <month>12</month>
+      <year>1995</year>
+      <phone>01262813272</phone>
+      <address>63 Tái Thiết p.11 Q. Tân Bình</address>
+      <country>vn</country>
+      <city/>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <education>
+    <n_65>
+      <id>65</id>
+      <school>Đại học Sư Phạm </school>
+      <degrees/>
+      <fieldofstudy/>
+      <from>2014</from>
+      <to>2018</to>
+    </n_65>
+  </education>
+  <user_cv>
+    <db>
+      <ui>474</ui>
+      <title>Nhân viên pha chế cà phê</title>
+      <experience>2</experience>
+      <category>15,17</category>
+      <type>2,4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Chịu được áp lực công việc</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>106</strjo>
+  </appliedjob>
+</information>

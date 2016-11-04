@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4520</id>
+      <email>Huytruong1912@gmail.com</email>
+      <username/>
+      <name>Trương Đức Huy</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0976795607</phone>
+      <address>D502, chung cư C2, đường Man Thiện, quận 9, tphcm</address>
+      <city>30</city>
+      <dob>1992-12-19</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475244826</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>19</day>
+      <month>12</month>
+      <year>1992</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhan viên giao hàng</title>
+      <experience>1</experience>
+      <category>35</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Giao nhận hàng </skill>
+      <ui>4520</ui>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <about>Năng động,  chuyên nghiệp, trung thực </about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>288</strjo>
+  </appliedjob>
+</information>

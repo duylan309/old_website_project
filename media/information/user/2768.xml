@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2768</id>
+      <email>ruanshiyurong@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Ngọc Dung</name>
+      <im>2768_dscf7584.JPG</im>
+      <gender>2</gender>
+      <phone>0909095305</phone>
+      <address>39/4  Huỳnh Tấn Phát, Khu phố 4, Thị trấn Nhà Bè, Huyện Nhà Bè, TPHCM</address>
+      <city>30</city>
+      <dob>1987-1-9</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473874813</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1473874813</last_signin>
+      <day>9</day>
+      <month>1</month>
+      <year>1987</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.939046</lat>
+      <lng>108.2915582</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_618>
+      <id>618</id>
+      <title>Teamleader nhập liệu</title>
+      <level>1</level>
+      <cmpname>Goodland Information</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Vietnam</country>
+      <from>2009</from>
+      <to>2014</to>
+    </n_618>
+    <n_619>
+      <id>619</id>
+      <title>casting model</title>
+      <level>1</level>
+      <cmpname>Công ty người mẫu PMD</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Vietnam</country>
+      <from>2014</from>
+      <to>2015</to>
+    </n_619>
+    <n_621>
+      <id>621</id>
+      <title>Trợ lý giám đốc</title>
+      <level>1</level>
+      <cmpname>Công ty TNHH Trang Trí Quảng Cáo Phúc Linh</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Vietnam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_621>
+  </experience>
+  <education>
+    <n_446>
+      <id>446</id>
+      <school>THPT Bùi Thị Xuân TPHCM </school>
+      <degrees>Trung Học Phổ Thông</degrees>
+      <fieldofstudy/>
+      <from>2001</from>
+      <to>2005</to>
+    </n_446>
+  </education>
+  <user_cv>
+    <db>
+      <ui>2768</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>1</experience>
+      <category>14,15,20,29,35</category>
+      <type>1,2,4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about> Chỉ Tốt nghiệp Trung Học Phổ Thông.&#13;
+- Có kinh nghiệm hành chánh văn phòng: từng làm teamleader mảng nhập liệu cho công ty Goodland; casting người mẫu cho công ty người mẫu PMD, trợ lý bán hàng - nhân viên văn phòng cho công ty trang trí quảng cáo Phúc Linh.&#13;
+- Lúc còn đi học đã từng làm phục vụ cho quán cà phê BeOta....&#13;
+- Có trách nhiệm với công việc được giao&#13;
+- Vui vẻ, hòa đồng, trung thực&#13;
+- Thích nghi với môi trường làm việc mới tương đối tốt.</about>
+      <skill>- Biết Tiếng Anh cơ bản&#13;
+- Biết vi tính văn phòng&#13;
+- Kỹ năng giao tiếp ổn&#13;
+- Kỹ năng làm việc nhóm tốt</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>124,265</strjo>
+  </appliedjob>
+</information>

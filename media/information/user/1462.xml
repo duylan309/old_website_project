@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1462</id>
+      <email>uyenthai19@gmail.com</email>
+      <username/>
+      <name>Thái Nhã Uyên</name>
+      <im>1416076231741146_uyen-thai.jpg</im>
+      <gender>2</gender>
+      <dob>1996-9-1</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472377330</created>
+      <day>1</day>
+      <month>9</month>
+      <year>1996</year>
+      <phone>01286675104</phone>
+      <address>101/18/15 Duy Tân Phường 15 Quận Phú Nhuận</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.79448</lat>
+      <lng>106.680261</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,20</category>
+      <type>2,4,5</type>
+      <level>2</level>
+      <lang>vi,en,fr</lang>
+      <skill>Kỹ năng sư phạm và kỹ năng làm việc nhóm.&#13;
+Thân thiện với khách hàng và đồng nghiệp. Ham học hỏi và không ngại thử thách. Làm việc tốt dưới áp lực cao.</skill>
+      <ui>1462</ui>
+      <s1>16000</s1>
+      <salary>1</salary>
+      <keyword>Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Tự tin,Tinh thần làm việc nhóm,Kỹ năng chăm sóc khách hàng</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>100</strjo>
+  </appliedjob>
+  <experience>
+    <n_324>
+      <id>324</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Nhà hàng Takeichi Shindo</cmpname>
+      <city>Thành phố Hồ Chí Minh</city>
+      <country>Nhật Bản</country>
+      <from>Tháng 7 năm 2016</from>
+      <to>Tháng 8 năm 2016</to>
+    </n_324>
+    <n_325>
+      <id>325</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Quán cà phê Coffee House</cmpname>
+      <city>Thành phố Hồ Chí Minh </city>
+      <country>VIỆT NAM </country>
+      <from>Tháng 9 năm 2015</from>
+      <to>Tháng 11 năm 2015</to>
+    </n_325>
+    <n_326>
+      <id>326</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Quán xôi Lá Chuối</cmpname>
+      <city>Thành phố Hồ Chí Minh </city>
+      <country>Việt Nam</country>
+      <from>Tháng 7 năm 2016</from>
+      <to>Tháng 8 năm 2016</to>
+    </n_326>
+  </experience>
+  <education>
+    <n_233>
+      <id>233</id>
+      <school>Đại học Sư phạm thành phố Hồ Chí Minh</school>
+      <degrees/>
+      <fieldofstudy>Sư phạm tiếng PHÁP </fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_233>
+  </education>
+</information>

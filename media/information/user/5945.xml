@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5945</id>
+      <email>foxyruan@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Thanh Tuyền</name>
+      <im>1476278570_nguyen-thi-thanh-tuyen.png</im>
+      <gender>2</gender>
+      <phone>0938698785</phone>
+      <address>88/13 Nguyễn Khoái P2 Q4</address>
+      <city>30</city>
+      <dob>1995-11-10</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476278570</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>10</day>
+      <month>11</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.753329</lat>
+      <lng>106.694982</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, (hoặc) thu ngân</title>
+      <experience>1</experience>
+      <category>14,15,16,17,20</category>
+      <type>2,4,5,6</type>
+      <level>1,2</level>
+      <lang>vi,en,ch</lang>
+      <skill>- Kinh nghiệm bán hàng (cửa hàng bánh ngọt, trái cây, thức ăn nhanh..)&#13;
+- Kinh nghiệm làm thu ngân &#13;
+- Tiếng Anh lưu loát, tiếng Trung khá tốt&#13;
+- Hoà nhập, ham học hỏi, chịu được áp lực công việc cao</skill>
+      <ui>5945</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>279,234,211,181</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>428</id>
+    <ui>7737</ui>
+    <name>Saigon Hot Wings</name>
+    <url>saigonhotwings</url>
+    <im>_saigon-hot-wings.jpg</im>
+    <im_banner>_saigon-hot-wings-cover.jpg</im_banner>
+    <category>14,16</category>
+    <phone> 0120-459-5000</phone>
+    <address>200, Cống Quỳnh, Quận 1</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.766240</lat>
+    <lng>106.689453</lng>
+    <website>www.saigonhotwings.com</website>
+    <about/>
+    <facebook>https://www.facebook.com/saigonhotwings/</facebook>
+    <facebook_cover/>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1477415810</created>
+  </db>
+  <more>
+    <about>Are you tired of missing happy hour because of work? No worries, happy hour is now 7 to 9 on Sundays. Buy two drinks and get the third drink for free!!!</about>
+    <whyworkus/>
+  </more>
+  <companybanner>_saigon-hot-wings-cover.jpg</companybanner>
+  <totalJob>
+    <total>1</total>
+    <strji>520</strji>
+  </totalJob>
+</information>

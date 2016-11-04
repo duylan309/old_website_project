@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2265</id>
+      <email>venice7227@gmail.com</email>
+      <username/>
+      <name>Võ Thanh Vân</name>
+      <im>1473339278_vo-thanh-van.jpg</im>
+      <gender>0</gender>
+      <phone>0905403663</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473339278</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục vụ, pha chế</title>
+      <experience>1</experience>
+      <category>15,17,18,27,28,29,31,35,36</category>
+      <type>2,5</type>
+      <level>3</level>
+      <lang>vi,en</lang>
+      <skill>giao tiếp tốt, sử dụng linh hoạt tiếng anh và tiếng đức</skill>
+      <ui>2265</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>221,121</strjo>
+  </appliedjob>
+</information>

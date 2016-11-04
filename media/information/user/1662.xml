@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1662</id>
+      <email>caubevuitinh19922002@yahoo.com</email>
+      <username/>
+      <name>ĐIỀN THANH XUÂN</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0932181129</phone>
+      <address>103/12 Tân Hoá F14 Q6 TP Hồ Chí Minh</address>
+      <city>30</city>
+      <dob>1992-2-27</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472721393</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1472721393</last_signin>
+      <day>27</day>
+      <month>2</month>
+      <year>1992</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.755818</lat>
+      <lng>106.637219</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>1662</ui>
+      <title>Nhân viên bếp chính</title>
+      <experience>2</experience>
+      <category>14</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <skill>Làm Việt theo kỹ năng sáng kiến riêng , thúc đẩy những người làm việc chăm chỉ và hợp tác phát triển công ty</skill>
+      <keyword>Tập trung trong công việc,Giao tiếp hiệu quả,Tinh thần làm việc nhóm,Tinh thần trách nhiệm</keyword>
+    </db>
+  </user_cv>
+  <experience>
+    <n_359>
+      <id>359</id>
+      <title>Commis2</title>
+      <level>1</level>
+      <cmpname>Hotel Equatorial</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Viet Nam</country>
+      <from>2010</from>
+      <to>2013</to>
+    </n_359>
+  </experience>
+</information>

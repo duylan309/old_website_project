@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>225</id>
+    <ui>240</ui>
+    <name>Tokyo Deli USA</name>
+    <url>tokyodeliusa12121</url>
+    <im>1647531578865379_tokyo-deli-usa.png</im>
+    <im_banner>1647531578865379_tokyo-deli-usa-cover.png</im_banner>
+    <category>14</category>
+    <phone>(619) 564-6960</phone>
+    <address>871 G St</address>
+    <district>0</district>
+    <district_text_vi></district_text_vi>
+    <district_text_en></district_text_en>
+    <city>30</city>
+    <lat>32.712261</lat>
+    <lng>-117.156769</lng>
+    <website>http://tokyodeli.com</website>
+    <about></about>
+    <facebook>https://www.facebook.com/tokyodeliusa/</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1468745808</created>
+  </db>
+  <more>
+    <about>Conveniently located in the heart of downtown San Diego’s East Village sits one of the most unique deli style&#13;
+Japanese restaurants Southern California has to offer. Tokyo Deli serves the finest, freshly prepared authentic&#13;
+sushi and poke available. We bring together the highest quality ingredients from Japan and the finest locally&#13;
+sourced organic ingredients available. Tantalize your senses with our freshly prepared entrees, sushi and poke,&#13;
+and quench your thirst with our signature cocktails. Our menu features a wide variety of fresh, flavorful and&#13;
+affordable lunch and dinner options. We welcome you to dine-in, order on-the-go, or have your meals&#13;
+delivered to your home or office.</about>
+    <whyworkus></whyworkus>
+  </more>
+  <companybanner>1647531578865379_tokyo-deli-usa-cover.png</companybanner>
+</information>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7925</id>
+      <email>ngothuthuy7593@gmail.com</email>
+      <username/>
+      <name>Ngô Thu Thủy</name>
+      <im>1508691655824727_ngo-thu-thuy.jpg</im>
+      <gender>2</gender>
+      <dob>1993-5-7</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477545052</created>
+      <day>7</day>
+      <month>5</month>
+      <year>1993</year>
+      <phone>0989518099</phone>
+      <address></address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ/pha chế/tiếp tân</title>
+      <experience>1</experience>
+      <category>14,15,20</category>
+      <type>5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Booker và thu ngân</skill>
+      <ui>7925</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Hoà đồng, có trách nhiệm với công việc, nắm bắt công việc nhanh.</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>409</strjo>
+  </appliedjob>
+</information>

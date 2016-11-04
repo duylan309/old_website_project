@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1678</id>
+      <email>tramminh.le@gmail.com</email>
+      <username/>
+      <name>Tram Le</name>
+      <im>10157413415865008_tram-le.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472739154</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhan vien fa che</title>
+      <experience>1</experience>
+      <category>15,17</category>
+      <type>6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>1678</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>138,201</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>2</total>
+    <strjo>138,201</strjo>
+  </savedjob>
+</information>

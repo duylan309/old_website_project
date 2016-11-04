@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4465</id>
+      <email>phuongdu.duo@gmail.com</email>
+      <username/>
+      <name>Dương Phương Du</name>
+      <im>4465_img-20150219-3.png</im>
+      <gender>2</gender>
+      <phone>0964 76 5050</phone>
+      <address>183A4/5D Tôn Thất Thuyết, phường 4, quận 4</address>
+      <city>30</city>
+      <dob>1991-4-27</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475207280</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1475207280</last_signin>
+      <day>27</day>
+      <month>4</month>
+      <year>1991</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.753779</lat>
+      <lng>106.704601</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_943>
+      <id>943</id>
+      <title>Nhân viên Lễ tân</title>
+      <level>1</level>
+      <cmpname>ROSELAND POINT HOTEL</cmpname>
+      <city>Hồ Chí MInh</city>
+      <country>Việt Nam</country>
+      <from>04/2016</from>
+      <to>09/2016</to>
+    </n_943>
+    <n_944>
+      <id>944</id>
+      <title>Phụ bếp</title>
+      <level>1</level>
+      <cmpname>Cửa hàng dịch vụ ăn uống Tuyết Hoa</cmpname>
+      <city>Hồ Chí MInh</city>
+      <country>Việt Nam</country>
+      <from>06/2015</from>
+      <to>02/2016</to>
+    </n_944>
+    <n_945>
+      <id>945</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>La Dore Bakery</cmpname>
+      <city>Hồ Chí MInh</city>
+      <country>Việt Nam</country>
+      <from>2012</from>
+      <to>2013</to>
+    </n_945>
+  </experience>
+  <education>
+    <n_737>
+      <id>737</id>
+      <school>Đại học Sài Gòn</school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy>Quản lí môi trường</fieldofstudy>
+      <from>2010</from>
+      <to>2014</to>
+    </n_737>
+  </education>
+  <user_cv>
+    <db>
+      <ui>4465</ui>
+      <title>Barista - Nhân viên pha chế.</title>
+      <experience>1</experience>
+      <category>14,15,17,27,29,35</category>
+      <type>6</type>
+      <level>2,3,4</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Mình hiện đang sinh sống cùng với bố mẹ và em trai tại thành phố Hồ Chí Minh. Tốt nghiệp trường đại học Sài Gòn năm 2014, chuyên ngành Quản lí Môi trường. Sau khi tốt nghiệp, mình cảm thấy công việc theo đúng ngành học không phù hợp cho bản thân và không có cơ hội phát triển nhiều trong tương lai nên mình đã quyết định đổi mục tiêu nghề nghiệp và theo đuổi đam mê của mình.</about>
+      <skill>_ Vi tính văn phòng.&#13;
+_ Tiếng Anh giao tiếp.&#13;
+_ Có thể làm việc cá nhân và hoạt động nhóm.&#13;
+_ Kinh nghiệm giao tiếp và tiếp xúc với nhiều khách hàng trong môi trường làm việc. </skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>63,126,293,93,312</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>4</total>
+    <strjo>63,126,293,312</strjo>
+  </savedjob>
+</information>

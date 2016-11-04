@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>549</id>
+    <ui>240</ui>
+    <ci>439</ci>
+    <ai>0</ai>
+    <ti>Waiter/ Waitress</ti>
+    <ta></ta>
+    <le>2</le>
+    <ty>3</ty>
+    <ex>2</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>ja</la>
+    <description></description>
+    <requirement></requirement>
+    <workhour></workhour>
+    <benefit></benefit>
+    <keyword></keyword>
+    <ad></ad>
+    <location_id>401</location_id>
+    <lat>10.770882</lat>
+    <lng>10.770882</lng>
+    <de>2017-08-29</de>
+    <re></re>
+    <cr>1478092045</cr>
+  </db>
+  <more>
+    <requirement></requirement>
+    <description></description>
+    <workhour></workhour>
+    <benefit></benefit>
+    <keyword>Kỹ năng chăm sóc khách hàng,Chịu được áp lực công việc,Tinh thần làm việc nhóm</keyword>
+  </more>
+</information>

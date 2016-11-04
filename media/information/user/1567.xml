@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1567</id>
+      <email>phungnguyen9293@gmail.com</email>
+      <username/>
+      <name>Nguyễn Trương Phi Phụng</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0934112198</phone>
+      <address>118/57 bạch đằng phường 24 quận bình thạnh</address>
+      <city>30</city>
+      <dob>1993-9-12</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472550145</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>12</day>
+      <month>9</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8033986</lat>
+      <lng>106.7076154</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bếp</title>
+      <experience>7</experience>
+      <category>14,15,20</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>1567</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <keyword>Trung thực,Tinh thần làm việc nhóm,Nhiệt tình,Chịu được áp lực công việc,Tinh thần trách nhiệm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>151,188,114,201,78</strjo>
+  </appliedjob>
+  <education>
+    <n_256>
+      <id>256</id>
+      <school>Đại học Công nghệ HCM (Hutech)</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>quản trị nhà hàng</fieldofstudy>
+      <from>2011</from>
+      <to>2015</to>
+    </n_256>
+  </education>
+</information>

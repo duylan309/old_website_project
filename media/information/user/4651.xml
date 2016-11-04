@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4651</id>
+      <email>minhthunguyen199@gmail.com</email>
+      <username/>
+      <name>Minhthu Nguyen</name>
+      <im>2104569146435910_minhthu-nguyen.jpg</im>
+      <gender>2</gender>
+      <dob>1996-9-19</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475392738</created>
+      <day>19</day>
+      <month>9</month>
+      <year>1996</year>
+      <last_signin>1475392738</last_signin>
+      <phone>01226681230</phone>
+      <address>lầu 2, số 111, đường An Bình, phường 6, quận 5, TPHCM</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_773>
+      <id>773</id>
+      <school>Đại học Sài gòn </school>
+      <degrees/>
+      <fieldofstudy>Tiếng Anh thương mại - du lịch </fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_773>
+  </education>
+  <user_cv>
+    <db>
+      <ui>4651</ui>
+      <title>nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,17,18,20,27,29,31,35</category>
+      <type>4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>Tôi là sinh viên năm thứ 3, chuyên ngành tiếng Anh thương mại - du lịch. Tôi có kỹ năng giao tiếp bằng tiếng Anh, có khả năng chịu áp lực cao trong công việc, siêng năng, linh động trong xử lý công việc. Tôi có kinh nghiệm trong nhiều việc làm thêm khác nhau, có tinh thần trách nhiệm cao trong công việc.</about>
+      <skill>Kỹ năng giao tiếp bằng tiếng Anh </skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <savedjob>
+    <total>1</total>
+    <strjo>172</strjo>
+  </savedjob>
+  <appliedjob>
+    <total>8</total>
+    <strjo>172,69,171,367,222,235,215,154</strjo>
+  </appliedjob>
+</information>

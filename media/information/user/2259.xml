@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2259</id>
+      <email>traitimthuytinh_pemeo@yahoo.com.vn</email>
+      <username/>
+      <name>Hiền Lê</name>
+      <im>903282423147420_hien-le.jpg</im>
+      <gender>2</gender>
+      <dob>1995-10-10</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473334452</created>
+      <day>10</day>
+      <month>10</month>
+      <year>1995</year>
+      <last_signin>1473334452</last_signin>
+      <phone>0917439613</phone>
+      <address>Số 13, đường Số 6, KDC Trung Sơn, huyện Bình Chánh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7375513</lat>
+      <lng>106.6916852</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>2259</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,27,31</category>
+      <type>2,6</type>
+      <level>2,3</level>
+      <lang>vi</lang>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <about>Tôi là sinh viên năm 4. Từng có kinh nghiệm phục vụ nhà hàng tiệc cưới, quán cà phê, và các công việc khác...&#13;
+Mong muốn tìm được một công việc có thời gian linh độngc để có thể vừa đi làm vừa đi học.&#13;
+Luôn nhiệt tình, nhanh nhẹn, vui vẻ trung thực và cố gắng hoàn thành tốt nhiệm vụ được giao.</about>
+      <skill></skill>
+      <keyword>Tinh thần trách nhiệm,Tập trung trong công việc,Tự tin,Nhiệt tình,Trung thực</keyword>
+    </db>
+  </user_cv>
+  <experience>
+    <n_504>
+      <id>504</id>
+      <title>Nhân viên</title>
+      <level>1</level>
+      <cmpname>Chồn và Bạn Coffee</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>9/2015</from>
+      <to>2/2016</to>
+    </n_504>
+    <n_505>
+      <id>505</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Nhà hàng Grand Palace</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>10/2013</from>
+      <to>10/2014</to>
+    </n_505>
+  </experience>
+  <education>
+    <n_355>
+      <id>355</id>
+      <school>DH Công nghiệp thực phẩm Tp.HCM</school>
+      <degrees/>
+      <fieldofstudy>Đảm bảo an toàn và chất lượng thực phẩm</fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_355>
+  </education>
+</information>

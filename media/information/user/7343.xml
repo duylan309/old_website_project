@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7343</id>
+      <email>ht.meo_1994@yahoo.com.vn</email>
+      <username/>
+      <name>Chang Chang</name>
+      <im>1209227052484787_chang-chang.jpg</im>
+      <gender>2</gender>
+      <dob>1994-8-1</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477190168</created>
+      <day>1</day>
+      <month>8</month>
+      <year>1994</year>
+      <last_signin>1477190168</last_signin>
+      <phone>01248681994</phone>
+      <address>771a, đường số 5, khu phố 5, phường An Phú, quận 2</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8482708</lat>
+      <lng>106.7642763</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>7343</ui>
+      <title>Nhân viên đón khách</title>
+      <experience>7</experience>
+      <category>26</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about></about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

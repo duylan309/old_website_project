@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6544</id>
+      <email>tinakute_dungbabe@yahoo.com.vn</email>
+      <username/>
+      <name>Đõ Hoàng Dung</name>
+      <im>1476688045_do-hoang-dung.png</im>
+      <gender>0</gender>
+      <phone>01227776802</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476688045</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế</title>
+      <experience>2</experience>
+      <category>15</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>biết pha những món sinh tố, matcha đá xay, smoothies, ....</skill>
+      <ui>6544</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>64,400</strjo>
+  </appliedjob>
+</information>

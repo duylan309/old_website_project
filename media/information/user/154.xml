@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>154</id>
+      <email>luke@guanabanasmoothies.com</email>
+      <username/>
+      <name>Luke Nguyen</name>
+      <im>154_image.jpeg</im>
+      <gender>1</gender>
+      <category/>
+      <phone>090 7841947</phone>
+      <address>23 Ly Tu Trong, Quan 1</address>
+      <city>30</city>
+      <dob>1990-01-01</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1463026992</created>
+      <dayleft>0</dayleft>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>154</ui>
+      <title>Master Baker</title>
+      <category>14,15</category>
+      <type>1</type>
+      <experience>5</experience>
+      <location>30</location>
+      <s1>0</s1>
+      <salary>1</salary>
+      <skill/>
+      <level>20</level>
+    </db>
+  </user_cv>
+  <savedjob>
+    <total>1</total>
+    <strjo>19</strjo>
+  </savedjob>
+  <appliedjob>
+    <total>1</total>
+    <strjo>19</strjo>
+  </appliedjob>
+</information>

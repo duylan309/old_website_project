@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5693</id>
+      <email>banglangtim1402@gmail.com</email>
+      <username/>
+      <name>Phan Thị Hồng</name>
+      <im>1476156384_phan-thi-hong.png</im>
+      <gender>2</gender>
+      <phone>0971994829</phone>
+      <address></address>
+      <city></city>
+      <dob>1991-10-25</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476156384</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>25</day>
+      <month>10</month>
+      <year>1991</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên văn phòng</title>
+      <experience>2</experience>
+      <category>14,15,17,20,26,29,30,31,35,36</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,kr</lang>
+      <skill>- có kinh nghiệm làm phục vụ 1 năm&#13;
+- có kinh nghiệm làm kế toán 1 năm&#13;
+-   có kinh nghiệm Nhập dữ liệu và theo dõi đơn hàng, quản lý toàn bộ chứng từ  hàng hóa,. Theo dõi, ghi chép các số liệu hàng hóa hàng ngày, báo cáo số liệu theo quy định.  Phối hợp với QC kiểm tra về số lượng, chất lượng sản phẩm. - Sắp xếp, quản lý hàng để kịp tiến độ xuất hàng. &#13;
+- Sử dụng thành thạo Microsoft Word, Excel, Email, Internet...&#13;
+- Kỹ năng giao tiếp khá&#13;
+-  tiếng hàn sơ cấp&#13;
+- cử nhân kế toán</skill>
+      <ui>5693</ui>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <about>•	Tính tình hòa đồng, hoạt bát, ham học hỏi, nắm bắt nhanh công việc được giao&#13;
+•	Có tinh thần cầu tiến, thích ứng tốt với môi trường làm việc áp lực cao&#13;
+•	Mong muốn được cống hiến hết mình cho sự thành công của Công ty.&#13;
+&#13;
+</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>147</strjo>
+  </appliedjob>
+  <experience>
+    <n_1170>
+      <id>1170</id>
+      <title>nhân viên báo cáo</title>
+      <level>1</level>
+      <cmpname>Công Ty KOTITI VN</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>việt nam</country>
+      <from>11/12/2012</from>
+      <to>30/6/2016</to>
+    </n_1170>
+  </experience>
+  <education>
+    <n_943>
+      <id>943</id>
+      <school>Cao đẳng nghề tp.hcm</school>
+      <degrees>cử nhân</degrees>
+      <fieldofstudy>kế toán</fieldofstudy>
+      <from>2009</from>
+      <to>2012</to>
+    </n_943>
+  </education>
+</information>

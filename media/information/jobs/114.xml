@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>114</id>
+    <ui>330</ui>
+    <ci>233</ci>
+    <ai>0</ai>
+    <ti>Phụ Bếp</ti>
+    <ta/>
+    <le>1,2</le>
+    <ty>1,4</ty>
+    <ex>1,2,7</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>3000000</s1>
+    <s2>5000000</s2>
+    <s3>136</s3>
+    <s4>227</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description>- Hỗ trợ Bếp chính chuẩn bị /nhận hàng thực phẩm cho ca làm\r\n- Hỗ trợ làm các món ăn theo hướng dẫn của trưởng ca.\r\n- Sắp xếp, thu dọn ngăn nắp, sạch sẽ khu Bếp.\r\n- Làm việc theo ca sáng/chiều theo sự phân công của Bếp trưởng (Nhà hàng mở cửa từ 8:00-21:00)</description>
+    <requirement>- Ứng viên nhanh nhẹn, tiếp thu tốt\r\n- Kỹ năng bếp Âu cơ bản / trung cấp</requirement>
+    <benefit/>
+    <keyword>Trung thực,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+    <ad/>
+    <location_id>43</location_id>
+    <lat>10.773552</lat>
+    <lng>10.773552</lng>
+    <de>2016-09-22</de>
+    <re>0000-00-00</re>
+    <cr>1471234428</cr>
+  </db>
+  <more>
+    <requirement>- Ứng viên nhanh nhẹn, tiếp thu tốt&#13;
+- Kỹ năng bếp Âu cơ bản / trung cấp</requirement>
+    <description>- Hỗ trợ Bếp chính chuẩn bị /nhận hàng thực phẩm cho ca làm&#13;
+- Hỗ trợ làm các món ăn theo hướng dẫn của trưởng ca.&#13;
+- Sắp xếp, thu dọn ngăn nắp, sạch sẽ khu Bếp.&#13;
+- Làm việc theo ca sáng/chiều theo sự phân công của Bếp trưởng (Nhà hàng mở cửa từ 8:00-21:00)</description>
+    <benefit/>
+    <keyword>Trung thực,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+  </more>
+  <userapplied>
+    <total>40</total>
+    <strui>453,560,460,716,725,728,1007,1035,1060,1222,1510,292,1625,1567,1680,1802,661,1972,2005,2006,372,2201,2264,2320,2331,2538,2770,3034,3129,3201,3222,3472,480,3635,3798,4051,4288,4420,4751,5567</strui>
+  </userapplied>
+</information>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1859</id>
+      <email>tramnguyenxoxo@gmail.com</email>
+      <username/>
+      <name>NGUYỄN NGỌC BẢO TRÂM</name>
+      <im>1817501401814846_tram-ng.jpg</im>
+      <gender>2</gender>
+      <dob>1994-10-15</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473010977</created>
+      <day>15</day>
+      <month>10</month>
+      <year>1994</year>
+      <phone>01203170187</phone>
+      <address>20/16 Võ Văn Kiệt, phường Nguyễn Thái Bình, quận 1, TPHCM</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7646758</lat>
+      <lng>106.6988598</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng, nhân viên pha chế, phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,29,35</category>
+      <type>1</type>
+      <level>2,4</level>
+      <lang>vi,en,ja</lang>
+      <skill>Chịu được áp lực, có khả năng giải quyết vấn đề</skill>
+      <ui>1859</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>157,119,95,201</strjo>
+  </appliedjob>
+  <experience>
+    <n_412>
+      <id>412</id>
+      <title>Sale, Barista</title>
+      <level>1</level>
+      <cmpname>Cty cổ phần cà phê Cao Nguyên</cmpname>
+      <city/>
+      <country/>
+      <from>11/2015</from>
+      <to>07/2016</to>
+    </n_412>
+  </experience>
+  <education>
+    <n_297>
+      <id>297</id>
+      <school>Đại học Công Nghiệp Tphcm</school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy>Ngôn ngữ Anh</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_297>
+  </education>
+</information>

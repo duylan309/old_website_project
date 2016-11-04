@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7511</id>
+      <email>nhanmap_19121996@yahoo.com.vn</email>
+      <username/>
+      <name>Nhân Nguyễn</name>
+      <im>1154823431306060_nhan-nguyen.jpg</im>
+      <gender>1</gender>
+      <dob>1996-5-20</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477294960</created>
+      <day>20</day>
+      <month>5</month>
+      <year>1996</year>
+      <phone>01266124185</phone>
+      <address>143D Bùi Huữ Nghiã , Q5</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.754312</lat>
+      <lng>106.6743311</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Barista</title>
+      <experience>2</experience>
+      <category>15</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Am hiểu cơ bản về cà phê.&#13;
+Chuyên về cà phê ý, art được nhiều hình.&#13;
+Có khả năng chịu áp lực cao.</skill>
+      <ui>7511</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>305</strjo>
+  </appliedjob>
+</information>

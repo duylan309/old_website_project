@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6243</id>
+      <email>tsangmanming18051994@gmail.com.vn</email>
+      <username/>
+      <name>HÙYNH VĂN MINH</name>
+      <im>1476453158_huynh-van-minh.png</im>
+      <gender>1</gender>
+      <phone>01204812511</phone>
+      <address>76/43 Xóm Đất P.8, Q.11, TP.HCM</address>
+      <city>30</city>
+      <dob>1994-5-18</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476453158</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>18</day>
+      <month>5</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7764745</lat>
+      <lng>106.7008831</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Thu ngân</title>
+      <experience>7</experience>
+      <category>14,15,16,19,29,35</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>_ Sử dụng thành thạo Microsoft Word, Excel, Power Point&#13;
+_ Biết đọc hiểu Tiếng Anh&#13;
+_ Có kỹ năng giao tiếp, trình bày tốt&#13;
+_ Chăm chỉ, biết tổ chức sắp xếp công việc và có tinh thần trách nhiệm&#13;
+_ Dễ dàng thích nghi với môi trường mới&#13;
+</skill>
+      <ui>6243</ui>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>15</total>
+    <strjo>368,409,239,397,211,349,363,348,130,219,340,422,161,312,364</strjo>
+  </appliedjob>
+  <education>
+    <n_1036>
+      <id>1036</id>
+      <school>Cao đẳng Kinh tế TP.HCM</school>
+      <degrees>Cao đẳng</degrees>
+      <fieldofstudy>Kế toán</fieldofstudy>
+      <from>2013</from>
+      <to>2016</to>
+    </n_1036>
+  </education>
+  <experience>
+    <n_1265>
+      <id>1265</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>Công ty Cổ phần ITTA</cmpname>
+      <city>Hồ Chí MInh</city>
+      <country>Việt Nam</country>
+      <from>7/2016</from>
+      <to>9/2016</to>
+    </n_1265>
+  </experience>
+</information>

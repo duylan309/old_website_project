@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1813</id>
+      <email>kimlinh0902@gmail.com</email>
+      <username/>
+      <name>Trần Thị Kim Linh</name>
+      <im>1472967294_tran-thi-kim-linh.jpg</im>
+      <gender>2</gender>
+      <phone>01882664011</phone>
+      <address>165/7 ba vân phường 14 quận tân bình </address>
+      <city>30</city>
+      <dob>1996-2-9</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472967293</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>9</day>
+      <month>2</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7949645</lat>
+      <lng>106.6425046</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>6</type>
+      <level>2</level>
+      <lang>en</lang>
+      <skill>Có khả năng làm việc dưới áp lực cao và có thể làm các vị trí khác nhau</skill>
+      <ui>1813</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>222,165,105,64</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6162</id>
+      <email>minhtruongtran12@gmail.com</email>
+      <username/>
+      <name>Trần Minh Trường</name>
+      <im/>
+      <gender>1</gender>
+      <phone>01687700061</phone>
+      <address>68/12, Nguyễn Ngọc Nhựt, P. Tân Quý, Q.Tân Phú</address>
+      <city>30</city>
+      <dob>1998-8-12</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476406999</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>12</day>
+      <month>8</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.792266</lat>
+      <lng>106.6254246</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,16,19,29,31</category>
+      <type>2,4,5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>6162</ui>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>435,402,154,434</strjo>
+  </appliedjob>
+  <experience>
+    <n_1244>
+      <id>1244</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Nhà Hàng Grand Place</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>1</from>
+      <to>20 ngày</to>
+    </n_1244>
+  </experience>
+  <education>
+    <n_1020>
+      <id>1020</id>
+      <school>Cao đẳng công nghệ thông tin thành phố Hồ Chí Minh</school>
+      <degrees>Đang học cao đẳng chính quy</degrees>
+      <fieldofstudy>Công nghệ thông tin</fieldofstudy>
+      <from>2016</from>
+      <to>2019</to>
+    </n_1020>
+  </education>
+</information>

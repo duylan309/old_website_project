@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>796</id>
+      <email>peterlong1993@gmail.com</email>
+      <username/>
+      <name>Đinh Quang Long</name>
+      <im>796_13654340-1808821999337500-793518210499516616-n.jpg</im>
+      <gender>1</gender>
+      <phone>0963 758 341</phone>
+      <address>17 VĨnh Viễn, Phường 2, Quận 10, TP.HCM</address>
+      <city>30</city>
+      <dob>1993-4-25</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471089462</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <day>25</day>
+      <month>4</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.765399</lat>
+      <lng>106.6736279</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_176>
+      <id>176</id>
+      <title>F&amp;B</title>
+      <level>1</level>
+      <cmpname>Gem Center</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>23/7/2014</from>
+      <to>7/2015</to>
+    </n_176>
+    <n_177>
+      <id>177</id>
+      <title>F&amp;B</title>
+      <level>1</level>
+      <cmpname>White Palace</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>2014</to>
+    </n_177>
+  </experience>
+  <education>
+    <n_116>
+      <id>116</id>
+      <school>Cao Đẳng Kĩ Thuật Cao Thắng</school>
+      <degrees>Cao Đẳng </degrees>
+      <fieldofstudy>Điện Tử Công Nghiệp</fieldofstudy>
+      <from>2011</from>
+      <to>2014</to>
+    </n_116>
+  </education>
+  <user_cv>
+    <db>
+      <ui>796</ui>
+      <title>Waiter, Food runner</title>
+      <experience>2</experience>
+      <category>14,20</category>
+      <type>1,2,4</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Nhiệt tình,Tự tin,Tinh thần trách nhiệm,Trung thực,Chịu được áp lực công việc,Kỹ năng giải quyết tình huống,Giao tiếp hiệu quả</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>120</strjo>
+  </appliedjob>
+</information>

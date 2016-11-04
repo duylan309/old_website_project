@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5292</id>
+      <email>Nguyen352013@gmail.com</email>
+      <username/>
+      <name>Nguyễn Minh Tuấn</name>
+      <im>1475855694_nguyen-minh-tuan.png</im>
+      <gender>0</gender>
+      <phone>0968284869</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475855693</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Cook  ( or chefcook )</title>
+      <experience>3</experience>
+      <category>14,15,16,18,20,28,29</category>
+      <type>1,6</type>
+      <level>2,5</level>
+      <lang>vi,en</lang>
+      <skill>Nắm vững tủ, thớt, chảo.... và Quản  Lý ca tốt</skill>
+      <ui>5292</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>321</strjo>
+  </appliedjob>
+  <experience>
+    <n_1084>
+      <id>1084</id>
+      <title>Chefcook</title>
+      <level>1</level>
+      <cmpname>BBQ Garden</cmpname>
+      <city>HCM</city>
+      <country>Việc Nam</country>
+      <from>2010</from>
+      <to>2014</to>
+    </n_1084>
+    <n_1085>
+      <id>1085</id>
+      <title>Chefcook</title>
+      <level>1</level>
+      <cmpname>Auto Grill</cmpname>
+      <city>HCM</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>2015</to>
+    </n_1085>
+  </experience>
+  <education>
+    <n_878>
+      <id>878</id>
+      <school>Hướng nghiệp Á Âu</school>
+      <degrees>Ql bếp</degrees>
+      <fieldofstudy>Bếp</fieldofstudy>
+      <from>2014</from>
+      <to>2024</to>
+    </n_878>
+    <n_879>
+      <id>879</id>
+      <school>Trung cấp Sài Gòn Touris</school>
+      <degrees>Bếp Việt và Á</degrees>
+      <fieldofstudy>Bếp</fieldofstudy>
+      <from>2010</from>
+      <to>2010</to>
+    </n_879>
+  </education>
+</information>

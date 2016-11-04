@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1279</id>
+      <email>Sye.0531@icloud.com</email>
+      <username/>
+      <name>Phạm Hoàng Thảo Quyên</name>
+      <im>1279_image.jpeg</im>
+      <gender>2</gender>
+      <phone>01264372679</phone>
+      <address>34/12/1A Kha Vạn Cân ,phường Linh Đông,quận Thủ Đức</address>
+      <city>30</city>
+      <dob>2000-5-26</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472046973</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>26</day>
+      <month>5</month>
+      <year>2000</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.839819</lat>
+      <lng>106.735042</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,17,27,29</category>
+      <type>2,5,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill></skill>
+      <ui>1279</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <keyword>Tập trung trong công việc,Nhiệt tình,Tự tin,Chịu được áp lực công việc,Tinh thần làm việc nhóm,Tinh thần trách nhiệm,Kỹ năng giải quyết tình huống</keyword>
+      <about>Tôi là một con người năng động, hoà đồng và lúc nào cũng vui vẻ với mọi người.</about>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>10</total>
+    <strjo>150,165,69,64,268,199,222,235,162,510</strjo>
+  </appliedjob>
+  <experience>
+    <n_1476>
+      <id>1476</id>
+      <title>Phục vụ</title>
+      <level>1</level>
+      <cmpname>1st Garden bistro</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>0</from>
+      <to>1 năm</to>
+    </n_1476>
+  </experience>
+  <education>
+    <n_1225>
+      <id>1225</id>
+      <school>Việt Giao</school>
+      <degrees>Sinh viên</degrees>
+      <fieldofstudy>Quản Trị Khách Sạn</fieldofstudy>
+      <from>0</from>
+      <to>1 năm</to>
+    </n_1225>
+  </education>
+</information>

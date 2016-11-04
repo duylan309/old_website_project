@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2226</id>
+      <email>lenguyen951016@gmail.com</email>
+      <username/>
+      <name>Lê Tú</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0919668530</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473313871</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế</title>
+      <experience>2</experience>
+      <category>14,15</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>en,fr</lang>
+      <skill>Pha chế có kinh nghiệm với các công việc liên quan</skill>
+      <ui>2226</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>250,240</strjo>
+  </appliedjob>
+  <experience>
+    <n_495>
+      <id>495</id>
+      <title>Nhân viên pha chế</title>
+      <level>1</level>
+      <cmpname>fresh garden - Vinmec HCM</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>việt nam</country>
+      <from>01/2016</from>
+      <to>09/2016</to>
+    </n_495>
+    <n_496>
+      <id>496</id>
+      <title>Nhân viên pha chế</title>
+      <level>1</level>
+      <cmpname>fujiya vincom</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>việt nam</country>
+      <from>02/2015</from>
+      <to>12/2015</to>
+    </n_496>
+    <n_498>
+      <id>498</id>
+      <title>Nhân viên pha chế</title>
+      <level>1</level>
+      <cmpname>The Coffee House</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>việt nam</country>
+      <from>2014</from>
+      <to>01/2015</to>
+    </n_498>
+  </experience>
+  <education>
+    <n_350>
+      <id>350</id>
+      <school>Cao Đẳng y tế</school>
+      <degrees>trung cấp</degrees>
+      <fieldofstudy>y học cổ truyền</fieldofstudy>
+      <from>2013</from>
+      <to>2015</to>
+    </n_350>
+  </education>
+</information>

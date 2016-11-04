@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1799</id>
+      <email>dungnguyen.080190@gmail.com</email>
+      <username/>
+      <name>Nguyen Ngoc Dung</name>
+      <im>1472930051_nguyen-ngoc-dung.jpg</im>
+      <gender>0</gender>
+      <phone>0938184097</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472930051</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhan vien phuc vu</title>
+      <experience>7</experience>
+      <category>14</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Vui ve hoat bat.</skill>
+      <ui>1799</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>85</strjo>
+  </appliedjob>
+</information>

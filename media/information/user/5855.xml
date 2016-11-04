@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5855</id>
+      <email>trongtoan_dk@yahoo.com</email>
+      <username/>
+      <name>Ngô Trọng Toàn</name>
+      <im>659625734196664_ngo-trong-toan.jpg</im>
+      <gender>1</gender>
+      <dob>1995-4-12</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476211623</created>
+      <day>12</day>
+      <month>4</month>
+      <year>1995</year>
+      <phone>01697939252</phone>
+      <address>246/13/9 Bạch Đằng, Phường 24, Quận Bình Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.80352</lat>
+      <lng>106.704008</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, Bán hàng</title>
+      <experience>7</experience>
+      <category>14,15,16,27,29</category>
+      <type>2,3,4,5,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>5855</ui>
+      <s1>17000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>294,130</strjo>
+  </appliedjob>
+  <education>
+    <n_972>
+      <id>972</id>
+      <school>Đại học Giao Thông Vận Tải Tp HCM</school>
+      <degrees/>
+      <fieldofstudy>Kinh tế vận tải biển</fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_972>
+  </education>
+</information>

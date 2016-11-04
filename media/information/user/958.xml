@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>958</id>
+      <email>linhkabo@yahoo.com.vn</email>
+      <username/>
+      <name>Thành Linh</name>
+      <im>1630318257260047_thanh-linh.jpg</im>
+      <gender>1</gender>
+      <dob>01996-11-30</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471495160</created>
+      <day>30</day>
+      <month>11</month>
+      <year>01996</year>
+      <phone>01675624535</phone>
+      <address/>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>958</ui>
+      <title>Nhân viên phục vụ, phụ bếp</title>
+      <experience>1</experience>
+      <category>14,15,20</category>
+      <type>2</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Tập trung trong công việc,Chịu được áp lực công việc,Tinh thần trách nhiệm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>78,106,92,86</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3442</id>
+      <email>huynhthaibaotran19@gmail.com</email>
+      <username/>
+      <name>Huỳnh Thái Bảo Trân</name>
+      <im>1474629561_huynh-thai-bao-tran.png</im>
+      <gender>2</gender>
+      <phone>01647921015</phone>
+      <address>1806/127/2/7 Huỳnh Tấn Phát</address>
+      <city>30</city>
+      <dob>1996-12-19</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474629561</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>19</day>
+      <month>12</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.699213</lat>
+      <lng>106.738305</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,17,29</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Khả năng giao tiếp hiệu quả, thích ứng với công việc viếc tốt, khả năng tư duy. &#13;
+Trình độ tiếng Anh cơ bản&#13;
+ Biết sử dụng các phần mềm máy tính như Word,  Excel,  Powerpoint ( Có chứng chỉ MOS)&#13;
+</skill>
+      <ui>3442</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>•	Phẩm chất:  Chăm chỉ,hòa đồng, nhanh nhẹn, cẩn thận, biết quan sát, có tinh thần trách nhiệm, có tinh thần cầu tiến cao, không ngừng tiếp thu và học hỏi.&#13;
+•	Hạn chế : chưa có nhiều kinh nghiệm trong việc xử lý các tình huống, </about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>265,247,311</strjo>
+  </appliedjob>
+  <education>
+    <n_559>
+      <id>559</id>
+      <school>Đại học Tôn Đức Thắng</school>
+      <degrees>SInh viên năm 3</degrees>
+      <fieldofstudy>Luật</fieldofstudy>
+      <from>2014</from>
+      <to>2016</to>
+    </n_559>
+  </education>
+  <savedjob>
+    <total>1</total>
+    <strjo>364</strjo>
+  </savedjob>
+</information>

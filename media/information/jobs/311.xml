@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>311</id>
+    <ui>3254</ui>
+    <ci>348</ci>
+    <ai>0</ai>
+    <ti>NHÂN VIÊN SHOWROOM</ti>
+    <ta/>
+    <le>2</le>
+    <ty>4</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>17</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>207</location_id>
+    <lat>10.751240</lat>
+    <lng>10.751240</lng>
+    <de>2016-10-21</de>
+    <re>0000-00-00</re>
+    <cr>1474463743</cr>
+  </db>
+  <more>
+    <requirement>-          Ưu tiên những người có kinh nghiệm bán hàng ở các cửa hàng bán lẻ, nếu là cửa hàng bán lẻ xe đạp hoặc dụng cụ thể thao thì tốt. Kiến thức về các sản phẩm xe đạp Giant sẽ được đào tạo.&#13;
+-          Tốt nghiệp Trung học hoặc cao đẳng&#13;
+-          Biết một chút tiếng Anh để sử dụng hệ thống quản lý bán hàng bằng tiếng Anh&#13;
+-          Biết sử dụng các phần mềm máy tính như Word, Excel, Powerpoint</requirement>
+    <description>-          Làm việc toàn thời gian tại showroom theo ca, mỗi ca 6-8 tiếng ngày (ca sáng 8h-2h chiều, ca chiều 2h-8h tối hoặc ai muốn làm ca 8h cũng được)&#13;
+-          Duy trì và chăm sóc showroom luôn trong điều kiện sạch sẽ, ngăn nắp&#13;
+-          Quản lý hàng trưng bày, hàng trong kho, nhập hàng, dán barcode&#13;
+-          Tiếp khách, giới thiệu sản phẩm, khuyến mại, bán hàng&#13;
+-          Kiểm kê hàng tồn kho, thực hiện các thủ tục mở ca, đóng ca&#13;
+-          Chịu một phần trách nhiệm doanh số bán hàng</description>
+    <benefit/>
+    <keyword/>
+  </more>
+  <userapplied>
+    <total>17</total>
+    <strui>3399,3705,3442,3727,1105,3425,4121,4598,4727,4858,4875,4931,5009,5069,5507,6021,2733</strui>
+  </userapplied>
+</information>

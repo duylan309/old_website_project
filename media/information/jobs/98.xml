@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>98</id>
+    <ui>297</ui>
+    <ci>224</ci>
+    <ai>0</ai>
+    <ti>Sous Chef (night shift)</ti>
+    <ta/>
+    <le>4,5</le>
+    <ty>1</ty>
+    <ex>2</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>6000000</s1>
+    <s2>8000000</s2>
+    <s3>272</s3>
+    <s4>363</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14,15,16</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>1</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description/>
+    <requirement>- Có kinh nghiệm làm việc trong nghành bếp Việt ít nhất 1 năm. \r\n- Khả năng giám sát , quản lý nhân viên tốt. \r\n- Làm việc theo ca (chủ yếu ca đêm từ 21:30 - 6:00)\r\n- Khả năng làm việc dưới áp lực cao.  </requirement>
+    <benefit>- Lương + thưởng theo năng lực của nhân viên. Được đánh giá tăng lương hàng năm. \r\n- Hưởng đầy đủ chế độ theo đúng luật lao động Việt Nam.\r\n- Được làm việc trong môi trường quốc tế, chuyên nghiệp, cơ hội đào tạo tốt.</benefit>
+    <keyword>Responsibility,Honesty,Work well under pressure</keyword>
+    <ad>Lô I2, Đường D1, Khu công nghệ cao Intel Quận 9, HCM</ad>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-10</de>
+    <re>0000-00-00</re>
+    <cr>1471328682</cr>
+    <location_id>25</location_id>
+  </db>
+  <more>
+    <requirement>- Có kinh nghiệm làm việc trong nghành bếp Việt ít nhất 1 năm. &#13;
+- Khả năng giám sát , quản lý nhân viên tốt. &#13;
+- Làm việc theo ca (chủ yếu ca đêm từ 21:30 - 6:00)&#13;
+- Khả năng làm việc dưới áp lực cao.  </requirement>
+    <description/>
+    <benefit>- Lương + thưởng theo năng lực của nhân viên. Được đánh giá tăng lương hàng năm. &#13;
+- Hưởng đầy đủ chế độ theo đúng luật lao động Việt Nam.&#13;
+- Được làm việc trong môi trường quốc tế, chuyên nghiệp, cơ hội đào tạo tốt.</benefit>
+    <keyword>Responsibility,Honesty,Work well under pressure</keyword>
+  </more>
+  <userapplied>
+    <total>1</total>
+    <strui>516</strui>
+  </userapplied>
+</information>

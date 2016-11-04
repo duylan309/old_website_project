@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7161</id>
+      <email>tuyennguyen131295@gmail.com</email>
+      <username/>
+      <name>Tuyền Kim Nguyễn</name>
+      <im>801913329912062_tuyen-kim-nguyen.jpg</im>
+      <gender>2</gender>
+      <dob>1995-12-13</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477098601</created>
+      <day>13</day>
+      <month>12</month>
+      <year>1995</year>
+      <last_signin>1477098601</last_signin>
+      <phone>01206367823</phone>
+      <address>750/1/48 Nguyễn Kiệm, phường 4, quận Phú Nhuận</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.809986</lat>
+      <lng>106.679696</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>7161</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>1</experience>
+      <category>14,15</category>
+      <type>1,2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Em 21 tuổi, hiện đang làm việc tại quán ăn nhanh của người Hàn quốc. Em còn đang đi học thêm IELTS.</about>
+      <skill>Em có kinh nghiệm bán hàng 6 tháng, có thể giao tiếp tốt vs khách hàng, em đã từng làm ở nhà hàng và quán cà phê</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <experience>
+    <n_1408>
+      <id>1408</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>KATA Fashion</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>05/2015</from>
+      <to>01/2016</to>
+    </n_1408>
+    <n_1409>
+      <id>1409</id>
+      <title>Nhân viên phục vuh</title>
+      <level>1</level>
+      <cmpname>BANGO Việt Nam</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>05/2016</from>
+      <to>10/2016</to>
+    </n_1409>
+  </experience>
+  <appliedjob>
+    <total>2</total>
+    <strjo>287,460</strjo>
+  </appliedjob>
+</information>

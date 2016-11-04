@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7864</id>
+      <email>ha.tang1018@gmail.com</email>
+      <username/>
+      <name>Tăng Thể Hà</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0907800560</phone>
+      <address>123/6/2 Bông Sao, phường 5, quận 8, TP.HCM</address>
+      <city>30</city>
+      <dob>1994-7-25</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477495438</created>
+      <dayleft>0</dayleft>
+      <jobleft>0</jobleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1477495438</last_signin>
+      <day>25</day>
+      <month>7</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7366125</lat>
+      <lng>106.659219</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_1276>
+      <id>1276</id>
+      <school>ĐH Tôn Đức Thắng</school>
+      <degrees/>
+      <fieldofstudy>Quản trị kinh doanh quốc tế</fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_1276>
+  </education>
+  <user_cv>
+    <db>
+      <ui>7864</ui>
+      <title>Nhân viên phục vụ, nhân viên pha chế</title>
+      <experience>1</experience>
+      <category>14,15</category>
+      <type>2,3,4,6</type>
+      <level>1,2,3</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Năng động, nhanh nhẹn, ham học hỏi, kỹ năng làm việc nhóm tốt, tinh thần tập thể cao</about>
+      <skill>TOIEC 770 điểm&#13;
+Microsoft Word, Excel&#13;
+Kỹ năng làm việc nhóm</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <experience>
+    <n_1533>
+      <id>1533</id>
+      <title>Nhân viên</title>
+      <level>1</level>
+      <cmpname>Vietopia</cmpname>
+      <city>TP Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>3-2016</from>
+      <to>Now</to>
+    </n_1533>
+  </experience>
+  <savedjob>
+    <total>2</total>
+    <strjo>222,478</strjo>
+  </savedjob>
+</information>

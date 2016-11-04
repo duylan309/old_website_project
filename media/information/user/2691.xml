@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2691</id>
+      <email>quynhvi.pham2711@gmail.com</email>
+      <username/>
+      <name>Phạm Quỳnh Vi</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01627632038</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473758210</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>15,20,35</category>
+      <type>1,2,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>2691</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>247</strjo>
+  </appliedjob>
+</information>

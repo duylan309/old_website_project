@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6922</id>
+      <email>le_congtien86@yahoo.com</email>
+      <username/>
+      <name>Công Tiến</name>
+      <im>884462035018617_cong-tien.jpg</im>
+      <gender>1</gender>
+      <dob>2001-6-8</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476951119</created>
+      <day>8</day>
+      <month>6</month>
+      <year>2001</year>
+      <phone>01276870402</phone>
+      <address>500/100,Đoàn Văn Bơ, Q4</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.763664</lat>
+      <lng>106.703197</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6922</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <about>Là sinh viên </about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>473</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>473</strjo>
+  </savedjob>
+</information>

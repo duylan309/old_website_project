@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3732</id>
+      <email>tcdd39.tan@yahoo.com</email>
+      <username/>
+      <name>Trương vĩnh tân</name>
+      <im/>
+      <gender>0</gender>
+      <phone/>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474794382</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1474794382</last_signin>
+    </db>
+  </userinfo>
+  <education>
+    <n_613>
+      <id>613</id>
+      <school>Trường đại học công nghiệp thành phố hồ chí minh</school>
+      <degrees>Trung cấp</degrees>
+      <fieldofstudy>Kĩ thuật chế biến</fieldofstudy>
+      <from>2011</from>
+      <to>2013</to>
+    </n_613>
+  </education>
+</information>

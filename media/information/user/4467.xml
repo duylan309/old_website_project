@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4467</id>
+      <email>truonghongngoc1202@gmail.com</email>
+      <username/>
+      <name>Trương Hồng Ngọc</name>
+      <im>1475207969_truong-hong-ngoc.png</im>
+      <gender>0</gender>
+      <phone>0979358052</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475207969</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>2,4,5,6</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill>- Giao tiếp tốt, dễ gây thiện cảm với người đối diện&#13;
+- Chăm chỉ, sạch sẽ, có trách nhiệm với công việc được giao&#13;
+- Nhanh nhẹn, nhạy bén trong từng hoàn cảnh&#13;
+- Yêu thích công việc và luôn tận tâm với nó</skill>
+      <ui>4467</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>172</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>172</strjo>
+  </savedjob>
+</information>

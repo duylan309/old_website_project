@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>520</id>
+    <ui>7737</ui>
+    <ci>428</ci>
+    <ai>0</ai>
+    <ti>Phục vụ nữ - Waitress</ti>
+    <ta/>
+    <le>1</le>
+    <ty>1,2,6</ty>
+    <ex>7</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>16</s1>
+    <s2>20</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo></lo>
+    <co>vn</co>
+    <ca>14,16</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description>Phục vụ khách hàng\r\n</description>
+    <requirement>- NỮ tuổi 18-26 ( ưu tiên sinh viên làm thêm )\r\n- Năng động - vui vẻ - nhiệt tình\r\n- Có thể giao tiếp tiếng Anh cơ bản vì 95% khách hàng là người nước ngoài\r\nXin vui lòng liên hệ số điện thoại: 0120 459 5000 - bạn có thể gọi sau 18h hoặc nhắn tin, chúng tôi sẽ liên hệ với bạn. Hoặc đến thẳng địa chỉ 200 Cống Quỳnh để nộp hồ sơ (không cần công chứng - sau 18h)</requirement>
+    <workhour/>
+    <benefit>Quyền lợi:\r\n- Được trau dồi kỹ năng giao tiếp nghe nói tiếng Anh \r\n- Có hưởng tip\r\n- Môi trường lành mạnh, không phức tạp như khu vực Bùi Viện\r\n</benefit>
+    <keyword>Trung thực,Tự tin,Nhiệt tình,Kỹ năng giải quyết tình huống,Giao tiếp hiệu quả</keyword>
+    <ad/>
+    <location_id>377</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-24</de>
+    <re>0000-00-00</re>
+    <cr>1477416437</cr>
+  </db>
+  <more>
+    <requirement>- NỮ tuổi 18-26 ( ưu tiên sinh viên làm thêm )&#13;
+- Năng động - vui vẻ - nhiệt tình&#13;
+- Có thể giao tiếp tiếng Anh cơ bản vì 95% khách hàng là người nước ngoài&#13;
+Xin vui lòng liên hệ số điện thoại: 0120 459 5000 - bạn có thể gọi sau 18h hoặc nhắn tin, chúng tôi sẽ liên hệ với bạn. Hoặc đến thẳng địa chỉ 200 Cống Quỳnh để nộp hồ sơ (không cần công chứng - sau 18h)</requirement>
+    <description>Phục vụ khách hàng&#13;
+</description>
+    <workhour>18h đến 2h sáng (có thể ngủ lại nhà hàng sau giờ làm việc)</workhour>
+    <benefit>Quyền lợi:&#13;
+- Được trau dồi kỹ năng giao tiếp nghe nói tiếng Anh &#13;
+- Có hưởng tip&#13;
+- Môi trường lành mạnh, không phức tạp như khu vực Bùi Viện&#13;
+</benefit>
+    <keyword>Trung thực,Tự tin,Nhiệt tình,Kỹ năng giải quyết tình huống,Giao tiếp hiệu quả</keyword>
+  </more>
+</information>

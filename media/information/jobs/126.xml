@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>126</id>
+    <ui>512</ui>
+    <ci>243</ci>
+    <ai>0</ai>
+    <ti>NHÂN VIÊN FULLTIME BIẾT BARISTA</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1,4</ty>
+    <ex>1,2,7</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>3500000</s1>
+    <s2>5000000</s2>
+    <s3>159</s3>
+    <s4>227</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>en,kr</la>
+    <description>- Thời gian làm việc: 14h-22h (có thể xoay ca).\r\n- 1 tuần được nghỉ 1 ngày.\r\n- Lương cơ bản: 3,500,000 (thử việc 2 tháng).\r\n- Lương chính thức= lương CB + phụ cấp tiền ăn (+ thưởng khi làm việc hiệu quả, năng suất công việc tốt).\r\n- Chi tiết công việc sẽ trao đổi khi phỏng vấn và tranning trong quá trình làm việc.</description>
+    <requirement>- có kinh nghiệm về barista\r\n- có kinh nghiệm làm việc trong các cửa hàng cafe\r\n- có khả năng tổ chức, sắp xếp, trông coi quán, hỗ trợ cửa hàng trưởng</requirement>
+    <benefit>trợ cấp tiền ăn 35,000/ngày\r\nthưởng nếu đạt năng suất công việc tốt</benefit>
+    <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Trung thực,Nhiệt tình,Tinh thần làm việc nhóm,Tập trung trong công việc</keyword>
+    <ad/>
+    <location_id>63</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-02</de>
+    <re>0000-00-00</re>
+    <cr>1473061034</cr>
+  </db>
+  <more>
+    <requirement>- có kinh nghiệm về barista&#13;
+- có kinh nghiệm làm việc trong các cửa hàng cafe&#13;
+- có khả năng tổ chức, sắp xếp, trông coi quán, hỗ trợ cửa hàng trưởng</requirement>
+    <description>- Thời gian làm việc: 14h-22h (có thể xoay ca).&#13;
+- 1 tuần được nghỉ 1 ngày.&#13;
+- Lương cơ bản: 3,500,000 (thử việc 2 tháng).&#13;
+- Lương chính thức= lương CB + phụ cấp tiền ăn (+ thưởng khi làm việc hiệu quả, năng suất công việc tốt).&#13;
+- Chi tiết công việc sẽ trao đổi khi phỏng vấn và tranning trong quá trình làm việc.</description>
+    <benefit>trợ cấp tiền ăn 35,000/ngày&#13;
+thưởng nếu đạt năng suất công việc tốt</benefit>
+    <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Trung thực,Nhiệt tình,Tinh thần làm việc nhóm,Tập trung trong công việc</keyword>
+  </more>
+  <userapplied>
+    <total>58</total>
+    <strui>505,579,688,588,851,853,898,292,923,312,986,971,1106,1171,1264,1297,1335,1158,2199,2224,2382,2454,2755,1259,2921,2791,3067,3246,3354,3819,3918,4196,4246,4252,3293,4465,4748,5085,5435,5467,5526,5568,5616,4833,5744,3141,6068,3794,3075,3652,2510,6734,6892,7066,7325,7754,7792,1365</strui>
+  </userapplied>
+</information>

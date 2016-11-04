@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7990</id>
+      <email>nguyenduyhai99999@gmail.com</email>
+      <username/>
+      <name>Nguyễn Trọng Duy Hải</name>
+      <im>1477570555_nguye-n-tro-ng-duy-ha-i.png</im>
+      <gender>0</gender>
+      <phone>0908209054</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477570555</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ, pha chế và trưởng ca.</title>
+      <experience>1</experience>
+      <category>29</category>
+      <type>4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>giao tiếp khá</skill>
+      <ui>7990</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>348</strjo>
+  </appliedjob>
+</information>

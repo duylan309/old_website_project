@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7630</id>
+      <email>myhuyen.8797@gmail.com</email>
+      <username/>
+      <name>Trần Thị Mỹ Huyền</name>
+      <im>1477363490_tran-thi-my-huyen.png</im>
+      <gender>2</gender>
+      <phone>01665252716</phone>
+      <address>169/102/19 Ngô Tất Tố , phường 19, quận Bình Thạnh</address>
+      <city>30</city>
+      <dob>1997-7-8</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477363489</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>8</day>
+      <month>7</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7921669</lat>
+      <lng>106.709376</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục vụ , pha chế</title>
+      <experience>2</experience>
+      <category>14,15,19,31,35</category>
+      <type>2</type>
+      <level>2,5</level>
+      <lang>vi,en</lang>
+      <skill>Năng động </skill>
+      <ui>7630</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Mình là sinh viên năm 2 của trường Tôn Đức Thắng. Là người nghiêm túc và nhanh nhẹn trong công việc </about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>267</strjo>
+  </appliedjob>
+  <education>
+    <n_1241>
+      <id>1241</id>
+      <school>Tôn Đức Thắng</school>
+      <degrees>Đã tốt nghiệp THPT</degrees>
+      <fieldofstudy>Lập trình</fieldofstudy>
+      <from>2015</from>
+      <to>2016</to>
+    </n_1241>
+  </education>
+  <experience>
+    <n_1492>
+      <id>1492</id>
+      <title>Phục vụ</title>
+      <level>1</level>
+      <cmpname>Mr8</cmpname>
+      <city>HCM</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>2015</to>
+    </n_1492>
+  </experience>
+</information>

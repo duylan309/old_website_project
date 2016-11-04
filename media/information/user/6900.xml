@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6900</id>
+      <email>zzgenjizz@yahoo.com</email>
+      <username/>
+      <name>La Bao Quang</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0903878371</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476933840</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>phu bep</title>
+      <experience>2</experience>
+      <category>14</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>thot+nuong  va cac vi tri lien quan den phu bep</skill>
+      <ui>6900</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>388</strjo>
+  </appliedjob>
+</information>

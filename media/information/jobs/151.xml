@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>151</id>
+    <ui>377</ui>
+    <ci>236</ci>
+    <ai>0</ai>
+    <ti>Nhân viên phục vụ</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>2</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>5500000</s1>
+    <s2>6500000</s2>
+    <s3>250</s3>
+    <s4>295</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>en</la>
+    <description>- Ca làm việc: 7.00-15.00 hoặc 15.00-23.00\r\n- Nhận order từ khách và chăm sóc khách tốt suốt service\r\n- Hoàn thành các công việc được giao trong ngày\r\n- Lưu ý: không nhận PART-TIME</description>
+    <requirement>- Giao tiếp tiếng Anh tốt (phải có)\r\n- Có kinh nghiệm phục vụ nhà hàng ăn uống ít nhất 1 năm \r\n- Nhanh nhẹn, chịu học hỏi và làm việc dưới áp lực cao tốt\r\n- Có tinh thần làm việc nhóm, hoà đồng, thân thiện</requirement>
+    <benefit>- Tăng ca x1.5\r\n- Đi làm vào các ngày lễ, lương x2\r\n- 1 bữa cơm/ ca làm\r\n- Có bãi giữ xe miễn phí cho nhân viên\r\n- 1 ngày nghỉ/ tuần</benefit>
+    <keyword/>
+    <ad/>
+    <location_id>46</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-09-29</de>
+    <re>0000-00-00</re>
+    <cr>1473142935</cr>
+  </db>
+  <more>
+    <requirement>- Giao tiếp tiếng Anh tốt (phải có)&#13;
+- Có kinh nghiệm phục vụ nhà hàng ăn uống ít nhất 1 năm &#13;
+- Nhanh nhẹn, chịu học hỏi và làm việc dưới áp lực cao tốt&#13;
+- Có tinh thần làm việc nhóm, hoà đồng, thân thiện</requirement>
+    <description>- Ca làm việc: 7.00-15.00 hoặc 15.00-23.00&#13;
+- Nhận order từ khách và chăm sóc khách tốt suốt service&#13;
+- Hoàn thành các công việc được giao trong ngày&#13;
+- Lưu ý: không nhận PART-TIME</description>
+    <benefit>- Tăng ca x1.5&#13;
+- Đi làm vào các ngày lễ, lương x2&#13;
+- 1 bữa cơm/ ca làm&#13;
+- Có bãi giữ xe miễn phí cho nhân viên&#13;
+- 1 ngày nghỉ/ tuần</benefit>
+    <keyword/>
+  </more>
+  <userapplied>
+    <total>48</total>
+    <strui>798,827,847,849,901,908,941,1005,1220,292,1302,878,626,1499,1567,1584,1661,1648,1866,1881,1972,2206,2199,2293,2518,2546,2772,2790,2786,2921,1480,3041,3091,2279,3177,3120,3354,3721,3808,3901,3866,3957,4246,3075,4874,4892,4865,4724</strui>
+  </userapplied>
+</information>

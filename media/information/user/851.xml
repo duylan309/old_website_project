@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>851</id>
+      <email>L.tank8850@gmail.com</email>
+      <username/>
+      <name>Nguyễn Hoàng Thu Trúc</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0934763235</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471278850</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế</title>
+      <experience>3</experience>
+      <category>15</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Quản Lý nhà hàng , chăm sóc khách hàng . </skill>
+      <ui>851</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>126</strjo>
+  </appliedjob>
+</information>

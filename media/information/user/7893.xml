@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7893</id>
+      <email>shinnyvy1994@gmail.com</email>
+      <username/>
+      <name>Trần Thanh Vy</name>
+      <im>1712305749089995_tran-thanh-vy.jpg</im>
+      <gender>2</gender>
+      <dob>1994-2-20</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477531709</created>
+      <day>20</day>
+      <month>2</month>
+      <year>1994</year>
+      <phone>0993007331</phone>
+      <address>11/31 trần văn đang phường 9 quận 3</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.784849</lat>
+      <lng>106.672148</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>7893</ui>
+      <title>Phục vụ</title>
+      <experience>2</experience>
+      <category>15</category>
+      <type>2,5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>15000</s1>
+      <salary>1</salary>
+      <about>Vui vẻ hòa đồng giờ rảnh từ 17g đến 23h</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>107</strjo>
+  </appliedjob>
+</information>

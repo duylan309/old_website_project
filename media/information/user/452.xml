@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>452</id>
+      <email>Lbenny1510@gmail.com</email>
+      <username/>
+      <name>Trần Thuỵ Lê Vi</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0902971495</phone>
+      <address>149A lê đại hành phường 6 quận 11 hcm</address>
+      <city>30</city>
+      <dob>1998-1-7</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470139561</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>7</day>
+      <month>1</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.761765</lat>
+      <lng>106.657224</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>452</ui>
+      <title>nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,17,18,19,20,26,27,28,29,31,35,36</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>105</strjo>
+  </appliedjob>
+</information>

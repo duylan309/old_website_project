@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4726</id>
+      <email>anancipi@gmail.com</email>
+      <username/>
+      <name>Đặng Thị An</name>
+      <im>1475469367_dang-thi-an.png</im>
+      <gender>2</gender>
+      <phone>01267406460</phone>
+      <address>149/7, Bành Văn Trân, phường 7, quận Tân Bình</address>
+      <city></city>
+      <dob>1996-7-12</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475469367</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>12</day>
+      <month>7</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng, phục vụ</title>
+      <experience>1</experience>
+      <category>31,35</category>
+      <type>5,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>word, exel, powerpoint</skill>
+      <ui>4726</ui>
+      <s1>3000</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>205</strjo>
+  </appliedjob>
+</information>

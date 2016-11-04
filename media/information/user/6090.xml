@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6090</id>
+      <email>thaivominhlam24@gmail.com</email>
+      <username/>
+      <name>Minh Lắm</name>
+      <im>1864676567095099_minh-lam.jpg</im>
+      <gender>2</gender>
+      <dob>1996-4-2</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476372074</created>
+      <day>2</day>
+      <month>4</month>
+      <year>1996</year>
+      <phone>01693322550</phone>
+      <address>Bùi Đình Túy, quận Bình Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8078136</lat>
+      <lng>106.7034645</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6090</ui>
+      <title>Nhân viên phục vụ, nhân viên bán hàng,...</title>
+      <experience>7</experience>
+      <category>15,17,27,29,35</category>
+      <type>2,3,4,5,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Sinh viên năm 3 đại học Hutech.&#13;
+Năng động, tư duy sống tích cực.&#13;
+Ham tìm tòi, học hỏi.</about>
+      <skill>Giao tiếp&#13;
+Làm việc nhóm </skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <savedjob>
+    <total>1</total>
+    <strjo>215</strjo>
+  </savedjob>
+  <appliedjob>
+    <total>2</total>
+    <strjo>215,165</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5369</id>
+      <email>kimngan.12121996@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Kim Ngân</name>
+      <im>5369_fb-img-1475080912999.jpg</im>
+      <gender>2</gender>
+      <phone>01208644309</phone>
+      <address>105/2, Phan Văn Trị, Phường 10, Quận Gò Vấp</address>
+      <city>30</city>
+      <dob>1996-12-12</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475931016</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1475931016</last_signin>
+      <day>12</day>
+      <month>12</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8243842</lat>
+      <lng>106.6912673</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>5369</ui>
+      <title>Bán hàng,Telesales,Thu ngân</title>
+      <experience>2</experience>
+      <category>17,29,31,35</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Hòa đồng, vui vẻ, chịu khó, khả năng chịu được áp lực công việc, thích làm việc theo nhóm để mang lại hiệu quả cao và tạo sự thân thiện trong môi trường làm việc. Mong muốn học hỏi thêm nhiều lĩnh vực và trải nghiệm công việc.</about>
+      <skill>Vi tính căn bản và các chuyên môn về nghệ thuật, handmade</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <experience>
+    <n_1103>
+      <id>1103</id>
+      <title>Lao động phổ thông</title>
+      <level>1</level>
+      <cmpname>Công ty TNHH Hạnh Đan</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>8/2014</from>
+      <to>6/2015</to>
+    </n_1103>
+    <n_1104>
+      <id>1104</id>
+      <title>Sales Assistand</title>
+      <level>1</level>
+      <cmpname>Công ty TNHH Một thành viên Thương Mại Bách Thịnh</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>7/2015</from>
+      <to>9/2016</to>
+    </n_1104>
+    <n_1105>
+      <id>1105</id>
+      <title>Tư vấn bán hàng online tại cửa hàng ( Partime )</title>
+      <level>1</level>
+      <cmpname>Tòa nhà Sunrise City Quận 7</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>7/2016</from>
+      <to>9/2016</to>
+    </n_1105>
+  </experience>
+  <education>
+    <n_893>
+      <id>893</id>
+      <school>Trung tâm Giáo Dục Thường Xuyên quận Gò Vấp</school>
+      <degrees>Trung học phổ thông</degrees>
+      <fieldofstudy/>
+      <from>2011</from>
+      <to>2014</to>
+    </n_893>
+  </education>
+  <appliedjob>
+    <total>1</total>
+    <strjo>322</strjo>
+  </appliedjob>
+</information>

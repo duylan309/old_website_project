@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3146</id>
+      <email>banhgausua2908@gmail.com</email>
+      <username/>
+      <name>Huỳnh Ngọc Diễm Trang</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01287041648</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474345770</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng</title>
+      <experience>3</experience>
+      <category>35</category>
+      <type>4,5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>3146</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>268</strjo>
+  </appliedjob>
+</information>

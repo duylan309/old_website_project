@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6399</id>
+      <email>monlinh9832@gmail.com</email>
+      <username/>
+      <name>Lê Thị Thùy Linh</name>
+      <im>6399_tep-000.jpeg</im>
+      <gender>2</gender>
+      <phone>0966893709</phone>
+      <address>232/71 Lý Thường Kiệt,p14</address>
+      <city>30</city>
+      <dob>1998-9-27</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476539122</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476539122</last_signin>
+      <day>27</day>
+      <month>9</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.779381</lat>
+      <lng>106.655403</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1290>
+      <id>1290</id>
+      <title>nhân viên</title>
+      <level>1</level>
+      <cmpname>bánh mỳ ô long</cmpname>
+      <city>Ha Noi</city>
+      <country>Vietnam</country>
+      <from>5/2016</from>
+      <to>9/2016</to>
+    </n_1290>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>6399</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>1</experience>
+      <category>14,15,17,20,29,31,35</category>
+      <type>2,5,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>em là sinh viên ngành quản trị khách sạn nhà hàng, từng làm việc ở một số nhà hàng ở hà nội. Hiện tại em đnag là sinh viên năm nhất và có nhiều thời gian rảnh rỗi. Mong muốn có nhiều kinh nghiệm hơn phục vụ công việc sau này và kiếm thêm thu nhập.</about>
+      <skill>giao tiếp và làm việc nhóm</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>12</total>
+    <strjo>427,219,371,434,165,419,372,262,459,267,518,487</strjo>
+  </appliedjob>
+</information>

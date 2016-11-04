@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5779</id>
+      <email>Phannguyenthuyvy.24@gmail.com</email>
+      <username/>
+      <name>Phan Nguyễn Thuý Vy</name>
+      <im>5779_image.jpg</im>
+      <gender>2</gender>
+      <phone>01272307840</phone>
+      <address>389 Nguyễn Trãi, quận 1 </address>
+      <city>30</city>
+      <dob>1995-2-24</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476184450</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476184450</last_signin>
+      <day>24</day>
+      <month>2</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.759455</lat>
+      <lng>106.684368</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>5779</ui>
+      <title>Nhân viên phục vụ,</title>
+      <experience>7</experience>
+      <category>14,15,17,20,26,27,28,29,30,31,35,36</category>
+      <type>2,3,4,5</type>
+      <level>1,3</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Sinh viên năm cuối của trường đại học Kinh tế TP HCM. Có khả năng giao tiếp tiếng Anh, hoà đồng, năng nổ, đúng giờ.</about>
+      <skill>Giao tiếp tốt, siêng năng, ngoại hình ổn.</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>412,162,419</strjo>
+  </appliedjob>
+</information>

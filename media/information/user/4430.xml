@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4430</id>
+      <email>nguyenkhucanhminh@gmail.com</email>
+      <username/>
+      <name>Nguyễn Khúc Anh Minh</name>
+      <im>4430_images.jpg</im>
+      <gender>1</gender>
+      <dob>1995-8-14</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475146121</created>
+      <day>14</day>
+      <month>8</month>
+      <year>1995</year>
+      <last_signin>1475146121</last_signin>
+      <phone>0987250517</phone>
+      <address>273/79/8 Nguyễn Văn Đậu, P11, Quận Bình Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.808595</lat>
+      <lng>106.688077</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_935>
+      <id>935</id>
+      <title>Nhân Viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Nhà Hàng Dìn Ký</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2013</from>
+      <to>2014</to>
+    </n_935>
+    <n_936>
+      <id>936</id>
+      <title>Nhân Viên bán hàng</title>
+      <level>1</level>
+      <cmpname>Chuỗi cữa hàng tiện lợi B’s Mart</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>2015</to>
+    </n_936>
+    <n_937>
+      <id>937</id>
+      <title>Trợ Giảng</title>
+      <level>1</level>
+      <cmpname>Trung tâm anh ngữ Universal</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>tháng 8 năm 2016</to>
+    </n_937>
+  </experience>
+  <education>
+    <n_730>
+      <id>730</id>
+      <school>Đại học Công Nghệ TP HCM</school>
+      <degrees>Cao Đẳng</degrees>
+      <fieldofstudy>Ngoại Ngữ</fieldofstudy>
+      <from>2013</from>
+      <to>2016</to>
+    </n_730>
+  </education>
+  <user_cv>
+    <db>
+      <ui>4430</ui>
+      <title>Nhân viên phục vụ, Nhân Viên bán hàng,</title>
+      <experience>7</experience>
+      <category>14,15,17</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Chịu khó, cần cù, siêng năng trong công việc. Có tinh thần học hỏi thêm kinh nghiệm trong suốt quá trình làm việc, cầu tiến. Hòa đồng, thân thiện, cởi mở với đồng nghiệp.</about>
+      <skill>có thể giao tiếp tốt tiếng anh</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <savedjob>
+    <total>14</total>
+    <strjo>163,349,299,107,320,151,347,362,367,351,395,465,288,390</strjo>
+  </savedjob>
+  <appliedjob>
+    <total>3</total>
+    <strjo>367,351,288</strjo>
+  </appliedjob>
+</information>

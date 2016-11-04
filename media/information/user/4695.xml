@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4695</id>
+      <email>daituong1654@gmail.com</email>
+      <username/>
+      <name>Phạm Thành Long</name>
+      <im>640127406162216_peter-long.jpg</im>
+      <gender>1</gender>
+      <dob>1996-2-1</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475422906</created>
+      <day>1</day>
+      <month>2</month>
+      <year>1996</year>
+      <phone>01259991519</phone>
+      <address>Quận 8</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7240878</lat>
+      <lng>106.6286259</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ, nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>15,29</category>
+      <type>4,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill>giao tiếp tốt, ham học hỏi</skill>
+      <ui>4695</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>7</total>
+    <strjo>302,165,268,353,340,356,253</strjo>
+  </appliedjob>
+</information>

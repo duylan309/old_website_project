@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4797</id>
+      <email>tinaphamnamtran@gmail.com</email>
+      <username/>
+      <name>Phạm Nam Trân</name>
+      <im>1475502107_pham-nam-tran.png</im>
+      <gender>0</gender>
+      <phone>01218522342</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475502107</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Siêng năng, chịu khó học hỏi, học hỏi nhanh, khoé tay, yêu thích nấu ăn.&#13;
+Khả năng giao tiếp tốt.</skill>
+      <ui>4797</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>371</strjo>
+  </appliedjob>
+</information>

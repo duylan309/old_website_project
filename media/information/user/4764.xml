@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4764</id>
+      <email>thanhtuyen.v26@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thanh Tuyền</name>
+      <im>4764_14794125-1791897881099279-415032709-n.jpg</im>
+      <gender>2</gender>
+      <dob>1996-6-2</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475485549</created>
+      <day>2</day>
+      <month>6</month>
+      <year>1996</year>
+      <phone>0932765749</phone>
+      <address>71 Đỗ Ngọc Thạnh F.14 Q.5</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7534505</lat>
+      <lng>106.6559813</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ và pha chế</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>2,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Kĩ năng phục vụ</skill>
+      <ui>4764</ui>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <about>Có trách nhiệm và tính tự giác cao trong công việc, chịu khó học hỏi và lắng nghe những góp ý, hòa đồng, dễ gần</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>371,222,312,478</strjo>
+  </appliedjob>
+  <education>
+    <n_797>
+      <id>797</id>
+      <school>Đại Học Hoa Sen</school>
+      <degrees>Đại Học</degrees>
+      <fieldofstudy>Quản trị Khách Sạn</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_797>
+  </education>
+</information>

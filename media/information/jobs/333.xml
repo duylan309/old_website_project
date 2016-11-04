@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>333</id>
+    <ui>3534</ui>
+    <ci>355</ci>
+    <ai>0</ai>
+    <ti>Nhân viên Kho</ti>
+    <ta/>
+    <le>1</le>
+    <ty>1,2</ty>
+    <ex>7</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>3500000</s1>
+    <s2>3500000</s2>
+    <s3>159</s3>
+    <s4>159</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>16,19,27</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description>-Xuất, nhập hàng, báo cáo hàng\r\n-Hướng dẫn thêm khi phỏng vấn</description>
+    <requirement>- Giao tiếp tốt, Trung Thực, nhiệt tình, chữ viết rõ ràng\r\n-Thời gian làm việc : 13H - 19H \r\n</requirement>
+    <benefit/>
+    <keyword>Giao tiếp hiệu quả,Tinh thần trách nhiệm,Nhiệt tình,Trung thực,Chịu được áp lực công việc</keyword>
+    <ad/>
+    <location_id>225</location_id>
+    <lat>10.778011</lat>
+    <lng>10.778011</lng>
+    <de>2016-10-27</de>
+    <re>0000-00-00</re>
+    <cr>1476759289</cr>
+  </db>
+  <more>
+    <requirement>- Giao tiếp tốt, Trung Thực, nhiệt tình, chữ viết rõ ràng&#13;
+-Thời gian làm việc : 13H - 19H &#13;
+</requirement>
+    <description>-Xuất, nhập hàng, báo cáo hàng&#13;
+-Hướng dẫn thêm khi phỏng vấn</description>
+    <benefit/>
+    <keyword>Giao tiếp hiệu quả,Tinh thần trách nhiệm,Nhiệt tình,Trung thực,Chịu được áp lực công việc</keyword>
+  </more>
+  <userapplied>
+    <total>19</total>
+    <strui>2332,4608,4836,4898,5064,5079,5009,4833,5424,1605,5491,940,6808,7000,7028,7101,7131,7193,7872</strui>
+  </userapplied>
+</information>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6297</id>
+      <email>ngohuutoan1304@gmail.com</email>
+      <username/>
+      <name>Ngô Hữu Toàn</name>
+      <im>1476470382_ngo-huu-toan.png</im>
+      <gender>1</gender>
+      <phone>0868613043</phone>
+      <address>21 đường 3 khu gia hòa, P. Phước Long B, Q9</address>
+      <city>30</city>
+      <dob>1995-4-13</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476470382</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>13</day>
+      <month>4</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8147076</lat>
+      <lng>106.7794935</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phụ Bếp</title>
+      <experience>7</experience>
+      <category>14,15,36</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>tiếng anh : lưu loát</skill>
+      <ui>6297</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>11</total>
+    <strjo>191,256,153,188,450,443,360,139,406,352,459</strjo>
+  </appliedjob>
+  <education>
+    <n_1044>
+      <id>1044</id>
+      <school>cao đẳng kinh tế đối ngoại</school>
+      <degrees/>
+      <fieldofstudy>tiếng anh thương mại</fieldofstudy>
+      <from>9/2014</from>
+      <to>10/2016</to>
+    </n_1044>
+  </education>
+</information>

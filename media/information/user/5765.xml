@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5765</id>
+      <email>nhokbuidoi_no1@yahoo.com.vn</email>
+      <username/>
+      <name>Trần Hoàng Tân</name>
+      <im>1476174768_tran-hoang-tan.png</im>
+      <gender>0</gender>
+      <phone>01887448848</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476174768</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Bán thời gian</title>
+      <experience>1</experience>
+      <category>14,15</category>
+      <type>2,6</type>
+      <level>1</level>
+      <lang>vi,en,ja</lang>
+      <skill/>
+      <ui>5765</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>219,222,294,105</strjo>
+  </appliedjob>
+</information>

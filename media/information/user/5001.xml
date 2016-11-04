@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5001</id>
+      <email>tran.thithanh2312@gmail.com</email>
+      <username/>
+      <name>Trần Thị Thanh</name>
+      <im/>
+      <gender>0</gender>
+      <phone>090243225</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475642287</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên thu ngân</title>
+      <experience>1</experience>
+      <category>14,15</category>
+      <type>4</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>5001</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>107</strjo>
+  </appliedjob>
+  <education>
+    <n_833>
+      <id>833</id>
+      <school>Đại học Hoa Sen</school>
+      <degrees></degrees>
+      <fieldofstudy>Kế toán </fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_833>
+  </education>
+</information>

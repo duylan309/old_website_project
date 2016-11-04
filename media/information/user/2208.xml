@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2208</id>
+      <email>duytuan2390@gmail.com</email>
+      <username/>
+      <name>Trần Nguyễn Duy Tuấn</name>
+      <im>303413206702485_tran-nguyen-duy-tuan.jpg</im>
+      <gender>1</gender>
+      <dob>1998-6-26</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473307448</created>
+      <day>26</day>
+      <month>6</month>
+      <year>1998</year>
+      <phone>01627613794</phone>
+      <address>8 đường 17</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.77647</lat>
+      <lng>106.61527</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>kỹ năng giao tiếp tiếng anh, kỹ năng làm việc nhóm </skill>
+      <ui>2208</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Em tên là Trần Nguyễn Duy Tuấn, đang là sinh viên năm nhất của trường đại học FPT ngành Công Nghệ Thông Tin. Hiện tại do nhu cầu cá nhân em đang cần kiếm 1 việc làm thêm. Em có những kĩ năng có thể giúp ích cho công việc. Em xin chào !</about>
+      <keyword>Giao tiếp hiệu quả,Tinh thần trách nhiệm,Kỹ năng giải quyết tình huống,Chịu được áp lực công việc,Tự tin,Trung thực</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>11</total>
+    <strjo>219,234,201,183,162,240,170,150,105,221,130</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>3</total>
+    <strjo>219,201,162</strjo>
+  </savedjob>
+  <experience>
+    <n_488>
+      <id>488</id>
+      <title>Developer</title>
+      <level>1</level>
+      <cmpname>INSPICorporation</cmpname>
+      <city>Hồ chí minh</city>
+      <country>Việt nam</country>
+      <from>Tháng 6/2015</from>
+      <to>Tháng 8/2016</to>
+    </n_488>
+    <n_491>
+      <id>491</id>
+      <title>Nhân viên</title>
+      <level>1</level>
+      <cmpname>Jolibee</cmpname>
+      <city>Hồ chí minh</city>
+      <country>Việt Nam</country>
+      <from>9/2015</from>
+      <to>4/2016</to>
+    </n_491>
+  </experience>
+</information>

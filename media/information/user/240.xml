@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>240</id>
+      <email>lan@thue.today</email>
+      <username/>
+      <name>Thuê</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01267543789</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>3</status>
+      <created>1467520459</created>
+      <dayleft>1504011717</dayleft>
+      <page>5</page>
+      <deactive>1</deactive>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <is_received_email>0</is_received_email>
+      <jobleft>0</jobleft>
+    </db>
+    <password>
+      <lastupdate>1475829913</lastupdate>
+    </password>
+  </userinfo>
+  <totalJob>
+    <total>10</total>
+    <strji>81,407,94,102,103,118,325,549,548,547</strji>
+  </totalJob>
+  <saveuser>
+    <total>17</total>
+    <strui>125,259,299,303,338,484,486,487,488,490,492,493,494,495,547,1760,5329</strui>
+  </saveuser>
+</information>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3133</id>
+      <email>tintran.st@gmail.com</email>
+      <username/>
+      <name>Tin Tran</name>
+      <im>3133_img-6950.JPG</im>
+      <gender>1</gender>
+      <dob>1994-5-22</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474338621</created>
+      <day>22</day>
+      <month>5</month>
+      <year>1994</year>
+      <phone>01223704886</phone>
+      <address>116/75 Tô Hiến Thành, quận 10, thành phố Hồ Chí Minh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7813009</lat>
+      <lng>106.669708</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, bán hàng, chăm sóc khách hàng</title>
+      <experience>2</experience>
+      <category>14,15,19,29,30,31,35</category>
+      <type>2,4,5,6</type>
+      <level>2,4</level>
+      <lang>vi,en</lang>
+      <skill>Có khả năng giao tiếp, trao đổi&#13;
+Có thể làm việc độc lập hoặc nhóm&#13;
+Có ý chí cầu tiến</skill>
+      <ui>3133</ui>
+      <s1>7000000</s1>
+      <salary>1</salary>
+      <about>Vui vẻ, hoà đồng&#13;
+Làm việc có trách nhiệm&#13;
+Có thể làm việc độc lập hoặc nhóm</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>219,211,196,202</strjo>
+  </appliedjob>
+  <experience>
+    <n_694>
+      <id>694</id>
+      <title>Tổ Trưởng Phục Vụ</title>
+      <level>1</level>
+      <cmpname>ZIMA IKLUB</cmpname>
+      <city>Nha Trang</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>2015</to>
+    </n_694>
+    <n_695>
+      <id>695</id>
+      <title>Nhân viên trợ lý</title>
+      <level>1</level>
+      <cmpname>Greenstar Entertaiment &amp; Production</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2012</from>
+      <to>2014</to>
+    </n_695>
+    <n_696>
+      <id>696</id>
+      <title>2016</title>
+      <level>1</level>
+      <cmpname>ÂN NAM GOURMET</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2016</from>
+      <to>2016</to>
+    </n_696>
+  </experience>
+</information>

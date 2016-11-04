@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3136</id>
+      <email>huyduc273@gmail.com</email>
+      <username/>
+      <name>Hà Ngọc Huy Đức</name>
+      <im>1474342252_ha-ngoc-huy-duc.png</im>
+      <gender>1</gender>
+      <phone>01222120421</phone>
+      <address>02 Vũ Huy Tấn, Quận Bình Thạnh, TP Hồ Chí Minh.</address>
+      <city>30</city>
+      <dob>1998-3-27</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474342252</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>27</day>
+      <month>3</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.795767</lat>
+      <lng>106.6953897</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên Phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,16,18,19,20</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Tiếng Anh giao tiếp căn bản, Kĩ năng phục vụ khách hàng,..</skill>
+      <ui>3136</ui>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <about>Có kinh nghiệm làm việc tại Bar&amp;Food cho khách nước ngoài, yêu thích công việc liên quan đến Tiếng Anh về giao tiếp, thích làm việc trong môi trường năng động, vui vẻ hòa đồng với mọi người, dễ gần và thích nghi nhanh.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>202,294,199,172</strjo>
+  </appliedjob>
+  <experience>
+    <n_698>
+      <id>698</id>
+      <title>Waiter</title>
+      <level>1</level>
+      <cmpname>NamuNamu</cmpname>
+      <city>Đà Nẵng</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_698>
+  </experience>
+  <education>
+    <n_514>
+      <id>514</id>
+      <school>THPT Ngũ Hành Sơn</school>
+      <degrees>Bằng tốt nghiệp THPT</degrees>
+      <fieldofstudy/>
+      <from>2013</from>
+      <to>2016</to>
+    </n_514>
+  </education>
+</information>

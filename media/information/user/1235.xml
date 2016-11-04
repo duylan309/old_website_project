@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1235</id>
+      <email>bichphuongnobuta@gmail.com</email>
+      <username/>
+      <name>Đặng Thị Bích Phương</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01692126410</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471966637</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>2,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Nhanh nhẹn, giao tiếp tốt</skill>
+      <ui>1235</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>93</strjo>
+  </appliedjob>
+</information>

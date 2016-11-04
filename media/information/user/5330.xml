@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5330</id>
+      <email>bichchi2112@gmail.com</email>
+      <username/>
+      <name>Nguyễn thị Bích Chi</name>
+      <im>5330_13939464-1834904500087373-1473948484578361327-n.jpg</im>
+      <gender>2</gender>
+      <phone>01634279148</phone>
+      <address>Phạm hữu lầu quận 7 thành phố hồ chí minh</address>
+      <city>30</city>
+      <dob>1996-12-21</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475908318</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>21</day>
+      <month>12</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7048998</lat>
+      <lng>106.7352648</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill></skill>
+      <ui>5330</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Em là Nguyễn thị Bích Chi hiện đang là sinh viên năm 3 của trường đại học tài chính marketing. Em đang theo học ngành quản trị nhà hàng nên muốn đi làm thêm để trau dồi kinh nghiệm cũng như tiếp xúc với nhiều người nước ngoài để nâng cao tiếng anh của mình. Mong a/c cho e 1 cơ hội để được  làm việc chung ạ.. e cảm ơn a/c nhiều !</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>273</strjo>
+  </appliedjob>
+  <experience>
+    <n_1094>
+      <id>1094</id>
+      <title>phục vụ</title>
+      <level>1</level>
+      <cmpname>nhà hàng adora. khách sạn nikko</cmpname>
+      <city>hồ chí minh</city>
+      <country>việt nam</country>
+      <from>bình định</from>
+      <to>tp. hồ chí minh</to>
+    </n_1094>
+  </experience>
+  <education>
+    <n_886>
+      <id>886</id>
+      <school>đại học tài chính marketing</school>
+      <degrees>đang là sinh viên năm 3</degrees>
+      <fieldofstudy>quản trị nhà hàng</fieldofstudy>
+      <from>2014</from>
+      <to>2016</to>
+    </n_886>
+  </education>
+</information>

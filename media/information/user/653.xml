@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>653</id>
+      <email>huynhminhtri0000@gmail.com</email>
+      <username/>
+      <name>Huỳnh Minh Trí</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0936015200</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470742493</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán thời gian</title>
+      <experience>7</experience>
+      <category>14,15,31</category>
+      <type>2</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>653</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>92,69,127</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6313</id>
+      <email>haankysea@yahoo.com</email>
+      <username/>
+      <name>An Kỳ</name>
+      <im>148552432272534_an-ky.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>1</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476495930</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+      <last_signin>1476495930</last_signin>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6313</ui>
+      <deactive>1</deactive>
+    </db>
+  </user_cv>
+</information>

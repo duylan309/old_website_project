@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>241</id>
+    <ui>1996</ui>
+    <ci>310</ci>
+    <ai>0</ai>
+    <ti>Nhân viên phục vụ</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>3000000</s1>
+    <s2>4000000</s2>
+    <s3>136</s3>
+    <s4>181</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14,16,19</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description>Vào ca đúng giờ theo quy định và dọn dẹp khu vực làm việc.\r\nCa sáng từ 8:00 đến 16:00, ca chiều 16:00 đến 24:00.\r\nNắm vững kiến thức menu, nhận order từ khách hàng.\r\nPhục vụ thức ăn thức uống cho khách theo sự phân công của trưởng ca.\r\n</description>
+    <requirement>Năng động, hoạt bát, có tinh thần trách nhiệm cao,\r\nCó khả năng quan sát tốt, thân thiện, hoà động, có thể làm việc nhóm.\r\nTiếng anh giao tiếp cơ bản.\r\n</requirement>
+    <benefit>Lương thưởng hấp dẫn + tips trên 1 triệu/ tháng.\r\nBao cơm 1 buổi/ ca làm việc.\r\nCó bãi giử xe riêng không tốn phí gửi xe.\r\n1 tuần được nghỉ 1 ngày.\r\nCác chế độ khác theo luật quy định.\r\nMôi trường năng động, cơ hội trao dồi tiếng anh hiệu quả.</benefit>
+    <keyword>tuyển phục vụ,Tinh thần làm việc nhóm,Tinh thần trách nhiệm,Kỹ năng chăm sóc khách hàng,Giao tiếp hiệu quả,Trung thực,Tự tin,Nhiệt tình</keyword>
+    <ad/>
+    <location_id>141</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-06</de>
+    <re>0000-00-00</re>
+    <cr>1473296984</cr>
+  </db>
+  <more>
+    <requirement>Năng động, hoạt bát, có tinh thần trách nhiệm cao,&#13;
+Có khả năng quan sát tốt, thân thiện, hoà động, có thể làm việc nhóm.&#13;
+Tiếng anh giao tiếp cơ bản.&#13;
+</requirement>
+    <description>Vào ca đúng giờ theo quy định và dọn dẹp khu vực làm việc.&#13;
+Ca sáng từ 8:00 đến 16:00, ca chiều 16:00 đến 24:00.&#13;
+Nắm vững kiến thức menu, nhận order từ khách hàng.&#13;
+Phục vụ thức ăn thức uống cho khách theo sự phân công của trưởng ca.&#13;
+</description>
+    <benefit>Lương thưởng hấp dẫn + tips trên 1 triệu/ tháng.&#13;
+Bao cơm 1 buổi/ ca làm việc.&#13;
+Có bãi giử xe riêng không tốn phí gửi xe.&#13;
+1 tuần được nghỉ 1 ngày.&#13;
+Các chế độ khác theo luật quy định.&#13;
+Môi trường năng động, cơ hội trao dồi tiếng anh hiệu quả.</benefit>
+    <keyword>tuyển phục vụ,Tinh thần làm việc nhóm,Tinh thần trách nhiệm,Kỹ năng chăm sóc khách hàng,Giao tiếp hiệu quả,Trung thực,Tự tin,Nhiệt tình</keyword>
+  </more>
+  <userapplied>
+    <total>17</total>
+    <strui>2097,1802,1733,2550,2902,2910,3355,4177,4363,4402,4580,4724,1605,2786,6061,6725,6359</strui>
+  </userapplied>
+</information>

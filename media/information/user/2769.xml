@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2769</id>
+      <email>inlovewithcoco96@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thành Thông</name>
+      <im/>
+      <gender>0</gender>
+      <phone/>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473874887</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1473874887</last_signin>
+    </db>
+  </userinfo>
+  <experience>
+    <n_620>
+      <id>620</id>
+      <title>Crew member</title>
+      <level>1</level>
+      <cmpname>KFC</cmpname>
+      <city>TPHCM</city>
+      <country>Việt Nam</country>
+      <from>10/2015</from>
+      <to>04/2016</to>
+    </n_620>
+  </experience>
+  <education>
+    <n_447>
+      <id>447</id>
+      <school>Đh Công nghệ TPHCM</school>
+      <degrees></degrees>
+      <fieldofstudy>Ngôn ngữ Anh</fieldofstudy>
+      <from>2014</from>
+      <to>Bây giờ</to>
+    </n_447>
+  </education>
+</information>

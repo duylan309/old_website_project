@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5186</id>
+      <email>mainguyen190995@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Thanh Mai</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0938378624</phone>
+      <address>239/26 Trần Văn Đang phường 11 quận 3 </address>
+      <city/>
+      <dob>1995-9-19</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475772321</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>19</day>
+      <month>9</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên pha chế</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>en</lang>
+      <skill>Có kinh nghiệm pha chế.&#13;
+Là nhân viên có trách nhiệm trong công việc. &#13;
+Ham học hỏi và tiếp thu nhanh nhằm giúp công việc hiệu quả hơn.&#13;
+Có khả năng giao tiếp tiếng Anh.</skill>
+      <ui>5186</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Tôi là một người ham mê học hỏi, luôn mong muốn làm việc trong một môi trường năng động. Là một người có trách nhiệm tôi luôn cố gắng hêt sức để hoàn thành công việc một cách toàn diện nhất.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>201,69,312</strjo>
+  </appliedjob>
+  <experience>
+    <n_1058>
+      <id>1058</id>
+      <title>Barista</title>
+      <level>1</level>
+      <cmpname>Red Code coffee</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>12/2013</from>
+      <to>10/2014</to>
+    </n_1058>
+    <n_1059>
+      <id>1059</id>
+      <title>Phục vụ</title>
+      <level>1</level>
+      <cmpname>Shunkato restaurant</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>11/2014</from>
+      <to>05/2015</to>
+    </n_1059>
+  </experience>
+  <education>
+    <n_852>
+      <id>852</id>
+      <school>Đại học Mở</school>
+      <degrees/>
+      <fieldofstudy>Tiếng Nhật </fieldofstudy>
+      <from>2013</from>
+      <to>Nay</to>
+    </n_852>
+  </education>
+  <savedjob/>
+</information>

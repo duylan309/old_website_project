@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5389</id>
+      <email>tran060397@gmail.com</email>
+      <username/>
+      <name>Bảo Trân</name>
+      <im>2133374553553410_bao-tran.jpg</im>
+      <gender>2</gender>
+      <dob>1997-3-6</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475940303</created>
+      <day>6</day>
+      <month>3</month>
+      <year>1997</year>
+      <last_signin>1475940303</last_signin>
+      <phone>01692362981</phone>
+      <address>12 nguyễn văn bảo, phường 4, quận gò vấp</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8217818</lat>
+      <lng>106.6870713</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>5389</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>6</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Tôi là sinh viên năm hai của trường Đại Học Công Nghiệp thành phố Hồ Chí Minh với mong muốn cuả mình là kiếm được một công việc nào đó để có thể rèn thêm kĩ năng khác cuả mình , tôi sẽ chăm chỉ và cố gắng trong công việc</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>267</strjo>
+  </appliedjob>
+</information>

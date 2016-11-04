@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5398</id>
+      <email>truongpqui@gmail.com</email>
+      <username/>
+      <name>Quí Trương</name>
+      <im>5398_15n-2935-0909244763.jpg</im>
+      <gender>1</gender>
+      <dob>1990-1-1</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475942960</created>
+      <day>1</day>
+      <month>1</month>
+      <year>1990</year>
+      <last_signin>1475942960</last_signin>
+      <phone>0934547744</phone>
+      <address>45/9/28 bình tiên phường 7 quận 6</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7407186</lat>
+      <lng>106.6431928</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1112>
+      <id>1112</id>
+      <title>Captain bartender</title>
+      <level>1</level>
+      <cmpname>Bernie’s bar Irish Pub</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt nam</country>
+      <from>03/2013</from>
+      <to>01/2015</to>
+    </n_1112>
+    <n_1113>
+      <id>1113</id>
+      <title>Captain bartender</title>
+      <level>1</level>
+      <cmpname>Hoàng Yến Buffet Premier</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt nam</country>
+      <from>11/2012</from>
+      <to>02/2013</to>
+    </n_1113>
+    <n_1114>
+      <id>1114</id>
+      <title>Bartender</title>
+      <level>1</level>
+      <cmpname>BoatHouse Restaurant</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt nam</country>
+      <from>06/2012</from>
+      <to>10/2012</to>
+    </n_1114>
+    <n_1115>
+      <id>1115</id>
+      <title>Bartender</title>
+      <level>1</level>
+      <cmpname>Trung Nguyên Coffee</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt nam</country>
+      <from>10/2011</from>
+      <to>05/2012</to>
+    </n_1115>
+  </experience>
+  <education>
+    <n_898>
+      <id>898</id>
+      <school>Vietnam Autralia Advanced College Of Hotel Management</school>
+      <degrees>Bartender Skill</degrees>
+      <fieldofstudy>Bartender</fieldofstudy>
+      <from>08/2012</from>
+      <to>10/2012</to>
+    </n_898>
+    <n_899>
+      <id>899</id>
+      <school>Vietnamse American Training College</school>
+      <degrees>university degree</degrees>
+      <fieldofstudy>International Technology</fieldofstudy>
+      <from>2008</from>
+      <to>2011</to>
+    </n_899>
+  </education>
+  <user_cv>
+    <db>
+      <ui>5398</ui>
+      <title>Bartender</title>
+      <experience>5</experience>
+      <category>14,16</category>
+      <type>4</type>
+      <level>4</level>
+      <lang>vi,en</lang>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>341,93,332</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3212</id>
+      <email>Thanhtrieu.stu@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thanh Triều</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01666699181</phone>
+      <address>769/28F phạm thế hiển , phường 4 , quận 8</address>
+      <city>30</city>
+      <dob>1990-9-10</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474397649</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>10</day>
+      <month>9</month>
+      <year>1990</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7437349</lat>
+      <lng>106.674739</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Chịu khó học hỏi&#13;
+Nhanh nhẹn và cẩn thận </skill>
+      <ui>3212</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>250,222,294,106</strjo>
+  </appliedjob>
+  <experience>
+    <n_714>
+      <id>714</id>
+      <title>Nhân viên pha chế, nhân viên sản xuất mỳ</title>
+      <level>1</level>
+      <cmpname>Nhà hàng gà nướng pháp, công ty ishikura</cmpname>
+      <city>Hồ chí minh</city>
+      <country>Việt nam</country>
+      <from>2013,</from>
+      <to>2015</to>
+    </n_714>
+  </experience>
+  <education>
+    <n_528>
+      <id>528</id>
+      <school>Đại học công nghệ sài gòn</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Công nghệ thực phẩm</fieldofstudy>
+      <from>2008</from>
+      <to>2014</to>
+    </n_528>
+  </education>
+</information>

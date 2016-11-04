@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1241</id>
+      <email>thucao1224@gmail.com</email>
+      <username/>
+      <name>Cao Anh Thư</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0936661224</phone>
+      <address>383 - 385 Lê Đại Hành, phường 11, quận 11</address>
+      <city>30</city>
+      <dob>1991-1-1</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471974363</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <day>1</day>
+      <month>1</month>
+      <year>1991</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.766852</lat>
+      <lng>106.653203</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_198>
+      <id>198</id>
+      <school>Đại học quốc gia</school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy>Quản trị kinh doanh</fieldofstudy>
+      <from>2009</from>
+      <to>2013</to>
+    </n_198>
+  </education>
+  <experience>
+    <n_286>
+      <id>286</id>
+      <title>Trợ lý</title>
+      <level>1</level>
+      <cmpname>38 Degree Flower</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2012</from>
+      <to>2014</to>
+    </n_286>
+    <n_287>
+      <id>287</id>
+      <title>Nhân viên tư vấn sản phẩm</title>
+      <level>1</level>
+      <cmpname>Cửa hàng mỹ phẩm Sino</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>2016</to>
+    </n_287>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>1241</ui>
+      <title>Nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>26,29,30</category>
+      <type>1,2,4,6</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <skill></skill>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Chịu được áp lực công việc,Nhiệt tình</keyword>
+    </db>
+  </user_cv>
+</information>

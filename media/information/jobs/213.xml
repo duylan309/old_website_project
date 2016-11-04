@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>213</id>
+    <ui>287</ui>
+    <ci>220</ci>
+    <ai>0</ai>
+    <ti>Waiter</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>4000000</s1>
+    <s2>5000000</s2>
+    <s3>181</s3>
+    <s4>227</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>20</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description>- Phục vụ khách tại khách sạn \r\n- Làm đúng quy cách và phong cách phục vụ của nhà hàng. \r\n- Lấy order từ khách hàng, \r\n- Giới thiệu khách hàng các món ăn và đồ uống cho khách hàng \r\n- Phục vụ khách hàng đồ ăn và uống. \r\n- Kiểm tra các món ăn trước khi phục vụ khách \r\n- Dọn dẹp bàn ăn và thay đồ mới cho khách \r\n- Sẵn sàng trả lời và giải đáp mọi thắc mắc của khách hàng \r\n- Ghi nhận thông tin order từ khách hàng phải rõ ràng, chính xác món ăn, số lượng, đơn vị tính.. \r\n- Quản lý các công cụ làm việc của nhà hàng: Bàn ghế, ly tách, dụng cụ làm việc và các vật dụng có liên quan \r\n- Vệ sinh khu vực làm việc sạch sẽ\r\n- Chi tiết công việc sẽ trao đổi cụ thể khi phỏng vấn</description>
+    <requirement>- Ngoại hình ưa nhìn. \r\n-. Nam cao từ 1m65 trở lên\r\n- Tiếng Anh giao tiếp tốt</requirement>
+    <benefit>- Lương, thưởng hấp dẫn: căn cứ theo hiệu quả SXKD và các đóng góp cá nhân cho công ty;\r\n- Được trợ cấp 1 bữa cơm ca\r\n- Môi trường làm việc chuyên nghiệp, năng động và sáng tạo cao;\r\n- Đồng nghiệp: Thân thiện, hợp tác &amp; chuyên nghiệp;\r\n- Phúc lợi: Được đóng BHXH, BHYT &amp; BHTN theo quy định của Bộ luật lao động;\r\n- Ngày nghỉ: Theo quy định Bộ Luật Lao động hiện hành</benefit>
+    <keyword/>
+    <ad/>
+    <location_id>21</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-08</de>
+    <re>0000-00-00</re>
+    <cr>1474863314</cr>
+  </db>
+  <more>
+    <requirement>- Ngoại hình ưa nhìn. &#13;
+-. Nam cao từ 1m65 trở lên&#13;
+- Tiếng Anh giao tiếp tốt</requirement>
+    <description>- Phục vụ khách tại khách sạn &#13;
+- Làm đúng quy cách và phong cách phục vụ của nhà hàng. &#13;
+- Lấy order từ khách hàng, &#13;
+- Giới thiệu khách hàng các món ăn và đồ uống cho khách hàng &#13;
+- Phục vụ khách hàng đồ ăn và uống. &#13;
+- Kiểm tra các món ăn trước khi phục vụ khách &#13;
+- Dọn dẹp bàn ăn và thay đồ mới cho khách &#13;
+- Sẵn sàng trả lời và giải đáp mọi thắc mắc của khách hàng &#13;
+- Ghi nhận thông tin order từ khách hàng phải rõ ràng, chính xác món ăn, số lượng, đơn vị tính.. &#13;
+- Quản lý các công cụ làm việc của nhà hàng: Bàn ghế, ly tách, dụng cụ làm việc và các vật dụng có liên quan &#13;
+- Vệ sinh khu vực làm việc sạch sẽ&#13;
+- Chi tiết công việc sẽ trao đổi cụ thể khi phỏng vấn</description>
+    <benefit>- Lương, thưởng hấp dẫn: căn cứ theo hiệu quả SXKD và các đóng góp cá nhân cho công ty;&#13;
+- Được trợ cấp 1 bữa cơm ca&#13;
+- Môi trường làm việc chuyên nghiệp, năng động và sáng tạo cao;&#13;
+- Đồng nghiệp: Thân thiện, hợp tác &amp; chuyên nghiệp;&#13;
+- Phúc lợi: Được đóng BHXH, BHYT &amp; BHTN theo quy định của Bộ luật lao động;&#13;
+- Ngày nghỉ: Theo quy định Bộ Luật Lao động hiện hành</benefit>
+    <keyword/>
+  </more>
+  <userapplied>
+    <total>9</total>
+    <strui>292,1726,2199,2715,4867,5544,3075,4833,6279</strui>
+  </userapplied>
+</information>

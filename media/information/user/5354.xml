@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5354</id>
+      <email>maihoang.nguyen2311@gmail.com</email>
+      <username/>
+      <name>Mai Bích Hoàng</name>
+      <im>1807560546155733_mai-bich-hoang.jpg</im>
+      <gender>2</gender>
+      <dob>1995-11-23</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475925669</created>
+      <day>23</day>
+      <month>11</month>
+      <year>1995</year>
+      <phone>01655415985</phone>
+      <address>340/14 Cây Trâm, P9, Gò Vấp</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.842754</lat>
+      <lng>106.656522</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên pha chế</title>
+      <experience>7</experience>
+      <category>15,29,31,35</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill></skill>
+      <ui>5354</ui>
+      <s1>15</s1>
+      <salary>1</salary>
+      <about>Xin Chào, Tôi tên Nguyễn Mai Bích Hoàng, hiện đang là sinh viên năm cuối trường ĐH Hutech ngành QTDV Du lịch và lữ hành. Tôi rất mong muốn tìm được 1 công việc để có thêm kinh nghiệm trong khối ngành dịch vụ. Cảm ơn! </about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>215</strjo>
+  </appliedjob>
+  <experience>
+    <n_1097>
+      <id>1097</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>B’s Mart</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>VIỆT NAM</country>
+      <from>Tháng 10.2015</from>
+      <to>Tháng 5.2016</to>
+    </n_1097>
+  </experience>
+</information>

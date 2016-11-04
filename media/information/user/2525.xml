@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2525</id>
+      <email>ngthanhthao1997@gmail.com</email>
+      <username/>
+      <name>Thanh Thảo Nguyễn</name>
+      <im>2525_img1469090871894.jpg</im>
+      <gender>2</gender>
+      <dob>1997-5-15</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473612914</created>
+      <day>15</day>
+      <month>5</month>
+      <year>1997</year>
+      <phone>01283333984</phone>
+      <address>111/11 Đinh Tiên Hoàng, p.Đakao, quận 1</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.790505</lat>
+      <lng>106.697182</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ, sale</title>
+      <experience>7</experience>
+      <category>14,15,17,29,35</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>2525</ui>
+      <s1>14</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword>Kỹ năng chăm sóc khách hàng,Tinh thần trách nhiệm,Tập trung trong công việc,Chịu được áp lực công việc,Nhiệt tình</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>14</total>
+    <strjo>221,219,158,202,238,262,172,124,105,247,267,205,215,107</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>221</strjo>
+  </savedjob>
+  <education>
+    <n_404>
+      <id>404</id>
+      <school>Đại Học Nguyễn Tất Thành</school>
+      <degrees/>
+      <fieldofstudy>Quản trị nhà hàng và dịch vụ ăn uống</fieldofstudy>
+      <from>8.2016</from>
+      <to>hiện nay</to>
+    </n_404>
+  </education>
+  <experience>
+    <n_561>
+      <id>561</id>
+      <title>nhân viên sale, cashier</title>
+      <level>1</level>
+      <cmpname>GinkGo</cmpname>
+      <city>hồ chí minh</city>
+      <country>Việt Nam</country>
+      <from>8.2016</from>
+      <to>hiện tại</to>
+    </n_561>
+  </experience>
+</information>

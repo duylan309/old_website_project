@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>111</id>
+    <ui>200</ui>
+    <ci>228</ci>
+    <ai>0</ai>
+    <ti>Bartender</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14,16</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>37</location_id>
+    <lat>10.862620</lat>
+    <lng>10.862620</lng>
+    <de>2016-10-19</de>
+    <re>0000-00-00</re>
+    <cr>1469075349</cr>
+  </db>
+  <more>
+    <requirement>- Outgoing personality&#13;
+- Communication skills&#13;
+- Ability to work well in a team</requirement>
+    <description>- Prepare alcohol or non-alcohol beverages&#13;
+- Interact with customers, take orders and serve snacks and drinks&#13;
+- Restock and replenish bar inventory and supplies&#13;
+- Stay guest focused and nurture an excellent guest experience&#13;
+</description>
+    <benefit>- Minimum 8 hours per day (longer if needed)&#13;
+- 1 day off per week&#13;
+</benefit>
+    <keyword/>
+  </more>
+  <userapplied>
+    <total>29</total>
+    <strui>387,701,785,822,292,971,1094,923,1284,1458,1610,1663,2224,2228,2238,2504,2588,2866,3156,3866,4252,1274,4905,5318,5033,5985,1259,7214,7656</strui>
+  </userapplied>
+</information>

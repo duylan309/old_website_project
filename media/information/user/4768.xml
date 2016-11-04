@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4768</id>
+      <email>Lengoc20497@gmail.com</email>
+      <username/>
+      <name>Lê Thị Hồng Ngọc</name>
+      <im>1475488467_le-thi-hong-ngoc.png</im>
+      <gender>0</gender>
+      <phone>0987998532</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475488467</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, bán hàng</title>
+      <experience>1</experience>
+      <category>27,29,31,35</category>
+      <type>5,6</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill>Kĩ năng bán hàng, sắp xếp hàng hoá.&#13;
+Kĩ năng giao tiếp.</skill>
+      <ui>4768</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>202</strjo>
+  </appliedjob>
+</information>

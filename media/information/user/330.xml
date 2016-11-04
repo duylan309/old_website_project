@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>330</id>
+      <email>info@theworkshopcoffee.com</email>
+      <username/>
+      <name>Tran Do Quynh</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0838246801</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1469175646</created>
+      <dayleft>1474528655</dayleft>
+      <is_received_email>1</is_received_email>
+      <page>1</page>
+      <jobleft>4</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>1</total>
+    <strji>114</strji>
+  </totalJob>
+</information>

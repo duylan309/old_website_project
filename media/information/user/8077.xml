@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>8077</id>
+      <email>leebabethieugia1995@yahoo.com</email>
+      <username/>
+      <name>Phạm Minh Thông</name>
+      <im>887853851315152_pham-minh-thong.jpg</im>
+      <gender>1</gender>
+      <dob>01995-7-4</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477658870</created>
+      <day>4</day>
+      <month>7</month>
+      <year>01995</year>
+      <last_signin>1477658870</last_signin>
+      <phone>0908940837</phone>
+      <address>86/15 a Nguyễn Thông F9 Q3</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.781925</lat>
+      <lng>106.679674</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>8077</ui>
+      <title>Nhân viên phụ bếp</title>
+      <experience>1</experience>
+      <category>14,15,20</category>
+      <type>3,4</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>443</strjo>
+  </appliedjob>
+</information>

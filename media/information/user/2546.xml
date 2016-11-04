@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2546</id>
+      <email>hthuong6292@gmail.com</email>
+      <username/>
+      <name>Tran Thi Hoai Thuong</name>
+      <im>2546_untitled.png</im>
+      <gender>2</gender>
+      <dob>1992-2-6</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473654549</created>
+      <day>6</day>
+      <month>2</month>
+      <year>1992</year>
+      <last_signin>1473654549</last_signin>
+      <phone>0988658328</phone>
+      <address>Đường 4F, Cư Xá Ngân Hàng, P.Tân Thuận Tây, Q7</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7493979</lat>
+      <lng>106.7257275</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_567>
+      <id>567</id>
+      <title>IMPORT EXPORT DOCUMENTATION</title>
+      <level>1</level>
+      <cmpname>CATHACO.,LTD</cmpname>
+      <city>HCM</city>
+      <country>VIET NAM</country>
+      <from>06/2013</from>
+      <to>12/2015</to>
+    </n_567>
+    <n_568>
+      <id>568</id>
+      <title>IMPORT EXPORT DOCUMENTATION</title>
+      <level>1</level>
+      <cmpname>HOA HONG CO.,LTD</cmpname>
+      <city>HCM</city>
+      <country>VIET NAM</country>
+      <from>02/2015</from>
+      <to>12/2015</to>
+    </n_568>
+    <n_569>
+      <id>569</id>
+      <title>SALES LOGISTICS</title>
+      <level>1</level>
+      <cmpname>GIA HUY TRANSPORT JSC</cmpname>
+      <city>HCM</city>
+      <country>VIET NAM</country>
+      <from>03/2016</from>
+      <to>09/2016</to>
+    </n_569>
+    <n_573>
+      <id>573</id>
+      <title>WAITRESS</title>
+      <level>1</level>
+      <cmpname>CƠM TẤMCALI</cmpname>
+      <city>HCM</city>
+      <country>VIET NAM</country>
+      <from>02/2011</from>
+      <to>06/2011</to>
+    </n_573>
+  </experience>
+  <education>
+    <n_409>
+      <id>409</id>
+      <school>Ho Chi Minh City College of Economics</school>
+      <degrees>BACHELOR</degrees>
+      <fieldofstudy>IMPORT EXPORT BUSINESS ADMINISTRATION</fieldofstudy>
+      <from>10/2010</from>
+      <to>08/2013</to>
+    </n_409>
+  </education>
+  <user_cv>
+    <db>
+      <ui>2546</ui>
+      <title>Waitress</title>
+      <experience>1</experience>
+      <category>14,18,20</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>en</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about/>
+      <skill>Good at communication, Flexible, active, study hard, friendly, work well under pressure and honest.</skill>
+      <keyword>Chịu được áp lực công việc,Nhiệt tình,Trung thực,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>7</total>
+    <strjo>211,79,113,151,171,199,240</strjo>
+  </appliedjob>
+</information>

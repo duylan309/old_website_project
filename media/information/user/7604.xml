@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7604</id>
+      <email>binhnguyendxbp@gmail.com</email>
+      <username/>
+      <name>Bình Nguyễn</name>
+      <im>367290310269997_binh-nguyen.jpg</im>
+      <gender>2</gender>
+      <dob>1996-7-15</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477325252</created>
+      <day>15</day>
+      <month>7</month>
+      <year>1996</year>
+      <phone>0903020138</phone>
+      <address>129/34 Trường  Sa. p 15. q Bình Thạnh, Hcm</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.792275</lat>
+      <lng>106.706588</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>7604</ui>
+      <title>part time</title>
+      <experience>1</experience>
+      <category>29</category>
+      <type>2</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Hiện tại em là sinh viên năm 3 trường Đại học Ngoại Thương &#13;
+- Khát khao tìm hiểu về lĩnh vực kinh tế và cụ thể là startup. &#13;
+- Ham học hỏi và cần cù&#13;
+- Thân thiện vui vẻ, dễ giao tiếp với nhiều người</about>
+      <skill>- Có khả năng design cơ bản;&#13;
+- Có kinh năng bán hàng;&#13;
+- Giao tiếp tốt;&#13;
+&#13;
+</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>487</strjo>
+  </appliedjob>
+</information>

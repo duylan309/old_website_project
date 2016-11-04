@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3179</id>
+      <email>beast_hoang194@yahoo.com.vn</email>
+      <username/>
+      <name>Bạch Hoàng</name>
+      <im>878516062282985_bach-hoang.jpg</im>
+      <gender>1</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474368704</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>pha chế, phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,16</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>tính tình vui vẻ hoà đồng năng động</skill>
+      <ui>3179</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>293,299</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>293</strjo>
+  </savedjob>
+</information>

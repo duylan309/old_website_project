@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>379</id>
+    <ui>4760</ui>
+    <ci>374</ci>
+    <ai>0</ai>
+    <ti>Tạp vụ</ti>
+    <ta/>
+    <le>1,2</le>
+    <ty>4,5,6</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>3000000</s1>
+    <s2>3500000</s2>
+    <s3>136</s3>
+    <s4>159</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description>Rửa chén ly dĩa\r\nDọn vệ sinh toilet</description>
+    <requirement>Nhanh nhẹn\r\nSạch sẽ\r\nNhiệt tình\r\nChăm chỉ</requirement>
+    <benefit>Được chia tips</benefit>
+    <keyword>Tinh thần trách nhiệm,Nhiệt tình,Tập trung trong công việc,chăm chỉ,siêng năng,tạp vụ,sạch sẽ</keyword>
+    <ad/>
+    <location_id>262</location_id>
+    <lat>10.791743</lat>
+    <lng>10.791743</lng>
+    <de>2016-11-02</de>
+    <re>0000-00-00</re>
+    <cr>1475485330</cr>
+  </db>
+  <more>
+    <requirement>Nhanh nhẹn&#13;
+Sạch sẽ&#13;
+Nhiệt tình&#13;
+Chăm chỉ</requirement>
+    <description>Rửa chén ly dĩa&#13;
+Dọn vệ sinh toilet</description>
+    <benefit>Được chia tips</benefit>
+    <keyword>Tinh thần trách nhiệm,Nhiệt tình,Tập trung trong công việc,chăm chỉ,siêng năng,tạp vụ,sạch sẽ</keyword>
+  </more>
+  <userapplied>
+    <total>4</total>
+    <strui>5042,2809,6778,7600</strui>
+  </userapplied>
+</information>

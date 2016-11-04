@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7819</id>
+      <email>yenphi0091@gmail.com</email>
+      <username/>
+      <name>Nguyễn Phi Yến</name>
+      <im>716971425124245_pypy-yeye.jpg</im>
+      <gender>2</gender>
+      <dob>1997-2-13</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477470793</created>
+      <day>13</day>
+      <month>2</month>
+      <year>1997</year>
+      <last_signin>1477470793</last_signin>
+      <phone>01277487011</phone>
+      <address>đường Nguyễn Văn Luông, phường 12, quận 6</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.751001</lat>
+      <lng>106.635245</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>7819</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,17,27,31,35</category>
+      <type>5</type>
+      <level>2</level>
+      <lang>en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Tôi là sinh viên năm thứ 2, trường Đại học khoa học xã hội và nhân văn</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>476</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>412</id>
+    <ui>5439</ui>
+    <ci>385</ci>
+    <ai>0</ai>
+    <ti>Phuc Vu</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1,2,4</ty>
+    <ex>1,7</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>3500000</s1>
+    <s2>9000000</s2>
+    <s3>159</s3>
+    <s4>409</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>16</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>284</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-08</de>
+    <re>0000-00-00</re>
+    <cr>1475985506</cr>
+  </db>
+  <more>
+    <requirement>Hoạt bát vui vẻ &#13;
+Ngoại hình dễ nhìn</requirement>
+    <description>Chào hỏi khách&#13;
+Other nước &#13;
+Look after customer &#13;
+</description>
+    <benefit>Luong + THƯƠNG+ bonus+ tang va + tip</benefit>
+    <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Nhiệt tình,Tinh thần trách nhiệm</keyword>
+  </more>
+  <userapplied>
+    <total>16</total>
+    <strui>1605,5460,5474,5724,5764,5779,5911,6189,6214,6359,5932,5708,6754,5226,7655,7931</strui>
+  </userapplied>
+</information>

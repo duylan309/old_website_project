@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3671</id>
+      <email>tnbaotran96@gamil.com</email>
+      <username/>
+      <name>Trần Ngọc Bảo Trân</name>
+      <im>3671_p-149.JPG</im>
+      <gender>2</gender>
+      <phone>01254911874</phone>
+      <address></address>
+      <city></city>
+      <dob>1996-10-13</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474748430</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>13</day>
+      <month>10</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>2</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill>đã từng bán hàng ở những event trên trường đh và cấp 3</skill>
+      <ui>3671</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>100</strjo>
+  </appliedjob>
+</information>

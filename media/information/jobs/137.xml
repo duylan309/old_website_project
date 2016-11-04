@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>137</id>
+    <ui>224</ui>
+    <ci>248</ci>
+    <ai>0</ai>
+    <ti>Nhân viên bếp chính</ti>
+    <ta/>
+    <le>2,4</le>
+    <ty>1</ty>
+    <ex>2</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>68</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-06</de>
+    <re>0000-00-00</re>
+    <cr>1470654434</cr>
+  </db>
+  <more>
+    <requirement>-	Nam&#13;
+-	Kinh nghiệm: ít nhất 1 năm trong ngành bếp&#13;
+-	Độ tuổi: 19 – 30&#13;
+-	Lương thỏa thuận&#13;
+-	Thời gian làm việc 10:00 – 15:00 &amp; 17:30 – 23:00&#13;
+-	Làm việc 6 ngày / tuần</requirement>
+    <description>-	Đứng chảo chính&#13;
+-	Nấu các món ăn theo menu alacarte (có phân lượng và công thức định sẵn)&#13;
+-	Hỗ trợ nhân viên khác trong bếp hoàn thành công việc.&#13;
+-	Đảm bảo vệ sinh khu vực làm việc.</description>
+    <benefit>-	Lương, thưởng theo chế độ công ty&#13;
+-	Service charge&#13;
+-	Được hướng dẫn nghiệp vụ khi bắt đầu làm việc.&#13;
+-	Thử việc 2 tháng&#13;
+-	Các chế độ bảo hiểm theo quy định của nhà nước.&#13;
+-	Làm việc tại Quận 1, TP.Hồ Chí Minh</benefit>
+    <keyword>Kỹ năng giải quyết tình huống,Tinh thần trách nhiệm,Tập trung trong công việc,Tinh thần làm việc nhóm,Trung thực,Nhiệt tình</keyword>
+  </more>
+  <userapplied>
+    <total>31</total>
+    <strui>805,947,1191,1206,1212,1222,1260,1296,1677,1972,2204,3197,3227,3232,3279,3041,3777,4353,292,5225,5119,4907,5379,5530,5769,5990,6625,6895,7280,7335,7560</strui>
+  </userapplied>
+</information>

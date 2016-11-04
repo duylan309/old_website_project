@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1402</id>
+      <email>sarahbi0408@gmail.com</email>
+      <username/>
+      <name>nguyễn nguyệt</name>
+      <im>1402_c360-2016-08-24-21-38-54-144.jpg</im>
+      <gender>2</gender>
+      <dob>1990-11-17</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472238366</created>
+      <day>17</day>
+      <month>11</month>
+      <year>1990</year>
+      <phone>01217499938</phone>
+      <address>342 dương bá trạc</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7437349</lat>
+      <lng>106.689677</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>1402</ui>
+      <title>nhân viên pha chế</title>
+      <experience>2</experience>
+      <category>14,15</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>3800000</s1>
+      <salary>1</salary>
+      <skill>_chịu khó ,thích học hỏi ,siêng&#13;
+- có kinh nghiệm thu ngân .&#13;
+_ chịu được áp lực cao .</skill>
+      <keyword></keyword>
+      <about>là một người thích thẳn thắng ,rỏ ràng , siêng, thích học hỏi những cái mới . thích tự do , không thích xen vào việc của người khác càng ko thích người khác để ý quá đến việc riêng của bản thân . thích giúp đỡ những người xung quanh . hòa đồng .</about>
+    </db>
+  </user_cv>
+  <savedjob/>
+  <appliedjob>
+    <total>2</total>
+    <strjo>119,294</strjo>
+  </appliedjob>
+  <experience/>
+</information>

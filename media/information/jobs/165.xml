@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>165</id>
+    <ui>999</ui>
+    <ci>265</ci>
+    <ai>0</ai>
+    <ti>Nhân viên phục vụ </ti>
+    <ta/>
+    <le>1,2</le>
+    <ty>4</ty>
+    <ex>1,7</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>3000000</s1>
+    <s2>3500000</s2>
+    <s3>136</s3>
+    <s4>159</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>86</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-10-26</de>
+    <re>0000-00-00</re>
+    <cr>1471572731</cr>
+  </db>
+  <more>
+    <requirement>- Nhiệt tình, giao tiếp tự tin, trung thực, cẩn thận, hoà đồng, biết quan sát và chăm sóc khách &#13;
+- Có kiến thức phục vụ&#13;
+- Dọn dẹp &amp; bảo quản khu vực khách</requirement>
+    <description>- Phục vụ khách&#13;
+- Dọn dẹp quán &#13;
+</description>
+    <benefit>Lương cơ bản + tip + Phụ cấp + thưởng chuyên cần &#13;
+( Bao ăn, gửi xe)</benefit>
+    <keyword>Trung thực,Tự tin,Nhiệt tình,Tinh thần làm việc nhóm,Chịu được áp lực công việc,Tinh thần trách nhiệm,Kỹ năng chăm sóc khách hàng,Giao tiếp hiệu quả,Kỹ năng giải quyết tình huống,Tập trung trong công việc</keyword>
+  </more>
+  <userapplied>
+    <total>112</total>
+    <strui>1106,1109,1141,1176,1210,471,1236,1273,1279,1280,1301,1319,1321,878,1362,1407,1416,1431,1433,1435,1291,292,1444,1714,1813,1561,1889,1928,342,372,1958,2229,2250,2404,2432,2467,2703,2738,2753,2758,2789,2476,2785,2910,2332,3443,3141,3877,3881,3808,1569,3268,4036,4097,4160,4213,4266,4299,3572,4390,3455,4148,4457,4462,3690,4595,4639,4657,4695,4864,5015,5111,5142,4900,1605,4766,5302,5296,5351,4833,3652,5679,5848,5868,5858,6065,6192,6274,1315,5932,657,6586,6603,5730,6673,5205,5500,6090,6399,7046,7086,6721,6432,7495,7526,7636,7660,7382,7754,7342,7759,7792</strui>
+  </userapplied>
+</information>

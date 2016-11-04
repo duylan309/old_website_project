@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>510</id>
+    <ui>7487</ui>
+    <ci>424</ci>
+    <ai>0</ai>
+    <ti>Nhân viên phục vụ</ti>
+    <ta/>
+    <le>2</le>
+    <ty>4</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14,15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description>- Phục vụ khách hàng \r\n- Giữ gìn khu vực làm việc sạch sẽ \r\n- Lau dọn vệ sinh \r\n- Nhận order/ lau dọn vật dụng \r\n- Nhiệm vụ hàng đầu: đảm bảo khách hàng nhận được order đầy đủ và tốt nhất \r\n- Chia sẻ trách nhiệm/ công việc phục vụ </description>
+    <requirement>- Ngoại hình gọn gàng \r\n- Kỹ năng giao tiếp tiếng anh tốt \r\n- Linh hoạt, siêng năng \r\n- Tinh thần teamwork và tôn trọng các bạn nhân viên khác \r\n- Khả năng làm việc dưới áp lực tốt \r\n- Khả năng giải quyết tình huống \r\n- Khả năng quan sát chi tiết, quan tâm khách hàng </requirement>
+    <workhour/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>368</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-30</de>
+    <re>0000-00-00</re>
+    <cr>1477292207</cr>
+  </db>
+  <more>
+    <requirement>- Ngoại hình gọn gàng &#13;
+- Kỹ năng giao tiếp tiếng anh tốt &#13;
+- Linh hoạt, siêng năng &#13;
+- Tinh thần teamwork và tôn trọng các bạn nhân viên khác &#13;
+- Khả năng làm việc dưới áp lực tốt &#13;
+- Khả năng giải quyết tình huống &#13;
+- Khả năng quan sát chi tiết, quan tâm khách hàng </requirement>
+    <description>- Phục vụ khách hàng &#13;
+- Giữ gìn khu vực làm việc sạch sẽ &#13;
+- Lau dọn vệ sinh &#13;
+- Nhận order/ lau dọn vật dụng &#13;
+- Nhiệm vụ hàng đầu: đảm bảo khách hàng nhận được order đầy đủ và tốt nhất &#13;
+- Chia sẻ trách nhiệm/ công việc phục vụ </description>
+    <workhour/>
+    <benefit/>
+    <keyword/>
+  </more>
+  <userapplied>
+    <total>3</total>
+    <strui>1279,7552,4833</strui>
+  </userapplied>
+</information>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5194</id>
+      <email>nguyendtram0504@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Diễm Trâm</name>
+      <im>1475779105_nguyen-thi-diem-tram.png</im>
+      <gender>2</gender>
+      <phone>0166 5666 968</phone>
+      <address>12/4B Trần Quang Khải, Phường Tân Định, Quận 1, TP.HCM</address>
+      <city>30</city>
+      <dob>1995-4-5</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475779105</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>5</day>
+      <month>4</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.792906</lat>
+      <lng>106.695544</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên Marketing</title>
+      <experience>7</experience>
+      <category>14,17,29,35</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>- Marketing&#13;
+- Giao tiếp, ứng xử&#13;
+- Kỹ năng tin học văn phòng&#13;
+- Tiếng Anh giao tiếp&#13;
+- Kỹ năng làm việc nhóm&#13;
+</skill>
+      <ui>5194</ui>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <about>Hi,I’ve just graduated specializing in Marketing at College of Foreign Economic Relations. I’m passionate with Marketing and PR. I love the difference and trying new things. I’m a dynamic , sociable and organized person. A fast learner who picks up new skills quickly. Have strong desire for knowledge and challenges. I have no problem with travelling!!!</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>220</strjo>
+  </appliedjob>
+  <experience>
+    <n_1060>
+      <id>1060</id>
+      <title>Internship Marketing</title>
+      <level>1</level>
+      <cmpname>Luxasia Vietnam</cmpname>
+      <city/>
+      <country/>
+      <from>April</from>
+      <to>July</to>
+    </n_1060>
+  </experience>
+  <education>
+    <n_854>
+      <id>854</id>
+      <school>CĐ Kinh tế Đối ngoại</school>
+      <degrees>Cao đẳng</degrees>
+      <fieldofstudy>Marketing</fieldofstudy>
+      <from>2013</from>
+      <to>2016</to>
+    </n_854>
+  </education>
+</information>

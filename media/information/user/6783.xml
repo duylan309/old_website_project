@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6783</id>
+      <email>leenguyen1311@gmail.com</email>
+      <username/>
+      <name>Nguyễn Lê Phương Ly</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01664335605</phone>
+      <address>6/13 Nguyễn Thị Minh Khai</address>
+      <city>30</city>
+      <dob>1995-11-13</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476862421</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>13</day>
+      <month>11</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.77052</lat>
+      <lng>106.687218</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ </title>
+      <experience>1</experience>
+      <category>15,17,31</category>
+      <type>2,5,6</type>
+      <level>1</level>
+      <lang>vi,en,ja</lang>
+      <skill>Microsoft Office&#13;
+Adobe Photoshop&#13;
+Adobe Illustrator&#13;
+Adobe InDesign&#13;
+English: Intermediate&#13;
+German: Intermediate&#13;
+Japanese: Beginner</skill>
+      <ui>6783</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Thích thử sức với nhiều loại hình công việc khác nhau&#13;
+Thích công việc sáng tạo&#13;
+Kiên nhẫn, đề cao việc tìm tòi học hỏi điều mới</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>268,419</strjo>
+  </appliedjob>
+  <education>
+    <n_1118>
+      <id>1118</id>
+      <school>ĐHKHXH&amp;NV</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Ngữ văn Đức</fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_1118>
+  </education>
+  <experience>
+    <n_1355>
+      <id>1355</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Quán ăn gia đình</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Vietnam</country>
+      <from>12/2015</from>
+      <to>7/2016</to>
+    </n_1355>
+  </experience>
+</information>

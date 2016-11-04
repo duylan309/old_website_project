@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6019</id>
+      <email>heo.lun_0704@yahoo.com</email>
+      <username/>
+      <name>Crystal Ha</name>
+      <im>1197190297018488_crystal-ha.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476333586</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1308>
+      <id>1308</id>
+      <title>Sale person</title>
+      <level>1</level>
+      <cmpname>Koala beauty</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country/>
+      <from>08-2014</from>
+      <to>05-2016</to>
+    </n_1308>
+  </experience>
+  <education>
+    <n_1070>
+      <id>1070</id>
+      <school>Cao đẳng Viễn Đông</school>
+      <degrees>Cao đẳng</degrees>
+      <fieldofstudy>Sư Phạm Anh</fieldofstudy>
+      <from>2014</from>
+      <to>2016</to>
+    </n_1070>
+  </education>
+</information>

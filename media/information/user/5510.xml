@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5510</id>
+      <email>Thanhtamnguyen3107@gmail.com</email>
+      <username/>
+      <name>NGUYỄN TRẦN THANH TÂM</name>
+      <im>1476028834_nguyen-tran-thanh-tam.png</im>
+      <gender>2</gender>
+      <phone>0933136192</phone>
+      <address>So 11, to 1, khu pho 3, phuong Tang Nhon Phu B, Q9, TP.HCM</address>
+      <city>30</city>
+      <dob>1991-7-31</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476028833</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>31</day>
+      <month>7</month>
+      <year>1991</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8713496</lat>
+      <lng>106.7891787</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>- Nắm bắt nhanh&#13;
+- Năng động&#13;
+- Gọn gàng, sạch sẽ, ngăn nắp&#13;
+- Cẩn trọng, tỉ mỉ.&#13;
+- Hoà đồng, nhiệt tình, siêng năng, có khả năng làm việc nhóm hoặc cá nhân.</skill>
+      <ui>5510</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>- Tốt nghiệp Đh chuyên ngành kế toán nhưng yêu thích môi trường làm việc trong lĩnh vực dịch vụ nhà hàng ẩm thực, quán cà phê... Có kinh nghiệm làm thu ngân quán cà phê và làm quen với 1 số công tác pha chế cơ bản. Yêu thích công việc pha chế, muốn được học hỏi thêm về pha chế.</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>106</strjo>
+  </appliedjob>
+  <experience>
+    <n_1144>
+      <id>1144</id>
+      <title>Thu ngân, Trưởng ca</title>
+      <level>1</level>
+      <cmpname>Cộng cà phê</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>03/2016</from>
+      <to>10/2016</to>
+    </n_1144>
+  </experience>
+  <education>
+    <n_918>
+      <id>918</id>
+      <school>ĐH Công Nghiệp Thực Phẩm TP Hồ Chí Minh</school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy>Kế toán</fieldofstudy>
+      <from>2012</from>
+      <to>2014</to>
+    </n_918>
+  </education>
+</information>

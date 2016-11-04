@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1429</id>
+      <email>hoangdu28391@gmail.com</email>
+      <username/>
+      <name>Nguyễn Hoàng Dũ</name>
+      <im>1446222292058177_hoang-du.jpg</im>
+      <gender>1</gender>
+      <dob>1991-3-28</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472288411</created>
+      <day>28</day>
+      <month>3</month>
+      <year>1991</year>
+      <last_signin>1472288411</last_signin>
+      <phone>0909713936</phone>
+      <address>13 lô d3 kdc tân quy đông, q7</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.736547</lat>
+      <lng>106.7081572</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_228>
+      <id>228</id>
+      <school>THPT Nguyễn khuyến q10</school>
+      <degrees>cấp 3</degrees>
+      <fieldofstudy/>
+      <from>2005</from>
+      <to>2008</to>
+    </n_228>
+  </education>
+  <user_cv>
+    <db>
+      <ui>1429</ui>
+      <title>Phục vụ, pha chế</title>
+      <experience>1</experience>
+      <category>15,16,27,31,35</category>
+      <type>1,2,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Tinh thần trách nhiệm,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Nhiệt tình,Giao tiếp hiệu quả</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>172,69</strjo>
+  </appliedjob>
+</information>

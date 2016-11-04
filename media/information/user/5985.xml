@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5985</id>
+      <email>nguyenhoangnha@hotmail.com</email>
+      <username/>
+      <name>Nguyễn Hoàng Nhã</name>
+      <im>1786649048219553_nguyen-hoang-nha.jpg</im>
+      <gender>1</gender>
+      <dob>1993-2-16</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476298084</created>
+      <day>16</day>
+      <month>2</month>
+      <year>1993</year>
+      <phone>01267112150</phone>
+      <address>204/7 Bình Long - Tân Phú</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.780225</lat>
+      <lng>106.620676</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, thu ngân, pha chế, trưởng nhóm, trợ lý tập sự,..</title>
+      <experience>4</experience>
+      <category>14,15,16,26,29,35,36</category>
+      <type>1,4,5</type>
+      <level>2,3,4</level>
+      <lang>vi,en</lang>
+      <skill>Latte art, kiểm kê, bảo quản hàng hoá,...</skill>
+      <ui>5985</ui>
+      <s1>300</s1>
+      <salary>2</salary>
+      <about>Tính tình: Thân thiện, ít nói,... &#13;
+Đối với bạn bè: Hoà đồng, dễ tính,... &#13;
+Đối với công việc: Tỉ mỉ, nghiêm khắc,... &#13;
+Sở thích: Công nghệ và văn nghệ, nấu ăn và pha chế,... &#13;
+</about>
+      <keyword/>
+      <s2>6600000</s2>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>275,111,466,257,483</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4407</id>
+      <email>nhoxminhthu@gmail.com</email>
+      <username/>
+      <name>Minh Thư</name>
+      <im>996979903781360_minh-thu.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475129371</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên thu ngân</title>
+      <experience>1</experience>
+      <category>15,17,20,35,36</category>
+      <type>1,2,4</type>
+      <level>2,3</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>4407</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>358,334</strjo>
+  </appliedjob>
+</information>

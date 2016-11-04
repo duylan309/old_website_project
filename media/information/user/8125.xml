@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>8125</id>
+      <email>Trongkhuong1998@gmail.com</email>
+      <username/>
+      <name>Trần Trọng Khương</name>
+      <im>1477729273_tran-trong-khuong.png</im>
+      <gender/>
+      <phone>0938174244</phone>
+      <address/>
+      <city/>
+      <dob/>
+      <type>2</type>
+      <status>1</status>
+      <created>1477729273</created>
+      <dayleft/>
+      <page/>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế</title>
+      <experience>1</experience>
+      <category>14,15,26,31</category>
+      <type>6</type>
+      <level>2,3,4,5</level>
+      <lang>vi,en</lang>
+      <skill>Giao tiếp tốt và nắm bắt tâm lý khách hàng  tốt</skill>
+      <ui>8125</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>473</strjo>
+  </appliedjob>
+</information>

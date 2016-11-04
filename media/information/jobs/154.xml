@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>154</id>
+    <ui>649</ui>
+    <ci>252</ci>
+    <ai>0</ai>
+    <ti>NHÂN VIÊN PHỤC VỤ- GẤP GẤP</ti>
+    <ta/>
+    <le>1,2</le>
+    <ty>1,2,4,6</ty>
+    <ex>1,7</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>3000000</s1>
+    <s2>3000000</s2>
+    <s3>136</s3>
+    <s4>136</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14,15,31,35</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description>Ô TẢ CÔNG VIỆC:\r\n- Chào khách\r\n- Lấy order từ khách hàng\r\n- Giới thiệu các món ăn, quầy để đồ ăn và đồ uống cho khách hàng\r\n- Phục vụ nhu cầu đồ ăn và đồ uống cho khách tại nhà hàng\r\n- Kiểm tra các món ăn trước khi phục vụ khách.\r\n- Dọn dẹp bàn ăn và thay đồ mới cho khách.\r\n- Sẵn sàng giải đáp mọi thắc mắc của khách\r\n- Đảm bảo vệ sinh khu vực làm việc (Công việc sẽ được trao đổi cụ thể hơn trong quá trình phỏng vấn)</description>
+    <requirement>YÊU CẦU CÔNG VIỆC:\r\nHình thức ưa nhìn.\r\n- Nhanh nhẹn, chu đáo trong công việc.\r\n- Có khả năng làm việc theo nhóm.\r\n- Chăm chỉ, chịu khó, cẩn thận, tỉ mỉ trong công việc.\r\n- Có trách nhiệm, tinh thần tập thể, và cầu tiến.\r\n- Có khả năng giao tiếp tốt.\r\nHình Thức Làm Việc: Làm việc cả ngày hoặc theo ca.</requirement>
+    <benefit>QUYỀN LỢI ĐƯỢC HƯỞNG\r\n- Được làm việc trong môi trường chuyên nghiệp, có cơ hội thăng tiến và phát triển nghề nghiệp;\r\n- Có cơ hội thăng tiến cao nếu làm việc tốt;\r\n- Môi trường làm việc cạnh tranh, được tiếp xúc với nhiều mô hình kinh doanh khác nhau và học hỏi được nhiều kinh nghiệm thực tế.</benefit>
+    <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Tự tin,Tinh thần làm việc nhóm</keyword>
+    <ad/>
+    <location_id>73</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-08</de>
+    <re>0000-00-00</re>
+    <cr>1471423263</cr>
+  </db>
+  <more>
+    <requirement>YÊU CẦU CÔNG VIỆC:&#13;
+Hình thức ưa nhìn.&#13;
+- Nhanh nhẹn, chu đáo trong công việc.&#13;
+- Có khả năng làm việc theo nhóm.&#13;
+- Chăm chỉ, chịu khó, cẩn thận, tỉ mỉ trong công việc.&#13;
+- Có trách nhiệm, tinh thần tập thể, và cầu tiến.&#13;
+- Có khả năng giao tiếp tốt.&#13;
+Hình Thức Làm Việc: Làm việc cả ngày hoặc theo ca.</requirement>
+    <description>Ô TẢ CÔNG VIỆC:&#13;
+- Chào khách&#13;
+- Lấy order từ khách hàng&#13;
+- Giới thiệu các món ăn, quầy để đồ ăn và đồ uống cho khách hàng&#13;
+- Phục vụ nhu cầu đồ ăn và đồ uống cho khách tại nhà hàng&#13;
+- Kiểm tra các món ăn trước khi phục vụ khách.&#13;
+- Dọn dẹp bàn ăn và thay đồ mới cho khách.&#13;
+- Sẵn sàng giải đáp mọi thắc mắc của khách&#13;
+- Đảm bảo vệ sinh khu vực làm việc (Công việc sẽ được trao đổi cụ thể hơn trong quá trình phỏng vấn)</description>
+    <benefit>QUYỀN LỢI ĐƯỢC HƯỞNG&#13;
+- Được làm việc trong môi trường chuyên nghiệp, có cơ hội thăng tiến và phát triển nghề nghiệp;&#13;
+- Có cơ hội thăng tiến cao nếu làm việc tốt;&#13;
+- Môi trường làm việc cạnh tranh, được tiếp xúc với nhiều mô hình kinh doanh khác nhau và học hỏi được nhiều kinh nghiệm thực tế.</benefit>
+    <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Tự tin,Tinh thần làm việc nhóm</keyword>
+  </more>
+  <userapplied>
+    <total>70</total>
+    <strui>853,866,960,982,1007,1072,1108,1548,1531,292,1633,1444,1729,1772,1480,2467,2476,2510,2567,559,2785,372,2852,2975,3565,3629,3773,3798,4207,3572,4332,4234,4135,4472,4542,4651,4720,3884,4900,4150,4943,5036,4833,5180,1605,5512,5656,5730,5741,6082,6162,6201,6240,5974,6396,6319,5879,4738,6584,6638,6673,6675,6700,6875,7245,7383,7509,7648,7698,7792</strui>
+  </userapplied>
+</information>

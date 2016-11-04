@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3534</id>
+      <email>daiquocle23@gmail.com</email>
+      <username/>
+      <name>Lê Quốc Đại</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0902794704</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1474685864</created>
+      <dayleft>1477277864</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1474685864</last_signin>
+      <jobleft>3</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>2</total>
+    <strji>333,334</strji>
+  </totalJob>
+  <saveuser>
+    <total>32</total>
+    <strui>3657,3758,3879,844,4012,2332,4407,3315,4298,4538,4597,4608,4787,4708,4836,4879,4898,4329,4291,5064,5079,4957,4833,5009,4607,5405,5412,5424,3120,1605,5491,940</strui>
+  </saveuser>
+</information>

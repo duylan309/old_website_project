@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3730</id>
+      <email>Honganhvo123@gmail.com</email>
+      <username/>
+      <name>Lê Võ Hồng Anh</name>
+      <im>1474794308_le-vo-hong-anh.png</im>
+      <gender>0</gender>
+      <phone>01296817970</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474794308</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15,26,31,35</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>3730</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>269</strjo>
+  </appliedjob>
+  <education>
+    <n_612>
+      <id>612</id>
+      <school>Đại học Văn Hiến </school>
+      <degrees></degrees>
+      <fieldofstudy>Công tác xã hội </fieldofstudy>
+      <from>2015</from>
+      <to>2017</to>
+    </n_612>
+  </education>
+</information>

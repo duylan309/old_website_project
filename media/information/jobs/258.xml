@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>258</id>
+    <ui>2138</ui>
+    <ci>319</ci>
+    <ai>0</ai>
+    <ti>Phục vụ Nhà Hàng - Waiter</ti>
+    <ta/>
+    <le>2</le>
+    <ty>4</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>3500000</s1>
+    <s2>5000000</s2>
+    <s3>159</s3>
+    <s4>227</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14,15,16,18,20,26,28,31</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>154</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-06</de>
+    <re>0000-00-00</re>
+    <cr>1473260332</cr>
+  </db>
+  <more>
+    <requirement>Có kinh nghiệm là một lợi thế, &#13;
+Giao tiếp được tiếng Anh&#13;
+Làm việc theo ca: 7:00-15:00 hoặc 14:30-22:30, 1 ngày Off/tuần&#13;
+Nơi làm việc: Diamond Café, Đảo Kim Cương, Đường số 104-BTT, Phường Bình Trưng Tây, Quận 2, HCM (Gần Ủy Ban Nhân Dân Quận 2)&#13;
+</requirement>
+    <description>Giới thiệu khách hàng các món ăn và đồ uống của nhà hàng&#13;
+ Lấy order từ khách hàng.</description>
+    <benefit>Lương, tăng ca + thưởng</benefit>
+    <keyword>Phục vụ Nhà Hàng - Waiter / Waitress</keyword>
+  </more>
+  <userapplied>
+    <total>8</total>
+    <strui>2199,3808,3315,4935,6433,6773,1605,7333</strui>
+  </userapplied>
+</information>

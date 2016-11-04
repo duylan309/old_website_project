@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2304</id>
+      <email>Bichngocluong1996@gmail.com</email>
+      <username/>
+      <name>Lương Bích Ngọc</name>
+      <im>305964239763842_luong-bich-ngoc.jpg</im>
+      <gender>2</gender>
+      <dob>1996-11-5</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473387215</created>
+      <day>5</day>
+      <month>11</month>
+      <year>1996</year>
+      <phone>01288040399</phone>
+      <address>38/2 Nguyễn Văn Trỗi,F15, Phú Nhuận</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.793695</lat>
+      <lng>106.679627</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>2304</ui>
+      <title>Thu ngân</title>
+      <experience>1</experience>
+      <category>35</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about/>
+      <skill>- hỗ trợ và chăm sóc khách hàng&#13;
+- giải quyết tình huống</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <experience>
+    <n_518>
+      <id>518</id>
+      <title>Thu ngân</title>
+      <level>1</level>
+      <cmpname>Highland coffee</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2/2016</from>
+      <to>8/2016</to>
+    </n_518>
+  </experience>
+  <education>
+    <n_365>
+      <id>365</id>
+      <school>Đại học ngoại thương</school>
+      <degrees/>
+      <fieldofstudy>Quản trị kinh doanh</fieldofstudy>
+      <from>8/2014</from>
+      <to>5/2017</to>
+    </n_365>
+  </education>
+  <appliedjob>
+    <total>3</total>
+    <strjo>249,107,163</strjo>
+  </appliedjob>
+</information>

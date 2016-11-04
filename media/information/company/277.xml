@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>277</id>
+    <ui>1253</ui>
+    <name>coffe</name>
+    <url>www.thue.today.com</url>
+    <im></im>
+    <im_banner></im_banner>
+    <category>15</category>
+    <phone>01886244948</phone>
+    <address>227A, Xô Viết Nghệ Tĩnh, Bình Thạnh</address>
+    <district>0</district>
+    <district_text_vi></district_text_vi>
+    <district_text_en></district_text_en>
+    <city>30</city>
+    <lat>10.800326</lat>
+    <lng>106.710968</lng>
+    <website></website>
+    <about></about>
+    <facebook>Tuấn Gấu</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>0</fb_load_photo>
+    <created>1472010744</created>
+  </db>
+  <more>
+    <about></about>
+    <whyworkus></whyworkus>
+  </more>
+  <companybanner></companybanner>
+</information>

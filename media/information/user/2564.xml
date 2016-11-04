@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2564</id>
+      <email>myleetruong1702@gmail.com</email>
+      <username/>
+      <name>My Lee</name>
+      <im>535876603267660_my-lee.jpg</im>
+      <gender>2</gender>
+      <dob>1994-2-17</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473667699</created>
+      <day>17</day>
+      <month>2</month>
+      <year>1994</year>
+      <phone>01274508248</phone>
+      <address>230/8 Phan Văn Trị, P.12, Q. Bình Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.814493</lat>
+      <lng>106.695785</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ </title>
+      <experience>1</experience>
+      <category>29,35</category>
+      <type>4,6</type>
+      <level>2</level>
+      <lang>vi,en,ch</lang>
+      <skill>good communication&#13;
+work team&#13;
+enthusiasm</skill>
+      <ui>2564</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Dear Mr/Ms&#13;
+With reference to your advertisement on thue.today, I would like to apply for the position of waitress at your company. I feel confident fix for this position because I am a person who loves customer service. Besides that, I am good at English, and have the good communication skill. So, I am very confident in communication. Also, I used to do many part time jobs and have many experience about working at this position. I believe that can satisfy your requirements quite well.&#13;
+I will get the bachelor degree in English in Business at Nguyen Tat Thanh University on November 2016. In Nguyen Tat Thanh University, I had been learned about English listening, speaking, writing and reading skills.&#13;
+In addition, I used to be a staff of Thuy Truc in the position of waitress. During the time at Thuy Truc Cafe, I received a lot of working experiences that helped me know how to service customers better, and help me a lot for the position of receptionist. &#13;
+With my diverse background, I believe that I can be a good receptionist if I have the chance to work for your hotel.&#13;
+I would be happy to give you more details and can be contracted at any time.&#13;
+Please let me know if there are many other details you need.&#13;
+</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>172</strjo>
+  </appliedjob>
+  <education>
+    <n_1>
+      <id>1</id>
+      <school>Nguyen Tat Thanh University</school>
+      <degrees>Bacherlor's Degree of English in Business</degrees>
+      <fieldofstudy>Business English</fieldofstudy>
+      <from>10/2012</from>
+      <to>10/2016</to>
+    </n_1>
+  </education>
+  <experience>
+    <n_577>
+      <id>577</id>
+      <title>Waitress</title>
+      <level>1</level>
+      <cmpname>Thuy Truc Cafe</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Viet Nam</country>
+      <from>2/2016</from>
+      <to>5/2016</to>
+    </n_577>
+  </experience>
+</information>

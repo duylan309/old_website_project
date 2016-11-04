@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2288</id>
+      <email>Nguyenmytien213@gmail.com</email>
+      <username/>
+      <name>Nguyễn Trần Mỹ Tiên</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01657441351</phone>
+      <address>Quận thủ đức</address>
+      <city>30</city>
+      <dob>1994-3-21</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473355319</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1473355319</last_signin>
+      <day>21</day>
+      <month>3</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8494094</lat>
+      <lng>106.7537055</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>2288</ui>
+      <title>Phụ bếp, pha chế</title>
+      <experience>7</experience>
+      <category>14,15,20,35</category>
+      <type>1,2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>177,351,352</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7014</id>
+      <email>Cuongck7776@gmail.com</email>
+      <username/>
+      <name>Hà chí cường</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0932630806</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477019286</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nấu bếp</title>
+      <experience>3</experience>
+      <category>14</category>
+      <type>4</type>
+      <level>3</level>
+      <lang>vi</lang>
+      <skill>Kỷ năng đứng bếp nóng và ra món</skill>
+      <ui>7014</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>321</strjo>
+  </appliedjob>
+</information>

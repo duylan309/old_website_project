@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>282</id>
+    <ui>1359</ui>
+    <name>Flat White Coffee &amp; Cakes</name>
+    <url>Flatwhitecafecake</url>
+    <im>_flat-white-coffee-cakes.jpg</im>
+    <im_banner>_flat-white-coffee-cakes-cover.jpg</im_banner>
+    <category>15</category>
+    <phone>0938456274</phone>
+    <address>122 bis, Trần Đình Xu, P.hường Nguyễn Cư Trinh, Quận 1</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.762605</lat>
+    <lng>106.688499</lng>
+    <website/>
+    <about/>
+    <facebook>https://www.facebook.com/Flatwhitecafecake/</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1472177243</created>
+  </db>
+  <more>
+    <about>Cà Phê Flat White là nơi để gặp gỡ bạn bè, thưởng thức nước uống ngon , mát lạnh giữa Sài Gòn tấp nập và oi bức</about>
+    <whyworkus/>
+  </more>
+  <companybanner>_flat-white-coffee-cakes-cover.jpg</companybanner>
+  <totalJob>
+    <total>1</total>
+    <strji>195</strji>
+  </totalJob>
+</information>

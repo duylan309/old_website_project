@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5648</id>
+      <email>Anhduytv114@gmail.com</email>
+      <username/>
+      <name>Đoàn Duy Anh</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0977001202</phone>
+      <address>14 đỗ quang - thảo điền - q2</address>
+      <city>30</city>
+      <dob>1993-6-28</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476117570</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>28</day>
+      <month>6</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8033059</lat>
+      <lng>106.729135</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Chef de parties</title>
+      <experience>2</experience>
+      <category>14,18,20</category>
+      <type>1,6</type>
+      <level>3,4</level>
+      <lang>vi,en</lang>
+      <skill>Quản lý kho, order hàng hóa.&#13;
+Tranning người mới.&#13;
+Đảm bảo chấp lượng món ăn đồng nhất và đúng công thức đã được duyệt.&#13;
+Hòa đồng, vui vẻ, thân thiện cùng mọi người. Quản lí nhóm tốt</skill>
+      <ui>5648</ui>
+      <s1>14000000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>321</strjo>
+  </appliedjob>
+  <education>
+    <n_932>
+      <id>932</id>
+      <school>Đại học công nghệ</school>
+      <degrees>Kĩ sư</degrees>
+      <fieldofstudy>Công nghệ thực phẩm</fieldofstudy>
+      <from>2011</from>
+      <to>2015</to>
+    </n_932>
+  </education>
+  <experience>
+    <n_1158>
+      <id>1158</id>
+      <title>Demi chef</title>
+      <level>1</level>
+      <cmpname>Pendolasco</cmpname>
+      <city>Tp Hòi chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>2016</to>
+    </n_1158>
+  </experience>
+  <savedjob>
+    <total>1</total>
+    <strjo>321</strjo>
+  </savedjob>
+</information>

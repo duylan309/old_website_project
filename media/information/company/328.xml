@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>328</id>
+    <ui>2559</ui>
+    <name>Công ty TNHH Giải trí Sapphire</name>
+    <url>career.glowsaigon</url>
+    <im>328_glow-skybar-1-.jpg</im>
+    <im_banner>1598398550457751_tong-hop-viec-lam-restaurant-fastfood-skybar-club-cover.jpg</im_banner>
+    <category>14</category>
+    <phone/>
+    <address>93 Nguyen Du, District 1</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.7768985</lat>
+    <lng>106.698363</lng>
+    <website>http://glowsaigon.vn</website>
+    <about/>
+    <facebook>https://www.facebook.com/career.glowsaigon/</facebook>
+    <facebook_cover/>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1473663594</created>
+  </db>
+  <more>
+    <about>  </about>
+    <whyworkus/>
+  </more>
+  <companybanner>1598398550457751_tong-hop-viec-lam-restaurant-fastfood-skybar-club-cover.jpg</companybanner>
+  <totalJob>
+    <total>8</total>
+    <strji>272,273,275,276,406,420,422,497</strji>
+  </totalJob>
+  <pagecmpfacebookcover>328_glow.png</pagecmpfacebookcover>
+</information>

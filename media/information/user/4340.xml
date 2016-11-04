@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4340</id>
+      <email>linhcao2410@gmail.com</email>
+      <username/>
+      <name>Mai Khánh Linh</name>
+      <im>1069872423134128_linh-cao.jpg</im>
+      <gender>2</gender>
+      <dob>1996-10-24</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475077503</created>
+      <day>24</day>
+      <month>10</month>
+      <year>1996</year>
+      <phone>01212672259</phone>
+      <address>793/58 Trần Xuân Soạn, p Tân Hưng, Q7</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.75121</lat>
+      <lng>106.702015</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_713>
+      <id>713</id>
+      <school>Đại học Ngân Hàng</school>
+      <degrees/>
+      <fieldofstudy>Quản trị kinh doanh</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_713>
+  </education>
+  <user_cv>
+    <db>
+      <ui>4340</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,17,27,29,35</category>
+      <type>2,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Tôi tên là Khánh Linh, tôi 20 tuổi hiện đang theo học ngành quản trị kinh doanh tại Đại học Ngân Hàng TpHCM, tôi mong muốn có được thêm 1 công việc làm thêm giúp tối phát triển được bản thân cũng như phát triển được công việc. </about>
+      <skill>Tôi đã từng làm nhân viên phục vụ và đã biết qua về cách phục vụ &amp; chào hỏi khách hàng.</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>8</total>
+    <strjo>273,364,222,202,427,371,199,378</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>8067</id>
+      <email>kiemkhachdautay@gmail.com</email>
+      <username/>
+      <name>Quoc Thai Lam</name>
+      <im>895084037257834_quoc-thai-lam.jpg</im>
+      <gender>1</gender>
+      <dob>1995-2-20</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477653890</created>
+      <day>20</day>
+      <month>2</month>
+      <year>1995</year>
+      <last_signin>1477653890</last_signin>
+      <phone>01663704031</phone>
+      <address>304/02/8A tân kỳ tân quý, phường sơn kỳ, tân phú</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8033023</lat>
+      <lng>106.6315663</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>8067</ui>
+      <title>Nhân viên</title>
+      <experience>7</experience>
+      <category>35</category>
+      <type>6</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Biết lắng nghe, đang cải thiện ngoại hình, trung thực, cần cù</about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

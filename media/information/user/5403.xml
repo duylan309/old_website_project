@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5403</id>
+      <email>thaohuynh321@gmai.com</email>
+      <username/>
+      <name>Huỳnh Thị Minh Thảo</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0909253008</phone>
+      <address>42/59 hoàng hoa thám</address>
+      <city>30</city>
+      <dob>1990-11-1</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475946158</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1475946158</last_signin>
+      <day>1</day>
+      <month>11</month>
+      <year>1990</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.808343</lat>
+      <lng>106.69092</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>5403</ui>
+      <title>Cook</title>
+      <experience>2</experience>
+      <category>14,20</category>
+      <type>2,4,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <about>Năng động, sáng tạo trong công việc.</about>
+      <skill>Bếp Âu, bếp bánh.</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>351,206,78</strjo>
+  </appliedjob>
+</information>

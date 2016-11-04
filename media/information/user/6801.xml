@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6801</id>
+      <email>thuytram.glbn@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thùy Trâm</name>
+      <im>1476868848_nguyen-thuy-tram.png</im>
+      <gender>0</gender>
+      <phone>01637490390</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476868848</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhan vien ban hang</title>
+      <experience>7</experience>
+      <category>35</category>
+      <type>2,4,6</type>
+      <level>1,2</level>
+      <lang>vi,en,rs</lang>
+      <skill>Tiếng Anh giao tiếp tốt. &#13;
+Làm việc tận tâm, nhiệt tình</skill>
+      <ui>6801</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>322</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>322</strjo>
+  </savedjob>
+</information>

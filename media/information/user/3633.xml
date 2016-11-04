@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3633</id>
+      <email>thienvip1008@gmail.com</email>
+      <username/>
+      <name>nguyễn đình thiện</name>
+      <im>1474726257_nguyen-dinh-thien.png</im>
+      <gender>0</gender>
+      <phone>01674123410</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474726256</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>phụ bếp</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>3633</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>301,324,273</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>2</total>
+    <strjo>301,273</strjo>
+  </savedjob>
+</information>

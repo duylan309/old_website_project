@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>396</id>
+      <email>honggam904@gmail.com</email>
+      <username/>
+      <name>Thân Thị Hồng Gấm</name>
+      <im>518273361715217_than-gam.jpg</im>
+      <gender>2</gender>
+      <dob>1997-10-21</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470032740</created>
+      <day>21</day>
+      <month>10</month>
+      <year>1997</year>
+      <phone>01663234643</phone>
+      <address>41/52 - Lê Lợi - Phường 4- Gò Vấp </address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.82097</lat>
+      <lng>106.685509</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>396</ui>
+      <title>nhân viên phục vụ và nhân viên bán hàng</title>
+      <experience>7</experience>
+      <category>15,17,27,28,29,31,35,36</category>
+      <type>2,4,5</type>
+      <level>1,2</level>
+      <lang>vi</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <skill>Trung thực. Giao tiếp tốt.  Nhiệt tình. Chịu được áp lực. Tập trung làm việc.</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>105,82</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>130</strjo>
+  </savedjob>
+</information>

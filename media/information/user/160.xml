@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>160</id>
+      <email>nguyenhokimngan0612@gmail.com</email>
+      <username/>
+      <name>Nguyễn Hồ Kim Ngân</name>
+      <im>942585755839793_nguyen-ho-kim-ngan.jpg</im>
+      <gender>2</gender>
+      <category/>
+      <phone>0927604120</phone>
+      <address>322d, huỳnh văn bánh, phú nhuận, tphcm</address>
+      <city>30</city>
+      <dob>1996-06-12</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1463187268</created>
+      <dayleft>0</dayleft>
+      <signupby>FB</signupby>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1>
+      <id>1</id>
+      <title>Staff</title>
+      <level>1</level>
+      <cmpname>The pizza company</cmpname>
+      <city>Ho chi minh</city>
+      <country/>
+      <from>2015</from>
+      <to>2016</to>
+    </n_1>
+  </experience>
+  <education>
+    <n_1>
+      <id>1</id>
+      <school>Đại học bách khoa tphcm</school>
+      <degrees>Kĩ sư</degrees>
+      <fieldofstudy>Hóa học</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_1>
+  </education>
+  <user_cv>
+    <db>
+      <ui>160</ui>
+      <title>Barista</title>
+      <category>15</category>
+      <type>1</type>
+      <level>3</level>
+      <experience>1</experience>
+      <location>30</location>
+      <lang>vi</lang>
+      <s1>4</s1>
+      <salary>1</salary>
+      <skill>Pha chế đồ uống, làm salad, mì pasta, làm bánh pizza</skill>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>22,43,32</strjo>
+  </appliedjob>
+</information>

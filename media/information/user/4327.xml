@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4327</id>
+      <email>Vinhpham1104@gmail.com</email>
+      <username/>
+      <name>Phạm Nguyễn Hồng Vĩnh</name>
+      <im>1475073959_pham-nguyen-hong-vinh.png</im>
+      <gender>2</gender>
+      <phone>0943008095</phone>
+      <address>57 nguyễn cư trinh quận 1</address>
+      <city>30</city>
+      <dob>1996-4-11</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475073958</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>11</day>
+      <month>4</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.764045</lat>
+      <lng>106.691001</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>2</experience>
+      <category>15</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>en</lang>
+      <skill>Đã từng phục vụ và pha chế ở đen đá , pizza company,  cinebox</skill>
+      <ui>4327</ui>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>106</strjo>
+  </appliedjob>
+</information>

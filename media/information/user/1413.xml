@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1413</id>
+      <email>khaitran9595@gmail.com</email>
+      <username/>
+      <name>Khải Trần</name>
+      <im>1030537047062031_khai-tran.jpg</im>
+      <gender>1</gender>
+      <dob>1995-11-13</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472276014</created>
+      <day>13</day>
+      <month>11</month>
+      <year>1995</year>
+      <phone>01262819909</phone>
+      <address>432B/63 Dương Bá Trạc, Phường 1, Quận 8</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.741463</lat>
+      <lng>106.690867</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_317>
+      <id>317</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Công ty TNHH Chè Thanh Tâm</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>8/2013</from>
+      <to>8/2016</to>
+    </n_317>
+  </experience>
+  <education>
+    <n_226>
+      <id>226</id>
+      <school>Cao đẳng Kinh tế Thành phố Hồ Chí Minh</school>
+      <degrees>Cao đẳng </degrees>
+      <fieldofstudy>Anh văn Thương mại</fieldofstudy>
+      <from>10/2013</from>
+      <to>10/2016</to>
+    </n_226>
+  </education>
+  <user_cv>
+    <db>
+      <ui>1413</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>2</experience>
+      <category>14,15,17,20,27</category>
+      <type>1</type>
+      <level>1,2</level>
+      <lang>en,ar</lang>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <skill>Giao tiếp hiệu quả&#13;
+Tập trung trong công việc&#13;
+Trách nhiệm&#13;
+Nhiệt tình&#13;
+Làm việc nhóm&#13;
+Trung thực &#13;
+Chịu được áp lực công việc </skill>
+      <keyword>Tập trung trong công việc,Tinh thần trách nhiệm,Nhiệt tình,Tinh thần làm việc nhóm,Chịu được áp lực công việc,Trung thực</keyword>
+    </db>
+  </user_cv>
+  <savedjob>
+    <total>3</total>
+    <strjo>199,64,211</strjo>
+  </savedjob>
+  <appliedjob>
+    <total>2</total>
+    <strjo>119,189</strjo>
+  </appliedjob>
+</information>

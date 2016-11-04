@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3895</id>
+      <email>huongluna3@gmail.com</email>
+      <username/>
+      <name>Thu Hương</name>
+      <im>1809111092668275_thu-huong.jpg</im>
+      <gender>2</gender>
+      <dob>1998-1-8</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474888516</created>
+      <day>8</day>
+      <month>1</month>
+      <year>1998</year>
+      <last_signin>1474888516</last_signin>
+      <phone>01683813375</phone>
+      <address>KTX khu A Đh Quốc Gia, khu phố 6 phường Linh Trung, quận Thủ Đức, TP.HCM</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8713496</lat>
+      <lng>106.7891787</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>3895</ui>
+      <title>Nhân viên phục vụ , giúp việc nhà, nhân viên phụ bếp,lao công,....</title>
+      <experience>1</experience>
+      <category>15,18,20</category>
+      <type>4,6</type>
+      <level>2</level>
+      <lang>vi,en,ch</lang>
+      <s1>1500000</s1>
+      <salary>1</salary>
+      <about>Hòa đồng, có khả năng học tập, chăm chỉ, linh động, ăn nói ổn.</about>
+      <skill>có kỹ năng giao tiếp, phục vụ khách hàng.</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

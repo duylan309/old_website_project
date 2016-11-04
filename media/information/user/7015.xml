@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7015</id>
+      <email>mr.my728@gmail.com</email>
+      <username/>
+      <name>Phạm Văn Hoài</name>
+      <im>1477019409_pha-m-van-hoa-i.png</im>
+      <gender>0</gender>
+      <phone>01215118801</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477019409</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,17,19,27,29,31,35</category>
+      <type>2,4,5</type>
+      <level>1,2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>7015</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>434</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>434</strjo>
+  </savedjob>
+</information>

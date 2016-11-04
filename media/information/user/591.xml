@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>591</id>
+      <email>minhnguyet01101997@gmail.com</email>
+      <username/>
+      <name>Lê Thị Minh Nguyệt</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0938560684</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470596655</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục vụ , thu ngân</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>1,2,4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Có kinh nghiệm làm việc trong môi trường nhà hàng </skill>
+      <ui>591</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>113,131,124,101</strjo>
+  </appliedjob>
+</information>

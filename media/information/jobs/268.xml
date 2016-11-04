@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>268</id>
+    <ui>2448</ui>
+    <ci>323</ci>
+    <ai>0</ai>
+    <ti>Sales Clerk</ti>
+    <ta/>
+    <le>2</le>
+    <ty>4</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>31</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>159</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-09</de>
+    <re>0000-00-00</re>
+    <cr>1473513992</cr>
+  </db>
+  <more>
+    <requirement>Friendly &#13;
+Speaks English </requirement>
+    <description>Greet and assist customers &#13;
+Handle the cash register &#13;
+&#13;
+</description>
+    <benefit/>
+    <keyword>Tự tin,Nhiệt tình</keyword>
+  </more>
+  <userapplied>
+    <total>27</total>
+    <strui>1342,3146,3260,3624,3705,3974,844,4138,1279,1379,4575,4695,3332,3819,5344,4474,6078,6437,6603,6643,6783,6808,7039,5107,7683,4833,8089</strui>
+  </userapplied>
+</information>

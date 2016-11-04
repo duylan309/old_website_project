@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5861</id>
+      <email>kullpee@gmail.com</email>
+      <username/>
+      <name>Khoa Đinh</name>
+      <im>183297832111600_khoa-dinh.jpg</im>
+      <gender>1</gender>
+      <dob>1998-8-29</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476232529</created>
+      <day>29</day>
+      <month>8</month>
+      <year>1998</year>
+      <last_signin>1476232529</last_signin>
+      <phone>0904787177</phone>
+      <address>654/22 Nguyễn Kiệm, p4, quận Phú Nhuận</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.806027</lat>
+      <lng>106.679263</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_974>
+      <id>974</id>
+      <school>THPT Hiệp Bình</school>
+      <degrees>Trung học phổ thông</degrees>
+      <fieldofstudy/>
+      <from>2013</from>
+      <to>2016</to>
+    </n_974>
+  </education>
+  <user_cv>
+    <db>
+      <ui>5861</ui>
+      <title>Nhân viên phục vụ , nhân viên bán hàng</title>
+      <experience>7</experience>
+      <category>14,15,17,27,29,31,35</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Hoạt bát, nhanh nhẹn</about>
+      <skill>Giao tiếp tốt, hòa đồng, vui vẻ</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

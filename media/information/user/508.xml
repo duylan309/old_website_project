@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>508</id>
+      <email>hienlai6496@gmail.com</email>
+      <username/>
+      <name>Hiền Lai</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01226691712</phone>
+      <address>72c/36 bình thới p14 q11</address>
+      <city>30</city>
+      <dob>1996-4-6</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470301199</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>6</day>
+      <month>4</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.768602</lat>
+      <lng>106.6513499</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_99>
+      <id>99</id>
+      <title>thu ngân</title>
+      <level>1</level>
+      <cmpname>Công Ty TNHH Nado Dona</cmpname>
+      <city>hồ chí minh</city>
+      <country>Việt Nam</country>
+      <from>1/5/2016</from>
+      <to>1/8/2016</to>
+    </n_99>
+  </experience>
+  <education>
+    <n_70>
+      <id>70</id>
+      <school>hutech</school>
+      <degrees>đang học đại học</degrees>
+      <fieldofstudy>công nghệ thực phẩm</fieldofstudy>
+      <from>2014</from>
+      <to>2016</to>
+    </n_70>
+  </education>
+  <user_cv>
+    <db>
+      <ui>508</ui>
+      <title>nhân viên phục vụ, thu ngân</title>
+      <category>15,27,35</category>
+      <type>2,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <skill>đã từng có kinh nghiệm làm thu ngân</skill>
+      <keyword>Tinh thần trách nhiệm,Giao tiếp hiệu quả,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Tự tin,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+      <experience>7</experience>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>107,99,64,105,130</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>3</total>
+    <strjo>105,64,107</strjo>
+  </savedjob>
+</information>

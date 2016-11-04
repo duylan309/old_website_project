@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5202</id>
+      <email>Tan0938081122@gmail.com</email>
+      <username/>
+      <name>TRẦN TRỌNG TẤN</name>
+      <im>1475806577_tran-trong-tan.png</im>
+      <gender>1</gender>
+      <phone>0938081122</phone>
+      <address>105/37/3a Cao Thắng P17 Q Phú Nhuận.thành phố Hồ Chí Minh</address>
+      <city>30</city>
+      <dob>1988-9-14</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475806577</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>14</day>
+      <month>9</month>
+      <year>1988</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7926369</lat>
+      <lng>106.682962</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Đầu bếp</title>
+      <experience>5</experience>
+      <category>14,20</category>
+      <type>1,4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>8năm kinh nghiệm nghề bếp.với 2 năm làm việc tại nhà hàng fusion fine dining THE LOG.&#13;
+Tư duy sáng tạo,nhạy bén.tinh thần đoàn kết tốt.chịu được làm viêc dưới áp lực,cường độ cao</skill>
+      <ui>5202</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>321</strjo>
+  </appliedjob>
+</information>

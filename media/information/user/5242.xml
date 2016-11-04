@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5242</id>
+      <email>daiphuc1996@gmail.com</email>
+      <username/>
+      <name>Đại Phúc Võ</name>
+      <im>5242_img-0429.JPG</im>
+      <gender>1</gender>
+      <dob>1996-5-15</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475824122</created>
+      <day>15</day>
+      <month>5</month>
+      <year>1996</year>
+      <last_signin>1475824122</last_signin>
+      <phone>0969817812</phone>
+      <address>25 điện biên phủ, quận bình thạnh, tp hcm</address>
+      <country>vn</country>
+      <city/>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1074>
+      <id>1074</id>
+      <title>Phục vụ quán trà sữa</title>
+      <level>1</level>
+      <cmpname>hot &amp; coul</cmpname>
+      <city/>
+      <country/>
+      <from>5/2015</from>
+      <to>9/2015</to>
+    </n_1074>
+    <n_1075>
+      <id>1075</id>
+      <title>tiếp thực</title>
+      <level>1</level>
+      <cmpname>cổng vảng</cmpname>
+      <city/>
+      <country/>
+      <from>3/2016</from>
+      <to>5/2016</to>
+    </n_1075>
+  </experience>
+  <education>
+    <n_867>
+      <id>867</id>
+      <school>đại học công nghệ tp hcm </school>
+      <degrees>sinh viên</degrees>
+      <fieldofstudy/>
+      <from>2014</from>
+      <to>2018</to>
+    </n_867>
+  </education>
+  <user_cv>
+    <db>
+      <ui>5242</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>1</experience>
+      <category>14,15,16,19,20</category>
+      <type>5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>15000</s1>
+      <salary>1</salary>
+      <about>Vui vẻ, hòa đồng, biết lắn nghe và học hỏi.</about>
+      <skill>nhanh nhẹn, biết quan sát</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>219,222,130,326,105</strjo>
+  </appliedjob>
+</information>

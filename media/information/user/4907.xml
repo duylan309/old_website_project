@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4907</id>
+      <email>Hathedoanh878@gmail.com</email>
+      <username/>
+      <name>Hà Thế Doanh</name>
+      <im>1475583940_ha-the-doanh.png</im>
+      <gender>1</gender>
+      <phone>0965883048</phone>
+      <address>570/90/1 doan van bo . quan 4</address>
+      <city>30</city>
+      <dob>1996-10-11</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475583939</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>11</day>
+      <month>10</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.763764</lat>
+      <lng>106.703051</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhan vien bep</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Sơ chế và chế biến thực phẩm</skill>
+      <ui>4907</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>13</total>
+    <strjo>139,200,370,182,191,376,358,137,256,276,391,177,193</strjo>
+  </appliedjob>
+  <experience>
+    <n_1029>
+      <id>1029</id>
+      <title>Phụ bếp, phụ thớt</title>
+      <level>1</level>
+      <cmpname>Hoàng Yến Group , Redsun</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>8/2015</from>
+      <to>9/2016</to>
+    </n_1029>
+  </experience>
+  <education>
+    <n_821>
+      <id>821</id>
+      <school>Trung học phổ thông lộc thành</school>
+      <degrees>Tôt nghiệp 12</degrees>
+      <fieldofstudy>Học nghề</fieldofstudy>
+      <from>2011</from>
+      <to>2015</to>
+    </n_821>
+  </education>
+</information>

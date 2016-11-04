@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5460</id>
+      <email>caovantin.123@gmail.com</email>
+      <username/>
+      <name>Cao văn tin</name>
+      <im>1475992688_cao-van-tin.png</im>
+      <gender>1</gender>
+      <phone>0936887994</phone>
+      <address>555 kinh dương vương, P.An Lạc, Q.Bình Tân</address>
+      <city>30</city>
+      <dob>1993-1-1</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475992688</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>1</day>
+      <month>1</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7340599</lat>
+      <lng>106.6125308</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhà hàng, khách sạn, du lịch</title>
+      <experience>1</experience>
+      <category>14,16,19,20</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Khả năng giao tiếp, làm việc nhóm chịu được áp lực công việc</skill>
+      <ui>5460</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Sinh viên mới tốt nghiệp chuyên ngành quản trị dịch vụ du lịch lữ hành, có kinh nghiệm quản lý phục vụ quán bar, club, làm phục vụ, hướng dẫn viên</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>13</total>
+    <strjo>171,340,273,324,280,275,279,284,79,166,412,157,382</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>171</strjo>
+  </savedjob>
+</information>

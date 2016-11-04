@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5442</id>
+      <email>vampire.binhthanh2812@yahoo.com</email>
+      <username/>
+      <name>Vỹ Trần</name>
+      <im>2145153259042239_vy-tran.jpg</im>
+      <gender>1</gender>
+      <dob>1990-12-28</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475986400</created>
+      <day>28</day>
+      <month>12</month>
+      <year>1990</year>
+      <phone>0903192300</phone>
+      <address>6/25 Nguyễn Trung Trực,phường 5, quận Bình Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.811196</lat>
+      <lng>106.686137</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>5442</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about></about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

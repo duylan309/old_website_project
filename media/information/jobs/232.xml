@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>232</id>
+    <ui>1609</ui>
+    <ci>300</ci>
+    <ai>0</ai>
+    <ti>Bếp phụ</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>2</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>2500000</s1>
+    <s2>3500000</s2>
+    <s3>113</s3>
+    <s4>159</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>1</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description>Sơ chế các loại thực phẩm : cá, thịt, rau , củ\r\nHỗ trợ bếp chính ra món \r\nBiết cách sáng tạo khi trình bày thức ăn \r\nQuản lí đồ dùng thực phẩm trong bếp\r\nGiữ gìn vệ sinh khu vực làm việc sạch sẽ ,ngăn nắp \r\n</description>
+    <requirement>Ưu tiên có kinh nghiệm phụ bếp ,biết nấu ăn\r\nTrung thực, siêng năng, sạch sẽ \r\nHam học hỏi\r\nGắn bó lâu dài</requirement>
+    <benefit>Môi trường làm việc ổn định, lâu dài, thân thiện, luôn coi trọng giá trị năng lực chuyên môn của người lao động ( máy lạnh)\r\nLàm việc từ 9h đến 20h mỗi ngày \r\nĐược nghỉ mỗi tuần 1 ngày \r\nĐược nghỉ trưa và lúc vắng khách \r\nPhụ cấp bữa trưa và tối + tip chia đều \r\nHỗ trợ ở lại khi nhà xa \r\nCó thưởng nếu làm tốt </benefit>
+    <keyword>Tinh thần trách nhiệm,Tập trung trong công việc,Trung thực,Nhiệt tình</keyword>
+    <ad/>
+    <location_id>127</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-09-30</de>
+    <re>0000-00-00</re>
+    <cr>1474642915</cr>
+  </db>
+  <more>
+    <requirement>Ưu tiên có kinh nghiệm phụ bếp ,biết nấu ăn&#13;
+Trung thực, siêng năng, sạch sẽ &#13;
+Ham học hỏi&#13;
+Gắn bó lâu dài</requirement>
+    <description>Sơ chế các loại thực phẩm : cá, thịt, rau , củ&#13;
+Hỗ trợ bếp chính ra món &#13;
+Biết cách sáng tạo khi trình bày thức ăn &#13;
+Quản lí đồ dùng thực phẩm trong bếp&#13;
+Giữ gìn vệ sinh khu vực làm việc sạch sẽ ,ngăn nắp &#13;
+</description>
+    <benefit>Môi trường làm việc ổn định, lâu dài, thân thiện, luôn coi trọng giá trị năng lực chuyên môn của người lao động ( máy lạnh)&#13;
+Làm việc từ 9h đến 20h mỗi ngày &#13;
+Được nghỉ mỗi tuần 1 ngày &#13;
+Được nghỉ trưa và lúc vắng khách &#13;
+Phụ cấp bữa trưa và tối + tip chia đều &#13;
+Hỗ trợ ở lại khi nhà xa &#13;
+Có thưởng nếu làm tốt </benefit>
+    <keyword>Tinh thần trách nhiệm,Tập trung trong công việc,Trung thực,Nhiệt tình</keyword>
+  </more>
+  <userapplied>
+    <total>2</total>
+    <strui>2302,292</strui>
+  </userapplied>
+</information>

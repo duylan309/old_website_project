@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7158</id>
+      <email>Duyentran961008@gmail.com</email>
+      <username/>
+      <name>Trần thị mỹ duyên</name>
+      <im>1477094843_tran-thi-my-duyen.png</im>
+      <gender>2</gender>
+      <phone>01663283878</phone>
+      <address>134 dương văn duong phuòng tân quý quận tân phú</address>
+      <city>30</city>
+      <dob>1996-8-10</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477094842</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>10</day>
+      <month>8</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7926559</lat>
+      <lng>106.6171054</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng , tro  lý kinh doanh, quản lý bán hàng</title>
+      <experience>1</experience>
+      <category>20,35</category>
+      <type>4</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <skill>Quản lí cửa hàng bán lẻ, sắp xếp công việc , kiểm tra hàng hoá  cập nhật tồn kho , viết bài SEO web , giao tiếp tốt</skill>
+      <ui>7158</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Chào nhà tuyển dụng !&#13;
+Em là Duyên , năm nay 20 tuổi  , hiện em đang sống tại tân phú và là sinh viên năm 3 , trường đại học ngoại ngữ - tin học tphcm . Chuyên ngành em đang học là quản trị kinh doanh quốc tế . Em đã làm thêm ngay từ khi học năm nhất và em đã có 1 năm ở vị trí trợ lý kinh doanh quốc tế cho công ty trang sức-phụ kiện Sài Gòn . Bên cạnh đó , em có hơn 6 tháng trong lĩnh vực bán hàng . Hiện tại em muốn tìm 1 công việc mới để phù hợp với thoqfi gian đi học của mình hơn và tích luỹ thêm cho mình 1 ít kinh nghiệm . </about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>336,205</strjo>
+  </appliedjob>
+  <experience>
+    <n_1407>
+      <id>1407</id>
+      <title>Tro lý kinh doanh</title>
+      <level>1</level>
+      <cmpname>Công ty trang sức - phụ kiện Sài Gòn</cmpname>
+      <city>Hồ chí minh</city>
+      <country>Việt nam</country>
+      <from>3/2015</from>
+      <to>3/2106</to>
+    </n_1407>
+  </experience>
+</information>

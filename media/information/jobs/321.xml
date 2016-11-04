@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>321</id>
+    <ui>3164</ui>
+    <ci>345</ci>
+    <ai>0</ai>
+    <ti>Nấu bếp</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>2</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>10000000</s1>
+    <s2>15000000</s2>
+    <s3>454</s3>
+    <s4>681</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14,15,17,20,35</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>201</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-10-20</de>
+    <re>0000-00-00</re>
+    <cr>1474591913</cr>
+  </db>
+  <more>
+    <requirement>- Cần nhân viên nấu bếp có kinh nghiệm với các loại món ăn đặc trưng Á, Âu</requirement>
+    <description>- Chế biến món ăn phục vụ hành khách hạng thương gia tại các phòng chờ&#13;
+</description>
+    <benefit>- Chế độ theo quy định của công ty </benefit>
+    <keyword/>
+  </more>
+  <userapplied>
+    <total>24</total>
+    <strui>3687,3702,3707,3737,3800,5108,5202,5225,5292,5648,5721,5720,4833,5870,5921,6037,6176,2266,6182,6668,6211,7014,7104,6968</strui>
+  </userapplied>
+</information>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4890</id>
+      <email>vhh2808@gmail.com</email>
+      <username/>
+      <name>Văn Hồng Hạnh</name>
+      <im>1475573029_van-hong-hanh.png</im>
+      <gender>2</gender>
+      <phone>01208448890</phone>
+      <address></address>
+      <city></city>
+      <dob>1996-8-28</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475573029</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>28</day>
+      <month>8</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>pha chế</title>
+      <experience>7</experience>
+      <category>14,15,29</category>
+      <type>1,2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Pha chế, Phục vụ</skill>
+      <ui>4890</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>201</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5116</id>
+      <email>lntngan.hcvp@gmail.com</email>
+      <username/>
+      <name>Lê Ngọc Thanh Ngân</name>
+      <im>5116_img-20160915-123408.jpg</im>
+      <gender>2</gender>
+      <phone>01284833360</phone>
+      <address>1/11 Đặng Thúc Vịnh huyện Hóc Môn</address>
+      <city>30</city>
+      <dob>1995-5-17</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475741068</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1475741068</last_signin>
+      <day>17</day>
+      <month>5</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8981619</lat>
+      <lng>106.62636</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>5116</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>2</experience>
+      <category>14,15,18,20</category>
+      <type>4,5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <about>Từng là nhân viên phục vụ các nhà hàng, và trưởng nhóm order...</about>
+      <skill>Nhanh nhẹn, tập trung</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <education>
+    <n_847>
+      <id>847</id>
+      <school>Trung cấp Văn thư Lưu trữ Trung ương</school>
+      <degrees>Trung cấp chuyên nghiệp</degrees>
+      <fieldofstudy>Hành chính văn phòng</fieldofstudy>
+      <from>2014</from>
+      <to>2016</to>
+    </n_847>
+  </education>
+  <appliedjob>
+    <total>4</total>
+    <strjo>276,182,153,360</strjo>
+  </appliedjob>
+</information>

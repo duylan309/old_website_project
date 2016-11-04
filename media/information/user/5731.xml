@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5731</id>
+      <email>kimhoa8463@gmail.com</email>
+      <username/>
+      <name>Kim Hoa</name>
+      <im>606934669509053_kim-hoa.jpg</im>
+      <gender>2</gender>
+      <dob>1994-11-11</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476164063</created>
+      <day>11</day>
+      <month>11</month>
+      <year>1994</year>
+      <phone>0932008463</phone>
+      <address>3/9 nguyễn bình Nhà bè Tphcm</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.6780659</lat>
+      <lng>106.7534913</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viêc phục vụ , pha chế</title>
+      <experience>1</experience>
+      <category>14,15,16,26,29,30</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Làm việc nhóm tốt &#13;
+Giải quyết vấn đề tôt &#13;
+Nhanh nhẹn &#13;
+Làm việc với áp lực cao&#13;
+</skill>
+      <ui>5731</ui>
+      <s1>150</s1>
+      <salary>2</salary>
+      <about>Là người thích học hỏi&#13;
+Có tinh thần trách nhiệm cao&#13;
+Người vui vẻ hoạt bát dễ hoà đồng&#13;
+Thích xem phim và du lịch</about>
+      <keyword></keyword>
+      <s2>3300000</s2>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>340</strjo>
+  </appliedjob>
+  <education>
+    <n_951>
+      <id>951</id>
+      <school>Cao đẳng Việt Mỹ</school>
+      <degrees>Cao đẳng</degrees>
+      <fieldofstudy>Biên phiên dịch tiếng anh</fieldofstudy>
+      <from>2014</from>
+      <to>2017</to>
+    </n_951>
+  </education>
+</information>

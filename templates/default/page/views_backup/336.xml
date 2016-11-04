@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>322</id>
+    <ui>3396</ui>
+    <ci>351</ci>
+    <ai>0</ai>
+    <ti>Tư vấn bán hàng</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1,2,4,6</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>3000000</s1>
+    <s2>4000000</s2>
+    <s3>136</s3>
+    <s4>181</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>17</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>210</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-10-23</de>
+    <re>0000-00-00</re>
+    <cr>1474595587</cr>
+  </db>
+  <more>
+    <requirement>- Nữ, ngoại hình ưa nhìn&#13;
+- Nhanh nhẹn ( *bắt buộc )&#13;
+- Khéo miệng (*bắt buộc) &#13;
+- Biết nắm bắt tâm lí khách hàng&#13;
+- Có kinh nghiệm sale ( *ưu tiên )&#13;
+- Làm việc tận tâm, THẬT THÀ, chăm chỉ (bắt buộc)&#13;
+- Thích làm đẹp cho mình và người khác (*ưu tiên)&#13;
+- Có ý tứ, nhân cách tốt (*bắt buộc)&#13;
+- Gọn gàng, ngăn nắp &#13;
+- Trí nhớ tốt&#13;
+- Phát âm chuẩn, giọng nói rõ ràng</requirement>
+    <description>- Tư vấn bán hàng&#13;
+- Dọn dẹp, trưng bày cửa hàng &#13;
+Địa điểm làm việc: 386/44 Lê Văn Sĩ Q3&#13;
+</description>
+    <benefit> Quyền lợi:&#13;
+- Lương 4 triệu/tháng + HOA HỒNG &#13;
+ Khung giờ làm việc linh động: (Ca 7h)&#13;
++ Ca 1 : 09h00 - 16h00&#13;
++ Ca 2 : 15h00 - 22h00&#13;
+- Được nghỉ 4 ngày/tháng</benefit>
+    <keyword/>
+  </more>
+  <userapplied>
+    <total>30</total>
+    <strui>3567,1794,3663,3689,3739,292,3823,3864,4128,4213,4232,4366,4665,4712,4130,4808,4766,4893,5104,5201,4679,5250,5369,5695,5850,4957,4833,6753,6801,6808</strui>
+  </userapplied>
+</information>

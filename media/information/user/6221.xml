@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6221</id>
+      <email>traitim_khacten_emvaanh0104@yahoo.com.vn</email>
+      <username/>
+      <name>Trân Minh Hạ Nguyễn</name>
+      <im>896511893814912_tran-minh-ha-nguyen.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476444376</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ, nhân viên bán hàng</title>
+      <experience>7</experience>
+      <category>27</category>
+      <type>6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>6221</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>434,423,427</strjo>
+  </appliedjob>
+</information>

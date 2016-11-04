@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>183</id>
+    <ui>1217</ui>
+    <ci>273</ci>
+    <ai>0</ai>
+    <ti>Phụ bếp</ti>
+    <ta/>
+    <le>2</le>
+    <ty>2</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>4000000</s1>
+    <s2>4500000</s2>
+    <s3>181</s3>
+    <s4>204</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>96</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-10-22</de>
+    <re>0000-00-00</re>
+    <cr>1471944801</cr>
+  </db>
+  <more>
+    <requirement/>
+    <description>Thực hiện đúng quy trình và quy định của cửa hàng về các việc như sau: &#13;
++ Kiểm tra vệ sinh và chất lượng của thực phẩm/nguyên liệu đã được làm sạch từ phụ bếp. &#13;
++ Sơ chế và chế biến món ăn hợp vệ sinh an toàn thực phẩm và đúng với quy chuẩn của món ăn (mọi mất mát về con người, uy tính và tài sản của cửa hàng liên quan đến việc sai lầm trong khâu sơ chế; đầu bếp sẽ hoàn toàn chịu trách nhiệm).&#13;
++ Cùng với bếp chính, phụ bếp, hoàn thành tất cả công tác vệ sinh bếp (ngoại trừ rửa chén và các vật dụng cho khách hàng) trước khi giao ca và kết thúc ca.&#13;
++Cân đo và dự đoán số lượng nguyên liệu cần thiết để đặt hàng nhà cung cấp nguyên liệu&#13;
++Có tinh thần hợp tác với tất cả các nhân viên trong cửa hàng. &#13;
++ Ngoài ra các nhiệm vụ cụ thể và chi tiết trong bếp sẽ được nêu ra cụ thể khi phỏng vấn và khi thử việc. &#13;
+</description>
+    <benefit>+ Được phát áo đồng phục khi đi làm&#13;
++ Có bao cơm trưa và tối&#13;
++ Tiền lương cạnh tranh.&#13;
++ Có thưởng chuyên cần nếu làm việc chăm chỉ.&#13;
++ Môi trường làm việc thân thiện, hợp tác.&#13;
++Có cơ hội học tập và chế biến thêm các món Hoa từ đầu bếp người Hoa.&#13;
+</benefit>
+    <keyword>Aeon Bình Tân</keyword>
+  </more>
+  <userapplied>
+    <total>18</total>
+    <strui>1222,1277,292,1698,2005,2208,3222,3744,3939,4051,3798,4203,5769,5476,6481,7039,7753,8096</strui>
+  </userapplied>
+</information>

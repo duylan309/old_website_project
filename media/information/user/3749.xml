@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3749</id>
+      <email>ntbh121198@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Bích Họp</name>
+      <im>1852908061598749_bich-hop-yoongie.jpg</im>
+      <gender>2</gender>
+      <dob>1998-11-12</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474809787</created>
+      <day>12</day>
+      <month>11</month>
+      <year>1998</year>
+      <phone>01694114427</phone>
+      <address>ấp 6A, xã Vĩnh Lộc A, huyện Bình Chánh, TP.HCM</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.775217</lat>
+      <lng>106.542817</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>3749</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>7</experience>
+      <category>14,15,17,31,35</category>
+      <type>5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>1500000</s1>
+      <salary>1</salary>
+      <about>Em là sinh viên năm nhất tại trường ĐH Kinh tế TP. HCM. Em là 1người giản dị, cẩn thận, vui vẻ, hòa đồng, thân thiện, khả năng làm việc nhóm cao. Em có khả năng giao tiếp tiếng Anh ở mức cơ bản mặc dù em đã học rất tốt tiếng Anh ở bậc Trung học(vì em học trường ở tỉnh và hạn chế về tài chính không thể đi học ở trung tâm). Hiện tại em muốn tìm 1công việc có thể giao tiếp với người nước ngoài để cải thiện khả năng nghe nói tiếng Anh cũng như có thêm kinh nghiệm. </about>
+      <skill>Hoạt náo, quản trò, làm việc nhóm,.... </skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>84,107</strjo>
+  </appliedjob>
+</information>

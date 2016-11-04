@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5067</id>
+      <email>quyennguyen67@vanlanguni.vn</email>
+      <username/>
+      <name>Nguyễn Thị Thanh Quyên</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01627360766</phone>
+      <address></address>
+      <city></city>
+      <dob>1997-1-22</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475689397</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1475689397</last_signin>
+      <day>22</day>
+      <month>1</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>5067</ui>
+      <title>Nhân viên phục vụ, bán hàng</title>
+      <experience>1</experience>
+      <category>15,17,35</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>Năng nổ, nhiệt tình, chịu khó, thân thiện.</about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

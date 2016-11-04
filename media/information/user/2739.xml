@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2739</id>
+      <email>Anhthu58136@gmail.com</email>
+      <username/>
+      <name>Trần Lê Anh Thư</name>
+      <im>1473836449_tran-le-anh-thu.png</im>
+      <gender>2</gender>
+      <phone>0969473165</phone>
+      <address>287 Âu Dương Lân , quận 8</address>
+      <city>30</city>
+      <dob>1993-8-5</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473836449</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>5</day>
+      <month>8</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.742869</lat>
+      <lng>106.686337</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>2</experience>
+      <category>14,15,17,18,20,29,35</category>
+      <type>6</type>
+      <level>2,3,4</level>
+      <lang>vi,en</lang>
+      <skill>Giao tiếp</skill>
+      <ui>2739</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Năng động , nhanh nhẹn , vui vẻ , hoà đồng , học hỏi nhanh</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>100,284</strjo>
+  </appliedjob>
+  <education>
+    <n_440>
+      <id>440</id>
+      <school>Đại học Ngoại ngữ tin học TPHCM</school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy>Quản trị du lịch</fieldofstudy>
+      <from>2011</from>
+      <to>2015</to>
+    </n_440>
+  </education>
+  <experience>
+    <n_606>
+      <id>606</id>
+      <title>Nhân viên - trưởng ca</title>
+      <level>1</level>
+      <cmpname>MOF</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2013</from>
+      <to>2016</to>
+    </n_606>
+  </experience>
+</information>

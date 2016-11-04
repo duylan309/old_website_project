@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2176</id>
+      <email>iisadream@yahoo.com</email>
+      <username/>
+      <name>Đào minh thuận</name>
+      <im>2176_imag1918.jpg</im>
+      <gender>2</gender>
+      <phone>01217661799</phone>
+      <address>16/7a trưng nữ vương, hóc môn. Hcm</address>
+      <city></city>
+      <dob>1990-2-23</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473265812</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>23</day>
+      <month>2</month>
+      <year>1990</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế</title>
+      <experience>7</experience>
+      <category>14,15,16</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Hoạt ngôn,từng học cơ bản về pha chế rượu</skill>
+      <ui>2176</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>201</strjo>
+  </appliedjob>
+</information>

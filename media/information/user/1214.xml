@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1214</id>
+      <email>hongngoc7989@gmail.com</email>
+      <username/>
+      <name>Đinh Vũ Hồng Ngọc</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0937098855</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471941681</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,17,29,35</category>
+      <type>2,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Toi từng phụ gia đình bán hàng nên hiểu tam lí khách hàng cần gì ở một nhan viên phục vụ, là người năng động, nhiệt tình,ham học hỏi ,cẩn thận và luon đặt ra một áp lực nhất định cho bản thân để hoàn thành công việc tốt nhất.</skill>
+      <ui>1214</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>64</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2242</id>
+      <email>midas_kingofgold@yahoo.com</email>
+      <username/>
+      <name>Đăng Nguyễn</name>
+      <im>2242_14580432-1081917488595881-2049822217-n.png</im>
+      <gender>1</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473319970</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+      <last_signin>1473319970</last_signin>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1061>
+      <id>1061</id>
+      <title>Nhân Viên</title>
+      <level>1</level>
+      <cmpname>Domino’s pizza</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>28/12/2014</from>
+      <to>28/8/2016</to>
+    </n_1061>
+  </experience>
+</information>

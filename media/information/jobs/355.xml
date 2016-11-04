@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>355</id>
+    <ui>4163</ui>
+    <ci>363</ci>
+    <ai>0</ai>
+    <ti>Tạp vụ</ti>
+    <ta/>
+    <le>2</le>
+    <ty>5</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>2500000</s1>
+    <s2>3000000</s2>
+    <s3>113</s3>
+    <s4>136</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>244</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-10-27</de>
+    <re>0000-00-00</re>
+    <cr>1474992162</cr>
+  </db>
+  <more>
+    <requirement>Nhanh nhẹn, cẩn thận, gọn gàng.</requirement>
+    <description>Sơ chế nguyên vật liệu nấu ăn, dọn dẹp khu vực bếp. </description>
+    <benefit/>
+    <keyword/>
+  </more>
+  <userapplied>
+    <total>7</total>
+    <strui>4332,4291,4974,5741,6065,4738,4833</strui>
+  </userapplied>
+</information>

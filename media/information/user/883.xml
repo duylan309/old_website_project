@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>883</id>
+      <email>chulanh252@gmail.com</email>
+      <username/>
+      <name>Lành Chu</name>
+      <im>608091639371807_lanh-chu.jpg</im>
+      <gender>2</gender>
+      <dob>1993-2-25</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471363515</created>
+      <day>25</day>
+      <month>2</month>
+      <year>1993</year>
+      <phone>01683760341</phone>
+      <address>B78/35/24 Tôn Thất Thuyết, phường 16, quận 4, Hồ Chí Minh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.752914</lat>
+      <lng>106.712589</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>thu ngân</title>
+      <experience>7</experience>
+      <category>35</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>- Tổ chức và thực hiện kế hoạch&#13;
+- vi tính văn phòng: Execl, word, Power Point&#13;
+</skill>
+      <ui>883</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <keyword>Kỹ năng chăm sóc khách hàng,Tinh thần trách nhiệm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>140,142</strjo>
+  </appliedjob>
+</information>

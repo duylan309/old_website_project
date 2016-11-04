@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3826</id>
+      <email>phuonghuyenbt@gmail.com</email>
+      <username/>
+      <name>LÊ vũ PHƯƠNG HUYÊN</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0968306976</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474871091</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, Pha chế</title>
+      <experience>2</experience>
+      <category>14,27,35</category>
+      <type>5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>3826</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>273</strjo>
+  </appliedjob>
+</information>

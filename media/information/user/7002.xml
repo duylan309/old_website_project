@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7002</id>
+      <email>vongocmaythao@gmail.com</email>
+      <username/>
+      <name>Võ Ngọc May Thảo</name>
+      <im>1476989300_vo-ngoc-may-thao.png</im>
+      <gender>2</gender>
+      <phone>01299960508</phone>
+      <address>47-57 c/c Nguyễn Thái Bình, Q.1 TPHCM</address>
+      <city>30</city>
+      <dob>1996-8-5</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476989300</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>5</day>
+      <month>8</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.802397</lat>
+      <lng>106.6948697</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục vụ, pha chế.</title>
+      <experience>1</experience>
+      <category>15,27,35</category>
+      <type>2,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>-Nhanh nhẹn và có khả năng thích nghi cao.&#13;
+-Luôn nghiêm túc trong công việc&#13;
+-Vui vẻ hoà đồng và làm việc nhóm tốt</skill>
+      <ui>7002</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Em tên là Võ Ngọc May Thảo, hiện đang là sinh viên năm 3 ĐH Kinh Tế TPHCM.&#13;
+Hiện em đang có nhiều thời gian rảnh rổi và mong muốn có một công việc bán thời gian. Vừa giúp em có thể kết giao bạn mới vừa phần nào bổ sung vào sinh hoạt phí "ít ỏi" của bản thân.&#13;
+Ước mơ và sở thích nhỏ nhoi: trước năm 40 tuổi sẽ có thể đi được vòng quanh thế giới (và hết ế)</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>222</strjo>
+  </appliedjob>
+  <education>
+    <n_1151>
+      <id>1151</id>
+      <school>ĐH Kinh tế TPHCM</school>
+      <degrees>Tốt nghiệp THPT</degrees>
+      <fieldofstudy>Ngoại thương</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_1151>
+  </education>
+</information>

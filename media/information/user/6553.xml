@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6553</id>
+      <email>tuyen.dinh@amthucquenha.vn</email>
+      <username/>
+      <name>Đinh Khải Tuyên</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0909568820</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1476689117</created>
+      <dayleft>1479281117</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1476689117</last_signin>
+      <jobleft>4</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>1</total>
+    <strji>471</strji>
+  </totalJob>
+</information>

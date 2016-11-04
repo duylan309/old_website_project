@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6495</id>
+      <email>nhbt1404@gmail.com</email>
+      <username/>
+      <name>Nguyễn Hoàng Bích Triều</name>
+      <im>1476634825_nguyen-hoang-bich-trieu.png</im>
+      <gender>2</gender>
+      <phone>0933253075</phone>
+      <address>29 Lê Lăng, phường Phú Thọ Hòa, quận Tân Phú</address>
+      <city>30</city>
+      <dob>1995-4-14</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476634825</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>14</day>
+      <month>4</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.784341</lat>
+      <lng>106.623046</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, Thu ngân</title>
+      <experience>2</experience>
+      <category>14,15,16,19,26,29,30,31,35</category>
+      <type>2,5</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <skill>- Nghiệp vụ Thư ký văn phòng và văn bản ngoại giao&#13;
+- Kỹ năng lắng nghe và giải đáp thắc mắc cho khách hàng.</skill>
+      <ui>6495</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Trong công việc, là một người trung thực, có trách nhiệm, có tinh thần cầu tiến.&#13;
+Trong đời sống thường ngày, là một người lạc quan, sống tình cảm, thích giúp đỡ mọi người.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>409,427,304,414,279,487</strjo>
+  </appliedjob>
+</information>

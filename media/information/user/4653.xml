@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4653</id>
+      <email>huyenntn215@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Ngọc Huyển</name>
+      <im>644551759041610_huyen-key-ljk.jpg</im>
+      <gender>2</gender>
+      <dob>1996-5-21</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475393234</created>
+      <day>21</day>
+      <month>5</month>
+      <year>1996</year>
+      <last_signin>1475393234</last_signin>
+      <phone>0962308510</phone>
+      <address>16A Tự Cường, Tân Bình</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.791865</lat>
+      <lng>106.6562383</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>4653</ui>
+      <title>Phục vụ nữ</title>
+      <experience>7</experience>
+      <category>14,19,20</category>
+      <type>2</type>
+      <level>1</level>
+      <lang>en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <savedjob>
+    <total>1</total>
+    <strjo>367</strjo>
+  </savedjob>
+</information>

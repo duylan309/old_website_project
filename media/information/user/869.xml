@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>869</id>
+      <email>ngocdungho13169294@gmail.com</email>
+      <username/>
+      <name>Hồ Ngọc Dung</name>
+      <im>893309990773813_jun-juu.jpg</im>
+      <gender>2</gender>
+      <dob>1994-10-13</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471344628</created>
+      <day>13</day>
+      <month>10</month>
+      <year>1994</year>
+      <phone>0966769477</phone>
+      <address>416/6/38 Lạc Long Quân,p.5, q.11, Tp.HCM</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7764745</lat>
+      <lng>106.7008831</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_138>
+      <id>138</id>
+      <school>Đại học Mở Tp.HCM</school>
+      <degrees/>
+      <fieldofstudy>Luật kinh tế</fieldofstudy>
+      <from>2014</from>
+      <to>9/2017</to>
+    </n_138>
+  </education>
+  <user_cv>
+    <db>
+      <ui>869</ui>
+      <title>Nhân viên phục vụ, nhân viên bán hàng...</title>
+      <experience>2</experience>
+      <category>15,17,29,35</category>
+      <type>4,5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <skill>Giao tiếp tốt, tinh thần trách nhiệm, giải quyết tình huống, tự tin, chịu được áp lực công việc...</skill>
+      <keyword>Kỹ năng chăm sóc khách hàng,Tự tin,Nhiệt tình,Trung thực,Giao tiếp hiệu quả</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>156</strjo>
+  </appliedjob>
+</information>

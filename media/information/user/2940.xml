@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2940</id>
+      <email>ngocbao29.9.93@gmail.com</email>
+      <username/>
+      <name>Le Ngoc Bao</name>
+      <im/>
+      <gender>1</gender>
+      <phone>01202402720</phone>
+      <address>124/21 Tran Van Ky, Ward 14, Binh Thanh District</address>
+      <city>30</city>
+      <dob>1993-9-29</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474091015</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1474091015</last_signin>
+      <day>29</day>
+      <month>9</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8105831</lat>
+      <lng>106.7091422</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_650>
+      <id>650</id>
+      <title>Line Cook</title>
+      <level>1</level>
+      <cmpname>The Warehouse by Thai Cong</cmpname>
+      <city>HCMC</city>
+      <country>Vietnam</country>
+      <from>Sep 2015</from>
+      <to>Present</to>
+    </n_650>
+    <n_651>
+      <id>651</id>
+      <title>Pizza Chef</title>
+      <level>1</level>
+      <cmpname>Pizza 4P’s</cmpname>
+      <city>HCMC</city>
+      <country>Vietnam</country>
+      <from>Aug 2014</from>
+      <to>Sep 2015</to>
+    </n_651>
+  </experience>
+  <education>
+    <n_481>
+      <id>481</id>
+      <school>Duy Tan University</school>
+      <degrees>Bachelor</degrees>
+      <fieldofstudy>Tourism</fieldofstudy>
+      <from>2011</from>
+      <to>2014</to>
+    </n_481>
+  </education>
+  <user_cv>
+    <db>
+      <ui>2940</ui>
+      <title>Chef</title>
+      <experience>2</experience>
+      <category>14,18,20</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>en</lang>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <about>Seeking a position as a chef utilizing my culinary and organizational skills to make an excellent dine experience.</about>
+      <skill>	A keen interest in food and cooking, passion in Culinary arts&#13;
+	High standards of cleanliness and hygiene&#13;
+	Organization and time management skill&#13;
+	Hand-eye coordinator, attentiveness to detail&#13;
+	The ability to work under high pressure&#13;
+	High sense of responsibility&#13;
+	Being a team player, ability to handle criticism for improvement</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>206,78</strjo>
+  </appliedjob>
+</information>

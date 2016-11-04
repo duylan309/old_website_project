@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7474</id>
+      <email>melonsk286@gmail.com</email>
+      <username/>
+      <name>Quynh Hoang</name>
+      <im>524071847791112_quynh-hoang.jpg</im>
+      <gender>2</gender>
+      <dob>198-6-28</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477281463</created>
+      <day>28</day>
+      <month>6</month>
+      <year>198</year>
+      <phone>0934785875</phone>
+      <address>325/37/57 Bạch Đằng. Quận Bình Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.802769</lat>
+      <lng>106.710086</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Cộng tác viên</title>
+      <experience>7</experience>
+      <category>14,15,18,19</category>
+      <type>2,5,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill>Chụp ảnh.</skill>
+      <ui>7474</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Đang học Multimedia tại Đại học Công Nghệ TP.HCM&#13;
+Thích chụp ảnh, nghe nhạc.&#13;
+Luôn lắng nghe và tiếp thu tốt.&#13;
+Sử dụng thành thạo về đồ công nghệ và biết quản lí các trang mạng xã hội.</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>498</strjo>
+  </appliedjob>
+</information>

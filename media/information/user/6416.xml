@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6416</id>
+      <email>annapham06@gmail.com</email>
+      <username/>
+      <name>Phạm Thị Hồng Hạnh</name>
+      <im>1476546349_pham-thi-hong-hanh.png</im>
+      <gender>2</gender>
+      <phone>0931471546</phone>
+      <address>429/3, khu phố 5, Tô Ngọc Vân, phường Thạnh Xuân, quận 12</address>
+      <city>30</city>
+      <dob>1998-7-6</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476546349</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>6</day>
+      <month>7</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.893933</lat>
+      <lng>106.720722</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,17,20,29,31,35</category>
+      <type>2,4,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill>Tin học cơ bản, giao tiếp tiếng anh cơ bản</skill>
+      <ui>6416</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Chăm chỉ, nhiệt tình, trung thực, luôn lắng nghe ý kiến từ mọi người xung quanh.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>427,434,156,435,247,301</strjo>
+  </appliedjob>
+  <education>
+    <n_1061>
+      <id>1061</id>
+      <school>Đại học Ngoại ngữ - Tin học TP.HCM</school>
+      <degrees/>
+      <fieldofstudy>International Business</fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_1061>
+  </education>
+  <savedjob>
+    <total>1</total>
+    <strjo>435</strjo>
+  </savedjob>
+</information>

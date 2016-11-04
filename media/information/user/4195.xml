@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4195</id>
+      <email>namtranql14a@gmail.com</email>
+      <username/>
+      <name>Trần Phương Nam</name>
+      <im>1475027941_tran-phuong-nam.png</im>
+      <gender>1</gender>
+      <phone>0902568116</phone>
+      <address>132/128 nguyễn hữu cảnh phường 22 quận bình thạnh</address>
+      <city>30</city>
+      <dob>1996-12-31</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475027941</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>31</day>
+      <month>12</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7889231</lat>
+      <lng>106.7151947</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Bảo vệ,an ninh,nhân viên sự kiện,writter,dịch thuật</title>
+      <experience>7</experience>
+      <category>14,17,18,26,28,29,31,35</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>làm việc nhóm&#13;
+IELTS 6.5&#13;
+khả năng tập trung làm việc&#13;
+khả năng giao tiếp</skill>
+      <ui>4195</ui>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <about>Mình tên Trần Phương Nam và hiện tại mình đang là sinh viên.Với mong muốn được trải nghiệm nhiều công việc cũng như nhiều bộ phận để có được nhiều kinh nghiệm làm việc cũng như kinh nghiệm sống để giúp bản thân trưởng thành và có khả năng tự lập cho bản thân.Hiện tại quan trọng nhất với mình đó là kinh nghiệm quý báu tiếp thu được từ những công việc trải ngheim65 của mình.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>299,240,267,162,367</strjo>
+  </appliedjob>
+  <experience>
+    <n_890>
+      <id>890</id>
+      <title>Ban event</title>
+      <level>1</level>
+      <cmpname>CLB UT-LOGS  trường đại học giao thông vận tải</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>việt nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_890>
+    <n_891>
+      <id>891</id>
+      <title>joiner</title>
+      <level>1</level>
+      <cmpname>Hành trình 36h-The Jailbreak 2016</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>việt nam</country>
+      <from>tháng 8/2016</from>
+      <to>tháng 8/2016</to>
+    </n_891>
+    <n_892>
+      <id>892</id>
+      <title>Ban event</title>
+      <level>1</level>
+      <cmpname>Mr.Logistics</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>việt nam</country>
+      <from>2016</from>
+      <to>2016</to>
+    </n_892>
+  </experience>
+  <education>
+    <n_676>
+      <id>676</id>
+      <school>Đại học Giao thông vận tải Thành Phố Hồ Chí Minh</school>
+      <degrees>Đang học</degrees>
+      <fieldofstudy>Logistics</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_676>
+  </education>
+</information>

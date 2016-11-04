@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>95</id>
+    <ui>287</ui>
+    <ci>220</ci>
+    <ai>0</ai>
+    <ti>HR Staff</ti>
+    <ta/>
+    <le>3</le>
+    <ty>1</ty>
+    <ex>2</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>20</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad>22, Thi Sách, Quận 1</ad>
+    <lat>10.778885</lat>
+    <lng>106.704285</lng>
+    <de>2016-11-08</de>
+    <re>0000-00-00</re>
+    <cr>1468210746</cr>
+  </db>
+  <more>
+    <requirement/>
+    <description/>
+    <benefit/>
+    <keyword>Responsibility,Work well under pressure,Confidence</keyword>
+  </more>
+  <userapplied>
+    <total>16</total>
+    <strui>332,389,516,623,868,899,1173,1410,1859,1995,2063,2513,2715,4944,6021,739</strui>
+  </userapplied>
+</information>

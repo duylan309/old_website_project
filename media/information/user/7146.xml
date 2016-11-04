@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7146</id>
+      <email>chauchau.pham@yahoo.com</email>
+      <username/>
+      <name>ChauChau Pham</name>
+      <im>744788065670607_chauchau-pham.jpg</im>
+      <gender>2</gender>
+      <dob>1993-2-6</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477075209</created>
+      <day>6</day>
+      <month>2</month>
+      <year>1993</year>
+      <phone>0901319706</phone>
+      <address>B58/29 Nguyễn Thần Hiến Phường 18, Quận 4</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.755687</lat>
+      <lng>106.716264</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Lễ tân, telesafe, nhân viên</title>
+      <experience>2</experience>
+      <category>14,17,20,26,27,28,29,31,35</category>
+      <type>1,2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Chăm sóc khách hàng, lắng nghe và hỗ trợ khách hnagf</skill>
+      <ui>7146</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>391,419,487,393</strjo>
+  </appliedjob>
+</information>

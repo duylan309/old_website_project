@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>659</id>
+      <email>kennhock1997@gmail.com</email>
+      <username/>
+      <name>Huỳnh Phước Trí</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01287916523</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470757919</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>2,5</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill>Kỹ năng giao tiếp, Ứng xử linh hoạt, Kỹ năng mềm, .....</skill>
+      <ui>659</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>130</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6358</id>
+      <email>lethithuytrang2207@gmail.com</email>
+      <username/>
+      <name>Lê Thị Thùy Trang</name>
+      <im>1476522187_le-thi-thuy-trang.png</im>
+      <gender>2</gender>
+      <phone>0934152207</phone>
+      <address>21/31 bình lợi p13 q. bình thạnh</address>
+      <city>30</city>
+      <dob>1994-7-22</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476522187</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>22</day>
+      <month>7</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8260576</lat>
+      <lng>106.7065173</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên</title>
+      <experience>7</experience>
+      <category>26,29,30,35</category>
+      <type>1,2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>6358</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>107,252,249,408,465</strjo>
+  </appliedjob>
+</information>

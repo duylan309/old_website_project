@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2005</id>
+      <email>caominh19966@gmail.com</email>
+      <username/>
+      <name>Cao Giang Minh</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0906204514</phone>
+      <address/>
+      <city/>
+      <dob>1996-5-10</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473143783</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>10</day>
+      <month>5</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>phụ bếp</title>
+      <experience>7</experience>
+      <category>14,15,17,29,35,36</category>
+      <type>1</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill>nhiệt huyết, cần cù, có sự cầu tiến trong công việc</skill>
+      <ui>2005</ui>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>17</total>
+    <strjo>177,182,191,183,153,114,256,265,222,243,188,276,139,250,294,361,352</strjo>
+  </appliedjob>
+</information>

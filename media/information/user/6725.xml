@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6725</id>
+      <email>max.kruse009@gmail.com</email>
+      <username/>
+      <name>Quốc Khanh</name>
+      <im>1805403503069547_quoc-khanh.jpg</im>
+      <gender>1</gender>
+      <dob>1993-9-1</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476805499</created>
+      <day>1</day>
+      <month>9</month>
+      <year>1993</year>
+      <last_signin>1476805499</last_signin>
+      <phone>0903103691</phone>
+      <address>Gò Vấp</address>
+      <country>vn</country>
+      <city/>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1349>
+      <id>1349</id>
+      <title>nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Công ty TNHH Phi Khoa</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt nam</country>
+      <from>2011</from>
+      <to>2012</to>
+    </n_1349>
+  </experience>
+  <education>
+    <n_1109>
+      <id>1109</id>
+      <school>Đại học Công Nghệ Tp Hồ Chí Minh</school>
+      <degrees>Cử Nhân</degrees>
+      <fieldofstudy>Quản trị ngoại thương</fieldofstudy>
+      <from>2011</from>
+      <to>2015</to>
+    </n_1109>
+  </education>
+  <user_cv>
+    <db>
+      <ui>6725</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>2</experience>
+      <category>14,16,19,31</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>mình là người năng động, vui vẻ. ham học hỏi. có tình thần trách nhiệm và ý thức tốt. </about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>241</strjo>
+  </appliedjob>
+</information>

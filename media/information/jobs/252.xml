@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>252</id>
+    <ui>2088</ui>
+    <ci>317</ci>
+    <ai>0</ai>
+    <ti>Nhân viên phục vụ</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1,2,5</ty>
+    <ex>1,7</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>152</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-06</de>
+    <re>0000-00-00</re>
+    <cr>1473236448</cr>
+  </db>
+  <more>
+    <requirement>- Trên 20 tuổi&#13;
+- Vui vẻ, nhanh nhẹn, chăm chỉ, lễ phép, trung thực, tự giác&#13;
+- Biết tiếng Anh là 1 lợi thế&#13;
+- Có tinh thần trách nhiệm cao, chịu được áp lực công việc&#13;
+- Có khả năng làm việc theo nhóm, xử lý tình huống chuyên nghiệp trong mọi tình huống.&#13;
+- KHÔNG nghỉ các ngày cuối tuần / Lễ / Tết&#13;
+- Có kinh nghiệm là 1 lợi thế</requirement>
+    <description>- Nhậc order và phục vụ khách theo tiêu chuẩn quy định&#13;
+- Hỗ trợ đồng nghiệp để thực hiện công việc 1 cách nhanh chóng</description>
+    <benefit>- Được đào tạo thêm những kiến thức cần thiết trong quá trình làm việc.&#13;
+- Môi trường làm việc chuyên nghiệp&#13;
+- Lương + Tips + Chế độ khen thưởng</benefit>
+    <keyword>metsign,trách nhiệm,nhân viên,phục vụ,cafe</keyword>
+  </more>
+  <userapplied>
+    <total>57</total>
+    <strui>1960,2163,1773,2250,2382,2467,2515,2550,2578,2159,2332,2733,2780,2746,2972,3017,3067,1315,3141,3642,2577,3834,4207,4150,4408,3819,4532,4562,940,4632,4727,4565,3668,4777,4181,5248,1605,4474,425,4724,5848,6061,6193,6358,4246,6489,6638,5107,6049,7270,7257,4833,7649,7988,6864,7805,5777</strui>
+  </userapplied>
+</information>

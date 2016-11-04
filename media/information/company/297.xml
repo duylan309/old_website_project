@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>297</id>
+    <ui>1558</ui>
+    <name>Poulo Condor</name>
+    <url>PouloCondorResort</url>
+    <im>_poulo-condor.jpg</im>
+    <im_banner>_poulo-condor-cover.jpg</im_banner>
+    <category>14,18,30</category>
+    <phone>064 3 782 112</phone>
+    <address>Côn Đảo</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>2</city>
+    <lat>9.509578</lat>
+    <lng>106.841560</lng>
+    <website>https://www.facebook.com/poulo.condor.1</website>
+    <about/>
+    <facebook>https://www.facebook.com/PouloCondorResort/</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1472533810</created>
+  </db>
+  <more>
+    <about>Poulo Condor was the name of Con Dao Island in 18th century , It is located at Suoi Ot Site, Con Dao District, Ba Ria-Vung Tau Province.</about>
+    <whyworkus/>
+  </more>
+  <companybanner>_poulo-condor-cover.jpg</companybanner>
+  <totalJob>
+    <total>3</total>
+    <strji>216,217,218</strji>
+  </totalJob>
+</information>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>257</id>
+    <ui>2138</ui>
+    <ci>319</ci>
+    <ai>0</ai>
+    <ti>Pha chế / Barista</ti>
+    <ta/>
+    <le>2</le>
+    <ty>4</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>3500000</s1>
+    <s2>5000000</s2>
+    <s3>159</s3>
+    <s4>227</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14,15,16,18,20,26,28,31</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description>Pha chế &amp; trang trí cho từng loại thức uống: cappuccino, latte, espresso.... sinh tố, nước ép\r\nĐảm bảo được chất lượng thức uống giao tới cho khách hàng. \r\n</description>
+    <requirement>Có kinh nghiệm pha chế các loại café máy, sinh tố, nước ép. \r\nGiao tiếp được tiếng Anh\r\n</requirement>
+    <benefit>Lương, tăng ca + thưởng\r\n\r\nYêu cầu hồ sơ\r\n- Đơn xin việc, Sơ yếu lý lịch.\r\n- Chứng minh nhân dân\r\n- Các bằng cấp có liên quan.\r\n</benefit>
+    <keyword/>
+    <ad/>
+    <location_id>154</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-06</de>
+    <re>0000-00-00</re>
+    <cr>1473577038</cr>
+  </db>
+  <more>
+    <description>Pha chế &amp; trang trí cho từng loại thức uống: cappuccino, latte, espresso.... sinh tố, nước ép&#13;
+Đảm bảo được chất lượng thức uống giao tới cho khách hàng. &#13;
+</description>
+    <requirement>Có kinh nghiệm pha chế các loại café máy, sinh tố, nước ép. &#13;
+Giao tiếp được tiếng Anh&#13;
+</requirement>
+    <benefit>Lương, tăng ca + thưởng&#13;
+&#13;
+Yêu cầu hồ sơ&#13;
+- Đơn xin việc, Sơ yếu lý lịch.&#13;
+- Chứng minh nhân dân&#13;
+- Các bằng cấp có liên quan.&#13;
+</benefit>
+  </more>
+  <userapplied>
+    <total>6</total>
+    <strui>2199,2791,3767,3027,6506,5985</strui>
+  </userapplied>
+</information>

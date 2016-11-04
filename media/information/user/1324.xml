@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1324</id>
+      <email>nguyenminhhoangqs@gmail.com</email>
+      <username/>
+      <name>Hoàng Ng</name>
+      <im>2103854346506591_hoang-ng.jpg</im>
+      <gender>1</gender>
+      <dob>1996-8-20</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472114159</created>
+      <day>20</day>
+      <month>8</month>
+      <year>1996</year>
+      <phone>01228721279</phone>
+      <address>188/4. Phạm Ngũ Lão Phường 7 Gò Vấp</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.825396</lat>
+      <lng>106.681014</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>35</category>
+      <type>2,5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Đã từng có kinh nghiệm bán hàng shop nam hiệu xuất khẩu, am hiểu về các nhãn hàng trong và ngoài nước, có kinh nghiệm bán hàng online, trả lời tư vấn khách hàng. Có lap top</skill>
+      <ui>1324</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>124</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4363</id>
+      <email>nhatanhkute1@gmail.com</email>
+      <username/>
+      <name>Võ nhật anh</name>
+      <im>1475108063_vo-nhat-anh.png</im>
+      <gender>0</gender>
+      <phone>0932858921</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475108063</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhan phục vụ,pha chế,thu ngân</title>
+      <experience>7</experience>
+      <category>15,16,26,27,35</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>4363</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>241</strjo>
+  </appliedjob>
+</information>

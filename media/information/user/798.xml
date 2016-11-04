@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>798</id>
+      <email>12128074@st.hcmuaf.edu.vn</email>
+      <username/>
+      <name>Lê Thị Tuyết Linh</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0932785410</phone>
+      <address/>
+      <city>30</city>
+      <dob>1994-12-9</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471094832</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>9</day>
+      <month>12</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục vụ, bán hàng, trợ lý</title>
+      <experience>1</experience>
+      <category>29,31,35</category>
+      <type>1,2,3,4,5,6</type>
+      <level>1,2,3</level>
+      <lang>vi,en</lang>
+      <skill>Khả năng chịu đựng cao, có thể cười liên tục cả ngày.</skill>
+      <ui>798</ui>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>107,151,104</strjo>
+  </appliedjob>
+  <experience>
+    <n_178>
+      <id>178</id>
+      <title>Phục vụ</title>
+      <level>1</level>
+      <cmpname>Claris Palace, SECC</cmpname>
+      <city>TPHCM</city>
+      <country>Việt nam</country>
+      <from>2013</from>
+      <to>2016</to>
+    </n_178>
+  </experience>
+  <education>
+    <n_117>
+      <id>117</id>
+      <school>Đại học Nông Lâm</school>
+      <degrees>chưa có</degrees>
+      <fieldofstudy>Ngoại ngữ - Sư phạm</fieldofstudy>
+      <from>2012</from>
+      <to>2017</to>
+    </n_117>
+  </education>
+</information>

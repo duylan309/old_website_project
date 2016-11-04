@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5009</id>
+      <email>wantedthinh@yahoo.com</email>
+      <username/>
+      <name>Phùng Duy Hưng Thịnh</name>
+      <im>5009_13325651-514705235383924-5960450269113943963-n.jpg</im>
+      <gender>1</gender>
+      <phone>0961564034</phone>
+      <address>243/34/22/15 Hoàng Diệu Quận 4 HCM</address>
+      <city>30</city>
+      <dob>1996-11-5</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475649389</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>5</day>
+      <month>11</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7586184</lat>
+      <lng>106.6981327</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên bán hàng, PB</title>
+      <experience>1</experience>
+      <category>26,31,35</category>
+      <type>1,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill> sức khỏe tốt&#13;
+tiếng anh cơ bản</skill>
+      <ui>5009</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Tôi là Phùng Duy Hưng Thịnh&#13;
+Năm nay tôi 21t và quê ở Nha Trang&#13;
+sở thích của tôi : training english and street workout</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>311,333</strjo>
+  </appliedjob>
+  <experience>
+    <n_1044>
+      <id>1044</id>
+      <title>PB</title>
+      <level>1</level>
+      <cmpname>abbott nutrition</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Việt Nam</country>
+      <from>1-2015</from>
+      <to>11-2015</to>
+    </n_1044>
+    <n_1045>
+      <id>1045</id>
+      <title>nhân viên</title>
+      <level>1</level>
+      <cmpname>Koi cafe</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Việt Nam</country>
+      <from>1-2016</from>
+      <to>7-2016</to>
+    </n_1045>
+  </experience>
+  <education>
+    <n_836>
+      <id>836</id>
+      <school>Đại Học Tôn Đức Thắng</school>
+      <degrees>cao đẳng</degrees>
+      <fieldofstudy>xây dựng</fieldofstudy>
+      <from>2014</from>
+      <to>2016</to>
+    </n_836>
+  </education>
+  <savedjob>
+    <total>1</total>
+    <strjo>311</strjo>
+  </savedjob>
+</information>

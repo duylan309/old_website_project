@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3206</id>
+      <email>cak17021997@gmail.com</email>
+      <username/>
+      <name>Cao Ái Kha</name>
+      <im>1474392506_cao-a-i-kha.png</im>
+      <gender>2</gender>
+      <phone>01656562977</phone>
+      <address>328/44/1 Nguyễn Thị Đặng, p Tân Thới Hiệp, q12, TPHCM</address>
+      <city>30</city>
+      <dob>1997-2-17</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474392506</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>17</day>
+      <month>2</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8279001</lat>
+      <lng>106.6695937</lng>
+      <deactive>1</deactive>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, pha chế</title>
+      <experience>7</experience>
+      <category>14,15,16,19,29,30</category>
+      <type>2,3,6</type>
+      <level>2</level>
+      <lang>vi,en,ja</lang>
+      <skill>kỹ năng giao tiếp, kỹ năng làm việc nhóm, kỹ năng sáng tạo, kỹ năng sắp xếp và quản lí thời gian</skill>
+      <ui>3206</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Tôi là một người khá hòa đồng, cá tính mạnh, sáng tạo và hơi cầu toàn. Tôi dễ dàng thích nghi với mọi sự thay đổi từ môi trường làm việc, học tập, sinh sống. Tôi luôn thích học hỏi và khám phá những điều mới mẻ, luôn cố gắng để cải thiện những thiếu sót của bản thân.</about>
+      <keyword/>
+      <deactive>1</deactive>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>7</total>
+    <strjo>298,130,215,64,201,69,208</strjo>
+  </appliedjob>
+  <education>
+    <n_526>
+      <id>526</id>
+      <school>Đại học Kinh tế TPHCM</school>
+      <degrees>chưa có</degrees>
+      <fieldofstudy>Kinh doanh quốc tế</fieldofstudy>
+      <from>2015</from>
+      <to>nay</to>
+    </n_526>
+  </education>
+</information>

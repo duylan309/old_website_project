@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7066</id>
+      <email>uyennguyen160997@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Phương Uyên</name>
+      <im>7066_12669429-596002150566139-3937262513185915603-n.jpg</im>
+      <gender>2</gender>
+      <phone>0971037497</phone>
+      <address>50/16 Lê Thị Hồng Phường 17 Quận Gò Vấp</address>
+      <city>30</city>
+      <dob>1997-9-16</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477051622</created>
+      <dayleft>0</dayleft>
+      <jobleft>0</jobleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1477051622</last_signin>
+      <day>16</day>
+      <month>9</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.833043</lat>
+      <lng>106.6777619</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1390>
+      <id>1390</id>
+      <title>Phục vụ</title>
+      <level>1</level>
+      <cmpname>Trà Sữa và Xiên Que Hot And Cold</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>tháng 4</from>
+      <to>tháng 9</to>
+    </n_1390>
+  </experience>
+  <education>
+    <n_1159>
+      <id>1159</id>
+      <school>Đại Học Mở</school>
+      <degrees/>
+      <fieldofstudy>Kế Toán</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_1159>
+  </education>
+  <user_cv>
+    <db>
+      <ui>7066</ui>
+      <title>Nhân viên phục vụ, Pha chế, Thu ngân, Tạp vụ</title>
+      <experience>1</experience>
+      <category>14,15,17,27,29,31,35</category>
+      <type>2,4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3200000</s1>
+      <salary>1</salary>
+      <about>Muốn trải nghiệm để học hỏi them nhiều kinh nghiệm trong công việc. Làm việc chăm chỉ, có khả năng chịu áp lực cao</about>
+      <skill>Kỹ năng làm việc hóm</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>8</total>
+    <strjo>219,126,427,348,105,107,158,435</strjo>
+  </appliedjob>
+</information>

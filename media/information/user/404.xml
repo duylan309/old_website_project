@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>404</id>
+      <email>thy.thuc@gmail.com</email>
+      <username/>
+      <name>Hà Thúc Yến Thy</name>
+      <im>1718297318395136_thy-thuc.jpg</im>
+      <gender>2</gender>
+      <dob>1998-9-22</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470055063</created>
+      <day>22</day>
+      <month>9</month>
+      <year>1998</year>
+      <phone>0902123957</phone>
+      <address>234 CMT8 p10 q3</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.789599</lat>
+      <lng>106.659983</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>404</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Nhiệt tình,Giao tiếp hiệu quả,Tinh thần trách nhiệm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>91,84,100</strjo>
+  </appliedjob>
+  <savedjob/>
+</information>

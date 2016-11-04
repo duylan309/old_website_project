@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3939</id>
+      <email>phandiem_la@yahoo.com.vn</email>
+      <username/>
+      <name>Phan Thị Ngọc Diễm</name>
+      <im>1474895766_phan-thi-ngoc-diem.png</im>
+      <gender>2</gender>
+      <phone>0908563447</phone>
+      <address>190 Bà Hom, P.13, Q.6, Tp.HCM</address>
+      <city>30</city>
+      <dob>1989-4-10</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474895766</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>10</day>
+      <month>4</month>
+      <year>1989</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7764745</lat>
+      <lng>106.7008831</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phụ bếp</title>
+      <experience>1</experience>
+      <category>14,20</category>
+      <type>1,2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Làm bếp chính tại nhà hàng lẩu HotpotStory Hùng Vương. Biết làm những món ăn nhẹ, sushi,salad...</skill>
+      <ui>3939</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Từng học bếp tại trường Hướng Nghiệp Á Âu và làm bếp tại nhà hàng mì tươi Tam Hảo và HotpotStory Hùng Vương</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>183,153,225,188</strjo>
+  </appliedjob>
+  <education>
+    <n_643>
+      <id>643</id>
+      <school>Hướng nghiệp Á Âu</school>
+      <degrees>Cơ bản</degrees>
+      <fieldofstudy>Nấu ăn</fieldofstudy>
+      <from>2014</from>
+      <to>2015</to>
+    </n_643>
+  </education>
+  <experience>
+    <n_867>
+      <id>867</id>
+      <title>Quận 6</title>
+      <level>1</level>
+      <cmpname>Nhà hàng HotpotStory Hùng Vương</cmpname>
+      <city>tp.HCM</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>2016</to>
+    </n_867>
+  </experience>
+  <savedjob>
+    <total>1</total>
+    <strjo>153</strjo>
+  </savedjob>
+</information>

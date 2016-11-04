@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5896</id>
+      <email>akari10888@gmail.com</email>
+      <username/>
+      <name>Trung Hoàngg</name>
+      <im>648738998627854_trung-hoangg.jpg</im>
+      <gender>1</gender>
+      <dob>1998-10-18</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476257463</created>
+      <day>18</day>
+      <month>10</month>
+      <year>1998</year>
+      <phone>01222681250</phone>
+      <address>Phạm Thế Hiển P7 Q8 </address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7378743</lat>
+      <lng>106.6511559</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Bếp Chính</title>
+      <experience>2</experience>
+      <category>14</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Phối hợp nhóm  </skill>
+      <ui>5896</ui>
+      <s1>7000000</s1>
+      <salary>1</salary>
+      <about>Hòa đồng vui vẻ </about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>377,441</strjo>
+  </appliedjob>
+</information>

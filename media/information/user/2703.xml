@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2703</id>
+      <email>trangkuney1998@gmail.com</email>
+      <username/>
+      <name>Trang Thu Pham</name>
+      <im>772128962927854_trang-thu-pham.jpg</im>
+      <gender>2</gender>
+      <dob>1998-5-2</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473778435</created>
+      <day>2</day>
+      <month>5</month>
+      <year>1998</year>
+      <phone>01655826033</phone>
+      <address>365 phan huy ích p14 quận gò vấp tphcm</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục vụ bán thời gian</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>2703</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Hoà đồng vui vẻ thích môi trường năng động thoải mái</about>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Trung thực,Tự tin,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>165,156,278,262,202</strjo>
+  </appliedjob>
+  <experience>
+    <n_598>
+      <id>598</id>
+      <title>Chăm sóc khách hàng</title>
+      <level>1</level>
+      <cmpname>Thế giới board game</cmpname>
+      <city>Tphcm</city>
+      <country/>
+      <from>10-6-2016</from>
+      <to>13-9-2016</to>
+    </n_598>
+  </experience>
+</information>

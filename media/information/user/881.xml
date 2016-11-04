@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>881</id>
+      <email>loveyou_1091@yahoo.com</email>
+      <username/>
+      <name>Trần Thị Thùy</name>
+      <im>1047181898731458_thuytran-lobe.jpg</im>
+      <gender>2</gender>
+      <dob>0909987736-10-27</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471361942</created>
+      <day>27</day>
+      <month>10</month>
+      <year>0909987736</year>
+      <phone>0909987736</phone>
+      <address>245/43f nguyễn Trãi, p. nguyễn cư Trinh, q. 1, tphcm</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7335118</lat>
+      <lng>106.6974634</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>phục vụ</title>
+      <experience>2</experience>
+      <category>14,20</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en,ch</lang>
+      <skill>Tôi có khả năng giao tiếp tốt ngoài ra tôi còn có kinh nghiệm về thu ngân</skill>
+      <ui>881</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>86</strjo>
+  </appliedjob>
+</information>

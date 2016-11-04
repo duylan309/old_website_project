@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2795</id>
+      <email>tgiaman2796@gmail.com</email>
+      <username/>
+      <name>Trần Gia Mẫn</name>
+      <im>2795_14022181-950856861689678-3076003415135588566-n.jpg</im>
+      <gender>2</gender>
+      <phone>0938360533</phone>
+      <address>18/7 Huỳnh Văn Bánh, phường 15, quận Phú Nhuận</address>
+      <city>30</city>
+      <dob>1996-7-2</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473949592</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>2</day>
+      <month>7</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.795779</lat>
+      <lng>106.681298</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,20,26,29</category>
+      <type>4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Có khả năng làm việc nhóm tốt</skill>
+      <ui>2795</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Hòa đồng, thân thiện, vui vẻ, ham học hỏi, thích chơi thể thao, trung thực, chăm chỉ</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <experience>
+    <n_989>
+      <id>989</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Cafe M2C</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>tháng 12/2014</from>
+      <to>tháng 7/2015</to>
+    </n_989>
+  </experience>
+  <appliedjob>
+    <total>2</total>
+    <strjo>371,279</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>279</strjo>
+  </savedjob>
+</information>

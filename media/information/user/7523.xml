@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7523</id>
+      <email>nkhanhlinh21292@gmail.com</email>
+      <username/>
+      <name>Nguyễn Khánh Linh</name>
+      <im>1477297562_nguyen-khanh-linh.png</im>
+      <gender>2</gender>
+      <phone>0942783246</phone>
+      <address>62 Bùi Thế Mỹ, Phường 10, Quận Tân BÌnh, TP Hồ Chí Minh</address>
+      <city></city>
+      <dob>1992-12-2</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477297561</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>2</day>
+      <month>12</month>
+      <year>1992</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên Kế toán Kho</title>
+      <experience>2</experience>
+      <category>17,31,35</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Word, Excel,...</skill>
+      <ui>7523</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>149</strjo>
+  </appliedjob>
+</information>

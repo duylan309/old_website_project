@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3172</id>
+      <email>subynnguyen1993@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thái Sơn</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0909809802</phone>
+      <address>80/90a trần quang diệu f14 q3</address>
+      <city>30</city>
+      <dob>1993-10-1</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474363611</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>1</day>
+      <month>10</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.789717</lat>
+      <lng>106.679789</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>2</experience>
+      <category>14,15</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>ja</lang>
+      <skill>nhanh nhẹn&#13;
+sạch sẽ&#13;
+cẩn thận</skill>
+      <ui>3172</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>221,64,247,301,158,294</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>3</total>
+    <strjo>215,292,278</strjo>
+  </savedjob>
+</information>

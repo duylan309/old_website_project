@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3260</id>
+      <email>vuongthimyhang_1988@yahoo.com</email>
+      <username/>
+      <name>Vương Thị Mỹ Hằng</name>
+      <im>3260_image.jpeg</im>
+      <gender>2</gender>
+      <phone>0946199149</phone>
+      <address>270/14 Phan Đình Phùng q.Phú Nhuận</address>
+      <city>30</city>
+      <dob>1988-11-5</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474468351</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>5</day>
+      <month>11</month>
+      <year>1988</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.79697</lat>
+      <lng>106.682106</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Chăm sóc khách hàng,lễ tân spa</title>
+      <experience>2</experience>
+      <category>18,28,29,30</category>
+      <type>6</type>
+      <level>2,3</level>
+      <lang>en</lang>
+      <skill>Chăm sóc khách hàng&#13;
+Tư vấn&#13;
+Vi tính văn phòng</skill>
+      <ui>3260</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>260,140,268</strjo>
+  </appliedjob>
+  <education>
+    <n_537>
+      <id>537</id>
+      <school>Đại Học Hồng Bàng</school>
+      <degrees>Trung cấp</degrees>
+      <fieldofstudy>Nhà hàng-khách sạn</fieldofstudy>
+      <from>2006</from>
+      <to>2008</to>
+    </n_537>
+  </education>
+</information>

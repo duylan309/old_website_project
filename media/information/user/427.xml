@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>427</id>
+      <email>thanhvy311297@gmail.com</email>
+      <username/>
+      <name>Nguyễn La Thanh Vy</name>
+      <im>427_12460011-1801076740120148-1480635305-n.jpg</im>
+      <gender>2</gender>
+      <phone>01286612998</phone>
+      <address>109 Minh Phụng Phường 9 Quận 6</address>
+      <city>30</city>
+      <dob>1997-12-31</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470077247</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>31</day>
+      <month>12</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.750822</lat>
+      <lng>106.64232</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>427</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15,26,27,29,30</category>
+      <type>2,6</type>
+      <level>2</level>
+      <lang>vi,en,kr</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <savedjob>
+    <total>1</total>
+    <strjo>87</strjo>
+  </savedjob>
+</information>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3338</id>
+      <email>Cancernguyen100794@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thành Phước</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0965624921</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474536972</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế</title>
+      <experience>2</experience>
+      <category>15,16</category>
+      <type>1,4</type>
+      <level>2,4</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>3338</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>266</strjo>
+  </appliedjob>
+</information>

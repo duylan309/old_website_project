@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>759</id>
+      <email>ga_siu_thit_nt@yahoo.com.vn</email>
+      <username/>
+      <name>Yen Tai Nguyen</name>
+      <im>524971007698374_yen-tai-nguyen.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470991966</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <experience>
+    <n_161>
+      <id>161</id>
+      <title>Tư vấn viên</title>
+      <level>1</level>
+      <cmpname>Ts.24</cmpname>
+      <city>Hồ chí minh </city>
+      <country>Viet nam.</country>
+      <from>Thang 2</from>
+      <to>Thang5</to>
+    </n_161>
+  </experience>
+</information>

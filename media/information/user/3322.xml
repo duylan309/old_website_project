@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3322</id>
+      <email>btnha89@gmail.com</email>
+      <username/>
+      <name>Nhã Bùi</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0987171789</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474529135</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>human resource officer</title>
+      <experience>2</experience>
+      <category>20</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>- customer service&#13;
+- post job and search CV&#13;
+- admin jobs&#13;
+- assist recruitment &#13;
+</skill>
+      <ui>3322</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>217</strjo>
+  </appliedjob>
+</information>

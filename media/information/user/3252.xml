@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3252</id>
+      <email>vy.ng0x_9x@yahoo.com</email>
+      <username/>
+      <name>Ngọc Vy</name>
+      <im>1043159112469678_ngoc-vy.jpg</im>
+      <gender>2</gender>
+      <dob>1997-4-21</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474457358</created>
+      <day>21</day>
+      <month>4</month>
+      <year>1997</year>
+      <last_signin>1474457358</last_signin>
+      <phone>0941735374</phone>
+      <address>1036/74/10 cách mạng tháng 8 quận tân bình</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7912605</lat>
+      <lng>106.6564223</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>3252</ui>
+      <title>Nhân viên phục vụ , thu ngân, phụ bếp , pha chế ,...</title>
+      <experience>7</experience>
+      <category>15,17,27,29,35</category>
+      <type>2</type>
+      <level>1</level>
+      <lang>en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Sinh viên năm 2 trường đại học Tôn Đức Thắng chuyên ngành tài chính và kiểm soát</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>156,191</strjo>
+  </appliedjob>
+</information>

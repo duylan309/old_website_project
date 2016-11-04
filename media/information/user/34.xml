@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>34</id>
+      <email>trung@gmail.com</email>
+      <username/>
+      <name>Trần Trung</name>
+      <im>34_trung.jpg</im>
+      <gender>1</gender>
+      <dob>1995-03-15</dob>
+      <is_newletter>0</is_newletter>
+      <type>2</type>
+      <status>1</status>
+      <created>1458056869</created>
+      <phone>097653874</phone>
+      <address>43 Trần Bình Trọng, Quận 8</address>
+      <city>0</city>
+      <facebook>https://www.facebook.com/tran.trung.73307</facebook>
+      <country>us</country>
+      <skype></skype>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>34</ui>
+      <category>15,18</category>
+      <title>Dishwasher</title>
+      <level>2</level>
+      <experience>3</experience>
+      <location>30</location>
+      <salary>9,000,000 VND</salary>
+      <skill>-	Tốt nghiệp Cao đẳng trở lên trong lĩnh vực nhà hàng khách sạn&#13;
+-	Kinh nghiệm liên quan tới vị trí: Tối thiểu 03 kinh nghiệm tại vị trí tương đương&#13;
+-	Năng động, sáng tạo, nhiệt tình, tự tin, quyết đoán, có trách nhiệm với công việc&#13;
+-	Kỹ năng thuyết trình, làm việc theo nhóm, làm việc độc lập, lãnh đạo, chịu được áp lực công việc;&#13;
+-	Kỹ năng giao tiếp tốt &#13;
+-	Sử dụng máy tính và tin học văn phòng&#13;
+-	Giao tiếp Tiếng Anh tốt</skill>
+      <type>2</type>
+      <s1>0</s1>
+    </db>
+  </user_cv>
+</information>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6475</id>
+      <email>auphiduong@gmail.com</email>
+      <username/>
+      <name>Trần Nhất Bửu</name>
+      <im>6475_14142010-1792900357594564-4039374850909292492-n.jpg</im>
+      <gender>1</gender>
+      <dob>1996-9-20</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476624615</created>
+      <day>20</day>
+      <month>9</month>
+      <year>1996</year>
+      <last_signin>1476624615</last_signin>
+      <phone>01227835007</phone>
+      <address>242/98  Bà Hom phường 13 Quận 6</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.757403</lat>
+      <lng>106.626558</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1301>
+      <id>1301</id>
+      <title>Bartender</title>
+      <level>1</level>
+      <cmpname>utt loung</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>VietNam</country>
+      <from>2014</from>
+      <to>2016</to>
+    </n_1301>
+  </experience>
+  <education>
+    <n_1066>
+      <id>1066</id>
+      <school>STHC saigontourist</school>
+      <degrees>trung câp</degrees>
+      <fieldofstudy>Huong Dan Vien du Lich</fieldofstudy>
+      <from>2015</from>
+      <to>1026</to>
+    </n_1066>
+  </education>
+  <user_cv>
+    <db>
+      <ui>6475</ui>
+      <title>Bartender</title>
+      <experience>2</experience>
+      <category>15,16,18,19,30</category>
+      <type>4</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>tôi từng học tại trường STHC saigontourist . từng làm Bartender ở beerclub và Barista tại các quán   coffee</about>
+      <skill>Quản lý </skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>466,411,286</strjo>
+  </appliedjob>
+</information>

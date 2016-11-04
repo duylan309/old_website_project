@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>518</id>
+      <email>Leinguyen203@gmail.com</email>
+      <username/>
+      <name>Nguyễn Ngọc Minh Châu</name>
+      <im>518_c360-2016-07-20-05-56-32-127.jpg</im>
+      <gender>2</gender>
+      <phone>0906805538</phone>
+      <address>46 Hoa Sứ, phường 7, quận Phú Nhuận</address>
+      <city>30</city>
+      <dob>1993-3-20</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470332780</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>20</day>
+      <month>3</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7978701</lat>
+      <lng>106.688516</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>518</ui>
+      <title>Nhân viên phục vụ, Nhân viên pha chế , Nhân viên pha chế cà phê</title>
+      <experience>7</experience>
+      <category>14,15,16,18,19,20,27,36</category>
+      <type>2,3,4,5,6</type>
+      <level>1,2,3</level>
+      <lang>vi,en</lang>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Giao tiếp hiệu quả,Trung thực,Nhiệt tình,Tinh thần làm việc nhóm,Tinh thần trách nhiệm,Tập trung trong công việc,Chịu được áp lực công việc</keyword>
+    </db>
+  </user_cv>
+  <savedjob>
+    <total>3</total>
+    <strjo>100,93,127</strjo>
+  </savedjob>
+  <experience>
+    <n_102>
+      <id>102</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>Orange Shop</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>04/2016</from>
+      <to>06/2016</to>
+    </n_102>
+  </experience>
+  <appliedjob>
+    <total>3</total>
+    <strjo>127,93,132</strjo>
+  </appliedjob>
+</information>

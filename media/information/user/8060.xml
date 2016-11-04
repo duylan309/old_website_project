@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>8060</id>
+      <email>pemyn.silent@yahoo.com.vn</email>
+      <username/>
+      <name>Trần Thị Khánh Ly</name>
+      <im>8060_c360-2016-09-30-19-54-45-254.jpg</im>
+      <gender>2</gender>
+      <dob>1996-12-9</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477644956</created>
+      <day>9</day>
+      <month>12</month>
+      <year>1996</year>
+      <phone>01234569447</phone>
+      <address>15 đường số 1, cư xá phú lâm C mở rộng, quận Bình Tân</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7652581</lat>
+      <lng>106.6038535</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>8060</ui>
+      <title>Nhân viên bếp, nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,20</category>
+      <type>1,4,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about> Em tên Trần Thị Khánh Ly, từng làm việc nhà hàng Orchard Road Singapore tại Aeon Mall Bình Tân. Hiện đang mong muốn theo học ngành bếp, nhà hàng để bổ sung kỹ năng cho bản thân.</about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

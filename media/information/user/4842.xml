@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4842</id>
+      <email>btuong1808@gmail.com</email>
+      <username/>
+      <name>Bùi Mạnh Tường</name>
+      <im>1475544925_bu-i-ma-nh-tuo-ng.png</im>
+      <gender>0</gender>
+      <phone>01637574562</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475544925</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phụ Bếp</title>
+      <experience>7</experience>
+      <category>14</category>
+      <type>5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Trang trí cắt tỉa hoa củ quả</skill>
+      <ui>4842</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>153</strjo>
+  </appliedjob>
+</information>

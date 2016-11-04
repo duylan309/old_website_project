@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>302</id>
+    <ui>1732</ui>
+    <ci>315</ci>
+    <ai>0</ai>
+    <ti>Belldoor</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1,4</ty>
+    <ex>7</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>6000000</s1>
+    <s2>6500000</s2>
+    <s3>272</s3>
+    <s4>295</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>35</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>150</location_id>
+    <lat>10.775100</lat>
+    <lng>10.775100</lng>
+    <de>2016-11-01</de>
+    <re>0000-00-00</re>
+    <cr>1474346613</cr>
+  </db>
+  <more>
+    <requirement>- Nhiệt tình, chịu khó, trung thực&#13;
+- Thân thiện&#13;
+- Sẵn sàng làm thêm giờ để kiếm thêm thu nhập&#13;
+- Nam: cao 1m70 trở lên. Ngoại hình dễ nhìn</requirement>
+    <description>- Chào đón, mở cửa cho khách đến với cửa hàng.&#13;
+- Hỗ trợ, hướng dẫn gửi xe cho khách khi cần thiết&#13;
+- Hỗ trợ khách ký gửi đồ đạc.&#13;
+- Hỗ trợ công việc khác của cửa hàng theo yêu cầu</description>
+    <benefit>- Một tuần off một ngày.&#13;
+- Hỗ trợ bữa ăn giữa ca, hỗ trợ gửi xe&#13;
+- Được cung cấp đồng phục&#13;
+- Lương cạnh trạnh.&#13;
+- Lương tháng 13, thưởng định kỳ vào các dịp Lễ tết&#13;
+- 12 ngày phép một năm, nghỉ bù Lễ tết theo đúng quy định&#13;
+- BHYT, BHTN, BHXH theo quy định của Luật lao động</benefit>
+    <keyword>Trung thực,Tinh thần trách nhiệm</keyword>
+  </more>
+  <userapplied>
+    <total>35</total>
+    <strui>3151,3038,3041,292,3302,3450,3674,3746,3823,4036,3883,4532,4557,4695,4831,4844,4724,4917,4966,4884,5189,5310,5143,5666,5749,5910,6661,6642,6828,7156,6529,7468,7638,7862,7873</strui>
+  </userapplied>
+</information>

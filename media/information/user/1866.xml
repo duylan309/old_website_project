@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1866</id>
+      <email>kellypham1408@icloud.com</email>
+      <username/>
+      <name>Phạm Nguyễn Nhật Ngân</name>
+      <im>1473034061_pham-nguyen-nhat-ngan.jpg</im>
+      <gender>2</gender>
+      <phone>0909225052</phone>
+      <address>27/6B Lê Trực phường 7 quận Bình Thạnh, t</address>
+      <city/>
+      <dob>1997-8-14</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473034061</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>14</day>
+      <month>8</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>14,15,16,17,35</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Giao tiếp tốt. &#13;
+Chịu khó học hỏi &#13;
+Có thể làm việc trong môi trường áp lực&#13;
+Thích nghi dễ dàng</skill>
+      <ui>1866</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>151</strjo>
+  </appliedjob>
+  <experience>
+    <n_429>
+      <id>429</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Nhà hàng món Huế</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>3/2015</from>
+      <to>7/2015</to>
+    </n_429>
+    <n_847>
+      <id>847</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Monkey in Black</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>Cuối tháng 7/2016</from>
+      <to>Tháng 9/2016</to>
+    </n_847>
+  </experience>
+  <education>
+    <n_309>
+      <id>309</id>
+      <school>THPT Hoàng Hoa Thám</school>
+      <degrees>Tốt nghiệp cấp 3 </degrees>
+      <fieldofstudy/>
+      <from>2012</from>
+      <to>2015</to>
+    </n_309>
+  </education>
+</information>

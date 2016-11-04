@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4786</id>
+      <email>thanhthaovothi467@gmail.com</email>
+      <username/>
+      <name>Võ Thị Thanh Thảo</name>
+      <im>1475496301_vo-thi-thanh-thao.png</im>
+      <gender>2</gender>
+      <phone>0969979904</phone>
+      <address>473/8/1 tô hiến thành f14 q10</address>
+      <city>30</city>
+      <dob>1997-6-14</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475496301</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>14</day>
+      <month>6</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.782828</lat>
+      <lng>106.67173</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ </title>
+      <experience>1</experience>
+      <category>14,15</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill></skill>
+      <ui>4786</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>312</strjo>
+  </appliedjob>
+  <experience>
+    <n_1004>
+      <id>1004</id>
+      <title>thực tập sinh</title>
+      <level>1</level>
+      <cmpname>InterContinental Asiana Saigon Hotel</cmpname>
+      <city/>
+      <country/>
+      <from>1/6/2016</from>
+      <to>1/8/2016</to>
+    </n_1004>
+  </experience>
+  <education>
+    <n_802>
+      <id>802</id>
+      <school>Đh Tôn Đức Thắng</school>
+      <degrees/>
+      <fieldofstudy>Hospitality Management</fieldofstudy>
+      <from>8/2015</from>
+      <to>now</to>
+    </n_802>
+  </education>
+</information>

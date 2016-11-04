@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6648</id>
+      <email>thoaiha113@gmail.com</email>
+      <username/>
+      <name>Thoại Hà</name>
+      <im>351017711908030_thoai-ha.jpg</im>
+      <gender>1</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476763229</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên barista</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>2,5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>kỹ năng barista&#13;
+Kỹ năng làm việc nhóm</skill>
+      <ui>6648</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>466</strjo>
+  </appliedjob>
+</information>

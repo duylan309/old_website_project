@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>333</id>
+      <email>Paul@pastashop.vn</email>
+      <username/>
+      <name>Paul Chau</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01217305638</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>3</status>
+      <created>1469280972</created>
+      <is_received_email>1</is_received_email>
+      <dayleft>1479712609</dayleft>
+      <page>5</page>
+      <jobleft>0</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>4</total>
+    <strji>530,531,274,160</strji>
+  </totalJob>
+  <saveuser>
+    <total>5</total>
+    <strui>918,1069,381,1929,2048</strui>
+  </saveuser>
+</information>

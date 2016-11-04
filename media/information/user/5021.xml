@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5021</id>
+      <email>hongngoc2801@gmail.com</email>
+      <username/>
+      <name>Hồng Ngọc</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0839913636</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1475659937</created>
+      <dayleft>1478251937</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1475659937</last_signin>
+      <jobleft>4</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>1</total>
+    <strji>400</strji>
+  </totalJob>
+  <saveuser>
+    <total>4</total>
+    <strui>5361,1175,940,4099</strui>
+  </saveuser>
+</information>

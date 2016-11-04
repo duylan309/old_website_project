@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>324</id>
+    <ui>2465</ui>
+    <name>Quán cafe Văn</name>
+    <url>CafeVăn</url>
+    <im/>
+    <im_banner/>
+    <category>15</category>
+    <phone>0908228834</phone>
+    <address>96, Đất Thánh, Tân Bình</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.783234</lat>
+    <lng>106.658218</lng>
+    <website/>
+    <about/>
+    <facebook/>
+    <facebook_cover/>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>0</fb_load_newfeed>
+    <fb_load_photo>0</fb_load_photo>
+    <created>1473563105</created>
+  </db>
+  <more>
+    <about>Thành lập năm 2002, có lượng khách quen thuộc và ổn định</about>
+    <whyworkus/>
+  </more>
+  <companybanner/>
+  <totalJob>
+    <total>1</total>
+    <strji>269</strji>
+  </totalJob>
+</information>

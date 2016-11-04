@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>261</id>
+    <ui>865</ui>
+    <name>Boom Dak Restaurant</name>
+    <url>boomkdak</url>
+    <im>_boom-dak-restaurant.jpg</im>
+    <im_banner>_boom-dak-restaurant-cover.jpg</im_banner>
+    <category>14</category>
+    <phone>(08) 6650 9292</phone>
+    <address>16 Lê Quý Đôn, Phường 6, Quận 3</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.781186</lat>
+    <lng>106.691010</lng>
+    <website>https://www.facebook.com/BoomDak</website>
+    <about/>
+    <facebook>https://www.facebook.com/boomkdak/</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1471333428</created>
+  </db>
+  <more>
+    <about>Gà nướng hàn quốc BoomDak áp dụng quy tắc nấu ngay khi khách hàng đặt món nên đảm bảo chất lượng tươi ngon kết hợp với bí quyết gia truyền sẽ đem đến món gà Hàn Quốc ngon tuyệt vời.&#13;
+Khoảng giá: 50.000 - 490.000 VND&#13;
+Tất cả các món trên menu không tính thuế 10%</about>
+    <whyworkus/>
+  </more>
+  <companybanner>_boom-dak-restaurant-cover.jpg</companybanner>
+  <totalJob>
+    <total>1</total>
+    <strji>159</strji>
+  </totalJob>
+</information>

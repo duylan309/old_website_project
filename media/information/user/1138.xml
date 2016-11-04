@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1138</id>
+      <email>globalfreshmeat2@gmail.com</email>
+      <username/>
+      <name>Công Ty TNHH Global Fresh Meat</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01258577034</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1471839397</created>
+      <dayleft>1479641693</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <jobleft>1</jobleft>
+    </db>
+    <password>
+      <lastupdate>1471864718</lastupdate>
+    </password>
+  </userinfo>
+  <totalJob>
+    <total>4</total>
+    <strji>176,177,178,179</strji>
+  </totalJob>
+</information>

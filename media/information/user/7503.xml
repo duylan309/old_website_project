@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7503</id>
+      <email>nguyenvy3197@gmail.com</email>
+      <username/>
+      <name>Nguyễn Tường Vy</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01207130390</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477288868</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên part time</title>
+      <experience>1</experience>
+      <category>27,29,35</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Giao tiếp tốt với khách, năng  động và sẽ cố gắng, học hỏi để làm tốt công việc</skill>
+      <ui>7503</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>253,343,499,371</strjo>
+  </appliedjob>
+</information>

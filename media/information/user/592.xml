@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>592</id>
+      <email>kyvuong1993@gmail.com</email>
+      <username/>
+      <name>Kỳ Vương</name>
+      <im>2055432524681231_ky-vuong.jpg</im>
+      <gender>1</gender>
+      <dob>1993-3-2</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470597830</created>
+      <day>2</day>
+      <month>3</month>
+      <year>1993</year>
+      <phone>0981060802</phone>
+      <address></address>
+      <country>vn</country>
+      <city></city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>phục vụ + pha chế cà fe. quản lý quán</title>
+      <experience>7</experience>
+      <category>15,16</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>đã học pha chế ở trương âm thực vàng âu á ở bình thạnh.đang học lên bartender(pha rượu) và đang học tiêng anh giao tiếp</skill>
+      <ui>592</ui>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <keyword>Kỹ năng giải quyết tình huống,Tinh thần trách nhiệm,Chịu được áp lực công việc,Trung thực,Tinh thần làm việc nhóm,Nhiệt tình,Tự tin,Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>129</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>2</total>
+    <strjo>129,128</strjo>
+  </savedjob>
+</information>

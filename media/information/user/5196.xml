@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5196</id>
+      <email>Huynhthanh0590@gmail.com</email>
+      <username/>
+      <name>Huỳnh chánh Thành</name>
+      <im>1475779824_huynh-chanh-thanh.png</im>
+      <gender>0</gender>
+      <phone>0938550095</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475779824</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Đầu bếp</title>
+      <experience>4</experience>
+      <category>14</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Thiết kế trình bày món ăn phong cách hiện đại, sáng kiến những món mới, nhanh thích nghi với môi trường xung quanh. </skill>
+      <ui>5196</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>230,143</strjo>
+  </appliedjob>
+</information>

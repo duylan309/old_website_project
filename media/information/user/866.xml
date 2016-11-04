@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>866</id>
+      <email>nhan.dinhlap@gmail.com</email>
+      <username/>
+      <name>Đinh Lập Nhân</name>
+      <im>866_14045535-879957765443067-5865561817176679813-n.jpg</im>
+      <gender>1</gender>
+      <phone>01887210251</phone>
+      <address>Tô Hiến Thành, quận 10</address>
+      <city/>
+      <dob>1997-9-24</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471339911</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>24</day>
+      <month>9</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,27,29,31,35</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>866</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>154,100,172,208,219</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>154</strjo>
+  </savedjob>
+</information>

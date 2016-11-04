@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5638</id>
+      <email>small_rain@yahoo.com</email>
+      <username/>
+      <name>Hà Huỳnh Bảo Nhi</name>
+      <im>1476115890_ha-huynh-bao-nhi.png</im>
+      <gender>2</gender>
+      <phone>01645615275</phone>
+      <address>200 điện biên phủ - phường 17 - quận bình thạnh</address>
+      <city>30</city>
+      <dob>1995-10-27</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476115890</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>27</day>
+      <month>10</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8008521</lat>
+      <lng>106.7093764</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>2</experience>
+      <category>14</category>
+      <type>6</type>
+      <level>2</level>
+      <lang>en</lang>
+      <skill/>
+      <ui>5638</ui>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>tôi hiện là sinh viên năm 4 trường đại học Hutech - ngành công nghệ thực phẩm. Mong muốn tìm được việc làm thêm để có thêm thu nhập và rèn luyện kĩ năng giao tiếp xã hội tốt hơn.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>371,235</strjo>
+  </appliedjob>
+</information>

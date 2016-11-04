@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6499</id>
+      <email>trucanh1007@gmail.com</email>
+      <username/>
+      <name>Trần Lê Trúc Anh</name>
+      <im>6499_12541041-1652207048366933-5182589312493879776-n.jpg</im>
+      <gender>2</gender>
+      <phone>0973909874</phone>
+      <address/>
+      <city/>
+      <dob>1995-7-10</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476637684</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>10</day>
+      <month>7</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ, pha chế, bán hàng, thu ngân, nhân viên xử lí đơn hàng,...</title>
+      <experience>1</experience>
+      <category>14,15,30,31,35</category>
+      <type>2,3,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>giao tiếp, làm việc nhóm, quản lý thời gian</skill>
+      <ui>6499</ui>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <about>Hòa đồng, chịu khó, học hỏi, thích du lịch,...</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>450,301</strjo>
+  </appliedjob>
+  <education>
+    <n_1068>
+      <id>1068</id>
+      <school>Đại học tài chính Marketing</school>
+      <degrees>Đại học ( chưa tốt nghiệp)</degrees>
+      <fieldofstudy>Marketing </fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_1068>
+  </education>
+</information>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>785</id>
+      <email>Phuclee0895@gmail.com</email>
+      <username/>
+      <name>Lê Hoàng Phúc</name>
+      <im>785_img-20160726-1.png</im>
+      <gender>1</gender>
+      <phone>01636303363</phone>
+      <address>562. Quốc lộ 1. Phường 2. Tp Sóc Trăng</address>
+      <city>30</city>
+      <dob>1993-8-10</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471065908</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>10</day>
+      <month>8</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>16.3938341</lat>
+      <lng>107.5692406</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Bartender.DJ</title>
+      <experience>3</experience>
+      <category>15,16,19</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>DJ</skill>
+      <ui>785</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>111,106,119</strjo>
+  </appliedjob>
+  <experience>
+    <n_168>
+      <id>168</id>
+      <title>Nhân viên</title>
+      <level>1</level>
+      <cmpname>TNHH MTV Trăng và sao</cmpname>
+      <city>Cần Thơ</city>
+      <country>Việt Nam</country>
+      <from>2013</from>
+      <to>2016</to>
+    </n_168>
+  </experience>
+</information>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>309</id>
+    <ui>3244</ui>
+    <ci>347</ci>
+    <ai>0</ai>
+    <ti>pt</ti>
+    <ta></ta>
+    <le>1</le>
+    <ty>1</ty>
+    <ex>7</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>6000000</s1>
+    <s2>6500000</s2>
+    <s3>272</s3>
+    <s4>295</s4>
+    <lo></lo>
+    <co>for</co>
+    <ca>26</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>1</st>
+    <pi>0</pi>
+    <la>sp</la>
+    <description></description>
+    <requirement></requirement>
+    <benefit></benefit>
+    <keyword></keyword>
+    <ad></ad>
+    <location_id>205</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-09-21</de>
+    <re>0000-00-00</re>
+    <cr>1474453013</cr>
+  </db>
+  <more>
+    <requirement>6 packs</requirement>
+    <description></description>
+    <benefit></benefit>
+    <keyword>Tập trung trong công việc</keyword>
+  </more>
+</information>

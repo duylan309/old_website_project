@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7992</id>
+      <email>tran_thiennhan1988@yahoo.com</email>
+      <username/>
+      <name>Nhan Thien Tran</name>
+      <im>1776326949322696_nhan-thien-tran.jpg</im>
+      <gender>1</gender>
+      <dob>1988-9-3</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477571278</created>
+      <day>3</day>
+      <month>9</month>
+      <year>1988</year>
+      <phone>0934391108</phone>
+      <address>274/27/33 Nguyễn Văn Tạo, Long Thới, Nhà Bè</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.653559</lat>
+      <lng>106.729665</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1555>
+      <id>1555</id>
+      <title>Supervisor</title>
+      <level>1</level>
+      <cmpname>Hoang Trieu Entertaiment</cmpname>
+      <city>HCM</city>
+      <country>Viet Nam</country>
+      <from>8/2016</from>
+      <to>Now</to>
+    </n_1555>
+  </experience>
+  <education>
+    <n_1294>
+      <id>1294</id>
+      <school>Hoa Sen Univercity, Merlior International College</school>
+      <degrees>College</degrees>
+      <fieldofstudy>IT and Hospitality Management</fieldofstudy>
+      <from>2010</from>
+      <to>2012</to>
+    </n_1294>
+  </education>
+  <user_cv>
+    <db>
+      <ui>7992</ui>
+      <title>Quản Lý</title>
+      <experience>3</experience>
+      <category>14,15,17,18,20,28,29,35</category>
+      <type>4,6</type>
+      <level>4</level>
+      <lang>vi,en</lang>
+      <s1>7000000</s1>
+      <salary>1</salary>
+      <about>My name is Nhan, I graduated in Hopistality Management and IT. I have 3 years work in Restaurant major and 1 year in Bussiness. I have management, customer service, computer and problem solving skills.&#13;
+Thanks for reading, looking to hear from you soon !</about>
+      <skill>Management, customer service, computer, problem solving, english ... </skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>399,481</strjo>
+  </appliedjob>
+</information>

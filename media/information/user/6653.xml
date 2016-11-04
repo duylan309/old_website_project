@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6653</id>
+      <email>trantrant1_24@yahoo.com</email>
+      <username/>
+      <name>Châu Ngọc Quế Trân</name>
+      <im>1476765137_chau-ngoc-que-tran.png</im>
+      <gender>0</gender>
+      <phone>01236600096</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476765137</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15</category>
+      <type>5</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>6653</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>402</strjo>
+  </appliedjob>
+</information>

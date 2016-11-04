@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5446</id>
+      <email>camquyenvan@gmail.com</email>
+      <username/>
+      <name>Văn Thị Cẩm Quyên</name>
+      <im>5446_225631-381803261928822-121040997-n.jpg</im>
+      <gender>2</gender>
+      <phone>01666279796</phone>
+      <address>269 kênh Tân Hóa, P.Hòa Thạnh, Q.Tân Phú</address>
+      <city>30</city>
+      <dob>1993-8-30</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475987849</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1475987849</last_signin>
+      <day>30</day>
+      <month>8</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7722482</lat>
+      <lng>106.6361739</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1121>
+      <id>1121</id>
+      <title>trợ lý quản lý</title>
+      <level>1</level>
+      <cmpname>Trà sữa_Sinh tố KOOL</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>10/2012</from>
+      <to>12/2014</to>
+    </n_1121>
+    <n_1122>
+      <id>1122</id>
+      <title>Trưởng ca bán hàng</title>
+      <level>1</level>
+      <cmpname>DNTN Bánh kẹo Á Châu ABC</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>3/2014</from>
+      <to>2/2016</to>
+    </n_1122>
+    <n_1123>
+      <id>1123</id>
+      <title>Thu ngân, Trợ lý cửa hàng</title>
+      <level>1</level>
+      <cmpname>Công Ty cổ phần BIBOMART</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việ nam</country>
+      <from>03/2016</from>
+      <to>10/2016</to>
+    </n_1123>
+  </experience>
+  <education>
+    <n_904>
+      <id>904</id>
+      <school>Đại học Sài Gòn</school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy>Tài chính_ngân hàng</fieldofstudy>
+      <from>2011</from>
+      <to>2015</to>
+    </n_904>
+  </education>
+  <user_cv>
+    <db>
+      <ui>5446</ui>
+      <title>Trưởng nhóm, Nhân viên bán hàng, phục vụ.</title>
+      <experience>3</experience>
+      <category>14,15,16,17,18,19,20,27,29,31,35</category>
+      <type>2,4,6</type>
+      <level>4</level>
+      <lang>en</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Xin chào! Em tên là Cẩm Quyên, em 23 tuổi và vừa tốt nghiệp Cử nhân Đại học Sài Gòn chuyên ngành Tài chính_Kế toán. Nhận thấy mình là một người hòa đồng, vui vẻ và luôn khát khao đạt được thành công trong tương lai nên em không ngừng nổ lưc học tập và phấn đấu cho những mục tiêu của mình. Tuy là sinh viên mới ra trường nhưng em đã có những cơ hội được làm việc bên cạnh việc học ở trường. Với những công việc như thu ngân, bán hàng hay phục vụ thì em đã tích lũy cho mình một số kinh nghiệm cho bản thân  như kỹ năng lắng nghe, nắm bắt tâm lý khách hàng, kỹ năng thuyết phục cộng với đức tính cẩn thận, tỉ mỉ cũng như tinh thần đoàn kết, trung thực và kiên nhẫn luôn có sẵn trong em, khả năng tin học văn phòng và anh văn cơ bản, em tin rẳng mình có thể vận dụng những yếu tố đó vào công việc mới của mình một cách tốt nhất</about>
+      <skill>Giao tiếp, thương lượng, quản lý thời gian, làm việc nhóm.</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>168</strjo>
+  </appliedjob>
+</information>

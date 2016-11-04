@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1991</id>
+      <email>baongoctran9512@gmail.com</email>
+      <username/>
+      <name>Bảo Ngọc</name>
+      <im>1047533928692439_bao-ngoc.jpg</im>
+      <gender>2</gender>
+      <dob>1995-12-11</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473133683</created>
+      <day>11</day>
+      <month>12</month>
+      <year>1995</year>
+      <phone>01647003476</phone>
+      <address>190/5, Hoàng Văn Thụ, phường 4, quận Tân Bình</address>
+      <country>vn</country>
+      <city/>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <education>
+    <n_322>
+      <id>322</id>
+      <school>Đại học Ngoại Thương</school>
+      <degrees>Sinh viên</degrees>
+      <fieldofstudy>Tài Chính Quốc Tế</fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_322>
+  </education>
+  <user_cv>
+    <db>
+      <ui>1991</ui>
+      <title>Nhân viên phục vụ, nhân viên bán hàng, nhân viên pha chế</title>
+      <experience>1</experience>
+      <category>14,16,18,30,35,36</category>
+      <type>2,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <skill>Tập trung trong công việc&#13;
+Chịu được áp lực công việc&#13;
+Tự tin&#13;
+Nhiệt tình&#13;
+Giải quyết tình huống tốt&#13;
+Giao tiếp hiệu quả&#13;
+Có tinh thần đồng đội</skill>
+      <keyword>Tập trung trong công việc,Chịu được áp lực công việc,Tự tin,Nhiệt tình,Tinh thần làm việc nhóm,Kỹ năng giải quyết tình huống,Giao tiếp hiệu quả</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>124,211</strjo>
+  </appliedjob>
+</information>

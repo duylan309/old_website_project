@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3099</id>
+      <email>jyn01665557077@gmail.com</email>
+      <username/>
+      <name>Sơn Minh</name>
+      <im>607554019415430_son-minh.jpg</im>
+      <gender>1</gender>
+      <dob>1998-12-12</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474277790</created>
+      <day>12</day>
+      <month>12</month>
+      <year>1998</year>
+      <last_signin>1474277790</last_signin>
+      <phone>01202094846</phone>
+      <address>105/6b Hoàng Hoa Thám p6 Q.bình thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.80775</lat>
+      <lng>106.6895739</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>3099</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>7</experience>
+      <category>14,15,27,29,31,35</category>
+      <type>4,5</type>
+      <level>1,2</level>
+      <lang>vi</lang>
+      <s1>1500000</s1>
+      <salary>1</salary>
+      <about></about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

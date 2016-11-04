@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>448</id>
+    <ui>5984</ui>
+    <ci>400</ci>
+    <ai>0</ai>
+    <ti>Nhân viên phục vụ ca tối ( 14h30-22h30 hoặc 17h30-22h30)</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1,2,4,5</ty>
+    <ex>1,7</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>13000</s1>
+    <s2>15000</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword>Tinh thần làm việc nhóm,Kỹ năng chăm sóc khách hàng,Nhiệt tình,Tập trung trong công việc</keyword>
+    <ad/>
+    <location_id>319</location_id>
+    <lat>10.789631</lat>
+    <lng>10.789631</lng>
+    <de>2016-11-11</de>
+    <re>0000-00-00</re>
+    <cr>1477383672</cr>
+  </db>
+  <more>
+    <requirement/>
+    <description/>
+    <workhour>Có 2 ca cho các bạn lựa chọn&#13;
+14h30-22h30&#13;
+17h30-22h30&#13;
+Off 2ngày/ tháng</workhour>
+    <benefit/>
+    <keyword>Tinh thần làm việc nhóm,Kỹ năng chăm sóc khách hàng,Nhiệt tình,Tập trung trong công việc</keyword>
+  </more>
+  <userapplied>
+    <total>11</total>
+    <strui>6043,2470,6501,6428,6673,6994,7310,7038,520,7612,3538</strui>
+  </userapplied>
+</information>

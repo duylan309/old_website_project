@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6611</id>
+      <email>dungnguyentt.44@gmail.com</email>
+      <username/>
+      <name>nguyễn thị tuyết dung</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0935127315</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476721563</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ/ bán hàng/ văn phòng</title>
+      <experience>2</experience>
+      <category>14,17,18</category>
+      <type>1,2</type>
+      <level>2</level>
+      <lang>en</lang>
+      <skill/>
+      <ui>6611</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>337</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>303</strjo>
+  </savedjob>
+</information>

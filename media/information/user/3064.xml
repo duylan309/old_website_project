@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3064</id>
+      <email>tonnuthanhhuong92@gmail.com</email>
+      <username/>
+      <name>Tôn Nữ Thanh Hương</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01645397004</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474219426</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>kế toán, văn thư, văn phòng</title>
+      <experience>2</experience>
+      <category>14,15,16,17,20,28,29,30,35</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>3064</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>231</strjo>
+  </appliedjob>
+</information>

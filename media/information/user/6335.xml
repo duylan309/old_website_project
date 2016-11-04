@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6335</id>
+      <email>akatsuki4vann@gmail.com</email>
+      <username/>
+      <name>Trương Tự Long</name>
+      <im>1790749054543099_long-truong.jpg</im>
+      <gender>1</gender>
+      <dob>1997-11-20</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476511495</created>
+      <day>20</day>
+      <month>11</month>
+      <year>1997</year>
+      <last_signin>1476511495</last_signin>
+      <phone>0971858997</phone>
+      <address>Huỳnh Thi Hai, phường Tân Chánh Hiệp, quận 12,</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8673698</lat>
+      <lng>106.6274989</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6335</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>1</experience>
+      <category>14,35</category>
+      <type>2</type>
+      <level>1,2</level>
+      <lang>vi</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Có tinh thần làm việc nhóm, trách nhiệm với công việc,ham học hỏi</about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>193</id>
+      <email>luke@guanabanasmoothies.com</email>
+      <username/>
+      <name>Luke Nguyen</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0907841947</phone>
+      <address>23 Ly Tu Trong</address>
+      <city>30</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>3</status>
+      <created>1465211665</created>
+      <dayleft>1478405617</dayleft>
+      <is_received_email>1</is_received_email>
+      <page>5</page>
+      <jobleft>0</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>5</total>
+    <strji>61,63,68,69,182</strji>
+  </totalJob>
+  <saveuser>
+    <total>91</total>
+    <strui>227,233,241,269,281,283,288,289,259,312,332,341,444,448,453,572,579,653,588,853,971,1069,1213,1222,1240,292,878,626,1429,1569,1631,1740,1900,1972,1848,2005,2051,342,2163,2332,2547,2556,2715,1814,2550,2829,2302,2871,2995,1277,3067,3126,1602,3206,3286,3222,3399,3486,3388,3532,3575,3702,3739,3798,3802,3744,844,3075,4465,1279,3355,4511,4651,4656,4708,4051,1282,4875,4879,3884,4907,5103,5116,5180,5186,5526,3652,4724,5391,6272,1023</strui>
+  </saveuser>
+</information>

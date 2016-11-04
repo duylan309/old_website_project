@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1469</id>
+      <email>nynatram@gmail.com</email>
+      <username/>
+      <name>Phạm Ngọc Trâm</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01687555810</phone>
+      <address>528 , lê văn lương , tân phong , quận 7</address>
+      <city>30</city>
+      <dob>1995-10-31</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472386121</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1472386121</last_signin>
+      <day>31</day>
+      <month>10</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7137349</lat>
+      <lng>106.7010458</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>1469</ui>
+      <title>Nhân viên phục vụ , Pha chế, lễ tân</title>
+      <experience>7</experience>
+      <category>14,15,17,18,20,26,28,30,35</category>
+      <type>4,5</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <skill>Linh hoạt , sáng tạo năng động trong công viên, tinh thần trách nhiêm cao, tự tin, nhiệt tình</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>64,100,130,92</strjo>
+  </appliedjob>
+</information>

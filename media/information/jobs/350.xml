@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>350</id>
+    <ui>4094</ui>
+    <ci>361</ci>
+    <ai>0</ai>
+    <ti>NHÂN VIÊN PHỤC VỤ FULLTIME, PARTIME</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1,2,4,5,6</ty>
+    <ex>7</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>237</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-10-27</de>
+    <re>0000-00-00</re>
+    <cr>1474967779</cr>
+  </db>
+  <more>
+    <requirement>-Giao tiếp tốt</requirement>
+    <description>-Thời gian làm việc linh hoạt, có nhiều ca lựa chọn trong khung giờ hoạt động của nhà hàng từ 10h00-22h00.&#13;
+-Chào đón khách, sắp xếp và hướng dẫn chỗ ngồi cho khách. Mời và tư vấn cho khách cách chọn đồ ăn.&#13;
+-Phục vụ đồ ăn uống cho khách&#13;
+-Làm thủ tục thanh toán cho khách&#13;
+-Những công việc khác theo sự phân công của quản lý nhà hàng.&#13;
+&#13;
+</description>
+    <benefit>-Lương hấp dẫn + tiền tip + bao cơm + nghỉ OFF và nhiều chế độ ưu đãi khác.&#13;
+-Thưởng tháng 13.&#13;
+- Môi trường làm việc năng động, chuyên nghiệp, đặc biệt rèn luyện kỹ năng giao tiếp cho sinh viên&#13;
+- Các ngày nghỉ lễ tết theo Luật lao động Việt Nam.&#13;
+</benefit>
+    <keyword>Kỹ năng giải quyết tình huống,Tự tin,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+  </more>
+  <userapplied>
+    <total>22</total>
+    <strui>3735,4275,425,4493,4503,4545,292,3884,3046,5279,5205,5656,5879,6319,6388,1605,6489,7347,7490,7552,7582,6061</strui>
+  </userapplied>
+</information>

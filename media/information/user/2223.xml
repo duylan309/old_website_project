@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2223</id>
+      <email>Yenxyk95@gmail.com</email>
+      <username/>
+      <name>Lê Trần Phương Yến</name>
+      <im>1473312279_le-tran-phuong-yen.jpg</im>
+      <gender>0</gender>
+      <phone>0924905379</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473312279</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng</title>
+      <experience>2</experience>
+      <category>35</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>2223</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>253</strjo>
+  </appliedjob>
+</information>

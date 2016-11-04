@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7889</id>
+      <email>leloan502@gmail.com</email>
+      <username/>
+      <name>Le Loan</name>
+      <im>1206369452719039_le-loan.jpg</im>
+      <gender>2</gender>
+      <dob>1989-6-7</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477517664</created>
+      <day>7</day>
+      <month>6</month>
+      <year>1989</year>
+      <phone>0938880169</phone>
+      <address>9D/1 - Đường HT 23 - P.Hiệp Thành - Q12 - TPHCM </address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7764745</lat>
+      <lng>106.7008831</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_1279>
+      <id>1279</id>
+      <school>Đại học Hồng Bàng </school>
+      <degrees>cao đẳng </degrees>
+      <fieldofstudy>Tài chính ngân hàng </fieldofstudy>
+      <from>2009</from>
+      <to>2011</to>
+    </n_1279>
+  </education>
+  <user_cv>
+    <db>
+      <title>phục vụ</title>
+      <experience>2</experience>
+      <category>14</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>7889</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>427</strjo>
+  </appliedjob>
+</information>

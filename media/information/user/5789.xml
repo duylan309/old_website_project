@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5789</id>
+      <email>tcyq47@gmail.com</email>
+      <username/>
+      <name>Yến Quỳnh</name>
+      <im>5789_image.jpg</im>
+      <gender>2</gender>
+      <dob>1999-7-4</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476188452</created>
+      <day>4</day>
+      <month>7</month>
+      <year>1999</year>
+      <last_signin>1476188452</last_signin>
+      <phone>01227632211</phone>
+      <address>188/2A tô ngọc vân phường linh đông quận thủ đức</address>
+      <country>vn</country>
+      <city></city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>5789</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>7</experience>
+      <category>14,15,20</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Em là sinh viên, ngoại hình ở mức khá, giao tiếp tiếng anh loại khá, nhanh nhẹn, hoạt bát, có ý thức trách nhiệm cao, đảm bảo hoàn thành tốt công việc được giao.</about>
+      <skill>Giao tiếp khá tiếng anh&#13;
+</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

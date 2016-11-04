@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>381</id>
+      <email>thuonghoaitr@gmail.com</email>
+      <username/>
+      <name>Trần Thị Thương Hoài</name>
+      <im>381_image.jpeg</im>
+      <gender>2</gender>
+      <dob>1997-2-24</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1469981356</created>
+      <day>24</day>
+      <month>2</month>
+      <year>1997</year>
+      <phone>0903880680</phone>
+      <address>83/12 đường 385 quận 9</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8969324</lat>
+      <lng>106.8329455</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_47>
+      <id>47</id>
+      <title>Barista</title>
+      <level>1</level>
+      <cmpname>Highlands Coffee</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>12/2015</from>
+      <to>6/2016</to>
+    </n_47>
+  </experience>
+  <education>
+    <n_34>
+      <id>34</id>
+      <school>Đại học Hoa Sen</school>
+      <degrees/>
+      <fieldofstudy>Ngôn ngữ Anh</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_34>
+  </education>
+  <user_cv>
+    <db>
+      <ui>381</ui>
+      <title>Barista</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>1,2,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>93,160</strjo>
+  </appliedjob>
+</information>

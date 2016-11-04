@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2117</id>
+      <email>hduong0612@gmail.com</email>
+      <username/>
+      <name>Trần Hải Dương</name>
+      <im>2117_image.jpeg</im>
+      <gender>1</gender>
+      <phone>0938752895</phone>
+      <address>146/12 Bình Thới Quận 11</address>
+      <city>30</city>
+      <dob>1994-10-2</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473250210</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>2</day>
+      <month>10</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7671949</lat>
+      <lng>106.648585</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>pha chế bartender</title>
+      <experience>1</experience>
+      <category>14,16,19,20</category>
+      <type>4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Giao tiếp với khách hàng tốt, hoà đồng</skill>
+      <ui>2117</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Hoà đồng, tính tình vui vẻ, có tính cầu tiến, siêng năng trong công việc, có tính cầu tiến. </about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>119</strjo>
+  </appliedjob>
+</information>

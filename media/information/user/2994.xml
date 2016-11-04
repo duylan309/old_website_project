@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2994</id>
+      <email>minxin423@gmail.com</email>
+      <username/>
+      <name>Minh Tâm</name>
+      <im>651947388316390_minh-tam.jpg</im>
+      <gender>2</gender>
+      <dob>1998-12-17</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474153524</created>
+      <day>17</day>
+      <month>12</month>
+      <year>1998</year>
+      <phone>01868683844</phone>
+      <address>788 cách mạng tháng tám , f5 quận tân bình</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7925433</lat>
+      <lng>106.6540845</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_491>
+      <id>491</id>
+      <school>Trường cao đẳng nghề di lịch sài gòn</school>
+      <degrees>Năm 1</degrees>
+      <fieldofstudy>quản trị lữ hành</fieldofstudy>
+      <from>30-8-2016</from>
+      <to>2019</to>
+    </n_491>
+  </education>
+  <user_cv>
+    <db>
+      <ui>2994</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>7</experience>
+      <category>14,15,27,35</category>
+      <type>4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>1000000</s1>
+      <salary>1</salary>
+      <about>Hòa đồng , Chăm chỉ ....</about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>219,214</strjo>
+  </appliedjob>
+  <savedjob/>
+</information>

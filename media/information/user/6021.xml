@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6021</id>
+      <email>sky_quach@yahoo.com.vn</email>
+      <username/>
+      <name>QUÁCH THIÊN TRỢ</name>
+      <im>1476335041_quach-thien-tro.png</im>
+      <gender>1</gender>
+      <phone>0976784139</phone>
+      <address>100bís nguyễn đình chiểu p đakao q1</address>
+      <city>30</city>
+      <dob>1990-11-27</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476335041</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>27</day>
+      <month>11</month>
+      <year>1990</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>trợ lí , nhân viên</title>
+      <experience>3</experience>
+      <category>14</category>
+      <type>2,6</type>
+      <level>3,4</level>
+      <lang>vi,en</lang>
+      <skill>đã làm việc tại nhà hàng singapore NYDC, nhà hàng ITALY LA BOTTELA , khách sạn SHERARON , quản lí nhà hàng tư nhân NASH TAPAS</skill>
+      <ui>6021</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>11</total>
+    <strjo>409,367,140,410,311,284,388,380,174,229,95</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>409</strjo>
+  </savedjob>
+</information>

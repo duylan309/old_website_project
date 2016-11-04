@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4255</id>
+      <email>hann25580@gmail.com</email>
+      <username/>
+      <name>Võ Thị Ngọc Hân</name>
+      <im>4255_14088650-875983425879733-5473368032820322162-n.jpg</im>
+      <gender>2</gender>
+      <phone>0931458325</phone>
+      <address>Lô 5, Chung Cư Phú Thọ, Phường 1, quận 11</address>
+      <city>30</city>
+      <dob>1996-12-8</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475048436</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>8</day>
+      <month>12</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7568126</lat>
+      <lng>106.6418053</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân Viên</title>
+      <experience>1</experience>
+      <category>15,35</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>4255</ui>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <about>Xin Chào!.&#13;
+Tôi sinh ra ở Quảng Ngãi . Hiện tại tôi học tập và sinh sống tại TPHCM. Tôi là Sinh Viên năm 3 trường Đại học Văn Hóa Thành Phố Chí Minh , chuyên nghành quản lí Văn hóa- Nghệ Thuật. &#13;
+Tôi rất đam mê nghệ thuật, tôi đã tham gia nhiều chương trình.  Tôi là người nói nhiều đúng lúc, vui tính đúng chổ , rất hòa đồng . Tôi rất tâm huyết vào những việc gì mình đã chọn, tôi là người cầu tiến, tôi không muốn dậm chân tại chổ và không có khái niệm hài lòng với những gì mình có, tôi luôn nổ lực hết sức để học tập và trào dồi kiến thức ma sát với thực tế xã hội , mở mang những kiến thức trong ngoài nước. Vì thế tôi chọn nhiều công việc, nhiều hướng đi cho mình.&#13;
+Cảm ơn!.&#13;
+</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>287,211,341,253,130,124</strjo>
+  </appliedjob>
+  <education>
+    <n_690>
+      <id>690</id>
+      <school>Đại học Văn Hóa Thành Phố Hồ Chí Minh</school>
+      <degrees/>
+      <fieldofstudy>Quản lí Văn hóa- Nghệ thuật</fieldofstudy>
+      <from>TPHCM</from>
+      <to>TPHCM</to>
+    </n_690>
+  </education>
+  <savedjob>
+    <total>1</total>
+    <strjo>124</strjo>
+  </savedjob>
+</information>

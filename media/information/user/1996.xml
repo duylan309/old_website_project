@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1996</id>
+      <email>gameonsaigonmag@gmail.com</email>
+      <username/>
+      <name>Nhà Hàng Game On</name>
+      <im/>
+      <gender>0</gender>
+      <phone>08 6251 9898</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1473137518</created>
+      <dayleft>1478410599</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1473137518</last_signin>
+      <jobleft>2</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>3</total>
+    <strji>241,242,243</strji>
+  </totalJob>
+  <saveuser>
+    <total>14</total>
+    <strui>2097,2186,1802,2005,2494,1733,2588,2550,2902,2910,2943,3231,3355,3679</strui>
+  </saveuser>
+</information>

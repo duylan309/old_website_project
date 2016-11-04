@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>827</id>
+      <email>ngocnupham123@gmail.com</email>
+      <username/>
+      <name>Phạm Thị Ngọc Nữ</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01679715694</phone>
+      <address></address>
+      <city></city>
+      <dob>1993-4-12</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471193170</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>12</day>
+      <month>4</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, thu ngân, pha chế</title>
+      <experience>2</experience>
+      <category>14,16,20,28,29</category>
+      <type>1</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <skill>khả năng giao tiếp tốt, có thể vừa làm thu ngân, pha chế, phục vụ, kế toán kho, có thể hỗ trợ quản lý trong việc quản lý ca, giải quyết tình huống tốt, luôn làm khách hàng hài lòng, có khả năng nắm bắt công việc nhanh, hỗ trợ hướng dẫn nhân viên mới, chủ động trong công việc</skill>
+      <ui>827</ui>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>151,101,147</strjo>
+  </appliedjob>
+  <experience>
+    <n_187>
+      <id>187</id>
+      <title>nhân viên thu ngân, pha chế, phục vụ, hỗ trợ văn phòng</title>
+      <level>1</level>
+      <cmpname>TNHH VN NAPOLIS</cmpname>
+      <city>HỒ CHÍ MINH</city>
+      <country>VIỆT NAM</country>
+      <from>7/2015</from>
+      <to>8/2016</to>
+    </n_187>
+    <n_188>
+      <id>188</id>
+      <title>NHÂN VIÊN CHĂM SÓC KHÁCH HÀNG</title>
+      <level>1</level>
+      <cmpname>NKID GROUP</cmpname>
+      <city>HỒ CHÍ MINH</city>
+      <country>VIỆT NAM</country>
+      <from>12/2014</from>
+      <to>7/2015</to>
+    </n_188>
+    <n_189>
+      <id>189</id>
+      <title>nhân viên thu ngân, pha chế, phục vụ</title>
+      <level>1</level>
+      <cmpname>TNHH OISHII</cmpname>
+      <city>HỒ CHÍ MINH</city>
+      <country>VIỆT NAM</country>
+      <from>7/2014</from>
+      <to>9/2014</to>
+    </n_189>
+  </experience>
+  <education>
+    <n_125>
+      <id>125</id>
+      <school>ĐẠI HỌC NÔNG LÂM TPHCM</school>
+      <degrees>CỬ NHÂN</degrees>
+      <fieldofstudy>QUẢN LÝ MÔI TRƯỜNG VÀ DU LỊCH SINH THÁI</fieldofstudy>
+      <from>2011</from>
+      <to>2015</to>
+    </n_125>
+    <n_126>
+      <id>126</id>
+      <school>ĐẠI HỌC KINH TẾ TPHCM</school>
+      <degrees>CHỨNG CHỈ KẾ TOÁN DOANH NGHIỆP</degrees>
+      <fieldofstudy>KẾ TOÁN DOANH NGHIỆP VÀ THỰC HÀNH KHAI BÁO THUẾ</fieldofstudy>
+      <from>4/2016</from>
+      <to>7/2016</to>
+    </n_126>
+  </education>
+</information>

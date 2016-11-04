@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3581</id>
+      <email>yennhi090496@gmail.com</email>
+      <username/>
+      <name>Đoàn Yến Nhi</name>
+      <im>1474700920_doan-yen-nhi.png</im>
+      <gender>2</gender>
+      <phone>01683981281</phone>
+      <address>36/14 đường D2 P.25 quận Bình Thạnh</address>
+      <city>30</city>
+      <dob>1996-4-9</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474700920</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>9</day>
+      <month>4</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.805671</lat>
+      <lng>106.7158</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, Pha chế</title>
+      <experience>1</experience>
+      <category>14,15,20,29</category>
+      <type>2,4,5,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill>Vi tính văn phòng</skill>
+      <ui>3581</ui>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>279,298,100,304</strjo>
+  </appliedjob>
+  <education>
+    <n_584>
+      <id>584</id>
+      <school>Đại học Ngân hàng TP.HCM</school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy>Hệ thống thông tin quản lý</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_584>
+  </education>
+</information>

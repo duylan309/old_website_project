@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3283</id>
+      <email>huynhvutai123@gmail.com</email>
+      <username/>
+      <name>huỳnh vũ tài</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01886167770</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474480876</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>phụ bếp</title>
+      <experience>1</experience>
+      <category>14,16,18,19,20,28</category>
+      <type>4</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill>sắp xếp dụng cụ, sơ chế thực phẩm, vệ sinh bếp, hỗ trợ nấu ăn ra món...</skill>
+      <ui>3283</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>276</strjo>
+  </appliedjob>
+</information>

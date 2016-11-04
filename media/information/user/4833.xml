@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4833</id>
+      <email>Thaopretty208@gmail.com</email>
+      <username/>
+      <name>Võ Thị Ngọc Thảo</name>
+      <im>4833_image.jpeg</im>
+      <gender>2</gender>
+      <dob>1996-8-20</dob>
+      <deactive>1</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475519491</created>
+      <day>20</day>
+      <month>8</month>
+      <year>1996</year>
+      <phone>0964309488</phone>
+      <address>322/27 nguyễn tất thành, phường 13, quận 4</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.760107</lat>
+      <lng>106.710426</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>4833</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>15,35</category>
+      <type>1,4,6</type>
+      <level>2,3</level>
+      <lang>vi</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Hòa đồng, chăm chỉ, tinh thần trách nhiệm cao và thích nghi môi trường tốt.</about>
+      <skill>kỹ năng hoạt động nhóm tốt, kỹ năng quản lí thời gian, kỹ năng thuyết phục ...</skill>
+      <keyword/>
+      <deactive>1</deactive>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>116</total>
+    <strjo>202,181,64,234,377,351,371,267,210,286,106,100,113,125,262,107,222,305,334,333,349,154,277,138,144,406,391,199,172,130,247,278,163,165,105,206,323,383,221,191,418,421,153,352,243,208,126,301,312,273,201,294,280,353,321,230,176,453,276,162,215,279,357,361,188,193,364,465,460,414,360,435,322,156,402,348,427,474,253,470,471,332,456,449,466,473,408,324,336,443,293,63,275,411,249,355,459,464,213,205,400,252,287,420,429,478,452,510,518,268,517,495,422,423,499,387</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>41</total>
+    <strjo>193,406,391,352,206,191,421,293,208,243,126,176,222,370,192,188,201,285,273,423,279,156,154,202,474,322,267,443,219,294,332,471,465,184,253,400,262,349,106,172,387</strjo>
+  </savedjob>
+  <education>
+    <n_1231>
+      <id>1231</id>
+      <school>Đại học Nguyễn tất thành</school>
+      <degrees>Cao đẳng</degrees>
+      <fieldofstudy>Dược</fieldofstudy>
+      <from>2014</from>
+      <to>2017</to>
+    </n_1231>
+  </education>
+  <experience/>
+</information>

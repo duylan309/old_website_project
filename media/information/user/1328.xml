@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1328</id>
+      <email>lacloi_mottjnhyeu@yahoo.com</email>
+      <username/>
+      <name>Ba Bin</name>
+      <im>1065395950176803_ba-bin.jpg</im>
+      <gender>1</gender>
+      <dob>1991-2-2</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472117803</created>
+      <day>2</day>
+      <month>2</month>
+      <year>1991</year>
+      <phone>0933856589</phone>
+      <address>289/25b trần bình trọng,phường 1 ,quận 10,TPHCM</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7590208</lat>
+      <lng>106.6804522</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>phụ bếp,bếp</title>
+      <experience>2</experience>
+      <category>14,19</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>en</lang>
+      <skill>có kỹ năng nêm gia vị,biết nhiều loại gia vị,salad,thịt,cá</skill>
+      <ui>1328</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>100,191</strjo>
+  </appliedjob>
+</information>

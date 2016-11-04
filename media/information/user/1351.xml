@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1351</id>
+      <email>Anhvien139@gmail.com</email>
+      <username/>
+      <name>Trương Thị Anh Viện</name>
+      <im>1351_img-20160707-195211.jpg</im>
+      <gender>2</gender>
+      <phone>01662483338</phone>
+      <address>162/17 nguyễn văn lượng, gò vấp.</address>
+      <city>30</city>
+      <dob>1994-9-13</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472145466</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>13</day>
+      <month>9</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.839111</lat>
+      <lng>106.680718</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng, nhân viên phục vụ,..</title>
+      <experience>1</experience>
+      <category>15,17,27,31</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>- Từng làm nhân viên bán hàng siêu thị tiện lợi, phục vụ quán cà phê văn phòng, ...</skill>
+      <ui>1351</ui>
+      <s1>3700000</s1>
+      <salary>1</salary>
+      <keyword>Tinh thần trách nhiệm,Tập trung trong công việc,Kỹ năng chăm sóc khách hàng,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>148,140</strjo>
+  </appliedjob>
+</information>

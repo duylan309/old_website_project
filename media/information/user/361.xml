@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>361</id>
+      <email>tranthithuytien04@gmail.com</email>
+      <username/>
+      <name>Trần Thị Thủy Tiên</name>
+      <im>673152426181247_la-vender.jpg</im>
+      <gender>2</gender>
+      <dob>1994-4-24</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1469930985</created>
+      <day>24</day>
+      <month>4</month>
+      <year>1994</year>
+      <phone>01869166057</phone>
+      <address>226/6/32b, Ung Văn Khiêm, Phường 25, Q.Bình Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.804347</lat>
+      <lng>106.720232</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_41>
+      <id>41</id>
+      <title>Thu ngân</title>
+      <level>1</level>
+      <cmpname>Big C</cmpname>
+      <city>TP Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2013</from>
+      <to>2015</to>
+    </n_41>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>361</ui>
+      <title>Thu ngân, Phụ bếp, Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,17,20,26,27,28,29,30,31,35,36</category>
+      <type>2,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <skill>Giao tiếp hiệu quả,kĩ năng làm việc nhóm, tinh thần trách nhiệm, trung thực,tập trung trong công việc, chịu được áp lực công việc, nhiệt tình</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>64,100,82</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7118</id>
+      <email>luckyfanhanhmyl95@gmail.com</email>
+      <username/>
+      <name>Lê Thị Mỹ Hạnh</name>
+      <im>686156304886592_hanh-lion.jpg</im>
+      <gender>2</gender>
+      <dob>1998-1-22</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477063448</created>
+      <day>22</day>
+      <month>1</month>
+      <year>1998</year>
+      <phone>01284646130</phone>
+      <address>338/1/16 An Dương Vương phường 4 quận 5 tp Hồ Chí Minh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7597866</lat>
+      <lng>106.6792254</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>35</category>
+      <type>2</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill>Làm việc nhóm</skill>
+      <ui>7118</ui>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>Tôi tên Lê Thị Mỹ Hạnh là sinh viên trường Đại học Sài Gòn chuyên ngành quản trị văn phòng. Tôi mong muốn trong tương lai có thể phát triển bản thân mình, học hỏi được những kĩ năng thực tế ngay từ khi còn ngồi trên ghế nhà trường. </about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>427</strjo>
+  </appliedjob>
+</information>

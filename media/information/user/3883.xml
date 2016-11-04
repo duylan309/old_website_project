@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3883</id>
+      <email>pierrebouvier261996@gmail.com</email>
+      <username/>
+      <name>Lê Minh Hoà</name>
+      <im>1079953252119466_le-minh-hoa.jpg</im>
+      <gender>1</gender>
+      <dob>1996-6-2</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474883597</created>
+      <day>2</day>
+      <month>6</month>
+      <year>1996</year>
+      <phone>0905052615</phone>
+      <address>799/22/39 Nguyễn Kiệm, phường 3, quận Gò Vấp</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.812942</lat>
+      <lng>106.6786722</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>3883</ui>
+      <title>Các ngành liên quan đến dịch vụ</title>
+      <experience>1</experience>
+      <category>35</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Họ và tên : Lê Minh Hòa. Hiện đang là sv du lịch Sài Gòn, chuyên ngành HDV, có khả năng giao tiếp tốt, ko ngại khó khăn trong công việc, hòa đồng, có trách nhiệm đốu với công việc</about>
+      <skill>Có kĩ năng giao tiếp khá tốt, thân thiện, hòa đồng</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>318,302</strjo>
+  </appliedjob>
+</information>

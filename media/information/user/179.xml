@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>179</id>
+      <email>demo123@gmail.com</email>
+      <username/>
+      <name>demo thue testing</name>
+      <im/>
+      <gender>0</gender>
+      <category>14</category>
+      <phone>01267543789</phone>
+      <address>159 le van thinh</address>
+      <city>30</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>1</status>
+      <created>1463912296</created>
+      <dayleft>1466506359</dayleft>
+      <jobleft>3</jobleft>
+    </db>
+  </userinfo>
+</information>

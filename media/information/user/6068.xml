@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6068</id>
+      <email>Mytran94sr@gmail.com</email>
+      <username/>
+      <name>Trần Thị Cam My</name>
+      <im>6068_img-0047.JPG</im>
+      <gender>2</gender>
+      <phone>01265430182</phone>
+      <address>Quận Phú Nhuận</address>
+      <city>30</city>
+      <dob>1994-8-10</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476364417</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476364417</last_signin>
+      <day>10</day>
+      <month>8</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7991944</lat>
+      <lng>106.6802639</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_1008>
+      <id>1008</id>
+      <school>Đại học tài chính marketing</school>
+      <degrees>Tốt nghiệp đại học</degrees>
+      <fieldofstudy>Tài chính - Ngân Hàng</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_1008>
+  </education>
+  <experience>
+    <n_1232>
+      <id>1232</id>
+      <title>Thực Tập</title>
+      <level>1</level>
+      <cmpname>Eximbank quận 4</cmpname>
+      <city/>
+      <country/>
+      <from>12/2015</from>
+      <to>2/2016</to>
+    </n_1232>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>6068</ui>
+      <title>Nhân viên bếp nướng</title>
+      <experience>7</experience>
+      <category>14,15,35,36</category>
+      <type>1,2,3</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>My name is Tran Thi Cam My, date of birth 10/08/1994, I am currently a  student of University of Finance – Marketing , Major: Finance - Banking Had 3 months intern in Eximbank branch 4 and a member of RMIT Drama Club with Assistant Treasurer position from 2015-2016.&#13;
+I bring a deep rooted passion for baking with a strong desire to excel in the art. Over 2 years I have taught myself basic baking through videos and cooking books, I am well versed in general duties of the position along with state issued hygiene and sanitation principles. I am able to mix, prepare, bake and calculate ratios of ingredients to produce high quality cake and other baked items as per given instructions. I never had any professional experiences before but I asure with my high observation ability, I can learn very fast and become handy soon enough.&#13;
+</about>
+      <skill>Computer&#13;
+Exellent Microsoft Office (Word, Excel, PowerPoint) – B Certificate Grade A (University of Science)&#13;
+Adobe Photoshop Basic&#13;
+Exellent Internet Searching&#13;
+Language&#13;
+English: Proficiency at four skills (TOEIC 600)&#13;
+Vietnamese: Native&#13;
+Team working, Leadership: 8/10&#13;
+Work under pressure: 8/10&#13;
+Communication, Interpersonal: 9/10&#13;
+Analytical thinking, Problem-solving: 9/10&#13;
+Planning, Time Management: 7/10&#13;
+&#13;
+</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>457,126</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>4</total>
+    <strjo>126,129,84,290</strjo>
+  </savedjob>
+</information>

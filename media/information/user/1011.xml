@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1011</id>
+      <email>annguyen26997@gmail.com</email>
+      <username/>
+      <name>An Nguyễn</name>
+      <im>546598395548075_an-nguyen.jpg</im>
+      <gender>2</gender>
+      <dob>1997-9-26</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471583211</created>
+      <day>26</day>
+      <month>9</month>
+      <year>1997</year>
+      <phone>0969558691</phone>
+      <address>phường Linh Trung, quận Thủ Đức</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8637312</lat>
+      <lng>106.7794935</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>1011</ui>
+      <title>nhan viên</title>
+      <experience>7</experience>
+      <category>14,15,17,26,30,35</category>
+      <type>2,4,5,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

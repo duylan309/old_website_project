@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1781</id>
+      <email>caphesuah@yahoo.com</email>
+      <username/>
+      <name>Huỳnh Phụng Thy</name>
+      <im>1240079559375755_jenny-huynh.jpg</im>
+      <gender>2</gender>
+      <dob>1995-11-26</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472914684</created>
+      <day>26</day>
+      <month>11</month>
+      <year>1995</year>
+      <phone>01213774542</phone>
+      <address>230/22 Phan Văn Trị, phường 12, quận Bình Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.814845</lat>
+      <lng>106.696006</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên pha chế, phục vụ, thu ngân</title>
+      <experience>2</experience>
+      <category>14,15,29</category>
+      <type>1,2,4</type>
+      <level>2,3</level>
+      <lang>vi,en,kr</lang>
+      <skill>Kinh nghiệm pha chế qua nhiều loại coffee thức uống. &#13;
+Kinh nghiệm phục vụ nhà hàng.</skill>
+      <ui>1781</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <keyword>Giao tiếp hiệu quả,Tự tin,Kỹ năng chăm sóc khách hàng,Trung thực,Tinh thần trách nhiệm,Tinh thần làm việc nhóm,Chịu được áp lực công việc</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>107,202,106,294,248</strjo>
+  </appliedjob>
+  <experience>
+    <n_389>
+      <id>389</id>
+      <title>Bình Thạnh</title>
+      <level>1</level>
+      <cmpname>Domino’s Pizza Đinh Bộ Lĩnh</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_389>
+    <n_390>
+      <id>390</id>
+      <title>Bình Thạnh</title>
+      <level>1</level>
+      <cmpname>BFF COFFEE</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2013</from>
+      <to>2014</to>
+    </n_390>
+    <n_391>
+      <id>391</id>
+      <title>Quận 3</title>
+      <level>1</level>
+      <cmpname>Dasis Coffee and Tea House</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>Tháng 4/2016</from>
+      <to>Tháng 5/2016</to>
+    </n_391>
+    <n_392>
+      <id>392</id>
+      <title>Quận 2</title>
+      <level>1</level>
+      <cmpname>Labbing</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>Tháng 3/2016</from>
+      <to>Tháng 4/2016</to>
+    </n_392>
+  </experience>
+  <education>
+    <n_281>
+      <id>281</id>
+      <school>Đại học Quốc tế Hồng Bàng </school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Hàn Quốc học</fieldofstudy>
+      <from>2013</from>
+      <to>Nay</to>
+    </n_281>
+  </education>
+  <savedjob>
+    <total>1</total>
+    <strjo>202</strjo>
+  </savedjob>
+</information>

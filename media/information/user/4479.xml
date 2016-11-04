@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4479</id>
+      <email>longtham9487@gmail.com</email>
+      <username/>
+      <name>Hồ Thị Thắm</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01638207955</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475216587</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>NV phục vụ. NV bán hàng</title>
+      <experience>7</experience>
+      <category>29,31,35</category>
+      <type>4,5,6</type>
+      <level>2,3,4</level>
+      <lang>vi</lang>
+      <skill>Giao tiếp. , giải quyết vấn đề</skill>
+      <ui>4479</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>221</strjo>
+  </appliedjob>
+</information>

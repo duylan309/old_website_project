@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <experience>
+    <n_769>
+      <id>769</id>
+      <title>Web Developer</title>
+      <level></level>
+      <cmpname>Thuê</cmpname>
+      <city></city>
+      <country></country>
+      <from></from>
+      <to></to>
+    </n_769>
+    <n_770>
+      <id>770</id>
+      <title>Digital Developer</title>
+      <level></level>
+      <cmpname>Dinosaur</cmpname>
+      <city>Ho Chi Minh City</city>
+      <country> Vietnam</country>
+      <from>2013</from>
+      <to>2016</to>
+    </n_770>
+    <n_771>
+      <id>771</id>
+      <title>Digital Developer</title>
+      <level></level>
+      <cmpname>NewEnergyWave</cmpname>
+      <city>Ho Chi Minh City</city>
+      <country> Vietnam</country>
+      <from>2012</from>
+      <to>2013</to>
+    </n_771>
+  </experience>
+  <education>
+    <n_564>
+      <id>564</id>
+      <school>THCS An Phú</school>
+      <degrees>High School</degrees>
+      <fieldofstudy></fieldofstudy>
+      <from>2006</from>
+      <to></to>
+    </n_564>
+    <n_565>
+      <id>565</id>
+      <school>kent</school>
+      <degrees>College</degrees>
+      <fieldofstudy>Web Design/Programming</fieldofstudy>
+      <from>2008</from>
+      <to></to>
+    </n_565>
+  </education>
+  <userinfo>
+    <db>
+      <id>3470</id>
+      <email>ryan.le14@gmail.com</email>
+      <username></username>
+      <name>Lê Duy Lân</name>
+      <im>10201591812115270_le-duy-lan.jpg</im>
+      <gender>1</gender>
+      <dob>1990-09-30</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474641384</created>
+      <day>30</day>
+      <month>9</month>
+      <year>1990</year>
+      <last_signin>1474641384</last_signin>
+    </db>
+  </userinfo>
+</information>

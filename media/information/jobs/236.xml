@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>236</id>
+    <ui>297</ui>
+    <ci>223</ci>
+    <ai>0</ai>
+    <ti>Phụ bếp</ti>
+    <ta/>
+    <le>2</le>
+    <ty>4</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>3000000</s1>
+    <s2>4500000</s2>
+    <s3>136</s3>
+    <s4>204</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>1</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description>- Làm các công việc phụ bếp như sơ chế,..\r\n- Chẩn bị các nguyên liệu nấu ăn\r\n- Chế biến các nguyên liệu\r\n- Những yêu cầu khác theo quản lý\r\n</description>
+    <requirement>- Có kinh nghiệm làm phụ bếp\r\n- Vui Vẻ Hòa đồng\r\n- Có thể làm theo ca xoay\r\nca 1: 8-16h, ca 2: 15h-23h</requirement>
+    <benefit>- Môi trường quốc tế, chuyên nghiệp, có cơ hội thăng tiến\r\n- Đóng BHXH, BHYT, BHTN theo qui định luật lao động\r\n- Bao cơm giữa ca\r\n-Tiền service charge mỗi tháng</benefit>
+    <keyword>Trung thực,Tự tin,Nhiệt tình,Tinh thần làm việc nhóm,Tinh thần trách nhiệm</keyword>
+    <ad/>
+    <location_id>24</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-10</de>
+    <re>0000-00-00</re>
+    <cr>1474525206</cr>
+  </db>
+  <more>
+    <requirement>- Có kinh nghiệm làm phụ bếp&#13;
+- Vui Vẻ Hòa đồng&#13;
+- Có thể làm theo ca xoay&#13;
+ca 1: 8-16h, ca 2: 15h-23h</requirement>
+    <description>- Làm các công việc phụ bếp như sơ chế,..&#13;
+- Chẩn bị các nguyên liệu nấu ăn&#13;
+- Chế biến các nguyên liệu&#13;
+- Những yêu cầu khác theo quản lý&#13;
+</description>
+    <benefit>- Môi trường quốc tế, chuyên nghiệp, có cơ hội thăng tiến&#13;
+- Đóng BHXH, BHYT, BHTN theo qui định luật lao động&#13;
+- Bao cơm giữa ca&#13;
+-Tiền service charge mỗi tháng</benefit>
+    <keyword>Trung thực,Tự tin,Nhiệt tình,Tinh thần làm việc nhóm,Tinh thần trách nhiệm</keyword>
+  </more>
+  <userapplied>
+    <total>1</total>
+    <strui>3222</strui>
+  </userapplied>
+</information>

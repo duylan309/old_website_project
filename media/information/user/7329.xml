@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7329</id>
+      <email>thanhluanvn81@gmail.com</email>
+      <username/>
+      <name>Văn Thành Luân</name>
+      <im>1477177696_van-thanh-luan.png</im>
+      <gender>0</gender>
+      <phone>0969507489</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477177696</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha Chế</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>4</type>
+      <level>1,2</level>
+      <lang>vi</lang>
+      <skill>Từng Làm Quản Lý Quán Coffee Quỳ Đà Lạt. Có thể pha chế các món nước uống.</skill>
+      <ui>7329</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>294</strjo>
+  </appliedjob>
+</information>

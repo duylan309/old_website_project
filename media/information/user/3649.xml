@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3649</id>
+      <email>minhthuy781997@gmail.com</email>
+      <username/>
+      <name>Phạm Minh Thùy</name>
+      <im>1474733380_pham-minh-thuy.png</im>
+      <gender>2</gender>
+      <phone>01649925055</phone>
+      <address>187 Quốc lộ 13, Phường 26, Quận Bình Thạnh</address>
+      <city>30</city>
+      <dob>1997-8-7</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474733379</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>7</day>
+      <month>8</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8127609</lat>
+      <lng>106.712616</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Giao tiếp tốt, cẩn thận,..</skill>
+      <ui>3649</ui>
+      <s1>1800000</s1>
+      <salary>1</salary>
+      <about>Vui vẻ, hòa đồng, nhanh nhẹn, có khả năng thích ứng với công việc nhanh</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>267,240,205,124</strjo>
+  </appliedjob>
+  <education>
+    <n_597>
+      <id>597</id>
+      <school>Đại học Văn lang</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Quản trị kinh doanh</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_597>
+  </education>
+  <savedjob>
+    <total>2</total>
+    <strjo>162,205</strjo>
+  </savedjob>
+</information>

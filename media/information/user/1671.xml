@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1671</id>
+      <email>cherryv@l-concepts.com</email>
+      <username/>
+      <name>L CONCEPTS (’NAMO - L’USINE - SIZZLIN STEAK)</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0933097255</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>3</status>
+      <created>1472726674</created>
+      <dayleft>1480557424</dayleft>
+      <page>5</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1472726674</last_signin>
+      <jobleft>0</jobleft>
+    </db>
+    <password>
+      <lastupdate>1476180628</lastupdate>
+    </password>
+  </userinfo>
+  <totalJob>
+    <total>14</total>
+    <strji>439,475,438,463,229,447,519,458,457,454,529,446,461,472</strji>
+  </totalJob>
+  <saveuser>
+    <total>21</total>
+    <strui>1681,1354,3275,5870,6000,6068,6176,6320,1259,6582,4200,6673,6021,6211,7018,7327,7365,7280,7409,7212,7425</strui>
+  </saveuser>
+</information>

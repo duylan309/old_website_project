@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6878</id>
+      <email>vihai60@gmail.com</email>
+      <username/>
+      <name>Lưu Vĩ Hải</name>
+      <im>6878_14741135-1061442750641080-114678931-n.jpg</im>
+      <gender>1</gender>
+      <phone>01228096995</phone>
+      <address>533/54 Phạm Văn Chí P7 Q6</address>
+      <city>30</city>
+      <dob>1998-9-3</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476897642</created>
+      <dayleft>0</dayleft>
+      <jobleft>0</jobleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476897642</last_signin>
+      <day>3</day>
+      <month>9</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.745324</lat>
+      <lng>106.64813</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6878</ui>
+      <title>phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,27,31,35</category>
+      <type>2,3,5,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Em hiện tại là sinh viên năm nhất trường học viện kỹ thuật mật mã, bản thân em rất thích học hỏi những gì mình chưa biết để hoàn thiện bản thân, tính cách hơi trầm, ít khi bắt chuyện với người khác, trình độ tiếng anh chưa tốt nhưng sẽ cố cải thiện khi đang làm việc. Kinh nghiệm làm việc chưa có nhưng em sẽ cố gắng học hỏi, tích lũy kinh nghiệm, mặc khác muốn tự chủ về tài chính, không muốn phụ thuộc quá nhiều vào gia đình.</about>
+      <skill>Có thể dùng các phần mềm văn phòng: word , access ,excel,..&#13;
+Ngoài ra còn có thể làm clip bằng ProShow Producer, làm sub cho video,...&#13;
+ </skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <savedjob>
+    <total>6</total>
+    <strjo>202,201,478,402,403,323</strjo>
+  </savedjob>
+  <appliedjob>
+    <total>5</total>
+    <strjo>202,201,478,452,323</strjo>
+  </appliedjob>
+</information>

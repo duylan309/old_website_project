@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4028</id>
+      <email>1120190.lechanhtrung@gmail.com</email>
+      <username/>
+      <name>Lê Chánh Trung</name>
+      <im>4028_13349009-944918128959402-1478827665-n.jpg</im>
+      <gender>1</gender>
+      <phone>01246797460</phone>
+      <address>145 Bình Quới, Quận Bình Thạnh</address>
+      <city>30</city>
+      <dob>1993-3-29</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474954476</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1474954476</last_signin>
+      <day>29</day>
+      <month>3</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.818917</lat>
+      <lng>106.723872</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>4028</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Là một người hoà đồng, nhanh nhẹn, thích giao tiếp với người nước ngoài, ham học hỏi, khá cầu toàn.</about>
+      <skill>Tiếng anh, phục vụ, làm việc nhóm, đưa ra quyết định</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>199</strjo>
+  </appliedjob>
+</information>

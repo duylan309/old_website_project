@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6652</id>
+      <email>ngocbang97@gmail.com</email>
+      <username/>
+      <name>Ngọc Băng</name>
+      <im>914226012044256_ngoc-bang.jpg</im>
+      <gender>2</gender>
+      <dob>1997-1-30</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476765129</created>
+      <day>30</day>
+      <month>1</month>
+      <year>1997</year>
+      <phone>01292966301</phone>
+      <address>169/1/2 Lương Định Của, phường Bình An, quận 2</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7763259</lat>
+      <lng>106.710341</lng>
+    </db>
+  </userinfo>
+  <savedjob>
+    <total>2</total>
+    <strjo>465,219</strjo>
+  </savedjob>
+  <user_cv>
+    <db>
+      <ui>6652</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,17,18,20,27,29,31,35</category>
+      <type>2,4,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Là 1 người lạc quan, dễ tính, hòa đồng và thích ứng nhanh với môi trường và mọi người, có khả năng làm việc nhóm vì đang tham gia sinh hoạt Đoàn thanh niên và tổ chức sự kiên cho trẻ em . Bên cạnh đó tôi cũng là 1 người khá nguyên tắc và tỉ mỉ trong công việc.</about>
+      <skill>Có kỹ năng nói trước đám đông và làm việc nhóm. Đang trau dồi thêm kiến thức ngoại ngữ cụ thể là tiếng anh và tiếng hoa.</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+</information>

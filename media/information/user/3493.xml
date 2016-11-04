@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3493</id>
+      <email>Nhudinh1997@gmail.com</email>
+      <username/>
+      <name>Dư Như Định</name>
+      <im>1474647067_du-nhu-dinh.png</im>
+      <gender>0</gender>
+      <phone>01223960701</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474647067</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng</title>
+      <experience>7</experience>
+      <category>15,17,29,31,35</category>
+      <type>2,4,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill>Em rất thích thời trang</skill>
+      <ui>3493</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>156</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5368</id>
+      <email>leon.phan89@gmail.com</email>
+      <username/>
+      <name>Phan Trương Quốc Tuấn</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0938391344</phone>
+      <address>61/45 Hùng Vương P.4, Q.5 </address>
+      <city>30</city>
+      <dob>1989-7-9</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475930369</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1475930369</last_signin>
+      <day>9</day>
+      <month>7</month>
+      <year>1989</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7643921</lat>
+      <lng>106.6801214</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_892>
+      <id>892</id>
+      <school>Cao Đẳng Bán Công Công Nghệ Và Quản Trị Doanh Nghiệp</school>
+      <degrees>Trung Cấp</degrees>
+      <fieldofstudy>Công Nghệ Thông Tin</fieldofstudy>
+      <from>2007</from>
+      <to>2009</to>
+    </n_892>
+  </education>
+  <experience>
+    <n_1102>
+      <id>1102</id>
+      <title>Nhân Viên</title>
+      <level>1</level>
+      <cmpname>Cty Dp Bách Khang</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2012</from>
+      <to>2016</to>
+    </n_1102>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>5368</ui>
+      <title>Chuyên viên kiểm kê kho</title>
+      <experience>1</experience>
+      <category>17,27,29,35</category>
+      <type>2,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about></about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

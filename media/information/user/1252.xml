@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1252</id>
+      <email>Vovankiet6508056@gmail.com</email>
+      <username/>
+      <name>Võ Văn Kiệt</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0962168611</phone>
+      <address>125 Cống Quỳnh.phường Nguyễn Cư Trình.Q1</address>
+      <city>30</city>
+      <dob>1994-8-4</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472009277</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>4</day>
+      <month>8</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.76584</lat>
+      <lng>106.689434</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>phụ bếp</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Tốt nghiệp 12/12</skill>
+      <ui>1252</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <keyword>chịu được áp lực công việc</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>153,136</strjo>
+  </appliedjob>
+  <experience>
+    <n_288>
+      <id>288</id>
+      <title>phụ bếp</title>
+      <level>1</level>
+      <cmpname>nhà hàng Mỳ Xứ Quảng</cmpname>
+      <city>TP HCM</city>
+      <country>Việt  Nam</country>
+      <from>năm 2010</from>
+      <to>2011</to>
+    </n_288>
+  </experience>
+</information>

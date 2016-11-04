@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6152</id>
+      <email>Anhlt12401@st.uel.edu.vn</email>
+      <username/>
+      <name>Lê Tuấn Anh</name>
+      <im>6152_img-4905.jpg</im>
+      <gender>1</gender>
+      <phone>01682722344</phone>
+      <address>Thủ Đức</address>
+      <city>30</city>
+      <dob>1994-8-16</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476393357</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476393357</last_signin>
+      <day>16</day>
+      <month>8</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8494094</lat>
+      <lng>106.7537055</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1239>
+      <id>1239</id>
+      <title>Thực tập sinh Content</title>
+      <level>1</level>
+      <cmpname>TNHH SX TM DV Không Giờ Rồi</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>9/2015</from>
+      <to>11/2015</to>
+    </n_1239>
+  </experience>
+  <education>
+    <n_1018>
+      <id>1018</id>
+      <school>ĐH Kinh tế-Luật (ĐHGQ Tp. HCM)</school>
+      <degrees>Cử Nhân</degrees>
+      <fieldofstudy>Kinh tế học</fieldofstudy>
+      <from>9/2012</from>
+      <to>9/2016</to>
+    </n_1018>
+  </education>
+  <user_cv>
+    <db>
+      <ui>6152</ui>
+      <title>Nhân viên Marketing</title>
+      <experience>1</experience>
+      <category>14,15,16,17,18,19,20,26,29,31,35</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Mới tốt nghiệp, tính cách trầm ổn, hòa đồng, vui vẻ. Thích xem phim, ăn uống, nghe nhạc, đọc truyện tranh. Tinh thần cao, nghiêm túc.</about>
+      <skill>Tin học văn phòng, Photoshop, quản lý thời gian, viết lách, làm việc nhóm-độc lập,...</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>99,220,251</strjo>
+  </appliedjob>
+</information>

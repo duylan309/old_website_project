@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4203</id>
+      <email>nguyenthinhlong91@gmail.com</email>
+      <username/>
+      <name>Nguyễn thính long</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0915879005</phone>
+      <address>362/25/6L phan huy ích, gò vấp, tp hcm</address>
+      <city>30</city>
+      <dob>1991-4-30</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475033004</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1475033004</last_signin>
+      <day>30</day>
+      <month>4</month>
+      <year>1991</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>4203</ui>
+      <title>Phụ bếp</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,ch</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Là ngường nhiệt tình, có đam mê với công việc, sống hòa đồng..</about>
+      <skill>Đang theo học khóa bếp trưởng bếp điều hành ở trường hướng nghiệp á âu.</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>352,153,183,301,291,219</strjo>
+  </appliedjob>
+</information>

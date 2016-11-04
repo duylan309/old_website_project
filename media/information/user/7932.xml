@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7932</id>
+      <email>thaochu009@gmail.com</email>
+      <username/>
+      <name>Chu Thanh Thảo</name>
+      <im>662223887292334_thao-chu.jpg</im>
+      <gender>2</gender>
+      <dob>1997-6-18</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477547542</created>
+      <day>18</day>
+      <month>6</month>
+      <year>1997</year>
+      <phone>0939458670</phone>
+      <address>31 lầu 2 Vạn Tượng, phường 13, quận 5</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7494919</lat>
+      <lng>106.6561736</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng, nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,17,29,31,35</category>
+      <type>2,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Khả năng thích ứng môi trường mới nhanh, tập trung, nhanh nhẹn, khả năng học tập tốt, hòa đồng, khả năng làm việc nhóm tốt.</skill>
+      <ui>7932</ui>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <about>Tôi là một người năng động, học hỏi nhanh, có trách nhiệm trong công việc cao, tập trung, nhanh nhẹn trong công việc, luôn hoàn thành tốt công việc được giao đúng theo yêu cầu.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>476,518</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>476</strjo>
+  </savedjob>
+  <education>
+    <n_1284>
+      <id>1284</id>
+      <school>Đại học Mở TPHCM</school>
+      <degrees/>
+      <fieldofstudy>Tài chính-Ngân hàng</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_1284>
+  </education>
+</information>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6261</id>
+      <email>trivo3004@gmail.com</email>
+      <username/>
+      <name>Vo Huu Tri</name>
+      <im/>
+      <gender>1</gender>
+      <phone>094 747 4841</phone>
+      <address>648 Phạm Thế Hiển Q8</address>
+      <city>30</city>
+      <dob>1994-4-30</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476456273</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476456273</last_signin>
+      <day>30</day>
+      <month>4</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7418913</lat>
+      <lng>106.6612697</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6261</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>en,ja</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <savedjob>
+    <total>2</total>
+    <strjo>201,460</strjo>
+  </savedjob>
+</information>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>504</id>
+    <ui>5170</ui>
+    <ci>422</ci>
+    <ai>0</ai>
+    <ti>Nhân viên phục vụ</ti>
+    <ta/>
+    <le>1</le>
+    <ty>2,4</ty>
+    <ex>7</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>1700000</s1>
+    <s2>2000000</s2>
+    <s3>77</s3>
+    <s4>90</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14,15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description>- Phục vụ khách hàng\r\n- Dọn dẹp vệ sinh\r\n- Rửa ly chén</description>
+    <requirement>- Trung Thực, Thân thiện, Siêng năng, Có trách nhiệm</requirement>
+    <workhour/>
+    <benefit>- Lương thưởng trong các ngày lễ tết, theo khả năng và doanh thu của quán</benefit>
+    <keyword/>
+    <ad/>
+    <location_id>365</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-29</de>
+    <re>0000-00-00</re>
+    <cr>1477537092</cr>
+  </db>
+  <more>
+    <requirement>- Trung Thực, Thân thiện, Siêng năng, Có trách nhiệm</requirement>
+    <description>- Phục vụ khách hàng&#13;
+- Dọn dẹp vệ sinh&#13;
+- Rửa ly chén</description>
+    <workhour>- 7h30 - 12h30&#13;
+- 8h-13h&#13;
+- 13h-18h&#13;
+- 19h-23h</workhour>
+    <benefit>- Lương thưởng trong các ngày lễ tết, theo khả năng và doanh thu của quán</benefit>
+    <keyword/>
+  </more>
+  <userapplied>
+    <total>17</total>
+    <strui>7388,7490,7597,7608,5869,7652,7246,3538,940,7738,7342,7801,1773,877,7915,8020,8065</strui>
+  </userapplied>
+</information>

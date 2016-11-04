@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1140</id>
+      <email>annienguyen.197@gmail.com</email>
+      <username/>
+      <name>Nguyễn Tấn Trung</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01224781025</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471840131</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phụ bếp</title>
+      <experience>7</experience>
+      <category>14,15,16,18,19,20,31</category>
+      <type>1,4</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill>Làm việc nhóm, nhanh nhạy trong học hỏi và môi trường làm việc, siêng năng và đam mê trong lĩnh vực bếp</skill>
+      <ui>1140</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>153,125,139</strjo>
+  </appliedjob>
+</information>

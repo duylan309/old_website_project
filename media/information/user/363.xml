@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>363</id>
+      <email>nk.nguyen2105@gmail.com</email>
+      <username/>
+      <name>Nam Khoa</name>
+      <im>1417647198251771_nam-khoa.jpg</im>
+      <gender>1</gender>
+      <dob>1998-5-21</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1469933868</created>
+      <day>21</day>
+      <month>5</month>
+      <year>1998</year>
+      <phone>0938918179</phone>
+      <address>Phan Huy Ích, P.12, Q. Gò Vấp</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.839057</lat>
+      <lng>106.6346</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>363</ui>
+      <title>Nhân viên phục vụ</title>
+      <category>14,17,29,35</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <skill>- Giao tiếp bằng tiếng Anh&#13;
+-  Năng động, vui vẻ, có trách nhiệm&#13;
+- Có khả năng làm việc nhóm</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>87,84,64</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3392</id>
+      <email>pekut3_nani97@yahoo.com</email>
+      <username/>
+      <name>Yến Như</name>
+      <im>1127043420722049_yen-nhu.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474593210</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15</category>
+      <type>4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Đã có kinh nghiệm làm PG cho hãng kem Haagen Dazs </skill>
+      <ui>3392</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>201</strjo>
+  </appliedjob>
+  <experience>
+    <n_751>
+      <id>751</id>
+      <title>PG</title>
+      <level>1</level>
+      <cmpname>Haagen Dazs</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Viet Nam</country>
+      <from>Tháng 4/2016</from>
+      <to>Tháng 8/2016</to>
+    </n_751>
+  </experience>
+</information>

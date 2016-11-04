@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>201</id>
+    <ui>240</ui>
+    <name>CI5 Coffee &amp; Tea House</name>
+    <url>CI5.coffee.tea.house</url>
+    <im>443825282353857_ci5-coffee-tea-house.jpg</im>
+    <im_banner>443825282353857_ci5-coffee-tea-house-cover.jpg</im_banner>
+    <category>15</category>
+    <phone>(08).6290.7990</phone>
+    <address>243 Lê Văn Sỹ, P.13, Q.3</address>
+    <district>0</district>
+    <district_text_vi></district_text_vi>
+    <district_text_en></district_text_en>
+    <city>30</city>
+    <lat>10.787240</lat>
+    <lng>106.678902</lng>
+    <website></website>
+    <about></about>
+    <facebook>https://www.facebook.com/CI5.coffee.tea.house/</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1467704566</created>
+  </db>
+  <more>
+    <about>243 Lê Văn Sỹ, P.13, Q.3 (mở cửa 24/24).&#13;
+Hotline: (08).6290.7990</about>
+    <whyworkus></whyworkus>
+  </more>
+  <companybanner>443825282353857_ci5-coffee-tea-house-cover.jpg</companybanner>
+</information>

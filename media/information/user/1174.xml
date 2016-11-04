@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1174</id>
+      <email>thu.minhh1505@gmail.com</email>
+      <username/>
+      <name>Nguyễn Ái Minh Thư</name>
+      <im>890586674376062_nguyen-ai-minh-thu.jpg</im>
+      <gender>2</gender>
+      <dob>1997-5-15</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471870327</created>
+      <day>15</day>
+      <month>5</month>
+      <year>1997</year>
+      <phone>0933545101</phone>
+      <address>48/14 Mai Văn Vĩnh, p.Tân Quy, q.7</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.73926</lat>
+      <lng>106.71356</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_279>
+      <id>279</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>Labella</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>Tháng 11/2015</from>
+      <to>Nay</to>
+    </n_279>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>1174</ui>
+      <title>Nhân viên đón khách</title>
+      <experience>1</experience>
+      <category>26,30,35</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <skill>Wall Street English level: Threshold 1&#13;
+MOS WORD : 838&#13;
+MOS EXCEL : 750</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <education>
+    <n_190>
+      <id>190</id>
+      <school>Đại học Tôn Đức Thắng</school>
+      <degrees/>
+      <fieldofstudy>Quản trị Marketing</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_190>
+  </education>
+</information>

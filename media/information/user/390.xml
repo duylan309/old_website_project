@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>390</id>
+      <email>minhanh17597@gmail.com</email>
+      <username/>
+      <name>Trịnh Thị Minh Anh</name>
+      <im>766559736817421_the-manh.jpg</im>
+      <gender>2</gender>
+      <dob>1997-5-17</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470017960</created>
+      <day>17</day>
+      <month>5</month>
+      <year>1997</year>
+      <phone>0988479046</phone>
+      <address>72/1/13 KP Đồng An 3 - P.Bình Hòa - Tx. Thuận An - Bình Dương</address>
+      <country>vn</country>
+      <city>11</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Bình Dương</city_text_vi>
+      <city_text_en>Binh Duong</city_text_en>
+      <lat>10.9058317</lat>
+      <lng>106.7306375</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>390</ui>
+      <title>nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,27</category>
+      <type>2,4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <skill>- Tiếng Anh giao tiếp khá&#13;
+- Hay cười&#13;
+- Teamwork&#13;
+</skill>
+      <keyword>Giao tiếp hiệu quả,Tinh thần trách nhiệm,Chịu được áp lực công việc,Tinh thần làm việc nhóm,Nhiệt tình</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>100,84,202,211,221,199</strjo>
+  </appliedjob>
+</information>

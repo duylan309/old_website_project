@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1371</id>
+      <email>Nguyenthianhthuy1202@gmail.com</email>
+      <username/>
+      <name>Nguyễn thị anh thùy</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0901439949</phone>
+      <address>517 chợ cầu muối. Đường cô bắc. Phường cầu ông lãnh. Quận 1 </address>
+      <city/>
+      <dob>1998-2-12</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472204126</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>12</day>
+      <month>2</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên pha chế tập sự</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>4</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill>Hiện tại đang học pha chế bên trường netspace </skill>
+      <ui>1371</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>129</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>129</strjo>
+  </savedjob>
+</information>

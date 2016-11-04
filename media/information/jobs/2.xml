@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>2</id>
+    <ui>83</ui>
+    <ci>83</ci>
+    <ti>Barista</ti>
+    <le>1</le>
+    <sa>1</sa>
+    <lo>30</lo>
+    <ca>15</ca>
+    <so>0</so>
+    <st>2</st>
+    <de>2016-06-27</de>
+    <re>0000-00-00</re>
+    <cr>1467004272</cr>
+    <ai>3</ai>
+    <ta/>
+    <ex>2</ex>
+    <sn>0</sn>
+    <ty>1</ty>
+    <s1>4000000</s1>
+    <s2>5500000</s2>
+    <s3>181</s3>
+    <s4>250</s4>
+    <la>vi,en</la>
+    <co>vn</co>
+  </db>
+  <more>
+    <number>20</number>
+    <description>Job description</description>
+    <requirement>Job requirements</requirement>
+  </more>
+  <totalApplied>1</totalApplied>
+  <userapplied>
+    <total>1</total>
+    <strui>3</strui>
+  </userapplied>
+</information>

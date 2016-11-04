@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>26</id>
+      <email>pthuy2304@gmail.com</email>
+      <username/>
+      <name>Phạm Trọng Thanh Thuỷ</name>
+      <image/>
+      <gender>2</gender>
+      <dob>2023-04-19</dob>
+      <is_newletter>0</is_newletter>
+      <type>2</type>
+      <status>1</status>
+      <created>1456631262</created>
+      <phone>0979285386</phone>
+      <address></address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text>Hồ Chí Minh</city_text>
+    </db>
+  </userinfo>
+  <cv>
+    <i_1000001>
+      <id>1000001</id>
+      <ui>26</ui>
+      <ai>1</ai>
+      <ti>Developer Php</ti>
+      <ta/>
+      <le>3</le>
+      <ex>3</ex>
+      <sa>$1000</sa>
+      <lo>30</lo>
+      <ca>12</ca>
+      <so>0</so>
+      <st>2</st>
+      <re>0000-00-00</re>
+      <cr>1456631380</cr>
+    </i_1000001>
+  </cv>
+  <user_cv>
+    <db>
+      <ui>26</ui>
+      <title>Lawyer</title>
+      <category>14</category>
+      <location>30</location>
+      <type>1</type>
+      <experience></experience>
+      <s1>0</s1>
+      <salary>1</salary>
+      <skill></skill>
+    </db>
+  </user_cv>
+</information>

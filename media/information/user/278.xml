@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>278</id>
+      <email>anhlinh6962@gmail.com</email>
+      <username/>
+      <name>Ánh Linh</name>
+      <im>816612721809091_anh-linh.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1468060860</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <experience>
+    <n_18>
+      <id>18</id>
+      <title>Waitress</title>
+      <level>1</level>
+      <cmpname>Viva Star Coffee</cmpname>
+      <city>Ho Chi Minh City</city>
+      <country>Viet Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_18>
+  </experience>
+  <education>
+    <n_16>
+      <id>16</id>
+      <school>University of Finance and Marketing</school>
+      <degrees/>
+      <fieldofstudy>Hospitality</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_16>
+  </education>
+</information>

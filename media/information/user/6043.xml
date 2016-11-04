@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6043</id>
+      <email>nguyentaihung06@gmail.com</email>
+      <username/>
+      <name>Nguyễn Tài Hưng</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0939037020</phone>
+      <address>36 Ngô Tất Tố, phường 19, quận Bình Thạnh</address>
+      <city>30</city>
+      <dob>1995-6-6</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476345014</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>6</day>
+      <month>6</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.791709</lat>
+      <lng>106.711523</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên</title>
+      <experience>7</experience>
+      <category>14,15,17,18,26,27,28,29,31,35</category>
+      <type>2</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <skill></skill>
+      <ui>6043</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>448</strjo>
+  </appliedjob>
+</information>

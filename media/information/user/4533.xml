@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4533</id>
+      <email>stylish_mandy92@yahoo.com</email>
+      <username/>
+      <name>ĐINH NGÔ NGỌC MAI</name>
+      <im>1128090180605931_gau-teddy.jpg</im>
+      <gender>2</gender>
+      <dob>1992-8-18</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475283357</created>
+      <day>18</day>
+      <month>8</month>
+      <year>1992</year>
+      <phone>0938027323</phone>
+      <address>163/26/58 tô hiến thành p13 q10</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.782271</lat>
+      <lng>106.6711</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân vien bán hàng. Cửa hàng trưởng</title>
+      <experience>3</experience>
+      <category>29,35</category>
+      <type>1</type>
+      <level>2,4</level>
+      <lang>vi,en</lang>
+      <skill>Có khả năng thuyết phục khách hàng khó tanh</skill>
+      <ui>4533</ui>
+      <s1>5500000</s1>
+      <salary>1</salary>
+      <about>Em là Đinh Ngô Ngọc Mai&#13;
+Năm nay em 24 tuổi&#13;
+E đã có 3 năm kinh nghiêm bán hàng. Em rất mong quý công ty cho em cơ hội được hợp tác lâu dài cùng công ty ạ.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>156,157</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>156</strjo>
+  </savedjob>
+  <experience>
+    <n_961>
+      <id>961</id>
+      <title>Nhân Viên Bán Hàng</title>
+      <level>1</level>
+      <cmpname>May10</cmpname>
+      <city>HCM</city>
+      <country>VietNam</country>
+      <from>2013</from>
+      <to>2015</to>
+    </n_961>
+    <n_962>
+      <id>962</id>
+      <title>Nhân Viên Bán Hàng</title>
+      <level>1</level>
+      <cmpname>Tiếp Thị Việt</cmpname>
+      <city>HCM</city>
+      <country>Viet Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_962>
+    <n_963>
+      <id>963</id>
+      <title>NHÂN VIÊN BÁN HÀNG (CHP THƯC TẬP)</title>
+      <level>1</level>
+      <cmpname>TNHH MTV PHÁT TRIỂN TRANG PHỤC PHỤ NỮ KIỂU PHÁP</cmpname>
+      <city>HCM</city>
+      <country>VIETNAM</country>
+      <from>2/2016</from>
+      <to>8/2016</to>
+    </n_963>
+  </experience>
+  <education>
+    <n_750>
+      <id>750</id>
+      <school>CAO ĐẰN NGHỀ DU LỊCH SÀI GÒN</school>
+      <degrees>Trung cấp</degrees>
+      <fieldofstudy>Kế Toán</fieldofstudy>
+      <from>2010</from>
+      <to>2013</to>
+    </n_750>
+  </education>
+</information>

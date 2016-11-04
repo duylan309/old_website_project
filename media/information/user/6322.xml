@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6322</id>
+      <email>lethieuquochungftu@gmail.com</email>
+      <username/>
+      <name>Hùng Lê</name>
+      <im>705265946292546_hung-le.jpg</im>
+      <gender>1</gender>
+      <dob>1995-9-14</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476500901</created>
+      <day>14</day>
+      <month>9</month>
+      <year>1995</year>
+      <phone>0973301148</phone>
+      <address>phường 25, quận bình thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8040973</lat>
+      <lng>106.7153875</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên, chăm sóc khác hàng, ...</title>
+      <experience>7</experience>
+      <category>14,15,17,18,29,35</category>
+      <type>1,2</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill>giao tiếp tốt, làm việc nhóm, chăm chỉ, thật thà, đúng giờ giấc</skill>
+      <ui>6322</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>323</strjo>
+  </appliedjob>
+</information>

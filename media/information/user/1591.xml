@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1591</id>
+      <email>canhpham729@gmail.com</email>
+      <username/>
+      <name>Phạm Hữu Cảnh</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0908915202</phone>
+      <address>132/89 Đoàn Văn Bơ P14 Q4</address>
+      <city>30</city>
+      <dob>1996-7-29</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472611420</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>29</day>
+      <month>7</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.757961</lat>
+      <lng>106.708564</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ, Pha chế</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>2,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill>Biết pha chế các món nước cơ bản</skill>
+      <ui>1591</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>222,64,208,201,130</strjo>
+  </appliedjob>
+  <experience>
+    <n_342>
+      <id>342</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>Dunkin Donuts Phú Mỹ Hưng</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>tháng 4/2015</from>
+      <to>tháng 9/2015</to>
+    </n_342>
+  </experience>
+  <education>
+    <n_247>
+      <id>247</id>
+      <school>Đại học Công Nghệ TP HCM</school>
+      <degrees>Năm 3</degrees>
+      <fieldofstudy>Thiết kế nội thất</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_247>
+  </education>
+</information>

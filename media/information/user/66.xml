@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>66</id>
+      <email>hieuhh@yahoo.com</email>
+      <username/>
+      <name>Huỳnh Hùng Hiếu</name>
+      <im>66_DAN-TRUONG-1-1372138548_500x0.jpg</im>
+      <gender>1</gender>
+      <category/>
+      <phone>01283444555</phone>
+      <address>60 Ngô Quyền, P. Mỹ Hương, TP.PRTC</address>
+      <city>43</city>
+      <dob>2016-04-02</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1459650580</created>
+      <skype/>
+      <facebook>ohhieu</facebook>
+      <is_newletter>0</is_newletter>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>66</ui>
+      <category>16</category>
+      <title>2 yrs</title>
+      <type>1</type>
+      <level>1</level>
+      <experience>1</experience>
+      <location>43</location>
+      <s1>10000000</s1>
+      <salary>1</salary>
+      <skill>Very good for everything.</skill>
+      <s2>454.54545454545</s2>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>1,5</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>5</strjo>
+  </savedjob>
+</information>

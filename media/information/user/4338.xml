@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4338</id>
+      <email>hoacucvang0606@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Linh</name>
+      <im>1475076920_nguyen-thi-linh.png</im>
+      <gender>0</gender>
+      <phone>01659747336</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475076920</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Kĩ năng vi tính Word, kĩ năng làm việc nhóm, kĩ năng giao tiếp tốt</skill>
+      <ui>4338</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>301</strjo>
+  </appliedjob>
+</information>

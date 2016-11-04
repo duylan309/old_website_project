@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4732</id>
+      <email>nhipu16408@st.uel.edu.vn</email>
+      <username/>
+      <name>Uyển Nhi</name>
+      <im>314608425575856_uyen-nhi.jpg</im>
+      <gender>2</gender>
+      <dob>1998-12-20</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475471461</created>
+      <day>20</day>
+      <month>12</month>
+      <year>1998</year>
+      <last_signin>1475471461</last_signin>
+      <phone>01665133579</phone>
+      <address>khu phố 3, Linh Xuân, Thủ Đức, Hồ Chí Minh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8373043</lat>
+      <lng>106.7510172</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_789>
+      <id>789</id>
+      <school>Trường Đại học Kinh tế-Luật</school>
+      <degrees/>
+      <fieldofstudy>Kinh doanh quốc tế</fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_789>
+  </education>
+  <user_cv>
+    <db>
+      <ui>4732</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15,29,31,35</category>
+      <type>5</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>1000000</s1>
+      <salary>1</salary>
+      <about>Tôi là Phan Uyển Nhi. Hiện là sinh viên năm nhất trường Đại học Kinh tế-Luật. Tôi đang tìm công việc làm thêm ngoài giờ để kiếm thêm thu nhập cho bản thân.</about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

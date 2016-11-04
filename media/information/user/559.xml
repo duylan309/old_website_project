@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>559</id>
+      <email>thiensu8x888@gmail.com</email>
+      <username/>
+      <name>Cường Nguyễn</name>
+      <im>918306611630759_cuong-nguyen.jpg</im>
+      <gender>1</gender>
+      <dob>1996-11-15</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470483222</created>
+      <day>15</day>
+      <month>11</month>
+      <year>1996</year>
+      <phone>01655908890</phone>
+      <address>15/7/22 Trần Bình Trọng, P5 , Quận Bình Thạnh </address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.810941</lat>
+      <lng>106.689712</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_109>
+      <id>109</id>
+      <title>phục vụ</title>
+      <level>1</level>
+      <cmpname>red sun</cmpname>
+      <city>hồ chí minh</city>
+      <country>việt nam</country>
+      <from>25/12/2015</from>
+      <to>30/05/2016</to>
+    </n_109>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>559</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>2,5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <skill>Quản trị nhà hàng và dịch vụ ăn uống</skill>
+      <keyword>Tập trung trong công việc,Nhiệt tình,Chịu được áp lực công việc</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>154,158</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>2</total>
+    <strjo>154,158</strjo>
+  </savedjob>
+</information>

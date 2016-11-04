@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>435</id>
+      <email>luctanloi@gmail.com</email>
+      <username/>
+      <name>Lục Tấn Lợi</name>
+      <im>687048544781770_luc-tan-loi.jpg</im>
+      <gender>1</gender>
+      <dob>1997-12-15</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470110417</created>
+      <day>15</day>
+      <month>12</month>
+      <year>1997</year>
+      <phone>0943045259</phone>
+      <address>9/21 đường số 12, QL.13, p.Hiệp Bình Chánh, Q.Thủ Đức, Tp.HCM</address>
+      <country>vn</country>
+      <city/>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>435</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <skill>Giao tiếp, làm việc nhóm, trách nhiệm, trung thực,tự tin</skill>
+      <keyword>Tinh thần làm việc nhóm,Giao tiếp hiệu quả,Tinh thần trách nhiệm,Tự tin</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>99</strjo>
+  </appliedjob>
+</information>

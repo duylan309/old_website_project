@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6112</id>
+      <email>duongthithuthao20@gmail.com</email>
+      <username/>
+      <name>Thảo Dương</name>
+      <im>542527942620966_thao-duong.jpg</im>
+      <gender>2</gender>
+      <dob>0933972805-8-20</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476375473</created>
+      <day>20</day>
+      <month>8</month>
+      <year>0933972805</year>
+      <phone>0933972805</phone>
+      <address>157 Phạm Văn Chiêu, Phường 14, Quận Gò Vấp</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8501963</lat>
+      <lng>106.6526634</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,35</category>
+      <type>4,5,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>kĩ năng phục vụ, bán hàng tại siêu thị, telesales</skill>
+      <ui>6112</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>yêu thích công việc phục vụ, vui vẻ, nhẫn nại với mọi người</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>427</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>2</total>
+    <strjo>427,372</strjo>
+  </savedjob>
+</information>

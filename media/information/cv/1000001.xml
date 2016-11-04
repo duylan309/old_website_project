@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>1000001</id>
+    <ui>26</ui>
+    <ti>Developer Php</ti>
+    <le>3</le>
+    <ex>3</ex>
+    <sa>$1000</sa>
+    <lo>30</lo>
+    <ca>12</ca>
+    <so>0</so>
+    <st>2</st>
+    <re>0000-00-00</re>
+    <cr>1456631380</cr>
+    <ai>1</ai>
+    <ta></ta>
+  </db>
+  <more>
+    <introduceYourself>Tôi thì ok</introduceYourself>
+    <keySkills>Tất cả</keySkills>
+  </more>
+</information>

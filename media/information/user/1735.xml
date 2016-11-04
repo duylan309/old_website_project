@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1735</id>
+      <email>bacha2601@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Bích Hằng</name>
+      <im>1735_image.jpeg</im>
+      <gender>0</gender>
+      <phone>0120 705 7188</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472838950</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>15,26,27,31,35</category>
+      <type>2,6</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill>Giao tiếp tốt, linh hoạt, nhanh nhẹn. Thân thiện và cởi mở.</skill>
+      <ui>1735</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>93</strjo>
+  </appliedjob>
+  <education>
+    <n_272>
+      <id>272</id>
+      <school>ĐH GTVT TPHCM</school>
+      <degrees></degrees>
+      <fieldofstudy></fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_272>
+  </education>
+</information>

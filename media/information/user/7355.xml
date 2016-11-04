@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7355</id>
+      <email>hvmt97@gmail.com</email>
+      <username/>
+      <name>Huỳnh Võ Minh Thông</name>
+      <im/>
+      <gender>1</gender>
+      <phone>01632711445</phone>
+      <address>42/22R Ung Văn Khiêm phường 25 quận Bình Thạnh</address>
+      <city>30</city>
+      <dob>1997-6-2</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477201123</created>
+      <dayleft>0</dayleft>
+      <jobleft>0</jobleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1477201123</last_signin>
+      <day>2</day>
+      <month>6</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.808012</lat>
+      <lng>106.713011</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>7355</ui>
+      <title>Nhân viên phục vụ, bán hàng</title>
+      <experience>7</experience>
+      <category>14,15,17,35</category>
+      <type>5,6</type>
+      <level>2,3</level>
+      <lang>vi,en,ja</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Đúng giờ, có tinh thần học hỏi, có chí cầu tiến, tuân thủ kỷ luật, nội quy, siêng năng, có trách nhiệm</about>
+      <skill>Trình độ tiếng nhật N5, giao tiếp tiếng anh căn bản </skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

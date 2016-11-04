@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2974</id>
+      <email>bear15298@gmail.com</email>
+      <username/>
+      <name>Phạm Thị Thanh Huyền</name>
+      <im>2974_img-20160802-172333.jpg</im>
+      <gender>2</gender>
+      <phone>0908558530</phone>
+      <address>619A Phạm Thế Hiển phường 4 quận 8</address>
+      <city>30</city>
+      <dob>1998-2-15</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474125245</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1474125245</last_signin>
+      <day>15</day>
+      <month>2</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.745589</lat>
+      <lng>106.6774499</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>2974</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,17,20,26,27,28,29,30,31,35</category>
+      <type>2,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Vui vẻ, hòa đồng, nhanh nhẹn và ham học hỏi.</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>235,222</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>2</total>
+    <strjo>235,222</strjo>
+  </savedjob>
+</information>

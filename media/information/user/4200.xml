@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4200</id>
+      <email>irenemh1994@gmail.com</email>
+      <username/>
+      <name>Phạm Nguyễn Mỹ Hiền</name>
+      <im>4200_anha.jpg</im>
+      <gender>2</gender>
+      <dob>1994-1-26</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475029942</created>
+      <day>26</day>
+      <month>1</month>
+      <year>1994</year>
+      <last_signin>1475029942</last_signin>
+      <phone>0922104087</phone>
+      <address>20/75 Cô Bắc, P1, Quận Phú Nhuận, TPHCM</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_893>
+      <id>893</id>
+      <title>Hostess</title>
+      <level>1</level>
+      <cmpname>Silverland Sakyo Hotel</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Vietnam</country>
+      <from>1/2016</from>
+      <to>5/2016</to>
+    </n_893>
+    <n_894>
+      <id>894</id>
+      <title>Business Assistant</title>
+      <level>1</level>
+      <cmpname>Department of Culture, Sport and Tourism</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Vietnam</country>
+      <from>9/2014</from>
+      <to>11/2014</to>
+    </n_894>
+    <n_895>
+      <id>895</id>
+      <title>Copywriter</title>
+      <level>1</level>
+      <cmpname>OHAY TV</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Vietnam</country>
+      <from>1/2014</from>
+      <to>1/2015</to>
+    </n_895>
+    <n_1147>
+      <id>1147</id>
+      <title>Barista</title>
+      <level>1</level>
+      <cmpname>Urban Station Coffee</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Vietnam</country>
+      <from>12/2013</from>
+      <to>9/2014</to>
+    </n_1147>
+    <n_1148>
+      <id>1148</id>
+      <title>Banquet Casual Labour</title>
+      <level>1</level>
+      <cmpname>InterContinental Asiana Saigon</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Vietnam</country>
+      <from>11/2014</from>
+      <to>4/2015</to>
+    </n_1148>
+  </experience>
+  <education>
+    <n_677>
+      <id>677</id>
+      <school>University of Finance and Marketing University</school>
+      <degrees>Bachelor Degree</degrees>
+      <fieldofstudy>Hospitality Management</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_677>
+    <n_678>
+      <id>678</id>
+      <school>University of Finance and Marketing </school>
+      <degrees>B Degree of Computing</degrees>
+      <fieldofstudy/>
+      <from>2015</from>
+      <to>2016</to>
+    </n_678>
+  </education>
+  <user_cv>
+    <db>
+      <ui>4200</ui>
+      <title>Guest service, Barista</title>
+      <experience>1</experience>
+      <category>14,15,16,18,20,28,36</category>
+      <type>1</type>
+      <level>1,2</level>
+      <lang>vi</lang>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <about>My goal in the next year is to achieve and devote myself more in Hospitality Field, especially Customer Relationship Department and Front Office Department. Therefore, I seek for any opportunities to work and have an internship to support and enhance my ability and knowledge regarding above field. I have ability to work independently and under pressure, plus I prefer long term commitment and excitingly to contribute to the success of the company, which lead to the development in my own career in the next 5 years&#13;
+I set a goal to earn scholarship concerning Business Management since I want to involve and understand more about business management, so that I can distribute more to my field of study.&#13;
+</about>
+      <skill>Hospitality Management&#13;
+Hotel Management&#13;
+Food &amp; Beverage&#13;
+Barista&#13;
+Customer Service&#13;
+Guest relation&#13;
+Communication&#13;
+Problem Solving&#13;
+Creative Service&#13;
+Easily Adaptable&#13;
+Self-management</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>318,305,447</strjo>
+  </appliedjob>
+</information>

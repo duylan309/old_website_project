@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>414</id>
+      <email>thucquan.ha95@gmail.com</email>
+      <username/>
+      <name>Hà Thục Quân</name>
+      <im>414_image.jpeg</im>
+      <gender>2</gender>
+      <phone>01212882257</phone>
+      <address>414/14 Huỳnh Văn Bánh, phường 14, quận Phú Nhuận</address>
+      <city>30</city>
+      <dob>1995-7-6</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470067385</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>6</day>
+      <month>7</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.792007</lat>
+      <lng>106.669692</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_62>
+      <id>62</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>Tee &amp; Mon beauty cares</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_62>
+    <n_64>
+      <id>64</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Phúc Long</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>3/2015</from>
+      <to>11/2015</to>
+    </n_64>
+  </experience>
+  <education>
+    <n_44>
+      <id>44</id>
+      <school>Đại học Hoa Sen</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Marketing</fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_44>
+  </education>
+  <user_cv>
+    <db>
+      <ui>414</ui>
+      <title>Nhân viên phục vụ, nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>14,15,17,27,29</category>
+      <type>2,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <skill></skill>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Tinh thần trách nhiệm,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+</information>

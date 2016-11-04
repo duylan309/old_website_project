@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>499</id>
+      <email>simnun65@gmail.com</email>
+      <username/>
+      <name>Nguyễn Như Ngọc</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0969974265</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1470283323</created>
+      <dayleft>1475467323</dayleft>
+      <is_received_email>0</is_received_email>
+      <page>1</page>
+      <jobleft>4</jobleft>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>1</total>
+    <strji>124</strji>
+  </totalJob>
+</information>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>194</id>
+    <ui>229</ui>
+    <name>AL FRESCO’S - Ho Chi Minh City</name>
+    <url>alfrescos</url>
+    <im/>
+    <im_banner/>
+    <category>14</category>
+    <phone>08.3823 3407</phone>
+    <address>27 Dong Du</address>
+    <district>760</district>
+    <district_text_vi>Quận 1</district_text_vi>
+    <district_text_en>District 1</district_text_en>
+    <city>30</city>
+    <lat>10.776044</lat>
+    <lng>106.704826</lng>
+    <website>www.afg.vn</website>
+    <about/>
+    <facebook>www.facebook.com/alfrescosvietnam</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1467255051</created>
+  </db>
+  <more>
+    <about/>
+    <whyworkus/>
+  </more>
+  <totalJob>
+    <total>1</total>
+    <strji>80</strji>
+  </totalJob>
+</information>

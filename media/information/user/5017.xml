@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5017</id>
+      <email>kimchi35214k@gmail.com</email>
+      <username/>
+      <name>Phạm Thị Kim Châu</name>
+      <im>1475654660_pham-thi-kim-chau.png</im>
+      <gender>0</gender>
+      <phone>0904373287</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475654660</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>5017</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>371</strjo>
+  </appliedjob>
+  <education>
+    <n_837>
+      <id>837</id>
+      <school>Đại Học Công Nghệ TP.HCM</school>
+      <degrees></degrees>
+      <fieldofstudy>Kế Toán</fieldofstudy>
+      <from>2016</from>
+      <to>2020</to>
+    </n_837>
+  </education>
+</information>

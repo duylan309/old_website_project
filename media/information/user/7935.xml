@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7935</id>
+      <email>Bangpham55@yahoo.com</email>
+      <username/>
+      <name>Phạm thị phương thảo</name>
+      <im>1477548601_pham-thi-phuong-thao.png</im>
+      <gender>0</gender>
+      <phone>01676546901</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477548601</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Lễ tân</title>
+      <experience>7</experience>
+      <category>14,20,29</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>7935</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>414</strjo>
+  </appliedjob>
+</information>

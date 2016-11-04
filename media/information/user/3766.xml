@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3766</id>
+      <email>baotram.lhbt@gmail.com</email>
+      <username/>
+      <name>Lê Hoàng Bảo Trâm</name>
+      <im>940360869440882_le-hoang-bao-tram.jpg</im>
+      <gender>2</gender>
+      <dob>01996-12-1</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474819539</created>
+      <day>1</day>
+      <month>12</month>
+      <year>01996</year>
+      <last_signin>1474819539</last_signin>
+      <phone>0939036412</phone>
+      <address>704 Nguyen Dinh Chieu St., District 3</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7681019</lat>
+      <lng>106.6793323</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>3766</ui>
+      <title>Consultant</title>
+      <experience>1</experience>
+      <category>14,15,17,18,20,26,27,28,29,35,36</category>
+      <type>2,4,5,6</type>
+      <level>1,2,3</level>
+      <lang>vi,en</lang>
+      <s1>150</s1>
+      <salary>2</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+      <s2>3300000</s2>
+    </db>
+  </user_cv>
+  <experience>
+    <n_841>
+      <id>841</id>
+      <title>Receiptionist</title>
+      <level>1</level>
+      <cmpname>Fit 24- Fitness and Yoga Center</cmpname>
+      <city>Ho Chi Minh City</city>
+      <country>Vietnam</country>
+      <from>04/2016</from>
+      <to>9/2016</to>
+    </n_841>
+  </experience>
+  <education>
+    <n_622>
+      <id>622</id>
+      <school>University of Economic Ho Chi Minh City</school>
+      <degrees>Bachelor</degrees>
+      <fieldofstudy>Banking- Finance</fieldofstudy>
+      <from>2013</from>
+      <to>2018</to>
+    </n_622>
+  </education>
+  <savedjob>
+    <total>3</total>
+    <strjo>318,311,121</strjo>
+  </savedjob>
+</information>

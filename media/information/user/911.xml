@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>911</id>
+      <email>contactbluebirdasia@gmail.com</email>
+      <username/>
+      <name>B3 Steakhouse &amp; Craft beer</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0989508986</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1471421684</created>
+      <dayleft>1479197684</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <jobleft>2</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>3</total>
+    <strji>170,404,161</strji>
+  </totalJob>
+  <saveuser>
+    <total>51</total>
+    <strui>991,1025,654,1310,1326,1383,666,1512,1763,941,1972,2208,2466,2715,2995,3265,3509,292,3148,3947,3315,1151,3819,3834,3464,4512,908,4724,4867,5005,5197,5457,5520,5552,5426,5226,5870,5874,6243,3054,6353,6385,2159,7104,7156,6968,7334,6272,7612,7657,7745</strui>
+  </saveuser>
+</information>

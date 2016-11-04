@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3603</id>
+      <email>trphuong28.buh@gmail.com</email>
+      <username/>
+      <name>Lê Thị Trúc Phương</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0963206609</phone>
+      <address>100 Ung Văn Khiêm, p.25, Bình Thạnh, TP.HCM</address>
+      <city>30</city>
+      <dob>1994-8-6</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474710540</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1474710540</last_signin>
+      <day>6</day>
+      <month>8</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_587>
+      <id>587</id>
+      <school>ĐH Ngân Hàng TP.HCM</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Marketing</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_587>
+  </education>
+  <user_cv>
+    <db>
+      <ui>3603</ui>
+      <title>Nhân viên phục vụ Nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>15,17,29</category>
+      <type>1,2,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Là một cô gái vui vẻ, hướng ngoại, siêng năng và có tinh thần cầu tiến, ham học hỏi.  Niềm hạnh phúc là khi được làm người khác hài lòng, vui vẻ và cảm nhận những điều tích cực về cuộc sống.&#13;
+Có tinh thần trách nhiệm cao trong mọi việc, luôn giúp đỡ mọi người.</about>
+      <skill>Bán hàng, tư vấn, chăm sóc khách hàng.</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>205,298,273</strjo>
+  </appliedjob>
+</information>

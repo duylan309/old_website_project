@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2480</id>
+      <email>lm.nghi@yahoo.com.vn</email>
+      <username/>
+      <name>Lâm Tỉnh Nghi</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01262413496</phone>
+      <address/>
+      <city/>
+      <dob>1996-3-27</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473582108</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>27</day>
+      <month>3</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>17,35</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>2480</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword>Chịu được áp lực công việc,Trung thực,Tự tin,Nhiệt tình,Tập trung trong công việc,Tinh thần trách nhiệm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>205,262</strjo>
+  </appliedjob>
+</information>

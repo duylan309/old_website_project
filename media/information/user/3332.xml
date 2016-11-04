@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3332</id>
+      <email>piphamhoanganh@gmail.com</email>
+      <username/>
+      <name>Phạm HoàngAnh</name>
+      <im>337918519881253_pham-hoanganh.jpg</im>
+      <gender>2</gender>
+      <dob>1996-8-2</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474533469</created>
+      <day>2</day>
+      <month>8</month>
+      <year>1996</year>
+      <phone>0987997217</phone>
+      <address>98/5 đường Ung Văn Khiêm q.Binh Thanh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.801969</lat>
+      <lng>106.723086</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>baricta</title>
+      <experience>1</experience>
+      <category>14,15</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>nhân viên phục vụ, nhân viên pha chế</skill>
+      <ui>3332</ui>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>11</total>
+    <strjo>201,268,280,240,293,371,378,349,323,222,248</strjo>
+  </appliedjob>
+  <experience>
+    <n_1023>
+      <id>1023</id>
+      <title>Barista</title>
+      <level>1</level>
+      <cmpname>Passio coffee</cmpname>
+      <city>Hồ chí minh</city>
+      <country>Việt nam</country>
+      <from>10/2015</from>
+      <to>10/2016</to>
+    </n_1023>
+  </experience>
+  <education>
+    <n_817>
+      <id>817</id>
+      <school>Đh Nguyễn Tất thanh</school>
+      <degrees/>
+      <fieldofstudy>Điều dưỡng </fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_817>
+  </education>
+  <savedjob>
+    <total>1</total>
+    <strjo>280</strjo>
+  </savedjob>
+</information>

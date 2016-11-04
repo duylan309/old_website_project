@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6238</id>
+      <email>Anhdep2003@yahoo.com</email>
+      <username/>
+      <name>Đào Anh Dũng</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0933010685</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476451585</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Bếp chính, bếp phó</title>
+      <experience>4</experience>
+      <category>14,19,20,29</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>6238</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>464</strjo>
+  </appliedjob>
+  <experience>
+    <n_1263>
+      <id>1263</id>
+      <title>Bếp chính</title>
+      <level>1</level>
+      <cmpname>Ốc Cay</cmpname>
+      <city>HCM</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>2016</to>
+    </n_1263>
+  </experience>
+</information>

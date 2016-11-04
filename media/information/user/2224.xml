@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2224</id>
+      <email>vothieugiabs@gmail.com</email>
+      <username/>
+      <name>Võ Nhật Trường</name>
+      <im>1089634577757160_vo-nhat-truong.jpg</im>
+      <gender>1</gender>
+      <dob>1992-10-18</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473312427</created>
+      <day>18</day>
+      <month>10</month>
+      <year>1992</year>
+      <phone>01268086284</phone>
+      <address>62/73/6 lý chính thắng, phường 8,quận 3</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.79122</lat>
+      <lng>106.6848605</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế - trưởng quầy bar</title>
+      <experience>3</experience>
+      <category>14,15,16,20</category>
+      <type>1</type>
+      <level>2,4</level>
+      <lang>vi,fr</lang>
+      <skill>- latte art, pha chế&#13;
+- quản lý nguyên vật liệu&#13;
+- quản lý nhân sự&#13;
+- training nhân viên</skill>
+      <ui>2224</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>- hòa đồng, hài hước&#13;
+- ít nói, sống có chút hướng nội.&#13;
+- siêng năng, học hỏi nhanh, kiên nhẫn, sức chịu đựng cao&#13;
+- xử lý tình huống tốt, nhanh nhẹn, tháo vát.&#13;
+</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>15</total>
+    <strjo>119,111,189,201,126,240,312,294,305,332,207,208,210,341,250</strjo>
+  </appliedjob>
+  <experience>
+    <n_501>
+      <id>501</id>
+      <title>Pha chế</title>
+      <level>1</level>
+      <cmpname>urban station</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>11/2013</from>
+      <to>12/2014</to>
+    </n_501>
+    <n_502>
+      <id>502</id>
+      <title>Head Bar</title>
+      <level>1</level>
+      <cmpname>S’Morin Coffee</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>12/2014</from>
+      <to>04/2016</to>
+    </n_502>
+    <n_503>
+      <id>503</id>
+      <title>Head Bar</title>
+      <level>1</level>
+      <cmpname>The KAfe</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>10/2015</from>
+      <to>08/2016</to>
+    </n_503>
+  </experience>
+</information>

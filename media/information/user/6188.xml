@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6188</id>
+      <email>dxviet4@gmail.com</email>
+      <username/>
+      <name>Đàm Xuân Việt</name>
+      <im/>
+      <gender>1</gender>
+      <phone>01684768868</phone>
+      <address>235 Nguyễn Thị Minh Khai, Phường Nguyễn Cư Trinh, Quận 1</address>
+      <city>30</city>
+      <dob>1996-9-30</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476416334</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476416334</last_signin>
+      <day>30</day>
+      <month>9</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.766907</lat>
+      <lng>106.6834219</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1515>
+      <id>1515</id>
+      <title>Tạp vụ</title>
+      <level>1</level>
+      <cmpname>Công ty CP may Nhà Bè NBC</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>09/2014</from>
+      <to>08/2015</to>
+    </n_1515>
+    <n_1516>
+      <id>1516</id>
+      <title>Phục vụ</title>
+      <level>1</level>
+      <cmpname>Starmoon Coffee</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>10/2015</from>
+      <to>12/2015</to>
+    </n_1516>
+    <n_1517>
+      <id>1517</id>
+      <title>Bán hàng/ Phụ bếp</title>
+      <level>1</level>
+      <cmpname>Hotdogs and Yogurts JOY</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>01/2016</from>
+      <to>03/2016</to>
+    </n_1517>
+  </experience>
+  <education>
+    <n_1260>
+      <id>1260</id>
+      <school>THPT Hùng Vương</school>
+      <degrees>Trung bình</degrees>
+      <fieldofstudy/>
+      <from>2011</from>
+      <to>2014</to>
+    </n_1260>
+    <n_1261>
+      <id>1261</id>
+      <school>Cao đẳng Văn hóa Nghệ thuật TP.HCM</school>
+      <degrees/>
+      <fieldofstudy>Thanh Nhạc</fieldofstudy>
+      <from>2016</from>
+      <to>nay</to>
+    </n_1261>
+  </education>
+  <user_cv>
+    <db>
+      <ui>6188</ui>
+      <title>Nhân viên phục vụ, nhân viên bán hàng,...</title>
+      <experience>1</experience>
+      <category>14,15,16,17,27,29,31,35</category>
+      <type>2,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Sinh ra và lớn lên tại TP. Hồ Chí Minh, được tiếp cận với tiếng Anh và văn hóa phương Tây từ rất sớm, tạo sự hiểu biết và tăng tính chuyên nghiệp trong công việc. Cùng với kinh nghiệm làm việc từ trước, tôi chắc chắn sẽ đem đến nơi làm việc tinh thần trách nhiệm và tính tự giác cao.</about>
+      <skill>Tiếng Anh, công việc văn phòng, dịch vụ,...</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>409,84,219,478,427</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>150</id>
+      <email>thue@today.com</email>
+      <username></username>
+      <name>thue test payment</name>
+      <im></im>
+      <gender>0</gender>
+      <category>15,17</category>
+      <phone>01267543890</phone>
+      <address>149 nguyen thi dinh</address>
+      <city>30</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>1</status>
+      <created>1462528734</created>
+      <dayleft>0</dayleft>
+    </db>
+  </userinfo>
+</information>

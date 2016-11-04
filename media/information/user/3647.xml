@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3647</id>
+      <email>Anniephamhoang95@gmail.com</email>
+      <username/>
+      <name>Phạm Hoàng Trúc Anh</name>
+      <im>1474732492_pham-hoang-truc-anh.png</im>
+      <gender>0</gender>
+      <phone>0908097706</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474732492</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ , làm bánh ,...</title>
+      <experience>1</experience>
+      <category>14,15,29,35</category>
+      <type>1,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Có thể làm bánh </skill>
+      <ui>3647</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>215</strjo>
+  </appliedjob>
+  <experience>
+    <n_811>
+      <id>811</id>
+      <title>Nhân viên</title>
+      <level>1</level>
+      <cmpname>WAFFLE PLACE</cmpname>
+      <city>Hồ chí minh </city>
+      <country>Việt nam </country>
+      <from>Tháng 8 /2015</from>
+      <to>Tahnsg 11/2015</to>
+    </n_811>
+  </experience>
+  <education>
+    <n_596>
+      <id>596</id>
+      <school>Trung cấp Saigon tourist</school>
+      <degrees>Bếp bánh loại khá giỏi </degrees>
+      <fieldofstudy>Bếp bánh âu </fieldofstudy>
+      <from>2016</from>
+      <to>Vô thời hạn</to>
+    </n_596>
+  </education>
+</information>

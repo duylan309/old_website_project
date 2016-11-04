@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6232</id>
+      <email>huynhbaogiao1997@gmail.com</email>
+      <username/>
+      <name>Huỳnh Bảo Giao</name>
+      <im>6232_img-7687.JPG</im>
+      <gender>2</gender>
+      <phone>0937713288</phone>
+      <address>10/55 Mai Xuân Thưởng Phường 1 Quận 6</address>
+      <city>30</city>
+      <dob>1997-8-7</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476447988</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>7</day>
+      <month>8</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.744422</lat>
+      <lng>106.649984</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en,ch</lang>
+      <skill>Học hỏi nhanh, nấu ăn đơn giản</skill>
+      <ui>6232</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Mình là người hoà đồng , dễ gần và có thể nhanh chóng hoà nhập với môi trường mới. Tuy có các khuyết điểm như dễ lúng túng và hay đỏ mặt nhưng mình tin mình có thể làm tốt công việc được giao</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>409</strjo>
+  </appliedjob>
+  <education>
+    <n_1048>
+      <id>1048</id>
+      <school>Đại học Khoa học Xã hội và Nhân văn</school>
+      <degrees/>
+      <fieldofstudy>Ngữ văn Trung Quốc</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_1048>
+  </education>
+</information>

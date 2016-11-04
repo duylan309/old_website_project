@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2879</id>
+      <email>huongtrang31bmt@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Thiên Hương</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0976428096</phone>
+      <address></address>
+      <city></city>
+      <dob>1995-1-31</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474045274</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1474045274</last_signin>
+      <day>31</day>
+      <month>1</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>2879</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,17,18,19,20,26,27,28,29,30,31,35,36</category>
+      <type>2,3,4,5,6</type>
+      <level>1,2,3</level>
+      <lang>vi,en</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Hiện đang là sinh viên năm cuối ĐH Công Nghiệp TpHCM, </about>
+      <skill>vi tính văn phòng </skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

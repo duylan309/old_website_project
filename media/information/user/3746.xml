@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3746</id>
+      <email>subin0947591362@gmail.com</email>
+      <username/>
+      <name>Đào Trọng Thành</name>
+      <im>1791915901024944_dao-trong-thanh.jpg</im>
+      <gender>1</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474808955</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên backdoor</title>
+      <experience>7</experience>
+      <category>35</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Nhiếp ảnh .</skill>
+      <ui>3746</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>302</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7151</id>
+      <email>ndiep2996@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Điệp</name>
+      <im>1654984804791491_su.jpg</im>
+      <gender>2</gender>
+      <dob>1996-9-2</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477083192</created>
+      <day>2</day>
+      <month>9</month>
+      <year>1996</year>
+      <phone>01654597579</phone>
+      <address>306/45a Xô Viết Nghệ Tĩnh, Phường 25, Quận Bình Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.803523</lat>
+      <lng>106.711844</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1405>
+      <id>1405</id>
+      <title>Cashier</title>
+      <level>1</level>
+      <cmpname>Cty TNHH Dịch vụ và Thương mại MESA GROUP</cmpname>
+      <city>Thành phố Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>Tháng 1-2016</from>
+      <to>Tháng 9-2016</to>
+    </n_1405>
+  </experience>
+  <education>
+    <n_1166>
+      <id>1166</id>
+      <school>Đại học Công Nghệ TpHCM-HUTECH</school>
+      <degrees/>
+      <fieldofstudy>Marketing</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_1166>
+  </education>
+  <user_cv>
+    <db>
+      <ui>7151</ui>
+      <title>Nhân viên phục vụ , nhân viên bán hàng,....</title>
+      <experience>1</experience>
+      <category>15,17,26,27,29,31,35,36</category>
+      <type>1,4,6</type>
+      <level>1,2,3</level>
+      <lang>vi</lang>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <about></about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

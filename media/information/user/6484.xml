@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6484</id>
+      <email>bboychicken22@gmail.com</email>
+      <username/>
+      <name>Trần Minh Hiếu</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01693166482</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476630240</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>phụ bếp</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>5</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill>Đã biết đôi chút về nghề </skill>
+      <ui>6484</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>406</strjo>
+  </appliedjob>
+</information>

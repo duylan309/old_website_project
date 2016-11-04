@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7649</id>
+      <email>nguyenlinhh2512@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Mỹ Linh</name>
+      <im>1477374621_nguyen-thi-my-linh.png</im>
+      <gender>2</gender>
+      <phone>0901238926</phone>
+      <address>158/21 Huỳnh Mẫn Đạt, phường 3, quận 5</address>
+      <city>30</city>
+      <dob>1994-12-25</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477374620</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>25</day>
+      <month>12</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.757341</lat>
+      <lng>106.6760011</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,16,29,31,35,36</category>
+      <type>1,2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Tôi là một người luôn biết lắng nghe và có khả năng quan sát tốt. Có tinh thần làm việc nhóm cao và có khả năng giao tiếp tốt. Là một người luôn thích tiếp xúc với nhiều người.</skill>
+      <ui>7649</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Tôi nghĩ không bao giờ là quá muộn để thực hiện ước mơ của mình.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>12</total>
+    <strjo>84,508,279,354,130,278,478,202,247,252,273,348</strjo>
+  </appliedjob>
+</information>

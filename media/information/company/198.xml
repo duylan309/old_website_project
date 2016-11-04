@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>198</id>
+    <ui>240</ui>
+    <name>Lu Bu</name>
+    <url>luburestaurant</url>
+    <im>157981491036803_lu-bu.jpg</im>
+    <im_banner>157981491036803_lu-bu-cover.jpg</im_banner>
+    <category>14</category>
+    <phone>(08) 62818371</phone>
+    <address>97 B Thao Dien Q.2, Q.2</address>
+    <district>0</district>
+    <district_text_vi></district_text_vi>
+    <district_text_en></district_text_en>
+    <city>30</city>
+    <lat>10.807763</lat>
+    <lng>106.733543</lng>
+    <website>http://www.luburestaurant.com</website>
+    <about></about>
+    <facebook>https://www.facebook.com/luburestaurant/</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1467603727</created>
+  </db>
+  <more>
+    <about>Large, open airy Modern Mediterranean restaurant in District 2. </about>
+    <whyworkus></whyworkus>
+  </more>
+  <companybanner>157981491036803_lu-bu-cover.jpg</companybanner>
+</information>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1751</id>
+      <email>emilyluong1212@gmail.com</email>
+      <username/>
+      <name>Lương Hoàng Oanh</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01696953709</phone>
+      <address>62/213 lý chính thằng phường 8 quận 3</address>
+      <city>30</city>
+      <dob>1995-12-12</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472877970</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>12</day>
+      <month>12</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.791032</lat>
+      <lng>106.68442</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>2</experience>
+      <category>14,15,20,27</category>
+      <type>2,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>1751</ui>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <keyword>Nhiệt tình,Chịu được áp lực công việc,Tinh thần trách nhiệm,Tinh thần làm việc nhóm</keyword>
+      <about>nhiệt tình, trung thực và có tinh thần trách nhiệm trong công việc.</about>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>9</total>
+    <strjo>162,130,202,240,211,279,247,267,429</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>2</total>
+    <strjo>162,130</strjo>
+  </savedjob>
+  <experience>
+    <n_395>
+      <id>395</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Dunkin’ donut</cmpname>
+      <city/>
+      <country/>
+      <from>1/6/2015</from>
+      <to>25/3/2016</to>
+    </n_395>
+    <n_396>
+      <id>396</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Dairy Queen</cmpname>
+      <city/>
+      <country/>
+      <from>8/3/2014</from>
+      <to>22/10/2014</to>
+    </n_396>
+  </experience>
+</information>

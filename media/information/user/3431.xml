@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3431</id>
+      <email>admin@blackmarketgrocery.com</email>
+      <username/>
+      <name>Mai Thy</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0919504004</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1474622228</created>
+      <dayleft>1479874325</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1474622228</last_signin>
+      <jobleft>2</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>3</total>
+    <strji>326,327,328</strji>
+  </totalJob>
+  <saveuser>
+    <total>3</total>
+    <strui>3433,3660,2528</strui>
+  </saveuser>
+</information>

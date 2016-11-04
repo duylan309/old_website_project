@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1179</id>
+      <email>Bin.nguyen2607@gmail.com</email>
+      <username/>
+      <name>Nguyễn Phương Dung</name>
+      <im>1060573454057277_nguyen-phuong-dung.jpg</im>
+      <gender>2</gender>
+      <dob>1996-7-26</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471881707</created>
+      <day>26</day>
+      <month>7</month>
+      <year>1996</year>
+      <phone>0909962607</phone>
+      <address>29/10 Hoàng Hoa Thám, Q. Bình Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.805578</lat>
+      <lng>106.690399</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_281>
+      <id>281</id>
+      <title>Marketing executive</title>
+      <level>1</level>
+      <cmpname>Windmills coffee</cmpname>
+      <city>Hồ Chí Minh, Đà Lạt</city>
+      <country>Việt Nam</country>
+      <from>12/2015</from>
+      <to>07/2016</to>
+    </n_281>
+  </experience>
+  <education>
+    <n_192>
+      <id>192</id>
+      <school>Đại học Hoa Sen</school>
+      <degrees/>
+      <fieldofstudy>Marketing</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_192>
+  </education>
+  <user_cv>
+    <db>
+      <ui>1179</ui>
+      <title>Marketing Executive</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <skill>Photoshop, word, excel, powerpoint, teamwork, chịu áp lực cao, giao tiếp tốt, lập kế hoạch, chạy chương trình, sử dụng mindmap, tìm hiểu và đáp ứng insight khách hàng, chăm sóc khách hàng, tinh thần trách nhiệm, quản lý facebook, chạy ads.</skill>
+      <keyword>Kỹ năng chăm sóc khách hàng, marketing, f&amp;b, tự tin, trung thực</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>99</strjo>
+  </appliedjob>
+</information>

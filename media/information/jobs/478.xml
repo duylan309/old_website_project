@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>478</id>
+    <ui>6748</ui>
+    <ci>410</ci>
+    <ai>0</ai>
+    <ti>Nhân viên phục vụ/pha chế</ti>
+    <ta/>
+    <le>2</le>
+    <ty>2</ty>
+    <ex>7</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>3500000</s1>
+    <s2>4000000</s2>
+    <s3>159</s3>
+    <s4>181</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description>NHÂN VIÊN PHỤC VỤ:\r\n- Phụ trách khu vực khách hàng khi khách đến quán\r\n- Hiểu rõ các sản phẩm hiện có trong menu để tư vấn phù hợp cho khách hàng\r\n- Chuẩn bị đầy đủ công cụ dụng cụ để sẵn sàng phục vụ khách hàng\r\n- Duy trì tình trạng tốt và vệ sinh của các tiện nghi phục vụ tại khu vực khách hàng\r\nNHÂN VIÊN PHA CHẾ\r\n- Phụ trách khu vực quầy pha chế.\r\n- Chuẩn bị đầy đủ công cụ dụng cụ để sẵn sàng phục vụ khách hàng.\r\n- Chế biến sản phẩm đúng tiêu chuẩn định lượng theo qui định của công ty.</description>
+    <requirement>Yêu cầu:\r\nƯu tiên các bạn sinh viên năng động, vui vẻ nhiệt huyết và gắn bó\r\nNgoại hình khá - Anh văn giao tiếp</requirement>
+    <benefit>- Làm việc trong môi trường năng động chuyên nghiệp.\r\n- Được đào tạo tất cả các nghiệp vụ và định hướng phát triển lên vị trí Cửa hàng trưởng\r\n- Thưởng doanh số, thưởng sản phẩm hàng tháng, thưởng tháng 13, thưởng KPI</benefit>
+    <keyword>Nhân viên phục vụ,Nhân viên pha chế</keyword>
+    <ad/>
+    <location_id>338</location_id>
+    <lat>10.772600</lat>
+    <lng>10.772600</lng>
+    <de>2016-11-18</de>
+    <re>0000-00-00</re>
+    <cr>1477290905</cr>
+  </db>
+  <more>
+    <requirement>Yêu cầu:&#13;
+Ưu tiên các bạn sinh viên năng động, vui vẻ nhiệt huyết và gắn bó&#13;
+Ngoại hình khá - Anh văn giao tiếp</requirement>
+    <description>NHÂN VIÊN PHỤC VỤ:&#13;
+- Phụ trách khu vực khách hàng khi khách đến quán&#13;
+- Hiểu rõ các sản phẩm hiện có trong menu để tư vấn phù hợp cho khách hàng&#13;
+- Chuẩn bị đầy đủ công cụ dụng cụ để sẵn sàng phục vụ khách hàng&#13;
+- Duy trì tình trạng tốt và vệ sinh của các tiện nghi phục vụ tại khu vực khách hàng&#13;
+NHÂN VIÊN PHA CHẾ&#13;
+- Phụ trách khu vực quầy pha chế.&#13;
+- Chuẩn bị đầy đủ công cụ dụng cụ để sẵn sàng phục vụ khách hàng.&#13;
+- Chế biến sản phẩm đúng tiêu chuẩn định lượng theo qui định của công ty.</description>
+    <workhour/>
+    <benefit>- Làm việc trong môi trường năng động chuyên nghiệp.&#13;
+- Được đào tạo tất cả các nghiệp vụ và định hướng phát triển lên vị trí Cửa hàng trưởng&#13;
+- Thưởng doanh số, thưởng sản phẩm hàng tháng, thưởng tháng 13, thưởng KPI</benefit>
+    <keyword>Nhân viên phục vụ,Nhân viên pha chế</keyword>
+  </more>
+  <userapplied>
+    <total>44</total>
+    <strui>3120,6778,6279,6721,940,6878,6884,6885,6960,6875,6978,6999,4181,7033,7134,7188,7305,7357,3652,7386,2159,7388,7038,6272,6049,7546,4833,7649,7666,4764,6188,7754,7342,7792,7806,1773,2026,7931,7986,3775,8028,8049,8078,8110</strui>
+  </userapplied>
+</information>

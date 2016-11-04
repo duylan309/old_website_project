@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>450</id>
+      <email>huong.xu12@gmail.com</email>
+      <username/>
+      <name>Hoàng Văn Hưởng</name>
+      <im/>
+      <gender>1</gender>
+      <phone>01228066984</phone>
+      <address>243/8 Huỳnh Thị Hai, khu phố 9, phường Tân Chánh Hiệp, quận 12</address>
+      <city>30</city>
+      <dob>1994-7-29</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470135353</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>29</day>
+      <month>7</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8620345</lat>
+      <lng>106.6184041</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_81>
+      <id>81</id>
+      <title>Phục vụ( barista dự bị)</title>
+      <level>1</level>
+      <cmpname>Trung Nguyên Cofee</cmpname>
+      <city>Hồ chí minh</city>
+      <country>việt nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_81>
+  </experience>
+  <education>
+    <n_56>
+      <id>56</id>
+      <school>Đại học Sài Gòn</school>
+      <degrees>Cao đẳng</degrees>
+      <fieldofstudy>QUẢN TRỊ KINH DOANH</fieldofstudy>
+      <from>2012</from>
+      <to>2015</to>
+    </n_56>
+    <n_57>
+      <id>57</id>
+      <school>Trung cấp Khách sạn và Du lịch Saigontourist</school>
+      <degrees>Trung cấp </degrees>
+      <fieldofstudy>QUẢN LÝ NHÀ HÀNG</fieldofstudy>
+      <from>2015</from>
+      <to>2016</to>
+    </n_57>
+  </education>
+  <user_cv>
+    <db>
+      <ui>450</ui>
+      <title>Nhân viên phục vụ, Pha chế</title>
+      <experience>1</experience>
+      <category>14,15,16,20,29</category>
+      <type>1,2,3,4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Tinh thần trách nhiệm,Nhiệt tình,Trung thực,Chịu được áp lực công việc</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>93</strjo>
+  </appliedjob>
+</information>

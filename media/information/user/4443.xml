@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4443</id>
+      <email>luu.schangsanh@gmail.com</email>
+      <username/>
+      <name>Lưu Sanh Schang</name>
+      <im>789015814572147_luu-sanh-schang.jpg</im>
+      <gender>1</gender>
+      <dob>1995-8-28</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475162896</created>
+      <day>28</day>
+      <month>8</month>
+      <year>1995</year>
+      <last_signin>1475162896</last_signin>
+      <phone>01268034967</phone>
+      <address>217/48I Lãnh Binh Thăng Phường 12 Quận 11</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.762117</lat>
+      <lng>106.65264</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>4443</ui>
+      <title>Nhân viên pha chế cà phê</title>
+      <experience>7</experience>
+      <category>14,15,16,19,27</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,ch</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Thành thạo tiếng Hoa</about>
+      <skill>Kỹ năng vi tính văn phòng&#13;
+Kỹ năng tiếng Hoa thành thạo</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>191,107,188</strjo>
+  </appliedjob>
+</information>

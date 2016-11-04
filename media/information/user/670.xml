@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>670</id>
+      <email>blueskuy_vdtd@yahoo.com</email>
+      <username/>
+      <name>vo dang thanh dat</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0936103921</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470790369</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>pha che</title>
+      <experience>2</experience>
+      <category>14,20</category>
+      <type>1</type>
+      <level>2,4</level>
+      <lang>vi</lang>
+      <skill>Co kinh nghiem ve ca phe may barista.trai cay shisa ruou cocktail sinh to nuoc ep&#13;
+Tung lam 1nam va caphe may 6thang bartender tai the penthoues q1 .&#13;
+Lam head bar tai nha hang kobe bbq cong hoa &#13;
+</skill>
+      <ui>670</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>119</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3464</id>
+      <email>tomsgroceries@gmail.com</email>
+      <username/>
+      <name>Phan Lê Thiên Thanh</name>
+      <im>1474638952_phan-le-thien-thanh.png</im>
+      <gender>2</gender>
+      <phone>01215448414</phone>
+      <address>5 đường 26A khu dân cư Bình Phú P10 Q6 </address>
+      <city>30</city>
+      <dob>1997-11-26</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474638952</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>26</day>
+      <month>11</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Server, Hostess, Food Runner</title>
+      <experience>2</experience>
+      <category>14,15,17,35</category>
+      <type>1,6</type>
+      <level>2,4</level>
+      <lang>vi,en</lang>
+      <skill>Good English communication. &#13;
+Can work under pressure. &#13;
+Willing to work at any position, not just being a server ( hostess, food runner, etc.. ). &#13;
+Adequate knowledge about crafted beer and American BBQ. &#13;
+Able to cooperate with a team or a group of staff. &#13;
+Can work at late hours ( if required ). </skill>
+      <ui>3464</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Đã có kinh nghiệm hơn 1 năm ở lĩnh vực bán hàng ( tại các hội chợ như VietS Corner, Sale4Share, Hello Weekend, Four Season... )&#13;
+Từng làm nhiều vị trí ( đứng quầy bar, phục vụ, lễ tân, thu ngân, tiếp thực ) tại nhà hàng Quán Ụt Ụt, Bia Craft Artisan Ales và Pizza4Ps với kinh nghiệm 2 năm.&#13;
+Có khả năng giao tiếp bằng tiếng Anh tốt, xử lí được nhiều tình huống trong công việc, không ngại làm việc dưới áp lực.&#13;
+Hiểu biết tương đối về bia và bia thủ công, rất muốn có cơ hội được làm việc và đào tạo ở vị trí bartender để nâng cao kĩ năng</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>100,161,219,386,387</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>2</total>
+    <strjo>100,386</strjo>
+  </savedjob>
+  <experience>
+    <n_766>
+      <id>766</id>
+      <title>Phục vụ</title>
+      <level>1</level>
+      <cmpname>Falling Star Garden Rooftop Cafe</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>7/2014</from>
+      <to>11/2014</to>
+    </n_766>
+    <n_767>
+      <id>767</id>
+      <title>Server/Bartender/Hostess/Food Runner/Cashier</title>
+      <level>1</level>
+      <cmpname>Quán Ụt Ụt</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>5/2015</from>
+      <to>6/2016</to>
+    </n_767>
+    <n_1569>
+      <id>1569</id>
+      <title>Server/Bartender</title>
+      <level>1</level>
+      <cmpname>Bia Craft Artisan Ales</cmpname>
+      <city>Thảo Điền, Q2, TpHCM</city>
+      <country>Việt Nam</country>
+      <from>6/2016</from>
+      <to>8/2016</to>
+    </n_1569>
+    <n_1570>
+      <id>1570</id>
+      <title>Server</title>
+      <level>1</level>
+      <cmpname>B3 Steakhouse &amp; Craftbeer</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>9/2016</from>
+      <to>11/2016</to>
+    </n_1570>
+    <n_1571>
+      <id>1571</id>
+      <title>Hostess/Captain</title>
+      <level>1</level>
+      <cmpname>The Crab Shack</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>9/2016</from>
+      <to>10/2016</to>
+    </n_1571>
+  </experience>
+  <education>
+    <n_734>
+      <id>734</id>
+      <school>Đại học Luật Thành phố Hồ Chí Minh</school>
+      <degrees/>
+      <fieldofstudy>Luật Quốc tế</fieldofstudy>
+      <from>9/2015</from>
+      <to>Nay</to>
+    </n_734>
+  </education>
+</information>

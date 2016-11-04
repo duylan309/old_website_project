@@ -1,0 +1,27 @@
+<?php 
+$arrayDistrict = array(
+	array("id"=>760,"ti"=>	"District 1"),
+	array("id"=>761,"ti"=>	"District 12"),
+	array("id"=>762,"ti"=>	"Thủ Đức District "),
+	array("id"=>763,"ti"=>	"District 9"),
+	array("id"=>764,"ti"=>	"Gò Vấp District "),
+	array("id"=>765,"ti"=>	"Bình Thạnh District "),
+	array("id"=>766,"ti"=>	"Tân Bình District "),
+	array("id"=>767,"ti"=>	"Tân Phú District "),
+	array("id"=>768,"ti"=>	"Phú Nhuận District "),
+	array("id"=>769,"ti"=>	"District 2"),
+	array("id"=>770,"ti"=>	"District 3"),
+	array("id"=>771,"ti"=>	"District 10"),
+	array("id"=>772,"ti"=>	"District 11"),
+	array("id"=>773,"ti"=>	"District 4"),
+	array("id"=>774,"ti"=>	"District 5"),
+	array("id"=>775,"ti"=>	"District 6"),
+	array("id"=>776,"ti"=>	"District 8"),
+	array("id"=>777,"ti"=>	"District Bình Tân District "),
+	array("id"=>778,"ti"=>	"District 7"),
+	array("id"=>783,"ti"=>	"Củ Chi Province"),
+	array("id"=>784,"ti"=>	"Hóc Môn Province"),
+	array("id"=>785,"ti"=>	"Bình Chánh Province"),
+	array("id"=>786,"ti"=>	"Nhà Bè Province"),
+	array("id"=>787,"ti"=>	"Cần Giờ Province")
+);

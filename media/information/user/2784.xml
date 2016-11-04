@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2784</id>
+      <email>bi.cnic_f@yahoo.com</email>
+      <username/>
+      <name>Nguyễn Thanh Quyên</name>
+      <im>1473914142_nguyen-thanh-quyen.png</im>
+      <gender>0</gender>
+      <phone>0902951808</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473914142</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>15,17,27,29,31,35</category>
+      <type>4,5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>2784</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>202,158</strjo>
+  </appliedjob>
+</information>

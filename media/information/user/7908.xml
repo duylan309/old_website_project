@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7908</id>
+      <email>theanh.nguyen3110@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thế Anh</name>
+      <im>1477536346_nguyen-the-anh.png</im>
+      <gender>1</gender>
+      <phone>0937766078</phone>
+      <address>264E Bạch Đằng P24 Quận Bình Thạnh</address>
+      <city>30</city>
+      <dob>1993-10-31</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477536346</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>31</day>
+      <month>10</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.803832</lat>
+      <lng>106.7025</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên Sale</title>
+      <experience>1</experience>
+      <category>18,20</category>
+      <type>1,3</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Dựng Video và thiết kế infogaphic bằng Corel.</skill>
+      <ui>7908</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Tôi là Nguyễn Thế Anh. Sinh viên năm cuối ngành Marketing. &#13;
+Tính cách: Hoà đồng thích giỡn và thích học hỏi và tìm hiểu.&#13;
+Thói quen: Chơi bóng đá, nghe nhạc và đọc sách về kinh tế.</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>401,99,220</strjo>
+  </appliedjob>
+  <experience>
+    <n_1542>
+      <id>1542</id>
+      <title>Business Development</title>
+      <level>1</level>
+      <cmpname>TOBE black garlic</cmpname>
+      <city>Hồ CHí Minh</city>
+      <country>Việt Nam</country>
+      <from>06/2016</from>
+      <to>10/2016</to>
+    </n_1542>
+  </experience>
+  <education>
+    <n_1280>
+      <id>1280</id>
+      <school>Đại Học Hoa Sen</school>
+      <degrees>Sinh viên năm cuối</degrees>
+      <fieldofstudy>Marketing</fieldofstudy>
+      <from>2012</from>
+      <to>2017</to>
+    </n_1280>
+  </education>
+  <savedjob>
+    <total>1</total>
+    <strjo>99</strjo>
+  </savedjob>
+</information>

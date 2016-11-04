@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>784</id>
+      <email>trinhphuongtran2010@gmail.com</email>
+      <username/>
+      <name>Trần Phương Trinh</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0943873439</phone>
+      <address>108/2E Cộng Hoà p.2 tân bình</address>
+      <city></city>
+      <dob>1995-10-20</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471063360</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>20</day>
+      <month>10</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên thu ngân</title>
+      <experience>1</experience>
+      <category>15,29,31</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Kỹ năng thuyết trình, giao tiếp, làm việc nhóm, tư duy sáng tạo, giao tiếp trong kinh doanh.</skill>
+      <ui>784</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>107</strjo>
+  </appliedjob>
+  <experience>
+    <n_167>
+      <id>167</id>
+      <title>Teller</title>
+      <level>1</level>
+      <cmpname>Daichi Việt Nam</cmpname>
+      <city>TP.HCM</city>
+      <country/>
+      <from>08/2015</from>
+      <to>02/2016</to>
+    </n_167>
+  </experience>
+  <education>
+    <n_110>
+      <id>110</id>
+      <school>ĐH Tài chính-marketing</school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy>Ngân hàng</fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_110>
+  </education>
+</information>

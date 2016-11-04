@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>469</id>
+    <ui>5280</ui>
+    <ci>383</ci>
+    <ai>0</ai>
+    <ti>Nhân viên chăm sóc da</ti>
+    <ta></ta>
+    <le>1,2</le>
+    <ty>1</ty>
+    <ex>1,7</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo></lo>
+    <co>vn</co>
+    <ca>30,35</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description></description>
+    <requirement></requirement>
+    <benefit></benefit>
+    <keyword></keyword>
+    <ad></ad>
+    <location_id>282</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-17</de>
+    <re>0000-00-00</re>
+    <cr>1476685387</cr>
+  </db>
+  <more>
+    <requirement>Kỹ thuật viên massage facial.&#13;
+Chăm chỉ, hoà đồng&#13;
+Năng động trong công việc&#13;
+Có trách nhiệm trong công việc</requirement>
+    <description>Chi tiết công việc sẽ được trao đổi cụ thể trong buổi phỏng vấn</description>
+    <benefit></benefit>
+    <keyword></keyword>
+  </more>
+</information>

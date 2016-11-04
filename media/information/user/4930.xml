@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4930</id>
+      <email>hoangquoccong9999@gmail.com</email>
+      <username/>
+      <name>HOÀNG QUỐC CÔNG</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0902754441</phone>
+      <address>749/31 Huỳnh Tấn Phát, KP1, Phường Phú Thuận, Quận 7, TP.HCM</address>
+      <city>30</city>
+      <dob>1997-10-15</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475592897</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>15</day>
+      <month>10</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7307195</lat>
+      <lng>106.7322117</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14,15,16,19,20</category>
+      <type>2,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Kỹ năng làm việc nhóm, word.</skill>
+      <ui>4930</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>My name is Công. I 18 year old. I live at district 7. I study at university</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>221</strjo>
+  </appliedjob>
+</information>

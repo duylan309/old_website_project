@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>424</id>
+    <ui>5635</ui>
+    <ci>389</ci>
+    <ai>0</ai>
+    <ti>Nhân viên phục vụ</ti>
+    <ta/>
+    <le>4</le>
+    <ty>1</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>4000000</s1>
+    <s2>4500000</s2>
+    <s3>181</s3>
+    <s4>204</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>9</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description>Bếp ( pha trộn đơn giản),pha chế ( theo công thức),giao hàng và thu ngân, phục vụ,vệ sinh cửa hàng. Các bạn sẽ làm các công việc trên.</description>
+    <requirement>Có khả năng giao tiếp tốt,năng động,tính tự giác cao,có tính kỉ luật,chịu học hỏi,làm việc theo nhóm.</requirement>
+    <benefit>+Lương: 4.000.000 đồng+phụ cấp+thưởng\r\n+phúc lợi: kí hợp đồng theo luật lao động\r\n+cơ hội nghề nghiệp: phát triển lên vị trí cao hơn tùy vào năng lực.\r\n</benefit>
+    <keyword></keyword>
+    <ad/>
+    <location_id>297</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>1969-12-31</de>
+    <re>0000-00-00</re>
+    <cr>1476118049</cr>
+  </db>
+  <more>
+    <description>Bếp ( pha trộn đơn giản),pha chế ( theo công thức),giao hàng và thu ngân, phục vụ,vệ sinh cửa hàng. Các bạn sẽ làm các công việc trên.</description>
+    <requirement>Có khả năng giao tiếp tốt,năng động,tính tự giác cao,có tính kỉ luật,chịu học hỏi,làm việc theo nhóm.</requirement>
+    <benefit>+Lương: 4.000.000 đồng+phụ cấp+thưởng&#13;
++phúc lợi: kí hợp đồng theo luật lao động&#13;
++cơ hội nghề nghiệp: phát triển lên vị trí cao hơn tùy vào năng lực.&#13;
+</benefit>
+  </more>
+</information>

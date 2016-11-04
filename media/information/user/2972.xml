@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2972</id>
+      <email>ymy311094.ymn@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Ý My</name>
+      <im>1474123327_nguyen-thi-y-my.png</im>
+      <gender>2</gender>
+      <phone>01667037026</phone>
+      <address>654/9 Phạm Văn Chí phường 8, quận 6</address>
+      <city>30</city>
+      <dob>1994-10-31</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474123327</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>31</day>
+      <month>10</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7380961</lat>
+      <lng>106.6347282</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Waiter/ Waitress</title>
+      <experience>7</experience>
+      <category>14,15,17,27</category>
+      <type>2,4,5,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill>English communication, teamwork, working under pressure, time management.</skill>
+      <ui>2972</ui>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>278,252,222</strjo>
+  </appliedjob>
+  <education>
+    <n_489>
+      <id>489</id>
+      <school>RMIT University</school>
+      <degrees>Bachelor of Commerce</degrees>
+      <fieldofstudy>Management</fieldofstudy>
+      <from>2013</from>
+      <to>present</to>
+    </n_489>
+  </education>
+</information>

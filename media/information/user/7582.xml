@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7582</id>
+      <email>phanchinhtien@gmail.com</email>
+      <username/>
+      <name>phan chính tiến</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0976363356</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477314400</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>phục vụ</title>
+      <experience>7</experience>
+      <category>14</category>
+      <type>5</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill>kỹ năng giao tiếp &#13;
+kỹ năng quản lý thời gian &#13;
+kỹ năng giải quyết vấn đề</skill>
+      <ui>7582</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>350</strjo>
+  </appliedjob>
+</information>

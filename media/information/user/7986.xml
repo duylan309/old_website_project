@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7986</id>
+      <email>huynh.tien.1202@gmail.com</email>
+      <username/>
+      <name>Huỳnh Thị Thủy Tiên</name>
+      <im>1477568414_huynh-thi-thuy-tien.png</im>
+      <gender>2</gender>
+      <phone>01627306775</phone>
+      <address>17 Bùi Hữu Nghĩa f5, q5</address>
+      <city>30</city>
+      <dob>1997-7-11</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477568414</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>11</day>
+      <month>7</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7510726</lat>
+      <lng>106.6752392</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên Phục vụ, bán hàng tại cửa hàng</title>
+      <experience>1</experience>
+      <category>14,15,35</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Giao tiếp tốt, ứng xử linh hoạt, chăm chỉ, năng động và sáng tạo khi làm việc nhóm, nhanh chóng thích nghi với môi trường và công việc...</skill>
+      <ui>7986</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>478</strjo>
+  </appliedjob>
+</information>

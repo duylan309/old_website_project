@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1217</id>
+      <email>ngocvi27390@gmail.com</email>
+      <username/>
+      <name>Le Ngoc Vi</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0908513824</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1471944352</created>
+      <dayleft>1479742385</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <jobleft>0</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>5</total>
+    <strji>183,184,187,192,295</strji>
+  </totalJob>
+  <saveuser>
+    <total>4</total>
+    <strui>1222,1277,1326,292</strui>
+  </saveuser>
+</information>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>220</id>
+    <ui>287</ui>
+    <name>Paragon Saigon Hotel</name>
+    <url>paragonhotelsaigon</url>
+    <im>_paragon-saigon-hotel.jpg</im>
+    <im_banner>_paragon-saigon-hotel-cover.jpg</im_banner>
+    <category>20</category>
+    <phone> (84-8) 3823 3</phone>
+    <address>22 - 24 Thi Sach Street, Ben Nghe Ward, District 1</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.778669</lat>
+    <lng>106.704163</lng>
+    <website>http://www.paragonsaigon.com/</website>
+    <about/>
+    <facebook>https://www.facebook.com/paragonhotelsaigon/</facebook>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1468210576</created>
+  </db>
+  <more>
+    <about>Paragon Hotel Saigon is one of the top 4 star business and leisure city hotels in Ho Chi Minh city. &#13;
+&#13;
+This Saigon hotel is located in the heart of Ho Chi Minh's commercial and business district 1. Just 3 minutes walk to Opera House and to VinCom shopping center. From the rooms, guests can enjoy a great view of the central part of Saigon from The Opera House to The Notre Dame Cathedral. (Google Map)&#13;
+&#13;
+Paragon Hotel Saigon offers a level of service and comfort designed to ensure that both business and leisure travelers who visit this emerging and bustling new gateway city of Asia will find charming hospitality and personalized services. With harmonious combination between traditional Vietnamese structure and modern style with a French touch will bring guests a pleasant experience.</about>
+    <whyworkus/>
+  </more>
+  <companybanner>_paragon-saigon-hotel-cover.jpg</companybanner>
+  <totalJob>
+    <total>14</total>
+    <strji>95,115,116,117,197,212,213,283,307,308,310,315,316,319</strji>
+  </totalJob>
+</information>

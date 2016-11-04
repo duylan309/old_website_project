@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5907</id>
+      <email>thuhang1126@gmail.com</email>
+      <username/>
+      <name>Do Thu Hang</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0902500853</phone>
+      <address>368 Lê Văn Sỹ - phường 2 - quận Tân Bình</address>
+      <city>30</city>
+      <dob>1992-11-26</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476263620</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476263620</last_signin>
+      <day>26</day>
+      <month>11</month>
+      <year>1992</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.79814</lat>
+      <lng>106.663504</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>5907</ui>
+      <title>nhân viên bán hàng, phục vụ, thu ngân</title>
+      <experience>1</experience>
+      <category>14,15,17,27,35</category>
+      <type>1,6</type>
+      <level>2</level>
+      <lang>vi,en,fr</lang>
+      <s1>7000000</s1>
+      <salary>1</salary>
+      <about>Being serious in working, honest, careful, enthusiastic.</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <experience>
+    <n_1202>
+      <id>1202</id>
+      <title>Translator</title>
+      <level>1</level>
+      <cmpname>TAN VIET NOTARY OFFICE</cmpname>
+      <city>ho chi minh</city>
+      <country>viet nam</country>
+      <from>tháng 4/2016</from>
+      <to>nay</to>
+    </n_1202>
+    <n_1203>
+      <id>1203</id>
+      <title>Cashier</title>
+      <level>1</level>
+      <cmpname>Vinmart+</cmpname>
+      <city>ho chi minh</city>
+      <country>viet nam</country>
+      <from>november 2015</from>
+      <to>march 2016</to>
+    </n_1203>
+    <n_1204>
+      <id>1204</id>
+      <title>Managerment Board’s Staff</title>
+      <level>1</level>
+      <cmpname>Blue Diamond, LTD, CO</cmpname>
+      <city>ho chi minh</city>
+      <country>viet nam</country>
+      <from>Sep 2015</from>
+      <to>Oct 2015</to>
+    </n_1204>
+    <n_1205>
+      <id>1205</id>
+      <title>Sales And Customer Service (part-time)</title>
+      <level>1</level>
+      <cmpname>LOTTA VN, LTD, CO</cmpname>
+      <city>ho chi minh</city>
+      <country>viet nam</country>
+      <from>Jun 2015</from>
+      <to>Sep 2015</to>
+    </n_1205>
+  </experience>
+  <appliedjob>
+    <total>6</total>
+    <strjo>375,349,202,140,465,429</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>4</total>
+    <strjo>202,409,351,140</strjo>
+  </savedjob>
+  <education>
+    <n_983>
+      <id>983</id>
+      <school>Hoa Sen University</school>
+      <degrees>Cao Dang</degrees>
+      <fieldofstudy>Accounting</fieldofstudy>
+      <from>2011</from>
+      <to>2014</to>
+    </n_983>
+  </education>
+</information>

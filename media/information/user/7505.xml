@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7505</id>
+      <email>dieubi1705@gmail.com</email>
+      <username/>
+      <name>HUỲNH THỊ DIỆU BI</name>
+      <im>1477290300_huynh-thi-dieu-bi.png</im>
+      <gender>2</gender>
+      <phone>01653166967</phone>
+      <address>19 Nguyễn Hữu Thọ, phường Tân Phong, quận 7</address>
+      <city>30</city>
+      <dob>1995-5-17</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477290300</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>17</day>
+      <month>5</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7326801</lat>
+      <lng>106.6999022</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>14</category>
+      <type>6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Siêng năng.&#13;
+Cẩn thận.&#13;
+Làm việc nhóm.&#13;
+Giao tiếp tốt.</skill>
+      <ui>7505</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Tôi đến từ Quảng Ngãi một nơi mà phải nói là cuộc sống rất khổ cực. Nên tôi biết quý trọng những gì đang có và phấn đấu trên những con đường mình chọn. Trong công việc thì luôn hoàn thành những việc được giao. Học tập trong môi trường rất nghiêm khắc nên vấn đề kỷ luật và ý thức là không thể thiếu đối với tôi. </about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>459</strjo>
+  </appliedjob>
+  <education>
+    <n_1217>
+      <id>1217</id>
+      <school>Đại học Tôn Đức Thắng</school>
+      <degrees>đang là sinh viên</degrees>
+      <fieldofstudy>Khoa học môi trường</fieldofstudy>
+      <from>2013</from>
+      <to>2018</to>
+    </n_1217>
+  </education>
+  <savedjob>
+    <total>1</total>
+    <strjo>459</strjo>
+  </savedjob>
+</information>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7593</id>
+      <email>Nguyenanhly97119@gmail.com</email>
+      <username/>
+      <name>Nguyễn Ánh Ly</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01204934631</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477319306</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,18,20,29,30</category>
+      <type>2,3,4,5</type>
+      <level>1,5</level>
+      <lang>vi,en,fr</lang>
+      <skill/>
+      <ui>7593</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>211</strjo>
+  </appliedjob>
+</information>

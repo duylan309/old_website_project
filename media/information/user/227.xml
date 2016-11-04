@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>227</id>
+      <email>khoi.phamx@gmail.com</email>
+      <username/>
+      <name>Khoi Pham</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0918248486</phone>
+      <address/>
+      <city>30</city>
+      <dob>1989-6-10</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1467193067</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>10</day>
+      <month>6</month>
+      <year>1989</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>227</ui>
+      <title>Restaurant/Store Manager</title>
+      <category>14,15,17</category>
+      <location>30</location>
+      <type>1</type>
+      <level>4,5</level>
+      <experience>2</experience>
+      <lang>en,vi</lang>
+      <s1>15000000</s1>
+      <salary>1</salary>
+      <skill>- Excellent interpersonal skills;&#13;
+- Great training and coaching skills;&#13;
+- Experience in managing more than 15 staff;&#13;
+- High level of customer services skills;&#13;
+- Good knowledge of digital marketing.</skill>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>68</strjo>
+  </appliedjob>
+</information>

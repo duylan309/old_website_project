@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7734</id>
+      <email>Arielnguyen06@gmail.com</email>
+      <username/>
+      <name>Nguyễn Ngọc linh</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0964140048</phone>
+      <address>168/14 Bùi thị xuân phường 3 tân bình </address>
+      <city>30</city>
+      <dob>1997-6-15</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477413525</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>15</day>
+      <month>6</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7940729</lat>
+      <lng>106.664179</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,20</category>
+      <type>6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill>Giao tiếp tiếng anh, kĩ năng vi tính thành thạo</skill>
+      <ui>7734</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Có kinh nghiệm tư vấn bán hàng, làm việc tại tiệm bánh. Kĩ năng làm việc độc lập và xử lí tình huống tốT</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>349</strjo>
+  </appliedjob>
+</information>

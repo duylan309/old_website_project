@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3518</id>
+      <email>leonguyen66.jackson@gmail.com</email>
+      <username/>
+      <name>Mọi Minh Nguyễn</name>
+      <im>1790779807826231_moi-minh-nguyen.jpg</im>
+      <gender>2</gender>
+      <dob>1995-7-27</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474678826</created>
+      <day>27</day>
+      <month>7</month>
+      <year>1995</year>
+      <phone>01208573799</phone>
+      <address>36/48/38 khu phố 4 đường Bùi Tư Toàn, An Lạc, Bình Tân</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7320997</lat>
+      <lng>106.6163745</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>3518</ui>
+      <title>Nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>17</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Xin chào, tên thật của tôi là Minh Hương. Tôi là sinh viên thiết kế, tôi muốn tìm kiếm việc làm để có thêm thu nhập và trải nghiệm thêm nhiều cung bậc của cuộc sống</about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

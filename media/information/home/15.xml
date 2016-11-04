@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>15</id>
+    <ti_vi>Việc Làm Khách Sạn</ti_vi>
+    <ti_en>Hotels</ti_en>
+    <url>viec-lam-khach-san</url>
+    <subject></subject>
+    <lo></lo>
+    <di></di>
+    <nat></nat>
+    <ca>20</ca>
+    <sa></sa>
+    <ty></ty>
+    <le></le>
+    <ex></ex>
+    <la></la>
+    <status>2</status>
+    <sort>10</sort>
+    <jobid></jobid>
+  </db>
+  <meta>
+    <title>
+      <vi/>
+      <en/>
+    </title>
+    <desc>
+      <vi>a</vi>
+      <en/>
+    </desc>
+    <keyword>
+      <vi/>
+      <en/>
+    </keyword>
+  </meta>
+</information>

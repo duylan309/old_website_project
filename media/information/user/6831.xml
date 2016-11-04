@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6831</id>
+      <email>Hippitran32@gmail.com</email>
+      <username/>
+      <name>Trần phi</name>
+      <im>1476878407_tra-n-phi.png</im>
+      <gender>0</gender>
+      <phone>0938603714</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476878407</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên pha chế</title>
+      <experience>1</experience>
+      <category>14,15,16</category>
+      <type>1,2,3</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>6831</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>449</strjo>
+  </appliedjob>
+</information>

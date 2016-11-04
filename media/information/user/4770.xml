@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4770</id>
+      <email>nhmp1603@gmail.com</email>
+      <username/>
+      <name>Nguyễn Hoàng Minh Phương</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0946222333</phone>
+      <address>299 Vĩnh Viễn Q.10</address>
+      <city>30</city>
+      <dob>1997-3-16</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475490052</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1475490052</last_signin>
+      <day>16</day>
+      <month>3</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7634234</lat>
+      <lng>106.6671071</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1003>
+      <id>1003</id>
+      <title>Phục vụ</title>
+      <level>1</level>
+      <cmpname>Pizza 4 Good</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country/>
+      <from>09/2016</from>
+      <to>10/2016</to>
+    </n_1003>
+  </experience>
+  <education/>
+  <user_cv>
+    <db>
+      <ui>4770</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>1</experience>
+      <category>14,15</category>
+      <type>1,2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Proactive, enthusiastic, quick learner, passionate&#13;
+Experienced in service staff position</about>
+      <skill>Teamwork, cooperative, hardworking, dedicated, helpful</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <savedjob>
+    <total>3</total>
+    <strjo>211,161,294</strjo>
+  </savedjob>
+  <appliedjob>
+    <total>2</total>
+    <strjo>199,113</strjo>
+  </appliedjob>
+</information>

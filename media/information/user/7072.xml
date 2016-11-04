@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7072</id>
+      <email>kimthanhque@gmail.com</email>
+      <username/>
+      <name>Tăng Thế Nguyệt Quế</name>
+      <im>1477054500_tang-the-nguyet-que.png</im>
+      <gender>0</gender>
+      <phone>01223042148</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477054500</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên pha chế</title>
+      <experience>1</experience>
+      <category>15,19</category>
+      <type>1,5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>7072</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>312</strjo>
+  </appliedjob>
+</information>

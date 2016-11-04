@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3199</id>
+      <email>Duonghnt.hnam@gmail.com</email>
+      <username/>
+      <name>Huỳnh nguyển triều dương</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01218429833</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474385877</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Thu ngân</title>
+      <experience>3</experience>
+      <category>17,27,28,29,30,31,35</category>
+      <type>4,6</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>3199</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>249</strjo>
+  </appliedjob>
+</information>

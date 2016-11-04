@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <companybanner>138_Screen Shot 2016-04-21 at 6.44.10 AM.png</companybanner>
+  <more>
+    <about>we are a hip and trendy bar/restaurant in d1 ccmc. come chill out with us :)</about>
+    <whyworkus>we are hiring dynamic english speaking hot boys and hot girls</whyworkus>
+  </more>
+  <totalJob>1</totalJob>
+  <db>
+    <id>138</id>
+    <ui>138</ui>
+    <name>Metier</name>
+    <url></url>
+    <im>138_Screen Shot 2016-04-21 at 6.44.15 AM.png</im>
+    <category>14,16,19</category>
+    <phone>0938059551</phone>
+    <address>1234 abc street</address>
+    <city>30</city>
+    <website></website>
+    <skype></skype>
+    <facebook></facebook>
+    <size>0</size>
+    <status>1</status>
+    <dayleft>1492080933</dayleft>
+    <jobleft>0</jobleft>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1461566802</created>
+    <deactive>1</deactive>
+  </db>
+</information>

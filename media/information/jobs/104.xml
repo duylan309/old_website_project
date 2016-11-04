@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>104</id>
+    <ui>320</ui>
+    <ci>226</ci>
+    <ai>0</ai>
+    <ti>Tuyển thợ Sushi</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>1,2</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description/>
+    <requirement/>
+    <benefit/>
+    <keyword>Giao tiếp hiệu quả,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Tự tin</keyword>
+    <ad/>
+    <location_id>34</location_id>
+    <lat>10.773104</lat>
+    <lng>10.773104</lng>
+    <de>2016-09-18</de>
+    <re>0000-00-00</re>
+    <cr>1471545450</cr>
+  </db>
+  <more>
+    <requirement/>
+    <description/>
+    <benefit/>
+    <keyword>Giao tiếp hiệu quả,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Tự tin</keyword>
+  </more>
+  <userapplied>
+    <total>12</total>
+    <strui>480,498,504,516,656,716,744,790,798,1035,2165,2302</strui>
+  </userapplied>
+</information>

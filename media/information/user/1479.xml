@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1479</id>
+      <email>teephan08@gmail.com</email>
+      <username/>
+      <name>Phan Hà Tuyết Nhung</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0936873498</phone>
+      <address>1/6c ấp Hưng Lân, xã Bà Điểm, huyện Hóc Môn</address>
+      <city>30</city>
+      <dob>1997-8-21</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472400958</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>21</day>
+      <month>8</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.85191</lat>
+      <lng>106.608517</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên pha chế</title>
+      <experience>7</experience>
+      <category>15</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Biết pha chế</skill>
+      <ui>1479</ui>
+      <s1>3600000</s1>
+      <salary>1</salary>
+      <keyword>Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Tinh thần trách nhiệm,Chịu được áp lực công việc,Trung thực,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>169</strjo>
+  </appliedjob>
+  <experience>
+    <n_328>
+      <id>328</id>
+      <title>Nhân viên pha chế</title>
+      <level>1</level>
+      <cmpname>Quán riêng</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>T3 - 2016</from>
+      <to>T6 - 2016</to>
+    </n_328>
+  </experience>
+  <education>
+    <n_236>
+      <id>236</id>
+      <school>THPT Bà Điểm</school>
+      <degrees>12/12</degrees>
+      <fieldofstudy/>
+      <from>2012</from>
+      <to>2015</to>
+    </n_236>
+  </education>
+</information>

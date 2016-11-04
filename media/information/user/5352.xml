@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5352</id>
+      <email>sheoyunmi@Gmail.com</email>
+      <username/>
+      <name>Dung Kim Võ</name>
+      <im>1059288094168426_dung-kim-vo.jpg</im>
+      <gender>2</gender>
+      <dob>1997-4-26</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475925198</created>
+      <day>26</day>
+      <month>4</month>
+      <year>1997</year>
+      <phone>0938107426</phone>
+      <address>Kdc ven sông, phường Tân Phong, quận 7, Tp HCM</address>
+      <country>vn</country>
+      <city></city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên</title>
+      <experience>2</experience>
+      <category>14,28,29,35</category>
+      <type>1,2,4,6</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <skill>Có kinh nghiệm chăm sóc khách hàng, bán hàng.&#13;
+Chụp ảnh</skill>
+      <ui>5352</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>386</strjo>
+  </appliedjob>
+  <education>
+    <n_888>
+      <id>888</id>
+      <school>đại học Tôn Đức Thắng</school>
+      <degrees/>
+      <fieldofstudy/>
+      <from>2015</from>
+      <to>2019</to>
+    </n_888>
+  </education>
+</information>

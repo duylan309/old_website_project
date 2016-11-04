@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2130</id>
+      <email>dntmyy246@gmail.com</email>
+      <username/>
+      <name>Thảo My</name>
+      <im>870527336412806_thao-my.jpg</im>
+      <gender>2</gender>
+      <dob>1996-2-18</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473257399</created>
+      <day>18</day>
+      <month>2</month>
+      <year>1996</year>
+      <phone>01202553399</phone>
+      <address>chung cư Hoàng Anh Gia Lai, đường Nguyễn Hữu Thọ, quận 7</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7345127</lat>
+      <lng>106.6998515</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên Phục vụ</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill></skill>
+      <ui>2130</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>202</strjo>
+  </appliedjob>
+</information>

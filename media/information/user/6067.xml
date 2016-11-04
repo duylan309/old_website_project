@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6067</id>
+      <email>hututbetbeli@yahoo.com</email>
+      <username/>
+      <name>Ngọc Thắng</name>
+      <im>1853861021500396_ngoc-thang.jpg</im>
+      <gender>1</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476364360</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>bán thời gian</title>
+      <experience>7</experience>
+      <category>36</category>
+      <type>2</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>6067</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>191</strjo>
+  </appliedjob>
+</information>

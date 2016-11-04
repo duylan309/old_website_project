@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>505</id>
+    <ui>7017</ui>
+    <ci>416</ci>
+    <ai>0</ai>
+    <ti>Nhân viên bếp ( làm việc tại Hà Nội )</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1,2,4</ty>
+    <ex>1,2</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo>23</lo>
+    <co>vn</co>
+    <ca>15</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description/>
+    <requirement/>
+    <workhour/>
+    <benefit/>
+    <keyword/>
+    <ad/>
+    <location_id>350</location_id>
+    <lat>10.772600</lat>
+    <lng>10.772600</lng>
+    <de>2016-10-31</de>
+    <re>0000-00-00</re>
+    <cr>1477272529</cr>
+  </db>
+  <more>
+    <requirement>- Có kinh nghiệm làm bếp là 1 ưu thế. &#13;
+- Chưa có kinh nghiệm, sẽ được đào tạo. &#13;
+</requirement>
+    <description>a. Chế biến các món ăn theo tiêu chuẩn định lượng.&#13;
+b. Bảo đảm khu vực bếp luôn trong điều kiện tốt, vệ sinh và an toàn.&#13;
+c. Chuẩn bị đầy đủ hàng để phục vụ cho khách.&#13;
+d. Sử dụng chi phí hiệu quả.&#13;
+e. Quản lý, bảo đảm hàng hoá xuất nhập tồn chính xác, không để thất thoát.&#13;
+f. Thực hiện các công việc khác theo sự chỉ đạo của cấp trên.&#13;
+</description>
+    <workhour>Thời gian làm việc: từ 6:30 đến 14h30. </workhour>
+    <benefit>- Làm việc trong môi trường năng động chuyên nghiệp.&#13;
+- Được đào tạo tất cả các nghiệp vụ và định hướng phát triển lên vị trí Cửa hàng trưởng&#13;
+- Trao đổi cụ thể khi phỏng vấn &#13;
+</benefit>
+    <keyword>Giao tiếp hiệu quả,Chịu được áp lực công việc,Kỹ năng chăm sóc khách hàng</keyword>
+  </more>
+  <userapplied>
+    <total>1</total>
+    <strui>5777</strui>
+  </userapplied>
+</information>

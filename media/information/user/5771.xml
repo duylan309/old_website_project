@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5771</id>
+      <email>ninaminhthu@yahoo.com.vn</email>
+      <username/>
+      <name>Minh Thư</name>
+      <im>896969550433695_minh-thu.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476179281</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <education>
+    <n_959>
+      <id>959</id>
+      <school>Đại học Quốc Tế</school>
+      <degrees></degrees>
+      <fieldofstudy>Quản trị kinh doanh</fieldofstudy>
+      <from>2015</from>
+      <to>nay</to>
+    </n_959>
+  </education>
+</information>

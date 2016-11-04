@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3645</id>
+      <email>baochau1197@gmail.com</email>
+      <username/>
+      <name>Nguyễn Vũ Bảo Châu</name>
+      <im>713739058778515_nguyen-vu-bao-chau.jpg</im>
+      <gender>2</gender>
+      <dob>1997-1-1</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474732119</created>
+      <day>1</day>
+      <month>1</month>
+      <year>1997</year>
+      <last_signin>1474732119</last_signin>
+      <phone>0963604020</phone>
+      <address>340/21 D3, phường 25, quận Bình Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.804725</lat>
+      <lng>106.714756</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_593>
+      <id>593</id>
+      <school>ĐH Kinh Tế TP HCM</school>
+      <degrees/>
+      <fieldofstudy>Kinh doanh Quốc tế</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_593>
+  </education>
+  <user_cv>
+    <db>
+      <ui>3645</ui>
+      <title>Nhân viên pha chế cà phê, nhân viên phục vụ part time</title>
+      <experience>7</experience>
+      <category>15,17,27,29,35</category>
+      <type>2,4,6</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <s1>1300000</s1>
+      <salary>1</salary>
+      <about>nhiệt tình, vui vẻ, hòa đồng. có tinh thần cầu tiến cao nên đôi khi hơi cầu toàn.</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>247,150,105,172,222</strjo>
+  </appliedjob>
+</information>

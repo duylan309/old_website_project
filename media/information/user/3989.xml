@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3989</id>
+      <email>Cuong.group88@gmail.com</email>
+      <username/>
+      <name>Bá Cường</name>
+      <im>3989_20160926-115618.jpg</im>
+      <gender>1</gender>
+      <phone>0933483748</phone>
+      <address></address>
+      <city>30</city>
+      <dob>1985-6-7</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474942630</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1474942630</last_signin>
+      <day>7</day>
+      <month>6</month>
+      <year>1985</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>3989</ui>
+      <title>Tuyển NV</title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about></about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

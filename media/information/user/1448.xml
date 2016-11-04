@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1448</id>
+      <email>hoanghoacofer@gmail.com</email>
+      <username/>
+      <name>Hoàng Thị Hòa</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0974274796</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472362248</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên</title>
+      <experience>7</experience>
+      <category>14,18,29,31</category>
+      <type>4</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>1448</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>181</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1681</id>
+      <email>nfhatthucmail@gmail.com</email>
+      <username/>
+      <name>Phạm Nhật Thức</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01204897077</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472740114</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Shift Manager</title>
+      <experience>2</experience>
+      <category>14</category>
+      <type>1</type>
+      <level>5</level>
+      <lang>vi,en</lang>
+      <skill>Operate shift&#13;
+Solve the problems from customer,staffs.so on..&#13;
+Remain and build up the standards of restaurant&#13;
+Make plans for training new staffs&#13;
+Organize and assign staff for certain section&#13;
+Recruit and interview the candidates.</skill>
+      <ui>1681</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>229</strjo>
+  </appliedjob>
+</information>

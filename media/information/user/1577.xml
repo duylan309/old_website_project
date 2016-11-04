@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1577</id>
+      <email>thanhhuyennap812@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Thanh Huyền</name>
+      <im>1577_1011461-1666606470246582-2601916390415369543-n.jpg</im>
+      <gender>2</gender>
+      <phone>01627878556</phone>
+      <address>673 Lê Hồng Phong ,phường 10,Quận 10</address>
+      <city>30</city>
+      <dob>1995-10-17</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472568857</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>17</day>
+      <month>10</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7711543</lat>
+      <lng>106.6728008</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>2</experience>
+      <category>14,18,20,26,29</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>en</lang>
+      <skill></skill>
+      <ui>1577</ui>
+      <s1>8000000</s1>
+      <salary>1</salary>
+      <keyword>Nhiệt tình,Trung thực,Tinh thần làm việc nhóm,Tinh thần trách nhiệm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>92</strjo>
+  </appliedjob>
+  <experience>
+    <n_382>
+      <id>382</id>
+      <title>waitress</title>
+      <level>1</level>
+      <cmpname>Pizza4p’s</cmpname>
+      <city/>
+      <country/>
+      <from>6/2015</from>
+      <to>9/2016</to>
+    </n_382>
+  </experience>
+</information>

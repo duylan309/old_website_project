@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2941</id>
+      <email>meyoufrien@gmail.com</email>
+      <username/>
+      <name>nguyễn ngọc thành</name>
+      <im>2941_img-20141023-125850.jpg</im>
+      <gender>1</gender>
+      <phone>01646826843</phone>
+      <address>hem 34 , duong kha van can , phuong linh dong , quan thu duc </address>
+      <city>30</city>
+      <dob>1994-5-20</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474092520</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>20</day>
+      <month>5</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8239811</lat>
+      <lng>106.7193236</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhận viên</title>
+      <experience>1</experience>
+      <category>14,29,31</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>nhanh nhẹn , vui vẽ</skill>
+      <ui>2941</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>hòa đồng .vui vẽ , nhiệt tình , có tinh thần trách nhiệm trong công việc</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>240,292,142,140,172</strjo>
+  </appliedjob>
+  <education>
+    <n_604>
+      <id>604</id>
+      <school>trường cao đẳng công nghê thủ đức</school>
+      <degrees>trung cấp</degrees>
+      <fieldofstudy>tiêng hàn quốc</fieldofstudy>
+      <from>7/2015</from>
+      <to>7/2017</to>
+    </n_604>
+  </education>
+</information>

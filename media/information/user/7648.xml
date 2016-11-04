@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7648</id>
+      <email>nhungoc734@gmail.com</email>
+      <username/>
+      <name>Bùi Thị Ngọc</name>
+      <im>734108770075006_ba-banh-beo.jpg</im>
+      <gender>2</gender>
+      <dob>2016-8-5</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477374404</created>
+      <day>5</day>
+      <month>8</month>
+      <year>2016</year>
+      <phone>0968872743</phone>
+      <address>171/17 Trần Bá Giao, Phường 5, Quân Gò Vấp</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8290563</lat>
+      <lng>106.6920314</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>7648</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>2</experience>
+      <category>15,16,17,27,30,31,35,36</category>
+      <type>4,5,6</type>
+      <level>2,3</level>
+      <lang>vi,en</lang>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <about>Hiện đang là sinh viên trường Đại Học Văn Hóa TPHCM, chuyên ngành Biên tập viên, mong muôn làm thêm trang trải cuộc sống</about>
+      <skill>Phục vụ, bán hàng, tiếp thị sản phẩm</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>372,255,154,105</strjo>
+  </appliedjob>
+</information>

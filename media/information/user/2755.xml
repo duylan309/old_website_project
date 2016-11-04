@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2755</id>
+      <email>mushsun155@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Minh Trân</name>
+      <im>2755_image.jpeg</im>
+      <gender>2</gender>
+      <phone>01203648333</phone>
+      <address>183F/1/10 Tôn Thất Thuyết P4  Q4</address>
+      <city>30</city>
+      <dob>1998-4-28</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473864714</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1473864714</last_signin>
+      <day>28</day>
+      <month>4</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.753414</lat>
+      <lng>106.702881</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>2755</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>7</experience>
+      <category>15,29,35</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <about>Tôi là một người trẻ đầy nhiệt huyết, năng động. Tôi mong muốn thông qua việc làm thêm sẽ nâng cao khả năng giao tiếp, kỹ năng giải quyết vấn đề và học tập từ mọi người xung quanh cách làm việc trong môi trường chuyên nghiệm. Tôi sẽ làm việc thật chăm chỉ, hết mình nếu được tuyển dụng. Xin cám ơn</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>12</total>
+    <strjo>126,222,84,107,199,278,162,250,247,202,219,164</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>3</total>
+    <strjo>221,161,164</strjo>
+  </savedjob>
+</information>

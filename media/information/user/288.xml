@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>288</id>
+      <email>bobby.nguyenle2204@gmail.com</email>
+      <username/>
+      <name>Nguyễn Lê Duy Anh</name>
+      <im>288_img.jpg</im>
+      <gender>1</gender>
+      <dob>1992-4-22</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1468213433</created>
+      <day>22</day>
+      <month>4</month>
+      <year>1992</year>
+      <phone>01266898873</phone>
+      <address>148/3B Ung Van Khiem, Ward 25, Dis. Binh Thanh, HCMC</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8060647</lat>
+      <lng>106.7068341</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>288</ui>
+      <title>Supervisor</title>
+      <experience>5</experience>
+      <category>17,29,35</category>
+      <type>1</type>
+      <level>3,4</level>
+      <lang>vi,en</lang>
+      <s1>7000000</s1>
+      <salary>1</salary>
+      <skill>Responsibility,Problem-solving,Honesty,Customer service,Work well under pressure,Team-work,Sales Director Assistant,Shop Manager,Online Sales Manager,Comprehensive Communication</skill>
+    </db>
+  </user_cv>
+  <experience>
+    <n_21>
+      <id>21</id>
+      <title>Sales Assistant &amp; Cashier</title>
+      <level>1</level>
+      <cmpname>UMA Furniture and Decoration Co.,</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Vietnam</country>
+      <from>10/2011</from>
+      <to>07/2013</to>
+    </n_21>
+    <n_22>
+      <id>22</id>
+      <title>Sales Supervisor</title>
+      <level>1</level>
+      <cmpname>UMA Furniture and Decoration Co.,</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Vietnam</country>
+      <from>07/2013</from>
+      <to>08/2014</to>
+    </n_22>
+    <n_23>
+      <id>23</id>
+      <title>Oversea Sales Assistant  Manager</title>
+      <level>1</level>
+      <cmpname>2J Vina Corporation</cmpname>
+      <city>Long Khanh</city>
+      <country>Vietnam</country>
+      <from>08/2014</from>
+      <to>09/2015</to>
+    </n_23>
+    <n_24>
+      <id>24</id>
+      <title>Sales Executive</title>
+      <level>1</level>
+      <cmpname>EURASIA Concept JSC</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Vietnam</country>
+      <from>10/2015</from>
+      <to>12/2015</to>
+    </n_24>
+    <n_25>
+      <id>25</id>
+      <title>Sales Director Assistant</title>
+      <level>1</level>
+      <cmpname>ATC Furniture Furnishing Corp</cmpname>
+      <city>Ho Chi Minh</city>
+      <country>Vietnam</country>
+      <from>01/2016</from>
+      <to>7/2016</to>
+    </n_25>
+  </experience>
+  <education>
+    <n_19>
+      <id>19</id>
+      <school>TON DUC THANG University</school>
+      <degrees>Bachelor</degrees>
+      <fieldofstudy>Hospitality Management</fieldofstudy>
+      <from>2010</from>
+      <to>2014</to>
+    </n_19>
+  </education>
+  <appliedjob>
+    <total>1</total>
+    <strjo>68</strjo>
+  </appliedjob>
+</information>

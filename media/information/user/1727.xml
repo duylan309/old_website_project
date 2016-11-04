@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1727</id>
+      <email>cleverhoanganh@gmail.com</email>
+      <username/>
+      <name>Lê Hoàng Anh</name>
+      <im>1727_avatar.JPG</im>
+      <gender>1</gender>
+      <dob>1996-3-25</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472826030</created>
+      <day>25</day>
+      <month>3</month>
+      <year>1996</year>
+      <last_signin>1472826030</last_signin>
+      <phone>0938295820</phone>
+      <address>91 Nguyễn Hữu Cảnh, Bình Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7927837</lat>
+      <lng>106.7176204</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>1727</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>7</experience>
+      <category>35</category>
+      <type>2,4,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Chịu được áp lực công việc,Trung thực,Nhiệt tình,Tự tin,Tinh thần trách nhiệm,Tập trung trong công việc</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>172</strjo>
+  </appliedjob>
+</information>

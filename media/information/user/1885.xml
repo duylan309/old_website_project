@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1885</id>
+      <email>tracynguyen.0405@gmail.com</email>
+      <username/>
+      <name>Nguyen Thi Nhu Thuy</name>
+      <im>1885_thuy-s-photo.jpg</im>
+      <gender>2</gender>
+      <phone>0938382222</phone>
+      <address>83, 03 Street, Binh An Ward, District 2, HCMC </address>
+      <city>30</city>
+      <dob>1993-5-4</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473046522</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>4</day>
+      <month>5</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8115433</lat>
+      <lng>106.7086212</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Marketing position</title>
+      <experience>1</experience>
+      <category>14,15,20</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>1885</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword/>
+      <about/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>99,369</strjo>
+  </appliedjob>
+  <experience>
+    <n_418>
+      <id>418</id>
+      <title>Customer Service</title>
+      <level>1</level>
+      <cmpname>Phu Cuong Real Estate Investment Corporation</cmpname>
+      <city>Ho Chi Minh </city>
+      <country>Viet Nam </country>
+      <from>March</from>
+      <to>September</to>
+    </n_418>
+  </experience>
+  <education>
+    <n_868>
+      <id>868</id>
+      <school>RMIT University Viet Nam</school>
+      <degrees>Bachelor Degree </degrees>
+      <fieldofstudy>Commerce ( Entrepreneurship) </fieldofstudy>
+      <from>2013</from>
+      <to>2016</to>
+    </n_868>
+  </education>
+  <savedjob>
+    <total>1</total>
+    <strjo>113</strjo>
+  </savedjob>
+</information>

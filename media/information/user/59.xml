@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>59</id>
+      <email>starbuck@gmail.com</email>
+      <username/>
+      <name>Lê Uyển Như</name>
+      <im>59_le-uyen-nhu.jpg</im>
+      <gender>1</gender>
+      <category/>
+      <phone>083826 5777</phone>
+      <address>Tầng 12, Cao ốc Văn phòng BlueSky, 01 Bạch Đằng, Q. Tân Bình</address>
+      <city>30</city>
+      <dob>1990-03-20</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1458460627</created>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <country>tr</country>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>59</ui>
+      <category>15</category>
+      <title>Barista</title>
+      <level>2</level>
+      <experience>1</experience>
+      <location>30</location>
+      <salary>7,000,000 VND</salary>
+      <skill>WORK LIFE BALANCE&#13;
+Having a job that allows you the flexibility to enjoy the things that life has to offer is a definite tick in the box. At KFC we work to live. We endeavour to make your working life just as worthwhile as life outside work. You can be yourself and enjoy a supportive culture that promotes camaraderie.&#13;
+&#13;
+ &#13;
+&#13;
+DISCOUNTS&#13;
+As a KFC employee you’ll be entitled to a discount on products. You’ll receive a staff discount card detailing the discounts you can enjoy when you join the team.&#13;
+&#13;
+ &#13;
+&#13;
+SERVICE RECOGNITION&#13;
+From the day you join us, we recognise every day you spend with us. The rewards vary from badges to acknowledge your years of service to framed certificates and special gifts to show we appreciate the significant milestones you’ve reached.</skill>
+      <type>1</type>
+      <s1>0</s1>
+    </db>
+  </user_cv>
+</information>

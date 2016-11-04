@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>412</id>
+    <ui>6863</ui>
+    <name>Uber</name>
+    <url>uberVN</url>
+    <im>_uber.png</im>
+    <im_banner>_uber-cover.png</im_banner>
+    <category>35</category>
+    <phone>0978878122</phone>
+    <address>308C, Điện Biên Phủ, Quận 3</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.776147</lat>
+    <lng>106.682884</lng>
+    <website>http://t.uber.com/sudunguber</website>
+    <about/>
+    <facebook>https://www.facebook.com/uberVN/</facebook>
+    <facebook_cover/>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1476892899</created>
+  </db>
+  <more>
+    <about>Ứng dụng Uber kết nối bạn với một chuyến đi đáng tin cậy - từ chi phí thấp cho tới cao cấp - chỉ trong vài phút.</about>
+    <whyworkus/>
+  </more>
+  <companybanner>_uber-cover.png</companybanner>
+  <totalJob>
+    <total>1</total>
+    <strji>487</strji>
+  </totalJob>
+</information>

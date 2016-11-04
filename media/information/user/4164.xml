@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4164</id>
+      <email>huongthukd@gmail.com</email>
+      <username/>
+      <name>Vũ Thị Thu Hương</name>
+      <im>1474992522_vu-thi-thu-huong.png</im>
+      <gender>2</gender>
+      <phone>01683236788</phone>
+      <address>21/18/34F, đường Bình Lợi, Phường 13, Quận Bình Thạnh, TP.HCM</address>
+      <city>30</city>
+      <dob>1997-8-17</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474992522</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>17</day>
+      <month>8</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.802397</lat>
+      <lng>106.6948697</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phục Vụ</title>
+      <experience>7</experience>
+      <category>17,29,35</category>
+      <type>2,4,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <skill>Biết một số kỹ năng về máy tính</skill>
+      <ui>4164</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Là người thích tính trung thực và có nhiều nguyên tắc khi làm việc. Phân công hệ thống công việc phải làm một cách trình tự , logic và thích sự hoàn chỉnh nhưng ngoại hình thì không được đẹp. Khi giao tiếp thì khác với khi làm việc nghiêm túc, khi giao tiếp mong muốn ứng xử tốt mọi tình huống và nếu không giải quyết được vấn đề thì không thích tụ tập lại một chỗ bàn tán, mà phải tìm cách giải quyết vấn đề</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>323,105,153,221</strjo>
+  </appliedjob>
+  <education>
+    <n_667>
+      <id>667</id>
+      <school>Đang học Cao đẳng trường Đại học Công Nghiệp</school>
+      <degrees>Hoàn thành bậc trung học phổ thông</degrees>
+      <fieldofstudy>Công nghệ thông tin</fieldofstudy>
+      <from>2011</from>
+      <to>2015</to>
+    </n_667>
+  </education>
+</information>

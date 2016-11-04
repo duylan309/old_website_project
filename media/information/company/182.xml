@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>182</id>
+    <ui>62</ui>
+    <name>Khói Thơm</name>
+    <url>khoithom</url>
+    <im>182_khoithom.jpg</im>
+    <category>14</category>
+    <phone>08 3930 0233</phone>
+    <address>29 Ngo Thoi Nhiem, p. 6</address>
+    <district>770</district>
+    <district_text_vi>Quận 3</district_text_vi>
+    <district_text_en>District 3</district_text_en>
+    <city>30</city>
+    <website>http://www.khoithom.com/</website>
+    <skype/>
+    <facebook>https://www.facebook.com/khoi.thom/</facebook>
+    <size>1</size>
+    <status>0</status>
+    <dayleft>0</dayleft>
+    <jobleft>0</jobleft>
+    <signupby/>
+    <token/>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1464941785</created>
+    <deactive>0</deactive>
+  </db>
+  <more>
+    <about>Mexican Restaurant</about>
+    <whyworkus>Mexican Restaurant</whyworkus>
+  </more>
+  <companybanner>182_khoithom-cover.jpg</companybanner>
+</information>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>302</id>
+    <ui>1671</ui>
+    <name>NAMO Artisanal Pizzeria</name>
+    <url>NamoPizzeria</url>
+    <im>_namo-artisanal-pizzeria.png</im>
+    <im_banner>_namo-artisanal-pizzeria-cover.jpg</im_banner>
+    <category>14</category>
+    <phone>08 38227988</phone>
+    <address>74/6 Hai Ba Trung, NA</address>
+    <district>0</district>
+    <district_text_vi/>
+    <district_text_en/>
+    <city>30</city>
+    <lat>10.777873</lat>
+    <lng>106.703796</lng>
+    <website>http://www.namo.pizza</website>
+    <about/>
+    <facebook>https://www.facebook.com/NamoPizzeria/</facebook>
+    <facebook_cover/>
+    <size>1</size>
+    <status>0</status>
+    <fb_load_newfeed>1</fb_load_newfeed>
+    <fb_load_photo>1</fb_load_photo>
+    <created>1472726745</created>
+  </db>
+  <more>
+    <about>‘NAMO was born in Italy, after a pizza pilgrimage to uncover the secrets behind the best pizza in the world. The passion and craftsmanship we discovered on the streets of Naples is what fires up the kitchen of ‘NAMO everyday. &#13;
+&#13;
+San Marzano tomatoes from the unique volcanic soils of Mount Vesuvius, Neapolitan pizzas artfully scorched in hand-built brick ovens, porcelain white burrata from Puglia and velvety smooth wines from Tuscany are just some of the incredible bounty we discovered on our quest. What say you if we brought all these coveted treats under one roof for you to enjoy the Italian adventure right here in the heart of Saigon? We say it’s about time - see you soon!</about>
+    <whyworkus/>
+  </more>
+  <companybanner>_namo-artisanal-pizzeria-cover.jpg</companybanner>
+  <totalJob>
+    <total>4</total>
+    <strji>438,439,463,475</strji>
+  </totalJob>
+</information>

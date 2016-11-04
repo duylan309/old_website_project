@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6995</id>
+      <email>tramphamb@gmail.com</email>
+      <username/>
+      <name>Phạm Thị Bích Trâm</name>
+      <im>6995_image.jpeg</im>
+      <gender>2</gender>
+      <dob>1992-11-25</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476984263</created>
+      <day>25</day>
+      <month>11</month>
+      <year>1992</year>
+      <last_signin>1476984263</last_signin>
+      <phone>01672055044</phone>
+      <address>66/179 Xô Viết Nghệ Tĩnh, P.21, Q. Bình Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8162093</lat>
+      <lng>106.7193049</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1381>
+      <id>1381</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>công ty Phương Hoàng Việt ( PHONEX_V)</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>2015</to>
+    </n_1381>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>6995</ui>
+      <title>Nhân viên phục vụ , nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>35</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about/>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>356,489</strjo>
+  </appliedjob>
+</information>

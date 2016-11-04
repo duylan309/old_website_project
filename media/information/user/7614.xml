@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7614</id>
+      <email>macthihoa101@gmail.com</email>
+      <username/>
+      <name>mạc thị hoa</name>
+      <im>7614_received-533122596877719.jpeg</im>
+      <gender>2</gender>
+      <phone>01669780368</phone>
+      <address>72 chu văn an,phường 26,quận bình thanh,tphcm</address>
+      <city></city>
+      <dob>1996-1-10</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477331296</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>10</day>
+      <month>1</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>2</experience>
+      <category>15</category>
+      <type>6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>biết pha chế một số thức uống đơn giản</skill>
+      <ui>7614</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>cao 1m56 nặng 43kg</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>465</strjo>
+  </appliedjob>
+</information>

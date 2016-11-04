@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1262</id>
+      <email>kimanhtran105@gmail.com</email>
+      <username/>
+      <name>Trần Thị Kim Anh</name>
+      <im>1262_20278.jpg</im>
+      <gender>2</gender>
+      <dob>1994-5-10</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472025736</created>
+      <day>10</day>
+      <month>5</month>
+      <year>1994</year>
+      <phone>01219444565</phone>
+      <address>206/13 Trần Hưng Đạo, p.11, q.5, HCM</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.846243</lat>
+      <lng>106.77467</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_201>
+      <id>201</id>
+      <school>Đại học Kinh tế - Luật</school>
+      <degrees>Cử nhân</degrees>
+      <fieldofstudy>Quản trị Kinh doanh</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_201>
+  </education>
+  <user_cv>
+    <db>
+      <ui>1262</ui>
+      <title>Copywriter, PR</title>
+      <experience>1</experience>
+      <category>14,18,20,29</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>300</s1>
+      <salary>2</salary>
+      <skill/>
+      <keyword>Tinh thần trách nhiệm,Tự tin,Tinh thần làm việc nhóm,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Kỹ năng chăm sóc khách hàng</keyword>
+      <s2>6600000</s2>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>185</strjo>
+  </appliedjob>
+</information>

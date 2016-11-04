@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4353</id>
+      <email>nhocheolk28@yahoo.com</email>
+      <username/>
+      <name>Nguyễn Minh Đạt</name>
+      <im>1080375882052271_nguyen-minh-dat.jpg</im>
+      <gender>1</gender>
+      <dob>1995-9-20</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475082749</created>
+      <day>20</day>
+      <month>9</month>
+      <year>1995</year>
+      <phone>0986693990</phone>
+      <address>12 Nguyễn Thị Tần, p3,q8</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.748324</lat>
+      <lng>106.684928</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Bếp</title>
+      <experience>2</experience>
+      <category>14</category>
+      <type>1,4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Bếp Nhật Âu Việt</skill>
+      <ui>4353</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>12</total>
+    <strjo>193,349,139,137,276,188,153,136,256,200,358,421</strjo>
+  </appliedjob>
+  <experience>
+    <n_924>
+      <id>924</id>
+      <title>114 Điện Biên Phủ</title>
+      <level>1</level>
+      <cmpname>Nhà Hàng Hương Nhật</cmpname>
+      <city>HCM</city>
+      <country>Vietnam</country>
+      <from>Tháng 2</from>
+      <to>Nay</to>
+    </n_924>
+  </experience>
+  <education>
+    <n_715>
+      <id>715</id>
+      <school>Hướng Nghiệp Á Âu</school>
+      <degrees>Cơ bản - Nâng cao</degrees>
+      <fieldofstudy>Bếp trưởng điều hành</fieldofstudy>
+      <from>3</from>
+      <to>7</to>
+    </n_715>
+  </education>
+  <savedjob/>
+</information>

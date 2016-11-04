@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>147</id>
+      <email>info@beta.thue.today</email>
+      <username/>
+      <name>Info Thue today</name>
+      <im/>
+      <gender>0</gender>
+      <category/>
+      <phone/>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1461913583</created>
+      <dayleft>0</dayleft>
+      <deactive>0</deactive>
+      <is_newletter>0</is_newletter>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>147</ui>
+      <deactive>0</deactive>
+    </db>
+  </user_cv>
+</information>

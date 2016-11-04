@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3600</id>
+      <email>wjnnje_yueng1105@yahoo.com.vn</email>
+      <username/>
+      <name>Meii Meii</name>
+      <im>961710687271209_meii-meii.jpg</im>
+      <gender>2</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474706229</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>pha chế</title>
+      <experience>2</experience>
+      <category>27</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,ch</lang>
+      <skill>có kinh nghiệm pha chế ở hệ thống trà sữa Đài Loan Tiên Hưởng và Bobapop</skill>
+      <ui>3600</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>292</strjo>
+  </appliedjob>
+</information>

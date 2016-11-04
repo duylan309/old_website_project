@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>250</id>
+    <ui>1732</ui>
+    <ci>313</ci>
+    <ai>0</ai>
+    <ti>Nhân viên pha chế</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>1</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>3750000</s1>
+    <s2>5000000</s2>
+    <s3>170</s3>
+    <s4>227</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description>-	Nhận order của khách tại quầy. \r\n-	Cà thẻ của khách để ra phiếu order\r\n-	Pha chế các món nước theo order của khách\r\n-	Chuẩn bị các nguyên vật liệu của quầy trước giờ phục vụ\r\n-	Order hàng ngày, tuần, tháng các công cụ, dụng cụ, nguyên vật liệu cho quầy nước để đảm bảo đầy đủ\r\n-	Dọn dẹp, giữ gìn khu vực làm việc luôn sạch sẽ\r\n-	Các công việc khác theo phân công của quản lý và trưởng quầy nước\r\n</description>
+    <requirement>-	Có kinh nghiệm về pha chế \r\n-	Sạch sẽ, gọn gàng\r\n-	Chấp hành nghiêm túc các tiêu chuẩn vệ sinh an toàn thực phẩm\r\n-	Siêng năng, chăm chỉ, chịu khó học hỏi\r\n</requirement>
+    <benefit>- Một tuần off một ngày.\r\n- Lương cạnh tranh\r\n- 12 ngày nghỉ phép một năm, chế độ BHYT, BHXH, BHTN theo quy định của Nhà nước\r\n- Chế độ làm việc ngày lễ tết theo quy định của Nhà nước\r\n- Lương tháng 13, thưởng theo chế độ công ty vào các dịp lễ tết\r\n- Xem xét tăng lương 6 tháng hoặc 12 tháng.\r\n- Các chương trình đào tạo trong và ngoài công ty </benefit>
+    <keyword>Trung thực,Nhiệt tình,Tinh thần trách nhiệm</keyword>
+    <ad/>
+    <location_id>148</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-01</de>
+    <re>0000-00-00</re>
+    <cr>1473234510</cr>
+  </db>
+  <more>
+    <requirement>-	Có kinh nghiệm về pha chế &#13;
+-	Sạch sẽ, gọn gàng&#13;
+-	Chấp hành nghiêm túc các tiêu chuẩn vệ sinh an toàn thực phẩm&#13;
+-	Siêng năng, chăm chỉ, chịu khó học hỏi&#13;
+</requirement>
+    <description>-	Nhận order của khách tại quầy. &#13;
+-	Cà thẻ của khách để ra phiếu order&#13;
+-	Pha chế các món nước theo order của khách&#13;
+-	Chuẩn bị các nguyên vật liệu của quầy trước giờ phục vụ&#13;
+-	Order hàng ngày, tuần, tháng các công cụ, dụng cụ, nguyên vật liệu cho quầy nước để đảm bảo đầy đủ&#13;
+-	Dọn dẹp, giữ gìn khu vực làm việc luôn sạch sẽ&#13;
+-	Các công việc khác theo phân công của quản lý và trưởng quầy nước&#13;
+</description>
+    <benefit>- Một tuần off một ngày.&#13;
+- Lương cạnh tranh&#13;
+- 12 ngày nghỉ phép một năm, chế độ BHYT, BHXH, BHTN theo quy định của Nhà nước&#13;
+- Chế độ làm việc ngày lễ tết theo quy định của Nhà nước&#13;
+- Lương tháng 13, thưởng theo chế độ công ty vào các dịp lễ tết&#13;
+- Xem xét tăng lương 6 tháng hoặc 12 tháng.&#13;
+- Các chương trình đào tạo trong và ngoài công ty </benefit>
+    <keyword>Trung thực,Nhiệt tình,Tinh thần trách nhiệm</keyword>
+  </more>
+  <userapplied>
+    <total>28</total>
+    <strui>2186,2199,2179,2226,2330,2390,2444,2720,2755,2785,2855,2733,2005,3212,3342,3625,3679,3866,1274,4666,2224,4724,5692,5977,5998,1023,7483,7270</strui>
+  </userapplied>
+</information>

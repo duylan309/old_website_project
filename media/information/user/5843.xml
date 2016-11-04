@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5843</id>
+      <email>lamvietcuong2412@gmail.com</email>
+      <username/>
+      <name>Lâm Việt Cường</name>
+      <im>642339499260824_lam-viet-cuong.jpg</im>
+      <gender>1</gender>
+      <dob>1997-1-4</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476204273</created>
+      <day>4</day>
+      <month>1</month>
+      <year>1997</year>
+      <last_signin>1476204273</last_signin>
+      <phone>01287116949</phone>
+      <address>299 Lãnh Binh Thăng, Phường 8, Quận 11</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.764255</lat>
+      <lng>106.648055</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>5843</ui>
+      <title>Phục vụ</title>
+      <experience>7</experience>
+      <category>15,17,35</category>
+      <type>2,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Năng động - siêng năng - thân thiện</about>
+      <skill>Giao tiếp tốt&#13;
+Dễ hoà đồng - thích nghi nhanh công việc</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>320</strjo>
+  </appliedjob>
+</information>

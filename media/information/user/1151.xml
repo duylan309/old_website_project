@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1151</id>
+      <email>khunhlong96@gmail.com</email>
+      <username/>
+      <name>Khủng Long</name>
+      <im>1050609825022005_khung-long.jpg</im>
+      <gender>2</gender>
+      <dob>1996-3-16</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471847138</created>
+      <day>16</day>
+      <month>3</month>
+      <year>1996</year>
+      <phone>0938636814</phone>
+      <address>85/16 trần chánh chiếu p14 q5</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7523849</lat>
+      <lng>106.6524236</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>1151</ui>
+      <title>Phục vụ</title>
+      <experience>2</experience>
+      <category>14,16,19</category>
+      <type>1,2,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống,Chịu được áp lực công việc,Trung thực,Tinh thần làm việc nhóm,Tập trung trong công việc</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>161,330</strjo>
+  </appliedjob>
+</information>

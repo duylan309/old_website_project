@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>527</id>
+      <email>ngoanoneshot@gmail.com</email>
+      <username/>
+      <name>Ngoan van Nguyen</name>
+      <im>502843996575577_ngoan-van-nguyen.jpg</im>
+      <gender>1</gender>
+      <dob>1991-4-19</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1470397479</created>
+      <day>19</day>
+      <month>4</month>
+      <year>1991</year>
+      <phone>0944379955</phone>
+      <address>189A Cô Giang,p Cô Giang,q1</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.761417</lat>
+      <lng>106.693178</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>527</ui>
+      <title>Bartender</title>
+      <experience>2</experience>
+      <category>14,16,18,19</category>
+      <type>1</type>
+      <level>4</level>
+      <lang>en</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <skill>Biểu diễn,xuất nhập khẩu</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

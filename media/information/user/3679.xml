@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3679</id>
+      <email>thuantranbloc@gmail.com</email>
+      <username/>
+      <name>Trần Minh Thuận</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0963993731</phone>
+      <address>hẻm 14 đường lê đức thọ,phường 6 quận gò vấp</address>
+      <city>30</city>
+      <dob>1996-11-6</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474770125</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>6</day>
+      <month>11</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8368956</lat>
+      <lng>106.6808667</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>bartender</title>
+      <experience>1</experience>
+      <category>14,16</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill></skill>
+      <ui>3679</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about></about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>243,250</strjo>
+  </appliedjob>
+  <experience>
+    <n_821>
+      <id>821</id>
+      <title>nhân viên</title>
+      <level>1</level>
+      <cmpname>Công ty Cổ phần Thương mại Dịch vụ Cổng Vàng</cmpname>
+      <city>hồ chí minh</city>
+      <country>việt nam</country>
+      <from>1/2016</from>
+      <to>6/2016</to>
+    </n_821>
+    <n_822>
+      <id>822</id>
+      <title>nhân viên</title>
+      <level>1</level>
+      <cmpname>The Log Restaurant</cmpname>
+      <city>hồ chí minh</city>
+      <country>việt nam</country>
+      <from>6/2016</from>
+      <to>.../2016</to>
+    </n_822>
+  </experience>
+</information>

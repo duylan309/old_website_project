@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>525</id>
+    <ui>7788</ui>
+    <ci>430</ci>
+    <ai>0</ai>
+    <ti>Nhân viên phục vụ , pha chế</ti>
+    <ta/>
+    <le>1,2,5</le>
+    <ty>1,2,3</ty>
+    <ex>7</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>3000000</s1>
+    <s2>5000000</s2>
+    <s3>136</s3>
+    <s4>227</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description>– Lấy order từ khách hàng	\r\n– Ghi nhận thông tin order từ khách hàng phải rõ ràng, chính xác món ăn, số lượng, đơn vị tính..\r\n– Giới thiệu khách hàng các món ăn và đồ uống cho khách hàng	\r\n– Phục vụ khách hàng đồ ăn và uống.	\r\n– Làm đúng quy cách và phong cách phục vụ của nhà hàng.\r\n– Kiểm tra các món ăn trước khi phục vụ khách	\r\n– Phục vụ đúng bàn, đúng món ăn, đủ số lượng, đúng thứ tự\r\n– Dọn dẹp bàn ăn và thay đồ mới cho khách	\r\n– Sẵn sàng trả lời và giải đáp mọi thắc mắc của khách hàng</description>
+    <requirement>Có ngoại hình là một lợi thế, chăm chỉ nhiệt tình ham học hỏi, có kinh nghiệm làm việc trong các nhà hàng.</requirement>
+    <workhour/>
+    <benefit>- Mức lương: 15.000/h + phụ cấp bữa ăn 1 ca +Tip nếu làm tốt\r\n- Mức lương tăng theo thời gian làm việc và năng lực.(chỗ này em có thể để lương 3-5tr)\r\n- Được làm việc trong môi trường tốt, có khả năng trau dồi kỹ năng.\r\n- Nhận nhiều đãi ngộ + tăng lương ngày lễ tết</benefit>
+    <keyword>Trung thực</keyword>
+    <ad/>
+    <location_id>381</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-10</de>
+    <re>0000-00-00</re>
+    <cr>1477458971</cr>
+  </db>
+  <more>
+    <requirement>Có ngoại hình là một lợi thế, chăm chỉ nhiệt tình ham học hỏi, có kinh nghiệm làm việc trong các nhà hàng.</requirement>
+    <description>– Lấy order từ khách hàng	&#13;
+– Ghi nhận thông tin order từ khách hàng phải rõ ràng, chính xác món ăn, số lượng, đơn vị tính..&#13;
+– Giới thiệu khách hàng các món ăn và đồ uống cho khách hàng	&#13;
+– Phục vụ khách hàng đồ ăn và uống.	&#13;
+– Làm đúng quy cách và phong cách phục vụ của nhà hàng.&#13;
+– Kiểm tra các món ăn trước khi phục vụ khách	&#13;
+– Phục vụ đúng bàn, đúng món ăn, đủ số lượng, đúng thứ tự&#13;
+– Dọn dẹp bàn ăn và thay đồ mới cho khách	&#13;
+– Sẵn sàng trả lời và giải đáp mọi thắc mắc của khách hàng</description>
+    <workhour>4pm-10pm</workhour>
+    <benefit>- Mức lương: 15.000/h + phụ cấp bữa ăn 1 ca +Tip nếu làm tốt&#13;
+- Mức lương tăng theo thời gian làm việc và năng lực.(chỗ này em có thể để lương 3-5tr)&#13;
+- Được làm việc trong môi trường tốt, có khả năng trau dồi kỹ năng.&#13;
+- Nhận nhiều đãi ngộ + tăng lương ngày lễ tết</benefit>
+    <keyword>Trung thực</keyword>
+  </more>
+  <userapplied>
+    <total>2</total>
+    <strui>3268,3652</strui>
+  </userapplied>
+</information>

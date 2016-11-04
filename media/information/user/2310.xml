@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2310</id>
+      <email>minhquantv96@gmail.com</email>
+      <username/>
+      <name>Lê Minh Quân</name>
+      <im>1802460286657415_minh-quan.jpg</im>
+      <gender>1</gender>
+      <dob>1995-1-25</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1473391542</created>
+      <day>25</day>
+      <month>1</month>
+      <year>1995</year>
+      <last_signin>1473391542</last_signin>
+      <phone>01627954868</phone>
+      <address>422 Chung cư An hòa 1, Trần  Trọng Cung, P.Tan Thuan Dong, Q.7</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>2310</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>2</experience>
+      <category>14,15,17,27,29,31,35</category>
+      <type>2,6</type>
+      <level>2</level>
+      <lang>en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about></about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

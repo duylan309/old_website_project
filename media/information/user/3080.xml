@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3080</id>
+      <email>longth.tran28@gmail.com</email>
+      <username/>
+      <name>Trần Hoàng Long</name>
+      <im>1091778667602277_tran-hoang-long.jpg</im>
+      <gender>1</gender>
+      <dob>1993-11-28</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474257192</created>
+      <day>28</day>
+      <month>11</month>
+      <year>1993</year>
+      <last_signin>1474257192</last_signin>
+      <phone>0902938246</phone>
+      <address>2 đỗ quang đẩu , phường phạm ngũ lão , quận 1</address>
+      <country>vn</country>
+      <city/>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <savedjob>
+    <total>7</total>
+    <strjo>157,255,141,124,174,166,202</strjo>
+  </savedjob>
+  <user_cv>
+    <db>
+      <ui>3080</ui>
+      <title>Assistant General Manager</title>
+      <experience>2</experience>
+      <category>35</category>
+      <type>1</type>
+      <level>3</level>
+      <lang>vi</lang>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <about>Dễ thương , vui vẻ , hòa đồng , chịu khó trong công việc , cẩn thận , tỉ mỉ trong công việc </about>
+      <skill>Giao tiếp tốt , có khả năng lãnh đạo , sắp xếp công việc tốt , chịu được môi trường làm việc áp lực cao</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <experience>
+    <n_687>
+      <id>687</id>
+      <title>257 Trần Hưng Đạo , Quận 1</title>
+      <level>1</level>
+      <cmpname>Mylife Coffee</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>2015</to>
+    </n_687>
+    <n_688>
+      <id>688</id>
+      <title>48 Đồng Khởi , Quận 1</title>
+      <level>1</level>
+      <cmpname>KhanhCaSa TeaHouse</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>2016</to>
+    </n_688>
+    <n_689>
+      <id>689</id>
+      <title>11B Nguyễn Bỉnh Khiêm , Quận 1</title>
+      <level>1</level>
+      <cmpname>Vuvuzela</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2013</from>
+      <to>2014</to>
+    </n_689>
+  </experience>
+  <appliedjob>
+    <total>2</total>
+    <strjo>202,174</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2543</id>
+      <email>Hiroheronguyen@yahoo.com</email>
+      <username/>
+      <name>Nguyễn quốc khánh</name>
+      <im>1473652296_nguyen-quoc-khanh.png</im>
+      <gender>1</gender>
+      <phone>0902905828</phone>
+      <address>436/52 Cmt8 F11 Q3</address>
+      <city>30</city>
+      <dob>1993-10-31</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473652296</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>31</day>
+      <month>10</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.784708</lat>
+      <lng>106.671023</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Bếp/Phụ Bếp</title>
+      <experience>1</experience>
+      <category>14,15,18,20</category>
+      <type>1,4</type>
+      <level>2,5</level>
+      <lang>vi,en</lang>
+      <skill>Giao tiếp,học hỏi,cố gắng giải quyết vấn đề liên quan đến công việc.</skill>
+      <ui>2543</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Ham học hỏi,muốn va chạm đối với công việc cũng như xã hội ở nhiều khía cạnh để nâng cao tay nghề,trình đô và trở thành con người có trách nhiệm với bản thân cũng như những người xung quanh.</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>188</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>188</strjo>
+  </savedjob>
+  <experience>
+    <n_565>
+      <id>565</id>
+      <title>Phục Vụ/Bếp/Phụ Bếp</title>
+      <level>1</level>
+      <cmpname>Nhà Hàng Kishin/SushiKin,....</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>Năm 2013</from>
+      <to>Năm 2015</to>
+    </n_565>
+  </experience>
+</information>

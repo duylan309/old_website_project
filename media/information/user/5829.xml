@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5829</id>
+      <email>lovdabaobao@gmail.com</email>
+      <username/>
+      <name>Châu Bảo Truong Thi</name>
+      <im>967582966720199_chau-bao-truong-thi.jpg</im>
+      <gender>2</gender>
+      <dob>1998-6-26</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476201925</created>
+      <day>26</day>
+      <month>6</month>
+      <year>1998</year>
+      <phone>01869081121</phone>
+      <address>169/20 Trần Văn Đang, quận 3, Tp.HCM</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7335118</lat>
+      <lng>106.6974634</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,19,27,36</category>
+      <type>5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Biết cắm hoa, dọn dẹp, sơ chế thức ăn, biết trang trí - DIY, nhanh nhẹn, vui vẻ, dễ thích nghi.</skill>
+      <ui>5829</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>6</total>
+    <strjo>371,100,276,391,296,84</strjo>
+  </appliedjob>
+</information>

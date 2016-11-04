@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7753</id>
+      <email>tr4i_t0@yahoo.com.vn</email>
+      <username/>
+      <name>Nguyễn Duy Hiền</name>
+      <im>1671757306174528_nguyen-duy-hien.jpg</im>
+      <gender>1</gender>
+      <dob>1994-9-1</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1477442627</created>
+      <day>1</day>
+      <month>9</month>
+      <year>1994</year>
+      <last_signin>1477442627</last_signin>
+      <phone>01673589041</phone>
+      <address>80/39 lưu chí hiếu. Phường tây thạnh. quận tân phú</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8131775</lat>
+      <lng>106.625764</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>7753</ui>
+      <title>Nhân viên bếp nướng.</title>
+      <experience>3</experience>
+      <category>14,17,18,20,28</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>4500000</s1>
+      <salary>1</salary>
+      <about>Đã hoàn thành 2 năm học tại saigontourist. Làm thêm tại quán nhậu 1 năm </about>
+      <skill>Quay heo sữa. Gà nướng vịt nướng</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>183</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>183</strjo>
+  </savedjob>
+</information>

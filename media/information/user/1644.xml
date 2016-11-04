@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1644</id>
+      <email>thanh.ln@hungdongxanh.com</email>
+      <username/>
+      <name>CÔNG TY TNHH MTV HỪNG ĐÔNG XANH</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0909317771</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1472700248</created>
+      <dayleft>1475292248</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1472700248</last_signin>
+      <jobleft>2</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>3</total>
+    <strji>225,226,227</strji>
+  </totalJob>
+</information>

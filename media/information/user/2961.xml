@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2961</id>
+      <email>Danghung240314@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Thanh Thủy</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01286231410</phone>
+      <address>74 Trương Vĩnh Ký, p. Tân Thành, q. Tân Phú </address>
+      <city>30</city>
+      <dob>1988-8-4</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474112054</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>4</day>
+      <month>8</month>
+      <year>1988</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7946115</lat>
+      <lng>106.6298469</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bếp.</title>
+      <experience>5</experience>
+      <category>14,19,20,31</category>
+      <type>4,6</type>
+      <level>2,3,4,5</level>
+      <lang>vi</lang>
+      <skill>Ham học hỏi có tinh thần trách nhiệm. </skill>
+      <ui>2961</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Vui vẻ, hoà đồng, ham học hỏi, có tinh thần cầu tiến. </about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>276,230,136</strjo>
+  </appliedjob>
+</information>

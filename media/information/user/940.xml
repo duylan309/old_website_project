@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>940</id>
+      <email>daothithuvy@gmail.com</email>
+      <username/>
+      <name>Đào Thị Thu Vy</name>
+      <im>940_12339664-1228185523858425-5691306764675590066-o-2-.jpg</im>
+      <gender>2</gender>
+      <phone>0908065913</phone>
+      <address>416 Lê Văn Thọ, P.16, Q. Gò Vấp, Tp.HCM</address>
+      <city>30</city>
+      <dob>1989-7-13</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471452809</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>13</day>
+      <month>7</month>
+      <year>1989</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8279001</lat>
+      <lng>106.6695937</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>4</experience>
+      <category>15,29,30,36</category>
+      <type>2,4,5</type>
+      <level>2</level>
+      <lang>vi,ch</lang>
+      <skill/>
+      <ui>940</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <keyword>Trung thực,Tinh thần trách nhiệm,Tập trung trong công việc</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>26</total>
+    <strjo>130,150,193,202,222,221,247,215,267,294,301,219,351,318,252,371,372,402,400,393,333,478,262,504,518,517</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3824</id>
+      <email>phanthu2612@gmail.com</email>
+      <username/>
+      <name>PHAN THỊ KIỀU THƯ</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0937140736</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474870365</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên Pha chế</title>
+      <experience>2</experience>
+      <category>15</category>
+      <type>6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Kỹ năng làm việc nhóm, sắp xếp tổ chức công việc!</skill>
+      <ui>3824</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>240</strjo>
+  </appliedjob>
+</information>

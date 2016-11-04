@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6501</id>
+      <email>minhtamnt95@gmail.com</email>
+      <username/>
+      <name>Tâm Nguyễn</name>
+      <im>1839722599618310_tam-nguyen.jpg</im>
+      <gender>2</gender>
+      <dob>1995-12-17</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476640812</created>
+      <day>17</day>
+      <month>12</month>
+      <year>1995</year>
+      <last_signin>1476640812</last_signin>
+      <phone>01655050052</phone>
+      <address>66/3 đường số 7 gò vấp</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.853475</lat>
+      <lng>106.662636</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6501</ui>
+      <title>Phục vụ; thu ngan; pha chế</title>
+      <experience>1</experience>
+      <category>14,15</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Hiện tại đang theo học chuyên ngành nhà hàng khách sạn. </about>
+      <skill>Từng có kinh nghiệm làm phục vụ thu ngân pha chế ở Trung Nguyên Coffee</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>107,435,400,448</strjo>
+  </appliedjob>
+</information>

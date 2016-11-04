@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>997</id>
+      <email>vanphan14ddd03@gmail.com</email>
+      <username/>
+      <name>Vân Phan</name>
+      <im>875605905908502_van-phan.jpg</im>
+      <gender>2</gender>
+      <dob>1995-10-1</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471570436</created>
+      <day>1</day>
+      <month>10</month>
+      <year>1995</year>
+      <phone>01696640549</phone>
+      <address>56, Nguyễn Thị Thập, quận 7</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7378545</lat>
+      <lng>106.7269895</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_231>
+      <id>231</id>
+      <title>nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>khu  Foodsquare Vincom B</cmpname>
+      <city/>
+      <country/>
+      <from>05/2014</from>
+      <to>08/2014</to>
+    </n_231>
+    <n_232>
+      <id>232</id>
+      <title>nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>nhà hàng Hoàng Long (02 Lê Duẩn quận 1)</cmpname>
+      <city/>
+      <country/>
+      <from>04/2016</from>
+      <to>nay</to>
+    </n_232>
+  </experience>
+  <education>
+    <n_158>
+      <id>158</id>
+      <school>đại học Nguyễn Tất Thành</school>
+      <degrees>đại học</degrees>
+      <fieldofstudy>Điều dưỡng</fieldofstudy>
+      <from>2014</from>
+      <to>2018</to>
+    </n_158>
+  </education>
+  <user_cv>
+    <db>
+      <ui>997</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>7</experience>
+      <category>14,15,17,29,31,35</category>
+      <type>2,4,5,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>13000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <savedjob/>
+</information>

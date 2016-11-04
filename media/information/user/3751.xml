@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3751</id>
+      <email>nobita9632@yahoo.com</email>
+      <username/>
+      <name>Hiếu Siu Nhơn</name>
+      <im>715444735269209_hieu-siu-nhon.jpg</im>
+      <gender>1</gender>
+      <dob>1998-5-17</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474810133</created>
+      <day>17</day>
+      <month>5</month>
+      <year>1998</year>
+      <phone>01284567737</phone>
+      <address>44/21/2A Phan Xích Long P.16 Q.11</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.802103</lat>
+      <lng>106.682543</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>shipper</title>
+      <experience>7</experience>
+      <category>14,15,16,17,19</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>có khả năng chạy xe tốt, tay lái cứng</skill>
+      <ui>3751</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>320,267</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7526</id>
+      <email>Helenchung1997@gmail.com</email>
+      <username/>
+      <name>Chung Ánh Hồng</name>
+      <im/>
+      <gender>0</gender>
+      <phone>01203385197</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477298539</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,35</category>
+      <type>1,2,4</type>
+      <level>2</level>
+      <lang>vi,en,ch</lang>
+      <skill/>
+      <ui>7526</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>165</strjo>
+  </appliedjob>
+</information>

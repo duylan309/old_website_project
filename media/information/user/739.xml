@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>739</id>
+      <email>Ngoctram170101@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Ngọc Trâm</name>
+      <im>739_img-20160704-1.png</im>
+      <gender>2</gender>
+      <phone>0931310159</phone>
+      <address>133/1 , đường số 6 , phường Bình Trưng Tây , quận 2</address>
+      <city>30</city>
+      <dob>1995-1-17</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1470978529</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>17</day>
+      <month>1</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7845993</lat>
+      <lng>106.7613406</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Bán hàng</title>
+      <experience>2</experience>
+      <category>17,29,31,35</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Tiếng Anh , thuyết phục khách hàng , giải quyết tình huống.</skill>
+      <ui>739</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>7</total>
+    <strjo>140,201,226,340,386,273,95</strjo>
+  </appliedjob>
+  <experience>
+    <n_159>
+      <id>159</id>
+      <title>Nhân viên bán hàng</title>
+      <level>1</level>
+      <cmpname>B’smart</cmpname>
+      <city>Tphcm</city>
+      <country>Việt Nam</country>
+      <from>12-02-2016</from>
+      <to>01-08-2016</to>
+    </n_159>
+  </experience>
+</information>

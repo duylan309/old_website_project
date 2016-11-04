@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6150</id>
+      <email>nhungo0852@gmail.com</email>
+      <username/>
+      <name>NGÔ HUỲNH NHƯ</name>
+      <im>6150_img-20151117-223519.jpg</im>
+      <gender>2</gender>
+      <phone>0936878308</phone>
+      <address>75/20/3 An Phú Đông 9, phường An Phú Đông, quận 12</address>
+      <city>30</city>
+      <dob>1993-8-25</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476382182</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476382182</last_signin>
+      <deactive>1</deactive>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <day>25</day>
+      <month>8</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8580053</lat>
+      <lng>106.6885593</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>6150</ui>
+      <deactive>1</deactive>
+      <title>Nhân viên phục vụ (học việc pha chế), cashier,</title>
+      <experience>1</experience>
+      <category>14,15,16,18,19,20,26,31</category>
+      <type>4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <about>Thích nghi nhanh với môi trường làm việc, siêng năng, ham học hỏi</about>
+      <skill>thành thạo Microsoft Office&#13;
+anh văn giao tiếp căn bản</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <experience>
+    <n_1>
+      <id>1</id>
+      <title>nhân viên chăm sóc khách hàng Nestle</title>
+      <level>1</level>
+      <cmpname>Focus Asia</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>07/2015</from>
+      <to>11/2015</to>
+    </n_1>
+  </experience>
+  <education>
+    <n_1308>
+      <id>1308</id>
+      <school>THPT Hoàng Lê Kha</school>
+      <degrees>Tốt nghiệp phổ thông</degrees>
+      <fieldofstudy/>
+      <from>2008</from>
+      <to>2011</to>
+    </n_1308>
+  </education>
+</information>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>434</id>
+    <ui>5687</ui>
+    <ci>395</ci>
+    <ai>0</ai>
+    <ti>[TPHCM] Nhân Viên Thời Vụ - Dairy Queen Khu Vực Quận 12</ti>
+    <ta/>
+    <le>1,2</le>
+    <ty>1,2,4,5,6</ty>
+    <ex>1,7</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>3000000</s1>
+    <s2>4000000</s2>
+    <s3>136</s3>
+    <s4>181</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>14,15,16,27,29,35</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description>- Lấy order, giới thiệu các món ăn và đồ uống cho khách hàng\r\n- Phục vụ đồ ăn và uống, kiểm tra các món ăn trước khi phục vụ khách\r\n- Sẵn sàng trả lời và giải đáp mọi thắc mắc của khách hàng\r\n- Chi tiết hơn sẽ trao đổi khi phỏng vấn trực tiếp</description>
+    <requirement>- Tốt nghiệp THPT hoặc tương đương\r\n- Siêng năng, trung thực, yêu thích công việc phục vụ nhà hàng\r\n- Ưu tiên làm việc vào các ngày cuối tuần, Lễ, Tết\r\n- Ưu tiên ứng viên có kinh nghiệm trong chuỗi nhà hàng\r\n- Trao đổi trực tiếp tại nhà hàng Grill And Chill Pasteur. </requirement>
+    <benefit>- Làm việc trong môi trường trẻ trung, năng động\r\n- Có nhiều cơ hội thăng tiến\r\n- Thời gian làm việc linh động (theo ca)\r\n- Được tập huấn thường xuyên về sản phẩm và nghiệp vụ\r\n- Lương chính thức: 19.000/giờ</benefit>
+    <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Trung thực,Kỹ năng giải quyết tình huống,Tự tin,Nhiệt tình,Tập trung trong công việc</keyword>
+    <ad/>
+    <location_id>309</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-30</de>
+    <re>0000-00-00</re>
+    <cr>1476873089</cr>
+  </db>
+  <more>
+    <requirement>- Tốt nghiệp THPT hoặc tương đương&#13;
+- Siêng năng, trung thực, yêu thích công việc phục vụ nhà hàng&#13;
+- Ưu tiên làm việc vào các ngày cuối tuần, Lễ, Tết&#13;
+- Ưu tiên ứng viên có kinh nghiệm trong chuỗi nhà hàng&#13;
+- Trao đổi trực tiếp tại nhà hàng Grill And Chill Pasteur. </requirement>
+    <description>- Lấy order, giới thiệu các món ăn và đồ uống cho khách hàng&#13;
+- Phục vụ đồ ăn và uống, kiểm tra các món ăn trước khi phục vụ khách&#13;
+- Sẵn sàng trả lời và giải đáp mọi thắc mắc của khách hàng&#13;
+- Chi tiết hơn sẽ trao đổi khi phỏng vấn trực tiếp</description>
+    <benefit>- Làm việc trong môi trường trẻ trung, năng động&#13;
+- Có nhiều cơ hội thăng tiến&#13;
+- Thời gian làm việc linh động (theo ca)&#13;
+- Được tập huấn thường xuyên về sản phẩm và nghiệp vụ&#13;
+- Lương chính thức: 19.000/giờ</benefit>
+    <keyword>Giao tiếp hiệu quả,Kỹ năng chăm sóc khách hàng,Trung thực,Kỹ năng giải quyết tình huống,Tự tin,Nhiệt tình,Tập trung trong công việc</keyword>
+  </more>
+  <userapplied>
+    <total>39</total>
+    <strui>5318,5991,5998,3141,6162,6221,4206,6280,1546,3424,6416,6451,6533,6598,6700,6753,6778,6881,6956,6875,6979,6399,6985,6993,5180,7015,5811,7230,6049,7468,7491,7586,5954,7769,7786,7915,8080,8082,8123</strui>
+  </userapplied>
+</information>

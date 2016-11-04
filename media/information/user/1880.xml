@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1880</id>
+      <email>tatbadatsabeco@gmail.com</email>
+      <username/>
+      <name>Tất Bá Đạt</name>
+      <im/>
+      <gender>1</gender>
+      <phone>0908026235</phone>
+      <address>303/18a Bến Vân Đồn, P.2, Q.4, TP.HCM</address>
+      <city>30</city>
+      <dob>1980-4-6</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473044322</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>6</day>
+      <month>4</month>
+      <year>1980</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7764745</lat>
+      <lng>106.7008831</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>2,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Kỹ năng giao tiếp, hiểu tâm lý khách hàng, Kỹ năng chăm sóc khách hàng</skill>
+      <ui>1880</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <keyword>Kỹ năng chăm sóc khách hàng,Kỹ năng giải quyết tình huống</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>224</strjo>
+  </appliedjob>
+</information>

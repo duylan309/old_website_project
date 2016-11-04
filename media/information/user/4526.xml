@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4526</id>
+      <email>anadoan1995@gmail.com</email>
+      <username/>
+      <name>đoàn thị lan anh</name>
+      <im>1475249824_doan-thi-lan-anh.png</im>
+      <gender>2</gender>
+      <phone>01237830399</phone>
+      <address>45/5 phạm viết chánh,p.nguyễn cư trinh,quận 1</address>
+      <city>30</city>
+      <dob>1995-5-9</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475249824</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>9</day>
+      <month>5</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7666229</lat>
+      <lng>106.684427</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ </title>
+      <experience>1</experience>
+      <category>15</category>
+      <type>5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>giao tiếp mình cũng khá  chỉ là anh văn không nói đươc nhieu</skill>
+      <ui>4526</ui>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>mình tên đoàn thị lan anh,năm nay 21 tuổi,đang học năm 2 tại trường cao đẳng ladec,học nghành kế toán,mình hòa đồng với mọi người.Vì bận học không có thời gian nhiều nên mình mong muốn kiếm đươc giờ ổn định để minh làm việc lâu dài và học thêm nhiều kỹ năng mới hơn trong công việc</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>222,294</strjo>
+  </appliedjob>
+  <experience>
+    <n_958>
+      <id>958</id>
+      <title>phuc vụ</title>
+      <level>1</level>
+      <cmpname>cafe rita võ</cmpname>
+      <city>hcm</city>
+      <country>viet nam</country>
+      <from>10/3/2015</from>
+      <to>10/3/2016</to>
+    </n_958>
+  </experience>
+</information>

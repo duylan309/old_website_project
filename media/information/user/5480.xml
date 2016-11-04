@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5480</id>
+      <email>Ndphungg@gmail.com</email>
+      <username/>
+      <name>Nguyễn  Đình Phùng</name>
+      <im>5480_fb-img-1473674746502.jpg</im>
+      <gender>1</gender>
+      <dob>1996-6-21</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476006058</created>
+      <day>21</day>
+      <month>6</month>
+      <year>1996</year>
+      <last_signin>1476006058</last_signin>
+      <phone>0985800477</phone>
+      <address>205/8 Phạm Văn Chiêu, phường 16, quận Gò Vấp</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8501979</lat>
+      <lng>106.6526677</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>5480</ui>
+      <title>Nhân viên phục vụ, nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>15,17,29,35</category>
+      <type>2,4</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <about>Là người hòa đồng, dễ gần, muốn tìm việc làm nâng cao các kĩ năng cá nhân</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+</information>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7845</id>
+      <email>hanh.nguyenthihong.lss@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Hồng Hạnh</name>
+      <im>1477485068_nguyen-thi-hong-hanh.png</im>
+      <gender>2</gender>
+      <phone>0938064101</phone>
+      <address>156/20 đường số 23 phường 5 quận Gò Vấp</address>
+      <city>30</city>
+      <dob>1995-2-2</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477485068</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>2</day>
+      <month>2</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8367521</lat>
+      <lng>106.6894736</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên tư vấn bán hàng</title>
+      <experience>7</experience>
+      <category>17</category>
+      <type>6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill></skill>
+      <ui>7845</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Nhiệt tình, hoà đồng, hoạt bát, ham học hỏi.</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>408</strjo>
+  </appliedjob>
+</information>

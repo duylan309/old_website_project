@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>959</id>
+      <email>dung.lt4780@sinhvien.hoasen.edu.vn</email>
+      <username/>
+      <name>Lương Dung</name>
+      <im>1808566579377037_luong-dung.jpg</im>
+      <gender>2</gender>
+      <dob>1993-10-15</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1471497311</created>
+      <day>15</day>
+      <month>10</month>
+      <year>1993</year>
+      <phone>0165711299</phone>
+      <address>14/1/4 văn chung, tân bình, hồ chí minh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8075551</lat>
+      <lng>106.6465575</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>959</ui>
+      <title>Bartender</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>6</type>
+      <level>2</level>
+      <lang>en</lang>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <skill>có kinh nghiệp phuc vụ nhà hàng FIne Dining, có kiến thức căn bản về các loại đồ uống, beer, cocktail, spirit, vang. Kỹ năng giao tiếp tốt, nhanh nhẹn, hoạt bát. Dễ hòa nhập thân thiện với đồng nghiêp.</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

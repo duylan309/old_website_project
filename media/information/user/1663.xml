@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1663</id>
+      <email>thienngan2126@gmail.com</email>
+      <username/>
+      <name>Lý Thiên Ngân</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01222169269</phone>
+      <address/>
+      <city/>
+      <dob>1993-11-26</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472721526</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>26</day>
+      <month>11</month>
+      <year>1993</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế (barista/bartender); bếp; giám sát ca; trợ lý quản lý</title>
+      <experience>2</experience>
+      <category>14,15,16,19,28</category>
+      <type>1,4</type>
+      <level>3,4</level>
+      <lang>vi,kr</lang>
+      <skill>- Quản lý, training (từng làm Giám sát bán hàng và phó barista, bếp bbq Nhật)&#13;
+- Giữ bình tĩnh tốt, tác phong chuyên nghiệp, đúng giờ, kỷ luật</skill>
+      <ui>1663</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>93,210,111</strjo>
+  </appliedjob>
+</information>

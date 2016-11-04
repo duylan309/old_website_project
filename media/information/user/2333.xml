@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2333</id>
+      <email>monglanhlh96@gmail.com</email>
+      <username/>
+      <name>Đặng Thị Mộng Lành</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01686774120</phone>
+      <address>Hà Huy Giáp</address>
+      <city>30</city>
+      <dob>1996-2-21</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473405369</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>21</day>
+      <month>2</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.878199</lat>
+      <lng>106.6779875</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>phụ bếp</title>
+      <experience>1</experience>
+      <category>14</category>
+      <type>4</type>
+      <level>1</level>
+      <lang>vi</lang>
+      <skill>có đam mê với nghề bếp</skill>
+      <ui>2333</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Vui vẽ, hòa đồng</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>138,188,177</strjo>
+  </appliedjob>
+  <experience>
+    <n_521>
+      <id>521</id>
+      <title>phụ bếp</title>
+      <level>1</level>
+      <cmpname>cowboy jack</cmpname>
+      <city>tphcm</city>
+      <country>Việt Nam</country>
+      <from>03/2016</from>
+      <to>07/2015</to>
+    </n_521>
+  </experience>
+  <education>
+    <n_368>
+      <id>368</id>
+      <school>thpt Diệp Minh Châu</school>
+      <degrees>12/12</degrees>
+      <fieldofstudy/>
+      <from>2010</from>
+      <to>1013</to>
+    </n_368>
+  </education>
+</information>

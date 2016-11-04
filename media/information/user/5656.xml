@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5656</id>
+      <email>khaivy1.18@gmail.com</email>
+      <username/>
+      <name>Phù Khải Vỹ</name>
+      <im>1065873356854204_tr-khai-vy.jpg</im>
+      <gender>1</gender>
+      <dob>1998-1-18</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1476118427</created>
+      <day>18</day>
+      <month>1</month>
+      <year>1998</year>
+      <last_signin>1476118427</last_signin>
+      <phone>01203343659</phone>
+      <address>A17/26J7 Quốc Lộ 50, Ấp 1, Xã Bình Hưng ,Huyện Bình Chánh</address>
+      <country>vn</country>
+      <city/>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <education>
+    <n_933>
+      <id>933</id>
+      <school>THPT Trần Hữu Trang</school>
+      <degrees>Tốt nghiệp THPT </degrees>
+      <fieldofstudy/>
+      <from>2012</from>
+      <to>2016</to>
+    </n_933>
+  </education>
+  <user_cv>
+    <db>
+      <ui>5656</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>7</experience>
+      <category>14,15,17,29,31,35</category>
+      <type>2,5,6</type>
+      <level>1,2</level>
+      <lang>vi</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Em tên Phù Khải Vỹ ,hiện là sinh viên trường Đại Học Mở. Em muốn có một công viên để phụ giúp chi tiêu trong gia đình, cũng như học tập thích ứng với xã hội</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>5</total>
+    <strjo>154,262,214,350,221</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>311</strjo>
+  </savedjob>
+</information>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1664</id>
+      <email>vntt76@gmail.com</email>
+      <username/>
+      <name>Võ Ngọc Thùy Trâm</name>
+      <im>1664_1.jpg</im>
+      <gender>2</gender>
+      <phone>0906097149</phone>
+      <address>A303. Chung cư Phạm Viết Chánh. Phường 19. Quận Bình Thạnh</address>
+      <city>30</city>
+      <dob>1995-6-7</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472721812</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1472721812</last_signin>
+      <day>7</day>
+      <month>6</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7901992</lat>
+      <lng>106.7110508</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>1664</ui>
+      <title>Nhân viên phục vụ</title>
+      <experience>2</experience>
+      <category>14,15,18,20</category>
+      <type>2,3,5,6</type>
+      <level>1,2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword/>
+      <about>As a senior whose major is Hotel Management, I want to pursue my career in Hospitality Industry. I have almost two years working in restaurants, and I am now seeking a similar position where I am able to provide prompt and courteous to the customer.</about>
+    </db>
+  </user_cv>
+  <experience>
+    <n_358>
+      <id>358</id>
+      <title>Cashier</title>
+      <level>1</level>
+      <cmpname>Popeyes Lousiana Chicken</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>12/2014</from>
+      <to>02/2016</to>
+    </n_358>
+    <n_360>
+      <id>360</id>
+      <title>Food Runner</title>
+      <level>1</level>
+      <cmpname>Sorae Sushi Sake Lounge</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>02/2016</from>
+      <to>08/2016</to>
+    </n_360>
+  </experience>
+  <education>
+    <n_258>
+      <id>258</id>
+      <school>Đại học Tài Chính - Marketing</school>
+      <degrees/>
+      <fieldofstudy>Quản trị khách sạn</fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_258>
+  </education>
+  <appliedjob>
+    <total>2</total>
+    <strjo>199,279</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1394</id>
+      <email>lelykhanhkim@gmail.com</email>
+      <username/>
+      <name>Lê Lý Khánh Kim</name>
+      <im>1394_image.jpeg</im>
+      <gender>2</gender>
+      <phone>0972324602</phone>
+      <address>43G10, DD4, khu dân cư An Sương, phường Tân Hưng Thuận, quận 12</address>
+      <city>30</city>
+      <dob>1994-8-12</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472226868</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>12</day>
+      <month>8</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8384209</lat>
+      <lng>106.6217623</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên hành chính, nhân viên phát triển sản phẩm mới</title>
+      <experience>7</experience>
+      <category>14,29,31</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Anh văn TOEIC 480&#13;
+Tin học trình độ B, thành thạo tin học văn phòng</skill>
+      <ui>1394</ui>
+      <s1>6000000</s1>
+      <salary>1</salary>
+      <keyword>Nhiệt tình,Tinh thần làm việc nhóm,Giao tiếp hiệu quả,Tự tin</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>147</strjo>
+  </appliedjob>
+  <education>
+    <n_224>
+      <id>224</id>
+      <school>Đại học Công nghiệp thực phẩm TPHCM</school>
+      <degrees>Đại học</degrees>
+      <fieldofstudy>Công nghệ thực phẩm</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_224>
+  </education>
+</information>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6809</id>
+      <email>Nhibluee103@gmail.com</email>
+      <username/>
+      <name>Trần Yến Nhi</name>
+      <im>1476869665_tran-yen-nhi.png</im>
+      <gender>0</gender>
+      <phone>0974804601</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476869665</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Pha chế</title>
+      <experience>7</experience>
+      <category>14,15,19,35</category>
+      <type>4</type>
+      <level>1,2</level>
+      <lang>vi</lang>
+      <skill>Pha chế rượu</skill>
+      <ui>6809</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>222</strjo>
+  </appliedjob>
+</information>

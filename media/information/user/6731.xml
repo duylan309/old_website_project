@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6731</id>
+      <email>Letrucquyen79@gmail.com</email>
+      <username/>
+      <name>Lê trúc quyên</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0937073818</phone>
+      <address>180 xô viết nghệ tĩnh, p.21, q. Bình thạnh</address>
+      <city>30</city>
+      <dob>1991-4-25</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476811359</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476811359</last_signin>
+      <day>25</day>
+      <month>4</month>
+      <year>1991</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8093394</lat>
+      <lng>106.7120722</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1350>
+      <id>1350</id>
+      <title>Thư ký</title>
+      <level>1</level>
+      <cmpname>Tnhh sx bao bì kim loại và in trên kim loại</cmpname>
+      <city>Hcm</city>
+      <country>Việt nam</country>
+      <from>8/2013</from>
+      <to>9/2016</to>
+    </n_1350>
+  </experience>
+  <education>
+    <n_1111>
+      <id>1111</id>
+      <school>Đh phan thiết </school>
+      <degrees>Đại học </degrees>
+      <fieldofstudy>Quản trị kinh doanh</fieldofstudy>
+      <from>10/2009</from>
+      <to>07/2013</to>
+    </n_1111>
+  </education>
+  <user_cv>
+    <db>
+      <ui>6731</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>7</experience>
+      <category>14</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Vui vẻ,  hòa đồng, chăm chỉ trong công việc </about>
+      <skill>Kỹ năng giao tiếp </skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

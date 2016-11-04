@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7656</id>
+      <email>sknung95@gmail.com</email>
+      <username/>
+      <name>nung sang kien</name>
+      <im/>
+      <gender>1</gender>
+      <phone>01674914155</phone>
+      <address>103/2b nguyen cu trinh</address>
+      <city></city>
+      <dob>1995-10-11</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477380758</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>11</day>
+      <month>10</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>batender</title>
+      <experience>1</experience>
+      <category>14,16,20</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>pha che ruou cooctailk sinh to cafe </skill>
+      <ui>7656</ui>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>e ten kien 21 tuoi da co kinh nghiem ve pha che ruou cootailk sinh to cafe co the giao tiep bang tieng anh </about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>111</strjo>
+  </appliedjob>
+  <experience>
+    <n_1499>
+      <id>1499</id>
+      <title>phuc vu</title>
+      <level>1</level>
+      <cmpname>restaurant and bar misssaigon</cmpname>
+      <city>ho chi minh </city>
+      <country>viet nam </country>
+      <from>9/2015</from>
+      <to>2/2016</to>
+    </n_1499>
+    <n_1500>
+      <id>1500</id>
+      <title>bartender</title>
+      <level>1</level>
+      <cmpname>restaurant and bar allezboo</cmpname>
+      <city>ho chi minh </city>
+      <country>viet nam </country>
+      <from>2/2016</from>
+      <to>nay</to>
+    </n_1500>
+  </experience>
+  <education>
+    <n_1247>
+      <id>1247</id>
+      <school>vietnam australia advancsd college of hotel management</school>
+      <degrees>gioi</degrees>
+      <fieldofstudy>batender</fieldofstudy>
+      <from>19/12/2015</from>
+      <to>30/1/2016</to>
+    </n_1247>
+  </education>
+</information>

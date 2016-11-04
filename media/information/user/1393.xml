@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1393</id>
+      <email>congchuadabanh812@yahoo.com</email>
+      <username/>
+      <name>Lê Nhật Thảo </name>
+      <im>1206802699382683_co-mat-troi.jpg</im>
+      <gender>2</gender>
+      <dob>1993-12-8</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472225425</created>
+      <day>8</day>
+      <month>12</month>
+      <year>1993</year>
+      <last_signin>1472225425</last_signin>
+      <phone>01647899783</phone>
+      <address>74 Dương Đình Hội , p.Phước Long B Q9 HCM </address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.825928</lat>
+      <lng>106.778222</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>1393</ui>
+      <title>Nhân viên hoàn thiện món tráng miệng, nhân viên pha chế</title>
+      <experience>7</experience>
+      <category>14,15,16,17,18,19,27,28,29,31,35</category>
+      <type>2,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Tinh thần trách nhiệm,Tập trung trong công việc,Chịu được áp lực công việc,Trung thực,Tự tin,Nhiệt tình,Tinh thần làm việc nhóm,Giao tiếp hiệu quả</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>181</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>181</strjo>
+  </savedjob>
+</information>

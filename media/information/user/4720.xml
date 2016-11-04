@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4720</id>
+      <email>phuonghoangprodtk888@gmail.com</email>
+      <username/>
+      <name>Hoàng Thị Ngọc Phượng</name>
+      <im>4720_14390708-597720970410045-8145932758932320643-n.jpg</im>
+      <gender>2</gender>
+      <phone>01662322893</phone>
+      <address>160/43 đường Vườn Lài, phường Tân Thành, quận Tân Phú</address>
+      <city>30</city>
+      <dob>1997-9-9</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475466582</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>9</day>
+      <month>9</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7881856</lat>
+      <lng>106.6294798</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>15,17,27,31</category>
+      <type>2,4,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>kỹ năng sử dụng máy tính, làm việc nhóm, thích nghi nhanh</skill>
+      <ui>4720</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>Hòa đồng, vui vẻ, dễ tính, có trách nhiệm, nhiệt tình, sạch sẽ</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>221,154</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>1</total>
+    <strjo>221</strjo>
+  </savedjob>
+  <education>
+    <n_786>
+      <id>786</id>
+      <school>Đại Học Mở Thành Phố Hồ Chí Minh</school>
+      <degrees>Sinh viên năm 2</degrees>
+      <fieldofstudy>Tài Chính Ngân Hàng</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_786>
+  </education>
+  <experience>
+    <n_991>
+      <id>991</id>
+      <title>Nhân viên đăng tải sản phẩm và chăm sóc khách hàng</title>
+      <level>1</level>
+      <cmpname>Newshop.vn</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>5/2015</from>
+      <to>9/2016</to>
+    </n_991>
+  </experience>
+</information>

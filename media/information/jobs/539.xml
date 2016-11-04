@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>539</id>
+    <ui>7802</ui>
+    <ci>431</ci>
+    <ai>0</ai>
+    <ti>Thợ bếp Việt</ti>
+    <ta></ta>
+    <le>2</le>
+    <ty>1,4</ty>
+    <ex>2</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>5000000</s1>
+    <s2>7000000</s2>
+    <s3>227</s3>
+    <s4>318</s4>
+    <lo>30</lo>
+    <co>vn</co>
+    <ca>31</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi</la>
+    <description></description>
+    <requirement></requirement>
+    <workhour></workhour>
+    <benefit></benefit>
+    <keyword></keyword>
+    <ad></ad>
+    <location_id>385</location_id>
+    <lat>10.825847</lat>
+    <lng>10.825847</lng>
+    <de>2016-11-10</de>
+    <re>0000-00-00</re>
+    <cr>1477624328</cr>
+  </db>
+  <more>
+    <requirement>Học vấn: Tốt nghiệp trên 9/12&#13;
+Kinh nghiệm: Trên 1 năm kinh nghiệm làm thợ bếp&#13;
+Yêu cầu khác:&#13;
+•	Thành thạo kỹ thuật và hiểu biết về sản phẩm&#13;
+•	Hiểu biết về các quy tắc làm việc sau quá trình đào tạo&#13;
+•	Kiến thức về an toàn vệ sinh thực phẩm và an ninh&#13;
+•	Khả năng ngoại giao tốt, thái độ tốt&#13;
+•	Sạch sẽ, vệ sinh, đúng giờ&#13;
+•	Sức khỏe tốt&#13;
+</requirement>
+    <description>•	Chuẩn bị quầy theo sự chỉ thị của cấp trên.&#13;
+•	Sắp đặt và thay đổi bảng giá hàng hoá.&#13;
+•	Bảo trì - vệ sinh quầy và các trang thiết bị phục vụ bán hàng.&#13;
+•	Tuân thủ các điều luật về vệ sinh an toàn thực phẩm và an ninh. &#13;
+•	Quan hệ tốt với khách hàng.&#13;
+•	Tham gia vào các đợt kiểm kê hàng hoá định kỳ.</description>
+    <workhour>8,5 tiếng/ngày, 6 ngày/tuần, ca xoay</workhour>
+    <benefit>&#13;
+- Theo Luật Lao động hiện hành của nhà nước Việt Nam&#13;
+- Chế độ BHXH&#13;
+- Bảo hiểm Tai Nạn&#13;
+- Khám sức khỏe định kỳ&#13;
+- Được hưởng lương tháng 13&#13;
+- Cùng các chế độ khác theo quy định của công ty</benefit>
+    <keyword></keyword>
+  </more>
+</information>

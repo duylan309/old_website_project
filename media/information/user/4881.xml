@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4881</id>
+      <email>nganvu421@gmail.com</email>
+      <username/>
+      <name>Vũ Thúy Nga</name>
+      <im/>
+      <gender>2</gender>
+      <phone>0937006393</phone>
+      <address>Gò Vấp</address>
+      <city>30</city>
+      <dob>1994-8-19</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475566001</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1475566001</last_signin>
+      <day>19</day>
+      <month>8</month>
+      <year>1994</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8386779</lat>
+      <lng>106.6652904</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1020>
+      <id>1020</id>
+      <title>Sourcer</title>
+      <level>1</level>
+      <cmpname>Glandore Systems</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2015</from>
+      <to>Hiện tại</to>
+    </n_1020>
+    <n_1021>
+      <id>1021</id>
+      <title>Barista</title>
+      <level>1</level>
+      <cmpname>Caffe Bene</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>2015</to>
+    </n_1021>
+    <n_1022>
+      <id>1022</id>
+      <title>Supervisor + Barista</title>
+      <level>1</level>
+      <cmpname>Pet Me Coffee</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>2014</from>
+      <to>2015</to>
+    </n_1022>
+  </experience>
+  <education>
+    <n_816>
+      <id>816</id>
+      <school>Cao Đẳng Thực Hành FPT </school>
+      <degrees>Cao đẳng</degrees>
+      <fieldofstudy>Quản lý doanh nghiệp - Marketing</fieldofstudy>
+      <from>2012</from>
+      <to>2015</to>
+    </n_816>
+  </education>
+  <user_cv>
+    <db>
+      <ui>4881</ui>
+      <title>Thu ngân, pha chế</title>
+      <experience>1</experience>
+      <category>14,15,17,29,31,35,36</category>
+      <type>2,4,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>Năng động - Chịu được áp lực công việc - Hoạt bát - Tiếp thu tốt &#13;
+Profile: https://www.linkedin.com/in/ngavt</about>
+      <skill>#barista #customerservice #msword #exel #communication #search #sourcing #socialmedia</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

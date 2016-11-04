@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7591</id>
+      <email>tranngoctuquynh@gmail.com</email>
+      <username/>
+      <name>Trần Ngọc Tú Quỳnh</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0938473276</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1477317906</created>
+      <dayleft>1479909906</dayleft>
+      <jobleft>5</jobleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1477317906</last_signin>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>1</total>
+    <strji>518</strji>
+  </totalJob>
+  <saveuser>
+    <total>18</total>
+    <strui>7194,3834,3538,940,7806,4833,7891,7915,7932,7917,6399,7976,5107,4130,7792,3740,8078,8110</strui>
+  </saveuser>
+</information>

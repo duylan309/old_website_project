@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4566</id>
+      <email>babej_style182@yahoo.com.vn</email>
+      <username/>
+      <name>Trần Thị Thanh Loan</name>
+      <im>4566_c360-2016-08-29-19-50-36-550.jpg</im>
+      <gender>2</gender>
+      <dob>1997-2-18</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475305098</created>
+      <day>18</day>
+      <month>2</month>
+      <year>1997</year>
+      <last_signin>1475305098</last_signin>
+      <phone>0948963028</phone>
+      <address>331/5 ,đại lộ 3 ,phường phước long a q9 ,</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.813363</lat>
+      <lng>106.775153</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>4566</ui>
+      <title>nhân viên bán hàng , phục vụ</title>
+      <experience>1</experience>
+      <category>14,15,19,29,35</category>
+      <type>2,4,5</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>vui vẻ hòa đồng thích nghi tốt với môi trường làm việc</about>
+      <skill/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>9</total>
+    <strjo>221,353,278,84,199,348,301,205,172</strjo>
+  </appliedjob>
+</information>

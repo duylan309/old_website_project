@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1387</id>
+      <email>ngocque311095@gmail.com</email>
+      <username/>
+      <name>Ngocque Truong</name>
+      <im>1387_11.jpg</im>
+      <gender>2</gender>
+      <phone>01699976047</phone>
+      <address>số 111, đường 20, Dương Quảng Hàm, phường 5, quận Gò Vấp</address>
+      <city>30</city>
+      <dob>1995-10-31</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472218197</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1472218197</last_signin>
+      <day>31</day>
+      <month>10</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8326381</lat>
+      <lng>106.6857765</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_222>
+      <id>222</id>
+      <school>Đại học Tài chính - Marketing</school>
+      <degrees>Đại học- Chính quy</degrees>
+      <fieldofstudy>Tài chính Bảo hiểm và Đầu tư</fieldofstudy>
+      <from>2013</from>
+      <to>2017</to>
+    </n_222>
+  </education>
+  <experience>
+    <n_307>
+      <id>307</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Công ty TNHH Hicafe</cmpname>
+      <city>Tp Hồ Chí MInh</city>
+      <country>Việt Nam</country>
+      <from>01/2014</from>
+      <to>03/2015</to>
+    </n_307>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>1387</ui>
+      <title>nhân viên phục vụ, chăm sóc khách hàng</title>
+      <experience>7</experience>
+      <category>14,15,26,30</category>
+      <type>4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>kỹ năng chăm sóc khách hàng, tinh thần làm việc nhóm, trung thực, nhiệt tình, giao tiếp hiệu quả và tinh thần trách nhiệm cao</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>162</strjo>
+  </appliedjob>
+</information>

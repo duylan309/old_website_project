@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4941</id>
+      <email>adamvo1590@gmail.com</email>
+      <username/>
+      <name>Võ Văn Thái</name>
+      <im>1475596368_vo-van-thai.png</im>
+      <gender>1</gender>
+      <phone>01212511101</phone>
+      <address>Quốc Lộ 50 xã bình Hưng huyện Bình Chánh </address>
+      <city>30</city>
+      <dob>1995-9-19</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475596368</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>19</day>
+      <month>9</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7221673</lat>
+      <lng>106.6558047</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Phụ bếp</title>
+      <experience>1</experience>
+      <category>14,20</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>Phụ bếp </skill>
+      <ui>4941</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Có kinh nghiệm phum bếp nhà hàng hoa</about>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>139</strjo>
+  </appliedjob>
+  <experience>
+    <n_1032>
+      <id>1032</id>
+      <title>phụ bếp</title>
+      <level>1</level>
+      <cmpname>Windsor Plaza Hottel</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>10/2015</from>
+      <to>7/2016</to>
+    </n_1032>
+  </experience>
+</information>

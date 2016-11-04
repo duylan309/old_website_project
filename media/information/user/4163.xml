@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4163</id>
+      <email>Ferrari.huy@gmail.com</email>
+      <username/>
+      <name>NGUYỄN ĐÌNH HUY</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0987568903</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1474991699</created>
+      <dayleft>1477583699</dayleft>
+      <page>1</page>
+      <is_received_email>1</is_received_email>
+      <last_signin>1474991699</last_signin>
+      <jobleft>3</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>2</total>
+    <strji>355,405</strji>
+  </totalJob>
+</information>

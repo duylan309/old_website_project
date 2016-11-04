@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7039</id>
+      <email>megakten@gmail.com</email>
+      <username/>
+      <name>Đặng Quang Thiết</name>
+      <im>1477035881_dang-quang-thiet.png</im>
+      <gender>1</gender>
+      <phone>0903038112</phone>
+      <address>118/1/6 Nguyên Hồng , Phường 1 , quận Gò Vấp</address>
+      <city>30</city>
+      <dob>1998-10-4</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477035881</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>4</day>
+      <month>10</month>
+      <year>1998</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.819067</lat>
+      <lng>106.690066</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bếp , bán hàng</title>
+      <experience>7</experience>
+      <category>14,15,16,17,19,28,29,31,35</category>
+      <type>6</type>
+      <level>1,2</level>
+      <lang>en</lang>
+      <skill>Giao tiếp lắng nghe chia sẻ</skill>
+      <ui>7039</ui>
+      <s1>3000000</s1>
+      <salary>1</salary>
+      <about>18 tuổi , trẻ trung , năng động , hoạt bát , nói nhiều , thích giúp đỡ mọi người , thích bán hàng và các công việc kinh doanh</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>19</total>
+    <strjo>323,260,188,131,348,343,183,474,267,466,268,427,193,219,487,184,496,408,482</strjo>
+  </appliedjob>
+  <education>
+    <n_1156>
+      <id>1156</id>
+      <school>Đại học bách khoa TP.HCM</school>
+      <degrees>Tốt nghiệp THPT</degrees>
+      <fieldofstudy/>
+      <from>9/2013</from>
+      <to>9/2016</to>
+    </n_1156>
+  </education>
+</information>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3215</id>
+      <email>maiphuong.pv@gmail.com</email>
+      <username/>
+      <name>Phạm Vũ Mai Phương</name>
+      <im>1226210317399499_maiphuong-pv.jpg</im>
+      <gender>2</gender>
+      <dob>1994-10-3</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474421425</created>
+      <day>3</day>
+      <month>10</month>
+      <year>1994</year>
+      <last_signin>1474421425</last_signin>
+      <phone>0989960090</phone>
+      <address>69/42 D2, F25, Bình Thạnh</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8061195</lat>
+      <lng>106.7070369</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_719>
+      <id>719</id>
+      <title>Customer Service Assistant</title>
+      <level>1</level>
+      <cmpname>Gras Sayoye Willis Vietnam</cmpname>
+      <city>HCM</city>
+      <country>VN</country>
+      <from>6/2016</from>
+      <to>8/2016</to>
+    </n_719>
+  </experience>
+  <education>
+    <n_531>
+      <id>531</id>
+      <school>Foreign Trade University </school>
+      <degrees>Bachelor</degrees>
+      <fieldofstudy>International Economics</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_531>
+  </education>
+  <user_cv>
+    <db>
+      <ui>3215</ui>
+      <title>Nhân viên phục vụ </title>
+      <experience>1</experience>
+      <category>14,15,17,27,29,31</category>
+      <type>2,5,6</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Hiện tại tôi muốn tìm công việc bán thời gian để kiếm thêm thu nhập. Tôi rất thích làm việc trong môi trường giao tiếp với mọi người, với khách hàng.</about>
+      <skill>Giao tiếp tốt bằng tiếng Việt, tiếng Anh.&#13;
+Kỹ năng làm việc nhóm, quản lí thời gian</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>211</strjo>
+  </appliedjob>
+</information>

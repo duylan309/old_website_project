@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7345</id>
+      <email>milan.bui2407@gmail.com</email>
+      <username/>
+      <name>Bùi Thị Yến Ngân</name>
+      <im>1477193486_bui-thi-yen-ngan.png</im>
+      <gender>2</gender>
+      <phone>0937121466</phone>
+      <address>Hiep Bình Thủ Đức</address>
+      <city>30</city>
+      <dob>1987-7-24</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477193485</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>24</day>
+      <month>7</month>
+      <year>1987</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8454029</lat>
+      <lng>106.7261562</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bếp bánh</title>
+      <experience>2</experience>
+      <category>14,20</category>
+      <type>4,5</type>
+      <level>4,5</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>7345</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about/>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>418</strjo>
+  </appliedjob>
+  <education>
+    <n_1194>
+      <id>1194</id>
+      <school>Đại Học Kinh Tế</school>
+      <degrees>Cử Nhân</degrees>
+      <fieldofstudy>Tài Chính</fieldofstudy>
+      <from>2006</from>
+      <to>2010</to>
+    </n_1194>
+  </education>
+</information>

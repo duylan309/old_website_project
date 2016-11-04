@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3011</id>
+      <email>phammaithi163@gmail.com</email>
+      <username/>
+      <name>Phạm Thị Mai Thi</name>
+      <im>1474181451_pham-thi-mai-thi.png</im>
+      <gender>2</gender>
+      <phone>0935503058</phone>
+      <address>99/14/29 đường 41 phường 6 quận 4</address>
+      <city>30</city>
+      <dob>1997-7-29</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474181451</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>29</day>
+      <month>7</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7595877</lat>
+      <lng>106.7017314</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên bán hàng</title>
+      <experience>1</experience>
+      <category>35</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill>không có</skill>
+      <ui>3011</ui>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about>Nhanh Nhẹn</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>4</total>
+    <strjo>253,219,266,130</strjo>
+  </appliedjob>
+</information>

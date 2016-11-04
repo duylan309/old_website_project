@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>4187</id>
+      <email>Nguyenyennhi0405@gmail.com</email>
+      <username/>
+      <name>Nguyễn Yến Nhi</name>
+      <im>1237901926254537_nyn-nynn.jpg</im>
+      <gender>2</gender>
+      <dob>1997-5-4</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1475022635</created>
+      <day>4</day>
+      <month>5</month>
+      <year>1997</year>
+      <last_signin>1475022635</last_signin>
+      <phone>0906659039</phone>
+      <address>17/48a Mễ Cốc P15 Q8</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7343637</lat>
+      <lng>106.6360242</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_887>
+      <id>887</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Đà Lạt phố</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>Tháng 7</from>
+      <to>Tháng 8</to>
+    </n_887>
+    <n_888>
+      <id>888</id>
+      <title>Nhân viên phục vụ</title>
+      <level>1</level>
+      <cmpname>Trà sữa Yan ( đã đóng cửa)</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>Tháng 6</from>
+      <to>Tháng 8</to>
+    </n_888>
+    <n_889>
+      <id>889</id>
+      <title>Nhân viên bán hàng Sale ( thời vụ)</title>
+      <level>1</level>
+      <cmpname>Hoàng Phúc International</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>Việt Nam</country>
+      <from>28/12/2015</from>
+      <to>3/1/2016</to>
+    </n_889>
+  </experience>
+  <user_cv>
+    <db>
+      <ui>4187</ui>
+      <title>Barista, nhân viên phục vụ, pha chế, nhân viên bán hàng, nhân viên tư vấn chăm sóc khách hàng</title>
+      <experience>1</experience>
+      <category>15,16,17,19,27,29,30,35</category>
+      <type>2,4,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>2000000</s1>
+      <salary>1</salary>
+      <about>Có tham gia câu lạc bộ ở trường cấp 3 từ lớp 10 tới nay nên đã được hướng dẫn những kĩ năng mềm cơ bản &#13;
+Hiện tại đang làm phó bí thư cho lớp tại trường Đại học và tham gia ban pr của Khoa&#13;
+Đã có chứng chỉ tin học MOS WORD, MOS EXCEL, biết sử dụng photoshop &#13;
+Tiếng Anh cấp B2- Intermidiate&#13;
+Rất yêu thích công việc pha chế, giao tiếp nhiều người&#13;
+Sở thích tập gym và yoga lúc rảnh để cải thiện số kí cao 1m63 nặng 47kg &#13;
+Ưu điểm bản thân: biết lắng nghe sửa đổi, tinh thần làm việc nhóm tốt, có trách nhiệm làm mọi thứ đều đặt tâm, có khả năng chịu được áp lực cao &#13;
+Nhược điểm: hay quên, lâu lâu hơi bị chậm&#13;
+Vẫn đang khắc phục &#13;
+Em mong với các ưu điểm của em em sẽ có thể giúp được nơi em làm việc, trở thành một phần của nơi làm việc, em xin cảm ơn ạ </about>
+      <skill>Kỹ năng giao tiếp, kỹ năng làm việc nhóm, quản lý thời gia, kỹ năng đàm phán, kỹ năng thuyết trình</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+  <education>
+    <n_674>
+      <id>674</id>
+      <school>THPT Hùng Vương</school>
+      <degrees>Tốt nghiệp cấp 3</degrees>
+      <fieldofstudy/>
+      <from>2012</from>
+      <to>2015</to>
+    </n_674>
+    <n_675>
+      <id>675</id>
+      <school>Đại học Tôn Đức Thắng</school>
+      <degrees/>
+      <fieldofstudy>Công Nghệ Sinh Học</fieldofstudy>
+      <from>2015</from>
+      <to>2020</to>
+    </n_675>
+  </education>
+</information>

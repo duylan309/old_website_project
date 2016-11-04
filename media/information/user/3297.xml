@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3297</id>
+      <email>cloudwind89@gmail.com</email>
+      <username/>
+      <name>Le Thi Dieu Y</name>
+      <im>1474514591_le-thi-dieu-y.png</im>
+      <gender>0</gender>
+      <phone>0939936299</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1474514590</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>4</experience>
+      <category>14,15,16</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>en</lang>
+      <skill>Có thể làm thu ngân hoặc pha chế thức uống đơn giản</skill>
+      <ui>3297</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>221</strjo>
+  </appliedjob>
+</information>

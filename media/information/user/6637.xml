@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>6637</id>
+      <email>hungdinhvanqt@gmail.com</email>
+      <username/>
+      <name>Đinh Văn Hưng</name>
+      <im>6637_image001.jpg</im>
+      <gender>1</gender>
+      <phone>01284214217</phone>
+      <address>235/24 Xóm Chiếu, P. 15, Q. 4, TP Hồ Chí Minh</address>
+      <city>30</city>
+      <dob>1989-8-12</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1476759048</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1476759048</last_signin>
+      <day>12</day>
+      <month>8</month>
+      <year>1989</year>
+      <country>vn</country>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.758819</lat>
+      <lng>106.711958</lng>
+    </db>
+  </userinfo>
+  <experience>
+    <n_1327>
+      <id>1327</id>
+      <title>quản lý</title>
+      <level>1</level>
+      <cmpname>jmv coffee</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>việt nam</country>
+      <from>2013</from>
+      <to>2014</to>
+    </n_1327>
+    <n_1328>
+      <id>1328</id>
+      <title>trưởng bar</title>
+      <level>1</level>
+      <cmpname>the coffee factory</cmpname>
+      <city>Hồ Chí Minh</city>
+      <country>việt nam</country>
+      <from>2014</from>
+      <to>2015</to>
+    </n_1328>
+  </experience>
+  <education>
+    <n_1090>
+      <id>1090</id>
+      <school>đại học mở tp. hồ chí minh</school>
+      <degrees>đại học</degrees>
+      <fieldofstudy>quản trị kinh doanh</fieldofstudy>
+      <from>2008</from>
+      <to>2012</to>
+    </n_1090>
+  </education>
+  <user_cv>
+    <db>
+      <ui>6637</ui>
+      <title>Nhân viên pha chế cà phê, trưởng ca</title>
+      <experience>2</experience>
+      <category>14,15,17,35</category>
+      <type>1,2,4</type>
+      <level>2,4,5</level>
+      <lang>vi,en</lang>
+      <s1>5000000</s1>
+      <salary>1</salary>
+      <about></about>
+      <skill> Khả năng giao tiếp với khách hàng tốt.&#13;
+∙ Kỹ năng hoạt động nhóm và quản trị nhóm&#13;
+∙ Khả năng thích ứng cao với môi trường công việc và đồng nghiệp mới.&#13;
+∙ Luôn hòa đồng trong công việc và luôn đặt mục tiêu công việc lên hàng đầu.&#13;
+∙ Luôn nhìn nhận, phân tích vấn đề một cách khách quan và tích cực.&#13;
+∙ Thành thạo kỹ năng văn phòng: Word, Excel, Powerpoint và internet.</skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

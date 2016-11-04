@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>270</id>
+      <email>reservation@minhkhanghotel.com</email>
+      <username/>
+      <name>Nguyen Phuc Ha Chau</name>
+      <im/>
+      <gender>0</gender>
+      <phone>0989597990</phone>
+      <address/>
+      <city>0</city>
+      <dob>0000-00-00</dob>
+      <type>1</type>
+      <status>2</status>
+      <created>1467875312</created>
+      <dayleft>1478082773</dayleft>
+      <page>1</page>
+      <jobleft>3</jobleft>
+    </db>
+  </userinfo>
+  <totalJob>
+    <total>2</total>
+    <strji>85,86</strji>
+  </totalJob>
+  <saveuser>
+    <total>5</total>
+    <strui>291,327,292,535,550</strui>
+  </saveuser>
+</information>

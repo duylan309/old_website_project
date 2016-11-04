@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>5192</id>
+      <email>traitimlanh7230@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Thùy Trang</name>
+      <im>5192_1459433966689-4767.jpg</im>
+      <gender>2</gender>
+      <phone>0963738472</phone>
+      <address>66 Trần Văn Danh, p 13, quận Tân Bình</address>
+      <city>30</city>
+      <dob>1995-7-15</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1475777312</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>15</day>
+      <month>7</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.808378</lat>
+      <lng>106.6475481</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ, phụ bếp, nhân viên bán hàng</title>
+      <experience>7</experience>
+      <category>35</category>
+      <type>6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>5192</ui>
+      <s1>3500000</s1>
+      <salary>1</salary>
+      <about>cẩn thận, chăm chỉ, có trách nhiệm, thân thiện, vui vẻ</about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>402,269</strjo>
+  </appliedjob>
+  <education>
+    <n_853>
+      <id>853</id>
+      <school>ĐH Tài Nguyên và Môi Trường TP.HCM</school>
+      <degrees/>
+      <fieldofstudy/>
+      <from>2014</from>
+      <to>2018</to>
+    </n_853>
+  </education>
+</information>

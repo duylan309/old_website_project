@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>375</id>
+    <ui>4755</ui>
+    <ci>373</ci>
+    <ai>0</ai>
+    <ti>Nhân viên bán hàng</ti>
+    <ta/>
+    <le>2</le>
+    <ty>1</ty>
+    <ex>1,2</ex>
+    <sa>1</sa>
+    <sn>0</sn>
+    <s1>4000000</s1>
+    <s2>7000000</s2>
+    <s3>181</s3>
+    <s4>318</s4>
+    <lo/>
+    <co>vn</co>
+    <ca>16,17</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description>Chuyên phụ trách công việc bán lẻ tại Cửa hàng. \r\nSắp xếp và giữ gìn vệ sinh sạch sẽ tại nơi làm việc.\r\nBáo cáo bán hàng hàng ngày cho bộ phận quản lý\r\nQuản lý kho hàng tại cửa hàng bán lẻ\r\nĐặt hàng theo yêu cầu\r\nHỗ trợ sắp xếp trưng bày khi có sự kiện tổ chức tại cửa hàng.\r\n\r\nThời gian làm việc:\r\nCa 1; Từ 10h sáng đến 5 giờ chiều.\r\nCa 2; Từ 2 giờ chiều đến 9h tối\r\nĐược nghỉ 1 ngày bất kỳ trong tuần\r\n\r\n\r\n\r\n\r\n</description>
+    <requirement>Nói và giao tiếp tiếng Anh thành thạo. \r\nSiêng năng, ham học hỏi.\r\nBiết sử dụng phần mềm bán hàng. \r\nCó kỹ năng làm việc theo nhóm .\r\n\r\n</requirement>
+    <benefit>Lương cơ bản + hoa hồng theo doanh thu.\r\nĐược đào tạo kỹ năng bán hàng theo định kỳ \r\nĐược đào tạo tìm hiểu về rượu vang bởi chuyên gia người nước ngoài theo định kỳ \r\nMọi chi tiết khác sẽ được trao đổi trực tiếp khi phỏng vấn. \r\n\r\n</benefit>
+    <keyword>Seller,Adviser,retailer,retail,wine,shop,Customer service,Enthusiasm,Team-work,spirits,tastings,Responsibility</keyword>
+    <ad/>
+    <location_id>259</location_id>
+    <lat>0.000000</lat>
+    <lng>0.000000</lng>
+    <de>2016-11-02</de>
+    <re>0000-00-00</re>
+    <cr>1476163127</cr>
+  </db>
+  <more>
+    <requirement>Nói và giao tiếp tiếng Anh thành thạo. &#13;
+Siêng năng, ham học hỏi.&#13;
+Biết sử dụng phần mềm bán hàng. &#13;
+Có kỹ năng làm việc theo nhóm .&#13;
+&#13;
+</requirement>
+    <description>Chuyên phụ trách công việc bán lẻ tại Cửa hàng. &#13;
+Sắp xếp và giữ gìn vệ sinh sạch sẽ tại nơi làm việc.&#13;
+Báo cáo bán hàng hàng ngày cho bộ phận quản lý&#13;
+Quản lý kho hàng tại cửa hàng bán lẻ&#13;
+Đặt hàng theo yêu cầu&#13;
+Hỗ trợ sắp xếp trưng bày khi có sự kiện tổ chức tại cửa hàng.&#13;
+&#13;
+Thời gian làm việc:&#13;
+Ca 1; Từ 10h sáng đến 5 giờ chiều.&#13;
+Ca 2; Từ 2 giờ chiều đến 9h tối&#13;
+Được nghỉ 1 ngày bất kỳ trong tuần&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+</description>
+    <benefit>Lương cơ bản + hoa hồng theo doanh thu.&#13;
+Được đào tạo kỹ năng bán hàng theo định kỳ &#13;
+Được đào tạo tìm hiểu về rượu vang bởi chuyên gia người nước ngoài theo định kỳ &#13;
+Mọi chi tiết khác sẽ được trao đổi trực tiếp khi phỏng vấn. &#13;
+&#13;
+</benefit>
+    <keyword>Seller,Adviser,retailer,retail,wine,shop,Customer service,Enthusiasm,Team-work,spirits,tastings,Responsibility</keyword>
+  </more>
+  <userapplied>
+    <total>5</total>
+    <strui>5907,6778,7101,879,7257</strui>
+  </userapplied>
+</information>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1995</id>
+      <email>tranhoahop.nt@gmail.com</email>
+      <username/>
+      <name>Trần Hòa Hợp</name>
+      <im/>
+      <gender>2</gender>
+      <phone>01224444821</phone>
+      <address>A201 Chung cư Trần Quang Diệu Q3</address>
+      <city/>
+      <dob>1990-5-3</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473137436</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>3</day>
+      <month>5</month>
+      <year>1990</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên hành chính nhân sự, Chăm sóc khách hàng, Tư vấn</title>
+      <experience>2</experience>
+      <category>14,18,20,26,28,35</category>
+      <type>1</type>
+      <level>2</level>
+      <lang>vi,en,ja,fr</lang>
+      <skill>MS Office, customer care, consulting, counselling, clerical work, HR management skills</skill>
+      <ui>1995</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>95,226</strjo>
+  </appliedjob>
+</information>

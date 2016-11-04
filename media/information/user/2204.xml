@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2204</id>
+      <email>Nhd2910@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Mỹ Duyên</name>
+      <im>2204_20160823-204849.jpg</im>
+      <gender>2</gender>
+      <phone>0969029581</phone>
+      <address>377 Phan Văn Trị - Bình  Thạnh</address>
+      <city>30</city>
+      <dob>1997-10-29</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473305293</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>29</day>
+      <month>10</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8158526</lat>
+      <lng>106.6950966</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Bếp chảo</title>
+      <experience>2</experience>
+      <category>14,20,29</category>
+      <type>4</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>2204</ui>
+      <s1>7000000</s1>
+      <salary>1</salary>
+      <about>Với tinh thần không đùng đẩy công việc, chịu khó siêng năng rất mong được nhà tuyển dụng liên hệ phỏng vấn</about>
+      <keyword>Tập trung trong công việc,Chịu được áp lực công việc,Tinh thần làm việc nhóm</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>137,225,153</strjo>
+  </appliedjob>
+</information>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>3160</id>
+      <email>lizzie.1951890@gmail.com</email>
+      <username/>
+      <name>Võ Tường Vi</name>
+      <im>1774253796122780_monique-vi.jpg</im>
+      <gender>2</gender>
+      <dob>1994-5-16</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474357618</created>
+      <day>16</day>
+      <month>5</month>
+      <year>1994</year>
+      <last_signin>1474357618</last_signin>
+      <phone>0932479553</phone>
+      <address>36 Lê Lợi p. Hiệp Phú Q.9 Tp.HCM</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype></skype>
+      <facebook></facebook>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8230989</lat>
+      <lng>106.6296638</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_519>
+      <id>519</id>
+      <school>Đh Khoa học Xã hội &amp; Nhân văn</school>
+      <degrees/>
+      <fieldofstudy>Ngôn ngữ Pháp</fieldofstudy>
+      <from>2012</from>
+      <to>2016</to>
+    </n_519>
+  </education>
+  <user_cv>
+    <db>
+      <ui>3160</ui>
+      <title>Phụ bếp</title>
+      <experience>1</experience>
+      <category>14,17,27,31,36</category>
+      <type>2</type>
+      <level>2</level>
+      <lang>vi,en,fr</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Siêng năng, nhanh nhẹn, vui vẻ, luôn tìm tòi học hỏi</about>
+      <skill></skill>
+      <keyword></keyword>
+    </db>
+  </user_cv>
+</information>

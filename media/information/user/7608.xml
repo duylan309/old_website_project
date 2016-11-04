@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>7608</id>
+      <email>sumaly2841997@gmail.com</email>
+      <username/>
+      <name>Ngô Nguyễn Cát Tiên</name>
+      <im>1477327311_ngo-nguyen-cat-tien.png</im>
+      <gender>2</gender>
+      <phone>01215515305</phone>
+      <address>77 Bàu Cát, quận Tân Bình, Tp Hồ Chí Minh</address>
+      <city>30</city>
+      <dob>1997-4-28</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1477327311</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>28</day>
+      <month>4</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7923608</lat>
+      <lng>106.6427948</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ </title>
+      <experience>7</experience>
+      <category>15,31,35</category>
+      <type>4,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>- Kỹ năng giao tiếp tốt cùng với khiếu hài hước, thân thiện, nhiệt tình.&#13;
+- Kỹ năng sắp xếp và dọn dẹp gọn gàng&#13;
+- Có sức khoẻ tốt&#13;
+- Có trách nhiệm cao đối với công việc.&#13;
+</skill>
+      <ui>7608</ui>
+      <s1>2500000</s1>
+      <salary>1</salary>
+      <about>Tôi tên là Ngô nguyễn Cát Tiên, là sinh viên năm nhất trường đại học Kinh tế TP HCM. Tôi đến từ Huế. Điểm mạnh của tôi là: có khả năng giao tiếp tốt, hoà đồng, năng nổ, nhiệt tình và có khiếu hài hước. Đặc biệt có trách nhiệm cao trong công việc và sức khoẻ tốt. Điểm yếu của tôi là: các kỹ thuật liên quan đến phần mềm máy tính phức tạp. </about>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>323,205,504</strjo>
+  </appliedjob>
+  <education>
+    <n_1236>
+      <id>1236</id>
+      <school>Đại học Kinh tế TP Hồ Chí Minh</school>
+      <degrees/>
+      <fieldofstudy/>
+      <from>2016</from>
+      <to>2020</to>
+    </n_1236>
+  </education>
+  <savedjob>
+    <total>6</total>
+    <strjo>165,408,371,130,202,427</strjo>
+  </savedjob>
+</information>

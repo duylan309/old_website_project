@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1660</id>
+      <email>lainguyenbaotram@gmail.com</email>
+      <username/>
+      <name>Lại Nguyễn Bảo Trâm</name>
+      <im>1660_cv.jpg</im>
+      <gender>2</gender>
+      <phone>0937719030</phone>
+      <address>76 Ngô Tất Tố, phường 19, quận Bình Thạnh</address>
+      <city>30</city>
+      <dob>1995-5-17</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472719644</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <is_received_email>0</is_received_email>
+      <last_signin>1472719644</last_signin>
+      <day>17</day>
+      <month>5</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7930898</lat>
+      <lng>106.7102346</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <ui>1660</ui>
+      <title>Nhân viên bán hàng, nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>15,17</category>
+      <type>2,6</type>
+      <level>1</level>
+      <lang>vi,en</lang>
+      <s1>0</s1>
+      <salary>1</salary>
+      <skill/>
+      <keyword>Tinh thần trách nhiệm,Tập trung trong công việc,Trung thực,Nhiệt tình,Kỹ năng chăm sóc khách hàng,Giao tiếp hiệu quả</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>1</total>
+    <strjo>219</strjo>
+  </appliedjob>
+</information>

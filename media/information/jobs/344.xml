@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <db>
+    <id>344</id>
+    <ui>3340</ui>
+    <ci>350</ci>
+    <ai>0</ai>
+    <ti>Shipper</ti>
+    <ta/>
+    <le>2</le>
+    <ty>2,4,5</ty>
+    <ex>7</ex>
+    <sa>1</sa>
+    <sn>1</sn>
+    <s1>0</s1>
+    <s2>0</s2>
+    <s3>0</s3>
+    <s4>0</s4>
+    <lo>30</lo>
+    <co>vn,for</co>
+    <ca>15,27</ca>
+    <vi>0</vi>
+    <so>0</so>
+    <st>2</st>
+    <pi>0</pi>
+    <la>vi,en</la>
+    <description>Sẽ trao đổi trực tiếp\r\n</description>
+    <requirement>- Nam\r\n- Có xe máy, điện thoại riêng.\r\n- Giao tiếp tốt.\r\n- Trách nhiệm, đúng giờ.\r\n- Có thể làm việc buổi tối.</requirement>
+    <benefit>- Lương 14k/h\r\n- Đăng ký giờ làm tự do, tùy theo việc học của các bạn.\r\n- Đào tạo hướng dẫn pha chế.\r\n- Thưởng doanh thu, phụ cấp tiền giao hàng.</benefit>
+    <keyword>Giao tiếp hiệu quả,Trung thực,Tinh thần trách nhiệm,Tự tin,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+    <ad/>
+    <location_id>209</location_id>
+    <lat>10.769299</lat>
+    <lng>10.769299</lng>
+    <de>2016-10-22</de>
+    <re>0000-00-00</re>
+    <cr>1475288172</cr>
+  </db>
+  <more>
+    <requirement>- Nam&#13;
+- Có xe máy, điện thoại riêng.&#13;
+- Giao tiếp tốt.&#13;
+- Trách nhiệm, đúng giờ.&#13;
+- Có thể làm việc buổi tối.</requirement>
+    <description>Sẽ trao đổi trực tiếp&#13;
+</description>
+    <benefit>- Lương 14k/h&#13;
+- Đăng ký giờ làm tự do, tùy theo việc học của các bạn.&#13;
+- Đào tạo hướng dẫn pha chế.&#13;
+- Thưởng doanh thu, phụ cấp tiền giao hàng.</benefit>
+    <keyword>Giao tiếp hiệu quả,Trung thực,Tinh thần trách nhiệm,Tự tin,Nhiệt tình,Tinh thần làm việc nhóm</keyword>
+  </more>
+  <userapplied>
+    <total>12</total>
+    <strui>4119,4009,4291,2472,4540,4608,4717,4898,3884,4708,5103,6030</strui>
+  </userapplied>
+</information>

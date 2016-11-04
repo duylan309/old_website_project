@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1740</id>
+      <email>transuper10@gmail.com</email>
+      <username/>
+      <name>Minh Trường</name>
+      <im>1740_image.jpeg</im>
+      <gender>1</gender>
+      <dob>0000-00-00</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1472864848</created>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên pha chế/phục vụ</title>
+      <experience>1</experience>
+      <category>14,16,20</category>
+      <type>2,5,6</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill>Pha chế được các loại cà phê Ý và các loại Cocktails cơ bản.&#13;
+Thích nghi khá nhanh và phối hợp đội nhóm tốt.&#13;
+Tiếng anh giao tiếp cơ bản.</skill>
+      <ui>1740</ui>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>162,222,69</strjo>
+  </appliedjob>
+  <experience>
+    <n_377>
+      <id>377</id>
+      <title>Barista</title>
+      <level>1</level>
+      <cmpname>Tiny Garden Coffee shop</cmpname>
+      <city>TP.HCM</city>
+      <country>Việt Nam</country>
+      <from>1/2016</from>
+      <to>4/2016</to>
+    </n_377>
+    <n_378>
+      <id>378</id>
+      <title>Bartender/Waiter</title>
+      <level>1</level>
+      <cmpname>Cowboy Jack’s American Dining</cmpname>
+      <city>TP.HCM</city>
+      <country>Việt Nam</country>
+      <from>4/2016</from>
+      <to>9/2016</to>
+    </n_378>
+    <n_379>
+      <id>379</id>
+      <title>Freelancer</title>
+      <level>1</level>
+      <cmpname>BitKingdom</cmpname>
+      <city>TP.HCM</city>
+      <country>Việt Nam</country>
+      <from>21.8.2016 ( 6AM )</from>
+      <to>21.8.2016 ( 5PM )</to>
+    </n_379>
+  </experience>
+  <education>
+    <n_275>
+      <id>275</id>
+      <school>THPT Gò Vấp</school>
+      <degrees>Tốt Nghiệp</degrees>
+      <fieldofstudy/>
+      <from>2012</from>
+      <to>2015</to>
+    </n_275>
+    <n_276>
+      <id>276</id>
+      <school>Đại Học Văn Lang</school>
+      <degrees/>
+      <fieldofstudy>Khách sạn - Nhà hàng</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_276>
+  </education>
+</information>

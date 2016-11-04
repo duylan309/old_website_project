@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>1342</id>
+      <email>Dung.heo157@gmail.com</email>
+      <username/>
+      <name>Hoàng Thị Ngọc Dung</name>
+      <im>1342_image.jpeg</im>
+      <gender>2</gender>
+      <phone>0935775157</phone>
+      <address/>
+      <city/>
+      <dob>1997-7-15</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1472136522</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>15</day>
+      <month>7</month>
+      <year>1997</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ </title>
+      <experience>7</experience>
+      <category>14,15,17,27,29,35</category>
+      <type>2,5</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <skill/>
+      <ui>1342</ui>
+      <s1>2600000</s1>
+      <salary>1</salary>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>12</total>
+    <strjo>130,127,190,150,105,162,156,64,202,219,268,222</strjo>
+  </appliedjob>
+  <education>
+    <n_217>
+      <id>217</id>
+      <school>Hutech</school>
+      <degrees>Năm 2</degrees>
+      <fieldofstudy>Quản trị kinh doanh</fieldofstudy>
+      <from>2015</from>
+      <to>2019</to>
+    </n_217>
+  </education>
+</information>

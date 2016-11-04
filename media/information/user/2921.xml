@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2921</id>
+      <email>Ngotkngan1992@gmail.com</email>
+      <username/>
+      <name>Ngô thị kim ngân</name>
+      <im>727099250773586_ngan-kim.jpg</im>
+      <gender>2</gender>
+      <dob>1992-10-12</dob>
+      <deactive>0</deactive>
+      <type>2</type>
+      <status>1</status>
+      <created>1474081704</created>
+      <day>12</day>
+      <month>10</month>
+      <year>1992</year>
+      <last_signin>1474081704</last_signin>
+      <phone>0908023518</phone>
+      <address>25/4d đường thái thị giữ quận 12</address>
+      <country>vn</country>
+      <city>30</city>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.8671531</lat>
+      <lng>106.6413322</lng>
+    </db>
+  </userinfo>
+  <education>
+    <n_478>
+      <id>478</id>
+      <school>Trường đại học sài gòn</school>
+      <degrees>Trung cấp</degrees>
+      <fieldofstudy>Mầm Non</fieldofstudy>
+      <from>2011</from>
+      <to>2013</to>
+    </n_478>
+  </education>
+  <user_cv>
+    <db>
+      <ui>2921</ui>
+      <title>Nhân viên phục vụ, pha chế</title>
+      <experience>1</experience>
+      <category>14,15,16,19,20</category>
+      <type>2,4</type>
+      <level>2</level>
+      <lang>vi,en</lang>
+      <s1>4000000</s1>
+      <salary>1</salary>
+      <about>Vui vẻ, hòa đồng. Có trách nhiệm trong công việc </about>
+      <skill>Không có</skill>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>3</total>
+    <strjo>126,151,273</strjo>
+  </appliedjob>
+</information>

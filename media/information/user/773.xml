@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>773</id>
+      <email>phuongnguyen26121995@gmail.com</email>
+      <username/>
+      <name>Nguyễn Thị Đan Phượng</name>
+      <im>773_c360-2016-08-03-19-52-02-821.jpg</im>
+      <gender>2</gender>
+      <phone>01264656682</phone>
+      <address>Tân bình</address>
+      <city/>
+      <dob>1995-12-26</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1471017340</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>26</day>
+      <month>12</month>
+      <year>1995</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>Nhân viên phục vụ</title>
+      <experience>1</experience>
+      <category>15,17,27,31</category>
+      <type>2,6</type>
+      <level>2</level>
+      <lang>vi</lang>
+      <skill/>
+      <ui>773</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <keyword/>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>105,64</strjo>
+  </appliedjob>
+</information>

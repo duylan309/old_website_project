@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <userinfo>
+    <db>
+      <id>2518</id>
+      <email>wangmeijuan1803@gmail.com</email>
+      <username/>
+      <name>Vương Mỹ Quyên</name>
+      <im>1473608255_vuong-my-quyen.png</im>
+      <gender>2</gender>
+      <phone>0906669326</phone>
+      <address>Lê đình cẩn, bình tân</address>
+      <city>30</city>
+      <dob>1996-3-19</dob>
+      <type>2</type>
+      <status>1</status>
+      <created>1473608255</created>
+      <dayleft>0</dayleft>
+      <page>0</page>
+      <day>19</day>
+      <month>3</month>
+      <year>1996</year>
+      <country>vn</country>
+      <skype/>
+      <facebook/>
+      <is_newletter>0</is_newletter>
+      <is_received_email>0</is_received_email>
+      <fb_load_newfeed>1</fb_load_newfeed>
+      <fb_load_photo>1</fb_load_photo>
+      <city_text_vi>Hồ Chí Minh</city_text_vi>
+      <city_text_en>Ho Chi Minh City</city_text_en>
+      <lat>10.7595928</lat>
+      <lng>106.5990114</lng>
+    </db>
+  </userinfo>
+  <user_cv>
+    <db>
+      <title>nhân viên phục vụ, pha chế</title>
+      <experience>1</experience>
+      <category>14,15,16,19,20,29</category>
+      <type>1,2,6</type>
+      <level>2</level>
+      <lang>vi,en,ch</lang>
+      <skill>kỹ năng bán hàng, giao tiếp khách hàng </skill>
+      <ui>2518</ui>
+      <s1>0</s1>
+      <salary>1</salary>
+      <about>Nhanh nhẹn, hoạt bát, vui tính, hòa đồng, thích kết bạn&#13;
+Chịu được áp lực công việc&#13;
+Gọn gàng, vệ sinh&#13;
+Có tính thần làm việc nhóm&#13;
+tập trung trong công việc&#13;
+trung thực , tự tin</about>
+      <keyword>Kỹ năng chăm sóc khách hàng,Chịu được áp lực công việc,Trung thực,Nhiệt tình</keyword>
+    </db>
+  </user_cv>
+  <appliedjob>
+    <total>2</total>
+    <strjo>151,201</strjo>
+  </appliedjob>
+  <savedjob>
+    <total>2</total>
+    <strjo>262,201</strjo>
+  </savedjob>
+</information>
